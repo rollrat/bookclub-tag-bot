@@ -1,0 +1,78 @@
+{
+    "otitle": "사랑의 제철",
+    "oauthor": "이다은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:12 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "사랑의 제철",
+                "link": "https://search.shopping.naver.com/book/catalog/32476036490",
+                "image": "https://shopping-phinf.pstatic.net/main_3247603/32476036490.20221227203733.jpg",
+                "author": "이다은",
+                "discount": "12960",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20171122",
+                "isbn": "9791188469086",
+                "description": "사랑하면 떠오르는 계절이 있을 것이다. 봄처럼 두근거리는 사랑도, 여름처럼 뜨거운 사랑도, 가을처럼 쓸쓸한 사랑도, 겨울처럼 차가운 사랑도. 이 책은 사랑을 알고 있을 또는 사랑을 모르고 있을 모든 사랑을 하게 될 사람을 위한 책이다. 아무리 따져봐도 사랑엔 제철이 없다는 이다은 작가의 말처럼 책을 읽으며, 제철 없는 사랑에 흠뻑 젖어들길 바란다."
+            },
+            {
+                "title": "사랑의 성숙기 사랑의 제철 (뉴 루비코믹스 1263)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485411620",
+                "image": "https://shopping-phinf.pstatic.net/main_3248541/32485411620.20221019141744.jpg",
+                "author": "Seiryou Hyuga",
+                "discount": "4320",
+                "publisher": "현대지능개발사",
+                "pubdate": "20120820",
+                "isbn": "9788927006534",
+                "description": "Seiryo Hyuga의 만화 『사랑의 성숙기 사랑의 제철』. 세이이치는 친구의 결혼식에서 잊을 수 없는 '누군가'를 꼭 닮은 잘 생긴 남자와 부딪힌다. 뒤풀이 자리에서 그와 나란히 않아 이야기를 나누다 결국 술기운에 자신의 성벽…남자밖에 사랑할 수 없는 사실을 털어놓는다. 그러자 그 남자, \"그럼 따라와\"라며 세이이치를 호텔로 끌고 가는데?! 전직 호스트 출신의 농사꾼 이쿠오미와 이슬처럼 순수한 세이이치의 흙투성이 폴링 러브! 동생&호스트 동료의 보너스 만화도 수록!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름출판사",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181203",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이다은",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6404688_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6404688_3.jpg",
+                "PRE_PRICE": "14400",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6404688_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "201 p.",
+                "CONTROL_NO": "CIP2017027793",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188469086",
+                "INPUT_DATE": "20171024",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사랑의 제철",
+                "PUBLISH_PREDATE": "20171122",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

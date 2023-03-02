@@ -1,0 +1,78 @@
+{
+    "otitle": "올리버쌤의 영어 꿀팁",
+    "oauthor": "올리버 샨 그랜트 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:27 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "올리버쌤의 영어 꿀팁 (120만 명이 정주행한 유튜브 최강의 영어 강의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467121117",
+                "image": "https://shopping-phinf.pstatic.net/main_3246712/32467121117.20230219103404.jpg",
+                "author": "올리버 샨 그랜트",
+                "discount": "13320",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20181207",
+                "isbn": "9791162209899",
+                "description": "쉽고 재미있게, 진짜 쓰이는 표현만 콕콕 집어 알려준다!\n\n구독자 100만, 1억 뷰의 유튜브 학습 분야 최고 강의인 올리버쌤의 ‘영어 꿀팁’이 드디어 책으로 출간되었다. 지금까지 올라온 200편 이상의 강의 중 구독자들이 가장 많이 본 100편의 표현을 정리해 담고, 영상 강의에서 미처 알려주지 못한 표현들과 3개 국어에 능통한 올리버 쌤만의 특별한 영어공부법 10가지도 추가로 수록했다. 한국에 대한 남다른 관심으로 열다섯 살 때부터 독학으로 한국어를 익힌 올리버 선생님은 유창한 우리말 실력으로 한국인이 가장 많이 틀리는 표현과 자주 쓰는 어색한 표현을 짚어주고 문화적인 설명을 곁들여 진짜 쓰이는 표현만 콕콕 집어 알려준다."
+            },
+            {
+                "title": "올리버쌤의 실전 영어꿀팁 100 (1억 2천만 뷰를 돌파한 유튜브 최강의 영어 강의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455620897",
+                "image": "https://shopping-phinf.pstatic.net/main_3245562/32455620897.20221019101444.jpg",
+                "author": "올리버 샨 그랜트",
+                "discount": "13320",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20190612",
+                "isbn": "9791190065979",
+                "description": "왕초보도 바로 말하게 되는 쉽고 직관적인 실전 표현이 가득!\n\n쉽고 재미있게 가르쳐서 영포자도 다시 공부하고 싶게 만드는 영어 선생님, 미국·캐나다·호주 등 영어권의 교민과 유학생들이 꼭 챙겨보는 영어 강의, 미드나 미국 영화 보는 즐거움을 더해주는 인강, 초·중학교 영어 교사들이 챙겨 보고 학생들에게도 보여주는 유튜브 채널 등의 찬사를 받는 올리버쌤의  강의를 엮은 두 번째 책이다.  채널은 첫 책 출간 이후 구독자 110만 명, 1억 2천만 뷰를 돌파하며 ‘실전 영어 표현’을 배우려면 반드시 봐야 할 영어 강의로 자리 잡았다. 이번 책에는 한국인의 영어 실력을 한 단계 더 끌어올려줄 영어 꿀팁 100가지와 소통하는 강의를 지향하는 올리버쌤답게 영어 공부에 대한 독자들의 궁금증을 해소하고 자신감을 더해줄 에피소드를 더욱 밀도 있게 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "420",
+                "UPDATE_DATE": "20181213",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "올리버 샨 그랜트 지음",
+                "SERIES_TITLE": "",
+                "KDC": "740",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7002566_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7002566_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "143*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "379 p.",
+                "CONTROL_NO": "CIP2018036789",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162209899",
+                "INPUT_DATE": "20181113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "올리버 쌤의 영어 꿀팁",
+                "PUBLISH_PREDATE": "20181207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

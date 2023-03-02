@@ -1,0 +1,67 @@
+{
+    "otitle": "아프다면 만성염증 때문입니다",
+    "oauthor": "이케타니 도시로 저/오시연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아프다면 만성염증 때문입니다 (의사가알려주는이유없이붓고,아프고,무거운몸을낫게하는최강의염증치료법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473349453",
+                "image": "https://shopping-phinf.pstatic.net/main_3247334/32473349453.20221019152139.jpg",
+                "author": "이케타니 도시로",
+                "discount": "12600",
+                "publisher": "보누스",
+                "pubdate": "20190405",
+                "isbn": "9788964943724",
+                "description": "뚜렷한 병명은 없는데 몸이 붓고, 쑤시고, 피곤하지 않은가. 바로 몸의 기능을 저하시키는 만성염증 때문이다. 특정 부위에 생긴 염증은 혈관을 타고 온몸으로 퍼져 암이나 심근경색처럼 심각한 병을 만든다. 이 책에서는 약에 의존하지 않고 만성염증을 억제하는 방법을 소개한다. 식생활을 개선하고 3분 체조를 매일 실천하면 누구나 만성염증 없이 건강하게 살 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보누스",
+                "DDC": "",
+                "UPDATE_DATE": "20190327",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이케타니 도시로 지음 ;오시연 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "511.843",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/27/9788964943724.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "211 p.",
+                "CONTROL_NO": "CIP2019007469",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964943724",
+                "INPUT_DATE": "20190219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "아프다면 만성염증 때문입니다",
+                "PUBLISH_PREDATE": "20190405",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

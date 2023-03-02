@@ -1,0 +1,67 @@
+{
+    "otitle": "몸이 말이 될 때",
+    "oauthor": "안희제,이다울 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "몸이 말이 될 때 (우리의 세계를 넓히는 질병의 언어들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436450624",
+                "image": "https://shopping-phinf.pstatic.net/main_3243645/32436450624.20230131164816.jpg",
+                "author": "안희제^이다울",
+                "discount": "12150",
+                "publisher": "동녘",
+                "pubdate": "20220425",
+                "isbn": "9788972970262",
+                "description": "동녘이 펴내는 편지 시리즈 ‘맞불’\n노지양X홍한별, 안희제X이다울, 이라영X전범선, 이현정X하미나…\n지금 가장 뜨겁고 빛나는 작가들의 편지!\n\n동녘에서 펴내는 편지 시리즈 ‘맞불’은 마주보며 타오르는 불처럼 두 작가가 주고받는 대화가 피워내는 미덥고 빛나는 이야기들입니다. 번역가 노지양X홍한별이 지핀 첫 번째 맞불,《우리는 아름답게 어긋나지》(2022년 3월 출간)에 이어 안희제X이다울이《몸이 말이 될 때》를 펴내며 두 번째 맞불을 지핍니다. 90년대생 만성질환자들의 호쾌한 대화가 질병과 장애, 몸을 대하는 우리의 세계를 새롭게 넓힐 것입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20220527",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "지으닝: 안희제,이다울",
+                "SERIES_TITLE": "맞불 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788972970279",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "241 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788972970262",
+                "INPUT_DATE": "20220323",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "몸이 말이 될 때",
+                "PUBLISH_PREDATE": "20220425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 왜 너가 아니고 나인가",
+    "oauthor": "시애틀 추장 등저/류시화 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 왜 너가 아니고 나인가 (인디언 연설문집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490348612",
+                "image": "https://shopping-phinf.pstatic.net/main_3249034/32490348612.20230224102535.jpg",
+                "author": "시애틀 추장",
+                "discount": "25380",
+                "publisher": "더숲",
+                "pubdate": "20170922",
+                "isbn": "9791186900345",
+                "description": "수만 년 전부터 '거북이섬'이라 불린 북미 대륙에서 살아온 아메리카 원주민들의 삶과 문화에 대한 이야기이다. 총과 병균과 종교를 앞세우고 쳐들어 온 백인들에게 터전을 빼앗기고 물러가면서 그들이 남긴 명연설들을 모은 것이다. 단순하면서도 시적인 그들의 연설은 오만한 백인 문명의 허구뿐 아니라 오늘을 사는 우리의 삶과 정신세계를 날카롭게 지적하고 있다. \n\n\n\n류시화 시인이 수집하고 우리말로 옮긴, 아메리카 인디언 역사에 길이 남을 41편의 명연설과 해설, 그리고 그들이 남긴 희귀한 어록까지 총망라하고 있다. 또한 평생 아메리카 인디언의 모습을 촬영한 에드워드 커티스의 뛰어난 사진들과 독특한 인디언 달력까지 담고 있어 인디언에 대한 거의 모든 것을 집대성한 책이라 할 수 있다. \n\n\n\n15년에 걸친 오랜 집필 기간과 방대한 양의 자료 수집을 통해 이뤄낸 결과물이다. 1993년 첫 발간 이후 개정을 거듭하여 900쪽에 이르는 방대한 작업이 되었으며, 많은 사람들이 인생에서 꼭 읽어야 할 책으로 꼽을 만큼 인디언들의 북소리처럼 울림이 큰 책이다. 2010년 절판된 이후 수많은 독자들이 재출간을 기다려 온 책이기도 하다.\n\n\n\n시애틀 추장, 조셉 추장, 앉은 소, 구르는 천둥, 빨간 윗도리, 검은 새, 열 마리 곰… 이들은 자신들의 삶의 방식을 지키기 위해 끝까지 싸운 위대한 인디언 전사들이다. 이들의 연설문 속에는 자신들의 세계와 생명의 근원인 대지가 여지없이 파괴되는 것을 지켜보던 인디언들의 슬픔과 지혜, 그리고 비굴하지 않은 당당한 종말이 그대로 녹아 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더숲",
+                "DDC": "970.00497",
+                "UPDATE_DATE": "20171017",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "시애틀 추장 외 [지음] ;류시화 엮음",
+                "SERIES_TITLE": "",
+                "KDC": "940.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6349503_3.jpg",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6349503_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "141*206",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "902 p.",
+                "CONTROL_NO": "CIP2017022968",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186900345",
+                "INPUT_DATE": "20170905",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 왜 너가 아니고 나인가",
+                "PUBLISH_PREDATE": "20170922",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "내 마음의 균형을 찾아가는 연습",
+    "oauthor": "레이첼 켈리 저/신솔잎 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 마음의 균형을 찾아가는 연습 (일.사랑.관계 때문에 괴로운 당신을 위한 52개의 작은 습관들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455450016",
+                "image": "https://shopping-phinf.pstatic.net/main_3245545/32455450016.20221230071729.jpg",
+                "author": "레이첼 켈리",
+                "discount": "10350",
+                "publisher": "빌리버튼",
+                "pubdate": "20181219",
+                "isbn": "9791188545384",
+                "description": "더 타임스 기자이자 이 책의 저자는 오랜 시간 우울증을 심하게 앓았다. 의욕이 사라진 날들을 이겨내기 위해 저자는 자신의 마음을 담은 일기와 자신에게 혹은 타인에게 편지를 썼다. 마음의 불안함과 싸워 이겨내는 과정은 너무나 힘겹고 괴로웠다. 그러나 작가는 포기하지 않으며 글쓰기를 통해 우울증을 떨쳐냈다. 이후 또다시 우울증으로 무너지지 않기 위해, 나아진 지금의 마음 상태를 유지하기 위해 저자는 1년간 수많은 방법을 시도했다. 살면서 우리가 흔히 맞닥트리게 되는 관계, 일, 가족 등의 삶의 지점에서 겪게 되는 다양한 심리적 곤란을 어떻게 조율하는지에 대한 지혜로운 52가지의 방법들을 소개하고 있다. 저자가 알려주는 52가지의 작은 습관들은 따라 하기 아주 쉽다. 이라는 매체는 이 책을 ‘어렵사리 얻은 지혜를 나눠주는 책’이라고 평하기도 했다. 어쩌면 산다는 것은 고통을 감내해야 하는 일인지도 모른다. 이 책을 읽고 저자가 알려준 방법들을 따라 하다 보면 잠시나마 구름 위를 걷는 듯한 행복한 감정을 느낄 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "818.6",
+                "UPDATE_DATE": "20181228",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "레이첼 켈리 지음 ;신솔잎 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "848",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7035099_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7035099_3.jpg",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7035099_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "114*185",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "244 p.",
+                "CONTROL_NO": "CIP2018039208",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188545384",
+                "INPUT_DATE": "20181129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "내 마음의 균형을 찾아가는 연습",
+                "PUBLISH_PREDATE": "20181219",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "모르면 당하고 알면 이기는 자동차 법률 상식",
+    "oauthor": "최진석,김학무 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "자동차 법률 상식 (모르면 당하고 알면 이기는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503968681",
+                "image": "https://shopping-phinf.pstatic.net/main_3250396/32503968681.20220527062613.jpg",
+                "author": "최진석^김학무",
+                "discount": "0",
+                "publisher": "한국경제신문사",
+                "pubdate": "20150508",
+                "isbn": "9788947540117",
+                "description": "손해보지 않는 자동차 법률 완벽 가이드!\n\n자동차 사고가 났을 때는 경황이 없어 제대로 상황을 추스르기 쉽지 않다. 이후 사고 처리에도 딱딱한 법률 용어가 나오면 어려워서 당황하고 움츠러들기 마련이다. 『자동차 법률 상식』는 이런 이들에게 자동차 전문 기자와 교통사고 전문 변호사가 실제 사건 판례를 토대로 교통사고 대처법, 운전을 하면서 맞닥뜨릴 수 있는 다양한 상황 대처법을 일러준다. \n\n자동차 사고 대처법에 대해 얼마나 알고 있는가? 교통사고, 경찰에 꼭 신고해야 하는지, 손해배상금은 어떻게 산정되는지, 치료비는 어느 범위까지 인정되며 위자료는 어떻게 결정지 등 적절한 교통사고 대처를 위한 핵심적인 정보를 알려준다. 또한 중고차 구입 시 침수차 또는 사고차를 가려내는 법이라든가, 카셰어링 서비스와 자동차 튜닝에 대한 정보, 그리고 자동차 보험 절약하는 방법 등등 알아두면 절대 손해 보지 않을 자동차 필수상식 또한 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한경BP,",
+                "DDC": "",
+                "UPDATE_DATE": "20150529",
+                "EA_ADD_CODE": "13550",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "최진석,김학무 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947540117",
+                "INPUT_DATE": "20150529",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(모르면 당하고 알면 이기는) 자동차 법률 상식 ",
+                "PUBLISH_PREDATE": "20150508",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

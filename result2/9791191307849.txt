@@ -1,0 +1,67 @@
+{
+    "otitle": "세계 문화 여행 핀란드",
+    "oauthor": "테르투 레니,엘레나 배럿 저/권은현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계 문화 여행: 핀란드 (세계의 풍습과 문화가 궁금한 이들을 위한 필수 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466933074",
+                "image": "https://shopping-phinf.pstatic.net/main_3246693/32466933074.20221019105458.jpg",
+                "author": "테르투 레니^엘레나 배럿",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20211011",
+                "isbn": "9791191307849",
+                "description": "핀란드의 풍습, 역사, 문화, 생활, 삶\n\n이 책은 『세계 문화 여행』 시리즈의 핀란드편으로 핀란드의 풍습, 역사, 문화, 생활, 삶에 대한 전반적인 내용을 다루고 있다. 사업차 핀란드를 방문하든 단순한 여행이든, 핀란드에서 더욱 풍성하고 기억에 남는 시간을 보내는 데 많은 도움이 될 것이다. 이 책에는 핀란드 현지 풍습과 전통, 역사와 종교와 정치, 핀란드인의 가정과 직장과 여가, 의식주, 의사소통 등에 대한 내용이 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211026",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "테르투 레니,엘레나 배럿 지음 ;권은현 옮김",
+                "SERIES_TITLE": "세계 문화 여행",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788984459113",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "236",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191307849",
+                "INPUT_DATE": "20210927",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "핀란드",
+                "PUBLISH_PREDATE": "20211011",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

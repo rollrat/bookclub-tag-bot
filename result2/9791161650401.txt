@@ -1,0 +1,78 @@
+{
+    "otitle": "여행영어 100일의 기적",
+    "oauthor": "문성현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:29 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "여행영어 100일의 기적 (해외여행 준비 D-100 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441514682",
+                "image": "https://shopping-phinf.pstatic.net/main_3244151/32441514682.20230223071203.jpg",
+                "author": "문성현",
+                "discount": "10370",
+                "publisher": "넥서스",
+                "pubdate": "20170615",
+                "isbn": "9791161650401",
+                "description": "해외여행 준비 D-100 프로젝트. 여행을 준비하면서 또는 여행지에서 만날 수 있는 100가지 상황별 표현들을 정리하였다. 여행영어 필수단어와 함께 여행 도우미 꿀팁도 알려준다. 여행영어의 포인트를 잡는 데 도움이 되는 저자 해설강의와 원어민 MP3파일을 무료로 제공한다. 해설강의와 MP3파일은 휴대폰으로 책 속의 QR코드를 인식하거나 팟빵(podbbang.com), 넥서스 홈페이지(nexusbook.com), 콜롬북스 어플을 통해 들을 수 있다."
+            },
+            {
+                "title": "여행영어 100일의 기적 생존북 (여행이 쉬워지는 해외여행 필수품 | 플라스틱북, 스프링북, 1000문장 MP3)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485534663",
+                "image": "https://shopping-phinf.pstatic.net/main_3248553/32485534663.20230131164753.jpg",
+                "author": "문성현",
+                "discount": "12150",
+                "publisher": "넥서스",
+                "pubdate": "20191227",
+                "isbn": "9791161658285",
+                "description": "해외여행에서 모든 상황에 대비하여 바로바로 꺼내 말할 수 있는 표현 1,000문장을 수록하였다. 우리말/원어민 MP3를 통해서 쉽게 발음과 표현을 확인할 수 있다. 또한 휴대가 쉽도록 한 손에 들어오는 크기, 방수가 되는 플라스틱 재질, 쫙 펼쳐지는 스프링 제본, 상황별 인덱스를 제공하고 있어 해외여행이 전혀 두렵지 않고 여행을 2배로 즐길 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20170703",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "문성현",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "272",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161650401",
+                "INPUT_DATE": "20170530",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "여행영어 100일의 기적",
+                "PUBLISH_PREDATE": "20170615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "빛의 양자컴퓨터",
+    "oauthor": "후루사와 아키라 저/채은미 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빛의 양자컴퓨터 (광양자컴퓨터의 원리와 이론 그리고 실현을 향한 여정)",
+                "link": "https://search.shopping.naver.com/book/catalog/32452378637",
+                "image": "https://shopping-phinf.pstatic.net/main_3245237/32452378637.20221019120710.jpg",
+                "author": "후루사와 아키라",
+                "discount": "12960",
+                "publisher": "동아시아",
+                "pubdate": "20210804",
+                "isbn": "9788962623819",
+                "description": "혁신적인 광양자컴퓨터 실현의 \n초읽기는 이미 시작되었다!\n\n세계 최초로 양자텔레포테이션에 성공한 도쿄대(東京大) 후루사와 아키라 교수가\n직접 소개하는 양자컴퓨터의 혁신 기술"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "",
+                "UPDATE_DATE": "20210902",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "후루사와 아키라 지음 ;채은미 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "195 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962623819",
+                "INPUT_DATE": "20210721",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "빛의 양자컴퓨터",
+                "PUBLISH_PREDATE": "20210804",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

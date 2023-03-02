@@ -1,0 +1,67 @@
+{
+    "otitle": "어느 날 갑자기 무기력이 찾아왔다",
+    "oauthor": "클라우스 베른하르트 저/추미란 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어느 날 갑자기 무기력이 찾아왔다 (우울증과 번아웃 사이에서 허우적대는 당신에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472123670",
+                "image": "https://shopping-phinf.pstatic.net/main_3247212/32472123670.20221019120433.jpg",
+                "author": "클라우스 베른하르트",
+                "discount": "14220",
+                "publisher": "동녘라이프",
+                "pubdate": "20200520",
+                "isbn": "9788990514776",
+                "description": "아무것도 하기 싫고 하루종일 피곤하다면?\n무기력한 당신을 치유할 우울증·번아웃 필독서!\n\n“나는 우울증일까, 번아웃일까?” 살면서 이런 고민 한 번쯤 해보지 않은 사람도 없다. 그러나 실제로 병원 치료를 받는 일은 극히 드물다. 자신이 우울증인지, 번아웃인지 헷갈리기 때문이다. 이 책은 자신의 상태를 정확히 알고, 각각에 맞는 해결책을 얻고 싶은 독자를 위한 우울증·번아웃 필독서다. 독일에서 심리 클리닉을 운영 중인 저자는 우울증과 번아웃을 약물로만 치료해선 극복할 수 없다고 말하며 누구나 쉽게 따라할 수 있는 방법들을 제시한다. 생활 습관부터 인간관계까지 다각도로 원인을 분석하기 때문에 자신의 문제점을 정확히 찾아낼 수 있는 것도 이 책만의 장점이다. 당신이 지금 우울증과 번아웃으로 고통받고 있다면 이 책이 행복으로 가는 가장 빠르고 유쾌한 지름길이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘라이프",
+                "DDC": "",
+                "UPDATE_DATE": "20200528",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "www.dongnyok.com",
+                "AUTHOR": "클라우스 베른하르트 지음 ;추미란 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "513.8525",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "336 p.",
+                "CONTROL_NO": "CIP2020017436",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990514776",
+                "INPUT_DATE": "20200427",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "어느 날 갑자기 무기력이 찾아왔다",
+                "PUBLISH_PREDATE": "20200520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

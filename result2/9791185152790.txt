@@ -1,0 +1,67 @@
+{
+    "otitle": "번역가 되는 법",
+    "oauthor": "김택규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "번역가 되는 법 (두 언어와 동고동락하는 지식노동자로 살기 위하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473596824",
+                "image": "https://shopping-phinf.pstatic.net/main_3247359/32473596824.20230222101816.jpg",
+                "author": "김택규",
+                "discount": "9000",
+                "publisher": "유유",
+                "pubdate": "20180224",
+                "isbn": "9791185152790",
+                "description": "현실에서 출판 번역가는 어떤 사람이고 어떻게 되는가\n“어떻게 하면 출판 번역가가 될 수 있나요?” 하는 질문을 종종 듣습니다. 다른 한편으로 “번역이 뭐 별거 있어?”라는 말도 자주 듣습니다. 어떤 사람에게는 되고 싶어 마지않는 직업이자 어떤 사람에게는 대수롭지 않은 일을 하는 직업. 저자의 말처럼, 우리는 “외국어의 영향력에서 완전히 벗어나지 못한, 서투르고 생경한 표현에 독서의 흐름이 턱턱 막혀서 ‘도대체 이 책의 번역가는 왜 이 따위야!’라고 짜증이 날 때만 비로소 자신이 번역서를 읽고 있다는 사실을 영 달갑지 않게 의식합니다.” 잘 읽힐 때 번역가는 투명인간이 되고, 우리는 마치 저자의 글을 읽고 있다고 믿습니다.\n외국어를 우리말로 옮겨서 한국인 독자가 읽을 수 있도록 만들어 주는 존재인 번역가는 이렇게 홀대받지만, 외국어로 이루어진 세계를 자신이 선택한 모국어로 다시 만드는 출판 번역은 여전히 많은 사람을 매혹합니다.\n전문 번역가로 20여 년간 일해 온 저자는 출판계의 막막한 현실과 출판계의 일원으로서 번역가가 겪는 어려움을 거침없이 이야기합니다. 저자가 전망하는 미래의 출판계는 꽤나 갑갑합니다. 그럼에도 저자는 고분고분 죽기를 기다릴 수 없다면서, 번역가이자 출판인으로서 자신이 살아온 삶을 말하고 살아갈 앞날을 그립니다. 그리하여 번역가를 꿈꾸는 이에게 현실적인 길을 보여 줍니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유유",
+                "DDC": "418.02",
+                "UPDATE_DATE": "20180319",
+                "EA_ADD_CODE": "04080",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "지은이: 김택규",
+                "SERIES_TITLE": "",
+                "KDC": "701.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6559374_6.txt",
+                "SET_ISBN": "9791185152363",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "144 p.",
+                "CONTROL_NO": "CIP2018005579",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185152790",
+                "INPUT_DATE": "20180215",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "번역가 되는 법",
+                "PUBLISH_PREDATE": "20180224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

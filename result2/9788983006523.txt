@@ -1,0 +1,67 @@
+{
+    "otitle": "버전업! 가장 쉬운 독일어 단어장",
+    "oauthor": "김미선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "버전업 가장 쉬운 중국어 단어장 (일상생활 필수 단어 엄선)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490321674",
+                "image": "https://shopping-phinf.pstatic.net/main_3249032/32490321674.20220527040515.jpg",
+                "author": "서정진",
+                "discount": "0",
+                "publisher": "동양문고",
+                "pubdate": "20090706",
+                "isbn": "9788983006523",
+                "description": "초급에서 중급으로 가는 지름길은 바로 단어!\n쉽고 재미있게 익히는 1200개의 중국어 생활단어!\n\n초급 학습자들을 위한 가장 쉬운 중국어 단어장\n중국어 실력을 좀더 빨리 향상시키고 싶으시다면, 으로 공부하세요! 기본 단어량을 늘리면서 단어의 활용법까지 익히다 보면 중국어 회화가 거침없이 술술 나올 뿐만 아니라 HSK 등 각종 중국어 시험에도 대비할 수 있습니다. \n\n- 출판사 제공"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양문고ㆍ상상공방",
+                "DDC": "",
+                "UPDATE_DATE": "20091110",
+                "EA_ADD_CODE": "13720",
+                "PUBLISHER_URL": "http://www.dongyangbooks.com",
+                "AUTHOR": "서정진,이승우 ;이원준",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788983006523",
+                "INPUT_DATE": "20090619",
+                "SET_EXPRESSION": "",
+                "VOL": "\"[1-2]\"",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "(버전업!) 가장 쉬운 중국어 단어장 ",
+                "PUBLISH_PREDATE": "20090706",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

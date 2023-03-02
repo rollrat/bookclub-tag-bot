@@ -1,0 +1,67 @@
+{
+    "otitle": "부자가 보낸 편지",
+    "oauthor": "혼다 켄 저/권혜미 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부자가 보낸 편지 (돈보다 더 위대한 유산)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455899657",
+                "image": "https://shopping-phinf.pstatic.net/main_3245589/32455899657.20221230073239.jpg",
+                "author": "혼다 켄",
+                "discount": "13500",
+                "publisher": "책이있는풍경",
+                "pubdate": "20190403",
+                "isbn": "9791188041237",
+                "description": "돈보다 더 위대한 유산!\n재벌이었던 할아버지가 남겨주신 것은 ‘돈’이 아닌 ‘9통의 편지’였다!\n\n“나는 인생에서 가장 중요한 것을 너에게 알려줄 생각이다. 너의 직감을 믿고 차례대로 편지를 읽어나가렴.”\n유산 대신 남겨준 9통의 편지를 따라 인생의 비밀을 찾아 떠나는 여행! 부자 할아버지의 보석 같은 인생 수업!\n\n‘삶의 의미’, ‘인간관계’, ‘돈을 대하는 태도’, ‘실패에 대처하는 법’ 등 인생의 숙제와도 같은 물음들에 답을 해주는 할아버지의 편지와 그 편지를 따라가는 청년의 이야기. 우연한 인연을 평생의 자산으로 생각하고, 늘 돈과의 거리를 맞추려 했던 할아버지의 조언을 통해 인생에서 가장 중요한 것이 무엇인지 다시 한번 생각해보게 한다. 마음의 목소리에 귀를 기울이게 하는 깊은 울림을 주는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책이있는풍경",
+                "DDC": "",
+                "UPDATE_DATE": "20190404",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://chaekpung.com",
+                "AUTHOR": "혼다 캔 지음 ;권혜미 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/03/9791188041237.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2019007967",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188041237",
+                "INPUT_DATE": "20190303",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "부자가 보낸 편지",
+                "PUBLISH_PREDATE": "20190403",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

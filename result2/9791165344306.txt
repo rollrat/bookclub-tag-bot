@@ -1,0 +1,67 @@
+{
+    "otitle": "테스터 아이",
+    "oauthor": "김윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "테스터 아이 (A child born with algorithms=Test Ⅰ)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439439888",
+                "image": "https://shopping-phinf.pstatic.net/main_3243943/32439439888.20230217105652.jpg",
+                "author": "김윤",
+                "discount": "12600",
+                "publisher": "팩토리나인",
+                "pubdate": "20211125",
+                "isbn": "9791165344306",
+                "description": "“아이(Ⅰ)가 실행되었습니다.”\n\n자신의 잘못된 선택으로 아이를 잃어버리고 실의에 빠져 있던 주인공 서동성은 친구로부터 A.I 프로그램 테스트를 의뢰받게 된다. 자신과 아내의 알고리즘을 섞어 입력값을 넣던 중, 실수로 로마 숫자 ‘Ⅰ(일)’를 영문 ‘I(아이)’로 읽고 실행한다. 동성은 자신을 닮은 채 태어난 아이를 완벽한 프로그램으로 만들기 위해 노력한다. \n어느 날, 동성은 아이를 오류 없이 ‘키우기’ 위해 틀 안에 가두며 통제하고 있는 자신을 깨닫고 아이에게 자유로운 권한을 부여한다. 그렇게 성장한 아이는 테스트를 마치며 동성에게 메시지(신호)를 남기고 떠나는데…. \n\n인간의 모든 행동이 알고리즘 분석으로 결정되고, 어시스턴트 로봇이 모든 행동을 도와준다면 과연 우리의 삶은 정말로 편리할까? 과연 오류가 없는 것이 맞는 세상일까? 알고리즘에 의하여 선택되는 결정이 정말 옳은 것인가? \n이 책은 어느새 우리 가까이 와 있는 AI의 미래에 대하여 보여주며, 알고리즘에 의하여 선택되는 결정이 옳은 것인지, 오류가 없는 삶이 좋은 삶인지를 ‘테스터 아이’를 통하여 보여준다. 또한, 알고리즘으로 태어난 AI 아이와 아빠와의 관계는 마치 한편의 휴먼 SF 다큐멘터리를 보는듯하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팩토리나인",
+                "DDC": "",
+                "UPDATE_DATE": "20211228",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "지은이: 김윤",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "134*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165344306",
+                "INPUT_DATE": "20211103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "테스터 아이",
+                "PUBLISH_PREDATE": "20211125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

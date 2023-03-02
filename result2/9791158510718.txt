@@ -1,0 +1,67 @@
+{
+    "otitle": "굿 미 배드 미",
+    "oauthor": "알리 랜드 저/공민희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "굿 미 배드 미",
+                "link": "https://search.shopping.naver.com/book/catalog/32504601815",
+                "image": "https://shopping-phinf.pstatic.net/main_3250460/32504601815.20220527033715.jpg",
+                "author": "알리 랜드",
+                "discount": "13320",
+                "publisher": "나무의철학",
+                "pubdate": "20170731",
+                "isbn": "9791158510718",
+                "description": "출간 전 18개국에 판권이 선매되고 2017년 현재까지 23개국에 계약된 알리 랜드의 데뷔작으로 발표하자마자 「가디언」, 「데일리 익스프레스」, 「선데이 익스프레스」, 「데일리 메일」, 「선」 등 유수 언론사 추천을 받았으며 「사이콜로지 매거진」 이달의 책에 선정되었다. \n\n\n\n보호 시설에서 지내는 여성의 아이들을 데려다 차례로 학대하고 목숨을 앗은 살인마 어머니에게서 도망친 뒤 완전히 새롭게 살기를 바라는 소녀가 자신의 과거와 현재 그리고 미래에 대해 때로는 담담하고 때로는 불안하게 이야기하는 소설이다.\n\n\n\n열다섯 살 소녀 애니는 아이 아홉 명을 살해한 엄마를 경찰에 신고한다. 애니의 엄마는 '위로 여덟 계단, 그리고 또 네 계단' 올라가 '오른쪽에 있는 문'을 열면 나타나는 방을 '놀이방'이라고 부르며 그 안에 아이들을 가둬두었다가 죽였다. 그녀는 애니가 벽에 난 구멍으로 방 안에서 일어나는 일을 지켜보게 하며 애니를 그 '이'에 참여시키고 아이를 죽이고 나면 애니에게 뒤처리를 맡겼다. \n\n\n\n어릴 때부터 엄마에게 철저히 순응하도록 훈육된 애니는 살해당한 아이들에 대한 연민과 죄책감, 아이들이 죽어가는 동안 아무것도 할 수 없었다는 무력감을 느끼는 한편 상습적인 학대의 또 다른 대상으로서 다음 차례는 자기가 될지도 모른다는 두려움에 오랫동안 이어져온 엄마의 악행을 세상에 알린다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무의철학",
+                "DDC": "823.92",
+                "UPDATE_DATE": "20170726",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.tornadobook.com",
+                "AUTHOR": "알리 랜드 지음 ;공민희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6259248_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6259248_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6259248_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "412 p.",
+                "CONTROL_NO": "CIP2017015179",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158510718",
+                "INPUT_DATE": "20170626",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "굿 미 배드 미",
+                "PUBLISH_PREDATE": "20170731",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

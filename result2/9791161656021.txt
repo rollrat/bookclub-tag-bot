@@ -1,0 +1,67 @@
+{
+    "otitle": "그놈의 마케팅",
+    "oauthor": "신영웅 저/빛정(김희정) 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그놈의 마케팅 (저는 가장 세속적인 일을 하는 마케터입니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496138780",
+                "image": "https://shopping-phinf.pstatic.net/main_3249613/32496138780.20221228072316.jpg",
+                "author": "신영웅",
+                "discount": "12420",
+                "publisher": "넥서스BIZ",
+                "pubdate": "20190312",
+                "isbn": "9791161656021",
+                "description": "저는 가장 세속적인 일을 하는 마케터입니다.\n이상하리만큼 특이한 스토리를 가진 ‘그놈’이 \n마케팅, 브랜딩에 대한 모든 것을 까발리다!\n\n공감형 스토리텔링에 기반한 마케팅 책!\n그놈의 마케팅, 그놈의 브랜딩\n이.것.은 브랜드 마케터의 생존기이자 분투기\n\n퍼스널 브랜드 시대, 당신에게는 브랜드가 있나요?\n‘나’의 가치를 더하는 브랜딩 이야기\n프로이직러, 발칙한 기획자가 되다\nMSG 없이 발칙하게 풀어낸 마케터의 파란만장 생존기\n\n“잡스 평전이나 마윈의 글을 읽으며 자괴감이 들었던 이들은 여기로 오라~ \n내가 치유해 줄 테니!”\n\n타고나진 않았지만 썩 괜찮은 마케터로 살아가는 그가 발칙하게 풀어낸 오답노트\n마케터의 재능, 후천적으로 길러보자!\n네이버 홍보실을 거쳐 스타트업 마케터, 미디어 비서관, 선거캠페인 기획자… \n프로이직러이자 브랜드 마케터의 마케팅과 브랜딩 이야기\n\n각 분야별 최고의 사람들과 함께 일하며 다채로운 것들을 습득한 마케터 신영웅! \n‘최고’들과 함께 일하며 배운 것들을 하나씩 풀어놓는다. \n박원순 서울시장의 이미지를 젊고 발랄하게 바꾸는 데 혁혁한 공을 세운, \n디지털 비서관이자 뉴미디어 전문가에게 듣는 마케팅과 브랜드 이야기, 그리고 사람 이야기"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스biz :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20190409",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "신영웅 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/04/9791161656021.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2019007352",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161656021",
+                "INPUT_DATE": "20190226",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "그놈의 마케팅",
+                "PUBLISH_PREDATE": "20190312",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

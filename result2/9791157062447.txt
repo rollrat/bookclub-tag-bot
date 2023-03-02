@@ -1,0 +1,67 @@
+{
+    "otitle": "세상을 움직이는 글쓰기",
+    "oauthor": "이진수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상을 움직이는 글쓰기 (정치 글 쉽게 쓰는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441025988",
+                "image": "https://shopping-phinf.pstatic.net/main_3244102/32441025988.20230207165517.jpg",
+                "author": "이진수 (스테파노)",
+                "discount": "15300",
+                "publisher": "메디치미디어",
+                "pubdate": "20211005",
+                "isbn": "9791157062447",
+                "description": "정치는 말과 글로 하는 싸움이다. 따라서 ‘정치 글’은 정치하는 사람들의 무기다. 《세상을 움직이는 글쓰기》는 정치권에서 일하는 사람들에게 가장 중요하지만 부담스러워하는 글쓰기에 대한 실무적 조언을 제공한다. 국회 질의서, 연설문, 보도자료, SNS까지 ‘정치 글’을 쉽게 쓰는 모든 조언이 이 책에 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211020",
+                "EA_ADD_CODE": "03340",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이진수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "342 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157062447",
+                "INPUT_DATE": "20210913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "세상을 움직이는 글쓰기",
+                "PUBLISH_PREDATE": "20211005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

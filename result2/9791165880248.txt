@@ -1,0 +1,78 @@
+{
+    "otitle": "스마트맨",
+    "oauthor": "박서영 글그림/이루리볼로냐워크숍 기획",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:54 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "스마트맨",
+                "link": "https://search.shopping.naver.com/book/catalog/32466667151",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466667151.20221227205905.jpg",
+                "author": "박서영",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20200828",
+                "isbn": "9791165880248",
+                "description": "이루리 볼로냐 워크숍 기획 그래픽노블\n스마트폰이 툭 떨어지는 순간, \n스마트하던 일상이 와그작 깨진다!\n\n어느 날, 한 소년이 길을 가다가 스마트폰을 떨어뜨립니다. 소년은 스마트폰이 깨졌을까 봐 조마조마하며 스마트폰을 줍지요. 하지만 다행히 스마트폰은 무사했어요. 그런데 화장실에서 거울을 보는 순간, 소년은 기절초풍을 하고 마는데... 과연 소년에겐 무슨 일이 일어난 걸까요? \n『스마트맨』은 웃기면서도 독특하고, 독특하면서도 자꾸자꾸 보고 싶은 신개념 그래픽노블입니다."
+            },
+            {
+                "title": "에델과 어니스트 (모모,거꾸로 흐르는 강,스마트맨,루스 베이더 긴즈버그의 정의를 향한 여정,에델과 어니스트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467008676",
+                "image": "https://shopping-phinf.pstatic.net/main_3246700/32467008676.20230216070934.jpg",
+                "author": "레이먼드 브릭스",
+                "discount": "14400",
+                "publisher": "북극곰",
+                "pubdate": "20220330",
+                "isbn": "9791165881573",
+                "description": "디즈니, 픽사, 지브리의 거장들이 극찬한 애니메이션 원작!\n’눈사람 아저씨’ 레이먼드 브릭스의 부모님을 향한 정확하고 섬세한 사랑\n\n1929년, 창가에서 먼지를 떨던 가정부 에델을 보고, 자전거를 타고 우유를 배달하던 어니스트가 모자를 벗어 인사하며 그들의 운명적인 사랑이 시작된다. 결혼하고, 아이를 낳고, 평화롭게만 살고 싶은 그들의 바람과 달리, 세상은 대공황부터 제2차 세계 대전, 냉전 등의 역사적 사건들로 어지럽기만 하다. 격변의 시대에, 평범한 노동자 계급의 사람들은 자신의 자리에서 무엇을 지킬 수 있고, 또 무엇을 잃어야 했을까. 『에델과 어니스트』는 세대와 시대를 뛰어넘는, 보편적이고 특별한 사랑을 통해 전쟁 속에서도 일상을 지켜내는 품위를 보여준다. \n정확하고 섬세한 관찰자인 레이먼드 브릭스는 부모님의 첫 만남부터 이별까지 이어지는 가족사를 특유의 따듯한 시선으로 유쾌하고 진중하게 그려냈다. 영국 도서상 올해의 일러스트레이션 부문을 수상했으며, 애니메이션으로 제작되어 월트 디즈니, 픽사, 스튜디오 지브리 거장들의 극찬을 받았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20200904",
+                "EA_ADD_CODE": "74800",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "박서영 글·그림",
+                "SERIES_TITLE": "북극곰 그래픽노블 시리즈",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791190300995",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/03/9791165880248.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "216*168",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[113] p.",
+                "CONTROL_NO": "CIP2020028014",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9791165880248",
+                "INPUT_DATE": "20200703",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "스마트맨",
+                "PUBLISH_PREDATE": "20200828",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

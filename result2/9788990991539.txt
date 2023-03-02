@@ -1,0 +1,67 @@
+{
+    "otitle": "최강기획팀장의 기획노트",
+    "oauthor": "노동형 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "최강기획팀장의 기획노트 (성공의 99.9%는 기획력이다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503969102",
+                "image": "https://shopping-phinf.pstatic.net/main_3250396/32503969102.20220521115256.jpg",
+                "author": "노동형",
+                "discount": "0",
+                "publisher": "경향미디어",
+                "pubdate": "20071102",
+                "isbn": "9788990991539",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "경향미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20080609",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "노동형 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990991539",
+                "INPUT_DATE": "20071026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "최강 기획팀장의 기획노트 ",
+                "PUBLISH_PREDATE": "20071102",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

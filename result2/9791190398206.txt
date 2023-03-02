@@ -1,0 +1,67 @@
+{
+    "otitle": "새는 건축가다",
+    "oauthor": "차이진 원 저/박소정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "새는 건축가다 (자연에서 발견한 가장 지적이고 우아한 건축 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463433697",
+                "image": "https://shopping-phinf.pstatic.net/main_3246343/32463433697.20221227205844.jpg",
+                "author": "차이진원",
+                "discount": "15750",
+                "publisher": "현대지성",
+                "pubdate": "20200304",
+                "isbn": "9791190398206",
+                "description": "대자연의 가장 위대한 건축가, 새. 생태 화가의 섬세한 손길로 그려낸 우리 곁 새들의 비밀스러운 사생활. 전 세계적으로 9천여 종의 조류가 각양각색의 둥우리를 만든다. 새 둥우리는 자연의 변화를 그대로 기록하는 대자연의 일기장과도 같다. 둥우리를 살펴보면 새가 어떻게 살아왔는지만이 아니라, 인류가 이제껏 지구에서 어떤 발자취를 남겨왔는지도 알 수 있다.\n\n\n\n연구자이자 생태 화가인 차이진원은 대자연의 건축가라고 할 수 있는 조류가 어떻게 온기 가득한 집을 짓는지 관찰하고 이를 섬세한 손길로 그려냈다. 조류의 조상으로 일컬어지는 공룡부터 까치, 제비 등 익숙한 새는 물론, 둥우리를 바느질하는 새, 자동차만한 둥우리를 짓는 새, ‘깃털 달린 피카소’라 불리는 새까지 신기하고 놀라운 새들의 건축 이야기와 생활상을 한곳에 담았다. 생생하고 아름다운 그림으로 멀고도 가까운 새들을 새로운 눈으로 바라보게 해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20200312",
+                "EA_ADD_CODE": "03490",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "차이진원 글 ·그림 ;박소정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "187 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190398206",
+                "INPUT_DATE": "20200206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "새는 건축가다",
+                "PUBLISH_PREDATE": "20200302",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

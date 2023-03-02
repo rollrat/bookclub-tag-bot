@@ -1,0 +1,67 @@
+{
+    "otitle": "낯선 여행, 떠날 자유",
+    "oauthor": "제삼열,윤현희 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "낯선 여행, 떠날 자유 (볼 수 없는 남편과 걸을 수 없는 아내의 위태롭고 짜릿한 유럽여행기!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466947931",
+                "image": "https://shopping-phinf.pstatic.net/main_3246694/32466947931.20221230071754.jpg",
+                "author": "제삼열^윤현희",
+                "discount": "13320",
+                "publisher": "꿈의지도",
+                "pubdate": "20180420",
+                "isbn": "9791187496809",
+                "description": "『낯선 여행, 떠날 자유』는 1급 시각장애인 남편과 1급 지체장애인 아내의 유럽여행기다. 걸을 수 없는 아내와 보이지 않는 남편이 서로의 눈과 다리가 되어 여행을 떠났다. 비장애인의 동행 없이 1급 장애인끼리 해외여행을 떠난다는 것. 이제까지 우리가 아는 한 이런 여행은 전무했다. 그것은 집 밖을 나서는 순간부터 단 한걸음도 쉽지 않은 과정의 연속이다. 비장애인용 보도로는 갈 수도 없고, 계단 하나만 있어도 절대 이동 불가이며, 택시도 고속버스도 전철도 비행기도, 타고 내리기조차 어느 하나 수월치 않다. 심지어 전동 휠체어의 배터리로 한 번에 이동할 수 있는 거리는 단 12km에 불과하다! 그럼에도 불구하고 그들은 떠났다. 모두의 만류를 뿌리치고, 걱정을 뒤로하고 위태롭지만 짜릿한 여행길에 올랐다. 그들도 남들처럼 여행할 자유가 있으니까!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20180504",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "제삼열,윤현희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "367 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187496809",
+                "INPUT_DATE": "20180315",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "낯선 여행, 떠날 자유 ",
+                "PUBLISH_PREDATE": "20180420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

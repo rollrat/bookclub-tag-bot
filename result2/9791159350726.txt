@@ -1,0 +1,67 @@
+{
+    "otitle": "삶의 어느 순간은 영화 같아서",
+    "oauthor": "이미화 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "삶의 어느 순간은 영화 같아서",
+                "link": "https://search.shopping.naver.com/book/catalog/32442790710",
+                "image": "https://shopping-phinf.pstatic.net/main_3244279/32442790710.20230117164926.jpg",
+                "author": "이미화",
+                "discount": "11700",
+                "publisher": "인디고(글담)",
+                "pubdate": "20201001",
+                "isbn": "9791159350726",
+                "description": "마음 기댈 곳이 필요할 때마다 ‘영화’에게 말을 걸었습니다\n\n영화를 곁에 두고 글을 쓰는 사람, 책과 영화를 잇는 공간을 꾸리는 사람, 이미화의 세 번째 에세이. 크고 작은 선택의 순간마다 마음의 소리를 들여다보게 해주고 주저앉아 울고 싶을 때마다 다시 일어나게 해준 27편의 인생 영화들과 자신의 이야기를 솔직하게 들려준다. \n책에는 인생의 터닝 포인트마다 빙 돌아가는 길만 골라서 택하는 사람의 느리지만 단단한 성장기가 담겨 있다. 부모님 말씀을 잘 듣던 학창 시절을 지나, 인생 최초로 자신의 의지에 따라 예술대로의 전과를 택한 이후의 이야기. 어렵게 입사한 회사를 퇴사하고 진짜 원하는 무언가를 찾고 싶어 선택한 곳 베를린에서 꿈과 현실 차이를 제대로 느끼며 좌절했던 기억. 마음의 중심에 두고 살고 싶은 ‘영화’를 찾아 한국으로 돌아온 후 영화책방의 주인이 되기까지. 어른이 된 이후 삶의 결정적인 순간마다 영화에 기대서 자신에게 맞는 방향을 천천히 찾아왔다는 이미화 작가. 현실을 직시하면서도 꿈에 멀어지지 않는 삶을 위해 매일 조금씩 씩씩하게 걸어가고 있는 그녀의 이야기가 그녀를 꼭 닮은 영화들과 함께 펼쳐진다. \n인생의 길을 실수 없이 찾아야 한다는 생각 때문에 마음이 조급한 사람이라면, 이 책을 읽고 마음에 들어온 영화를 보며 잠시 숨을 고르는 시간을 보내면 좋겠다. 서툴고 초라해도 계속 걸어가려는 마음만 가지고 있다면, 삶 속에서 언젠가 ‘영화 같은 순간’을 만날 수 있을 거라는 진심 어린 응원을 보내는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Indigo(인디고) :글담출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20201027",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.geuldam.com",
+                "AUTHOR": "지은이: 이미화 ;일러스트: 림예",
+                "SERIES_TITLE": "",
+                "KDC": "688.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/09/07/9791159350726.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "122*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "196 p.",
+                "CONTROL_NO": "CIP2020038153",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159350726",
+                "INPUT_DATE": "20200907",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "삶의 어느 순간은 영화 같아서",
+                "PUBLISH_PREDATE": "20201001",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "상대론의 ABC",
+    "oauthor": "후쿠시마 하지메 저/손영수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:43 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "상대론의 ABC (단 두 가지 원리로 모든 것을 알게 된다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436140611",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436140611.20221229072547.jpg",
+                "author": "후쿠시마 하지메",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190225",
+                "isbn": "9788970448640",
+                "description": "단 두 가지 원리로 상대론을 알 수 있다?\n\n상대성이론은 과학을 좋아하는 사람들에게 언제나 인기가 있다. 물리학의 이론 중에서 이만큼 흥미를 갖게 하는 것도 흔치 않다. 그 이유는 아마 시간이나 공간에 대한 의외성, 우주의 구조와의 관련 때문일 것이다. 또 상대성이론이 핵에너지에 대한 기본 법칙을 밝혔다는 점도 사람들의 관심을 끄는 원인일 것이다.\n\n한편 아인슈타인이라고 하는 물리학자의 개성, 휴머니즘과 격동하는 사회의 관계가 사람들을 끌어들이는 점도 간과할 수 없을 것이다. 이토록 인기가 있는 상대성이론이지만, 아이러니하게도 학교의 물리학 수업에서는 상대성이론을 거의 다루지 않는다. 그 이유는 ‘어렵다, 일상적이 못된다, 실용적이 아니다’라는 점에 있을 것이다. 일상적인 것이 아니라는 점은 확실하다. 그러나 나머지 두 가지는 의문이다.\n\n상대성이론만큼 그것을 이해하기 위한 예비지식이 적은 이론도 흔치 않다."
+            },
+            {
+                "title": "상대론의 ABC (단 두 가지 원리로 모든 것을 알게 된다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492180781",
+                "image": "https://shopping-phinf.pstatic.net/main_3249218/32492180781.20220524183547.jpg",
+                "author": "후쿠시마 하지매",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "19930201",
+                "isbn": "9788970441207",
+                "description": "물리학의 이론 중에서 젊은 사람들을 중심으로 가장 인기 있는 것은 상대성이론이다. 그러나 그렇게 관심이 있으면서도 상대성 이론은 이해하기 어렵다는 이유만으로 한 발자국 물러나 있다. 이 책에서는 단 두 가지 원리만으로 상대론을 이해할 수 있다고 제시한다. 이 책은 상대론에 대해 알고 싶어하는 사람들에게 좋은 입문서이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190328",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "후쿠시마 하지메 지음 ;손영수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/12/9788970448640.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "184 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448640",
+                "INPUT_DATE": "20190212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "상대론의 ABC",
+                "PUBLISH_PREDATE": "20190225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

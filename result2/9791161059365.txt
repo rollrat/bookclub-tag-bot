@@ -1,0 +1,67 @@
+{
+    "otitle": "맥락으로 이해하는 사회과학 조사방법론 (2판)",
+    "oauthor": "이종환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "맥락으로 이해하는 사회과학 조사방법론 (제3판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32488134690",
+                "image": "https://shopping-phinf.pstatic.net/main_3248813/32488134690.20221230072222.jpg",
+                "author": "이종환",
+                "discount": "15300",
+                "publisher": "공동체",
+                "pubdate": "20210125",
+                "isbn": "9791161059365",
+                "description": "『사회과학 조사방법론』은 〈과학적 방법과 조사연구〉, 〈연구문제의 형성〉, 〈예비조사〉, 〈개념적 준거틀 및 가설 설정〉, 〈조사설계〉, 〈측정 및 척도〉 등을 수록하고 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "공동체",
+                "DDC": "",
+                "UPDATE_DATE": "20210216",
+                "EA_ADD_CODE": "93330",
+                "PUBLISHER_URL": "http//www.compub.co.kr",
+                "AUTHOR": "저자: 이종환",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "제3판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "265 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161059365",
+                "INPUT_DATE": "20210122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(맥락으로 이해하는) 사회과학 조사방법론",
+                "PUBLISH_PREDATE": "20210125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "태양은 아침에 뜨는 별이다",
+    "oauthor": "장석주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "태양은 아침에 뜨는 별이다 (장석주의 인물 읽기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496161195",
+                "image": "https://shopping-phinf.pstatic.net/main_3249616/32496161195.20221019104505.jpg",
+                "author": "장석주",
+                "discount": "14400",
+                "publisher": "현암사",
+                "pubdate": "20181123",
+                "isbn": "9788932319438",
+                "description": "시인 장석주의 서재 가장 깊은 곳을 차지한 \n열다섯 인물의 고독하고 찬란한 삶\n\n방황하던 젊은 시절의 장석주를 지금의 작가로 이끈 동서고금의 지성 15인에 관한 에세이. 캄캄한 바다를 떠도는 배에게 길을 일러주는 등대처럼 불운과 불행이 흩뿌려진 우리 삶에 깨달음의 빛을 드리워주는 존재들이 있다. 이 책에서 저자는 자신의 삶을 지탱해준 인물들을 소개하며 녹록지 않은 현실과 마주한 오늘의 청년들에게 격려를 보낸다. 저자는 톨스토이, 카뮈, 카프카 등의 작가, 노자, 공자, 붓다 같은 성자(聖者), 니체, 체 게바라, 보부아르, 스콧 니어링 등의 혁명가와 사상가, 화가 프리다 칼로와 기업가 스티브 잡스를 아우르며 세파에 지지 않고 스스로 운명을 개척해낸 이들을 조명한다. \n작가가 2015년 12월부터 2016년 11월까지 《월간중앙》에 한 명씩 소개한 인물들을 중심으로 글을 다듬고 보강해 묶었다. 각 인물의 생애는 참된 삶을 궁구하는 이에게 깨달음을, 지식에 주린 이에게 지혜를, 고통에 잠긴 이에게 공감 어린 위로를 건넨다. 자기 삶의 예술가로서 세계의 지성을 이끈 이들의 자취를 따라가다 보면 우리도 각자 마음속에 별의 지도를 한 장씩 품게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "895.745",
+                "UPDATE_DATE": "20181206",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "지은이: 장석주",
+                "SERIES_TITLE": "",
+                "KDC": "814.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6892236_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6892236_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "CIP2018028426",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932319438",
+                "INPUT_DATE": "20180831",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "태양은 아침에 뜨는 별이다",
+                "PUBLISH_PREDATE": "20181123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

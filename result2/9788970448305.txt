@@ -1,0 +1,78 @@
+{
+    "otitle": "물리학을 뒤흔든 30년",
+    "oauthor": "G. 가모프 저/김정흠 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:29 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "물리학을 뒤흔든 30년 (20세기 물리학 혁명의 산 증언, 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457778886",
+                "image": "https://shopping-phinf.pstatic.net/main_3245777/32457778886.20221227204212.jpg",
+                "author": "G. 가모프",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20180817",
+                "isbn": "9788970448305",
+                "description": "▶ 물리학에 관한 내용을 담은 전문서적입니다."
+            },
+            {
+                "title": "물리학을 뒤흔든 30년 (20세기 물리학 혁명의 산 증언)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436086687",
+                "image": "https://shopping-phinf.pstatic.net/main_3243608/32436086687.20220527054209.jpg",
+                "author": "G.가모프",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "19940410",
+                "isbn": "9788970443294",
+                "description": "이 책은 양자론 발전에 관한 내용을 다루고 있으며, 저자가 양자론 초창기의 발전에 공헌한 여러 학자들과 만나 토론한 이야기의 생생한 산물이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20181114",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "G. 가모프 지음 ;김정흠 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20180817",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "15,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "276 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448305",
+                "INPUT_DATE": "20180810",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "물리학을 뒤흔든 30년",
+                "PUBLISH_PREDATE": "20180817",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "화내서 될 일이 아닙니다",
+    "oauthor": "안도 슌스케 저/김한나 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "화내서 될 일이 아닙니다 (내안의 감정 괴물을 다스리는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462854823",
+                "image": "https://shopping-phinf.pstatic.net/main_3246285/32462854823.20221019132642.jpg",
+                "author": "안도 순스케",
+                "discount": "11670",
+                "publisher": "유노북스",
+                "pubdate": "20180618",
+                "isbn": "9791189279011",
+                "description": "화가 나는 순간의 태도가 당신을 만든다!\n\n10여 년간 ‘앵거 매니지먼트’라는 심리 기술로 9만여 명의 부정적 감정을 잠재워 온 분노 조절 전문가 안도 순스케의 『화내서 될 일이 아닙니다』. 이 책은 화내지 못해 안달인 박 대리와 일도 잘하고 인간관계도 좋은 최 대리, 그 밖에 인물들이 등장해 여러 사례에서 감정 괴물을 어떻게 다스리는지 알려 준다.\n\n저자는 감정을 주체하지 못했던 과거의 자신과 분노 전문가로 살고 있는 현재 자신의 경험을 바탕으로 많은 사람이 겪었을 사례를 담아 부정적 감정을 이기기 위해서는 화내야 할 때와 화내지 않아도 될 때를 구분해야 한다는 중요한 지침을 알려준다. 분노에 차오를 때는 화내지 않는 기술을, 화내야 할 때 내지 못하고 관련 없는 주변 사람에게 분풀이하는 사람에게는 감정을 제대로 전달하는 기술을 성격별로 알려 준다. 스스로 감정을 파악하는 법, 부정적인 감정도 알맞은 표현으로 전달하는 법, 그래서 누구와도 긍정적인 관계로 끌어내는 법을 언제든 실천하기 쉽도록 안내한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노북스",
+                "DDC": "152.47",
+                "UPDATE_DATE": "20180621",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "안도 슌스케 지음 ;김한나 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.71",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6676039_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6676039_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "CIP2018015993",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189279011",
+                "INPUT_DATE": "20180523",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "화내서 될 일이 아닙니다",
+                "PUBLISH_PREDATE": "20180618",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

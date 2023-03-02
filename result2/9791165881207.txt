@@ -1,0 +1,67 @@
+{
+    "otitle": "셈셈이 + 나",
+    "oauthor": "요안나 비에야크 글그림/명혜권 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "셈셈이+나",
+                "link": "https://search.shopping.naver.com/book/catalog/32436281919",
+                "image": "https://shopping-phinf.pstatic.net/main_3243628/32436281919.20230131165258.jpg",
+                "author": "요안나 비에야크",
+                "discount": "11700",
+                "publisher": "북극곰",
+                "pubdate": "20210801",
+                "isbn": "9791165881207",
+                "description": "도형,셈하기,각도… 수학에 대한 흥미를 자극할 그림책!\n강아지 이야기를 통해 재미있게 접하는 수학의 첫 개념들\n\n우리 집 강아지 셈셈이는 훌륭한 수학자예요!셈셈이는 정사각형,원,삼각형,점,직선으로 이루어져 있어요.착한 일은 더하기로 하고말썽 부리는 일은 곱하기로 해요.나는셈셈이를 무한대로 사랑해요!\n『셈셈이 + 나』는 장난꾸러기 강아지 셈셈이의 모험을 함께 즐기면서 자연스레 수학의 첫 개념을 접하며, 수학을 더 좋아하게 만드는 그림책입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20211014",
+                "EA_ADD_CODE": "74800",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "요안나 비에야크 글·그림 ;명혜권 옮김",
+                "SERIES_TITLE": "북극곰 무지개 그림책",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797709",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/07/01/9791165881207.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "200*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[46] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "80",
+                "EA_ISBN": "9791165881207",
+                "INPUT_DATE": "20210701",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "셈셈이+나",
+                "PUBLISH_PREDATE": "20210801",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

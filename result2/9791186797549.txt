@@ -1,0 +1,67 @@
+{
+    "otitle": "아빠가 그려준 코끼리",
+    "oauthor": "양미주 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아빠가 그려준 코끼리 (양미주 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436246409",
+                "image": "https://shopping-phinf.pstatic.net/main_3243624/32436246409.20221230072040.jpg",
+                "author": "양미주",
+                "discount": "10800",
+                "publisher": "북극곰",
+                "pubdate": "20170206",
+                "isbn": "9791186797549",
+                "description": "아기 코끼리 코코 시리즈 1권. 네이버 그라폴리오와 와우책예술센터가 공동 주최한 2016 창작그림책 챌린지 당선작이다. 코끼리를 쉽고 재미있게 그리는, 멋진 아이디어를 아빠와 아이의 교감을 통해 담아냈다. 사랑이 듬뿍 담긴 창의적인 놀이 그림책이며 아기자기하고 포근포근한 미술 그림책이다.\n\n\n\n양미주 작가는 어린 시절 아빠가 그려준 코끼리 그림을 습관처럼 그려왔다. 어른이 되어서도 코끼리를 그릴 때마다 아빠의 따뜻함을 떠올렸고, 아빠에 대한 감정을 그림책에 담아냈다. &lt;아빠가 그려준 코끼리&gt;는 쉽고 재미있게 코끼리를 그리는, 신기하고 멋진 아이디어들이 빛나는 그림책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20170216",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "양미주",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797532",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6073794_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6073794_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6073794_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "32",
+                "CONTROL_NO": "CIP2017001287",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186797549",
+                "INPUT_DATE": "20170113",
+                "SET_EXPRESSION": "",
+                "VOL": "1권",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아빠가 그려준 코끼리",
+                "PUBLISH_PREDATE": "20170206",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "77810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

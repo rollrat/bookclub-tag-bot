@@ -1,0 +1,67 @@
+{
+    "otitle": "우울할 때 곁에 두고 읽는 책",
+    "oauthor": "스칼릿 커티스 등저/최경은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우울할 때 곁에 두고 읽는 책 (하루 한 장 내 마음을 관리하는 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441659322",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441659322.20221229072356.jpg",
+                "author": "스칼릿 커티스",
+                "discount": "14520",
+                "publisher": "윌북",
+                "pubdate": "20201201",
+                "isbn": "9791155813249",
+                "description": "영국 아마존 베스트셀러 1위 (심리). 선데이 타임스 베스트셀러. 우울할 때마다 곁에 두고 읽으면 힘이 될 글들이다. 매일의 기분과 감정을 돌보는 시간에 속 깊은 친구처럼 찾아와 세심하고 찬찬하게 이야기를 들어주고 들려줄 책이다. \n\n\n\n&lt;나만 그런 게 아니었어&gt;로 베스트셀러 작가에 오른 스칼릿 커티스는 “마음은 당신에게 어떤 의미인가요?”라는 질문을 던진다. 이 질문에 샘 스미스, 에마 톰슨, 매트 헤이그, 나오미 캠벨 등 각자의 분야에서 자기만의 행보를 이어가는 70여 명의 사람들이 응답을 했다. 그들에게는 한 가지 공통점이 있다. 평생 혹은 일시적으로 우울과 불안, 공황을 경험했다는 것. 날것 그대로의 마음을 들여다보는 일은 이상하게도 가장 큰 위로와 우정, 연대감을 확인하는 시간이 된다.\n\n\n\n어린 시절 겪은 트라우마로 시작된 우울증 고백, 정신질환을 앓고 있던 형을 떠나보낸 동생의 헌사, 자신의 남편을 앗아간 우울증에게 보내는 편지, 치닫는 감정 때문에 힘들어하는 친구에게 들려주고 싶은 한마디…. 모든 사람이 각기 하나의 세계를 품고 살아가듯 모두 방식은 다르지만, 그들이 전하고자 하는 메시지는 같다. ‘우울해도 괜찮아’, ‘슬퍼도 괜찮아’, ‘괜찮지 않아도 괜찮아’. \n\n\n\n우리 중 누구도 우울에서 자유로울 수 없는 때를 살아가고 있다. 마음을 더 깊이 살피고 돌봐야 하는 이유다. 가장 사적이면서고 내밀하고 개인적인 이야기들이지만 그 이야기들을 읽노라면 어느새 나의 마음이 무엇이었는지 이해하게 된다. 마음이 혼란스러운 날, 이 용기 있는 사람들의 목소리를 들어보길."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "",
+                "UPDATE_DATE": "20210125",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "스칼릿 커티스 외 지음 ;최경은 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/25/9791155813249.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "398 p.",
+                "CONTROL_NO": "CIP2020048661",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155813249",
+                "INPUT_DATE": "20201113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "우울할 때 곁에 두고 읽는 책",
+                "PUBLISH_PREDATE": "20201201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

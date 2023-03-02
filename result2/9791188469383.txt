@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 우린 빵을 먹는다",
+    "oauthor": "김기방 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 우린 빵을 먹는다",
+                "link": "https://search.shopping.naver.com/book/catalog/32439227619",
+                "image": "https://shopping-phinf.pstatic.net/main_3243922/32439227619.20221230071320.jpg",
+                "author": "김기방",
+                "discount": "14400",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20190927",
+                "isbn": "9791188469383",
+                "description": "마치 오븐에서 금방 꺼낸 빵에서 풍겨 나오는 \n포근하고 따뜻한 빵의 숨결을 닮은 책!\n\n2005년, 영화 로 데뷔해서 오랜 기간 대한민국을 대표하는 감초 배우 김기방. 그는 지금의 아내인 ‘김희경’을 만나 난생처음 느껴보는 사랑의 감정에 푹 빠져 2년의 연애 기간을 종료하고 마침내 결혼했다. 대중들에게 친근하고 포근한 인상을 풍기며 자연스러운 그의 연기가 글 안에서도 고스란히 전해진다. 포근하면서 따뜻한 빵의 숨결을 닮은 배우를 넘어서 작가가 된 김기방의 글은 읽는 이로 하여금 오븐에서 방금 꺼낸 빵 속에 꽉 차다 못해 풍겨 나오는 빵의 달콤한 향을 맡는 듯한 착각을 일으킨다.\n\n플리마켓에서 처음 지금의 아내를 보고 ‘첫눈에 반하다’라는 뻔한 문장을 몸소 경험한 작가는 첫 만남부터 결혼, 그 후의 일상까지 차분하면서 사려 깊은 말들로 풀어내고 있다. 작가는 말한다. 행복은 항상 옆에 있다고. 그 행복을 느낄 수 있는 좋은 사람들을 만났다고 말이다. 배우로서의 김기방이 아닌 작가로서의 김기방은 글 하나하나에 마치 갓 나온 빵을 한 올 한 올 찢는 것처럼 조심스러우면서 행복이 한가득 묻어있다. 알면 알수록 좋아져 아내를 똑 닮은 크루아상부터 친숙하지만 질리지 않아 가장 좋아하고 닮고 싶은 식빵, 마지막으로 혼자일 때보다 함께일 때가 마치 본인과 아내와의 사이를 닮은 스콘까지. 각 장마다 빵과 닮은 에피소드가 모여 하나의 빵이 완성되는 것처럼, 밀가루부터 버터까지 밑재료의 역할을 충실히 해낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름",
+                "DDC": "",
+                "UPDATE_DATE": "20190830",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김기방",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/14/9791188469383.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "169 p. ",
+                "CONTROL_NO": "CIP2019032074",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188469383",
+                "INPUT_DATE": "20190814",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘도 우린 빵을 먹는다 ",
+                "PUBLISH_PREDATE": "20190927",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

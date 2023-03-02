@@ -1,0 +1,67 @@
+{
+    "otitle": "메르타 할머니, 라스베이거스로 가다",
+    "oauthor": "카타리나 잉엘만순드베리 저/정장진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "메르타 할머니, 라스베이거스로 가다 (카타리나 잉엘만순드베리 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493285027",
+                "image": "https://shopping-phinf.pstatic.net/main_3249328/32493285027.20220524183437.jpg",
+                "author": "카타리나 잉엘만순드베리",
+                "discount": "13320",
+                "publisher": "열린책들",
+                "pubdate": "20170325",
+                "isbn": "9788932918211",
+                "description": "메르타 할머니 시리즈는 70~80대 노인 다섯 명이 주인공인 유머러스한 범죄 소설로, 사회가 노년층을 취급하는 방식에 불만을 품은 노인들이 강도단을 만들어 기상천외한 방식으로 사회를 바꿔 나가고자 하는 내용을 담았다. 전편에서 답답하고 열악한 노인 요양소에서 사느니 차라리 감옥에 가겠다며 범죄를 저질렀던 노인 강도단은 이번에는 미국 라스베이거스로 향한다. 그리고 카지노를 털어 그 돈으로 노인과 청소년 시설, 예산이 부족한 문화 시설 등에 기부한다는 대담한 계획을 세운다. 노인들을 둘러싼 황당하고 유쾌한 사건들이 전편에 이어 이번에도 정신없이 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "839.738",
+                "UPDATE_DATE": "20170329",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "카타리나 잉엘만순드베리 저; 정장진 역",
+                "SERIES_TITLE": "",
+                "KDC": "859.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6097565_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6097565_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "544",
+                "CONTROL_NO": "CIP2017002095",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932918211",
+                "INPUT_DATE": "20170123",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "메르타 할머니, 라스베이거스로 가다",
+                "PUBLISH_PREDATE": "20170325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

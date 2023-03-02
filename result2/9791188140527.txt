@@ -1,0 +1,67 @@
+{
+    "otitle": "사랑의 작은 순간들",
+    "oauthor": "카타나 쳇윈드 글그림/그레고리 이브스,장여정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사랑의 작은 순간들 (카타나 코믹스)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438219655",
+                "image": "https://shopping-phinf.pstatic.net/main_3243821/32438219655.20221228071719.jpg",
+                "author": "카타나 쳇윈드",
+                "discount": "12600",
+                "publisher": "북레시피",
+                "pubdate": "20190101",
+                "isbn": "9791188140527",
+                "description": "‘카타나 코믹스’의 첫 출발을 알린 『사랑의 작은 순간들』은 짧은 단편 단편의 만화가 우리의 삶을 어떻게 변화시킬 수 있게 되는지를 알게 한다. 그녀의 만화를 읽어 나가는 순간 어느새 우리 입가는 미소로 채워지고 불필요한 걱정과 우울한 감정들은 그 즉시 사라진다. \n\n\n\n이 사랑스러운 만화는 여자친구(카타나)가 무심코 그린 만화를 남자친구인 존이 몰래 인터넷에 올리면서 화제가 된 작품으로, 삽시간에 팔로워 수가 250만에 달하였고 책으로 출간하자마자 베스트셀러 대열에 올랐다. \n\n\n\n카타나는 섬세한 글과 그림으로 무뎌지고 차가와진 우리의 마음과 감성을 따스하게 덥혀주는 능력이 있다. 우울한 날을 밝게 만들고 어두운 방 안을 환히 빛나게 할 줄 안다. 그녀의 만화는 실제 현실에서 벌어지는 연인사이의 여러 가지 재미있는 상황들을 포착하여 사랑스러운 캐릭터를 통해 표현해 낸다. \n\n\n\n일상 사소한 장면들 속에서 작은 행복의 순간들이 싹트기 시작하는 것이다. 카타나의 그림이 감탄을 자아내는 이유는, 단순하지만 매력적인 일러스트를 통해 우리 삶에 지울 수 없는 사랑의 흔적을 짚어내기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북레시피",
+                "DDC": "",
+                "UPDATE_DATE": "20190125",
+                "EA_ADD_CODE": "07840",
+                "PUBLISHER_URL": "www.bookrecipe.co.kr",
+                "AUTHOR": "카타나 쳇윈드 글, 그림 ;그레고리 이브스,장여정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "840",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7057784_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7057784_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "154 p.",
+                "CONTROL_NO": "CIP2018040770",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188140527",
+                "INPUT_DATE": "20181211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사랑의 작은 순간들",
+                "PUBLISH_PREDATE": "20190101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

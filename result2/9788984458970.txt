@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 강박장애입니다",
+    "oauthor": "쓰쓰미 료지로 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 강박장애입니다 (멈출 수 없는 생각과 행동에 사로잡힌 한 남자의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436088654",
+                "image": "https://shopping-phinf.pstatic.net/main_3243608/32436088654.20220527051028.jpg",
+                "author": "쓰쓰미 료지로",
+                "discount": "0",
+                "publisher": "시그마북스",
+                "pubdate": "20170821",
+                "isbn": "9788984458970",
+                "description": "어느 날 갑자기 발현된 강박장애 증상으로 일상생활에 어려움을 겪게 된 한 남자가 자신의 경험담을 이야기하며 주체적으로 병을 극복하게 되기까지의 과정을 소개한다. 의사의 입장에서 쓴 책이 아닌, 강박장애를 겪고 극복해낸 경험자가 쓴 책이라 더욱 공감이 가고 이해하기 쉽게 쓰여 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "616.8522",
+                "UPDATE_DATE": "20171117",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "쓰쓰미 료지로 지음 ;장은정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "513.8522",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6296441_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6296441_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "194 p.",
+                "CONTROL_NO": "CIP2017018345",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984458970",
+                "INPUT_DATE": "20170725",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 강박장애입니다",
+                "PUBLISH_PREDATE": "20170821",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

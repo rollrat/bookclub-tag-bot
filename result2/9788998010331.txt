@@ -1,0 +1,67 @@
+{
+    "otitle": "요리하는 남정네의 세상의 모든 파스타",
+    "oauthor": "유성준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "요리하는 남정네의 세상의 모든 파스타",
+                "link": "https://search.shopping.naver.com/book/catalog/32496183321",
+                "image": "https://shopping-phinf.pstatic.net/main_3249618/32496183321.20220527042127.jpg",
+                "author": "유성준",
+                "discount": "11700",
+                "publisher": "위즈덤스타일",
+                "pubdate": "20150109",
+                "isbn": "9788998010331",
+                "description": "『요리하는 남정네의 세상의 모든 파스타』는 요리사의 꿈을 안고 ‘100개 파스타 만들기 도전’을 이룬 저자가 발견한 진짜 맛있는 파스타 레시피 77개를 정리한 것이다. 저자가 만든 참신한 파스타 레시피, 집에서 만들어도 레스토랑처럼 맛을 내는 파스타 비법, 한국식으로 만든 퓨전 파스타 레시피, 파스타 면을 실패하지 않고 잘 삶는 법, 간단하고 빠르게 파스타를 만드는 비법, 돈이 없어도 저렴한 재료도 맛있게 만드는 파스타 레시피 등이 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤스타일",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20150212",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr/",
+                "AUTHOR": "유성준",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4224380_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4224380_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014037302",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998010331",
+                "INPUT_DATE": "20141218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "요리하는 남정네의 세상의 모든 파스타 ",
+                "PUBLISH_PREDATE": "20150109",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

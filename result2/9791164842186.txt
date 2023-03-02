@@ -1,0 +1,67 @@
+{
+    "otitle": "세계사를 뒤바꾼 가짜뉴스",
+    "oauthor": "미야자키 마사카츠 저/장하나 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계사를 뒤바꾼 가짜뉴스 (거짓으로 대중을 현혹시킨 36가지 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481976685",
+                "image": "https://shopping-phinf.pstatic.net/main_3248197/32481976685.20230131165213.jpg",
+                "author": "미야자키 마사카츠",
+                "discount": "14400",
+                "publisher": "매일경제신문사",
+                "pubdate": "20210215",
+                "isbn": "9791164842186",
+                "description": "우리가 읽었던 위인전은 거짓이다!\n\nㆍ 힐러리 vs 트럼프, 가짜뉴스가 막판 승자를 갈랐다!\nㆍ 드라큘라가 정말 흡혈귀였을까? 드라큘라가 루마니아의 국민 영웅이었다면?\nㆍ “빵이 없으면 케이크를 먹어라” 진정 앙투아네트의 외침이었을까? 가짜뉴스에 희생된 프랑스 왕비의 비극!\nㆍ 아직도 링컨이 노예해방의 아버지라고 알고 있는가? 그에게 노예해방은 정치적 과제 극복의 수단일 뿐이었다!\nㆍ 팍스 로마나는 진정 평화로운 세계였을까? 특수계층이 만든 승자의 눈가림이었다!\n\n5,000년 세계사 속에서 독재자와 반체제 포퓰리스트는 ‘가짜뉴스’를 이용해 다양한 정보를 조작하고 대중을 선동함으로써 세상을 움직여왔다. 우리가 익히 알고 있는 알렉산드로스부터 링컨, 잭슨, 비스마르크 등 위인부터 팍스 로마나, 유대인 박해, 미국 대선, 베트남 전쟁 등 굵직한 역사적 사건까지 수없이 많은 가짜뉴스가 세계사를 뒤흔들곤 했다. 더 나아가 가짜뉴스가 만들어낸 거짓 정보로 여전히 억울하게 왜곡된 이미지를 갖고 있는 인물들이 있다. 마리 앙투아네트가 그렇고 드라큘라가 그렇다. 바로 승자의 역사가 만들어낸 비극이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210326",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "미야자키 마사카츠 지음 ;장하나 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/01/19/9791164842186.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "278 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164842186",
+                "INPUT_DATE": "20210105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "세계사를 뒤바꾼 가짜뉴스",
+                "PUBLISH_PREDATE": "20210215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

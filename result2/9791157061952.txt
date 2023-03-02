@@ -1,0 +1,67 @@
+{
+    "otitle": "권력의 가문 메디치 1",
+    "oauthor": "마테오 스트루쿨 저/이현경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "권력의 가문 메디치 1 (피렌체의 새로운 통치자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440650341",
+                "image": "https://shopping-phinf.pstatic.net/main_3244065/32440650341.20221019120116.jpg",
+                "author": "마테오 스트루쿨",
+                "discount": "13500",
+                "publisher": "메디치미디어",
+                "pubdate": "20200424",
+                "isbn": "9791157061952",
+                "description": "이탈리아 서점 대상 〈반카렐라 문학상〉 수상작. 이탈리아에서만 50만 부가 팔렸으며 전 세계 11개국에 판권이 팔렸다. 저자 마테오 스트루쿨이 ‘역사를 바꾼 불멸의 가문’ 메디치가에 대해 2년 동안 철저히 자료조사를 하고 현지탐방을 한 끝에 집필했고, 역사적 사실과 서스펜스가 적절히 혼합되어 지적 자극은 물론 엔터테인먼트 소설로서의 재미까지 놓치지 않은 작품이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20200428",
+                "EA_ADD_CODE": "04880",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마테오 스트루쿨 지음 ;이현경 옮김",
+                "SERIES_TITLE": "권력의 가문 메디치",
+                "KDC": "883",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791157061945",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/04/02/9791157061952.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "446 p.",
+                "CONTROL_NO": "CIP2020013932",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791157061952",
+                "INPUT_DATE": "20200331",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "권력의 가문 메디치",
+                "PUBLISH_PREDATE": "20200424",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04880 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

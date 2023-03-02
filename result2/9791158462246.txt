@@ -1,0 +1,67 @@
+{
+    "otitle": "한 그릇 집밥 다이어트 레시피",
+    "oauthor": "최희정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한 그릇 집밥 다이어트 레시피 (2주 완성 먹으면서 빼는 다이어트 식단)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485602842",
+                "image": "https://shopping-phinf.pstatic.net/main_3248560/32485602842.20230131164013.jpg",
+                "author": "최희정",
+                "discount": "11700",
+                "publisher": "비타북스",
+                "pubdate": "20180323",
+                "isbn": "9791158462246",
+                "description": "건강한 한 그릇 밥 요리로 시작하는 2주 집밥 다이어트!\n\n직접 만들어 먹은 음식으로 25kg을 감량한 인스타그래머 최희정이 수많은 다이어트 경험을 통해 찾은 해답을 전하는 『한 그릇 집밥 다이어트 레시피』. 지속 가능한 다이어트 레시피를 원하는 다이어터들을 위해 먹으면서도 살이 빠지는 밥 요리, 꾸준히 다이어트를 해나갈 수 있는 다양한 밥 요리를 책에 담았다. 포만감을 높이고 몸은 가볍게 만들어주는 집밥 레시피들을 체계적인 식단으로 제시해, 든든하고 건강하게 다이어트하는 노하우를 전한다.\n\n2주 집밥 다이어트 식단은 탄수화물과 염분 섭취량을 낮춰 체중 감량 효과를 높이는 데 집중했다. 우리 입맛에 딱 맞는 한식 레시피로 누구나 부담 없이 만들어 먹을 수 있으며, 평범한 식재료로 간단히 한 그릇의 요리를 만들기만 하면 된다. 저탄수화물, 저염분 레시피를 통해 ‘한식은 열량이 높다’라는 고정관념을 걷어냈고, 다이어터들에게 최적화된 영양 만점인 저열량 밥 요리를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비타북스 :헬스조선",
+                "DDC": "641.5635",
+                "UPDATE_DATE": "20180413",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "최희정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "594.675",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6585334_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "183 p.",
+                "CONTROL_NO": "CIP2018007916",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158462246",
+                "INPUT_DATE": "20180308",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "한 그릇 집밥 다이어트 레시피",
+                "PUBLISH_PREDATE": "20180323",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

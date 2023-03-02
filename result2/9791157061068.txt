@@ -1,0 +1,67 @@
+{
+    "otitle": "공학 하는 여자들",
+    "oauthor": "손소영,임혜숙,최진희,이레나,김정선 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공학 하는 여자들 (빅데이터, 칩 개발, 환경 독성, 의료기기, 영양역학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32453143011",
+                "image": "https://shopping-phinf.pstatic.net/main_3245314/32453143011.20221229074025.jpg",
+                "author": "손소영^임혜숙^최진희^이레나^김정선",
+                "discount": "11700",
+                "publisher": "메디치미디어",
+                "pubdate": "20171125",
+                "isbn": "9791157061068",
+                "description": "빅데이터와 인공지능의 시대, 한국 최고의 여성 공학자들 \n\n논문 피인용 세계 상위 1% 과학자에 3년 연속(2015~7) 선정된 최진희 교수 등 다섯 명의 저자들은 ‘올해의 여성과학기술자상 수상자’들이다. 한국에는 ‘과학 하는 여자’도 적지만, ‘공학 하는 여자들’은 더욱 드물다. 이 책은 저자들이 어떻게 공학이란 낯선 세계에 발을 들여놓았는지, 거기서 어떻게 현실의 과제를 해결하고 있는지 그 과정을 생생하게 보여준다. \n\n저자들의 전공 분야는 빅데이터, 칩 개발, 환경 독성, 의료기기, 영양역학으로 4차 산업혁명과 관련성이 높다. 그들의 활약상을 통해서, 왜 지금 시대에는 학제 간, 사람 간에 소통을 해야 결과를 얻게 되는지 알 수 있다. 여성으로서 어려움을 겪었지만 극복해온 모습을 통해서, 여성 후배들은 일과 삶의 지혜를, 여중고생들은 롤 모델을 발견할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치",
+                "DDC": "",
+                "UPDATE_DATE": "20171122",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "손소영,임혜숙,최진희,이레나,김정선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157061068",
+                "INPUT_DATE": "20171031",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "공학하는 여자들",
+                "PUBLISH_PREDATE": "20171125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

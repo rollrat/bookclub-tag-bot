@@ -1,0 +1,67 @@
+{
+    "otitle": "나체 수학",
+    "oauthor": "최미나 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나체 수학 (삶의 고민을 해결해 나가는 특별한 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465899044",
+                "image": "https://shopping-phinf.pstatic.net/main_3246589/32465899044.20220530154452.jpg",
+                "author": "최미나",
+                "discount": "9000",
+                "publisher": "이담북스",
+                "pubdate": "20191105",
+                "isbn": "9788926896983",
+                "description": "‘수학’과 ‘어떻게 살 것인가’의 만남\n\n“난 항상 엄청난 노력을 하는데 왜 계속 실패하는 걸까?”\n“가까운 사람일수록 서로의 기대에 부딪힐 때가 반드시 온다. 어떻게 하지?”\n“시작점이 낮았던 내 삶의 노력은 의미 없는 헛수고인가?”\n\n시간과 경험으로 해결될 줄 알았던 인생은 여전히 답이 보이지 않는다. 지나온 삶은 후회와 고민을 남기고 막연한 미래는 두려움을 안긴다. 우리는 도대체 어떻게 살아야 하는 걸까?\n이 책은 그 답을 찾아가는 과정이자 견고한 ‘수학’의 껍데기를 벗겨낸 독창적인 시도의 결과물이다. 인생을 해석하는 방식으로 ‘수학’을 선택한 저자는, 그동안 마주친 인생 고민을 수학적 궁리로 풀어낸다. 숨겨진 삶의 공식을 차근히 깨달으며 자신이 바라는 미래를 설계한다. 이 책이 마중물이 되어 모두가 자신만의 인생 공식을, 바라는 삶을 찾아가기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20191209",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "최미나 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/05/9788926896983.JPG",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "181 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926896983",
+                "INPUT_DATE": "20191205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나체 수학",
+                "PUBLISH_PREDATE": "20191105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "아들 때문에 미쳐버릴 것 같은 엄마들에게",
+    "oauthor": "최민준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아들 때문에 미쳐버릴 것 같은 엄마들에게 (큰 소리 내지 않고 아이를 크게 키우는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483295766",
+                "image": "https://shopping-phinf.pstatic.net/main_3248329/32483295766.20230110163630.jpg",
+                "author": "최민준",
+                "discount": "12100",
+                "publisher": "살림",
+                "pubdate": "20160822",
+                "isbn": "9788952234650",
+                "description": "아들 키우는 엄마들에게 꼭 들려주고 싶은 이야기!\n\n국내 1호 남아미술교육 전문가 최민준 소장은 수많은 전국 강연과 아들맘 상담을 통해 대한민국에서 아들 가진 엄마가 겪는 공통 고민 50가지를 파악할 수 있었다. 『아들 때문에 미쳐버릴 것 같은 엄마들에게』에는 그 고민에 걸맞은 도움말이 구체적인 상황과 함께 담겨 있다. 1,000명의 아이가 있으면 그 개성이 1,000가지라는 것이 저자의 아들 교육 철학이다. 그러므로 “모두에게 통용되는 육아법은 없을지라도 내 아들에게 꼭 맞는 육아는 엄마의 힘으로 찾아나갈 수 있다”고 그는 주장한다. \n\n이 책은 크게 네 개의 장으로 구성되어 있다. 1장에는 남자아이를 이끌어야 하는 아들맘의 답답한 마음에 공감하는 에피소드와 행동 지침을 담았다. 2장에는 남자아이의 성향을 이해할 수 있도록 상담 내용과 함께 과학적, 사회적 지식을 전달한다. 3장은 연구소에서 아이와 미술 놀이를 하며 나눈 대화를 기반으로, 아이가 누구에게도 쉽게 꺼내지 못한 속마음을 엄마가 읽어낼 수 있도록 혜안을 키워준다. 4장에서는 아이의 꿈 찾아주기, 틱 장애, ADHD 극복기 등 엄마와 아이가 함께 성장하게 돕는 실질적인 조언을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "649.132",
+                "UPDATE_DATE": "20161202",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "최민준",
+                "SERIES_TITLE": "",
+                "KDC": "598.132",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5675251_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5675251_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "270",
+                "CONTROL_NO": "CIP2016019436",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952234650",
+                "INPUT_DATE": "20160811",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "아들 때문에 미쳐버릴 것 같은 엄마들에게",
+                "PUBLISH_PREDATE": "20160822",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

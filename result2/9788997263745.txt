@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 공무원이 되고 싶다",
+    "oauthor": "이인재 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 공무원이 되고 싶다 (공무원을 꿈꾸는 당신이 알아야 할 진짜 공무원 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438161913",
+                "image": "https://shopping-phinf.pstatic.net/main_3243816/32438161913.20220527054807.jpg",
+                "author": "이인재",
+                "discount": "0",
+                "publisher": "책비",
+                "pubdate": "20140327",
+                "isbn": "9788997263745",
+                "description": "공무원의 현실과 현장의 모습을 생생하게 담아내다!\n\n공무원을 꿈꾸는 당신이 알아야 할 진짜 공무원 이야기『나는 공무원이 되고 싶다』. 현재 안전행정부 제도정책관으로 활동 중인 저자 이인재가 자신의 이야기와 노하우를 바탕으로 공무원을 꿈꾸는 젊은이들을 위해 공무원 세계는 과연 어떤 곳인지 부터 어떤 사람이 공무원을 해야 좋은지, 공무원이 되면 실제 어떤 업무들을 하게 되는지 등을 구체적인 질문들과 답으로 풀어낸 책이다.  \n\n저자는 자신의 견해뿐만이 아닌 25년간의 공직생활 동안 만났던 다양한 선후배들의 예를 통해 건강한 공무원 상, 지혜로운 공무원 생활을 가감 없이 들려주고, 전문적인 식견으로 공무원 사회에 대한 날카로운 분석과 나아갈 길을 제시한다. 독자들이 평소 궁금했던 공무원의 세계와 공무원이 하는 일들을 미리 살펴보는 것은 물론, 스스로에게 빗대어 진정 자신에게 적합한 길인지를 구체적으로 살펴볼 수 있는 기회를 선사한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책비",
+                "DDC": "",
+                "UPDATE_DATE": "20140507",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이인재 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997263745",
+                "INPUT_DATE": "20140507",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 공무원이 되고 싶다 ",
+                "PUBLISH_PREDATE": "20140327",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

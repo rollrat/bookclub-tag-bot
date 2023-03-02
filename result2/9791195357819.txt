@@ -1,0 +1,78 @@
+{
+    "otitle": "교양으로 알아야 할 한자성어 120",
+    "oauthor": "정유철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:58 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "교양으로 알아야 할 한자 성어 120 (교양 한자 성어 120개 엄선! 각종 한자 시험 완벽 대비!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493329598",
+                "image": "https://shopping-phinf.pstatic.net/main_3249332/32493329598.20221227205050.jpg",
+                "author": "정유철",
+                "discount": "14220",
+                "publisher": "모바일북",
+                "pubdate": "20141030",
+                "isbn": "9791195357819",
+                "description": "한자의 중요성이 날로 증대되고 있는 지금, 교양·상식은 물론 각종 시험에 한자 성어의 뜻과 쓰임이 자주 등장 한다. 이 책은 우리 시대에 꼭 필요한 한자 성어 120개를 엄선하여 원전을 일일이 찾아 출처를 확인하고, 그 내용을 토대로 다른 책을 참고하지 않아도 알기 쉽게 이해하도록 풀이 했다. 한자 성어를 풀이하면서 고심한 것은 원전의 뜻을 살리면서 읽은 내용을 잊어버리지 않게 하는 것이었는데 읽어도 기억하지 못하면 활용하지 못하기 때문이다. 그래서 스토리텔링 방식을 적용하였다. 그렇게 함으로써 독자가 재미있게 읽고 기억하기 쉽게 했다. 고사가 있는 것은 고사를 토대로 스토리텔링을 하고, 그렇지 않은 성어도 줄거리를 만들어 풀어썼다. \n\n요즘 인터넷상에 떠도는 얘기로 “영어를 포기하는 것은 취직을 포기하는 것이요, 중국어를 포기하는 것은 인생을 포기하는 것이다.” 라는 얘기가 있는데, 중국어도 한자, 한문을 알면 쉽게 배울 수 있다."
+            },
+            {
+                "title": "교양으로 알아야 할 한자 성어 120 (큰글자책) (교양 한자 성어 120개 엄선! 각종 한자 시험 완벽 대비!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436009690",
+                "image": "https://shopping-phinf.pstatic.net/main_3243600/32436009690.20221229071850.jpg",
+                "author": "정유철",
+                "discount": "14220",
+                "publisher": "모바일북",
+                "pubdate": "20200630",
+                "isbn": "9791170410331",
+                "description": "한자의 중요성이 날로 증대되고 있는 지금, 교양·상식은 물론 각종 시험에 한자 성어의 뜻과 쓰임이 자주 등장 한다. 교양으로 알아야 할 『한자 성어 120(큰글자책)』은 우리 시대에 꼭 필요한 한자 성어 120개를 엄선하여 원전을 일일이 찾아 출처를 확인하고, 그 내용을 토대로 다른 책을 참고하지 않아도 알기 쉽게 이해하도록 풀이 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "모바일북",
+                "DDC": "495.78",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03700",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정유철",
+                "SERIES_TITLE": "",
+                "KDC": "714.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4046029_3.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4046029_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4046029_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014030145",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195357819",
+                "INPUT_DATE": "20141020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "교양으로 알아야 할 한자성어 120",
+                "PUBLISH_PREDATE": "20141030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

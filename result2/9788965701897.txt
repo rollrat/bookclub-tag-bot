@@ -1,0 +1,67 @@
+{
+    "otitle": "설탕의 맛",
+    "oauthor": "김사과 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "설탕의 맛 (김사과 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462921432",
+                "image": "https://shopping-phinf.pstatic.net/main_3246292/32462921432.20221019135106.jpg",
+                "author": "김사과",
+                "discount": "11700",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20140224",
+                "isbn": "9788965701897",
+                "description": "제대로 읽으려면 일정량의 각오와 결단과 열량공급이 필요한 김사과 작가의 소설들과 달리, 이 에세이는 작가의 다른 면모를 보여주어 신선하다. 여러 칼럼과 인터뷰 등에서 느낄 수 있듯이, 김사과 작가의 신중하고 논리정연하며 똑똑한 글은 아프고 부끄러운 곳마저도 주저 없이 한 방에 찌르는 과단성이 있다. 서늘하고 비장한 감정의 거리를 유지한 채, 그녀가 만난 지구 위 여러 도시의 젊은이들이 보내고 있는 울고 웃고, 취하고 싸우고, 만나고 헤어지는 어느 눈부신 시절들을 읽어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)쌤앤파커스",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20140324",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "김사과",
+                "SERIES_TITLE": "",
+                "KDC": "816.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3332675_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3332675_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3332675_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014004803",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965701897",
+                "INPUT_DATE": "20140213",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "설탕의 맛",
+                "PUBLISH_PREDATE": "20140224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

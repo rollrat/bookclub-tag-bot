@@ -1,0 +1,67 @@
+{
+    "otitle": "청소부 매뉴얼",
+    "oauthor": "루시아 벌린 저/공진호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "청소부 매뉴얼 (루시아 벌린 단편집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438173643",
+                "image": "https://shopping-phinf.pstatic.net/main_3243817/32438173643.20221019123329.jpg",
+                "author": "루시아 벌린",
+                "discount": "14400",
+                "publisher": "웅진지식하우스",
+                "pubdate": "20190720",
+                "isbn": "9788901232867",
+                "description": "사후 11년 뒤 발견된 숨겨진 보석을 만나다!\n\n전설적 단편소설가 루시아 벌린의 수작을 모은 단편선집 『청소부 매뉴얼』. 무명작가에서, 2004년, 68세의 나이로 세상을 떠난 지 11년 만에 ‘잃어버렸던 천재’로 불리며 센세이션을 일으킨 단편소설의 대가, 루시아 벌린의 작품을 만나볼 수 있다. 비트 세대 작가였던 저자는 주변 환경에 대한 감정적 반응을 기록했고, 대부분의 남성 집단과 달리 자신의 절망적인 인생을 부어 사실적인 이야기를 만들었다. 이러한 내러티브는 현대 여성의 서사를 되찾기 위한 최근의 움직임과 자전소설의 인기와 어우러져 저자의 재발견을 이끌었다. \n\n저자의 작품엔 주로 자신의 의지보다는 타인(남성)의 명령에 따르는 여성 화자들이 등장하는데, 그녀들의 이야기는 비극적인 동시에 유머와 멜랑콜리를 자아낸다. 감정은 극한이지만 언어는 꾸밈이 없으며, 문장은 단편적이면서도 글은 산뜻하다. 최소한의 단어로 복잡한 감정과 사소한 감정을 모두 드러낸다. 인간애와 공간, 음식, 냄새, 색채, 언어 등의 억제할 수 없는 속성과 연결되어 있고, 작중의 사건이나 감정이 명랑한가 아닌가 하는 것과 상관없이 독자에게 전달되는 느낌이 긍정적인 저자의 이야기를 만나볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진지식하우스 :웅진씽크빅",
+                "DDC": "",
+                "UPDATE_DATE": "20190805",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "루시아 벌린 지음 ;공진호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/06/13/9788901232867.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "647 p.",
+                "CONTROL_NO": "CIP2019023338",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788901232867",
+                "INPUT_DATE": "20190613",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "청소부 매뉴얼",
+                "PUBLISH_PREDATE": "20190720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "스마트폰에 빠진 아이들, 어떻게 가르칠 것인가?",
+    "oauthor": "게리 채프먼,알린 펠리케인 공저/윤은숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스마트폰에 빠진 아이들, 어떻게 가르칠 것인가? (디지털 세대를 위한 5가지 인성 교육)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456272713",
+                "image": "https://shopping-phinf.pstatic.net/main_3245627/32456272713.20221019110321.jpg",
+                "author": "게리 채프먼",
+                "discount": "15300",
+                "publisher": "생명의말씀사",
+                "pubdate": "20150515",
+                "isbn": "9788904141401",
+                "description": "『스마트폰에 빠진 아이들, 어떻게 가르칠 것인가?』는 구체적이고 실제적인 사례와 연구 결과를 토대로 스크린이 아이들에게 어떤 영향을 미치는지 알려 주고, 스크린 중심의 세상에서 아이들을 어떻게 가르쳐야 하는지 그 방법을 제시한다. 무엇보다 디지털 세대가 스크린 중독에 빠지지 않고 올바른 사회성과 신앙을 가진 어른으로 자라도록 돕고, 더 나아가 잃어버린 우리의 가정을 되찾도록 창의적인 대안을 내놓는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의 말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20150630",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "게리 채프먼, 알린 펠리케인",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20150515",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "18,000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904141401",
+                "INPUT_DATE": "20150513",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "스마트폰에 빠진 아이들, 어떻게 가르칠 것인가?",
+                "PUBLISH_PREDATE": "20150515",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

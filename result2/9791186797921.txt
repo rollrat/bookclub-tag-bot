@@ -1,0 +1,67 @@
+{
+    "otitle": "쩌저적",
+    "oauthor": "이서우 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쩌저적 (이서우 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474615638",
+                "image": "https://shopping-phinf.pstatic.net/main_3247461/32474615638.20221227205640.jpg",
+                "author": "이서우",
+                "discount": "12600",
+                "publisher": "북극곰",
+                "pubdate": "20180119",
+                "isbn": "9791186797921",
+                "description": "북극곰 꿈나무 그림책 40권. 네이버 그라폴리오와 와우책예술센터가 공동 주최한 2017 창작 그림책 챌린지 당선작이다. 눈과 얼음의 나라 남극에 황제펭귄들이 무리 지어 살고 있다. 그러던 어느 날, 갑자기 쩌저적 하고 빙하가 갈라져서 꼬마 펭귄이 혼자가 된다. 드넓은 바다 한가운데 혼자 남은 꼬마 펭귄은 어떻게 될까? &lt;쩌저적&gt;은 무리에서 떨어져 혼자가 된 꼬마 펭귄이 세계 곳곳을 여행한 이야기를 다룬 글 없는 그림책으로, 기발하면서도 멋진 아이디어가 빛나는 작품이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20180227",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 이서우",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6504415_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6504415_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[32] p.",
+                "CONTROL_NO": "CIP2018000672",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186797921",
+                "INPUT_DATE": "20180105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "쩌저적",
+                "PUBLISH_PREDATE": "20180119",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

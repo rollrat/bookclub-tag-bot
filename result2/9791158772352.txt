@@ -1,0 +1,67 @@
+{
+    "otitle": "보통사람들의 만만한 글쓰기",
+    "oauthor": "오기선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "보통사람들의 만만한 글쓰기 (글쓰기는 소질이 아닌 소양이다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439734480",
+                "image": "https://shopping-phinf.pstatic.net/main_3243973/32439734480.20221231084138.jpg",
+                "author": "오기선",
+                "discount": "12600",
+                "publisher": "바이북스",
+                "pubdate": "20210505",
+                "isbn": "9791158772352",
+                "description": "보통사람들도 따라 할 수 있는 글쓰기 비법. 《군선교신문》의 주필이며, 인턴소장이라는 닉네임으로 만만한글쓰기연구소 블로그를 운영하는 저자 오기선이 보통 사람들의 글쓰기를 응원하기 위해 《보통사람들의 만만한 글쓰기》를 썼다. \n\n\n\n글쓰기가 어려운 보통사람들도 사회생활의 경쟁력이 되는 글쓰기라는 무기를 갖추는 비법을 담은 책이다. 이 책에는 글쓰기를 잘하는 구체적인 비법들이 담겨 있지만 스킬인 소질보다는 품성인 소양을 키우도록 돕는다. 결국 독자가 글쓰기를 통해 앞으로 살아가야 할 삶의 양분을 얻기를 기대한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210805",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오기선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "232 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158772352",
+                "INPUT_DATE": "20210414",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "보통사람들의 만만한 글쓰기",
+                "PUBLISH_PREDATE": "20210505",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

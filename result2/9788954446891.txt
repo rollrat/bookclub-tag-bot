@@ -1,0 +1,67 @@
+{
+    "otitle": "나의 생활 건강",
+    "oauthor": "김복희,유계영,김유림,이소호,손유미,강혜빈,박세미,성다영,주민현,윤유나 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나의 생활 건강",
+                "link": "https://search.shopping.naver.com/book/catalog/32436014776",
+                "image": "https://shopping-phinf.pstatic.net/main_3243601/32436014776.20221019145430.jpg",
+                "author": "김복희^이소호",
+                "discount": "11700",
+                "publisher": "자음과모음",
+                "pubdate": "20210406",
+                "isbn": "9788954446891",
+                "description": "다친 마음에 힘을 주고 지친 몸을 눕게 하는,\n여성 시인 열 명의 생활 건강 에세이\n\n“일상에서 작고 아름답고 반짝이는 것들을 찾아내며 살고 싶다.\n그것들엔 돈이 들지 않으니까. 아니, 값을 매길 수 없으니까.”\n\n‘생활 건강함’에 관한 여성 시인 열 명의 에세이를 담은 『나의 생활 건강』이 자음과모음에서 출간되었다. 선뜻 건강함을 묻기에는 조심스러운 환란의 시기. 그럼에도 시간은 계속 흐르고 생활은 굴러가야 한다. 이 생활을 잘 버텨내며 긍정하고 나와 타인의 건강을 바라는 수밖에. 한편, 골프선수 박세리, 개그우먼 김민경 등 건강함을 자랑으로 여기는 셀럽들에게 우리는 점점 매력을 느끼고 있고, 생활 체육이나 구기 운동을 하는 여성들도 늘어나고 있는 상황. 이 시기에 에세이집  『나의 생활 건강』은 시의적절하게 도착했다. 2020년대를 살아가는 젊은 여성 시인들의 생활 건강함은 무엇일까. 새로운 시대에 주목받고 있는 시인 열 명(김복희, 유계영, 김유림, 이소호, 손유미, 강혜빈, 박세미, 성다영, 주민현, 윤유나)은 이 삶을 어떻게 바라보고 있을까. 어떻게 일상을 살아가며 다양한 감정을 마주하고 있을까. 이 책에서는 시인들이 저마다의 다채로운 언어와 스타일로 생활과 건강에 대해 그려낸다. 글의 사이에는 시인이 보내준 매력적인 사진 한 장씩이 포함되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "자음과모음",
+                "DDC": "",
+                "UPDATE_DATE": "20210503",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김복희,유계영,김유림,이소호,손유미,강혜빈,박세미,성다영,주민현,윤유나",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/10/9788954446891.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*186",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954446891",
+                "INPUT_DATE": "20210311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나의 생활 건강",
+                "PUBLISH_PREDATE": "20210406",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

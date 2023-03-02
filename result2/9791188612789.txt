@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! Vue.js 입문",
+    "oauthor": "장기효 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! Vue.js 입문 (예제로 이해하고 실전 프로젝트로 완성한다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489500759",
+                "image": "https://shopping-phinf.pstatic.net/main_3248950/32489500759.20221229072438.jpg",
+                "author": "장기효",
+                "discount": "13500",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20180205",
+                "isbn": "9791188612789",
+                "description": "Vue.js 현업 개발자이자 국내 최초 Vue.js 전문 강사의 핵심 노하우 대공개!\n\n실무자 3일 완성! 입문자 7일 완성! 바쁜 개발자의 시간 절약 입문서! 실무의 정글 속에서 살아남기 위한 실전 예제형 Vue.js 입문서! 이 책은 Vue.js 실무 개발 경험을 바탕으로 입문자 대상 강의를 수차례 진행해 온 현업 Vue.js 능력자가 집필했습니다. Vue.js의 기본 동작 원리부터 꼼꼼하게 설명하고, 실제 서비스를 개발할 때 필요한 컴포넌트 기반 설계 방법과 프로젝트 구조화 노하우까지 알차게 담았습니다. 특히 입문자들이 어려워하는 웹팩, ES6, NPM을 몰라도 쉽게 학습할 수 있도록 목차를 구성하여 배우기 쉬운 Vue.js의 특성을 잘 살렸습니다.\n\n책에서 제공하는 ‘예제’와 ‘직접 해보세요’를 일단 직접 만들어 보세요. 그리고 상용 웹 앱 설계 방식과 컴포넌트 구조화까지 녹여낸 종합 프로젝트 ‘할 일 관리 앱’까지 만들고 나면 실무에 사용되는 기술 90%가 해결됩니다. 실무 개발자와 입문자의 고민을 누구보다 잘 이해하는 책, 《Do it! Vue.js 입문》으로 Vue.js를 시작하세요!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20180302",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "장기효 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "230 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188612789",
+                "INPUT_DATE": "20180112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(세상의 속도를 따라잡고 싶다면 do it!) Vue.js 입문",
+                "PUBLISH_PREDATE": "20180205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

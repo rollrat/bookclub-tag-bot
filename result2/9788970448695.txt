@@ -1,0 +1,67 @@
+{
+    "otitle": "과학자는 왜 선취권을 노리는가",
+    "oauthor": "고야마 게이타 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학자는 왜 선취권을 노리는가 (정열, 영예, 실의의 인간 드라마)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491331768",
+                "image": "https://shopping-phinf.pstatic.net/main_3249133/32491331768.20221228074028.jpg",
+                "author": "고야마 게이타",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190318",
+                "isbn": "9788970448695",
+                "description": "최초의 발견자는 누구인가?―치열한 경쟁의 과학사\n\n발견이라는 행운은 최초에 그것을 성취한 사람, 즉 단 한 사람만이 차지할 수 있다. 과학에서도 필연적으로 ‘빠른 사람이 승자가 되는’ 양상을 드러내게 된다. 이리하여 과학의 연구에는 ‘경쟁 원리’에 따라 치열한 선두 다툼이 벌어지게 되었다.\n과학에는 진보나 발전이라는 발전적 이미지를 지니는 말이 따라붙기 마련인데, 그것도 이러한 경쟁 원리에 의한 바가 클 것이다. 그래서 과학을 과학자에 의한 선두 다툼의 역사라는 관점에서 다시 관조해 본 것이 이 책이다.\n여기에서 다루는 시대는 근대 과학의 확립기로부터 현대까지 이르고 있는데, 이 약 400년의 시대를 통해서 과학자가 제1 발견자가 되는 것에 얼마나 강한 집착을 가지고 있었는가를 알 수 있을 것이다. 또 그에 따라서, 인간의 영위로서의 과학의 한 측면을 독자에게 전달하고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190603",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "고야마 게이타 지음 ;손영수,성영곤 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "161 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448695",
+                "INPUT_DATE": "20190304",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학자는 왜 선취권을 노리는가",
+                "PUBLISH_PREDATE": "20190523",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

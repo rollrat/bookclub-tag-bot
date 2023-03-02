@@ -1,0 +1,78 @@
+{
+    "otitle": "우리에게 잠자는 8시간이 있다",
+    "oauthor": "황병일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:15 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "우리에게 잠자는 8시간이 있다",
+                "link": "https://search.shopping.naver.com/book/catalog/32492541899",
+                "image": "https://shopping-phinf.pstatic.net/main_3249254/32492541899.20221019145331.jpg",
+                "author": "황병일",
+                "discount": "13500",
+                "publisher": "이담북스",
+                "pubdate": "20190826",
+                "isbn": "9788926895597",
+                "description": "자연과 연결하는 잠, 대지와 접촉하는 어싱이 수면의 질을 바꾼다.\n인생을 바꾸고 싶다면 당신의 잠을 바꿔라!\n우리에게 12척의 배가 아닌, 잠자는 8시간이 있다.\n\n수면 사업을 하면서 수면 코칭 강의를 이어가고 있는 저자의 좋은 수면이 삶을 바꾼다는 믿음과 사업과 강의와 연구를 통해 얻은 잠에 관한 모든 정보가 알차게 들어있다. ‘잠 오답 노트’에서는 잠에 대해 잘못 알고 있는 상식을 질문과 답 형식으로 풀어주고, ‘수면 전문가의 숙면 가이드’에서는 숙면을 위한 방법을  소개한다.『잠 좀 잤으면 좋겠다』의 개정판으로 이전 판에 미처 담지 못했던 내용들과 독자들이 많이 질문한 내용,  특히 자연과 연결된 잠의 비밀인 어싱(earthing)에 대해서도 추가로 자세히 담고 있다."
+            },
+            {
+                "title": "우리에게 잠자는 8시간이 있다(큰글자도서)",
+                "link": "https://search.shopping.naver.com/book/catalog/34275293627",
+                "image": "https://shopping-phinf.pstatic.net/main_3427529/34275293627.20221019131536.jpg",
+                "author": "황병일",
+                "discount": "36000",
+                "publisher": "이담북스",
+                "pubdate": "20220908",
+                "isbn": "9791168016118",
+                "description": "[큰글자도서] 자연과 연결하는 잠, 대지와 접촉하는 어싱이 수면의 질을 바꾼다.\n인생을 바꾸고 싶다면 당신의 잠을 바꿔라!\n우리에게 12척의 배가 아닌, 잠자는 8시간이 있다.\n\n수면 사업을 하면서 수면 코칭 강의를 이어가고 있는 저자의 좋은 수면이 삶을 바꾼다는 믿음과 사업과 강의와 연구를 통해 얻은 잠에 관한 모든 정보가 알차게 들어있다. ‘잠 오답 노트’에서는 잠에 대해 잘못 알고 있는 상식을 질문과 답 형식으로 풀어주고, ‘수면 전문가의 숙면 가이드’에서는 숙면을 위한 방법을  소개한다.『잠 좀 잤으면 좋겠다』의 개정판으로 이전 판에 미처 담지 못했던 내용들과 독자들이 많이 질문한 내용,  특히 자연과 연결된 잠의 비밀인 어싱(earthing)에 대해서도 추가로 자세히 담고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20191007",
+                "EA_ADD_CODE": "13330",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "황병일 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926895597",
+                "INPUT_DATE": "20190916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우리에게 잠자는 8시간이 있다",
+                "PUBLISH_PREDATE": "20190826",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

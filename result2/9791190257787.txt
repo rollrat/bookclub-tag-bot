@@ -1,0 +1,67 @@
+{
+    "otitle": "아티스트를 위한 인체 드로잉",
+    "oauthor": "크리스 레가스피 저/진주 K. 가디너 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아티스트를 위한 인체 드로잉 (포즈, 형태, 빛을 통해 인체 드로잉 이해하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467070716",
+                "image": "https://shopping-phinf.pstatic.net/main_3246707/32467070716.20221228074604.jpg",
+                "author": "크리스 레가스피",
+                "discount": "18000",
+                "publisher": "시그마북스",
+                "pubdate": "20201005",
+                "isbn": "9791190257787",
+                "description": "포즈, 형태, 빛을 통해 인체 드로잉 이해하기\n\n이 책은 인체를 그리기 위해 익혀야 할 최신 드로잉 기법들을 알려준다. 서 있는 포즈, 앉아 있는 포즈, 누워 있는 포즈 등 우리가 익숙하다고 느끼는 정적인 자세도 자세히 다루고 있지만, 그 외에도 인체의 움직임을 포착하는 방법과 함께 더욱 역동적이고 아름답게 포즈를 그리려면 무엇을 해야 하는지를 배울 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20201027",
+                "EA_ADD_CODE": "03650",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "크리스 레가스피 지음 ;진주 K. 가디너 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "656.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "215*279",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "173 p.",
+                "CONTROL_NO": "CIP2020039415",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257787",
+                "INPUT_DATE": "20200914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "(아티스트를 위한) 인체드로잉",
+                "PUBLISH_PREDATE": "20201005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "사기병",
+    "oauthor": "윤지회 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사기병 (인생은 내 맘대로 안 됐지만 투병은 내 맘대로)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463987853",
+                "image": "https://shopping-phinf.pstatic.net/main_3246398/32463987853.20221019125312.jpg",
+                "author": "윤지회",
+                "discount": "14140",
+                "publisher": "웅진지식하우스",
+                "pubdate": "20190923",
+                "isbn": "9788901235714",
+                "description": "병원 나이 38년 2개월부터 나는 생존율 7%를 향해 승부를 걸어보기로 했다!\n\n위암 4기 선고를 받은 날부터의 기록을 그림과 글로 엮어 낸 그림일기 『사기병』. 두 돌을 지낸 아기의 엄마, 무뚝뚝한 남편의 아내, 여러 그림책을 짓고 그린 그림책 작가라는 수식어 외에 위암 4기 환자라는 꼬리표를 달게 된 저자가 손톱을 물어뜯는 습관마저 까맣게 잊을 정도의 고통과 정면으로 마주하며 일궈 낸 항암의 기록이자, 생존율 7%를 향해 씩씩하게 내디딘 발자국이다.\n\n슬퍼하거나 정신을 추스를 새도 없이 수술대 위에 올랐고, 위를 거의 다 떼어 내는 수술을 받게 된 저자는 5년 안에 생존하지 않을 93%의 확률, 이 자비 없는 확률과의 싸움에서 온갖 항암 치료와 약으로 육신이 너덜너덜해진 순간에도 따뜻한 기억을 헤집고 매일 아침 숨을 들이마시고 내쉴 수 있음에 기뻐하며 삶에 대한 끈을 놓지 않았다.\n\n저자가 들려주는 생생한 이야기는 마치 깨지지 않는 사기병 안에 갇힌 것처럼 여러 가지 사연으로 고통의 공기 속을 거니는 이 세대에게, 내 건강, 가족, 주위는 미처 돌볼 겨를 없이 앞만 보고 달려온 이들에게 의술이 넘보지 못할 저 너머, 인간 스스로의 용기, 희망이 어떻게 주어진 삶을 변화시키는지를 보여주며 매일매일 누리는 일상의 가치를 일깨운다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진지식하우스 :웅진씽크빅",
+                "DDC": "",
+                "UPDATE_DATE": "20191125",
+                "EA_ADD_CODE": "03650",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윤지회 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "477 p.",
+                "CONTROL_NO": "CIP2019035188",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788901235714",
+                "INPUT_DATE": "20190905",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "사기병",
+                "PUBLISH_PREDATE": "20190923",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

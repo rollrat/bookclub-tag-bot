@@ -1,0 +1,67 @@
+{
+    "otitle": "리더의 자격 지금 바로 실천하고 행동하라",
+    "oauthor": "김성진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 바로 실천하고 행동하라:리더의자격 (빌게이츠)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505099654",
+                "image": "https://shopping-phinf.pstatic.net/main_3250509/32505099654.20220527045750.jpg",
+                "author": "김성진",
+                "discount": "0",
+                "publisher": "씨앤북스",
+                "pubdate": "20150130",
+                "isbn": "9791186299012",
+                "description": "빌 게이츠가 최연소 억만장자가 된 데에는 보통 사람들의 상상을 초월하는 다른 중요한 요인이 있다. 이 책은 글로벌 컴퓨터 황제의 천재적 지혜와 탁월한 신통력을 풀어내고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "씨앤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20160512",
+                "EA_ADD_CODE": "04320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김성진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186299050",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "6500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186299012",
+                "INPUT_DATE": "20150114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "리더의자격 빌게이츠 -지금 바로 실천하고 행동하라.",
+                "PUBLISH_PREDATE": "20150130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04320 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

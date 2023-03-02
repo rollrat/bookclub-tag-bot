@@ -1,0 +1,78 @@
+{
+    "otitle": "전자기파란 무엇인가",
+    "oauthor": "고토 나오히사 저/손영수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:32 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "전자기파란 무엇인가 (보이지 않는 파동을 보기 위하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445097184",
+                "image": "https://shopping-phinf.pstatic.net/main_3244509/32445097184.20221228072122.jpg",
+                "author": "고토 나오히사",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20181210",
+                "isbn": "9788970448473",
+                "description": "보이지 않는 전자기파, 눈에 보이게 설명하다!\n\n송전선으로부터 각 가정으로 배전되는 전력, 전화선을 통해서 음성이 되는 전기신호, 라디오나 텔레비전의 방송전파, 적외선 난로에서 나오는 열, 빛이나 X선 등은 전적으로 같은 전자기파이며 우리는 전자기파에 둘러싸여 생활하고 있다.\n전자기파를 알기 쉽게 설명하기 위해서는 되도록 수식을 쓰지 않아야 한다. 이 책은 최소한의 수식만을 사용하여 전자기파가 어떻게 발생하며 왜 진행하는지 등등을, 오해를 사지 않게 설명한 것이다. 파동으로서의 음파와 전자기파는 비슷한 성질을 지녔기 때문에 이 책에서는 먼저 음파에 대해 설명했다. 또 전기력선과 자기력선과 같은 역선(力線)은 전자기파를 이해하는 열쇠가 되는 것이므로 이 책에서는 역선의 설명에 많은 지면을 할애했다.\n이 책은 전파, 전자기파를 이해할 수 있게 사례를 좇아 썼다. 바다의 파도, 기타 줄(往)의 진동, 음파, 전자기파(전파) 등 우리 주변에는 여러 가지 ‘파동’이 있다. 바다의 파도가 누구에게나 알기 쉬운 것은 그것이 눈에 보이기 때문이다. 전파가 알기 힘든 것은 눈에 보이지 않는다는 성질 때문이기도 하다. 여러 가지 파동의 공통적인 성질과 다른 성질을 밝히는 동시에 전자기파를 「눈에 보이게끔」 하는 것이 이 책의 목적이다."
+            },
+            {
+                "title": "전자기파란 무엇인가 (보이지 않는 파동을 보기 위하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436343664",
+                "image": "https://shopping-phinf.pstatic.net/main_3243634/32436343664.20220527045142.jpg",
+                "author": "고토 나오히사",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "19850601",
+                "isbn": "9788970440446",
+                "description": "전파시대를 살아가면서도 '전자기파'의 본질은 좀처럼 이해하기 힘들다. 전파 '빛' X선 등의 전자기파의 세계를 이해하기 위한 기초지식과 최소한의 수식만을 사용하여 전자기파가 어떻게 발생하며 왜 진행하는가 등을 명료하게 설명하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20181228",
+                "EA_ADD_CODE": "03560",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "고토 나오히사 지음 ;손영수,주창복 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "200 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448473",
+                "INPUT_DATE": "20181119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "전자기파란 무엇인가",
+                "PUBLISH_PREDATE": "20181210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

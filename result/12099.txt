@@ -1,0 +1,23 @@
+{
+    "otitle": "파이썬 Python 2학년 데이터 분석 구조",
+    "oauthor": "모리 요시나오 저/황명희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "파이썬 2학년 데이터 분석 구조 (데이터 분석 구조)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476119826",
+                "image": "https://shopping-phinf.pstatic.net/main_3247611/32476119826.20221019145035.jpg",
+                "author": "모리 요시나오",
+                "discount": "15300",
+                "publisher": "성안당",
+                "pubdate": "20210514",
+                "isbn": "9788931557275",
+                "description": "데이터를 분석해서 특징을 발견하자!\n\n- 구성 및 특징\n① 기초 지식을 알 수 있다.\n② 프로그램의 구조를 알 수 있다.\n③ 개발 체험을 할 수 있다."
+            }
+        ]
+    }
+}

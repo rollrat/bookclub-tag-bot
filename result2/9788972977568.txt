@@ -1,0 +1,67 @@
+{
+    "otitle": "환대받을 권리, 환대할 용기",
+    "oauthor": "이라영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "환대받을 권리, 환대할 용기 (소수자들을 위한 일상생활의 정치학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492677120",
+                "image": "https://shopping-phinf.pstatic.net/main_3249267/32492677120.20221019120532.jpg",
+                "author": "이라영",
+                "discount": "14400",
+                "publisher": "동녘",
+                "pubdate": "20160330",
+                "isbn": "9788972977568",
+                "description": "『환대받을 권리, 환대할 용기』는 《한겨레》를 비롯해 각종 매체에 기고한 칼럼에서 특유의 예민함으로 섬세하고도 날카로운 시각을 보여 준 이라영의 사회 비평 에세이다. ‘사람대접 받지 못하는 사람들’에 대한 이야기를 구체적 일상을 바탕으로 풀어냈ㄷ다. 지금 우리에게 필요한 것은 ‘혁명’이나 ‘미움받을 용기’가 아니라 ‘환대받을 권리’와 ‘환대할 용기’임을 단호하게 말한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동녘",
+                "DDC": "300.2",
+                "UPDATE_DATE": "20160407",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "이라영",
+                "SERIES_TITLE": "",
+                "KDC": "330.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5296926_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5296926_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "340",
+                "CONTROL_NO": "CIP2016006859",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972977568",
+                "INPUT_DATE": "20160311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "환대받을 권리, 환대할 용기",
+                "PUBLISH_PREDATE": "20160330",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

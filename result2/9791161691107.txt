@@ -1,0 +1,67 @@
+{
+    "otitle": "천문학 아는 척하기",
+    "oauthor": "제프 베컨 저/사라 베컨 그림/김다정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "천문학 아는 척하기 (알아두면 사는 데 도움 되는 천문학 기초 지식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492117345",
+                "image": "https://shopping-phinf.pstatic.net/main_3249211/32492117345.20221229072438.jpg",
+                "author": "제프 베컨",
+                "discount": "12150",
+                "publisher": "팬덤북스",
+                "pubdate": "20200320",
+                "isbn": "9791161691107",
+                "description": "천문학 ‘노잼’인 사람들도 빠져드는\n세상 쉬운 천문학 기초 지식!\n\n- 세상에서 가장 컴팩트한 천문학을 만나다! ‘수포자’만큼이나 ‘과포자’도 많은 요즘, 과학을 더 쉽고 더 재미있게 접근하려는 과학의 대중화가 붐이다. 과학 분야 중에서도 특히 천문학은 대중이 범접할 수 없는 세계처럼 느껴져, 대중에게 경계심이 큰 분야인 것이 사실이다. 천문학은 우주를 연구하는 학문이자 가장 오래된 과학이지만 그 면면을 알고 이해하는 사람은 과학덕후 외에는 많지 않다. 교과서적인 내용조차 이해하기 쉽지 않고 이론적으로 접근할 수밖에 없는 한계가 있어 대중이 천문학과 가까워지기란 쉽지 않다. \n\n그래서 이 책은 천문학과 조금이라도 친해지고 싶은 사람들, 우주에 대해 알고 싶지만 난해해서 포기했던 사람들, 또 내 아이에게 우주에 대해 쉽게 알려주고 싶은 부모들이 참고할 만한 천문학 기초 지식을 컴팩트하게 담았다. 또 어렵고 하기 싫은 공부 느낌이 아니라, 우리 삶과 연결된 실용적인 학문으로 접근한다는 점에서 다른 교양 천문학과 차별된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200402",
+                "EA_ADD_CODE": "03440",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "제프 베컨 지음 ;사라 베컨 그림 ;김다정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "182 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161691107",
+                "INPUT_DATE": "20200304",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "천문학 아는 척하기",
+                "PUBLISH_PREDATE": "20200327",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

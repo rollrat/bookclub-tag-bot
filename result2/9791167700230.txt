@@ -1,0 +1,78 @@
+{
+    "otitle": "걷기의 말들",
+    "oauthor": "마녀체력(이영미) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:45 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "걷기의 말들 (일상이 즐거워지는 마법의 주문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483329399",
+                "image": "https://shopping-phinf.pstatic.net/main_3248332/32483329399.20230218110644.jpg",
+                "author": "마녀체력(이영미)",
+                "discount": "12600",
+                "publisher": "유유",
+                "pubdate": "20220224",
+                "isbn": "9791167700230",
+                "description": "자타공인 ‘걷기 도사’, 걷기 시작하며 인생이 바뀌었다고 이야기하는 마녀체력의 걷기 예찬서. 생각해 보면 걷기는 인간의 모든 의미 있는 행위를 상징하는 메타포다. 길을 가다, 나이를 먹다, 경력을 쌓다, 인생을 살다, 일어나다, 계속하다, 경험하다, 시도하다와 같은 단어들이 모두 ‘걷다’란 말로 환언된다. 그런 만큼 마녀체력은 이 책 『걷기의 말들』에서 그간 걸어 온 수많은 길을 소환한다. \n\n\n\n두 발로 걸어 다닌 집 앞 산책길과 전 세계 도보 여행지부터 30년 넘게 서로의 곁을 지켜 준 반려인과 함께 걸은 인생이라는 길. 엄마로서 아이에게 열어 보여 준 길과 딸로서 보고 배운 두 어머니의 한결 같은 삶. 책 만드는 편집자로 27년을 일하며 경험한 다채로운 지적 여정과 책 쓰는 작가로 살며 거닌 전국 책방 탐방길. 탄탄한 평지뿐 아니라 오르막과 내리막을 번갈아 타며 길 위에서 보고 느낀 모든 것을 담아냈다."
+            },
+            {
+                "title": "걷기의 말들(큰글자도서) (일상이 즐거워지는 마법의 주문)",
+                "link": "https://search.shopping.naver.com/book/catalog/33891835624",
+                "image": "https://shopping-phinf.pstatic.net/main_3389183/33891835624.20221019132532.jpg",
+                "author": "이영미",
+                "discount": "26730",
+                "publisher": "유유",
+                "pubdate": "20220725",
+                "isbn": "9791167700346",
+                "description": "자타공인 ‘걷기 도사’, 걷기 시작하며 인생이 바뀌었다고 이야기하는 마녀체력의 걷기 예찬서. 생각해 보면 걷기는 인간의 모든 의미 있는 행위를 상징하는 메타포다. 길을 가다, 나이를 먹다, 경력을 쌓다, 인생을 살다, 일어나다, 계속하다, 경험하다, 시도하다와 같은 단어들이 모두 ‘걷다’란 말로 환언된다. 그런 만큼 마녀체력은 이 책 『걷기의 말들』에서 그간 걸어 온 수많은 길을 소환한다. 두 발로 걸어 다닌 집 앞 산책길과 전 세계 도보 여행지부터 30년 넘게 서로의 곁을 지켜 준 반려인과 함께 걸은 인생이라는 길. 엄마로서 아이에게 열어 보여 준 길과 딸로서 보고 배운 두 어머니의 한결 같은 삶. 책 만드는 편집자로 27년을 일하며 경험한 다채로운 지적 여정과 책 쓰는 작가로 살며 거닌 전국 책방 탐방길. 탄탄한 평지뿐 아니라 오르막과 내리막을 번갈아 타며 길 위에서 보고 느낀 모든 것을 담아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유유",
+                "DDC": "",
+                "UPDATE_DATE": "20220325",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "마녀체력 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "213 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167700230",
+                "INPUT_DATE": "20220204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "걷기의 말들",
+                "PUBLISH_PREDATE": "20220224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

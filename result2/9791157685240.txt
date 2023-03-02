@@ -1,0 +1,67 @@
+{
+    "otitle": "영어를 해석하지 않고 읽는 법",
+    "oauthor": "황준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영어를 해석하지 않고 읽는 법 (어떤 영문도 피할 수 없는 Reading Patterns 120)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443972630",
+                "image": "https://shopping-phinf.pstatic.net/main_3244397/32443972630.20221227202945.jpg",
+                "author": "황준",
+                "discount": "13950",
+                "publisher": "동양북스",
+                "pubdate": "20190801",
+                "isbn": "9791157685240",
+                "description": "“모르는 단어가 없는데 해석이 안 된다면 읽기 전략이 실패했기 때문이다”\n\n영어 시험을 앞둔 사람이라면 꼭 봐야 할 수험영어 읽기의 모든 것\n영문을 가장 정확하게 가장 빨리 읽을 수 있는 가장 쉬운 방법\n\nTOEIC, TOEFL, IELTS, 수능 영어, 공무원 영어, 편입 영어 등 각종 영어시험에 등장하는 모든 영문은 120개 내외의 문법 규칙들이 결합된 문장으로 이루어져 있다. ‘많이 보고 듣고 말하고 쓰는 영문’을 만드는 ‘조건’은 정해져 있다는 말이다. 수험영어에 국한된 얘기만은 아니다. [뉴욕타임스], [타임] 등 원어민들이 일상에서 매일같이 접하는 영문도 다르지 않다. 모르는 단어가 없는데 해석이 안 되거나 독해력이 더 이상 늘지 않는 이유는 어휘력 때문만이 아니라 밥 먹듯 등장하는 영문 구조가 모국어처럼 체화되지 않았기 때문이라는 저자의 진단에 고개가 절로 끄덕여지는 이유다. \n\n그렇다면 120개의 문법 규칙이 과연 무엇이고, 이를 어떻게 체득할 것이냐가 무엇보다 중요할 터. 저자는 영어교육 현장의 일선이라고 해도 과언이 아닌 수험영어 콘텐츠 개발 분야에 십수 년간 몸담으면서 광범위한 데이터를 수집하고 분석해 그 어떤 영문도 피해갈 수 없는 120가지 문법 규칙을 유형화했다. 영문을 보자마자 복잡하게 얽힌 문법 규칙들을 즉각 파악할 수 있는 순발력이 곧 영어 실력이라는 경험칙에 따라 공들여 추린 120개 패턴과 다양한 수험영어 지문에 가장 근접한 영문을 함께 반복적으로 읽다 보면 영문의 모든 문장 구조가 저절로 머릿속에 새겨질 것이다. 모국어로 뜻을 옮기는 ‘해석’ 단계를 넘어 영문의 맥락을 단숨에 파악하는 ‘읽기’ 단계에 도달한 상위 1%의 독해 기술이 담겨 있는 이 책은 단번에 읽히지 않는 영문과 여전히 씨름하고 있는 모든 학습자들을 위한 필독서다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190828",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "747",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/07/08/9791157685240.jpg",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "318 p.",
+                "CONTROL_NO": "CIP2019026546",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157685240",
+                "INPUT_DATE": "20190708",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "영어를 해석하지 않고 읽는 법",
+                "PUBLISH_PREDATE": "20190801",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

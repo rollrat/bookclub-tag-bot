@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 왜 자꾸 미룰까?",
+    "oauthor": "비벌리 베이첼 저/최설희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 왜 자꾸 미룰까? (중학생을 위한 목표 관리법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466985813",
+                "image": "https://shopping-phinf.pstatic.net/main_3246698/32466985813.20221019123357.jpg",
+                "author": "비벌리 K. 베이첼",
+                "discount": "10800",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20170414",
+                "isbn": "9788958076377",
+                "description": "“이따 할 거야.” “5분만 자고 할래.” “폭망했어.” 중학생들이 입에 달고 사는 말들이다. 왜 이렇게 툭하면 미룰까? 의지가 약해서? 게을러서? 그렇지 않다. 『나는 왜 자꾸 미룰까?』는 중학생들의 의지력과 게으름을 탓하지 않는다. 대신, 작고 쉬운 목표부터 세워 성취감을 맛보고 자신이 진짜 원하는 삶을 향해 전진해 갈 수 있는 실제적인 방법을 가르쳐 준다. 저자는 중학생들이 진짜 원하는 것을 찾고 목표 관리를 시작할 수 있도록 자유로운 형식, 친절한 말투, 치밀하고 전략적인 내용 구성까지 다각도로 방법을 모색한다. 중학생들이 목표를 세우고 완수할 수 있게 하는 거의 모든 것을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌출판(주)",
+                "DDC": "",
+                "UPDATE_DATE": "20170502",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "비벌리 베이첼",
+                "SERIES_TITLE": "",
+                "KDC": "181",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6183008_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6183008_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "232",
+                "CONTROL_NO": "CIP2017007913",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958076377",
+                "INPUT_DATE": "20170327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 왜 자꾸 미룰까?",
+                "PUBLISH_PREDATE": "20170414",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

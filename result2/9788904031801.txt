@@ -1,0 +1,67 @@
+{
+    "otitle": "알리스터 맥그래스의 역사신학",
+    "oauthor": "알리스터 맥그래스 저/조계광 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "알리스터 맥그래스의 역사신학 (기독교 사상사 개론)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436016770",
+                "image": "https://shopping-phinf.pstatic.net/main_3243601/32436016770.20221019133031.jpg",
+                "author": "알리스터 맥그라스",
+                "discount": "34200",
+                "publisher": "생명의말씀사",
+                "pubdate": "20220228",
+                "isbn": "9788904031801",
+                "description": "“이 책은 역사신학 개론이다. 역사신학의 주제들을 상세하게 살펴보기 전에 이 학문이 전체 신학에서 차지하는 위치와 중요성을 이해하는 것이 필요하다. 우리는 먼저 기독교 신학의 역사적 발전 과정을 살펴보면서, ‘역사신학’이라는 특정한 학문이 신학의 전체적인 맥락과 어떻게 연결되는지를 이해하고자 한다.”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20220426",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "알리스터 맥그래스 지음 ;조계광 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "38000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "548 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904031801",
+                "INPUT_DATE": "20220216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "(알리스터 맥그래스의) 역사신학",
+                "PUBLISH_PREDATE": "20220228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

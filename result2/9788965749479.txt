@@ -1,0 +1,67 @@
+{
+    "otitle": "40일간의 남미 일주",
+    "oauthor": "최민석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "40일간의 남미 일주 (최민석 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444146634",
+                "image": "https://shopping-phinf.pstatic.net/main_3244414/32444146634.20221019123945.jpg",
+                "author": "최민석",
+                "discount": "14690",
+                "publisher": "해냄출판사",
+                "pubdate": "20200820",
+                "isbn": "9788965749479",
+                "description": "“오늘은 이만큼만.\n생의 모든 순간을 들떠 있거나,\n상처받은 채 살아갈 순 없으니까”\n\n웃다 보면 가슴이 짠해지는 여행기\n읽다 보면 빛을 발하는 세상살이 요령"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄(해냄출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20200922",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "지은이: 최민석",
+                "SERIES_TITLE": "",
+                "KDC": "985.02",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "126*187",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "417 p. (일부접지)",
+                "CONTROL_NO": "CIP2020031326",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965749479",
+                "INPUT_DATE": "20200727",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "40일간의 남미 일주",
+                "PUBLISH_PREDATE": "20200820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

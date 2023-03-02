@@ -1,0 +1,67 @@
+{
+    "otitle": "조지아 홀리데이",
+    "oauthor": "이시현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조지아 홀리데이 (2022~2023년 대비)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473949387",
+                "image": "https://shopping-phinf.pstatic.net/main_3247394/32473949387.20221019145839.jpg",
+                "author": "이시현",
+                "discount": "15300",
+                "publisher": "꿈의지도",
+                "pubdate": "20220610",
+                "isbn": "9791167620200",
+                "description": "세계 최초의 와인이 만들어진 대자연의 나라 조지아를 안내하는 가이드북. 저렴한 물가와 친절한 사람들, 한국인은 360일 무비자라 한 달 살기 여행지로 인기몰이 중인 조지아! 알프스보다 더 웅장하고 높은 코카서스산맥의 숨막히는 파노라마와 수천년의 역사를 간직한 수도원과 성당, 와인과 함께 즐기는 미식의 세계까지, 조지아 여행의 모든 것을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20220714",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "글·사진: 이시현",
+                "SERIES_TITLE": "홀리데이 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186581339",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "129*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "46",
+                "EA_ISBN": "9791167620200",
+                "INPUT_DATE": "20220503",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "조지아 홀리데이",
+                "PUBLISH_PREDATE": "20220610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

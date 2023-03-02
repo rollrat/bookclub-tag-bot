@@ -1,0 +1,67 @@
+{
+    "otitle": "리스본 쟁탈전",
+    "oauthor": "주제 사라마구 저/김승욱 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "리스본 쟁탈전",
+                "link": "https://search.shopping.naver.com/book/catalog/32496903803",
+                "image": "https://shopping-phinf.pstatic.net/main_3249690/32496903803.20221019135224.jpg",
+                "author": "주제 사라마구",
+                "discount": "13320",
+                "publisher": "해냄출판사",
+                "pubdate": "20070129",
+                "isbn": "9788973378227",
+                "description": "교정자의 펜 끝에서 뒤바뀐 역사!\n\n우화적 비유와 신랄한 풍자, 경계 없는 상상력으로 자신만의 독특한 문학세계를 구축해온 포르투갈 작가, 주제 사라마구의 장편소설. 이야기는 포르투갈의 성립과정을 둘러싼 역사적 사실로부터 출발한다. 소설 속 사건들의 배경은 두 가지로 나뉘는데, 하나는 교정자인 라이문두 실바가 꼭 써야 한다는 강박관념에 시달리는, 리스본 쟁탈전의 대안역사와 관련된 핵심적인 일화들로 가득 찬 12세기이고, 또 하나는 라이문두 실바의 일상생활과 새로운 편집자와의 만남이 벌어지는 20세기이다.\n\n새 편집자는 그에게 이미 확립된 역사기록을 근본적으로 바꿔 쓰는 이유를 정당화해 보라는 과제를 던진다. 라이문두 실바는 십자군의 도움이 없으면서도 리스본을 탈환할 힘이 어디 있었는지를 당시 아퐁소 국왕의 연설이나 거기에 참전했던 병사들의 사기, 그리고 리스본 성의 상황 속에서 찾아냄으로써 역사 기록 속의 빈틈들을 그럴 듯하게 메우려 하는데….\n\n작가는 재창조된 과거와 주인공의 즐거운 환상 사이를 오가며 과거와 현재를 장난스럽게 배치하고 해박한 역사적 지식을 내보이며, 역사 자료와 역사적 허구 간의 차이, 역사의 빈틈에 삽입된 인간들의 이야기에 대해 성찰을 요구하며 역사와 언어의 본질에 대한 도발적인 질문을 제기하고 있다. 〈양장제본〉"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20070214",
+                "EA_ADD_CODE": "03870",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "주제 사라마구 지음;김승욱 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788973378227",
+                "INPUT_DATE": "20070214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "리스본 쟁탈전",
+                "PUBLISH_PREDATE": "20070129",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

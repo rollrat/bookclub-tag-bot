@@ -1,0 +1,67 @@
+{
+    "otitle": "ENJOY 일본어 메뉴판 읽기",
+    "oauthor": "황미진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "ENJOY 일본어 메뉴판 읽기 (일본 여행에서 꼭 먹어야 할 음식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504313838",
+                "image": "https://shopping-phinf.pstatic.net/main_3250431/32504313838.20230224102411.jpg",
+                "author": "황미진",
+                "discount": "10350",
+                "publisher": "넥서스",
+                "pubdate": "20170930",
+                "isbn": "9791161651293",
+                "description": "일본어 몰라도 OK! 일본어는 몰라도 먹고 싶은 음식은 먹고 오자!\n\n식도락 천국 일본에서 내 맘대로 먹고 싶은 음식을 주문할 수 있도록 음식 메뉴를 알려준다. 일본어를 몰라도 일본어로 된 메뉴판은 읽을 수 있다. 스시, 라멘, 야키니쿠, 편의점 음식, 디저트 등 크게 18가지로 음식들이 분류되어 있으며, 일본 맛집 덕후가 뽑은 300여 개의 음식을 소개한다. 식당에서 필요한 회화 표현과 단어의 MP3파일을 넥서스 홈페이지에서 무료로 제공한다. www.nexusbook.com\n책과 함께 인터파크투어와 빅카메라 할인쿠폰을 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "495.68",
+                "UPDATE_DATE": "20171023",
+                "EA_ADD_CODE": "13730",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "황미진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "734",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6361346_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6361346_3.jpg",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6361346_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "115*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "CIP2017024137",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161651293",
+                "INPUT_DATE": "20170914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "Enjoy 일본어 메뉴판 읽기",
+                "PUBLISH_PREDATE": "20170930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

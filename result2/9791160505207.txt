@@ -1,0 +1,67 @@
+{
+    "otitle": "골프 상식사전",
+    "oauthor": "김기태 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "골프 상식사전 (골프 상식에서 규칙, 매너, 레슨 이론은 물론 골프 심리, 마인드 컨트롤까지 한 번에!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474224923",
+                "image": "https://shopping-phinf.pstatic.net/main_3247422/32474224923.20230223071143.jpg",
+                "author": "김기태",
+                "discount": "13820",
+                "publisher": "길벗",
+                "pubdate": "20180810",
+                "isbn": "9791160505207",
+                "description": "온라인에서 골프로 소통해온 저자의 다양한 정보와 노하우 대방출!\n\n\n\n2010년부터 꾸준히 블로그에 골프 관련 글을 게재해온 저자는 몇 년 전부터 팟캐스트(유튜브 등)에서 골프 관련 내용 강연을 함으로써 인지도를 쌓아가고 있다. 또한 최근에는 카페를 통해 독자와의 소통에도 적극적으로 나서고 있다.\n\n\n\n골프가 좋아서 골프업계로 전업까지 한 저자는 진솔한 경험과 골프에 대한 솔직하고 친절한 설명으로 많은 골퍼들과 소통해왔으며, 현재 골프업계에서 활발히 활동하면서 골프 관련 최신 트렌드를 빠르게 접하여 독자들에게 전해준다.\n\n\n\n그는 특히 실제 필드에서 골프 레슨을 하거나, 카페나 팟캐스트 청취자들의 사례, 현장에서 골프 관련 다양한 사람들을 만나며 겪을 사례를 다양하게 실어 정보적인 면에서 신뢰성을 더한다.\n\n\n\n그는 골프 상식, 룰, 매너 등에 대한 이론적 지식뿐 아니라 초보자와 중급자 모두 알면 좋은 골프 레슨을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "길벗",
+                "DDC": "",
+                "UPDATE_DATE": "20180905",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "http://www.gilbut.co.kr",
+                "AUTHOR": "김기태 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "165*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160505207",
+                "INPUT_DATE": "20180710",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "골프 상식사전",
+                "PUBLISH_PREDATE": "20180810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

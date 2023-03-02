@@ -1,0 +1,67 @@
+{
+    "otitle": "아빠, 물리가 뭐예요?",
+    "oauthor": "조성주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아빠, 물리가 뭐예요? (청소년을 위한 톡톡! 튀는 물리 이야기!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492647916",
+                "image": "https://shopping-phinf.pstatic.net/main_3249264/32492647916.20221227203040.jpg",
+                "author": "조성주",
+                "discount": "10800",
+                "publisher": "예문당",
+                "pubdate": "20200212",
+                "isbn": "9788970017082",
+                "description": "아빠가 들려주는 재미있는 물리 이야기!\n\n이 책은 어렵게 느낄 수밖에 없는 물리를 청소년이 이해할 수 있는 언어로 쉽게 설명해주는 물리 입문서이다. 아이들이 세상의 수많은 질문에 대해 스스로 답을 찾아가면서 과학을 즐겁게 접할 수 있도록, 저자가 직접 경험하고 이해한 물리의 세계를 물리학자인 아빠와 호기심 많은 딸의 대화 형식을 통해 보여준다. 물리학이 발전해 온 역사부터 현대 물리학의 난제인 암흑물질과 암흑에너지에 이르기까지 이해하기 어렵고 복잡한 물리를 생동감 있게 설명하고 있다. 우리가 살아가는 세상의 놀라운 질문에 대한 해답을 찾는 것이 물리를 배우는 과정이라는 생각으로 흥미를 가지고 이 책을 따라가다 보면 누구나 물리의 아름다움을 경험할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문당",
+                "DDC": "",
+                "UPDATE_DATE": "20200319",
+                "EA_ADD_CODE": "43420",
+                "PUBLISHER_URL": "www.yemundang.com",
+                "AUTHOR": "조성주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "420",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "171 p.",
+                "CONTROL_NO": "CIP2020001703",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970017082",
+                "INPUT_DATE": "20200113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "아빠, 물리가 뭐예요?",
+                "PUBLISH_PREDATE": "20200212",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "취향의 기쁨",
+    "oauthor": "권예슬 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "취향의 기쁨 (나만의 방식으로 살아간다는 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445681035",
+                "image": "https://shopping-phinf.pstatic.net/main_3244568/32445681035.20230110163655.jpg",
+                "author": "권예슬",
+                "discount": "12100",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20211020",
+                "isbn": "9791188469871",
+                "description": "나는 ______조차 취향이라 부르기로 했다\n\n내 안의 무해한 존재들에게 ‘취향’이라 이름 붙이는 순간들을 기록했다. ‘까무룩’이라는 단어, 오전 9시 40분 동작대교를 지나는 열차 안, 채소에서만 느낄 수 있는 특유의 달콤함, 단발머리를 흔들 때 목 끝에 닿는 머리칼과 바람의 느낌, 어릴 때 친구들과 주고받은 쪽지들. 이런 반짝이는 것들을 갖고 있으면서도 취향이라 이름 붙여도 되는지 몰랐고, 그것들을 드러내는 방법에도 어리숙했던 과거들을 솔직하게 고백한다. 항상 선택 앞에 흔들리는 보통의 우리들을 위해 쓴 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름(필름 출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20220124",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글·그림: 권예슬",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/30/9791188469871.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "234 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188469871",
+                "INPUT_DATE": "20210930",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "취향의 기쁨",
+                "PUBLISH_PREDATE": "20211020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "박가가 오늘도 수영일기",
+    "oauthor": "박새미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "박가가 오늘도 수영일기",
+                "link": "https://search.shopping.naver.com/book/catalog/32473649741",
+                "image": "https://shopping-phinf.pstatic.net/main_3247364/32473649741.20221229071038.jpg",
+                "author": "박새미",
+                "discount": "10800",
+                "publisher": "유노북스",
+                "pubdate": "20190520",
+                "isbn": "9791189279547",
+                "description": "“수영은 이번 생이 처음이라….”\n수.알.못 인스타툰 작가의 좌충우돌 수영 입문기\n\n수많은 팔로워들의 절대적인 지지로 탄생한 그림 에세이 『박가가 오늘도 수영일기』. 1만 9천 팔로워를 보유한 화제의 인기 인스타툰이 올여름 한 권의 책으로 독자들을 찾아왔다!\n\n시작에는 이유도 뭣도 없었다. 남다른 개성으로 중무장한 작가가 단순히 버킷 리스트에 고이 담아 둔 ‘수영 호기심’을 실천으로 옮긴 것뿐. 이는 수.알.못 운동 바보에게 결코 만만치 않은 도전이었다. 훅 파인 디자인과 화려한 패턴의 쫄쫄이 수영복에 얼굴은 붉어지고, 발차기만 킥! 킥! 세월아 네월아 반복하면서 좌절 모드에 빠지는 일이 끝없이 이어졌다.\n\n하지만 그 순간, 박가가는 수영의 고충과 애로를 ‘그림’으로 승화시켜 보면 어떨까 하는 생각을 갖게 되고, 수영장에서 벌어지는 다양한 에피소드들을 인스타그램에 올리기 시작한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190626",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박새미 지음",
+                "SERIES_TITLE": "",
+                "KDC": "696.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "CIP2019017052",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189279547",
+                "INPUT_DATE": "20190429",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "박가가 오늘도 수영일기",
+                "PUBLISH_PREDATE": "20190520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

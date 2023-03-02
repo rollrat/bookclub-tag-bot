@@ -1,0 +1,78 @@
+{
+    "otitle": "우리, 공부합시다",
+    "oauthor": "정현희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:03 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "우리, 공부합시다 (늘 깨어 있는 참언론을 꿈꾸다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494125690",
+                "image": "https://shopping-phinf.pstatic.net/main_3249412/32494125690.20221229074518.jpg",
+                "author": "정현희",
+                "discount": "14690",
+                "publisher": "매일경제신문사",
+                "pubdate": "20210717",
+                "isbn": "9791164842209",
+                "description": "매일경제 창업주 서거 40주기 기념 개정판을 내며\n\n끝없는 열정과 노력, 배우고자 하는 열의로 불타오르는 인생을 살았던 한 사람. 청년 사업가이자 따뜻한 가슴을 지닌 기자, 아버지였던 매일경제 창업주 정진기에 대한 회고록이, 정진기 창업주의 서거 40주기를 맞아 새로이 출간되었다. 첫 출간 10년 후, 40주기를 맞아 펴낸 개정판에는 이 책의 저자인 정진기 창업주의 딸이 어떤 마음으로 다시 이 개정판을 쓰게 되었는지를 밝히고 있다. 돌아가신 아버지를 존경하고 그리워하는 딸의 마음이 은은하게 전해진다. 또한 오늘날의 매일경제는 창업주의 정신을 이어받아 어떻게 발전하고 있으며 어떤 미래를 모색하고 있는지에 대해 이야기한다. \n혼란스럽고 변화무쌍한 현대 사회 속에서 정진기 창업주의 정신을 다시 읽어볼 가치가 있다. 오늘날 그가 남긴 정신적 유산을 다시 한번 느끼고 마음에 새겨보자. 또한 매일경제의 미래 비전을 함께 꿈꿔보자."
+            },
+            {
+                "title": "우리 공부합시다",
+                "link": "https://search.shopping.naver.com/book/catalog/32436315016",
+                "image": "https://shopping-phinf.pstatic.net/main_3243631/32436315016.20221227205952.jpg",
+                "author": "정현희",
+                "discount": "13500",
+                "publisher": "매일경제신문사",
+                "pubdate": "20110717",
+                "isbn": "9788974427597",
+                "description": "꿈을 이룬 사나이, 매일경제 창업주 정진기의 ‘공부합시다’\n\n『우리, 공부합시다』는 끝없는 열정과 노력으로 스스로를 불태웠던 한 사람, 청년 사업가이자 따뜻한 가슴을 가진 아버지였던 매일경제 창업주 정진기에 대해 그의 딸이 쓴 회고록이다. 국민 모두가 공부하기를 바랐던 경영인 정진기가 어떻게 그 신념을 지키고 노력하며 살아왔는지 그 궤적을 따라가면서 기업을 경영하기에 앞서 자신의 인생을 경영하는 데 성공할 수 있어야 비로소 추구하는 목표에 도달할 수 있다는 것을 이야기한다. 아버지로서, 남편으로서, 그리고 한국 최고의 신문을 만들기 위해 끊임없이 공부하는 경영인 정진기의 모습을 구체적인 에피소드로 들려주면서 언제 어느 자리에서든 끊임없이 노력하고 배우는 자세가 성공의 조건임을 깨닫게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210812",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "정현희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/07/16/9791164842209.JPG",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164842209",
+                "INPUT_DATE": "20210119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우리, 공부합시다",
+                "PUBLISH_PREDATE": "20210717",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "이명현의 과학책방",
+    "oauthor": "이명현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이명현의 과학책방 (별처럼 시처럼, 과학을 읽다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480571214",
+                "image": "https://shopping-phinf.pstatic.net/main_3248057/32480571214.20230131164310.jpg",
+                "author": "이명현",
+                "discount": "15300",
+                "publisher": "사월의책",
+                "pubdate": "20180910",
+                "isbn": "9788997186747",
+                "description": "막연하던 과학을 막역한 친구로 만들어주는 과학 에세이\n‘한국의 칼 세이건’으로 불리는 천문학자\n이명현이 들려주는 별의별 과학책 이야기\n\n이 책은 막연하던 과학을 막역한 친구로 만들어주는 과학 에세이집이다. 전작 『이명현의 별 헤는 밤』에서 저자 이명현은 별과 시와 소설을 사랑하는, 인문학 감수성이 충만한 천문학자의 모습을 선보이며 많은 사랑을 받았다. 이 책에서 그는 한 발짝 더 나아가서, 과학의 숲을 헤쳐갈 수 있도록 지름길을 알려주는 길잡이를 자처한다. 그러나 결코 딱딱하고 지루한 ‘모범’ 가이드가 아니라, 저자 자신의 과학책 읽기 ‘희로애락’을 과감 없이 드러내는 솔직담백한 ‘자전적 과학 에세이’다.\n\n이명현은 과학책의 콘텐츠와 자신의 내밀한 경험을 자연스레 엮어내면서 달력, 날씨, 진화, 외계인 같은 친숙한 과학적 주제들에서 블랙홀, 양자역학, 빅뱅, 힉스 입자 같은 어려운 과학 개념들에 이르는 다채로운 과학 이야기를 펼친다. 그는 우주와 자연에 대한 경이감을 일상 속에서 자연스럽게 녹여내는 재주가 있다. 그래서 그의 손을 거치면 과학에 대한 두려움은 사라지고, 아직 읽지 못한 과학책도 마치 친구의 친구처럼 한번쯤 만나고 싶은 호기심이 생긴다. 과학에 생소한 이들에게 입문서로 제격이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사월의책",
+                "DDC": "500",
+                "UPDATE_DATE": "20180904",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.aprilbooks.net",
+                "AUTHOR": "이명현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "400",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6846383_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6846383_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "398 p.",
+                "CONTROL_NO": "CIP2018024849",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997186747",
+                "INPUT_DATE": "20180807",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "이명현의 과학책방",
+                "PUBLISH_PREDATE": "20180910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

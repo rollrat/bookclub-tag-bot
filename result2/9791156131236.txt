@@ -1,0 +1,67 @@
+{
+    "otitle": "나와 마빈 가든",
+    "oauthor": "에이미 새리그 킹 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나와 마빈 가든",
+                "link": "https://search.shopping.naver.com/book/catalog/32445728833",
+                "image": "https://shopping-phinf.pstatic.net/main_3244572/32445728833.20221231084224.jpg",
+                "author": "에이미 새리그 킹",
+                "discount": "11700",
+                "publisher": "봄나무",
+                "pubdate": "20181025",
+                "isbn": "9791156131236",
+                "description": "봄나무 문학선 시리즈. 삶의 터전을 잃은 한 소년과 불현듯 나타난 플라스틱을 먹는 동물의 우정을 담은 성장 소설이다. 청소년 문학에서 두각을 나타내며 마이클 L. 프린츠 아너 상을 수상한 에이미 새리그 킹의 첫 어린이 소설로, '워싱턴 포스트' 최고의 어린이책에 선정되었다. 불안한 우정, 따돌림, 난개발로 인한 상실감 등 열한 살 소년의 성장통과 ‘플라스틱을 먹는 동물’을 통해 들려주는 환경 오염 이야기가 촘촘하게 엮여 있다.\n\n\n\n오비는 주로 집 근처 샛강에서 논다. 단짝이었던 토미가 재개발 지역에 이사 온 새 친구들과 어울리면서, 외톨이가 되었다. 어느 날 오비는 샛강에서 야생 동물과 마주친다. 그런데 그 동물의 생김새가 완전히 특이하다. 난생 처음 보는 종이다. 게다가 그 동물은 놀랍게도 플라스틱을 먹고 있다. 비닐봉지, 우유 통, 사태막이…. 오비는 특이한 동물에게 마음이 끌린다. 그 동물 역시 오비를 경계하는 대신 친근하게 굴고 잘 따른다.\n\n\n\n오비는 동물에게 마빈 가든이라는 이름을 지어 주고는 날마다 플라스틱 먹이를 들고 찾아간다. 마빈 가든은 부동산 게임인 모노폴리의 한 지역에서 따왔다. 오비의 삶의 터전이었던, 지금은 다른 사람의 땅이 되어 버린 옥수수 밭에 삐죽삐죽 솟은 건물을 떠올리며 지은 이름이다. 시간이 지날수록 오비는 마빈과 공통점이 많다고 여기며 둘 사이는 더 각별해진다. 그런데 마빈은 어디에서 온 걸까? 오비와 마빈은 계속 친구일 수 있을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "봄나무",
+                "DDC": "",
+                "UPDATE_DATE": "20181121",
+                "EA_ADD_CODE": "73840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "에이미 새리그 킹 지음 ;유시연 그림 ;이혜선 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "333 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156131236",
+                "INPUT_DATE": "20181002",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나와 마빈 가든 ",
+                "PUBLISH_PREDATE": "20181025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

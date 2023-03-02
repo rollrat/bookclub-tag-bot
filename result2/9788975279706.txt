@@ -1,0 +1,67 @@
+{
+    "otitle": "수학여행자를 위한 안내서",
+    "oauthor": "귄터 치글러 저/여상훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수학여행자를 위한 안내서 (스도쿠에서 페르마의 정리까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504431680",
+                "image": "https://shopping-phinf.pstatic.net/main_3250443/32504431680.20220521121152.jpg",
+                "author": "귄터 치글러",
+                "discount": "0",
+                "publisher": "들녘",
+                "pubdate": "20110512",
+                "isbn": "9788975279706",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘,",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "지은이: 권터 치글러 ;옮긴이: 여상훈",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788975279706",
+                "INPUT_DATE": "20110427",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "수학여행자를 위한 안내서 ",
+                "PUBLISH_PREDATE": "20110512",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

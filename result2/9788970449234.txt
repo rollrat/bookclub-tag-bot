@@ -1,0 +1,78 @@
+{
+    "otitle": "초전도란 무엇인가",
+    "oauthor": "오쓰카 다이이치로 저/김병호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:16 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "초전도란 무엇인가? (왜 일어나는가? 어떻게 사용하는가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467068181",
+                "image": "https://shopping-phinf.pstatic.net/main_3246706/32467068181.20221228072830.jpg",
+                "author": "오쓰카 다이이치로",
+                "discount": "13500",
+                "publisher": "전파과학사",
+                "pubdate": "20200225",
+                "isbn": "9788970449234",
+                "description": "고온초전도의 세계는 지금 시작되고 있다\n\n절대영도 부근에서 어떤 종류의 물질의 전기저항이 제로가 되는 초전도 현상은 왜 일어나는가? 저항이 없어지는 메커니즘은 어떤 것인가? 초전도를 일으키는 전자쌍은 어떻게 해서 생기는가? 왜 극저온이 아니면 안 되는가? 이것은 그 정체를 숨겨온 초전도도 BCS 이론의 등장에 의해 해명된 듯이 보였다. 초전도 현상이 바딘, 쿠퍼, 슈리퍼(BCS) 등에 의해 해명된 것은 발견으로부터 46년째인 1957년의 일이었다. 1960년대에 들어와서는 터널효과, 자속 양자화와 꿈에도 생각지 못했던 높은 자기장까지 초전도성을 유지하는 재료, 그리고 조셉슨 효과가 잇따라 발견되어 초전도가 아직도 비밀로 숨기고 있었던 것들이 밝혀지게 되었다. 이들 발견은 BCS 이전에는 생각조차 못 했던 초전도의 응용 분야를 열어놓았다. 그런데 초전도 응용에 있어서의 약점은 극저온 환경을 필요로 한다는 점이었다. 보다 높은 온도에서 초전도가 되는 물질은 없을까? 1986년 뮐러, 베드노르츠 박사에 의한 고임계온도산화물 초전도체의 발견에 의해 초전도는 극저온의 세계에서 실온의 세계로 가까워져 새로운 가능성과 그 정체가 모습을 드러내기 시작하였다. 저자는 초전도에 대한 탐구와 그 역사를 좇아가며 독자를 초전도의 세계로 안내한다. 또한 응용에의 고민과 모색을 통해 초전도의 미래를 그려본다."
+            },
+            {
+                "title": "초전도란 무엇인가 (왜 일어나는가? 어떻게 사용하는가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493557323",
+                "image": "https://shopping-phinf.pstatic.net/main_3249355/32493557323.20220527073631.jpg",
+                "author": "오쓰카 다이이치로",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "19910401",
+                "isbn": "9788970440842",
+                "description": "이 책으 초전도를 그 발견 후 BCS 이론의 등장, 초고속 저공해 열차 등으로 이어지는 응용까지 쉽게 풀어 설명하고 있고 또한 고온 초전도체의 출현을 통한 앞으로 응용에의 길을 제시하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20200420",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "오쓰카 다이이치로 지음 ;김병호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "285 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970449234",
+                "INPUT_DATE": "20200203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "초전도란 무엇인가",
+                "PUBLISH_PREDATE": "20200225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

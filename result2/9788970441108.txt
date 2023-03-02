@@ -1,0 +1,67 @@
+{
+    "otitle": "오답으로부터 배운다",
+    "oauthor": "다무라 사부로, 후나코시 슌스케 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오답으로부터 배운다 (함정에 빠지기 쉬운 수학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490363569",
+                "image": "https://shopping-phinf.pstatic.net/main_3249036/32490363569.20220527040211.jpg",
+                "author": "다무라 사부로",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "20170724",
+                "isbn": "9788970441108",
+                "description": "게으른 수학인간 총집합!\n\n정답만 나와 있는 책에는 이미 싫증이 났다. 만약 「틀린 답안」만의 책이 있다면 좀 더 즐거운 마음으로 읽을 수 있을 수 있을 것 같은 사람들을 위해 이 책이 만들어졌다. 또 생각하는 것은 좋아하지만 연필을 가지고 계산한다거나 그림을 그르거나 하는 것은 귀찮다고 생각하는 게으른 인간을 자인하는 사람들에게도 이 책은 적격이다. 초등학교(초등학교)의 응용문제로부터 고교생의 문제까지 눈과 미리만을 움직여서 다른 사람의 잘못된 점을 찾는 즐거움에 도전해 보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "다무라 사부로/후나코시 슌스케",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "신A5",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "165",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970441108",
+                "INPUT_DATE": "20170629",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "오답으로부터 배운다",
+                "PUBLISH_PREDATE": "19920430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

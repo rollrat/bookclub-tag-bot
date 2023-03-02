@@ -1,0 +1,67 @@
+{
+    "otitle": "상대성 이론 아는 척하기",
+    "oauthor": "브루스 바셋 저/랄프 에드니 그림/정형채,최화정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "상대성 이론 아는 척하기 (난해하고 복잡했던 상대성 이론이 쉽게 이해되는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455959714",
+                "image": "https://shopping-phinf.pstatic.net/main_3245595/32455959714.20230216071007.jpg",
+                "author": "브루스 바셋",
+                "discount": "12150",
+                "publisher": "팬덤북스",
+                "pubdate": "20211027",
+                "isbn": "9791161691824",
+                "description": "아인슈타인도 뉴턴도 가르쳐주지 않는 \n상대성 이론의 모든 것!\n\n난해하고 까다롭게만 느껴졌던 상대성 이론이 \n한결 쉬워진다!\n\n이 책은 아인슈타인의 상대성 이론이 탄생하게 된 배경부터 우주, 시공간, 일상에서의 상대성 이론이 어떻게 적용되고 있으며, 일반상대성 이론과 특수상대성 이론의 특성, 상대성 이론과 뉴턴의 중력 법칙과의 관계, 광속과 상대성 이론의 분석, 지구 표면의 곡률에 따른 시공간의 차이점, 우주의 크기, 블랙홀과 무한대의 곡률 등 상대성 이론의 모든 것을 만화로 알기 쉽게 풀어냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211102",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "지은이: 브루스 바셋 ;그린이: 랄프 에드니 ;옮긴이: 정형채,최화정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "177 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161691824",
+                "INPUT_DATE": "20211013",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(난해하고 복잡했던 상대성 이론이 쉽게 이해되는) 상대성 이론 아는 척하기",
+                "PUBLISH_PREDATE": "20211027",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

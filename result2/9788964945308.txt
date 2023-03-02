@@ -1,0 +1,67 @@
+{
+    "otitle": "이런 물리라면 포기하지 않을 텐데",
+    "oauthor": "이광조 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이런 물리라면 포기하지 않을 텐데 (광쌤의 쉽고 명쾌한 물리학 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482670317",
+                "image": "https://shopping-phinf.pstatic.net/main_3248267/32482670317.20230117163605.jpg",
+                "author": "이광조",
+                "discount": "13660",
+                "publisher": "보누스",
+                "pubdate": "20211215",
+                "isbn": "9788964945308",
+                "description": "‘물리가 진짜 내 것이 되는’ 경험을 만끽해보자. 기호와 공식에 주눅들 걱정도, 그럴 필요도 없다. 이 책에서는 오로지 사칙연산(+, -, ×, ÷)만 사용해 물리의 핵심인 역학을 쉽고 명쾌하게 설명한다. 물리의 모든 개념을 머리에 욱여넣기보다는, 앞으로 어떤 물리 개념을 접해도 이해할 수 있도록 물리의 기초와 원리를 확립하는 것에 초점을 맞춘다. 여러분이 물리를 바라볼 때 느끼는 두려움과 트라우마를 없애주고, 물리 공부의 진짜 재미를 깨닫도록 도와줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보누스",
+                "DDC": "",
+                "UPDATE_DATE": "20220117",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이광조 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "312 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964945308",
+                "INPUT_DATE": "20211119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "이런 물리라면 포기하지 않을 텐데",
+                "PUBLISH_PREDATE": "20211215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

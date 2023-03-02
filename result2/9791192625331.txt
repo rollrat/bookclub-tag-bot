@@ -1,0 +1,67 @@
+{
+    "otitle": "당신이 있어 참 좋다",
+    "oauthor": "최윤석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신이 있어 참 좋다 (사람에게 상처받고 사람에게 위로받는 당신을 위한 책)",
+                "link": "https://search.shopping.naver.com/book/catalog/34728529619",
+                "image": "https://shopping-phinf.pstatic.net/main_3472852/34728529619.20221019131623.jpg",
+                "author": "최윤석",
+                "discount": "13320",
+                "publisher": "포레스트북스",
+                "pubdate": "20220928",
+                "isbn": "9791192625331",
+                "description": "우리는 모두 사람에게 상처받고 \n사람에게 위로받는다\n배우 남궁민, 이준호 강력추천!\n\n우리는 살아가면서 끊임없이 누군가를 만나 사랑하고, 부딪치고 깨닫고 성장한다. 드라마 감독으로 십삼 년을 살고 조연출 때를 포함하면 사십 편이 넘는 작품을 한 최윤석 감독의 에세이 《당신이 있어 참 좋다》는 지금의 저자가 있기까지 마주친 사람들에 관한 이야기다. 저자는 믿었던 사람에게 배신당하기도 하고 자신의 오판으로 누군가를 아프게 한 적도 있으며, 인생의 멘토 연기자를 만나 꿈을 꾸듯 드라마를 찍은 적도 있다고 말한다. 그럴 때마다 거울을 보는 느낌으로 글을 썼다고. \n\n이 책에는 다양한 사람이 곳곳에 등장한다. 대한민국 사람이라면 누구나 알만한 유명인부터 누구도 기억하지 못할 거리 위의 사람까지. 수많은 사람을 만나 상처받고, 위로받으며 저자는 조금씩 성장했노라고 말한다. 반복되는 일상에서 상처받은 사람들을 위한 공감과 위로의 메시지가 가득 담긴 이 책은, 주변 사람들과 건강한 관계를 맺지 못해 스트레스를 받거나 지나치게 타인의 눈치를 보느라 온전히 자기 삶을 살지 못하는 독자들에게 특별한 응원가가 되어줄 것이다. \n\n늘 어른일 수만은 없는 우리.\n혼자여선 더더욱 안 되는 우리.\n너와 내가 우리가 되어가는 과정.\n? 〈옷소매 붉은 끝동〉 배우 이준호"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포레스트북스 :콘텐츠그룹 포레스트",
+                "DDC": "",
+                "UPDATE_DATE": "20221019",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최윤석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20220928",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "122*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "222 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791192625331",
+                "INPUT_DATE": "20220830",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "당신이 있어 참 좋다",
+                "PUBLISH_PREDATE": "20220928",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

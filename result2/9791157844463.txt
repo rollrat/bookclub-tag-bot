@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 꼭 필요한 것만 남기기로 했다",
+    "oauthor": "조안 타탐 저/조민영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 꼭 필요한 것만 남기기로 했다 (내 삶이 가벼워지는 21일 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454459360",
+                "image": "https://shopping-phinf.pstatic.net/main_3245445/32454459360.20221227210224.jpg",
+                "author": "조안 타탐",
+                "discount": "12150",
+                "publisher": "한빛비즈",
+                "pubdate": "20201008",
+                "isbn": "9791157844463",
+                "description": "어느 순간\n주변 가득한 물건들이 내 공간을 침범했다\n\n최근 tvN 예능프로그램 〈신박한 정리〉가 연일 화제다. ‘이건 추억이 담긴 물건이라’ ‘아이들이 많다 보니’ 꽉 들어찬 공간에는 저마다 사연이 있지만, 말끔히 정리된 집 안을 보고 의뢰인들은 눈물까지 글썽인다. \n그렇지 않아도 코로나 사태 장기화로 집에 있는 시간이 많아지면서 평소에는 크게 신경 쓰지 않던 것들이 눈에 들어온다. 옷이 잔뜩 들어 있어 미어터질 지경인 옷장이나, 더는 책을 꽂을 데도 없고 내려앉기 일보직전인 책장, 잡동사니가 굴러다니는 서랍, 며칠째 뜯지도 않은 택배 상자…. \n이대로는 안 되겠다 싶어 정리를 결심하지만, 어디서부터 어떻게 손을 대야 할지 난감한 경우가 대다수. 그렇다고 우리 모두가 유명 프로그램이나 전문가의 도움을 받을 수 있는 것도 아니지 않은가. \n\n이 책 《나는 꼭 필요한 것만 남기기로 했다》는 이제 막 ‘비우고 정리하기’를 결심한 사람들을 위한 책이다. 별 생각 없이 사놓고 몇 번 쓰지도 않은 채 던져두거나, 어딘가에 처박아놓고 까맣게 잊어버린 뒤 똑같은 물건을 산 경험이 있다면, 정리가 필요한 시점임에 틀림없다. 집 안 가득한 물건 탓에 서서 잠을 잘 지경이 되어서야 정리를 시작할 것인가. \n이 책은 미니멀 라이프를 꿈꾸는 사람들을 위한 21일간의 맞춤형 프로그램이다. 21일이라는 시간 동안 저자와 함께 과제를 수행하고, 행동으로 실천한 뒤 결과를 평가해보면서 자연스레 비우고 정리해보자. 그러면 어느새 자신에게 꼭 필요한 것만 남게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20201118",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "조안 타탐 지음 ;조민영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*185",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157844463",
+                "INPUT_DATE": "20200904",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 꼭 필요한 것만 남기기로 했다",
+                "PUBLISH_PREDATE": "20201008",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

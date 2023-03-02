@@ -1,0 +1,67 @@
+{
+    "otitle": "교양으로 읽는 삼국지",
+    "oauthor": "나관중 저/장순필 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "교양으로 읽는 삼국지 (중원을 차지하려는 영웅호걸들의 흥미진진한 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445567333",
+                "image": "https://shopping-phinf.pstatic.net/main_3244556/32445567333.20221019124543.jpg",
+                "author": "나관중",
+                "discount": "13500",
+                "publisher": "탐나는책",
+                "pubdate": "20210531",
+                "isbn": "9791189550448",
+                "description": "“중원을 차지하려는 영웅호걸들의 흥미진진한 이야기”\n\n『삼국지』는 1,800여 년 전, 약 일백여 년에 걸친 중국 후한後漢 말에서 진晉나라로 통일되기까지의 천하의 패권을 차지하려는 영웅호걸들의 처절한 역사 이야기이다. 약 칠백여 명이나 되는 수많은 영웅들과 수많은 사건이 끊임없이 이어지는데도 이야기의 전개가 사실적이고 긴밀하게 연결되어 있어 끝까지 정독해서 읽어 보지 않고는 책을 놓을 수가 없다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "탐나는책",
+                "DDC": "",
+                "UPDATE_DATE": "20220113",
+                "EA_ADD_CODE": "03150",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "나관중 지음 ;장순필 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*214",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "584 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189550448",
+                "INPUT_DATE": "20210508",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(교양으로 읽는) 삼국지",
+                "PUBLISH_PREDATE": "20210524",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

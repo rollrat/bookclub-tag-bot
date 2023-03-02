@@ -1,0 +1,67 @@
+{
+    "otitle": "프랑스 와인 여행 (2022~2023 개정판)",
+    "oauthor": "엄정선,배두환 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "프랑스 와인 여행(2022~2023) (‘신의 물방울’ 찾아 프랑스로 떠나는 와인 여행, 2022~2023 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482759708",
+                "image": "https://shopping-phinf.pstatic.net/main_3248275/32482759708.20221228073551.jpg",
+                "author": "엄정선^배두환",
+                "discount": "16200",
+                "publisher": "꿈의지도",
+                "pubdate": "20210901",
+                "isbn": "9791167620002",
+                "description": "가장 프랑스다운 여행을 꿈꾸는 여행자를 위한 와인 여행 가이드북. 와인 전문가가 엄선한 프랑스 9대 와인 산지의 와인 이야기와 와이너리 투어에 대한 알찬 정보를 담았다. 산지별 와인의 역사, 대표 와인, 떼루아, 포도품종, 등급체계 등 와인에 대한 풍부한 해설과 함께 여행자도 부담 없이 즐길 수 있는 와이너리 투어, 레스토랑, 호텔 등 맞춤한 여행 정보를 가득 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20210907",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "엄정선,배두환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정 2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "375 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167620002",
+                "INPUT_DATE": "20210621",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "프랑스 와인 여행",
+                "PUBLISH_PREDATE": "20210901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

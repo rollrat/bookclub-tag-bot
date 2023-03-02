@@ -1,0 +1,67 @@
+{
+    "otitle": "라이노 6.0 + 엔스케이프 3D 디자인랩",
+    "oauthor": "길기윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "라이노 6.0 + 엔스케이프 3D 디자인랩 (건축 디자이너가 알려 주는 전략적 모델링과 렌더링)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486509609",
+                "image": "https://shopping-phinf.pstatic.net/main_3248650/32486509609.20221227205534.jpg",
+                "author": "길기윤",
+                "discount": "19800",
+                "publisher": "대가",
+                "pubdate": "20191030",
+                "isbn": "9788962852356",
+                "description": "건축 디자이너가 알려 주는 모델링부터 렌더링까지\n실시간 렌더의 혁신: 더 이상 복잡한 렌더링으로 고생하지 말자!\n\n이 책의 특징\n- 국내 최초의 ENSCAPE 3D 실시간 렌더링 툴을 다룬 안내서\n- 기본 건축 + 인테리어 디자인 모델링과 렌더링을 동시 진행하는 통합서\n- 일반적 모델링의 틀을 깬 다양한 TIP S & TRICKS를 알려 주는 기술서\n- 최신 건축디자인 경향에 맞춘 프로젝트 종합서\n\n이런 분들에게 이 책을 추천합니다\n- Sketchup, Revit, Rhinoceros 모델링 툴 사용 경험이 있으신 분\n- 렌더링을 싫어하시는 분\n- 렌더링 이후 포토샵 작업을 생략하고 싶으신 분\n- 작업한 모델을 렌더해야 하는데 시간이 항상 부족했던 분\n- 디자인 프로세스와 렌더링을 동시에 진행하고자 하는 분\n- HDRI, RHINO GROW, 온라인 3D Warehouse 등을 통한 다양한 렌더링 세팅 기법을 배우고자 하는 분\n- VR 렌더 및 비디오 렌더, 웹 기반 디자인 공유 등 클라이언트 미팅에 다양한 확장성이 필요한 분\n\n2017년에 탄생한 엔스케이프 리얼타임 렌더 플러그인은 현존하는 3D 렌더링 툴 중 가장 쉽고 빠른 혁신적인 소프트웨어입니다. 현재 리얼타임 렌더링의 대표주자들인 루미온과 트윈모션과는 획기적으로 다른 플러그인 형식의 엔스케이프. 한국에는 아직 널리 알려지지 않았지만, Foster and Partners와 Renzo Piano Building Workshop 등 최근 많은 해외 건축디자인 사무소들이 엔스케이프 플러그인을 실무에서 적극적으로 수용하는 추세인 만큼 뛰어난 활용성과 효율성을 지니고 있습니다. 현직 건축 디자이너로서 렌더링의 패러다임을 바꾼 엔스케이프의 기능들과 라이노 6.0의 다양한 TIPS & TRICKS들로 건축디자인 표현의 자유로움을 독자분들께 선물 드립니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "대가",
+                "DDC": "",
+                "UPDATE_DATE": "20191023",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "길기윤 지음",
+                "SERIES_TITLE": "",
+                "KDC": "004.76",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/02/9788962852356.jpg",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "CIP2019039347",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962852356",
+                "INPUT_DATE": "20191002",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "라이노 6.0 + 엔스케이프 3D 디자인랩",
+                "PUBLISH_PREDATE": "20191030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

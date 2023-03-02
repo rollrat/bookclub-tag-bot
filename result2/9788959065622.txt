@@ -1,0 +1,67 @@
+{
+    "otitle": "밥이 그리워졌다",
+    "oauthor": "김용희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "밥이 그리워졌다 (인생이 허기질 때 나를 지켜주는 음식 | 김용희 음식에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492767788",
+                "image": "https://shopping-phinf.pstatic.net/main_3249276/32492767788.20221227205406.jpg",
+                "author": "김용희",
+                "discount": "13050",
+                "publisher": "인물과사상사",
+                "pubdate": "20200403",
+                "isbn": "9788959065622",
+                "description": "몸으로 삼키는 따뜻한 추억\n“모든 음식에는 이야기가 있다”\n\n텔레비전 화면에 수많은 ‘먹방’이 넘쳐난다. 그러나 현대인들은 아무리 먹고 먹어도 영혼의 허기에 허덕일 뿐이다. 음식은 단순히 물질이 아니라 정신적인 것이다. 더할 수 없는 쾌락으로 우리의 혀끝에 맴돌다 목구멍 너머로 사라지고 나면 지독한 허전함만 남기는 음식들. 내 주변에 아무도 없기 때문일까? 마음 불편한 사람과 먹는 음식이 어찌 맛나다고 할 수 있을까? 그렇기에 사랑하는 사람과 함께 먹는 음식이 이 세상에서 가장 맛난 음식이다. 맛있는 음식을 먹었을 때 떠오르는 사람이 진정 사랑하는 사람이다.\n\n음식은 신의 공여(供與)다. 어떤 생명체의 죽음이 깃들어 있다. 나의 생명이 누군가의 생명에 빚진 대가라고 생각하면 음식 앞에서 장엄한 슬픔을 느낀다. 먹고 산다는 것이 참 신산스럽기만 하고 성스럽기만 하다. 당신이 누구인지를 알고 싶으면 지금까지 먹은 음식이 무엇이었는지를 기억하라. 그것이 당신의 인생이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과사상사",
+                "DDC": "",
+                "UPDATE_DATE": "20200406",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "지은이: 김용희",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/03/19/9788959065622.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "282 p.",
+                "CONTROL_NO": "CIP2020012000",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959065622",
+                "INPUT_DATE": "20200319",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "밥이 그리워졌다",
+                "PUBLISH_PREDATE": "20200403",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

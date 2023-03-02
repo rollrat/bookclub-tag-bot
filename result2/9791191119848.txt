@@ -1,0 +1,67 @@
+{
+    "otitle": "그냥 좋으니까 좋아",
+    "oauthor": "조유미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그냥 좋으니까 좋아 (지금 이 순간의 내 행복)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466559086",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466559086.20221228073720.jpg",
+                "author": "조유미",
+                "discount": "12530",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20201207",
+                "isbn": "9791191119848",
+                "description": "150만 독자가 사랑한 작가 『나, 있는 그대로 참 좋다』 조유미 신작!\n“애쓰지 않고, 마음 가는 대로… 오늘은 그냥 좋은 일만 해보기”\n\n자신과 마음이 닮은 사람들에게 위로와 응원을 담아 따스한 글을 지어 건네는 ‘사연을 읽어주는 여자’ 조유미 작가의 신작 『그냥 좋으니까 좋아』가 위즈덤하우스에서 출간되었다. 전작 『나, 있는 그대로 참 좋다』 『나를 잃지 마, 어떤 순간에도』 등을 통해 수많은 독자의 마음을 공감으로 안아주었던 조유미 작가가 이번에는 세상 가장 소중한 나에게 들려주고 싶은 말을 책 속에 담아냈다. 작가는 일, 꿈, 사람들 그리고 스스로와의 관계에서 치이고 갈등하다 지쳐버린 이들에게 다정히 말한다. 지금 이 순간의 내 행복에 집중하며 최선을 다해 나를 아껴주자고."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20210129",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "조유미 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/24/9791191119848.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "242 p.",
+                "CONTROL_NO": "CIP2020050186",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191119848",
+                "INPUT_DATE": "20201124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "그냥 좋으니까 좋아",
+                "PUBLISH_PREDATE": "20201207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

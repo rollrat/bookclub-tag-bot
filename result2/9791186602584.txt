@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 목욕탕",
+    "oauthor": "정혜덕 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 목욕탕 (마음의 부드러운 결을 되찾을 때까지 나를 씻긴다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505935087",
+                "image": "https://shopping-phinf.pstatic.net/main_3250593/32505935087.20221230074200.jpg",
+                "author": "정혜덕",
+                "discount": "8560",
+                "publisher": "위고",
+                "pubdate": "20201120",
+                "isbn": "9791186602584",
+                "description": "피곤이 밀푀유 나베처럼 차곡차곡 쌓인 저녁 8시, \n나는 목욕탕에 간다\n\n[아무튼 시리즈] 서른여섯 번째 이야기는 각막에 초미세먼지가 낀 것처럼 눈앞이 흐릿한 날, 어깨는 묵직하고 목은 뻑뻑한 병마개처럼 굳은 날, 온종일 종종거리며 이런저런 일에 치인 날, 결국엔 얼었다 녹은 오징어처럼 몸이 축 처지는 날, 그런 날이면 어김없이 목욕탕을 찾아 온탕 깊이 몸을 담가온 목욕탕 애호가의 이야기, 『아무튼, 목욕탕』이다. \n\n피곤이 밀푀유 나베처럼 차곡차곡 쌓인 저녁 8시에 목욕탕에 갔다 오면 침침한 눈이 순정만화 주인공의 다이아몬드 박힌 눈망울로 바뀐다고 말하는 저자에게 목욕탕은 오랜 세월 몸도 마음도 뽀드득한 뿌듯함으로 기분 좋게 채워준 곳이 되었다. 어릴 때부터 ‘작고 깨끗하고 환한’ 목욕탕과 목욕 후 마시는 흰 우유를 좋아했던 그가 들려주는 목욕탕 훈김처럼 따뜻하고 촉촉한 이야기는 사람 말소리가 끊어진 목욕탕에 앉았을 때처럼 뜻밖의 고요하고 평화로운 순간들을 안겨줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "",
+                "UPDATE_DATE": "20201201",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 정혜덕",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/24/9791186602584.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "137 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602584",
+                "INPUT_DATE": "20201124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 목욕탕",
+                "PUBLISH_PREDATE": "20201120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

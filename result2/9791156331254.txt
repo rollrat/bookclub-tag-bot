@@ -1,0 +1,67 @@
+{
+    "otitle": "경험은 어떻게 비즈니스가 되는가",
+    "oauthor": "브라이언 솔리스 저/정지인 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "경험은 어떻게 비즈니스가 되는가 (디지털 비즈니스 시대, 승자가 되는 경험 설계의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476748225",
+                "image": "https://shopping-phinf.pstatic.net/main_3247674/32476748225.20221019123708.jpg",
+                "author": "브라이언 솔리스",
+                "discount": "20700",
+                "publisher": "다른",
+                "pubdate": "20161015",
+                "isbn": "9791156331254",
+                "description": "고객이 원하는 의미 있는 경험, 모든 단계에서, 어디서나, 한결같은 경험을 설계하는 방법을 제시하는『경험은 어떻게 비즈니스가 되는가』. 이 책의 저자 브라이언 솔리스는 그리드와 페르소나, 시나리오, 스토리보드, 고객 여정 맵, 고객 경험 맵을 활용해 어떻게 하면 잊을 수 없고, 다시 찾고 싶은, 고객이 원하는 바로 그 경험을 설계할 수 있는지 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)다른",
+                "DDC": "658.827",
+                "UPDATE_DATE": "20161025",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "브라이언 솔리스",
+                "SERIES_TITLE": "",
+                "KDC": "325.571",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779270_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5779270_3.jpg",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "384 ",
+                "CONTROL_NO": "CIP2016023311",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156331254",
+                "INPUT_DATE": "20160926",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "경험은 어떻게 비즈니스가 되는가",
+                "PUBLISH_PREDATE": "20161015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

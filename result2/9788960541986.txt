@@ -1,0 +1,67 @@
+{
+    "otitle": "공감하면 사람은 90％가 바뀐다",
+    "oauthor": "문충태 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공감하면 사람은 90%가 바뀐다 (리크루팅 달인의 공감설득 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503362668",
+                "image": "https://shopping-phinf.pstatic.net/main_3250336/32503362668.20221019110248.jpg",
+                "author": "문충태",
+                "discount": "12600",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20180108",
+                "isbn": "9788960541986",
+                "description": "* 리크루팅 달인의 공감설득 비밀!\n* 리크루팅, 세일즈, 비즈니스, 대인관계 대화법! \n\n사람은 공감하게 되면 스스로 변하고 그러면 설득은 저절로 된다. 스스로 변하게 하고 스스로 움직이게 하는 방법이 ‘공감설득’이다. 이 책은 대한민국 리크루팅 최고 전문가인 저자가 공감설득 10계명은 물론 다양한 현장 사례와 함께 공감설득 기법을 자세히 알려준다. 따라서 리크루팅, 세일즈, 비즈니스, 대인관계 대화법으로 아주 유용하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙경제평론사",
+                "DDC": "658.452",
+                "UPDATE_DATE": "20171228",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "문충태 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.26",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6444241_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6444241_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*187",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2017031369",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960541986",
+                "INPUT_DATE": "20171123",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "공감하면 사람은 90%가 바뀐다",
+                "PUBLISH_PREDATE": "20180108",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

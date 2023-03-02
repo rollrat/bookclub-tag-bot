@@ -1,0 +1,67 @@
+{
+    "otitle": "일상의 악센트",
+    "oauthor": "마쓰우라 야타로 저/서라미 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일상의 악센트 (단조로운 일상을 빛나게 만드는 삶의 시선)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503910818",
+                "image": "https://shopping-phinf.pstatic.net/main_3250391/32503910818.20221019123741.jpg",
+                "author": "마쓰우라 야타로",
+                "discount": "10350",
+                "publisher": "흐름출판",
+                "pubdate": "20200220",
+                "isbn": "9788965963684",
+                "description": "단조로운 일상을 \n빛나게 만드는 삶의 시선\n\n〈생활수첩〉의 편집장이자, 일본 독립서점의 선구자, 많은 젊은이들의 선망을 한몸에 받는 프로페셔널 마쓰우라 야타로! 〈일의 기본, 생활의 기본 100〉으로 한국 독자들에게 이름을 알린 그가 〈일상의 악센트〉로 돌아왔다. \n\n반복되는 나날들, 어제와 같은 오늘, 정해져 있는 하루 일과 속에서 우리는 삶의 어느 곳을 봐야 좀 더 의미 있고 행복해질 수 있을까? 어디서 삶의 동력을 얻어야 할까? \n마쓰우라 야타로는 이럴 때 나를 인정하는 자기 긍정감을 유지하는 한편, 지금까지는 할 수 없다며 부정했던 일에 마음의 엔진을 붙인다고 말한다. “그런 일을 해봤자 쓸모없다든가, 그 나이에 그런 일 할 수 있을 리 없다는 말을 들어도 나는 할 수 있다고 믿는다.”고 자신의 방법을 털어놓으며 무기력한 일상에서 힘을 얻는 방법을 일러준다. \n\n마쓰우라 야타로는 관계, 여행, 일 자아 등 삶의 어느 한곳에 국한되지 않고 그동안 살아왔던 나날들을 회상하며 단단하지만 부드러운 어조로 삶을 살아가는 마음가짐에 대해 이야기한다. \n오늘 하루도 온 마음을 담아 정성껏 살아야 한다고.\n오늘 하루 발견하는 만큼 감동할 수 있다고.\n결국, 단조로운 일상을 빛나게 할 수 있는 건 오직 나뿐이고, 마음가짐의 문제라고 말이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판",
+                "DDC": "",
+                "UPDATE_DATE": "20200302",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "마쓰우라 야타로 지음 ;서라미 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "838",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "CIP2020003697",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965963684",
+                "INPUT_DATE": "20200128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "일상의 악센트",
+                "PUBLISH_PREDATE": "20200220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "타이완 셀프트래블 : 2019-2020 최신판",
+    "oauthor": "이주영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "타이완 셀프트래블(2019-2020) (2019-2020 최신판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492926348",
+                "image": "https://shopping-phinf.pstatic.net/main_3249292/32492926348.20230218110637.jpg",
+                "author": "이주영",
+                "discount": "13950",
+                "publisher": "상상출판",
+                "pubdate": "20190902",
+                "isbn": "9791189856496",
+                "description": "인기 근교 여행지 타이완 최신 가이드북. 본격적인 스폿 소개에 앞서 지도와 지역별 특징, 주요 교통편을 제시하고, 샘플 추천 일정과 5가지 미션을 추가해 여행자들이 효율적으로 여행할 수 있도록 했다. 책에 소개된 스폿은 관광명소, 식당, 쇼핑 숍, 숙소 순으로 소개된다.\n\n\n\n또한 타이베이 101, 용산사, 중정기념당, 국립고궁박물원 등 누구나 알 만한 타이완의 대표 관광명소는 물론, 최근 SNS나 여행자들 사이에서 화제로 떠오른 맛집 등을 골고루 수록했다. 여기에 오랜 기간 저자가 타이완에 체류하며 수집한 스폿별 최신 정보와 함께 구글 맵스와 연계 가능한 GPS 좌표도 따로 실었다.\n\n\n\n타이완 여행의 주요 포인트를 시작으로, 로맨틱한 일몰 & 야경 스폿, 타박타박 여유를 느끼는 산책 스폿, 타이완에서 꼭 먹어야 할 음식과 음료, 현지에서 소문난 딤섬과 훠궈 맛집, 대표 쇼핑몰과 기념품 쇼핑 리스트 등이 알차게 설명되어 있다. 읽다가 마음에 드는 테마를 선택해 현지에서 미션을 클리어하듯 하나씩 즐기면 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20190909",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이주영 지음",
+                "SERIES_TITLE": "셀프트래블 2015",
+                "KDC": "981.2402",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186517109",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "384 p.",
+                "CONTROL_NO": "CIP2019030154",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189856496",
+                "INPUT_DATE": "20190801",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(셀프트래블) 타이완",
+                "PUBLISH_PREDATE": "20190902",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

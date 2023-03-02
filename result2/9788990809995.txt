@@ -1,0 +1,67 @@
+{
+    "otitle": "예수는 어떻게 신이 되었나",
+    "oauthor": "바트 어만 저/강창헌 역/오강남 해제",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "예수는 어떻게 신이 되었나",
+                "link": "https://search.shopping.naver.com/book/catalog/32441768804",
+                "image": "https://shopping-phinf.pstatic.net/main_3244176/32441768804.20221019152621.jpg",
+                "author": "바트 어만",
+                "discount": "18900",
+                "publisher": "갈라파고스",
+                "pubdate": "20151207",
+                "isbn": "9788990809995",
+                "description": "그리스도교의 궁극적 질문에 대한 역사적 탐구\n\n반역죄로 십자가에 처형된 벽촌 갈릴래아 출신의 가난한 유대인 예언자는 어떻게 인간에서 신으로 승격되었을까? 저자 바트 어만은 이러한 질문들에 신앙인이 아닌 역사가로 대답한다. 역사의 전개과정에서 이루어진 극적인 전환을 통해 제자들이 예수를 하느님이었다고 주장한 이유뿐 아니라, 그들이 이 주장을 다양한 방식으로 이해했다는 사실도 함께 드러내준다. 이를 위해 무엇이 역사적 사실이고 그렇지 않은가를 규명한다.\n\n신자가 아닌 일반 독자들은 신앙의 차원을 넘어서서 인류의 중요한 정신적 자산인 한 종교가 만들어지는 과정을 아주 드라마틱하고 수월하게 접할 수 있다. 아울러 세계에서 가장 큰 영향력을 갖는 그리스도교의 기본원리가 성립해가는 과정을 이해함으로써 서양의 문명과 역사 그리고 문화를 이해하는 데 유용한 기초지식을 얻게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)갈라파고스",
+                "DDC": "232",
+                "UPDATE_DATE": "20160114",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "바트 어만 / 강창헌 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "232",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5052257_3.jpg",
+                "PRE_PRICE": "21000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5052257_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5052257_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "480페이지 내외",
+                "CONTROL_NO": "CIP2015032396",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990809995",
+                "INPUT_DATE": "20151125",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "예수는 어떻게 신이 되었나",
+                "PUBLISH_PREDATE": "20151207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

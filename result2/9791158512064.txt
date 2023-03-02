@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘의 주식",
+    "oauthor": "효라클(김성효) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘의 주식 (이슈를 읽으면 종목이 보인다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466553905",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466553905.20221228072324.jpg",
+                "author": "효라클(김성효)",
+                "discount": "16200",
+                "publisher": "토네이도",
+                "pubdate": "20210228",
+                "isbn": "9791158512064",
+                "description": "“주식적 사고를 통해 투자의 본능을 깨워라!”\n주식에 대한 궁금증을 해결하고 투자의 감각을 기르고 싶은 초보자를 위한 필독서\n\n코로나19가 전 세계를 뒤흔든 2020년, 대한민국에서는 수많은 사람들이 주식시장에 뛰어들었다. 하지만 이들 모두가 부자가 되는 것은 아니다. 수익을 보는 사람이 있으면 손해를 보는 사람도 있는 법. ‘누구는 뭘 사서 얼마를 벌었다더라’ 같은 말에 휘둘려 부화뇌동하다 손절하고 원금까지 잃는 사람도 많다.\n\n매일 아침 경제 전문 뉴스레터 〈어피티〉에서 15만 구독자에게 최신 경제 이슈와 그에 맞는 핫한 종목을 추천해주는 주식전문가 효라클은 주식투자에 성공하려면 ‘주식적 사고’를 길러야 한다고 말한다. ‘주식적 사고’란 어떤 사회적 현상을 접했을 때 반사적으로 관련주가 뭔지 파악하고 투자하는 논리다. 그에 따르면 미래를 예측하려 하지 말고 주식적 사고로 현상에 대응하는 것만이 어떤 시장에서도 흔들리지 않고 수익률을 유지하는 비결이다. \n\n이 책은 간단한 퀴즈와 해설을 통해 주식 용어와 기초 개념을 쉽게 알려주고 주식적 사고를 기르도록 도와준다. 북한, 코로나19, 콘택트, 자율주행 등 키워드별로 기사를 읽고 그에 관한 문제를 풀다 보면 관련주를 선별하는 방법을 자연스럽게 터득할 수 있다. 또 현상을 해석하고 수익을 예측하며 주식시장의 흐름을 읽는 눈까지 기를 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Tornado(토네이도)",
+                "DDC": "",
+                "UPDATE_DATE": "20210316",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.tornadobook.com",
+                "AUTHOR": "효라클 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "411 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158512064",
+                "INPUT_DATE": "20210118",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "오늘의 주식",
+                "PUBLISH_PREDATE": "20210228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

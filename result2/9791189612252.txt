@@ -1,0 +1,67 @@
+{
+    "otitle": "어디서나 필라테스",
+    "oauthor": "백민경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어디서나 필라테스 (체형교정과 슬림하고 탄탄한 몸을 위한 일상생활 필라테스)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489484900",
+                "image": "https://shopping-phinf.pstatic.net/main_3248948/32489484900.20221230071908.jpg",
+                "author": "백민경",
+                "discount": "12420",
+                "publisher": "북스고",
+                "pubdate": "20190429",
+                "isbn": "9791189612252",
+                "description": "필라테스가 슬림하고 탄탄한 몸매를 가질 수 있도록 해주는 운동법으로 인기를 얻고 있다. 이 책은 장소에 구애받지 않고 필라테스를 쉽게 할 수 있도록 도와준다. 1주차부터 4주차로 구성되어 있으며 매주 한 단계씩 강도를 높여 운동을 할 수 있도록 되어 있다. \n\n\n\n평일과 주말로 구분해 평일에는 근력운동을, 주말에는 마사지와 스트레칭으로 몸을 풀어 줄 수 있도록 하였다. 그리고 집에서 청소기를 돌리거나 걸레질을 하거나 이를 닦을 때, 학교에서, 사무실에서, 대중교통을 타고 이동하면서 틈틈이 필라테스를 할 수 있는 일상운동을 함께 구성하였다. 운동은 하루 이틀 열심히 해서는 결과를 얻을 수 없고 오랫동안 꾸준히 해야만 바르고 건강한 몸을 만들 수 있다. \n\n\n\n또한 꾸준히 운동할 수 있도록 운동의 난이도를 높이는 법과 함께 운동 루틴을 구성할 수 있는 표와 자신의 운동을 체크할 수 있는 리스트를 담았다. 자신이 운동하고 기록한 결과물을 눈으로 보며 몸이 건강하게 바뀌어 가는 것을 경험하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "",
+                "UPDATE_DATE": "20190509",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://www.booksgo.co.kr",
+                "AUTHOR": "백민경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "593.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "155 p.",
+                "CONTROL_NO": "CIP2019015541",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189612252",
+                "INPUT_DATE": "20190419",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(바르고 건강한 몸을 만드는) 어디서나 필라테스",
+                "PUBLISH_PREDATE": "20190430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

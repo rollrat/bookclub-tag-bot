@@ -1,0 +1,67 @@
+{
+    "otitle": "굿바이 내비",
+    "oauthor": "문부일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "굿바이 내비",
+                "link": "https://search.shopping.naver.com/book/catalog/32461021589",
+                "image": "https://shopping-phinf.pstatic.net/main_3246102/32461021589.20221019133127.jpg",
+                "author": "문부일",
+                "discount": "10800",
+                "publisher": "다른",
+                "pubdate": "20170717",
+                "isbn": "9791156331636",
+                "description": "『굿바이 내비』에는 지금껏 엄마 말을 지침으로 여기며 생활하던 마마보이 고교생을 시작으로 영화감독을 꿈꾸는 시네마 키드, 가출 청소년 외에도 학교 폭력과 성적에 대한 압박으로 우울증과 불안 장애를 겪는 청소년까지 다양한 소년, 소녀들이 등장한다. 이들은 대부분 일상에서 안주하다가 외부적인 요인으로 현실의 냉혹함과 진실을 마주하게 되는데, 내적 갈등을 겪으면서 미처 몰랐던 자신들의 상처를 발견하고 치유해 나가면서 잠시 잊고 지내던 꿈을 발견하고 재정비한다. 작가는 청소년의 일상을 면밀하게 관찰해 그들의 실제 생활을 생생하게 그려 냄으로써 주제의식을 잘 보여 주고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른",
+                "DDC": "",
+                "UPDATE_DATE": "20170823",
+                "EA_ADD_CODE": "44810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "문부일 지음",
+                "SERIES_TITLE": "오늘의 청소년 문학",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6262786_6.txt",
+                "SET_ISBN": "9788992711579",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6262786_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "CIP2017015499",
+                "SERIES_NO": "19",
+                "EA_ISBN": "9791156331636",
+                "INPUT_DATE": "20170629",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "굿바이 내비",
+                "PUBLISH_PREDATE": "20170717",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

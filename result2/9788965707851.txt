@@ -1,0 +1,67 @@
+{
+    "otitle": "유토피아 실험",
+    "oauthor": "딜런 에번스 저/나현영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "유토피아 실험 (문명이 붕괴된 이후의 세상을 실험한 어느 괴짜 과학자의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505433121",
+                "image": "https://shopping-phinf.pstatic.net/main_3250543/32505433121.20221230072803.jpg",
+                "author": "딜런 에번스",
+                "discount": "14400",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20190419",
+                "isbn": "9788965707851",
+                "description": "영국 일간지 《가디언》이 ‘실험복을 입은 알랭 드 보통’이라 극찬한 저자 딜런 에번스의 논픽션. 문명이 붕괴된 이후의 세상을 가정하고 자원자들을 모집해서 18개월 동안 실제로 자급자족 공동체를 만들어 살아보려 했던, 그러나 결국에는 자기 파멸이라는 파국으로 끝나버리고 만 ‘유토피아 실험’의 시작부터 ‘종말’, 그리고 그 이후의 이야기를 다룬 흥미진진한 책이다. \n\n\n\n물질문명의 최첨단과 문명 붕괴 이후의 가상 세계 사이에서 지독한 희망과 지독한 좌절의 롤러코스터를 탔던 한 과학자의 경험을 지적이면서도 세밀하게 그려낸다. 순수하고 공평무사한 탈(脫) 문명 공동체가 될 것이라는 굳건한 믿음이 수많은 좌절과 깊은 우울감 속에서 서서히 무너져 내리는 과정을 ‘현실보다 더 생생하게, 소설보다 더 재미있게’ 풀어냈다. 저마다의 가치와 철학을 현실에 지속 가능한 방식으로 실현하고자 하는 사람들, ‘현실성 없는 이상주의와 상상력 없는 현실주의’ 사이에서 매 순간 방황하는 사람들에게 용기 있는 실천의 한 가능성을 보여주는 책."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20200312",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "딜런 에번스 지음 ;나현영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "304",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "315 p.",
+                "CONTROL_NO": "CIP2019009780",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965707851",
+                "INPUT_DATE": "20190313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "유토피아 실험",
+                "PUBLISH_PREDATE": "20190419",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

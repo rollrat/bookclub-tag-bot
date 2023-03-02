@@ -1,0 +1,78 @@
+{
+    "otitle": "돈키호테를 읽다",
+    "oauthor": "안영옥 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:42 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "돈키호테를 읽다 (해설과 숨은 의미 찾기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491516705",
+                "image": "https://shopping-phinf.pstatic.net/main_3249151/32491516705.20221019101132.jpg",
+                "author": "안영옥",
+                "discount": "16200",
+                "publisher": "열린책들",
+                "pubdate": "20160315",
+                "isbn": "9788932917528",
+                "description": "『돈키호테를 읽다』는 『돈키호테』 완역 이후 2년 만에 내놓은 저술로, 번역하면서 달은 840개의 각주에 미처 담아내지 못한 『돈키호테』의 숨은 메시지를 모두 담았다. 세르반테스의 삶과 시대를 검토하는 것은 물론, 패러디와 암시 속에 가려진 작가의 의도와 작품의 미학까지 깊숙이 파고든다. 이 해설서는 총 2부로 구성되어 있다. 제1부에서는 세르반테스가 액면으로 밝힌 『돈키호테』에 대해 말한다. 기존 기사 소설의 패러디라는 작가의 집필 목적에 따라 기사 소설들을 소개하고, 『돈키호테』에 대한 기존의 평가와 작품의 구조를 밝히며 작품 내용을 요약ㆍ해설하면서 패러디 양상을 정리한다. 제2부에서는 세르반테스가 기사 소설을 패러디한다는 구실 아래 숨겨 놓은 메시지를 테마별로 밝힌다. 저자는 우리가 읽은 『돈키호테』는 빙산의 일각이며, 세르반테스 당대의 현실과 그의 독서 목록을 함께 살펴봐야지 책의 참맛을 느낄 수 있다고 강조한다. 이 책에 주어진 작은 테마들은 『돈키호테』라는 빙산의 몸체를 읽어 내기 위한 단서들이다."
+            },
+            {
+                "title": "환멸의 세계와 문학적 유토피아 (돈키호테를 읽다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485737640",
+                "image": "https://shopping-phinf.pstatic.net/main_3248573/32485737640.20221227203359.jpg",
+                "author": "박철^호세마누엘 루시아 메히아스^김춘진^신정환^전기순",
+                "discount": "19000",
+                "publisher": "월인",
+                "pubdate": "20160912",
+                "isbn": "9788984776227",
+                "description": "『환멸의 세계와 문학적 유토피아』는 에스파냐의 작가 세르반테스의 풍자소설 《돈키호테》에 대해 고찰한 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "863.3",
+                "UPDATE_DATE": "20160328",
+                "EA_ADD_CODE": "03870",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "안영옥",
+                "SERIES_TITLE": "",
+                "KDC": "873.09",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5269777_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5269777_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "345페이지 내외",
+                "CONTROL_NO": "CIP2016005640",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932917528",
+                "INPUT_DATE": "20160229",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "돈키호테를 읽다",
+                "PUBLISH_PREDATE": "20160315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

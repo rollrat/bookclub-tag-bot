@@ -1,0 +1,67 @@
+{
+    "otitle": "최신 지역사회복지론 (2판)",
+    "oauthor": "이원주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "최신 지역사회복지론 (제2판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483350093",
+                "image": "https://shopping-phinf.pstatic.net/main_3248335/32483350093.20221229074255.jpg",
+                "author": "이원주",
+                "discount": "18000",
+                "publisher": "공동체",
+                "pubdate": "20200120",
+                "isbn": "9791161055510",
+                "description": "▶ 이 책은 최신 지역사회복지론을 다룬 이론서입니다. 최신 지역사회복지론의 기초적이고 전반적인 내용을 학습할 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "공동체",
+                "DDC": "",
+                "UPDATE_DATE": "20200131",
+                "EA_ADD_CODE": "93330",
+                "PUBLISHER_URL": "http//www.compub.co.kr",
+                "AUTHOR": "저자: 이원주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "제2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "420 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161055510",
+                "INPUT_DATE": "20200121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(최신) 지역사회복지론",
+                "PUBLISH_PREDATE": "20200120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

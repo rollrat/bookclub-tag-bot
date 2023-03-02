@@ -1,0 +1,67 @@
+{
+    "otitle": "배낭 속 예술 여행",
+    "oauthor": "진성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "배낭 속 예술 여행 (배낭 속 예술여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492169145",
+                "image": "https://shopping-phinf.pstatic.net/main_3249216/32492169145.20230218110703.jpg",
+                "author": "진성",
+                "discount": "21600",
+                "publisher": "린",
+                "pubdate": "20220120",
+                "isbn": "9791187265702",
+                "description": "예술의 경지에 이른 거장들의 라이벌은 누구일까?\n\n“예술로 빛나는 도시 속에서 \n거장들의 찬란한 예술과 삶을 만나다!”\n\n예술은 무엇일까? 우리가 누군가에게 사랑을 고백할 때 말이나 글로 ‘사랑한다’고 달하기가 매우 쑥스러워 좀처럼 실행하지 못할 때가 있다. \n하지만 선물이나 노래 등 사랑을 대신할 수 있는 다른 형태로 전달하면 훨씬 부드럽고 간접적이지만 강한 인상을 남길 수 있다. 예술이 이런 형태와 비슷하다고 하겠다.\n예술을 추구하는 사람들을 보고 우리는 예술가라고 일컫는다. 또한 그들은 천재나 아니면 거장이라 부른다. 그들의 명칭은 후대에 이르러 헌정되었으나, 생전 당시에는 처절한 경쟁과 고뇌 속에서 작품을 만들었다.\n이 책은 고난 속에서 예술의 혼을 추구한 미술가와 음악가들의 작품, 현장감 있는 자료와 답사를 통해 목격한 거장들의 흔적을 스토리텔링을 통해 들려준다. \n예술은 성찰을 통해 보여준다고 한다. 그렇다고 소나기 속에서 배를 저으며 성찰할 수 없다. 소나기가 멎고 수면이 어느 정도 가라앉으면 우리는 전에 느끼지 못했던 새로운 형태의 아름다움에 홀연히 눈뜰 것이다. 그때가 바로 위대한 예술가의 진면목(眞面目)을 발견하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "린",
+                "DDC": "",
+                "UPDATE_DATE": "20220203",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.bookdaega.com",
+                "AUTHOR": "지은이: 진성",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/12/10/9791187265702.jpg",
+                "PRE_PRICE": "24000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "154*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "469 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187265702",
+                "INPUT_DATE": "20211210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "배낭 속 예술 여행",
+                "PUBLISH_PREDATE": "20220120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "자녀의 5가지 사랑의 언어",
+    "oauthor": "게리 채프먼,로스 캠벨 공저/장동숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "자녀의 5가지 사랑의 언어 (개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32495420647",
+                "image": "https://shopping-phinf.pstatic.net/main_3249542/32495420647.20221019132931.jpg",
+                "author": "게리 채프먼",
+                "discount": "9000",
+                "publisher": "생명의말씀사",
+                "pubdate": "20130625",
+                "isbn": "9788904141319",
+                "description": "《5가지 사랑의 언어》의 자녀 편 『자녀의 5가지 사랑의 언어』. 부모들의 사랑이 어떻게 자녀들에게 전달될 수 있는지, 그리고 그러한 사랑 속에서 자란 자녀들의 삶은 어떻게 달라지는지 보여준다. 또한 자녀의 제1 사랑의 언어를 찾는 방법과 구체적인 적용 방법을 소개하여 많은 가정과 교육현장에 실제적인 도움을 준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의 말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "게리 채프먼 & 로스 캠벨",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20130625",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "13000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904141319",
+                "INPUT_DATE": "20130625",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "자녀의 5가지 사랑의 언어",
+                "PUBLISH_PREDATE": "20130625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

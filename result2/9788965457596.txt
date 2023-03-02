@@ -1,0 +1,67 @@
+{
+    "otitle": "살아보니, 대만",
+    "oauthor": "조영미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "살아보니, 대만",
+                "link": "https://search.shopping.naver.com/book/catalog/32441430167",
+                "image": "https://shopping-phinf.pstatic.net/main_3244143/32441430167.20221019145536.jpg",
+                "author": "조영미",
+                "discount": "14400",
+                "publisher": "산지니",
+                "pubdate": "20211029",
+                "isbn": "9788965457596",
+                "description": "한국, 미국, 캐나다, 대만의 여러 대학에서 이십 년 넘게 한국어와 한국문화를 가르쳐온 조영미 교수의 에세이,『살아보니, 대만』이 출간되었다. 책은 저자가 2015년부터 2019년까지 대만에서 생활한 경험을 바탕으로, 대만의 한 대학교에서 한국어와 한국문화를 가르친 이야기, 그리고 대만인들과 함께했던 일상을 담고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20211202",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "조영미 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/10/12/9788965457596.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965457596",
+                "INPUT_DATE": "20211012",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "살아보니, 대만",
+                "PUBLISH_PREDATE": "20211029",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

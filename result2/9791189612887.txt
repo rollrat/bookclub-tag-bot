@@ -1,0 +1,67 @@
+{
+    "otitle": "지구 좀 다녀오겠습니다",
+    "oauthor": "이중현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지구 좀 다녀오겠습니다 (마음을 움직인 세계 곳곳의 여행 기록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489567245",
+                "image": "https://shopping-phinf.pstatic.net/main_3248956/32489567245.20221228072804.jpg",
+                "author": "이중현",
+                "discount": "13500",
+                "publisher": "북스고",
+                "pubdate": "20210126",
+                "isbn": "9791189612887",
+                "description": "403일 35개국 88개 도시에서의 순간을 담아내다\n\n스물넷에 떠난 첫 해외여행이자 세계 여행. 『지구 좀 다녀오겠습니다』는 세계 곳곳에서 마주친 순간들과 그 안에서 느낀 뜨거운 감정들에 대해 이야기한다. 403일 35개국 88개 도시. 아시아에서 출발해 아프리카를 거쳐 유럽, 남미를 돌아 다시 대한민국에 돌아오기까지의 여정과 여행 에피소드 속에서 삶의 교훈을 얻는다. 또한 여행을 통해 만나고 헤어지는 일은 자연스럽고 아름다운 과정임을 일깨워준다. 설레는 만남 뒤로 이별의 시간이 아쉽고, 쓸쓸하고 외로운 이별의 뒷맛에 힘들기도 하지만 여행으로 인해 만남과 이별에 담담하고 성숙하게 대처하는 방법을 알게 된다. 저자의 따뜻한 이야기와 더불어 세계 여행 중 담았던 사진들로 세계 곳곳을 함께 여행해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "",
+                "UPDATE_DATE": "20210225",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.booksgo.co.kr",
+                "AUTHOR": "이중현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "233 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189612887",
+                "INPUT_DATE": "20210118",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "지구 좀 다녀오겠습니다",
+                "PUBLISH_PREDATE": "20210126",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

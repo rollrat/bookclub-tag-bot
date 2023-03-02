@@ -1,0 +1,67 @@
+{
+    "otitle": "모든 생명은 GMO다",
+    "oauthor": "최낙언 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모든 생명은 GMO다 (GMO에 대한 합리적인 생각법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506906463",
+                "image": "https://shopping-phinf.pstatic.net/main_3250690/32506906463.20221019104514.jpg",
+                "author": "최낙언",
+                "discount": "7020",
+                "publisher": "예문당",
+                "pubdate": "20160816",
+                "isbn": "9788970016726",
+                "description": "『모든 생명은 GMO다』는 우리는 과연 GMO를 어떻게 이해하고 어떻게 대처해야 현명한 것인지, 갈수록 GMO의 종류가 많아지고 재배하는 양도 증가하고 있는데 무작정 외면해도 되는 것인지 GMO의 실체에 대하여 바르게 이해하고자 한다. 그리고 우리가 가진 GMO에 대한 불안감이 ‘합리적인 수준인지’에 대해서도 생각해야 한다. 세계적인 학자들과 연구소들이 그렇게 GMO가 안전하다고 말하는 이유가 무엇인지 그리고 유전자 가위로 대변되는 GMO 2.0 시대에 어떻게 대처해야 하는지 올바른 선택을 위해 GMO를 바르게 알아야 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문당",
+                "DDC": "630.27",
+                "UPDATE_DATE": "20160812",
+                "EA_ADD_CODE": "13470",
+                "PUBLISHER_URL": "www.yemundang.com",
+                "AUTHOR": "최낙언",
+                "SERIES_TITLE": "",
+                "KDC": "521.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5627105_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5627105_3.jpg",
+                "PRE_PRICE": "7800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "114",
+                "CONTROL_NO": "CIP2016017905",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970016726",
+                "INPUT_DATE": "20160721",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "모든 생명은 GMO다",
+                "PUBLISH_PREDATE": "20160816",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

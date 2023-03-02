@@ -1,0 +1,78 @@
+{
+    "otitle": "한눈에 보는 와인",
+    "oauthor": "카트린 제르보,피에르 에르베르 공저/김수영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:23 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "한눈에 보는 와인",
+                "link": "https://search.shopping.naver.com/book/catalog/32483640040",
+                "image": "https://shopping-phinf.pstatic.net/main_3248364/32483640040.20221230072751.jpg",
+                "author": "카트린 제르보^피에르 에르베르",
+                "discount": "27000",
+                "publisher": "시그마북스",
+                "pubdate": "20210910",
+                "isbn": "9791191307634",
+                "description": "와인에 대한 모든 질문에 답하다. 이 책은 와인을 짝사랑하는 이들을 위해 쓰였다. 우선 세계 유명 포도 재배지를 여행하듯 둘러본다. 이어 포도 품종별 특성, 포도 재배와 양조 방식, 와인의 아로마, 테이스팅 기술까지 와인에 관한 거의 모든 것을 담고 있다. 또한 당신의 취향에 맞는 와인은 어떻게 선택하는지, 선택한 와인을 최상의 조건으로 구입할 수 있는 곳은 어딘지, 보관 및 서빙하는 법, 음식과의 페어링까지 친절하게 알려준다. 독자들은 이 한 권으로 생활 속에서 쉽게 즐기는 ‘진짜 와인’을 만나게 될 것이다."
+            },
+            {
+                "title": "와인 (한 눈에 보는 흥미로운 와인 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/35307465561",
+                "image": "https://shopping-phinf.pstatic.net/main_3530746/35307465561.20221018212013.jpg",
+                "author": "베르너 오발스키",
+                "discount": "11520",
+                "publisher": "예경",
+                "pubdate": "20051220",
+                "isbn": "9788970842905",
+                "description": "와인에 대한 알차고 흥미로운 작은 문화사! \n\n와인의 역사부터 포도나무의 재배, 포도품종, 양조 방법까지 와인에 대한 모든 것이 담겨 있다. 실용적인 측면을 강조하여 와인을 구입하고, 저장하고 내놓은 방법 및 와인의 시음 요령까지 다룬다...."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211001",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "카트린 제르보,피에르 에르베르 지음 ;김수영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "180*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "331 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191307634",
+                "INPUT_DATE": "20210823",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(한눈에 보는) 와인",
+                "PUBLISH_PREDATE": "20210910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

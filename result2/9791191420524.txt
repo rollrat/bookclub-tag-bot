@@ -1,0 +1,67 @@
+{
+    "otitle": "정신과 의사를 만났습니다",
+    "oauthor": "애덤 스턴 저/박귀옥 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정신과 의사를 만났습니다 (하버드 의대 정신의학과 레지던트 성장기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438169846",
+                "image": "https://shopping-phinf.pstatic.net/main_3243816/32438169846.20221019145548.jpg",
+                "author": "애덤 스턴",
+                "discount": "14850",
+                "publisher": "홍익출판미디어그룹",
+                "pubdate": "20211025",
+                "isbn": "9791191420524",
+                "description": "부서지는 마음으로 정신과를 찾는 사람들에게\n헌신하는 젊은 의사들의 감동 메디컬 드라마\n? 출간 즉시 미국 아마존 회고록 분야 베스트셀러 ?\n\n애덤 스턴은 현재 하버드대학교 의과대학 정신의학과 조교수로, 이 책은 시골의 주립 의과대학 출신인 그가 하버드 의과대학의 정신과 레지던트로 선발되면서, 4년 동안 어떻게 한 사람의 정신과 의사로 성장해 갔는지를 담았다. 출간 즉시 아마존 회고록 및 전기 분야 베스트셀러에 올랐고 피플, 퍼블리셔스 위클리 등 유력지에서 앞다퉈 소개했다.\n\n시골뜨기 천재 의대생이 명문대학 부속병원의 정신과 의사가 되기까지, 인간의 정신 상태를 연구하고 삶의 가치를 찾아 나가는 과정을 보여 주는 이 책은 최고의 메디컬 드라마를 한 권으로 압축한 감동을 준다. 책에 담긴 환자 사례 연구와 의료 훈련 프로그램의 결합은 의대생, 레지던트, 정신의학계 관련자, 의료 전문가들에게 강렬한 독서 경험을 제공할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "홍익출판 미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20211102",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "애덤 스턴 지음 ;박귀옥 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*204",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "375 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191420524",
+                "INPUT_DATE": "20210929",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "정신과 의사를 만났습니다",
+                "PUBLISH_PREDATE": "20211025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

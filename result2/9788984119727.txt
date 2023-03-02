@@ -1,0 +1,67 @@
+{
+    "otitle": "쇼펜하우어 vs 니체",
+    "oauthor": "이서규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쇼펜하우어 vs 니체",
+                "link": "https://search.shopping.naver.com/book/catalog/32504427627",
+                "image": "https://shopping-phinf.pstatic.net/main_3250442/32504427627.20230207163952.jpg",
+                "author": "김윤선",
+                "discount": "19800",
+                "publisher": "세창출판사",
+                "pubdate": "20200907",
+                "isbn": "9788984119727",
+                "description": "쇼펜하우어의 주장은 니체철학의 형성에 영향을 끼친다. 그러나 니체는 이러한 쇼펜하우어의 영향을 넘어서 자신의 철학을 전개한다. 쇼펜하우어의 철학은 의지의 부정을 궁극적인 목표로서 제시한다는 점에서 힘에의 의지를 긍정하는 니체의 철학과 구분되어야 한다. 쇼펜하우어와 니체의 철학은 삶에 대한 구체적인 논의에서 서로 다른 입장들을 제시하기도 했지만, 이들의 철학은 전통형이상학을 해체하면서 세계 속에서 의지가 드러나는 다양한 측면들을 논의한다는 공통분모를 지니고 있다. \n특히 쇼펜하우어와 니체의 철학은 왜곡된 삶을 회복시켜 인간과 세계의 관계를 새롭게 해석한다는 점에서 공통점을 찾아볼 수 있다. 여기에서 우리는 전통철학의 왜곡된 담론들 속에서 만들어진 인간과 세계이해를 해체하면서 새로운 철학적 사유의 지평을 제시한다는 점에서 쇼펜하우어와 니체의 철학에 긍정적인 의미를 부여할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세창출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20201014",
+                "EA_ADD_CODE": "93160",
+                "PUBLISHER_URL": "http://www.sechangpub.co.kr",
+                "AUTHOR": "이서규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "165",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/20/9788984119727.jpg",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "375 p.",
+                "CONTROL_NO": "CIP2020035173",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984119727",
+                "INPUT_DATE": "20200820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "쇼펜하우어 vs 니체",
+                "PUBLISH_PREDATE": "20200907",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

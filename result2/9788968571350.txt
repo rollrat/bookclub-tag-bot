@@ -1,0 +1,67 @@
+{
+    "otitle": "브리지먼 동작 드로잉",
+    "oauthor": "조지 B. 브리지먼 저/조은형 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "브리지먼 동작 드로잉",
+                "link": "https://search.shopping.naver.com/book/catalog/32504715792",
+                "image": "https://shopping-phinf.pstatic.net/main_3250471/32504715792.20221019135041.jpg",
+                "author": "조지 B. 브리지먼",
+                "discount": "11700",
+                "publisher": "미디어샘",
+                "pubdate": "20200315",
+                "isbn": "9788968571350",
+                "description": "인체의 움직임을 나무블록으로 설명한 최초의 책 『브리지먼 동작 드로잉』. 인체의 형태를 블록으로 설명한 책 《브리지먼 동작 드로잉》이 출간되었다. 드로잉을 공부하는 사람에게는 익숙한 인체 나무모형을 최초로 구현한 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미디어샘",
+                "DDC": "",
+                "UPDATE_DATE": "20200406",
+                "EA_ADD_CODE": "13650",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조지 B. 브리지먼 지음 ;조은형 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788968571350",
+                "INPUT_DATE": "20200406",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "브리지먼 동작 드로잉",
+                "PUBLISH_PREDATE": "20200315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "어차피 내 마음입니다",
+    "oauthor": "서늘한여름밤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어차피 내 마음입니다 (서툴면 서툰 대로 아프면 아픈 대로 지금 내 마음대로)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466654351",
+                "image": "https://shopping-phinf.pstatic.net/main_3246665/32466654351.20230214162317.jpg",
+                "author": "서늘한여름밤",
+                "discount": "13050",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20170530",
+                "isbn": "9788959135127",
+                "description": "“어느 날, 내 삶의 전력 질주를 멈췄다. 내 마음이 무얼 좋아하는지부터 찾아보기로 했다.” 자신의 속도에 맞춰 천천히 살기로 한 서늘한여름밤. 《어차피 내 마음입니다》는 서밤의 그림일기 중에서도 현실적이지만 따뜻한 에피소드 50여 편을 선별하여, 바쁘게 살아가느라 마음의 목소리에 귀 기울이지 못했던 우리에게 꼭 필요한 조언과 응원을 전한다. 작은 마음을 지키기 위한 분투기를 담아낸 서밤의 첫 단행본 《어차피 내 마음입니다》를 통해 작가가 어떻게 마음의 문제들을 해결하고 받아들였는지, 그 기록을 따라가다 보면 심리 상담을 받고난 듯 개운함마저 느껴질 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예담출판사",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20170605",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "서늘한여름밤",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6205418_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6205418_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "348",
+                "CONTROL_NO": "CIP2017009762",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959135127",
+                "INPUT_DATE": "20170418",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "어차피 내 마음입니다",
+                "PUBLISH_PREDATE": "20170530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

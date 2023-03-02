@@ -1,0 +1,67 @@
+{
+    "otitle": "애거사 오들리 2",
+    "oauthor": "레나 존스 글/이리나 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "애거사 오들리 2: 박물관 살인사건 (박물관 살인 사건)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454325156",
+                "image": "https://shopping-phinf.pstatic.net/main_3245432/32454325156.20221019123201.jpg",
+                "author": "레나 존스",
+                "discount": "12150",
+                "publisher": "현암주니어",
+                "pubdate": "20201123",
+                "isbn": "9788932375175",
+                "description": "런던 박물관에서 벌어진 의문의 살인 사건!\n\n대영 박물관에서 의문의 살인 사건이 일어나고,\n수상한 낌새를 느낀 탐정 애거사는 범인 추적에 나선다.\n도심 한복판에 나타난 거대한 싱크홀과\n폐쇄된 지하철역, 5천 톤의 금괴까지….\n과연 이들을 둘러싼 거대한 음모는 무엇일까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암주니어 :현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20210312",
+                "EA_ADD_CODE": "74840",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "레나 존스 지음 ;이리나 옮김",
+                "SERIES_TITLE": "애거사 오들리",
+                "KDC": "843",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788932375120",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "129*198",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "299 p.",
+                "CONTROL_NO": "CIP2020044597",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788932375175",
+                "INPUT_DATE": "20201020",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "애거사 오들리",
+                "PUBLISH_PREDATE": "20201123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74840 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

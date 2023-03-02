@@ -1,0 +1,67 @@
+{
+    "otitle": "나무가 자라는 모습을 보았다",
+    "oauthor": "에르빈 토마 저/김해생 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나무가 자라는 모습을 보았다 (목수 할아버지가 전하는 나무의 매력, 인생의 지혜)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484930157",
+                "image": "https://shopping-phinf.pstatic.net/main_3248493/32484930157.20221228074940.jpg",
+                "author": "에르빈 토마",
+                "discount": "14400",
+                "publisher": "살림",
+                "pubdate": "20180725",
+                "isbn": "9788952239433",
+                "description": "20년 동안 켜켜이 쌓인 지혜의 나이테\n『나무가 자라는 모습을 보았다(원제: Dich sah ich wachsen)』는 칠레 시인 파블로 네루다의 시 「목재에 바치는 송가」 중 ‘나무가 자라는 것을 보았다’라는 시구에서 따왔다.\n네루다는 자신이 좋아하는 사물에 대해 많은 작품을 써서 연작시 「일상의 것들에 바치는 송가」를 발표했는데 「목재에 바치는 송가」도 그 가운데 하나다.\n네루다가 자신이 좋아하는 사물에 대한 시를 써 바쳤다면, 이 책은 저자 아내의 할아버지인 목수 고틀리프 브루거로부터 그에게까지 대를 이어오며 나무에 바치는 송가다. 평생을 나무와 함께한 인생의 지혜가 녹아 있는 이 책의 내용은 대부분 저자가 처음 알아낸 사실이 아니라, 할아버지로부터 배운 것이다.\n우듬지가 산 아래를 향하도록 베어 넘겨야 하는 이유나 도끼질 한 번만에 장작을 빠갤 수 있는 정확한 지점 같은 유용하고 가치 있는 가르침을 모든 사람과 공유하기 위해 글을 썼다. 이 책에서도 다루는 ‘벌채 시기와 월목(月木)’을 주제로 한 연구 발표는 취리히연방공과대학(ETH)에서 증명을 받았다. \n출판된 지 20년이 지나는 오랜 기간 동안 독자의 사랑을 받아 아홉 차례 재판되면서 높은 판매 부수를 기록했다. 세월이 흐름에 따라 수정과 보완을 거치고 다수의 사진을 추가해 개정판을 냈고 마침내 한국어판을 출간하게 되었다.\n\n임학 전공자, 건축가, 공예가 그리고 자연을 동경하는 모든 사람에게\n이 책은 학술적 증명의 필요성을 느끼지 못하던 시대에 한 목수가 경험을 통해 얻은 지식을 그 후손인 사위가 물려받아 기록한 에세이로, 전통적인 원목 벌채나 건조법 외에도 목재를 과학적으로 이용하기 위한 특별한 정보를 담고 있다.\n따라서 임학 전공자와 건축가·공예가에게 큰 도움을 줄 뿐만 아니라, 천연 소재로서 목재가 주목받고 있는 시대 분위기에 맞춰 나무를 사랑하는 모든 이에게 좋은 지침서가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림",
+                "DDC": "634.98",
+                "UPDATE_DATE": "20180807",
+                "EA_ADD_CODE": "03520",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "에르빈 토마 지음 ;김해생 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "526.52",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6807427_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6807427_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6807427_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6807427_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2018022013",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952239433",
+                "INPUT_DATE": "20180712",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "나무가 자라는 모습을 보았다",
+                "PUBLISH_PREDATE": "20180725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "경로를 이탈하셨습니다",
+    "oauthor": "코붱(김연정) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "경로를 이탈하셨습니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32445410110",
+                "image": "https://shopping-phinf.pstatic.net/main_3244541/32445410110.20221228072110.jpg",
+                "author": "코붱(김연정)",
+                "discount": "12600",
+                "publisher": "SISO",
+                "pubdate": "20200805",
+                "isbn": "9791189533304",
+                "description": "“쉬려고요, 그동안 많이 힘들었거든요.”\n꾸준히, 조금씩 누구도 아닌 나를 위해\n하고 싶은 일, 좋아하는 일을 찾아간다는 것에 대하여\n\n‘사내 쪽방에서 시리얼에 요구르트를 부어 먹는 대신 내가 좋아하는 재료들만 골라 그 순간 가장 먹고 싶은 요리를 해 먹을 수 있는 삶, 퇴근하고 소파에 널브러져서 하릴없이 틀어놓은 TV를 멍하니 쳐다보는 대신 평소 보고 싶었던 책과 영화를 원하는 때에 마음 내킬 때까지 볼 수 있는 삶, 왜 해야 하는지 모르겠는 회사 업무가 아닌 내가 하고 싶어서 하는 일본어 공부와 글쓰기 공부에 나의 시간을 할애할 수 있는 삶, 회사에 다닐 땐 출근 시간에 쫓겨 빠르게 지나가기 바빴던 길 한구석에 예쁘게 피어있는 꽃들을 발견하고 그 아름다움을 음미할 수 있는 삶.’\n\n『경로를 이탈하셨습니다』의 작가가 자신의 퇴사 후 삶을 바라보는 관점이다. ‘직장에 나가 돈을 벌지 않는 게으른 사람, 백수는 집에서 놀고먹는 사람’이라는 갇힌 시선에서 벗어나 진정으로 내가 하고 싶은 것, ‘나’라는 사람을 알아가는 시간으로 만들어가는 저자의 삶을 통해 인생을 바라보는 새로운 방향을 엿볼 수 있다. 남이 원하는 길이 아닌 ‘백수 라이터’라는 자신만의 길을 꾸준히, 조금씩 걷고 있는 작가의 이야기가 때로는 공감을 불러일으키고 때로는 동기부여를 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Siso",
+                "DDC": "",
+                "UPDATE_DATE": "20200826",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "코붱 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/23/9791189533304.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "262 p.",
+                "CONTROL_NO": "CIP2020030810",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189533304",
+                "INPUT_DATE": "20200723",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "경로를 이탈하셨습니다",
+                "PUBLISH_PREDATE": "20200805",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

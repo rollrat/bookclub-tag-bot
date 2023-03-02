@@ -1,0 +1,67 @@
+{
+    "otitle": "금리와 환율 알고 갑시다",
+    "oauthor": "김영익 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "금리와 환율 알고 갑시다 (‘거시경제의 거장’ 김영익의 경제가 쉬워지는 책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32460072556",
+                "image": "https://shopping-phinf.pstatic.net/main_3246007/32460072556.20230218110310.jpg",
+                "author": "김영익",
+                "discount": "14690",
+                "publisher": "위너스북",
+                "pubdate": "20211210",
+                "isbn": "9791189352479",
+                "description": "모든 경제는 금리로 시작해서 환율로 끝난다!\n금리로 경제흐름을 분석하고 환율로 미래를 예측하라!\n\n금리와 환율만 알면 경제 공부 다했다고 해도 과언이 아니다. 그만큼 금리와 환율에는 국내외 경제 상황이 총체적으로 반영되어 있기 때문이다. 금리와 환율이 주가에 미치는 영향이나 상관관계에 따른 책은 많으나, 금리와 환율에만 초점을 맞추며 경제를 풀어내는 책은 찾기 어렵다. 그래서 ‘거시경제의 거장’이라 불리는 김영익 서강대 경제대학원 교수는 『금리와 환율 알고 갑시다』를 통해 어렵고 복잡한 경제이론과 시장의 상황을 낱낱이 분석하여 자신만의 철학으로 쉽게 명쾌하게 풀어낸다. 지금 우리에게 필요한 것은 단순 금리와 환율의 개념이 아니다. 금리와 환율을 통해 현재의 경제 상황을 이해하고, 미래를 내다볼 수 있는 통찰력을 갖추어 조금 더 명확하게 경제의 흐름을 파악하는 안목이다. 그 깊이 있는 안목은 금리 인상(하락), 환율 변동, 집값 상승(하락) 등의 위기에도 올바른 판단과 실행을 이룰 수 있게 도와줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위너스북",
+                "DDC": "",
+                "UPDATE_DATE": "20220104",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김영익 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189352479",
+                "INPUT_DATE": "20211104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "금리와 환율 알고 갑시다",
+                "PUBLISH_PREDATE": "20211210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

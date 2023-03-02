@@ -1,0 +1,78 @@
+{
+    "otitle": "대통령을 위한 에너지 강의",
+    "oauthor": "리처드 뮬러 저/장종훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:53 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "대통령을 위한 에너지 강의 (경제성장을 발목잡는 에너지 딜레마)",
+                "link": "https://search.shopping.naver.com/book/catalog/32475757907",
+                "image": "https://shopping-phinf.pstatic.net/main_3247575/32475757907.20221228073251.jpg",
+                "author": "리처드 뮬러",
+                "discount": "13500",
+                "publisher": "살림",
+                "pubdate": "20140805",
+                "isbn": "9788952228895",
+                "description": "미래의 지도자에게 말하는 ‘에너지’의 진실!\n\n『대통령을 위한 에너지 강의』는 미국연방정부 과학고문 리처드 뮬러의 에너지 정책에 대한 경고를 담은 책이다. 우리가 에너지에 대해 잘못 알고 있는 것을 돌려놓으려는 저자의 노력을 엿볼 수 있다. 에너지라는 자연의 산물에 대해 자연과학적 사실과 자연과학적 연구를 바탕으로 우리에게 에너지의 자연 그대로의 본 모습이 어떠한 것인지 상세히 설명한다.  \n\n저자는 에너지 문제를 해결하는 국가가 미래를 주도할 수 있다고 강조했다. 미래의 대통령이라면 꼭 알아야 할 에너지 내용을 다루면서 에너지 실체를 논하면서도, 현실성 있고 생생한 조언을 아끼지 않는다. 가족과 여행하며 투명비닐봉지에 물을 담아 태양에너지를 활용해 샤워하거나, 풍속과 출력 밀도 공식으로 풍력발전으로 생성될 수 있는 전기량을 계산하는 등 에너지 전문가로서 모습을 보여주기도 했다."
+            },
+            {
+                "title": "리처드 뮬러 시리즈 세트 (대통령을 위한 물리학 + 대통령을 위한 에너지강의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32509095746",
+                "image": "https://shopping-phinf.pstatic.net/main_3250909/32509095746.20220521182614.jpg",
+                "author": "",
+                "discount": "27000",
+                "publisher": "살림출판사",
+                "pubdate": "20140829",
+                "isbn": "9788952229335",
+                "description": "물리학자이자 미연방정부 과학정책고문인 리처드 뮬러 UC버클리 교수의 과학 특강! 리처드 뮬러는 UC버클리의 물리학 교수이자 오바마 정부의 고위 과학고문을 지내고 각종 국가단위 과학 프로젝트에 직접 참여한 과학 안보 분야의 정책전문가다. 과학자의 눈으로 과학에 대해 가장 정확하고 객관적으로 분석한 두 권, 『대통령을 위한 물리학』『대통령을 위한 에너지 강의』. 과학 교양서 독자는 물론 정치행정에 관심 있는 독자라면 반드시 읽어야 할 책이다.\n\n세트:전2권\n1. 『대통령을 위한 물리학』\n2."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "333.79",
+                "UPDATE_DATE": "20140820",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "리처드 뮬러",
+                "SERIES_TITLE": "",
+                "KDC": "321.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3612407_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3612407_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014016003",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952228895",
+                "INPUT_DATE": "20140519",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "대통령을 위한 에너지 강의",
+                "PUBLISH_PREDATE": "20140620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

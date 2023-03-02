@@ -1,0 +1,67 @@
+{
+    "otitle": "조리법별 일본 요리",
+    "oauthor": "츠지조리사전문학교 저/최강록 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조리법별 일본 요리",
+                "link": "https://search.shopping.naver.com/book/catalog/32436274278",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436274278.20221228072720.jpg",
+                "author": "츠지조리사전문학교",
+                "discount": "29700",
+                "publisher": "클",
+                "pubdate": "20180312",
+                "isbn": "9791188907045",
+                "description": "일본 요리 학교의 명문 츠지조리사전문학교가 만든 가장 체계적이고 전문적인 일본 요리 입문 교과서 『조리법별 일본 요리』는 일본 최고의 요리 학교이자 세계적으로도 손꼽히는 츠지조리사전문학교의 노하우를 담았다. 이 책은 일본 요리의 기본적인 이해를 바탕으로 계절의 풍미를 살린 70가지 고급 일본 요리를 특징과 가이세키 요리의 순서를 토대로 여덟 가지 조리법(완모노, 쓰쿠리, 야키모노, 니모노,아게모노, 무시모노, 아에모노와 스노모노, 고항모노)으로 나눈다. 각 조리법이 생겨난 배경과 특성, 세부 분류 등을 친절하게 설명하여 조리법에 대한 이해를 높이고, 조리법이 포인트를 깔끔하게 정리했다. 뿐만 아니라 기본에 충실한 깊이 있는 레시피와 단계별로 꼼꼼하게 재현한 사진은 누구나 일본 요리를 섬세하고 우아하게 완성할 수 있도록 돕는다. 마지막으로 일본 요리의 기초인 재료 손질 방법과 다시 뽑기를 수록해 기초부터 탄탄할 수 있도록 했으며, 요리 용어 해설을 통해 전문성을 더했다. 정통 일본 요리를 배우고 싶은 사람들에게는 훌륭한 일본 요리 입문 교과서가 될 것이다. 츠지조리사전문학교는 프랑스 르 꼬르동 블루, 미국 CIA와 함께 세계 3대 요리 학교로 통하며, 고급 조리 기술을 전수하는 데에 그치지 않고, 요리와 재료에 관한 폭넓은 시야와 풍부한 상상력을 키울 수 있도록 지도하는 곳으로 알려져 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "641.5952",
+                "UPDATE_DATE": "20180801",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 츠지조리사전문학교 ;옮긴이: 최강록",
+                "SERIES_TITLE": "",
+                "KDC": "594.523",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6543299_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6543299_3.jpg",
+                "PRE_PRICE": "33000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6543299_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "200*260",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "205 p.",
+                "CONTROL_NO": "CIP2018004104",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188907045",
+                "INPUT_DATE": "20180205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "조리법별 일본 요리",
+                "PUBLISH_PREDATE": "20180312",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

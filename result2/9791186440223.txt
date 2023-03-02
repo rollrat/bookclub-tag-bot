@@ -1,0 +1,67 @@
+{
+    "otitle": "세계를 읽다 일본",
+    "oauthor": "라이나 옹 저/정해영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계를 읽다: 일본",
+                "link": "https://search.shopping.naver.com/book/catalog/32438275627",
+                "image": "https://shopping-phinf.pstatic.net/main_3243827/32438275627.20221227205309.jpg",
+                "author": "라이나 옹",
+                "discount": "13500",
+                "publisher": "도서출판가지",
+                "pubdate": "20180415",
+                "isbn": "9791186440223",
+                "description": "현지의 삶과 사람에 초점을 맞춘 본격 세계문화 안내서 &lt;세계를 읽다&gt; 시리즈. 가깝고도 먼 나라 일본의 역사와 문화, 일본인의 삶에 대해 타자적 시선으로 마주할 수 있는 기회를 제공한다. ‘고요함과 혼잡함, 광기와 평화가 마치 서로의 존재를 무시하듯 공존하는 오아시스’라는 책 속 표현에서 알 수 있듯, 일본에 도착한 세계인들은 이전에 가졌던 어떤 고정관념과도 다른 모습들을 대면하며 이 나라에 대해 배워간다. \n\n\n\n저자는 풍부한 사적 경험담을 통해 어디서나 내집단과 외집단을 구분해 행동하는 일본인의 습성, 전형적인 일본 세일즈맨으로 살아가는 방법, 이 나라의 매혹적인 미식 문화와 함께 정통 이자카야에서 메뉴를 고르는 법 등을 알려준다. 또한 일본인이라면 누구나 좋아하는 온천 여행과 벚꽃 철 전국에서 펼쳐지는 꽃놀이와 다양한 지역 축제를 즐기는 최고의 방법, 전통 여관 료칸 이용법 등을 알려주고, 복잡하기로 유명한 일본의 도시 철도망과 신칸센에 자신 있게 올라타도록 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가지",
+                "DDC": "952",
+                "UPDATE_DATE": "20180430",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "라이나 옹 지음 ;정해영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "913",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6609131_6.txt",
+                "SET_ISBN": "9791195201655",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6609131_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6609131_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "246 p.",
+                "CONTROL_NO": "CIP2018009788",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186440223",
+                "INPUT_DATE": "20180318",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "일본",
+                "PUBLISH_PREDATE": "20180415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

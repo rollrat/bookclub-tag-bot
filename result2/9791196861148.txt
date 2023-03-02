@@ -1,0 +1,67 @@
+{
+    "otitle": "좋아하는 일을 끝까지 해보고 싶습니다",
+    "oauthor": "김고명 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋아하는 일을 끝까지 해보고 싶습니다 (어느 젊은 번역가의 생존 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466943037",
+                "image": "https://shopping-phinf.pstatic.net/main_3246694/32466943037.20221130113100.jpg",
+                "author": "김고명",
+                "discount": "13320",
+                "publisher": "좋은습관연구소",
+                "pubdate": "20200416",
+                "isbn": "9791196861148",
+                "description": "\"내가 빛날 날이 반드시 올 것이다.\"\n\"너무 뻔한 말이라고?\"\n\"아니, 중요한 건 그 말을 새길 때 생기는 힘이야.\"\n\n“나는 출판 번역가로 12년째 생존 중이다.\n굳이 생존이란 표현을 쓴 까닭은 \n언제 도태될지 모르는 프리랜서의 숙명 때문이다.”\n\n우리 사회에는 혹독한 무명 시절을 견뎌야만 빛과 영광을 볼 수 있는 수많은 직업들이 있다. 어디 번역가뿐이겠는가? 예술가들이 있고, 운동선수들이 있으며, 수많은 프리랜서들이 있다. 이 모두가 “언젠가 나는 빛날 것이다”라는 희망 하나로 오늘을 살고 있다. 이 책은 바로 이들에게 들려주는 응원의 노래다. 내 이름 석 자를 인정받기 위한 저자 특유의 공부법과 삶의 습관들을 재미난 글과 팁으로 유쾌하게 풀어냈다. 번역가뿐만이 아니라 내 일을 더 프로페셔널하게 하고 싶은 사람, 독립을 꿈꾸는 사람, 이들 모두에게 힘이 되는 이야기를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "좋은습관연구소",
+                "DDC": "",
+                "UPDATE_DATE": "20200701",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김고명 지음",
+                "SERIES_TITLE": "",
+                "KDC": "701.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "217 p.",
+                "CONTROL_NO": "CIP2020009786",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196861148",
+                "INPUT_DATE": "20200305",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "좋아하는 일을 끝까지 해보고 싶습니다",
+                "PUBLISH_PREDATE": "20200413",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

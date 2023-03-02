@@ -1,0 +1,67 @@
+{
+    "otitle": "이렇게 멋진 CEO 봤어?",
+    "oauthor": "이병승 글/이예숙 그림/허은영 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이렇게 멋진 CEO 봤어?",
+                "link": "https://search.shopping.naver.com/book/catalog/32492040752",
+                "image": "https://shopping-phinf.pstatic.net/main_3249204/32492040752.20221019105216.jpg",
+                "author": "이병승",
+                "discount": "10800",
+                "publisher": "북멘토",
+                "pubdate": "20171110",
+                "isbn": "9788963192482",
+                "description": "『이렇게 멋진 CEO 봤어?』는 미래의 꿈이 CEO인 아이와 꿈을 잃어버린 게임 회사 CEO의 이야기이다. 날마다 CEO가 되는 꿈을 꾸는 민달이가 진짜 CEO를 만나 막연하게만 생각했던 CEO의 생활을 생생하게 체험하게 된다. 기업을 경영하는 직업인으로서 CEO가 어떤 일을 하는지, 어려움은 무엇인지, 어떤 자세를 가져야 하는지, 어린이 독자들도 민달이와 함께 CEO의 세계로 한 걸음 깊이 다가가게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20171121",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "http://www.bookmentorbooks.co.kr",
+                "AUTHOR": "이병승 글 ;이예숙 그림",
+                "SERIES_TITLE": "북멘토 직업가치동화",
+                "KDC": "321.55",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6406667_6.txt",
+                "SET_ISBN": "9788963192475",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6406667_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6406667_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "168*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "131 p.",
+                "CONTROL_NO": "CIP2017028045",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788963192482",
+                "INPUT_DATE": "20171026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이렇게 멋진 CEO 봤어?",
+                "PUBLISH_PREDATE": "20171110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

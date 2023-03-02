@@ -1,0 +1,67 @@
+{
+    "otitle": "90일 밤의 미술관 : 루브르 박물관",
+    "oauthor": "이혜준,임현승,정희태,최준호 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "90일 밤의 미술관 : 루브르 박물관 (루브르에서 여행하듯 시작하는 교양 미술 감상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441619681",
+                "image": "https://shopping-phinf.pstatic.net/main_3244161/32441619681.20221229072737.jpg",
+                "author": "이혜준^임현승^정희태^최준호",
+                "discount": "15120",
+                "publisher": "동양북스",
+                "pubdate": "20210531",
+                "isbn": "9791157687114",
+                "description": "90일 밤의 미술관, 이번엔 루브르 박물관으로!\n10만 관람객을 감동시킨 루브르 투어를 한 권에\n유로자전거나라 ‘프랑스 국가 공인 가이드’들의 꼼꼼한 감상 가이드\n\n유럽 각지에 있는 미술관의 작품들을 소개한 《90일 밤의 미술관》, 이번에는 ‘루브르 박물관’편이 새롭게 출간되었다. 루브르 박물관은 건축 규모, 소장품 수, 역사 등 모든 부문에서 세계 최고로 꼽히며 세계에서 가장 많은 사람이 방문하는 박물관이기도 하다. 국내 최초 지식 가이드 그룹 유로자전거나라에서 10년 넘게 루브르의 작품들을 해설하고 오랜 시간 미술사를 공부한 프랑스 국가 공인 가이드 4명이 이 책을 위해 모였다. 그동안 엄선해서 소개해온 작품들은 물론, 시간이 부족한 여행객들은 보기 어렵지만 놓치기 아까운 보석 같은 작품과 유물 들을 총망라해 소개한다. 리슐리외관, 쉴리관, 드농관 순으로 실제로 박물관을 관람하듯 천천히 책장을 넘기며 천재 화가와 조각가들을 만나보자.\n\n- 루브르를 대표하는 100여 점의 작품 수록\n- 유로자전거나라 투어 할인 쿠폰 10종 제공"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210701",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이혜준,임현승,정희태,최준호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "493 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157687114",
+                "INPUT_DATE": "20210511",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "90일 밤의 미술관",
+                "PUBLISH_PREDATE": "20210531",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

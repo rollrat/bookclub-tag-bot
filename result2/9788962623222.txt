@@ -1,0 +1,67 @@
+{
+    "otitle": "가짜뉴스의 고고학",
+    "oauthor": "최은창 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가짜뉴스의 고고학 (로마 시대부터 소셜미디어 시대까지, 허위정보는 어떻게 여론을 흔들었나)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465591713",
+                "image": "https://shopping-phinf.pstatic.net/main_3246559/32465591713.20221227204216.jpg",
+                "author": "최은창",
+                "discount": "19800",
+                "publisher": "동아시아",
+                "pubdate": "20200212",
+                "isbn": "9788962623222",
+                "description": "로마 시대에서 소셜미디어 시대까지 가짜뉴스에 관한 가장 방대한 기록\n\n가짜뉴스는 뉴스의 형태를 띄고 정치적·경제적으로 수용자를 기만하는 정보이며, 허위정보는 악소문, 프로파간다, 가짜뉴스, 오도성 정보(misinformation)를 포함하는 더 넓은 범위의 개념이다. 이 책은 뉴스의 형태를 띈 가짜뉴스뿐 아니라 소문, 프로파간다 등 다양한 형태의 허위정보가 역사 속에서 어떤 역할을 했는지 추적하고 있다. 가짜뉴스의 역사를 발굴하고 그 사이에서 인류의 생활과 문화, 행동 양식을 탐구하며 나아가 가짜뉴스의 대응책을 고민한다. 그래서 ‘가짜뉴스의 고고학’이다.\n\n가짜뉴스 규제가 권위주의 정부의 권력 유지 수단이 될 가능성도 높다는 점을 지적한다. 가짜뉴스는 갑자기 튀어나온 골칫거리가 아니다. 가짜뉴스는 인류의 오랜 역사 속에서 나름의 역할을 담당해왔다. 하지만 현재 문제로 지적되는 가짜뉴스는 공론장을 황폐화하고 민주주의를 위협할 위험성을 지니고 있다. 우리가 가짜뉴스에 어떻게 대응해야 할지 지혜를 모아야 할 시기에 이 책은 적지 않은 논쟁점과 통찰을 던져줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "",
+                "UPDATE_DATE": "20200221",
+                "EA_ADD_CODE": "93300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최은창 지음",
+                "SERIES_TITLE": "",
+                "KDC": "070.42",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "506 p.",
+                "CONTROL_NO": "CIP2020003310",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962623222",
+                "INPUT_DATE": "20200122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "가짜뉴스의 고고학",
+                "PUBLISH_PREDATE": "20200212",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "내 안의 트라우마 치유하기",
+    "oauthor": "피터 A. 레빈 저/양희아 역/권수영 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:06 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "내 안의 트라우마 치유하기 (힐링 트라우마, 내 안에 잠든 호랑이를 깨워라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496607797",
+                "image": "https://shopping-phinf.pstatic.net/main_3249660/32496607797.20220527085049.jpg",
+                "author": "피터 A. 레빈",
+                "discount": "0",
+                "publisher": "소울메이트",
+                "pubdate": "20160706",
+                "isbn": "9791160020120",
+                "description": "삶에 있어 미처 준비하지 못한 역경들로부터 이를 맞이하고 고통을 치유할 준비를 할 수 있도록 도와주는 『내 안의 트라우마 치유하기』. 오랜 시간 심리치료사로서 트라우마 증상을 가진 환자들을 치유했던 저자는 수많은 임상사례를 통해 검증된 신체 기반 트라우마 치료법을 제시함으로써 몸의 감각을 통해 트라우마를 치유하는 법을 알려준다. 따라서 몸과 마음의 상호작용으로 트라우마를 극복하는 새로운 방법을 제시한다.\n\n저자는 전통적인 심리학에서 트라우마를 정신의 문제라고 보며 정신에 영향을 주어 치료하고자 하지만, 이러한 방식은 근본적인 치유법이 될 수 없다고 말한다. 트라우마는 그 증상을 촉발한 사건 자체 때문에 발생하는 것이 아니라 해소 및 방출되지 못하고 남은 에너지 때문에 생기는 것이라 말하며 방출되지 못하고 갇혀 있는 에너지의 본능적 대처 과정을 감각느낌을 통해 마무리할 수 있게 해 트라우마를 치유해야 한다고 말한다. 이 책에는 이에 대한 구체적인 방법들이 소개되어 있다."
+            },
+            {
+                "title": "내 안의 아이 치유하기",
+                "link": "https://search.shopping.naver.com/book/catalog/35196320619",
+                "image": "https://shopping-phinf.pstatic.net/main_3519632/35196320619.20221228072434.jpg",
+                "author": "기타 야코프^Hannie van Gendern^라우라 지바우어",
+                "discount": "12960",
+                "publisher": "메타미디어",
+                "pubdate": "20221012",
+                "isbn": "9791195504749",
+                "description": "스키마 치료 역시 인지행동치료처럼 환자가 스스로 자신의 문제를 파악하고 치료를 할 수 있는 자가치료자를 양성하는 치료법이기에 자가치료 책자가 치료에 큰 도움이 된다. 제프리 영 박사가 쓴 〈Reinventing Your Life〉(국내에는 ‘삶의 덫에서 벗어나 새로운 나를 열기’라는 제목으로 번역이 되어 메타미디어를 통하여 출간되었다)라는 자조책자를 번역하여 출간하였다.\n\n그런데 이 책은 주로 스키마를 찾아서 치료하는데 목표를 두었다면, 스키마 모드를 찾아서 치료하는 방법에 관한 자조책자가 없어서 아쉬웠는데, 마침 지타 제이콥 박사 등이 쓴 〈Breaking Negative Thinking Patterns〉라는 책이 출간되어 기쁜 마음으로 한국어로 번역서를 출간하게 되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)원앤원콘텐츠그룹",
+                "DDC": "616.8521",
+                "UPDATE_DATE": "20160712",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "피터 A. 레빈",
+                "SERIES_TITLE": "",
+                "KDC": "513.8521",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5502588_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5502588_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "376쪽 ",
+                "CONTROL_NO": "CIP2016014108",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160020120",
+                "INPUT_DATE": "20160607",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "내 안의 트라우마 치유하기",
+                "PUBLISH_PREDATE": "20160706",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

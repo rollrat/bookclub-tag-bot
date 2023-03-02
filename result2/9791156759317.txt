@@ -1,0 +1,78 @@
+{
+    "otitle": "아이비스타일",
+    "oauthor": "정필규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:41 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "아이비스타일 (시간이 흘러도 변하지 않는 가치를 입는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473100767",
+                "image": "https://shopping-phinf.pstatic.net/main_3247310/32473100767.20221019123320.jpg",
+                "author": "정필규",
+                "discount": "16200",
+                "publisher": "벤치워머스",
+                "pubdate": "20211213",
+                "isbn": "9791156759317",
+                "description": "세대, 인종, 지역, 신분, 시대를 넘어 \n역사상 가장 민주적인 패션\n아메리칸 캐주얼의 세계"
+            },
+            {
+                "title": "커피 라이프 (바리스타가 제안하는 데일리 커피 가이드 | 매일이 향기로운 라이프 스타일)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473645972",
+                "image": "https://shopping-phinf.pstatic.net/main_3247364/32473645972.20221019125139.jpg",
+                "author": "장현우",
+                "discount": "12600",
+                "publisher": "아이비라인",
+                "pubdate": "20180910",
+                "isbn": "9788993461459",
+                "description": "쉽고, 재미있고, 감각적인 커피 라이프 가이드\n반복되는 하루를 반짝이게 하는 손쉬운 방법이야말로 커피다. 커피는 혼자서도, 누군가와 함께 시간을 보낼 때도 늘 곁에 둘 수 있다. 더불어 쉽게 예상할 수 없는 우리의 삶과도 닮았다. 원두에 따라, 내리는 방식에 따라 그 면면이 다양하고 내리는 사람의 기분과 마음가짐에 따라 미묘하게 맛이 달라 매력이 무궁무진하다. 훌륭한 커피를 단순히 맛보는 것을 넘어 집, 사무실, 어디에서나 취향에 맞는 커피를 직접 만들어 즐기려는 독자들을 위해 준비했다. 프로페셔널 바리스타의 에세이와 유용한 팁, 감각적인 이미지로 가득한 는 커피를 즐길 수 있는 다양한 방법을 제시하며, 커피가 있는 하루가 얼마나 풍요로운지 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BW :푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20220119",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "정필규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/12/02/9791156759317.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "222 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156759317",
+                "INPUT_DATE": "20211202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "아이비스타일",
+                "PUBLISH_PREDATE": "20211213",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

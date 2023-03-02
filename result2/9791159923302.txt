@@ -1,0 +1,67 @@
+{
+    "otitle": "사이언스 고즈 온",
+    "oauthor": "문성실 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사이언스 고즈 온 (바이러스와 싸우는 엄마 과학자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482026150",
+                "image": "https://shopping-phinf.pstatic.net/main_3248202/32482026150.20221229074503.jpg",
+                "author": "문성실",
+                "discount": "14850",
+                "publisher": "알마",
+                "pubdate": "20210429",
+                "isbn": "9791159923302",
+                "description": "“바이러스-백신을 연구합니다”\n여성 과학자가 들려주는 과학하는 즐거움\n바이러스-백신을 연구하는 문성실\n과학에 대한 사랑과 열정 그리고 도전으로 가득한 삶\n\n바이러스-백신을 연구하는 미생물학자 문성실의 과학에세이 《사이언스 고즈 온─바이러스와 싸우는 엄마 과학자》가 독자들을 찾는다. 순수 국내파 과학자로 한국에서 온갖 어려움을 뚫고 박사학위를 취득한 뒤 미국으로 건너 가 백신을 연구하고 있는 이력이 눈길을 사로잡는다. ‘롤모델보다 레퍼런스’가 되고 싶다는 문성실은 특유의 긍정성과 도전 정신으로 우리에게 희망과 응원의 메시지를 전한다. 영어를 잘하지 못해도, 명문대를 나오지 않아도 관심 분야에 매진하면 최일선 연구자가 될 수 있다는 것을 스스로 증명함으로써 그 희망을 무던히 구체화하는 모습은 독자들에게 용기를 불어넣기에 충분할 것이다. 연구 분야, 코로나바이러스, 백신, 팬데믹에 대한 논평뿐 아니라 대학원 내의 복잡한 인간관계, 영어의 어려움, 이민자로서의 고충, 결혼생활과 육아에서 오는 고통과 환희 등 자신의 삶을 솔직담백하게 털어놓아 공감을 불러일으킨다. 이 책을 통해 우리는 이성으로 무장함과 동시에 감정에 파문을 일으키는, 글쓰는 여성 과학자의 출현을 즐겁게 지켜볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Alma(알마)",
+                "DDC": "",
+                "UPDATE_DATE": "20210618",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 문성실",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*213",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "273 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159923302",
+                "INPUT_DATE": "20210412",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "사이언스 고즈 온",
+                "PUBLISH_PREDATE": "20210429",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

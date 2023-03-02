@@ -1,0 +1,67 @@
+{
+    "otitle": "왜 지금 고전인가",
+    "oauthor": "네빌 몰리 저/박홍경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왜 지금 고전인가 (서양고전 입문자를 위한 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436127234",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436127234.20221230075113.jpg",
+                "author": "네빌 몰리",
+                "discount": "12150",
+                "publisher": "프롬북스",
+                "pubdate": "20191030",
+                "isbn": "9791188167227",
+                "description": "“고전은 인간이 된다는 것에 대한 모든 것을 질문하도록 이끈다!”\n\n호메로스의 『일리아스』부터 헤로도토스의 『역사』까지,\n부터 로마의 까지, \n그리스 로마 신화부터 라틴어 수업까지,\n고전은 어떻게 우리의 교양이 되었나?\n왜 고전은 삶과 세계에 중요한가?\n\n세계적 석학과 리더들은 왜 고전을 배우고 권할까?\n여러 세대에 걸쳐 그리스어와 라틴어는 서구 엘리트 교육에 활용됐다. 고전 지식은 교양 있는 지식인, 창의적인 인재들을 양성했다. 그리스와 로마는 문명의 정점이었고, 전 세계 어느 지역, 어느 인종보다 서양과 백인이 우월한 기원으로 간주됐다. \n그러나 오늘날 이러한 엘리트주의와 인종차별주의에 기반을 둔 고전의 중요성에 대한 주장은 더 이상 수용되지 않는다. 고전을 정치인과 전문가를 위한 기초교육으로 보지도 않는다. 그렇다면 고전은 정말 구닥다리 학문이 된 걸까? 세계적 석학과 리더들은 왜 그토록 고전을 배우고 또 대중에게 권할까? \n『왜 지금 고전인가』의 저자 네빌 몰리는 고전이 오늘날에도 여전히 강력한 영향력을 갖고 있으며, 고전을 무시한 삶, 고전에서 배우지 못한 사회는 언제든 위험에 빠질 수 있다고 말한다. 고전은 과거에 대한 가르침을 줄 뿐만 아니라 이 시대의 복잡한 문화, 사회 및 정치 세계에 중요한 교훈을 제공할 수 있다고 주장한다. 과거 유럽 귀족 남성의 전유물이자 20세기 중반까지만 해도 영국 지식인의 필수 교육 과목이던 고전이 어떻게 오늘날 전 세계적 대중의 교양으로 받아들여졌는지를 설명하며, 그 변화의 과정에서 주목할 만한 이슈, 그리고 고전이 우리 삶과 세계에 갖는 진정한 의미를 고전학자의 시선으로 풀어냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "프롬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191104",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "네빌 몰리 지음 ;박홍경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "001.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/11/9791188167227.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "190 p.",
+                "CONTROL_NO": "CIP2019040590",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188167227",
+                "INPUT_DATE": "20191011",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "왜 지금 고전인가",
+                "PUBLISH_PREDATE": "20191030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "비탈진 음지",
+    "oauthor": "조정래 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비탈진 음지 (조정래 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466968891",
+                "image": "https://shopping-phinf.pstatic.net/main_3246696/32466968891.20221019135008.jpg",
+                "author": "조정래",
+                "discount": "11520",
+                "publisher": "해냄출판사",
+                "pubdate": "20110727",
+                "isbn": "9788965740049",
+                "description": "피할 수 없는 변화 속에서 빈민으로 전락한 사람들!\n\n, ,  등을 통해 왜곡된 민족사에서 개인이 처한 한계에 이르기까지 다양한 영역을 아우르며 활동을 펼쳐온 작가 조정래. 그가 1973년에 발표한 중편 『비탈진 음지』가 장편소설로 재탄생했다. 발표 당시 장편적 중량감을 지닌 중편이자 작가의 문학관과 역사관을 압축한 소설로 많은 관심을 받았던 이 작품을, 200여 매에 이르는 내용을 새롭게 추가하고 문장을 다듬어 장편으로 전면 개작했다. 1970년대 급속도로 진행된 산업화와 뜻하지 않게 닥친 불행으로 인해, 삶의 터전을 버리고 두 자녀와 함께 서울로 야반도주해 칼갈이로 생계를 꾸리는 복천 영감의 이야기를 그리고 있다. 그의 삶뿐만 아니라 그가 만난 다양한 인물들을 통해 갑작스러운 사회변화 속에서 밑바닥을 전전하며 살아야 했던 부모 세대들의 삶을 생생하게 전해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20110808",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "조정래",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20110727",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "17500",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965740049",
+                "INPUT_DATE": "20110808",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "비탈진 음지 ",
+                "PUBLISH_PREDATE": "20110727",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "철학 콘서트 1",
+    "oauthor": "황광우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:45 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "철학 콘서트 1 (위대한 사상가 10인과 함께하는 철학의 대향연)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463726879",
+                "image": "https://shopping-phinf.pstatic.net/main_3246372/32463726879.20230216071027.jpg",
+                "author": "황광우",
+                "discount": "12600",
+                "publisher": "생각정원",
+                "pubdate": "20170220",
+                "isbn": "9791185035802",
+                "description": "2006년 &lt;철학 콘서트1&gt;을 시작으로 30만 독자들의 사랑을 받아온 &lt;철학 콘서트&gt; 시리즈가 11년 만에 개정증보판을 선보인다. 치밀한 구성과 예리한 통찰력, 저자 특유의 위트를 선보이며 출간 즉시 화제가 되었고, 철학의 대중화를 이끌었다는 평과 함께 ‘네티즌 선정 올해의 책’에 선정되기도 했다.  \n\n\n\n2007년 4월, 저자는 산속 암자에서 뇌출혈로 쓰러졌다. 불가피하게 회복이 온전하지 못한 상황에서 &lt;철학 콘서트2&gt;와 &lt;철학 콘서트3&gt;을 출간해야만 했다. 이번 개정증보판은 특히 이 두 권을 중심으로 사상가들의 고전을 통독하면서 미흡한 부분을 전면 수정했다. 또한 각권 말미에 개정증보 기념 특별 부록으로 철학 교사 안광복과의 ‘철학 대담’을 실어 &lt;철학 콘서트&gt; 시리즈의 탄생과 의미, 책 속에 등장하는 사상가들의 철학을 더 깊이 있게 담았다."
+            },
+            {
+                "title": "[큰글자도서] 철학 콘서트 1 (위대한 사상가 10인과 함께하는 철학의 대향연)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466572563",
+                "image": "https://shopping-phinf.pstatic.net/main_3246657/32466572563.20221229074621.jpg",
+                "author": "황광우",
+                "discount": "30000",
+                "publisher": "생각정원",
+                "pubdate": "20210120",
+                "isbn": "9791197325069",
+                "description": "2006년 &lt;철학 콘서트1&gt;을 시작으로 30만 독자들의 사랑을 받아온 &lt;철학 콘서트&gt; 시리즈가 11년 만에 개정증보판을 선보인다. 치밀한 구성과 예리한 통찰력, 저자 특유의 위트를 선보이며 출간 즉시 화제가 되었고, 철학의 대중화를 이끌었다는 평과 함께 ‘네티즌 선정 올해의 책’에 선정되기도 했다.  \n\n\n\n2007년 4월, 저자는 산속 암자에서 뇌출혈로 쓰러졌다. 불가피하게 회복이 온전하지 못한 상황에서 &lt;철학 콘서트2&gt;와 &lt;철학 콘서트3&gt;을 출간해야만 했다. 이번 개정증보판은 특히 이 두 권을 중심으로 사상가들의 고전을 통독하면서 미흡한 부분을 전면 수정했다. 또한 각권 말미에 개정증보 기념 특별 부록으로 철학 교사 안광복과의 ‘철학 대담’을 실어 &lt;철학 콘서트&gt; 시리즈의 탄생과 의미, 책 속에 등장하는 사상가들의 철학을 더 깊이 있게 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정원",
+                "DDC": "100",
+                "UPDATE_DATE": "20171129",
+                "EA_ADD_CODE": "04100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황광우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "100",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185035796",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6127551_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6127551_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "309 p.",
+                "CONTROL_NO": "CIP2017003536",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185035802",
+                "INPUT_DATE": "20170209",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "철학 콘서트",
+                "PUBLISH_PREDATE": "20170220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04100 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "그림 읽는 변호사",
+    "oauthor": "양지열 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그림 읽는 변호사 (양지열 변호사의 그림 속 법 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455550689",
+                "image": "https://shopping-phinf.pstatic.net/main_3245555/32455550689.20221229074034.jpg",
+                "author": "양지열",
+                "discount": "15120",
+                "publisher": "현암사",
+                "pubdate": "20161226",
+                "isbn": "9788932318325",
+                "description": "세월호 사건부터 벤츠 여검사 사건까지, 그림으로 풀어내는 법 이야기!\n\n세월호 사건은 과연 기업이나, 승객들을 버리고 도망간 승무원만의 잘못일까? 국가가 제공한 원인은 없을까? \n수천만 원에 달하는 금품과 함께 사건 관련 청탁을 받았는데도 뇌물이 아니라 사랑의 선물이라고? \n한밤중에 집에 침입한 도둑을 쫓으려고 빨래 건조대로 때렸을 뿐인데 정당방위가 아니라 폭행죄라니? \n\n기자 출신 변호사가 전하는 그림 속, 우리 현실의 법\n오늘날까지 명화로 남아 있는 작품의 상당수는 인류 역사의 생생한 장면을 담은 중요한 기록물이다. 그림만큼이나 시대상을 반영하는 것이 또 하나 있다. 바로 법이다. 법에는 그 사회의 현실과 추구하는 가치가 고스란히 담겨 있기 때문이다. 이 책에서 소개하는 그림들은 예나 지금이나 다를 바 없는 세상사를 가장 직관적으로 보여준다. 그림에 담긴 이야기는 신기할 정도로 우리 사회의 가장 핵심적인 문제들과 겹쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "750.2",
+                "UPDATE_DATE": "20170721",
+                "EA_ADD_CODE": "03360",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "양지열 지음",
+                "SERIES_TITLE": "",
+                "KDC": "650.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5992364_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5992364_3.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "368 p.",
+                "CONTROL_NO": "CIP2016030930",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932318325",
+                "INPUT_DATE": "20161214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "그림 읽는 변호사",
+                "PUBLISH_PREDATE": "20161226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

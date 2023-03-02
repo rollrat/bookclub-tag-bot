@@ -1,0 +1,67 @@
+{
+    "otitle": "디자인과 인간 심리",
+    "oauthor": "Donald A. Norman 저/박창호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "디자인과 인간 심리",
+                "link": "https://search.shopping.naver.com/book/catalog/32462671131",
+                "image": "https://shopping-phinf.pstatic.net/main_3246267/32462671131.20230110165522.jpg",
+                "author": "도널드노먼",
+                "discount": "15300",
+                "publisher": "학지사",
+                "pubdate": "20160920",
+                "isbn": "9788999708862",
+                "description": "디자인의 고전인 이 책은 문, 온도 조절기, 자동차 등 일상용품을 통해 인간의 행동과 심리를 이해하게 도와주는 대중심리서로, 그리고 디자인의 심리학적 원리와 실제의 복잡성을 스케치해 주는 디자인 입문서로도 가치가 높다. 그러면서도 디자인의 주요 논점을 명쾌하게 제시함으로써 디자이너와 관련 종사자들에게 인간 행동과 심리의 이해가 좋은 디자인의 출발점이 된다는 것을 깨우쳐 준다. 또한 디자인을 중심으로 심리학, 공학, 경영학 등 여러 분과가 융합되는 종합과학으로서 디자인학의 비전을 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)학지사",
+                "DDC": "745.2019",
+                "UPDATE_DATE": "20160923",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.hakjisa.co.kr",
+                "AUTHOR": "Donald A. Norman 저, 박창호 역",
+                "SERIES_TITLE": "",
+                "KDC": "658.018",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5610606_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5610606_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "400",
+                "CONTROL_NO": "CIP2016017272",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788999708862",
+                "INPUT_DATE": "20160714",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "디자인과 인간심리 ",
+                "PUBLISH_PREDATE": "20160920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

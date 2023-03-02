@@ -1,0 +1,67 @@
+{
+    "otitle": "도쿄 셀프트래블 : 2019-2020 최신판",
+    "oauthor": "한혜원,김미정 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도쿄 셀프트래블(2019-2020) (2019-2020 최신판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441787770",
+                "image": "https://shopping-phinf.pstatic.net/main_3244178/32441787770.20221019120138.jpg",
+                "author": "한혜원",
+                "discount": "12150",
+                "publisher": "상상출판",
+                "pubdate": "20190102",
+                "isbn": "9791187795759",
+                "description": "한 권으로 즐겁고, 신나게 만끽하는 도쿄 여행!\n\n여행자에게 꾸준히 사랑받는 도시, 도쿄의 매력을 담은 『도쿄 셀프트래블(2019-2020)』. 여행지의 볼거리, 먹거리, 쇼핑 숍, 숙소 등 스폿별 여행 정보를 현지 가이드처럼 친절하게 소개하는 해외여행 가이드북 시리즈로, 이번 도쿄 편에서는 모든 스폿의 가격, 운영시간 등 최신 정보를 업데이트해 여행자의 편의를 도왔다. 관광명소와 맛집, 쇼핑 스폿은 물론 색다른 정보를 담은 Special Page, 지역 교통편 등 여행자를 배려한 신뢰도 만점의 정보도 놓치지 않았다. \n\n화려함과 트렌디함을 자랑하는 신주쿠, 시부야, 하라주쿠, 롯폰기는 물론 골목골목 일본 특유의 감성이 흘러넘치는 지유가오카, 기치조지 등 소박한 매력을 자아내는 지역, 화려한 야경을 자랑하는 요코하마, 작은 에도 가와고에, 아름다운 풍광을 자랑하는 가마쿠라·에노시마 등 색다른 경험을 선사하는 외곽 지역까지 도쿄를 찾는 사람들은 지루할 틈이 없다. 각 지역마다 저마다의 특색을 뽐내며 여행자의 오감을 자극하는 도쿄 도심과 근교까지 자세하게 소개하며 쉽고 편하게 여행을 즐길 수 있도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "915.213504",
+                "UPDATE_DATE": "20190107",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "한혜원,김미정 지음",
+                "SERIES_TITLE": "셀프트래블 2015",
+                "KDC": "981.32302",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7035748_6.txt",
+                "SET_ISBN": "9791186517109",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "345 p.",
+                "CONTROL_NO": "CIP2018039269",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187795759",
+                "INPUT_DATE": "20181130",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(셀프트래블) 도쿄",
+                "PUBLISH_PREDATE": "20190102",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "그렇게 말해줘서 고마워",
+    "oauthor": "김유진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그렇게 말해줘서 고마워 (나를 지키고 관계를 지키는 일상의 단단한 언어들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473919668",
+                "image": "https://shopping-phinf.pstatic.net/main_3247391/32473919668.20230117164907.jpg",
+                "author": "김유진",
+                "discount": "12530",
+                "publisher": "피카(FIKA)",
+                "pubdate": "20201015",
+                "isbn": "9791190299145",
+                "description": "너무 익숙해서 내버려 두었던 나의 말,\n그 말로 내 마음과 감정과 진심을 돌보는 일\n\n“어떻게 나한테 그렇게 말할 수 있지?”\n자꾸만 친구가 한 말이 생각나고 생각할수록 속이 터져버릴 것 같다. 나는 왜 친구 말에 상처받았을까? 나는 무슨 말을 듣고 싶은 걸까? 나는 무슨 말을 하고 싶은 걸까? 누군가의 말 한마디에 상처받는다는 건 내 말과 마음이 약해져 있다는 뜻이다. 그럴 때는 내가 어떤 말에 상처받는지 살펴봐야 한다. 누구나 쉽게 무너지는 부분이 있기 때문이다. 내가 예민해서 그런 게 아니라, 그 약한 부분을 누가 건드리면 상처받았다고 느끼는 것이다. 그런데 내가 어떤 말에 상처받는지를 알게 되면 신기하게도 감정이 좀 가라앉는다. \n\n수많은 인간관계 속에서 수많은 말들로부터 내 마음을 지키고 관계도 지킬 방법은 없을까? \n그러기 위해서는 일상에서 좋은 대화를 계속해나가야 한다. 생각해보면, 말 때문에 상처받기도 하지만 말에서 위로받고 다시 살아갈 힘을 얻기도 한다. 그래서 나는 오늘도 카톡 창을 여는 게 아닐까? 이 책은 일상에서 좋은 대화를 나누는 여러 가지 방법, 특히 말로 나를 돌보면서 관계에도 도움이 되는 다양한 상황과 솔루션을 담았다. 사실 나는 이미 좋은 말을 많이 가지고 있다. 이 책을 통해, 버려두었던 내 말로 내 마음과 감정과 진심을 돌보는 일을 시작해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Fika(피카)",
+                "DDC": "",
+                "UPDATE_DATE": "20201125",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김유진 ;일러스트: 하효정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "129*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190299145",
+                "INPUT_DATE": "20200611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "그렇게 말해줘서 고마워",
+                "PUBLISH_PREDATE": "20201015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

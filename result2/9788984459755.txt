@@ -1,0 +1,67 @@
+{
+    "otitle": "매일매일 색다르게 즐기는 365 샐러드",
+    "oauthor": "가나마루 에리카 저/박유미 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "365 샐러드 (매일매일 색다르게 즐기는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441026368",
+                "image": "https://shopping-phinf.pstatic.net/main_3244102/32441026368.20220527041657.jpg",
+                "author": "가나마루 에리카",
+                "discount": "14400",
+                "publisher": "시그마북스",
+                "pubdate": "20180420",
+                "isbn": "9788984459755",
+                "description": "늘 비슷비슷한 샐러드가 지겨운 이들을 위해 매일 색다르게 즐길 수 있는 365가지 샐러드 레시피를 소개한 책이다. 평소에 즐겨 먹는 채소로 간단하게 만드는 재료별 샐러드부터 백화점 매장에서 볼 법한 기본 샐러드, 5분 만에 뚝딱 만드는 통조림 샐러드, 한 끼 식사로도 손색없는 반찬 샐러드, 바쁠 때 편리하게 이용할 수 있도록 미리 만들어두는 샐러드까지 다양한 샐러드 레시피와 샐러드를 업그레이드시키는 드레싱을 만드는 법을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "641.83",
+                "UPDATE_DATE": "20180719",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "가나마루 에리카 지음 ;박유미 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "594.5543",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6611885_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6611885_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2018010148",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984459755",
+                "INPUT_DATE": "20180329",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(매일 매일 색다르게 즐기는) 365 샐러드",
+                "PUBLISH_PREDATE": "20180420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

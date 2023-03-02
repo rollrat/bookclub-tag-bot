@@ -1,0 +1,67 @@
+{
+    "otitle": "무소유 잠언집",
+    "oauthor": "김세중 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "무소유 잠언집 (법정스님 열반 10주기 New Edit)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461494659",
+                "image": "https://shopping-phinf.pstatic.net/main_3246149/32461494659.20221019104931.jpg",
+                "author": "정태영",
+                "discount": "10800",
+                "publisher": "휘닉스",
+                "pubdate": "20110115",
+                "isbn": "9788993335323",
+                "description": "성철 스님과 법정 스님, 두 스승이 가르쳐준 무소유의 삶을 배우다!\n\n성철 스님과 법정 스님의 가르침에서 찾은 삶의 지혜 『무소유 잠언집』. 혼탁한 세상을 살아가는 사람들에게 마음의 안식과 삶의 지혜를 전해온 성철 스님과 법정 스님의 가르침에 다양한 이야기를 덧붙여 풀어낸 잠언집이다. 무소유의 삶을 몸소 실천 했던 법정 스님과 매사 무심할 것을 강조했던 성철 스님. 이 책은 두 스님의 가르침을 무소유의 길, 인연, 침묵, 명상, 마음, 지혜, 자유, 사랑, 행복, 무소유의 삶이라는 10가지 키워드를 통해 ‘무소유’의 가르침을 풀어내고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "휘닉스드림",
+                "DDC": "",
+                "UPDATE_DATE": "20141205",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김세중 편저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993335323",
+                "INPUT_DATE": "20110318",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "무소유 잠언집",
+                "PUBLISH_PREDATE": "20110115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

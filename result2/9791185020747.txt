@@ -1,0 +1,67 @@
+{
+    "otitle": "사계절 걷기 좋은 서울 둘레길",
+    "oauthor": "강세훈,이강 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사계절 걷기 좋은 서울 둘레길 (서울·수도권 한나절 걷기 여행 코스 60)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466980910",
+                "image": "https://shopping-phinf.pstatic.net/main_3246698/32466980910.20230215070818.jpg",
+                "author": "강세훈^이강",
+                "discount": "13050",
+                "publisher": "비타북스",
+                "pubdate": "20150325",
+                "isbn": "9791185020747",
+                "description": "난이도·테마별로 즐기는 서울·수도권 걷기 여행 코스 \n\n누구나 여행을 떠나고 싶지만 시간과 경제적인 사정으로 섣불리 떠나지 못한다. 하지만 걷기 여행은 걸음 뗀 그 순간부터 시작되고, 가까운 곳을 걸어서 이동하기 때문에 언제든 가볍게 떠날 수 있다. 서울시는 2014년 11월, 서울 중심부를 관통하고 외곽을 연결하는 산과 하천길을 따라 157km의 서울 둘레길 전 구간을 개통하였다. 총 8개의 코스를 숲속형, 도심형, 하천형으로 나눠 서울의 역사, 문화, 자연생태를 탐방할 수 있게 길을 조성하였다. \n\n사계절 걷기 좋은 서울 둘레길은 용마산, 덕양산, 관악산, 북한산 등 서울 외곽을 연결 하는 외사산을 모아 서울 둘레길 코스를 소개한다. 또한 서울 중심부에서 성곽길을 따라 걷는 코스를 한양 성곽길로, 4대문과 4서문을 잇는 길을 한양도심 순례길로 나누어 서울의 숨은 길을 다채롭게 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "915.19",
+                "UPDATE_DATE": "20150429",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "강세훈, 이강",
+                "SERIES_TITLE": "",
+                "KDC": "981.1602",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4450347_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4450347_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015008188",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185020747",
+                "INPUT_DATE": "20150312",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "사계절 걷기 좋은 서울 둘레길: 서울 수도권 한나절 걷기 여행 코스 60",
+                "PUBLISH_PREDATE": "20150325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

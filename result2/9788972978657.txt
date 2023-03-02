@@ -1,0 +1,67 @@
+{
+    "otitle": "당신이 계속 불편하면 좋겠습니다",
+    "oauthor": "홍승은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신이 계속 불편하면 좋겠습니다 (홍승은 페미니즘 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493044379",
+                "image": "https://shopping-phinf.pstatic.net/main_3249304/32493044379.20221019142008.jpg",
+                "author": "홍승은",
+                "discount": "12150",
+                "publisher": "동녘",
+                "pubdate": "20170417",
+                "isbn": "9788972978657",
+                "description": "페미니즘을 접하는 사람들의 불편함, 그 불편함은 일종의 선물이다.\n\n페미니즘을 접하는 사람들은 불편해한다. 모르고 지냈거나 모호하게만 느끼던 일상 속의 부당함을 깨닫게 되고, 자신이 아무렇지 않게 해왔던 말과 행동이 잘못이라는 걸 알게 되기 때문이다. 그런 맥락에서 페미니즘의 시선으로 자신이 마주했던 세계를 해석하고 말하는 홍승은의 글 역시 우리에게 불편함을 안겨준다. 하지만 그때의 불편함은 일종의 선물이다. 우리가 더 나은 사람이 될 수 있도록, 낡고 폭력적인 관습적 사고로부터 자유로울 수 있도록 돕기 때문이다.\n\n『당신이 계속 불편하면 좋겠습니다』는 춘천 인문학카페 36.5도 운영자 홍승은이 여성혐오가 일상화된 한국사회를 사는 20대 여성으로서 겪었던 일과, 그를 통해 느끼고 생각했던 것들을 기록한 책이다. 저자는 우리에게 너무나 익숙해 뭐가 문제인지도 알기 힘든 삶 속의 차별과 편견, 폭력을 자신과 주변의 이야기를 소재 삼아 일상의 언어로 풀어나간다.\n\n저자 홍승은 역시 자기 목소리를 쉽게 꺼내지 못하고 삼키는 사람 가운데 하나였다. 폭력적인 말을 뱉는 아빠에게 대항하기보다는 눈치를 봤고, 말과 몸으로 자신을 침범하는 이들에게 단호하게 싫다는 소리를 하지도 못했다. 또 자신이 대표인 조직에서 ‘여성 리더’의 리더십을 끊임없이 의심하고 트집 잡는 남성 구성원들의 비판에 제대로 맞서기 전에 눈물부터 흘렸다. \n\n그러나 이제는 다르다. 그는 페미니즘을 만나고부터 자신과 자신을 둘러싼 세계를 적극적으로 해석하고, 그를 바탕으로 발언하고 행동하면서 그런 폭력과 비판 앞에서 조금 더 당당하고 자유로워질 수 있는 용기를 얻었다. 이 책을 읽어가다 보면 그가 단단한 존재로 변화해가는 과정을 엿볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동녘",
+                "DDC": "305.4",
+                "UPDATE_DATE": "20170428",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "홍승은",
+                "SERIES_TITLE": "",
+                "KDC": "337.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6168761_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6168761_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "300페이지 내외",
+                "CONTROL_NO": "CIP2017006820",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972978657",
+                "INPUT_DATE": "20170315",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "당신이 계속 불편하면 좋겠습니다",
+                "PUBLISH_PREDATE": "20170417",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

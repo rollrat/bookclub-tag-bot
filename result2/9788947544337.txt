@@ -1,0 +1,67 @@
+{
+    "otitle": "6개월에 천 만원 모으기",
+    "oauthor": "EBS 제작팀 서영아,이대표,성선화,김유라 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "6개월에 천만 원 모으기 (EBS 특별기획)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491651638",
+                "image": "https://shopping-phinf.pstatic.net/main_3249165/32491651638.20221019151532.jpg",
+                "author": "서영아^성선화^김유라",
+                "discount": "14400",
+                "publisher": "한국경제신문",
+                "pubdate": "20181217",
+                "isbn": "9788947544337",
+                "description": "6개월에 천만 원 모으기, 이 대장정은 과연 성공할 수 있을까?\n\n모두가 안 된다고 생각한 조금은 벅찬 목표, 6개월에 천만 원 종잣돈 모으기 프로젝트에 도전한 8명의 도전자들과 경험과 지식으로 무장한 세 명의 멘토의 생생한 이야기를 담은 EBS 특별기획 《호모이코노미쿠스》의 내용과 함께 방송에서 미처 소개하지 못한 전문가들의 재테크 비법을 담은 『6개월에 천만 원 모으기』. \n\n하루가 다르게 집값은 치솟고, 출산을 하고 나면 아이들 밑으로 들어가는 돈이 만만치 않다. 내 집도 마련하고 싶고, 아이도 넉넉한 형편에서 키우고 싶고, 노후에 대한 불안도 덜고 싶은 우리 시대의 2040 청장년들이 아무리 아껴도 6개월에 천만 원을 모으는 것은 불가능하지 않을까? 과연 단기간에 빈 ‘텅장’이 천만 원이 찍힌 ‘꽉 찬 통장’이 될 수 있을까? 모두의 우려를 안고 이 프로젝트는 진행됐다. \n\n6개월이라는 긴 마라톤을 완주한 후 목표대로 천만 원을 모은 사람도, 천만 원에 미치지 못한 사람도 있다. 하지만 목표 달성에 실패했다고 패배감에 빠진 이는 없었다. 무엇보다 희망을 발견할 수 있었기 때문이다. 천만 원보다 소중한 것을 얻어가는 참가자들의 생생한 이야기를 통해 지금보다 더 나은 삶을 살고 싶다면, 지금까지와는 다르게 살아야 한다는 깨달음을 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문",
+                "DDC": "",
+                "UPDATE_DATE": "20181228",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "이대표,성선화,김유라,EBS 제작팀 서영아 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947544337",
+                "INPUT_DATE": "20181226",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "6개월에 천만 원 모으기",
+                "PUBLISH_PREDATE": "20181217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

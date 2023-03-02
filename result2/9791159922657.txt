@@ -1,0 +1,67 @@
+{
+    "otitle": "머더봇 다이어리 - 시스템 통제불능",
+    "oauthor": "마샤 웰스 저/고호관 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "머더봇 다이어리: 시스템 통제불능",
+                "link": "https://search.shopping.naver.com/book/catalog/32504312833",
+                "image": "https://shopping-phinf.pstatic.net/main_3250431/32504312833.20230207163847.jpg",
+                "author": "마샤 웰스",
+                "discount": "12420",
+                "publisher": "알마",
+                "pubdate": "20190926",
+                "isbn": "9791159922657",
+                "description": "우주 탐사를 하려면 기업의 승인을 받아 싸구려 보급품을 챙겨 떠나야 하는 먼 미래. 땅속에서 거대한 괴물이 튀어나오는 외계 행성에 과학자로 구성된 탐사대가 도착하고, 그들은 이 행성 자원의 독점 소유권을 입찰할 만한지 따져보려 조사를 시작한다. 보급품 가운데는 싸구려 보안용 안드로이드가 포함되어 그들의 안전을 지켜야 하는데, 이 안드로이드 어딘가 이상하다. 스스로를\t “살인기계”라고 부르는 그는 수완은 좋지만 틈틈이 숨어서 드라마 보는 걸 즐기고, 인간에게 냉소적이며, 가만히 생각할 시간을 갖도록 자신을 내버려두길 바란다. 탐사가 진행될수록 이 행성의 무언가가 고의적으로 방해하며 그들의 목숨을 위협하기 시작하고 과학자와 안드로이드는 진실을 파헤쳐야 하는 상황과 마주하는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "알마",
+                "DDC": "",
+                "UPDATE_DATE": "20191004",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 마샤 웰스 ;옮긴이: 고호관",
+                "SERIES_TITLE": "FoP",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791159922466",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "114*189",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "216 p.",
+                "CONTROL_NO": "CIP2019034346",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159922657",
+                "INPUT_DATE": "20190830",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "머더봇 다이어리",
+                "PUBLISH_PREDATE": "20190926",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

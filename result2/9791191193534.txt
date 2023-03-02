@@ -1,0 +1,67 @@
+{
+    "otitle": "도시, 청년, 호러",
+    "oauthor": "이시우,김동식,허정,전건우,조예은,남유하 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도시, 청년, 호러",
+                "link": "https://search.shopping.naver.com/book/catalog/32682957621",
+                "image": "https://shopping-phinf.pstatic.net/main_3268295/32682957621.20230110163401.jpg",
+                "author": "이시우^김동식^허정^전건우^조예은",
+                "discount": "11700",
+                "publisher": "안전가옥",
+                "pubdate": "20220530",
+                "isbn": "9791191193534",
+                "description": "2021년 여름, 호러의 계절을 맞이한 독서 플랫폼 〈밀리의 서재〉 독자들은 여섯 편의 서늘한 이야기를 만났다. ‘도시, 청년, 호러’라는 제목으로 묶인 작품들은 익숙한 공간에서 흔히 일어나는 일들을 바탕으로 섬뜩한 상상력을 풀어냄으로써 실감 나는 공포를 선사했다. 어김없이 다시 찾아온 여름에 책으로 엮인 《도시, 청년, 호러》는 원초적인 두려움이 불러일으키는 쾌감 너머로 인간의 어두운 욕망과 현대사회의 그늘을 짚는다.\n\n안전가옥의 옴니버스 픽션 시리즈 FIC-PICK의 특색은 이 시대의 독자들에게 흥미롭고도 유의미하게 다가갈 수 있는 테마와, 그 테마를 매력적으로 구현해 내는 믿음직한 작가진을 만날 수 있다는 것이다. 《도시, 청년, 호러》에 참여한 작가들은 호러 장르가 큰 주목을 받지 못했던 시절부터 꾸준히 공포 콘텐츠를 창작해 왔다. 짜릿한 공포감을 매개로 타인에 대한 공감과 세계에 대한 이해의 폭을 넓히는 웰메이드 호러 특유의 매력이 수록 작품 전반에 존재하는 이유다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "안전가옥",
+                "DDC": "",
+                "UPDATE_DATE": "20220707",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "작가: 이시우,김동식,허정,전건우,조예은,남유하",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791191193534",
+                "INPUT_DATE": "20220519",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "도시, 청년, 호러",
+                "PUBLISH_PREDATE": "20220530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "otitle": "오늘도 디지털 노마드로 삽니다",
+    "oauthor": "김미나 저/박문규 사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 디지털 노마드로 삽니다 (우리의 배낭처럼 가뿐하고 자유롭게)",
+                "link": "https://search.shopping.naver.com/book/catalog/33119302620",
+                "image": "https://shopping-phinf.pstatic.net/main_3311930/33119302620.20221019105036.jpg",
+                "author": "김미나",
+                "discount": "13500",
+                "publisher": "상상출판",
+                "pubdate": "20220711",
+                "isbn": "9791167820761",
+                "description": "가끔 불안할 때도 있지만 잘 살고 있습니다”\n\n우리에겐 정답이었던 삶의 방식, 디지털 노마드 라이프\n생활에 충분한 모든 것이 담긴 배낭 하나를 메고\n일하듯 여행하고, 여행하듯 살아가는 메밀꽃 부부의 이야기"
+            }
+        ]
+    }
+}

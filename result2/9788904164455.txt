@@ -1,0 +1,78 @@
+{
+    "otitle": "어거스틴의 참회록",
+    "oauthor": "어거스틴 저/조은화 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:23 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "어거스틴의 참회록 (하나님을 향한 가장 진솔한 고백)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436328888",
+                "image": "https://shopping-phinf.pstatic.net/main_3243632/32436328888.20221019132058.jpg",
+                "author": "성 어거스틴",
+                "discount": "13500",
+                "publisher": "생명의말씀사",
+                "pubdate": "20140210",
+                "isbn": "9788904164455",
+                "description": "『어거스틴의 참회록』은 기독교 역사상 가장 영향력 있는 인물이자, 서방교회의 4대 성자 중 한 명인 어거스틴의 진솔하고 참된 고백을 담고 있다. 어거스틴의 방황과 회심을 살펴보면서 끝없는 하나님의 은혜를 만날 수 있을 것이다."
+            },
+            {
+                "title": "어거스틴의 참회록 (현대인을 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466537471",
+                "image": "https://shopping-phinf.pstatic.net/main_3246653/32466537471.20220527045148.jpg",
+                "author": "성 어거스틴",
+                "discount": "0",
+                "publisher": "프리셉트",
+                "pubdate": "20100629",
+                "isbn": "9788984754515",
+                "description": "『어거스틴의 참회록』은 397년경에 쓰여진 어거스틴의 참회록을 현대어로 완역한 것이다. 기독교 고전 중 가장 위대한 작품이라 손꼽히는 이 책은, 한 인간의 연약함이 믿음의 여정을 통해 변화하는 과정을 진실하게 그려나가고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의 말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20201030",
+                "EA_ADD_CODE": "04230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "어거스틴",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788904001613",
+                "REAL_PUBLISH_DATE": "20140210",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "16000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904164455",
+                "INPUT_DATE": "20140203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "어거스틴의 참회록",
+                "PUBLISH_PREDATE": "20140210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04230 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

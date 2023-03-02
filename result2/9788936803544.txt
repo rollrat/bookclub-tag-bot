@@ -1,0 +1,78 @@
+{
+    "otitle": "이야기 독일사",
+    "oauthor": "박래식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:40 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "이야기 독일사 (게르만 민족에서 독일의 통일까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496134078",
+                "image": "https://shopping-phinf.pstatic.net/main_3249613/32496134078.20221227205847.jpg",
+                "author": "박래식",
+                "discount": "14400",
+                "publisher": "청아출판사",
+                "pubdate": "20060725",
+                "isbn": "9788936803544",
+                "description": "역동적인 독일사의 현장 속으로\n\n독일은 게르만족의 이동과 부족 국가의 시기를 거쳐 근대국가 체제로 성장하면서 유럽에서 입지를 강화해간다. 근대로 접어들면서 제국주의 및 세계대전 등의 역동적인 역사가 진행되었고, 현대사에서 통일을 이루었다. 역사와 지리적 위치와 국가적인 특징 때문에 독일 문제는 단지 독일이라는 나라에 국한되지 않고 유럽적인 차원에서 해결해야 한다. 독일의 안정은 곧 유럽의 평화를 의미하는 것이기 때문이다. 이 책에서는 독일 내부의 역사에 중점을 두면서 주변국과의 관계 속에서 발전해?.."
+            },
+            {
+                "title": "이야기 독일사 (보급판) (게르만 민족에서 독일의 통일까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472657707",
+                "image": "https://shopping-phinf.pstatic.net/main_3247265/32472657707.20221227205136.jpg",
+                "author": "박래식",
+                "discount": "9000",
+                "publisher": "청아출판사",
+                "pubdate": "20200901",
+                "isbn": "9788936811716",
+                "description": "이야기 역사 시리즈는 한국을 비롯해, 중국, 일본, 미국, 영국 등 동서양 여러 나라의 역사를 총 15권으로 담아낸 역사서의 스테디셀러이다. 특히 번역서가 아닌 한국인 저자가 한국인의 시각으로 담아낸 각국의 역사는 쉽고 재미있게 읽을 수 있어 많은 사랑을 받고 있다.\n\n\n\n이야기 역사 시리즈는 역사를 이야기식으로 구성한 것이 특징이다. 우리에게 잘 알려진 에피소드부터 숨겨진 비화까지, 역사의 한 축을 장식한 흥미로운 사실들을 이야기로 읽음으로써 더욱 재미있게 역사를 만날 수 있다. 또한 하나의 주제에 국한되지 않고 정치, 경제, 문화까지 폭넓게 다룬다. 모든 분야가 어우러져 한 나라의 역사를 형성하듯이 전체적인 접근으로 그 나라의 역사를 제대로 파악할 수 있다. 역사를 한눈에 볼 수 있는 다양한 지도를 수록해 관련된 정보를 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20180511",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박래식 지음",
+                "SERIES_TITLE": "이야기 역사 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788936803414",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000 ",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8936803549",
+                "INPUT_DATE": "20060913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "이야기 독일사",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

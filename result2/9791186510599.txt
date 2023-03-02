@@ -1,0 +1,78 @@
+{
+    "otitle": "완벽한 독서법",
+    "oauthor": "김병완 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:31 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "완벽한 독서법 (모든 독서법을 관통하는 최고의 지침서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492539067",
+                "image": "https://shopping-phinf.pstatic.net/main_3249253/32492539067.20221019151748.jpg",
+                "author": "김병완",
+                "discount": "13500",
+                "publisher": "글라이더",
+                "pubdate": "20180525",
+                "isbn": "9791186510599",
+                "description": "“독서는 읽기를 뛰어넘는 인생 혁명이다!”\n\n‘우리는 왜 독서를 해야 하는가?’라는 질문보다 앞서야 하는 것은 \n‘독서란 진정 무엇인가?’이다. \n\n‘독서를 어떻게 해야 하는가?’라는 질문보다 앞서야 하는 것은 \n‘인간은 어떻게 인식하고 배우고 성장하는가?’이다.\n\n[48분 독서]+[초의식 독서]+[퀀텀 독서]를 잇는 또 하나의 역작!\n3년 만 권 독서, 3000명의 독서천재를 양성한 \n독서법 대가(大家) 김병완의 책 읽기 노하우를 한 권으로 만나다!"
+            },
+            {
+                "title": "완벽한 독서법(큰글자책) (모든 독서법을 관통하는 최고의 지침서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493199793",
+                "image": "https://shopping-phinf.pstatic.net/main_3249319/32493199793.20221019141713.jpg",
+                "author": "김병완",
+                "discount": "27000",
+                "publisher": "글라이더",
+                "pubdate": "20200630",
+                "isbn": "9791170410225",
+                "description": "대한민국 독서의 멘토 김병완이 돌아왔다! 《1시간에 1권 퀀텀 독서법》, 《김병완의 초의식 독서법》, 《48분 기적의 독서법》의 저자이자 독서전문가인 김병완이 《완벽한 독서법》으로 돌아왔다. 『완벽한 독서법(큰글자책)』의 저자는 이 책에서 잘못된 독서법으로 ‘눈으로 하는 책 읽기’를 들며, 그 해결책으로 ‘뇌로 사고하는 독서’를 해야 한다고 주장한다. 더불어 책 읽기를 통해 인생을 바꾼 유명 인사들의 사례를 통해 다양한 독서법에 힘을 싣는다. 만 권의 책을 읽고도 끊임없이 올바른 독서법을 고민하는 저자가 터득한 독서법의 모든 것을 알고 싶다면, 자신의 책 읽기 방식이 조금이라도 미심쩍다면 『완벽한 독서법(큰글자책)』을 통해 그 갈증을 해소할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "글라이더",
+                "DDC": "028",
+                "UPDATE_DATE": "20180601",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "gliderbooks@hanmail.net",
+                "AUTHOR": "김병완 지음",
+                "SERIES_TITLE": "",
+                "KDC": "029.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6662097_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6662097_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6662097_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272 p.",
+                "CONTROL_NO": "CIP2018014650",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186510599",
+                "INPUT_DATE": "20180510",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "완벽한 독서법",
+                "PUBLISH_PREDATE": "20180525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

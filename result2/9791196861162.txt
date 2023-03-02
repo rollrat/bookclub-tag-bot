@@ -1,0 +1,78 @@
+{
+    "otitle": "트렌드 읽는 습관",
+    "oauthor": "김선주,안현정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:38 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "트렌드 읽는 습관 (모든 기획의 시작)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497480036",
+                "image": "https://shopping-phinf.pstatic.net/main_3249748/32497480036.20230117163140.jpg",
+                "author": "김선주^안현정",
+                "discount": "13320",
+                "publisher": "좋은습관연구소",
+                "pubdate": "20200610",
+                "isbn": "9791196861162",
+                "description": "트렌드 읽기가 일상이 되는 12가지 방법\n일론 머스크의 상상력도 일상 관찰에서부터 시작되었다\n\n트렌드 읽기가 일상이 되는 12가지 방법. 일론 머스크의 상상력도 일상 관찰에서부터 시작되었다. '일상의 관찰'을 습관적으로 진행할 때 우리는 세상을 지배하는 패턴을 읽을 수 있다. 트렌드 읽기는 모든 일의 출발점이다. 기획의 시작도, 사업의 시작도 바로 일상 관찰에서부터 비롯된다. 이 책은 누구나 약간의 노력만으로도 트렌드 읽기가 가능하다는 것을 보여주는 책이다. 이 책에서 제시하는 12가지 트렌드를 읽는 방법은 우리가 이미 일상적으로 해오던 것들이다. 약간의 관점 변화만으로도 누구도 발견하지 못한 미래의 기회를 찾아낼 수 있다."
+            },
+            {
+                "title": "트렌드 읽는 습관(큰글자도서) (모든 기획의 시작)",
+                "link": "https://search.shopping.naver.com/book/catalog/32941588618",
+                "image": "https://shopping-phinf.pstatic.net/main_3294158/32941588618.20230131162340.jpg",
+                "author": "김선주^안현정",
+                "discount": "21600",
+                "publisher": "좋은습관연구소",
+                "pubdate": "20220601",
+                "isbn": "9791191636314",
+                "description": "트렌드 읽기가 일상이 되는 12가지 방법\n일론 머스크의 상상력도 일상 관찰에서부터 시작되었다\n\n트렌드 읽기가 일상이 되는 12가지 방법. 일론 머스크의 상상력도 일상 관찰에서부터 시작되었다. '일상의 관찰'을 습관적으로 진행할 때 우리는 세상을 지배하는 패턴을 읽을 수 있다. 트렌드 읽기는 모든 일의 출발점이다. 기획의 시작도, 사업의 시작도 바로 일상 관찰에서부터 비롯된다. 이 책은 누구나 약간의 노력만으로도 트렌드 읽기가 가능하다는 것을 보여주는 책이다. 이 책에서 제시하는 12가지 트렌드를 읽는 방법은 우리가 이미 일상적으로 해오던 것들이다. 약간의 관점 변화만으로도 누구도 발견하지 못한 미래의 기회를 찾아낼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "좋은습관연구소",
+                "DDC": "",
+                "UPDATE_DATE": "20200701",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김선주,안현정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/19/9791196861162.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "177 p.",
+                "CONTROL_NO": "CIP2020021284",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196861162",
+                "INPUT_DATE": "20200521",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "트렌드 읽는 습관",
+                "PUBLISH_PREDATE": "20200610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

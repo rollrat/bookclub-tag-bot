@@ -1,0 +1,78 @@
+{
+    "otitle": "초보자를 위한 투자의 정석",
+    "oauthor": "우석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:14 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "초보자를 위한 투자의 정석 (우석이 알려주는 실패하지 않는 주식투자법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491517950",
+                "image": "https://shopping-phinf.pstatic.net/main_3249151/32491517950.20230218110611.jpg",
+                "author": "우석(브라운스톤)",
+                "discount": "15120",
+                "publisher": "토트",
+                "pubdate": "20211029",
+                "isbn": "9791187444695",
+                "description": "누구라도 따라 하면 반드시 이기는 주식투자법이 있을까?\n\n네이버 카페 ‘부동산스터디’ 170만 회원이 인정한 우석은 단호하게 ‘그렇다’고 말한다. 화려한 쇼도 없고 혁혁한 공도 없지만 전투에서 이기는 장수가 되는 법을 이 책에서 낱낱이 알려준다. 특히 주식을 시작한 지 얼마 안 된 초보자라면 평생 지침으로 삼을 만한 투자의 자세와 법칙을 내재화하는 계기가 될 것이다. \n\n우석은 전작 〈부의 본능〉과 〈부의 인문학〉을 통해 천편일률적이던 부자 되는 법에 새로운 물길을 만들었다. 이 책은 전작들에서 깊이 다루지 못한 주식투자법을 자세히 다루고 있다. 숱한 투자 실패와 성공의 경험으로 다져진 탄탄한 내공 위에 세워진 ‘투자의 정석’은 주식시장이 불마켓(Bull Market; 황소장, 강세장)이건 베어마켓(Bear Market; 곰장, 약세장)이건 변함없이 효과를 발휘하는 연금술이 될 것이다."
+            },
+            {
+                "title": "초보자를 위한 실전투자의 비밀 세트 (초보탈출 투자실력 업그레이드)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455039400",
+                "image": "https://shopping-phinf.pstatic.net/main_3245503/32455039400.20220527041332.jpg",
+                "author": "김형준",
+                "discount": "0",
+                "publisher": "이레미디어",
+                "pubdate": "20120611",
+                "isbn": "9788991998711",
+                "description": "국내 대표적 증권사의 실전투자대회에 참가하여 5년간 8회 연속 수상한 주식투자자 김형준의 『실전투자대회 8회 연속 수상자의 초보자를 위한 실전투자의 비밀 세트』 전2권. 키움증권 왕중왕전 실전투자대회에서 수익률 429%로 1위 등을 차지해온 저자가 자신의 생생한 경험담뿐 아니라, 매매 툴을 고스란히 드러낸 투자서다. 자신의 투자실패로 인한 아픔을 다른 투자자가 겪지 않기를 바라는 마음을 담아 저술한 것이다. 2011년 4월 출간된 《실전투자의 비밀》이 2012년 5월 출간된 《초보자를 위한 실전투자의 비밀》가 묶여 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "토트(토트출판사) :북새통",
+                "DDC": "",
+                "UPDATE_DATE": "20211102",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "우석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "238 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187444695",
+                "INPUT_DATE": "20211011",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "초보자를 위한 투자의 정석",
+                "PUBLISH_PREDATE": "20211029",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

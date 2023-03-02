@@ -1,0 +1,67 @@
+{
+    "otitle": "예술에서의 정신적인 것에 대하여",
+    "oauthor": "바실리 칸딘스키 저/권영필 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "예술에서의 정신적인 것에 대하여",
+                "link": "https://search.shopping.naver.com/book/catalog/32463518884",
+                "image": "https://shopping-phinf.pstatic.net/main_3246351/32463518884.20230110163336.jpg",
+                "author": "바실리 칸딘스키",
+                "discount": "13500",
+                "publisher": "열화당",
+                "pubdate": "20190401",
+                "isbn": "9788930106412",
+                "description": "열화당 미술 시리즈. 열화당 미술 시리즈는 미술의 대중화를 꿈꾼다. 일반인들이 미술에 대해 쉽게 이해할 수 있도록 구성된 시리즈이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열화당",
+                "DDC": "",
+                "UPDATE_DATE": "20220125",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.youlhwadang.co.kr",
+                "AUTHOR": "바실리 칸딘스키 [지음] ;권영필 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "600",
+                "EDITION_STMT": "개정3판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/21/9788930106412.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "206 p.",
+                "CONTROL_NO": "CIP2019011307",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788930106412",
+                "INPUT_DATE": "20190322",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "예술에서의 정신적인 것에 대하여",
+                "PUBLISH_PREDATE": "20190401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

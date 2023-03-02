@@ -1,0 +1,67 @@
+{
+    "otitle": "티티새의 1년 1억 짠테크",
+    "oauthor": "티티새 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "티티새의 1년 1억 짠테크 (1억 빚을 갚으려다 1억을 모아버렸다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440674582",
+                "image": "https://shopping-phinf.pstatic.net/main_3244067/32440674582.20230103163015.jpg",
+                "author": "티티새",
+                "discount": "14400",
+                "publisher": "스마트북스",
+                "pubdate": "20210107",
+                "isbn": "9791190238359",
+                "description": "“어느 날, 당신의 가족이 갑자기 1억 빚을 고백한다면?” \n티티새의 1년 1억 모으기 프로젝트와 돈 공부는 이렇게 시작되었다. 22019년 3월부터 시작된 1년 1억 짠테크 프로젝트는  2020년 2월에 마무리되었는데 모은 금액은 정확히 1억 12만 원이었다. 정말로 1년에 1억을 모은 것이다! \n물론 그 과정이 쉽지는 않았다. 맞벌이 부부 수입의 85퍼센트를 저축하고 난생 처음 가계부를 쓰고, 대출금을 줄이기 위해 집을 줄여 이사하고 추가 수입을 얻기 위해 가재도구 및 물건도 중고마켓에 팔았다. 아이들에게 치킨 한 마리 못 사준다는 자괴감에 빠지기도 했지만 하나둘씩 가족과 함께 고비를 넘길 때마다 유대감이 깊어지고 스스로 성장해간다는 느낌도 들었다.\n저자 티티새는 네이버 1위 절약저축카페 ‘짠돌이부자되기’의 칼럼니스트이며, 진성 이웃이 많기로 소문난 블로그 ‘티티새의 1년 1억 짠테크 이야기’의 운영자다. 저자는 이 책에서 자신의 경험담부터 〈1억 모으기를 위한 빅 스텝〉, 〈1억 모으기를 위한 스몰 스텝〉, 〈목돈 만들기 10단계 전략〉을 소개하고 있다. 또한 짠테크 상담 게시판의 대표 〈목돈 만들기 상담 사례〉와 〈Q&A 모음집〉까지 수록했다. 『티티새의 1년 1억 짠테크』는 절약과 저축을 통해 목돈을 모으는 과정을 상세하게 보여줌으로써 돈을 모으고 싶지만 의지가 약한 분들도 따라할 수 있는 구체적인 프로세스를 제공한다. 또 종자돈을 이용해 파이프라인을 만들고 투자하는 방법을 제시함으로써 경제적 자유를 추구하는 분들에게 많은 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스마트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210222",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.smartbooks21.com",
+                "AUTHOR": "티티새 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190238359",
+                "INPUT_DATE": "20201222",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(티티새의) 1년 1억 짠테크",
+                "PUBLISH_PREDATE": "20210115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

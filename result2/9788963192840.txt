@@ -1,0 +1,67 @@
+{
+    "otitle": "선생님 관찰 일기",
+    "oauthor": "김리라 글/배현정 그림/허은영 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "선생님 관찰 일기 (선생님)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493556949",
+                "image": "https://shopping-phinf.pstatic.net/main_3249355/32493556949.20221019101302.jpg",
+                "author": "김리라",
+                "discount": "10800",
+                "publisher": "북멘토",
+                "pubdate": "20181207",
+                "isbn": "9788963192840",
+                "description": "『선생님 관찰 일기』는 목소리가 커서 고민인 재식이가 목소리가 작아서 고민인 담임 선생님과 몸이 바뀌면서 일어나는 이야기를 담았다. 어쩔 수 없이 담임 역할을 하게 되면서 재식이는 선생님이 단순히 수업 시간에 아이들을 가르치는 일만 하는 게 아니라, 수업 준비, 교사회의, 학부모 면담 등 다양한 업무로 하루를 바삐 보낸다는 사실을 알아간다. 또한 선생님을 관찰하고 생각을 덧붙여 ‘관찰 일기’를 쓰면서 그동안 몰랐던 선생님의 노력과 고민을 이해하게 된다. 유쾌하지만 때로는 진지한 재식이의 좌충우돌 선생님 체험기를 함께하며 어린이들은 자신과 가장 가까이에서 만나는 직업인으로서의 ‘선생님’을 조금 더 깊이 알게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20181210",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "http://www.bookmentorbooks.co.kr",
+                "AUTHOR": "김리라 글 ;배현정 그림",
+                "SERIES_TITLE": "북멘토 직업가치동화",
+                "KDC": "321.55",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6999173_6.txt",
+                "SET_ISBN": "9788963192475",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6999173_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6999173_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "168*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "124 p.",
+                "CONTROL_NO": "CIP2018036566",
+                "SERIES_NO": "5",
+                "EA_ISBN": "9788963192840",
+                "INPUT_DATE": "20181112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "선생님 관찰 일기",
+                "PUBLISH_PREDATE": "20181207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

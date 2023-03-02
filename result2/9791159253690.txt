@@ -1,0 +1,67 @@
+{
+    "otitle": "갈팡질팡 청년의사 성장기",
+    "oauthor": "허기영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "갈팡질팡 청년의사 성장기",
+                "link": "https://search.shopping.naver.com/book/catalog/32436325721",
+                "image": "https://shopping-phinf.pstatic.net/main_3243632/32436325721.20221229074218.jpg",
+                "author": "허기영",
+                "discount": "11700",
+                "publisher": "푸른들녘",
+                "pubdate": "20181120",
+                "isbn": "9791159253690",
+                "description": "푸른들녘 미래탐색 시리즈 16권. 청년 의사인 저자가 ‘의사가 만들어지는 과정’이 어떠한지를 솔직하게 전달하기 위해 쓴 책이다. 의대 생활부터 인턴, 레지던트, 그리고 전문의가 되기까지의 성장 과정을 빠짐없이 묘사하고, 전문 의료인으로 성장하는 동안 맞닥뜨리게 되는 현실적인 고뇌를 구체적으로 그렸다.\n\n\n\n지방의 의료 체계와 수도권의 의료 체계는 어떻게 다른지, 대형 병원의 각 과는 어떻게 협업하는지, 의료비용은 어떤 제도하에서 어떻게 책정되는지, 우리 시대 의료 시스템의 작동 방식을 세세히 설명한다. ‘의사되기’는 물론 의사가 된 이후의 삶, 의료 체계의 현실까지 짚어주는 이 책을 통해 이 시대의 의사란 과연 어떤 의미를 지니는지 통찰할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른들녘",
+                "DDC": "331.259",
+                "UPDATE_DATE": "20181129",
+                "EA_ADD_CODE": "14370",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "허기영 지음",
+                "SERIES_TITLE": "들녘미래탐색시리즈",
+                "KDC": "321.55",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6984041_6.txt",
+                "SET_ISBN": "9788975276484",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "182 p.",
+                "CONTROL_NO": "CIP2018035364",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159253690",
+                "INPUT_DATE": "20181101",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "갈팡질팡 청년의사 성장기",
+                "PUBLISH_PREDATE": "20181116",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14370 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

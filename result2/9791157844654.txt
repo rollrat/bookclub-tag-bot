@@ -1,0 +1,67 @@
+{
+    "otitle": "바쁨 중독",
+    "oauthor": "셀레스트 헤들리 저/김미정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바쁨 중독 (매 순간 바쁘게 살아야 한다는 착각)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473530347",
+                "image": "https://shopping-phinf.pstatic.net/main_3247353/32473530347.20221019141820.jpg",
+                "author": "셀레스트 헤들리",
+                "discount": "14220",
+                "publisher": "한빛비즈",
+                "pubdate": "20201211",
+                "isbn": "9791157844654",
+                "description": "우리 조상은 원래 1년에 반만 일했습니다!\n\n기술은 발전하는데 우리는 왜 시간이 부족할까?『바쁨 중독』.산업화 이후로 시간은 돈이 됐다. 기계를 오래 가동할수록 많은 제품을 생산할 수 있고, 이로 인해 공장주는 더 많은 돈을 벌 수 있었다. 그러면서 ‘게으름은 비도덕적 행위고, 근면은 도덕적 행위’라는 개념이 등장했다. 이는 직원들이 얼마의 임금을 받건 장시간 일하도록 설득할 수 있는 수단으로 사용됐다. 이 말도 안 되는 개념은 서서히 사람들 사이로 스며들어갔다. 그 후 약 200년 만에 사람들은 게으름을 싫어하고, 죄악시 여기게 되었다. 이제 사람들은 조금의 시간도 허투루 쓰지 못한다. 항상 바쁘고, 시간이 없다. \n\n《말센스》의 저자 셀레스트 헤들리는 꿈꾸던 경제적 안정을 얻게 되었다. 하지만 삶은 바뀌지 않았다. 이상했다. 예전보다 더 시간이 없었고, 오히려 소소하게 즐기던 취미생활도 불가능하게 되었다. 그녀는 자신의 삶을 돌아봤다. 그리고 깨달았다. 자신이 지독한 ‘바쁨 중독’에 빠져있음을 말이다. 저자는 우리가 왜 바쁨 중독에 빠졌는지, 언제부터 ‘여유’를 죄악시하게 되었는지, 어떻게 하면 진짜 삶을 되찾을 수 있을지 고민에 빠졌다. 그리고 6가지의 문제의 원인과 방법을 발견했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20210204",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "셀레스트 헤들리 지음 ;김미정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "408 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157844654",
+                "INPUT_DATE": "20201124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "바쁨 중독",
+                "PUBLISH_PREDATE": "20201211",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

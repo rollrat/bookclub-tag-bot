@@ -1,0 +1,67 @@
+{
+    "otitle": "이번생은 틀렸다고 느껴질 때",
+    "oauthor": "유일한(이슈텔러) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이번 생은 틀렸다고 느껴질 때",
+                "link": "https://search.shopping.naver.com/book/catalog/32492773130",
+                "image": "https://shopping-phinf.pstatic.net/main_3249277/32492773130.20221229073150.jpg",
+                "author": "유일한",
+                "discount": "13950",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20180913",
+                "isbn": "9791188469222",
+                "description": "세상에 또 사람에 치여서 이번 생은 틀렸다고 느껴질 때면!\n\n이 책에는 당신을 아프게 하는 것들로부터 당신을 지키고, 인생을 살아가다 길을 잃었을 때, 믿을 만한 표지판이 되어 주는 글이 담겨있다. 책꽂이에 꽂아두고 내가 먼지처럼 작아 보일 때마다 펼쳐보고 싶은 글, 페이지가 다 닳도록 펼쳐보고 나면 어느새 나를 큰 사람으로 만들어 놓을 글들을 통해 앞으로의 나에게 일어날 일들을 모두 좋은 일로 만들고 싶다는 바람만 가득찬 자신을 발견할 수 있게 될 것이다.\n지식과 저자의 깊은 감성을 담아내 저자만의 색깔로 풀어냈다. 이 책의 1장에서는 꿈에 관한 이야기들을 풀어냈다. 2장에서는 사랑에 관한 이야기를, 3장에서는 아픔에 관한 이야기를, 4장에서는 생각에 관한 이야기를, 마지막 5장에서는 자신의 삶을 더 사랑할 수 있게끔 만들어주는 행복에 관한 이야기를 담아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181205",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "유일한 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6835976_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6835976_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "228 p.",
+                "CONTROL_NO": "CIP2018024058",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188469222",
+                "INPUT_DATE": "20180731",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이번 생은 틀렸다고 느껴질 때",
+                "PUBLISH_PREDATE": "20180828",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

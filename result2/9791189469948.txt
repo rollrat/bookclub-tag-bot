@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 이상한 사람 때문에 힘들었습니다",
+    "oauthor": "정희정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 이상한 사람 때문에 힘들었습니다 (나를 괴롭히는 성격장애자에 대한 슬기로운 대처법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473017920",
+                "image": "https://shopping-phinf.pstatic.net/main_3247301/32473017920.20221230072707.jpg",
+                "author": "정희정",
+                "discount": "13500",
+                "publisher": "꿈의지도",
+                "pubdate": "20200910",
+                "isbn": "9791189469948",
+                "description": "우리가 잘 몰랐던 성격장애에 대한 올바른 이해와 대처 방법을 알려주는 책! 직장에서, 학교에서. 모임에서 매일매일 이상한 사람들을 겪게 되고, 그들 때문에 괴롭다. 아무리 이해하려고 해도 상식적으로는 도저히 이해할 수 없는 사람들! 갑질도, 꼰대도 알고 보면 성격장애인 경우가 많다. 이 책은 10가지 유형별 성격장애에 대한 명확한 분석을 통해 유연하게 대처하는 방법을 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20200917",
+                "EA_ADD_CODE": "13180",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "정희정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "300 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189469948",
+                "INPUT_DATE": "20200803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "오늘도 이상한 사람 때문에 힘들었습니다",
+                "PUBLISH_PREDATE": "20200910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

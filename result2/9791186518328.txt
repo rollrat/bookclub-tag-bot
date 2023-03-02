@@ -1,0 +1,67 @@
+{
+    "otitle": "나의 주식투자생존기",
+    "oauthor": "김근형(불고기벅어) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나의 주식투자생존기",
+                "link": "https://search.shopping.naver.com/book/catalog/32474245641",
+                "image": "https://shopping-phinf.pstatic.net/main_3247424/32474245641.20221227205716.jpg",
+                "author": "김근형",
+                "discount": "11700",
+                "publisher": "갈라북스",
+                "pubdate": "20190311",
+                "isbn": "9791186518328",
+                "description": "주식에 처음 입문했을 때부터 전문투자자로 10여년이 지날 때까지 겪었던 투자 경험을 에세이 형식으로 담아낸 책. 주식 투자로 인한 성공과 실패의 상황을 공감되는 에피소드로 구성해 독자들에게 재미와 함께 유용한 정보도 전달한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "332.6322",
+                "UPDATE_DATE": "20190227",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "지은이: 김근형",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7147636_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7147636_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7147636_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "270 p.",
+                "CONTROL_NO": "CIP2019004173",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518328",
+                "INPUT_DATE": "20190207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나의 주식투자 생존기",
+                "PUBLISH_PREDATE": "20190311",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

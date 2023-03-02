@@ -1,0 +1,34 @@
+{
+    "otitle": "황금 보자기",
+    "oauthor": "동경소녀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:18 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "아옹개비 눈 아해와 황금보자기 1 (김삼동 판타지동화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441798685",
+                "image": "https://shopping-phinf.pstatic.net/main_3244179/32441798685.20221019101703.jpg",
+                "author": "김삼동",
+                "discount": "10800",
+                "publisher": "더삼",
+                "pubdate": "20190130",
+                "isbn": "9791196064365",
+                "description": "김삼동 판타지동화 [아옹개비 눈 아해와 황금보자기]. \n천 년 동안 도술을 익혀 연옥에서 도망쳐 나왔다는 미혹성 성주!\n그의 손에서 세상을 구할 아이로 지목된 빛은 악령요람에서 힘을 길러가는데!"
+            },
+            {
+                "title": "아옹개비 눈 아해와 황금보자기 2",
+                "link": "https://search.shopping.naver.com/book/catalog/32496263326",
+                "image": "https://shopping-phinf.pstatic.net/main_3249626/32496263326.20221019101126.jpg",
+                "author": "김삼동",
+                "discount": "10800",
+                "publisher": "더삼",
+                "pubdate": "20190130",
+                "isbn": "9791196064372",
+                "description": "김삼동 판타지동화 [아옹개비 눈 아해와 황금보자기]. \n천 년 동안 도술을 익혀 연옥에서 도망쳐 나왔다는 미혹성 성주!\n그의 손에서 세상을 구할 아이로 지목된 빛은 악령요람에서 힘을 길러가는데!"
+            }
+        ]
+    }
+}

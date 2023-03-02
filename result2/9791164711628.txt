@@ -1,0 +1,78 @@
+{
+    "otitle": "매일 쓰고 다시 쓰고 끝까지 씁니다",
+    "oauthor": "김호연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:32 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "매일 쓰고 다시 쓰고 끝까지 씁니다(큰글씨책) (시나리오에서 소설까지 생계형 작가의 글쓰기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494125077",
+                "image": "https://shopping-phinf.pstatic.net/main_3249412/32494125077.20221019150246.jpg",
+                "author": "김호연",
+                "discount": "13500",
+                "publisher": "행성B",
+                "pubdate": "20211228",
+                "isbn": "9791164711628",
+                "description": "《망원동 브라더스》로 유명한 소설가 김호연의 첫 산문집이다. 20년간 글만 써서 먹고살아 온 작가의 생존기다. 시나리오, 만화 스토리, 소설 등을 쓰며 버텨 온 자신의 삶을 연대기로 들려준다. 쓰고, 반려되고, 쓰고, 반려된 ‘실패의 날들’에 대한 기록이다. 그럼에도 그가 계속 글을 쓰는 이유는 이것 말고는 다른 일을 할 수 없는 직업이 되었기 때문이고, 근본적으로는 ‘근원적인 허기’를 채우기 위해서다. 자신처럼 작가의 길에 들어서려는 이들에게 글쓰기 비법과 공모전 합격 노하우 등 요긴한 정보도 알려 준다. 특히 시나리오 작가로 오래 일한 만큼 영화 한 편이 만들어지기까지 과정도 자세히 보여 준다. 생존기지만 비장하지 않고 유머러스하다."
+            },
+            {
+                "title": "매일 쓰고 다시 쓰고 끝까지 씁니다 (시나리오에서 소설까지 생계형 작가의 글쓰기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456262654",
+                "image": "https://shopping-phinf.pstatic.net/main_3245626/32456262654.20221230074636.jpg",
+                "author": "김호연",
+                "discount": "12960",
+                "publisher": "행성B",
+                "pubdate": "20201116",
+                "isbn": "9791164711338",
+                "description": "글 써서 먹고살기 참 쉽죠?\n20년간 글쓰기로 생계를 이어 온 어느 작가의 생존기\n\n『망원동 브라더스』로 유명한 소설가 김호연의 첫 산문집이다. 20년간 글만 써서 먹고살아 온 작가의 생존기다. 시나리오, 만화 스토리, 소설 등을 쓰며 버텨 온 자신의 삶을 연대기로 들려준다. 쓰고, 반려되고, 쓰고, 반려된 ‘실패의 날들’에 대한 기록이다. 그럼에도 그가 계속 글을 쓰는 이유는 이것 말고는 다른 일을 할 수 없는 직업이 되었기 때문이고, 근본적으로는 ‘근원적인 허기’를 채우기 위해서다. 자신처럼 작가의 길에 들어서려는 이들에게 글쓰기 비법과 공모전 합격 노하우 등 요긴한 정보도 알려 준다. 특히 시나리오 작가로 오래 일한 만큼 영화 한 편이 만들어지기까지 과정도 자세히 보여 준다. 생존기지만 비장하지 않고 유머러스하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "행성B(행성비)",
+                "DDC": "",
+                "UPDATE_DATE": "20220208",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "김호연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*297",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "282 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164711628",
+                "INPUT_DATE": "20211206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "매일 쓰고 다시 쓰고 끝까지 씁니다",
+                "PUBLISH_PREDATE": "20211228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

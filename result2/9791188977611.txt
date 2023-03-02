@@ -1,0 +1,67 @@
+{
+    "otitle": "주식시장의 천재투자자들",
+    "oauthor": "존 리즈,잭 포핸드 공저/김숭진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "주식시장의 천재투자자들 (10인의 거장들에게 배우는 역사상 가장 탁월한 투자 전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491403059",
+                "image": "https://shopping-phinf.pstatic.net/main_3249140/32491403059.20230224102520.jpg",
+                "author": "존 리즈^잭 포핸드",
+                "discount": "14400",
+                "publisher": "슬로디미디어",
+                "pubdate": "20201105",
+                "isbn": "9791188977611",
+                "description": "왜 투자자들은 대부분 실패하는가?\n역사상 가장 위대한 10명의 천재투자자에게\n주식 시장을 이기는 법을 배우다!\n주식투자의 기본을 알려주는 최고의 책!\n\n최근 과거보다 주가가 낮아졌다는 이유만으로 투자에 뛰어드는 ‘묻지마식 투자’나 ‘동학 개미 운동’에 대한 우려의 목소리가 높아지고 있다. 이처럼 왜 초보 투자자들 대부분은 실패하는 것일까? 여러 정황을 살펴보면 사실 투자에 도움을 구할 곳이 없다. 나 자신이나 전문가나 시장에서 승리하기는 어렵다는 결론이 나오기 때문이다. 그럼 주식투자를 포기해야 할까?\n하지만 필자는 시장을 이기는 방법이 꼭 있을 것이라 믿었다. 그래서 최고의 천재투자자들 여러 명을 추렸다. 놀라운 투자실적은 기본이고, 누구나 따라하기 쉬운 종목선정 기준이 있어야 하며, 그 전략이 낱낱이 공개되어 있는 사람들을 선정했다.\n그들이 벤저민 그레이엄, 피터 린치, 워런 버핏 등 역사상 가장 뛰어난 수익률을 거둔 천재투자자 10명이다. 필자는 시장을 이기기 위해 천재투자자들이 사용한 비밀공식을 자세히 설명하는 한편, 그들이 개별종목을 분석할 때 특정지표를 왜 그렇게 중요하게 생각했는지도 알아보았다. 아울러 언제 매수하고, 얼마나 오래 보유하고, 언제 매도해야 하는지도 기준을 세웠다. 이 기준을 단계별로 따라가다 보면 누구나 쉽게 최적의 포트폴리오를 구성할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어(슬로디미디어그룹)",
+                "DDC": "",
+                "UPDATE_DATE": "20210415",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "John P. 리즈, Jack M. 포핸드 지음 ;김숭진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/16/9791188977611.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "361 p.",
+                "CONTROL_NO": "CIP2020044019",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188977611",
+                "INPUT_DATE": "20201016",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(주식시장의) 천재투자자들",
+                "PUBLISH_PREDATE": "20201105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

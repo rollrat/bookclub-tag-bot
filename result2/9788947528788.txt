@@ -1,0 +1,67 @@
+{
+    "otitle": "탁월한 아이디어는 어디서 오는가",
+    "oauthor": "스티븐 존슨 저/서영조 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "탁월한 아이디어는 어디서 오는가 (700년 역사에서 찾은 7가지 혁신 키워드)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436337635",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436337635.20221019150759.jpg",
+                "author": "스티븐 존슨",
+                "discount": "14400",
+                "publisher": "한국경제신문사",
+                "pubdate": "20121115",
+                "isbn": "9788947528788",
+                "description": "탁월한 아이디어를 탄생시키는 7가지 환경!\n\n창의성과 혁신의 비밀을 밝히는 『탁월한 아이디어는 어디서 오는가』. 이 책은 700년간의 역사 속에서 탁월한 아이디어가 어떤 환경에서 나오게 되는지를 분석한 것이다. 저자는 신경생물학에서 도시학, 인터넷 문화에 이르기까지 여러 분야에 대한 폭넓고 깊이 있는 지식을 활용해서 진정한 혁신 뒤에 놓인 공간, 그리고 7가지 중요한 패턴을 증명한다. \n\n구텐베르크의 인쇄혁명에서부터 위성을 통한 GPS의 발명에 이르기까지 700년간의 역사 속에서 탁월한 아이디어 200개를 연구한 결과, 탁월한 아이디어가 나오는 환경을 인접가능성, 유동적 네트워크, 느린 예감, 뜻밖의 발견, 실수, 굴절적응, 플랫폼이라는 7가지로 정리했다. 이를 통해 아이디어는 어떻게 생성되고 발전하는지, 이미 존재하는 것들 속에서 새로운 아이디어는 어떻게 파생되어 나오는지 알 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20130305",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "스티븐 존슨 지음 ;서영조 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947528788",
+                "INPUT_DATE": "20130305",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "탁월한 아이디어는 어디서 오는가 ",
+                "PUBLISH_PREDATE": "20130115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

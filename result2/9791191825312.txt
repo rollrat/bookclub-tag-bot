@@ -1,0 +1,67 @@
+{
+    "otitle": "더 잘하고 싶어서, 더 잘 살고 싶어서",
+    "oauthor": "양경민(글토크) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "더 잘하고 싶어서, 더 잘 살고 싶어서 (나를 단단하게 만드는 매일의 문장들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438239654",
+                "image": "https://shopping-phinf.pstatic.net/main_3243823/32438239654.20221019135410.jpg",
+                "author": "양경민(글토크)",
+                "discount": "12690",
+                "publisher": "빅피시",
+                "pubdate": "20220318",
+                "isbn": "9791191825312",
+                "description": "불안하고 걱정이 많은 밤을 지나는 당신에게\n20만 독자가 뜨겁게 공감한 글토크의 첫 에세이\n\n“불안할 때, 읽는 것만으로 답을 찾은 기분이 듭니다.” \n“이 한 문장으로 하루를 버텼어요.” _독자평 중에서\n\n더 잘할 수 있고, 더 잘 살 수 있을 것 같다가도 예상치 못한 시련에 무너지게 되는 순간들이 있다. 그럴 때면 자책하고, 가끔은 방관하며 불필요한 감정들로 가장 소중한 ‘나’를 잃게 되기도 한다. 이 책은 그의 글을 먼저 읽은 20만 명의 사람들이 가장 뜨겁게 감동받고, 다시 살아갈 용기를 얻은 글들을 오롯이 담아낸 것으로, 글토크의 첫 에세이다. \n하고 싶은 일과 해야 하는 일 사이에서, 취업과 퇴사 사이에서, 인간관계와 경제적인 문제로 우리는 자주 망설이고 고민에 빠진다. 작가에게 방문한 많은 이의 이야기를 사려 깊게 듣고, 자신의 경험을 솔직하게 담아냈기에 글토크의 글은 묵직하게 마음에 와닿으며, 문제를 해결할 실질적인 방향을 보여준다.\n위로와 용기가 필요한 순간에 가장 힘이 되는 것은 어쩌면 단 한 줄의 문장일지도 모른다. 긴 미사여구나 심오한 지혜가 아닌 “진정성이 묻어나는 한 글자 한 글자”는 긴 하루를 무사히 버텨내고 다시 일어설 용기를 준다. 바로 글토크가 들려주는 문장들이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빅피시",
+                "DDC": "",
+                "UPDATE_DATE": "20220418",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "양경민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191825312",
+                "INPUT_DATE": "20220221",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "더 잘하고 싶어서, 더 잘 살고 싶어서",
+                "PUBLISH_PREDATE": "20220318",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

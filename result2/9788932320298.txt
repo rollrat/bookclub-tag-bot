@@ -1,0 +1,67 @@
+{
+    "otitle": "우리 안의 악마",
+    "oauthor": "줄리아 쇼 저/김성훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리 안의 악마 (어두운 인간 본성에 관한 도발적인 탐구)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436281430",
+                "image": "https://shopping-phinf.pstatic.net/main_3243628/32436281430.20221228072937.jpg",
+                "author": "줄리아 쇼",
+                "discount": "15300",
+                "publisher": "현암사",
+                "pubdate": "20200123",
+                "isbn": "9788932320298",
+                "description": "내면의 어둠을 밝히는 과학적 여정을 시작합니다\n\n19개국에 판권이 팔린 『몹쓸 기억력』의 저자, 줄리아 쇼 박사의 신간이 출간되었다. 그는 이번 책 『우리 안의 악마』를 통해 인간 본성의 어두운 면면을 과학적으로 파헤침과 동시에 사회·문화적으로 악이 어떻게 작동하는지도 면밀히 살핌으로써 악이란 무엇인지, 우리가 무엇을 악하다고 여겨왔는지, 그 판단에 오류는 없는지 심도 있게 생각해볼 기회를 제공한다. 끔찍한 일, 나쁜 사람, 난감한 상황을 굳이 상상해보고 싶은 사람은 별로 없을 테지만, 저자는 이런 것들을 보이지 않는 곳으로 치워버리는 것보다 끄집어내 제대로 들여다보며 터놓고 논의하는 일이 우리 모두에게 훨씬 나은 길을 열어준다고 이야기한다.\n\n니체는 악(惡)이란 어떤 사람, 물체, 행위의 고유한 속성이 아니라 주관적 경험이라고 보았다. 우리가 무언가를 악하다고 생각할 때 그 대상은 비로소 악해진다는 의미다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20200211",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "줄리아 쇼 지음 ;김성훈 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "513.854",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/01/03/9788932320298.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "350 p.",
+                "CONTROL_NO": "CIP2020000544",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932320298",
+                "INPUT_DATE": "20200103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "우리 안의 악마",
+                "PUBLISH_PREDATE": "20200123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

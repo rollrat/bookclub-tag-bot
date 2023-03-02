@@ -1,0 +1,67 @@
+{
+    "otitle": "나의 서툰 위로가 너에게 닿기를",
+    "oauthor": "선미화 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나의 서툰 위로가 너에게 닿기를",
+                "link": "https://search.shopping.naver.com/book/catalog/32478411933",
+                "image": "https://shopping-phinf.pstatic.net/main_3247841/32478411933.20221019143137.jpg",
+                "author": "선미화",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20200210",
+                "isbn": "9791190257237",
+                "description": "나에게, 그리고 너에게 건네는 따뜻한 위로\n\n사람은 누구나 위로가 필요하다. 그래서 사람에게, 책에서, 반려동물에게, 여행에서 위로를 받는다. 또 자신에게서 위로를 받기도 한다. 이 책의 저자는 친근한 글과 그림으로 독자들에게 서툴지만 따뜻한 위로를 건네고 있다. 저자가 삶에서 받았던, 깨달았던 위로를 마음이 편해지는 글과 그림으로 담았다. 이 책이 누군가의 마음에 따뜻한 쉼터가 될 수 있기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200313",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "선미화 글·그림",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "206 p.",
+                "CONTROL_NO": "CIP2020001317",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257237",
+                "INPUT_DATE": "20200109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나의 서툰 위로가 너에게 닿기를",
+                "PUBLISH_PREDATE": "20200210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

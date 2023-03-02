@@ -1,0 +1,45 @@
+{
+    "otitle": "커피N커피",
+    "oauthor": "정정희,권태영,허정,김용식 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:48 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "커피N커피",
+                "link": "https://search.shopping.naver.com/book/catalog/32436278151",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436278151.20220527025942.jpg",
+                "author": "정정희",
+                "discount": "0",
+                "publisher": "백산출판사",
+                "pubdate": "20140310",
+                "isbn": "9788961838887",
+                "description": "▶ 이 책은 커피를 다룬 이론서입니다. 커피의 기초적이고  전반적인 내용을 학습할 수 있도록 구성했습니다."
+            },
+            {
+                "title": "COFFEE N COFFEE 커피 앤 커피 (개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466684073",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466684073.20221230073125.jpg",
+                "author": "정정희",
+                "discount": "25650",
+                "publisher": "백산출판사",
+                "pubdate": "20190820",
+                "isbn": "9791157637744",
+                "description": "바리스타, 즉 커피조리사는 ‘커피를 만드는 사람’, ‘바 안에 있는 사람’이란 뜻 외에 ‘커피와 연관된 모든 일을 할 수 있는 사람’이어야 한다. 따라서 원두 분류와 로스팅, 커핑 등 커피의 전반적인 이해를 바탕으로 하여야 한다. 또한 세분화된 교육과 전문 지식을 습득하여, 소비자에게 최고의 서비스를 제공할 수 있어야 한다. 바리스타 즉 커피조리사가 되기 위해서는 많은 노력이 필요하다."
+            },
+            {
+                "title": "커피생두 (커피 재배 가공 물류 및 제반 연구를 위한 가이드북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478504805",
+                "image": "https://shopping-phinf.pstatic.net/main_3247850/32478504805.20221228074323.jpg",
+                "author": "J. N. 윈트겐스",
+                "discount": "135000",
+                "publisher": "커피리브레",
+                "pubdate": "20150330",
+                "isbn": "9791195484805",
+                "description": "네슬레 출신의 열대 작물 전문 농학자 Wintgens 를 필두로, 품종과 계통 분류의 혁신을 일으켰던 Charrier, Eskes, Leloy, 저명한 육종학자 Zamarripa, 연충 전문가 duran 등 커피 산업의 전문가와 학자 40인이 참여하여, 커피의 품종 분류와 육종, 나무의 재배와 열매의 결실, 수확과 처리, 생두의 생산, 저장과 선적에 이르는 산지 기반 커피 산업 내용 전반을 과학적으로 분석하여 상세하게 담아냈다. \n\n\n\n각 장은 단순한 관찰이나 추상적 묘사가 아닌, 지역의 자연 생태계를 지켜 나가면서 높은 품질의 커피를 안정적으로 생산해 내는 방법에 대하여, 지금까지 발표되어 온 다양한 문헌 정보에 기초하고 과학적 기반에서 연구 실증하여 도출한 정보를 900장이 넘는 도해와 300장이 넘는 사진과 함께 상세히 설명하고 있다. 본서는 이러한 원서의 체계와 내용을 그대로, 빠짐 없이 담아 내었다."
+            }
+        ]
+    }
+}

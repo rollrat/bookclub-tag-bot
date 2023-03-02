@@ -1,0 +1,67 @@
+{
+    "otitle": "현대 교회를 향한 10가지 기소장",
+    "oauthor": "폴 워셔 저/스데반 황 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "현대 교회를 향한 10가지 기소장",
+                "link": "https://search.shopping.naver.com/book/catalog/32459053705",
+                "image": "https://shopping-phinf.pstatic.net/main_3245905/32459053705.20221019135303.jpg",
+                "author": "폴 워셔",
+                "discount": "7200",
+                "publisher": "생명의말씀사",
+                "pubdate": "20181220",
+                "isbn": "9788904166527",
+                "description": "우리는 부흥이 필요하다, 그러나 이대로는 아니다!\n★폴 워셔 한국어판 서문 수록★"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의 말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20190104",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "폴 워셔 지음 ;스데반 황 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "8000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*183",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "135 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904166527",
+                "INPUT_DATE": "20181212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "현대 교회를 향한 10가지 기소장",
+                "PUBLISH_PREDATE": "20181220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

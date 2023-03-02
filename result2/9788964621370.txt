@@ -1,0 +1,67 @@
+{
+    "otitle": "세탁기의 배신",
+    "oauthor": "김덕호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세탁기의 배신 (왜 가전제품은 여성을 가사노동에서 해방시키지 못했는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482588634",
+                "image": "https://shopping-phinf.pstatic.net/main_3248258/32482588634.20230222102113.jpg",
+                "author": "김덕호",
+                "discount": "16200",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20200430",
+                "isbn": "9788964621370",
+                "description": "저자는 이반 일리치, 루스 코완, 수전 스트레서, 매릴린 옐롬 등 여성과 가사노동, 가사기술에 대한 연구를 망라하고, 서구 페미니즘의 역사가 가사기술에 끼친 영향을 개괄하며, 당시 미국 중심의 시대별 인구센서스와 잡지 광고를 통해 구체적인 사회문화적 트렌드를 훑어낸다. 특히 당시 미국 가정의 경우, 노동절약적이고도 시간절약적인 가전제품들이 20세기 전반을 통해 줄줄이 도입되었는데도 불구하고 왜 여성들의 가사노동시간이 여전하거나 오히려 더 늘어났는지에 대해 세탁기, 청소기, 냉장고를 중심으로 분석하고 있다. \n\n현재와 같은 소비자본주의 체제하에서 앞으로 많은 가전제품들이 출현한다손 치더라도, 가사노동이 구조적으로 그림자노동을 벗어날 수 없다면, 또한 대부분 주부만의 몫이라면, 역사학자 루스 코완이 제기한 ‘기이한 패러독스’는 근본적으로 해결될 것처럼 보이지 않는다. 가전제품은 가사노동의 강도를 줄여주었지만, 집안일은 할머니 세대, 어머니 세대와 비슷했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "",
+                "UPDATE_DATE": "20200512",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "김덕호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "337.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "143*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "376 p.",
+                "CONTROL_NO": "CIP2020015930",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964621370",
+                "INPUT_DATE": "20200417",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "세탁기의 배신",
+                "PUBLISH_PREDATE": "20200430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

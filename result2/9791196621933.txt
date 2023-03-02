@@ -1,0 +1,67 @@
+{
+    "otitle": "아무 이유 없이 불안할 때가 있다",
+    "oauthor": "다카무레 겐지 저/김정환 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무 이유 없이 불안할 때가 있다 (2만 건의 임상 경험으로 검증된 30초 만에 불안감을 없애는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497236940",
+                "image": "https://shopping-phinf.pstatic.net/main_3249723/32497236940.20221229074542.jpg",
+                "author": "다카무레 겐지",
+                "discount": "12420",
+                "publisher": "센시오",
+                "pubdate": "20190425",
+                "isbn": "9791196621933",
+                "description": "2만 건의 임상경험으로 검증 된 30초 만에 불안감을 없애는 법\n\n막연한 미래, 일, 연애, 결혼·육아, 건강 등 많은 사람들이 불안감을 안고 하루하루 살아간다. 불안감 때문에 일도 손에 안 잡히고, 일상이 삐걱거리는 사람이라면 불안감을 단번에 제어할 방법을 찾기 위해 나름대로 방법을 찾아보고 병원이나 종교, 책의 도움을 받아보기도 했을 것이다. 이런 처방들은 대부분 자기 자신의 마음을 다스리는 데 초점이 맞춰진다. 그러나 이러한 노력들에도 불구하고 지금도 여전히 불안감 때문에 괴로운 건 왜일까? 그것은 마음을 바꾸는 것만으로 불안감을 없애기는 어렵기 때문이다. \n\n이런 이들에게 2만 건의 임상경험으로 검증 된 ‘퀵 마인드풀니스 테크닉’을 권한다. 간단한 손동작만으로 단 몇 초 만에 불안감을 잠재우는 이 기법은 시도 때도 없이 찾아오는 일상적인 불안감에 그때그때 대응할 수 있는 기법이다. 괴로웠던 과거의 기억과 미래에 대한 막연함에서 비롯된 만성적인 불안감을 해소하는 데도 효과적이다. 지금까지 이유를 알 수 없는 불안감과 무작정 싸우거나 도망치느라 바빴음에도 여전히 불안감에 시달리고 있다면, 이제 그 불안감에 유연하게 대처할 수 있게 될 것이다. \n\n이 기법은 불안감을 감지하고 가라앉히는 효과는 물론, 불안감을 가시화·객관화해 마음을 안정시키는 과정에서 자기 자신에 대한 통찰력을 기를 수 있게 된다. 이를 통해 능력이나 인간관계력과 관련된 자아 이미지 또한 회복되며, 나아가 불안감의 순기능을 십분 활용해 삶을 더욱 발전적인 방향으로 이끌 수 있게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "센시오",
+                "DDC": "",
+                "UPDATE_DATE": "20190502",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "다카무레 겐지 지음 ;김정환 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "189.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/02/9791196621933.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "230 p.",
+                "CONTROL_NO": "CIP2019012843",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196621933",
+                "INPUT_DATE": "20190402",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "아무 이유없이 불안할 때가 있다",
+                "PUBLISH_PREDATE": "20190425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

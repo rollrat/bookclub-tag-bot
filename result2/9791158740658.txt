@@ -1,0 +1,67 @@
+{
+    "otitle": "의학·생명계열 진로 로드맵",
+    "oauthor": "정유희, 안계정, 김채화 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "의학ㆍ생명계열 진로 로드맵 (AI와 공존하는 의사, 생명공학자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436154798",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436154798.20221019124201.jpg",
+                "author": "정유희^안계정^김채화",
+                "discount": "15120",
+                "publisher": "미디어숲",
+                "pubdate": "20200310",
+                "isbn": "9791158740658",
+                "description": "의학·생명계열 진학 준비를 위한 모든 것\n최고 전문가들이 제시하는 나만의 진로 로드맵!\n\n아직도 많은 학생이 진로 로드맵을 어떻게 짜야 하는지 고민도 많고 어려워하는 것을 볼 수 있다. 이 책은 진로가 이미 결정되어 있는 학생들에게는 구체적인 활동이나 정보를 제공하고, 아직 진로에 대한 확신이 없는 학생들에게는 다양한 직업세계를 경험할 수 있는 기회를 주고자 한다. 생명과 건강에 대한 연구들이 계속되고 있고, 이와 관련된 직업들에도 관심이 높아지고 있다. 하지만 그에 비해 우리가 생각하는 직업들은 의사, 간호사, 생명과학 연구원 등 큰 틀에서 벗어나지 못하고 있다. 막연히 의사를 꿈꾸는 것이 아니라 ‘내가 알고 있는 의사는 앞으로 어떻게 발전되어 갈 것인가?, ‘의사는 단순히 환자들의 병을 고치는 직업인가?, ‘의사가 되기 위해서는 어떤 로드맵이 필요할까?’ 등을 학생들과 같이 고민해본다. \n\n이 책은 초·중·고등학생 모두가 관심을 가지고 있는 선배들의 합격 로드맵으로 시작한다. 똑같은 활동을 하더라도 의사가 되고 싶은 친구, 보건 행정학자가 되고 싶은 친구, 동물 생명학을 전공하고 싶은 친구들의 다양성을 볼 수 있다. 나만의 스토리를 만들 수 있는 멘토 같은 책이다. 다양한 활동을 위해 대학과 학과의 소개 및 참고 동영상, 추천도서 등을 참고할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미디어숲 :다빈치하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20200318",
+                "EA_ADD_CODE": "43370",
+                "PUBLISHER_URL": "http://www.mfbook.co.kr",
+                "AUTHOR": "정유희,안계정,김채화 지음",
+                "SERIES_TITLE": "",
+                "KDC": "372",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/01/20/9791158740658.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "254 p.",
+                "CONTROL_NO": "CIP2020002693",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158740658",
+                "INPUT_DATE": "20200120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "의학·생명계열 진로 로드맵",
+                "PUBLISH_PREDATE": "20200310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "판도라의 딸들, 여성 혐오의 역사",
+    "oauthor": "잭 홀런드 저/김하늘 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "판도라의 딸들, 여성 혐오의 역사 (세상에서 가장 오래된 편견)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440953446",
+                "image": "https://shopping-phinf.pstatic.net/main_3244095/32440953446.20221019143545.jpg",
+                "author": "잭 홀런드",
+                "discount": "16200",
+                "publisher": "ㅁ(미음)",
+                "pubdate": "20210726",
+                "isbn": "9791157062379",
+                "description": "여성 혐오는 기원전 8세기 지중해에서 탄생했다! 판도라 신화가 탄생한 고대부터 현대까지의 역사, 신화, 종교, 철학, 문학 속에 담긴 여성 혐오를 파헤치는 흥미롭고 친절한 탐구 기록. 우리가 가장 소중히 여기는 가치들이 여성을 멸시한 사회에서 만들어졌다는 역설을 정면으로 마주보는 작품이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20210827",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "잭 홀런드 지음 ;김하늘 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "373 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157062379",
+                "INPUT_DATE": "20210629",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "판도라의 딸들 여성 혐오의 역사",
+                "PUBLISH_PREDATE": "20210726",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

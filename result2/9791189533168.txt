@@ -1,0 +1,67 @@
+{
+    "otitle": "엄마의 두 번째 사회생활",
+    "oauthor": "유애선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엄마의 두 번째 사회생활 (마흔아홉, 다시 출근합니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455456000",
+                "image": "https://shopping-phinf.pstatic.net/main_3245545/32455456000.20221019134645.jpg",
+                "author": "유애선",
+                "discount": "13320",
+                "publisher": "SISO",
+                "pubdate": "20200320",
+                "isbn": "9791189533168",
+                "description": "“내가 다시 일할 수 있을까…?”\n두 번째 사회생활이 두려운 전업맘을 향한 강력한 동기부여 책\n마흔아홉에 다시 사회생활을 시작해 억대 영업인이 되다!\n\n저자는 은행에서 첫 직장생활을 시작해 청와대를 거친 화려한 사회생활을 접고 세 딸을 키우는 전업맘으로 10여 년을 보낸 후, 마흔아홉에야 두 번째 사회생활에 뛰어들었다. 주변에서 모두 말리는 ‘영업’일이었지만, 딸에게 ‘엄마도 할 수 있다!’는 걸 보여주고 싶어 포기하지 않았다. \n지금은 ‘그 어려운 일을 해낸 엄마’로서 가족들에게 존경받고, 직장에서는 ‘끈기 있고 열정적인 억대 연봉 능력자’로 모범 사례가 되고 있다. \n『엄마의 두 번째 사회생활』은 ‘나이가 많아서, 능력이 없어서, 받아주는 곳이 없어서, 자신이 없어서…’ 재취업이 두려운 경력단절 전업맘들에게 강력한 동기부여가 되어 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Siso",
+                "DDC": "",
+                "UPDATE_DATE": "20200403",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "유애선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189533168",
+                "INPUT_DATE": "20200226",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "엄마의 두 번째 사회생활",
+                "PUBLISH_PREDATE": "20200320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

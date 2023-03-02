@@ -1,0 +1,67 @@
+{
+    "otitle": "마음 보기 연습",
+    "oauthor": "유정은 글/강소영 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마음 보기 연습 (있는 그대로 행복하기 위한 작은 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466697711",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466697711.20230131163853.jpg",
+                "author": "유정은",
+                "discount": "13500",
+                "publisher": "북로그컴퍼니",
+                "pubdate": "20170725",
+                "isbn": "9791187292661",
+                "description": "『마음 보기 연습』은 혼자서도 마음챙김 명상을 시작할 수 있도록 도움을 주기 위해 국내 최초 마음챙김 명상 앱 ‘마보’ 의 콘텐츠를 기반으로 마음챙김 명상을 더 쉽게 경험할 수 있도록 하는 데 중점을 두었다. 눈을 감고 명상하는 것이 익숙하지 않거나 앱을 통해 명상을 들으면서 따라 하기 어려운 상황이라면 언제 어디서든 이 책을 읽으며 마음챙김 명상을 할 수 있다. \n\n화가 났을 때, 우울할 때, 외로울 때, 불안하고 의기소침할 때, 무기력할 때 등 일상생활에서 늘 접하는 감정, 즉 기분의 변화에 따라 이 책을 펼쳐 읽으면 읽는 것만으로도 명상 효과를 얻을 수 있다. 즉, 지금 마음에서 올라오고 있는 그 감정과 어느 정도 거리를 둘 수 있게 함으로써, 부정적 감정에 매몰되는 대신 평상심을 되찾고 마음이 편안해지도록 도와주는 것이다. 뿐만 아니라 아침에 일어나서, 출근길에, 회사에서, 음식을 먹으면서, 걸으면서, 자기 전에 등등 하루 중 언제 어디서든 책을 펼쳐 읽기만 해도 짧은 명상을 한 것처럼 긍정과 행복의 에너지를 충전할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로그컴퍼니",
+                "DDC": "179.7",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "유정은 지음 ;강소영 그림",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6275924_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6275924_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272 p.",
+                "CONTROL_NO": "CIP2017016565",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187292661",
+                "INPUT_DATE": "20170710",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "마음 보기 연습",
+                "PUBLISH_PREDATE": "20170713",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

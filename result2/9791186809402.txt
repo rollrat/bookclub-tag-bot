@@ -1,0 +1,67 @@
+{
+    "otitle": "한 권으로 끝내는 셰익스피어",
+    "oauthor": "윌리엄 셰익스피어 저/셰익스피어 연구회 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한 권으로 끝내는 셰익스피어",
+                "link": "https://search.shopping.naver.com/book/catalog/32463257736",
+                "image": "https://shopping-phinf.pstatic.net/main_3246325/32463257736.20221019153038.jpg",
+                "author": "윌리엄 셰익스피어",
+                "discount": "25200",
+                "publisher": "아름다운날",
+                "pubdate": "20170715",
+                "isbn": "9791186809402",
+                "description": "『한 권으로 끝내는 셰익스피어』는 꼭 읽어봐야 할 중요한 작품들을 선정하여 한 권으로 묶었다. 일명 셰익스피어의 4대 비극(햄릿, 오셀로, 리어왕, 맥베스), 5대 희극(베니스의 상인, 한여름 밤의 꿈, 십이야, 뜻대로 하세요, 말괄량이 길들이기)에 영원한 러브 스토리인 [로미오와 줄리엣]과 유쾌한 소동극 [템페스트], 역사극 [안토니우스와 클레오파트라] 등 가히 명작 중에 명작이라 할 작품들을 한 데 묶었다. 셰익스피어의 모든 작품들을 모두 섭렵할 수 있다면 더없이 좋겠지만 그렇게 하기 어려운 독자들이나 청소년들은 이 책 한 권을 탐독하는 것만으로도 셰익스피어 문학의 정수를 맛보기에는 충분할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아름다운날",
+                "DDC": "822.33",
+                "UPDATE_DATE": "20170721",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 윌리엄 셰익스피어 ;옮긴이: 셰익스피어연구회",
+                "SERIES_TITLE": "",
+                "KDC": "842",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6259105_3.jpg",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6259105_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "1247 p.",
+                "CONTROL_NO": "CIP2017015221",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186809402",
+                "INPUT_DATE": "20170626",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "(한 권으로 끝내는) 셰익스피어",
+                "PUBLISH_PREDATE": "20170715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

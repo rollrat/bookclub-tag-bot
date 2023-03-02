@@ -1,0 +1,78 @@
+{
+    "otitle": "걷기의 기쁨",
+    "oauthor": "박창희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:45 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "걷기의 기쁨",
+                "link": "https://search.shopping.naver.com/book/catalog/32436410619",
+                "image": "https://shopping-phinf.pstatic.net/main_3243641/32436410619.20221019110609.jpg",
+                "author": "박창희",
+                "discount": "16200",
+                "publisher": "산지니",
+                "pubdate": "20211115",
+                "isbn": "9788965457626",
+                "description": "길 속의 길, 걸으면 보이는 인문풍경\n길 위의 길, 그곳이 걷고 싶다\n\n새해, 호시우보(虎視牛步)의 마음으로 길을 걷자\n\n‘걷기의 기쁨’을 깨닫는다면\n당신의 행복노트가 충만해질 것이다."
+            },
+            {
+                "title": "걷기의 기쁨(큰글씨책)",
+                "link": "https://search.shopping.naver.com/book/catalog/34484922666",
+                "image": "https://shopping-phinf.pstatic.net/main_3448492/34484922666.20221019135814.jpg",
+                "author": "박창희",
+                "discount": "28800",
+                "publisher": "산지니",
+                "pubdate": "20220830",
+                "isbn": "9791168610736",
+                "description": "뚜벅이 박창희 교수의 행복한 길 걷기 안내서\n\n길을 찾고 길을 걷는 길 안내자 박창희 교수가 ‘걷기’를 통해 얻은 흥미로운 인문학적 지식들과 그가 직접 길을 걸으면서 얻은 경험들을 생생히 느낄 수 있는 에세이다.\n\n“코로나 시대, 혼란스러운 마음과 허전함, 외로움은 끝이 없다. 지친 삶을 위로받고 역사와 현재를 생각하는 길 걷기. 길 안내자 박창희 교수를 따라 걷기의 기쁨을 만끽해 보자. 때론 빨리빨리, 때론 느리게. 2021년 소띠해가 가면 2022년 호랑이해가 온다. 호시우보(虎視牛步)의 마음으로 길을 걷자.”\n\n단순히 걷는 것이 아니다. 두 발 밑에 있는 이 길이 어디에서부터 왔는지, 그 위를 지나간 사람은 누구인지 사색을 하며 걷는 것이 지금 당신이 걷는 길을 흠뻑 느낄 수 있는 지름길일 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20211221",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "박창희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/10/29/9788965457626.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "288 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965457626",
+                "INPUT_DATE": "20211029",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "걷기의 기쁨",
+                "PUBLISH_PREDATE": "20211115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

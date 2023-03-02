@@ -1,0 +1,78 @@
+{
+    "otitle": "작은 집이 좋아",
+    "oauthor": "신경옥 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:59 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "작은 집이 좋아 (인테리어 디자이너 신경옥이 고친 10-20평대 집을 엿보다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489574267",
+                "image": "https://shopping-phinf.pstatic.net/main_3248957/32489574267.20220527052242.jpg",
+                "author": "신경옥",
+                "discount": "0",
+                "publisher": "포북(forbook)",
+                "pubdate": "20101101",
+                "isbn": "9788993418255",
+                "description": "작지만 특별한 공간을 만드는 집 꾸밈 책!\n\n인테리어 디자이너 신경옥이 고친 소담한 집 이야기『작은 집이 좋아』. 작은 집을 아끼는 한 여자와 작은 집에 사는 이웃들이 함께 만들어낸 집 꾸밈 책이다. 저자가 지난 5년간 고친 10~20평대의 집, 소소한 아이디어가 숨어 있는 상업 공간, 파리의 작은 집 등을 소개하며 그녀만의 독특한 인테리어 관을 보여준다. 유행을 따라가지 않으면서 집 주인이 살기 편한 집, 주부들의 꿈인 수납을 해결하는 공간 활동 아이디어, 버려지는 고재를 활용한 일본풍의 내추럴한 감각까지 만날 수 있다. 또한 집 꾸밈에 활용할 다양한 디자인의 창문, 방문, 데코 아이디어와 만들기 방법, 숍 정보들이 함께 담겨 있다."
+            },
+            {
+                "title": "F book 신경옥이 사는 법 (작은 집이 좋아 에서 못다 한 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492044006",
+                "image": "https://shopping-phinf.pstatic.net/main_3249204/32492044006.20221019120124.jpg",
+                "author": "신경옥",
+                "discount": "13500",
+                "publisher": "포북(forbook)",
+                "pubdate": "20140225",
+                "isbn": "9788993418767",
+                "description": "신경옥, 멋지게 나이드는 그녀만의 비결!\n\n『F book 신경옥이 사는 법』은《리넨이 좋아》,《작은 집이 좋아》,《살림이 좋아》, 《엄마가 좋아》등 여자 감성을 채워주는 ‘좋아 시리즈’로 독자의 마음을 어루만진 화제작 《F·book》 의 두 번째 호로, 《작은 집이 좋아》의 저자인 신경옥의 맛깔난 인생이야기를 담은 책이다. 신경숙이 어떻게 여기까지 왔으며, 어떻게 자식을 키우고, 어떻게 집을 단장하는지, 어떤 살림들을 만들고, 어디서 쇼핑을 하고, 누구를 만나 즐거운지 그리고 남편과는 어떻게 사랑하는지를 빼곡하게 담아냈다.《작은 집이 좋아》에서 미처 다 보여주지 못했던 신경옥의 집과 그녀의 스타일, 그녀와 인터뷰한 이야기 등을 사진과 함께 생생하게 만나볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "forbook",
+                "DDC": "",
+                "UPDATE_DATE": "20170707",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "신경옥 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993418255",
+                "INPUT_DATE": "20101014",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "작은 집이 좋아 ",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

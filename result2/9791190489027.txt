@@ -1,0 +1,67 @@
+{
+    "otitle": "홈 파이어",
+    "oauthor": "카밀라 샴지 저/양미래 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "홈 파이어 (카밀라 샴지 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503150634",
+                "image": "https://shopping-phinf.pstatic.net/main_3250315/32503150634.20221228072301.jpg",
+                "author": "카밀라 샴지",
+                "discount": "13500",
+                "publisher": "북레시피",
+                "pubdate": "20200101",
+                "isbn": "9791190489027",
+                "description": "2019 국제 더블린 문학상 최종 후보작. 이주를 둘러싼 정치에 갇혀버린 인간의 삶, 민족주의, 소속된 자와 소속되지 않은 자를 예리하고도 고통스럽게 상기시킨다. 동시에 흔들리지 않는 가족 간의 유대와 오로지 사랑하는 사람을 지키기 위한 용기를 풍부한 감정 속에서 선명하게 그려낸다. \n\n\n\n어머니의 죽음으로 어린 동생들을 돌봐야 했던 이스마에게 기회가 왔다. 파키스탄 출신으로 런던에 살던 이스마는 미국의 대학 교수로부터 초청을 받아 오랫동안 꿈꿔온 삶을 다시 시작할 수 있게 된 것이다. 그러나 이스마는 런던에 남아 있는 쌍둥이 동생인 아니카와 파베이즈에 대한 걱정으로 늘 불안하다.\n\n\n\n아름답고 고집 센 아니카와 불확실한 자신의 꿈을 좇아 사라져버린 파베이즈. 파베이즈는 지금까지 알지 못했던 지하디스트 아버지의 암울한 발자취를 따라 자신의 존재를 증명해 보이기 위해 떠났다. 파베이즈가 지구 반대편에서 모습을 드러낼 때, 이스마에게 ??최악의 두려움이 닥친다. 그리고 이스마와 아니카, 두 자매의 삶에 에이먼이 개입한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북레시피",
+                "DDC": "",
+                "UPDATE_DATE": "20200110",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "www.bookrecipe.co.kr",
+                "AUTHOR": "지은이: 카밀라 샴지 ;옮긴이: 양미래",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "355 p.",
+                "CONTROL_NO": "CIP2019050578",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190489027",
+                "INPUT_DATE": "20191210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "홈 파이어",
+                "PUBLISH_PREDATE": "20200101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

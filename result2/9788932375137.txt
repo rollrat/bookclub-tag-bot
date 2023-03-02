@@ -1,0 +1,78 @@
+{
+    "otitle": "밥 도감",
+    "oauthor": "고은정 글그림/안경자 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:24 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "밥 도감 (재료부터 만드는 방법까지 한눈에 살펴보는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436118180",
+                "image": "https://shopping-phinf.pstatic.net/main_3243611/32436118180.20221019134421.jpg",
+                "author": "고은정",
+                "discount": "14400",
+                "publisher": "현암주니어",
+                "pubdate": "20200910",
+                "isbn": "9788932375137",
+                "description": "《김치 도감》에 이어 이번에는 ‘밥’이다! 『밥 도감』은 밥이 되는 재료부터 쌀밥, 현미, 잡곡밥, 그리고 반찬이 따로 필요 없는 한 그릇 밥까지, 밥에 대해 배우고 부모님과 어린이가 함께 만들어 볼 수 있는 지식과 요리가 결합된 도감책입니다. 우리 식탁에서 빠질 수 없는 주 음식을 소개하는 ‘재료부터 만드는 방법까지 한눈에 살펴보는 도감’ 시리즈의 하나로, 첫 번째로 소개된 《김치 도감》이 김치 채소의 한살이부터 씻고 다듬고 버무리고 익히는 모든 과정을 그림으로 표현한 데 이어, 우리나라의 주식으로 김치와 함께 먹는 고슬고슬한 밥의 다양한 세계를 그림으로 쉽게 보여 줍니다."
+            },
+            {
+                "title": "꿈을 이루는 밥 짓기 (아자 이모의 생활 도감)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466662668",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466662668.20221019114922.jpg",
+                "author": "노정임",
+                "discount": "10800",
+                "publisher": "아이들은자연이다",
+                "pubdate": "20160317",
+                "isbn": "9791195429134",
+                "description": "『꿈을 이루는 밥 짓기』는 우리 밥상 위의 밥 이야기를 그려낸 책이다. 밥 짓기에 대한 말과 역사, 과학 기술을 추적하고, 일하는 사람들과 지구와 자연에 대한 관심까지 넓혀간다. 무엇보다 맛있게 밥을 지을 수 있는 비법을 함께 체험한다. 우리말, 체험, 과학, 사회, 밥 요리가 다양한 주제로 이어지며 생활에 꼭 필요할 지식이 풍성하고 찰지게 어우러져 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암주니어 :현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20201106",
+                "EA_ADD_CODE": "73380",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "글: 고은정 ;그림: 안경자",
+                "SERIES_TITLE": "",
+                "KDC": "594",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "216*268",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "64 p.",
+                "CONTROL_NO": "CIP2020032843",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932375137",
+                "INPUT_DATE": "20200805",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(재료부터 만드는 방법까지 한눈에 살펴보는) 밥 도감",
+                "PUBLISH_PREDATE": "20200910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

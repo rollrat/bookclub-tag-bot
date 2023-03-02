@@ -1,0 +1,67 @@
+{
+    "otitle": "지금, 너에게 간다",
+    "oauthor": "박성진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 너에게 간다",
+                "link": "https://search.shopping.naver.com/book/catalog/32436253960",
+                "image": "https://shopping-phinf.pstatic.net/main_3243625/32436253960.20220527043300.jpg",
+                "author": "사란",
+                "discount": "0",
+                "publisher": "선",
+                "pubdate": "20130906",
+                "isbn": "9788997875436",
+                "description": "사란 장편소설 『지금 너에게 간다』. 단 한 번의 첫 사랑에 마음을 여는 방법을 잊어버린 여자 민하율. 스스로 원하지 않았지만 세컨드의 아들이라는 굴레를 뒤집어 쓰고 산 정현원. 두 사람에게 결혼은 또 다른 기회였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "도서출판 선",
+                "DDC": "",
+                "UPDATE_DATE": "20131206",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "사란",
+                "SERIES_TITLE": "Sunbooks Romance Story",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997875436",
+                "INPUT_DATE": "20131206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "지금 너에게 간다 ",
+                "PUBLISH_PREDATE": "20130906",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

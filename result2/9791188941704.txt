@@ -1,0 +1,67 @@
+{
+    "otitle": "외식의 역사",
+    "oauthor": "윌리엄 시트웰 저/문희경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "외식의 역사 (음식에 인생을 바친 사람들의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482010573",
+                "image": "https://shopping-phinf.pstatic.net/main_3248201/32482010573.20230218110535.jpg",
+                "author": "윌리엄 시트웰",
+                "discount": "24200",
+                "publisher": "소소의책",
+                "pubdate": "20220222",
+                "isbn": "9791188941704",
+                "description": "로마 제국의 술집에서부터 최근의 채식주의 유행까지,\n외식 문화와 레스토랑에 얽힌 풍성하고 맛깔스런 이야기들\n\n외식의 다면성 속에서 음식에 인생을 바친 사람들을 만난다!\n\n오늘은 어디서 뭘 먹을까? 이것은 신체적 배고픔과는 다른 차원의 식욕에서 비롯되는 고민이다. 우리는 단지 배가 고파서 외식하러 나가지 않는다. 미슐랭 별 세 개짜리 레스토랑이나 평소에 접하지 못하는 이국적인 음식을 맛보려고 레스토랑을 찾아가는 데는 외식이라는 행위에 대한 기대감이 작용하기 때문이다. 예전에는 사람들을 만나 함께 어울리고 사업 이야기를 하고 사랑하는 사람과 데이트를 즐기고 쿠데타를 모의하기 위해 레스토랑 같은 공간에 모였다. 하지만 최근에는 다중 감각으로 맛보는 코스, 분자 요리, 채식주의 등 음식을 매개로 색다른 경험을 하거나 정서를 자극하는 수준에까지 이르렀다. 이렇듯 시대에 따라, 지역에 따라 끊임없이 변화하고 발전하는 외식의 다면성을 짚어보고, 그러한 흐름을 주도한 사람들의 이야기가 이 책에서 생생하게 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "",
+                "UPDATE_DATE": "20220223",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윌리엄 시트웰 지음 ;문희경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "164*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "310 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188941704",
+                "INPUT_DATE": "20211228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "외식의 역사",
+                "PUBLISH_PREDATE": "20220222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

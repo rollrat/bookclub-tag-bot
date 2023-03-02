@@ -1,0 +1,67 @@
+{
+    "otitle": "직장보다 직업",
+    "oauthor": "박기선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "직장보다 직업 (멋진 출발이 아니어도 좋다 평생 할 일을 설계하자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492201220",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492201220.20221228072748.jpg",
+                "author": "박기선",
+                "discount": "11700",
+                "publisher": "리즈앤북",
+                "pubdate": "20170703",
+                "isbn": "9791186349656",
+                "description": "취업 전문가로서 오랫동안 학생들을 접해온 저자는, 학생들이 직업을 선택하는 기준이 잘못되어 있다고 지적한다. 대기업이나 공기업에 들어가기 위해 졸업을 연기하며 스펙 쌓기에 여념이 없는 학생들도 안타깝지만, 안정적이라는 이유로 공무원시험에 매달리는 청춘도 안타깝다고 말한다. 저성장시대, 고용 없는 성장으로 총성 없는 전쟁인 된 취업시장에서 젊은이들은 직업의 우선순위를 무엇보다 ‘안전’에 두기 때문이다. 저자는 이렇게 불확실한 미래에 대한 불안으로 진로에 대해 고민하는 젊은이들이 각자 자신만의 삶의 방식으로 인생을 살아가길 바라는 마음에서 『직장보다 직업』을 집필하게 되었다고 한다. 언제까지나 부모의 도움이나 선배의 조언, 친구의 권유로 살아갈 수는 없기 때문이다. \n\n이 책은 총 5장으로 구성되어 있으며 1장은 지금 우리가 처한 현실을 제대로 인식하자는 이야기이며, 2장에서는 이제는 직업 위주가 아니라 라이프 중심으로 변화하자는 메시지를 담았다. 3장에서는 우리의 라이프는 갑자기 바뀌지 않고 서서히 바뀐다는 점을 강조했고, 4장은 저성장시대를 맞아 우리의 희망을 꽃피울 수 있는 방법에 대해 고민했다. 5장에서는 커리어 컨설턴트로서의 경험을 담아 나이별 라이프스타일을 소개했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리즈앤북",
+                "DDC": "",
+                "UPDATE_DATE": "20170914",
+                "EA_ADD_CODE": "13330",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박기선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "246 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186349656",
+                "INPUT_DATE": "20170616",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "직장보다 직업",
+                "PUBLISH_PREDATE": "20170703",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

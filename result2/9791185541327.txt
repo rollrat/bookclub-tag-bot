@@ -1,0 +1,67 @@
+{
+    "otitle": "최진기의 교실밖 인문학",
+    "oauthor": "최진기,서선연 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "최진기의 교실밖 인문학 (소크라테스부터 한나 아렌트까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456261618",
+                "image": "https://shopping-phinf.pstatic.net/main_3245626/32456261618.20230131162853.jpg",
+                "author": "최진기",
+                "discount": "13500",
+                "publisher": "스마트북스",
+                "pubdate": "20160229",
+                "isbn": "9791185541327",
+                "description": "최진기와 함께 하는 재미있는 인문학 수업!\n\n논술세대 자녀와 함께 읽을 수 있는 쉽고 재미있는 인문학 교양서 『최진기의 교실밖 인문학』. 다양한 인문지식이 필요한 시대, 한번쯤 꼭 읽어야 할 인문지식을 망라한 책이다. 고대 그리스 철학자 소크라테스부터 현대의 정치사상가 한나 아렌트까지, 인류 지성사에 크나큰 발자국을 남긴 사상가들의 위대한 생각을 쉽고 재미있는 스토리텔링 상황으로 소개한다. 아울러 ‘잠깐’ 코너 등을 통해 인문 지식을 다양한 사례와 함께 현실에 접목할 수 있도록 했다. 철학부터 사회학, 심리학, 역사, 정치철학, 과학철학까지, 핵심적인 사상의 흐름을 따라가면서 인문학의 기초를 튼튼히 다져보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스마트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20160307",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.smartbooks21.com",
+                "AUTHOR": "최진기, 서선연",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "크라운변형판(170*225)",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "264",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185541327",
+                "INPUT_DATE": "20160207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "최진기의 교실밖 인문학",
+                "PUBLISH_PREDATE": "20160229",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

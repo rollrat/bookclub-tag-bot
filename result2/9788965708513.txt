@@ -1,0 +1,67 @@
+{
+    "otitle": "3분만 바라보면 눈이 좋아진다",
+    "oauthor": "히라마쓰 루이 저/김소영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "3분만 바라보면 눈이 좋아진다 (전 세계를 발칵 뒤집은 기적의 ’눈 그림’)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491518266",
+                "image": "https://shopping-phinf.pstatic.net/main_3249151/32491518266.20230218110527.jpg",
+                "author": "히라마쓰 루이",
+                "discount": "11520",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20190902",
+                "isbn": "9788965708513",
+                "description": "하루 3분, 시력을 개선하고 뇌를 단련하는 훈련법!\n\n노벨물리학상 수상자 데니스 가보르 박사가 발명해낸 가보르 패치를 이용해 안구와 뇌를 동시에 훈련하는 방법인 가보르 아이 트레이닝. 야구 선수들이 하는 시력훈련법 중 하나로, 미국 캘리포니아 대학교에서 직접 실험을 통해 과학적으로 효과를 입증한 유일한 시력 개선법으로 유명하다.\n\n『3분만 바라보면 눈이 좋아진다』에는 총 28개의 가보르 패치 시트가 수록되어 있다. 순서에 상관없이 해보고 싶은 시트를 사용해 트레이닝을 진행하면 된다. 같은 모양의 줄무늬를 짝지어 찾으면 되는 간단한 방식이기 때문에 게임하듯이 즐기며 해볼 수 있다. 패치를 사용한 가보르 아이 트레이닝 외에도 핫 아이, 원근 스트레칭, 운무법 등의 시력 개선법도 함께 소개해 놀라운 효과를 직접 경험할 수 있도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20190902",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "히라마쓰 루이 지음 ;김소영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "515.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "123 p.",
+                "CONTROL_NO": "CIP2019030447",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965708513",
+                "INPUT_DATE": "20190805",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "3분만 바라보면 눈이 좋아진다",
+                "PUBLISH_PREDATE": "20190902",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

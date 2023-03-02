@@ -1,0 +1,67 @@
+{
+    "otitle": "미쓰리즘 1",
+    "oauthor": "이보람 글,그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미쓰리즘 1 (밋밋한 일상에 끼얹은 요망 한 바가지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505144464",
+                "image": "https://shopping-phinf.pstatic.net/main_3250514/32505144464.20221019151814.jpg",
+                "author": "이보람",
+                "discount": "10800",
+                "publisher": "북로드",
+                "pubdate": "20141107",
+                "isbn": "9791185051772",
+                "description": "《미쓰리즘》(전2권)은 네이버 만화의 이보람 작가가 베스트 도전에 공개했던 ‘퀴퀴한 일기’의 새 연재물과 채널예스에 실었던 ‘19번지로 놀러오세요’, 그리고 새롭게 그린 ‘19MHz’를 더해 ‘미쓰리의 모든 것’을 보여준다. 총 2권으로 분권되어 있으며, 각권은 ‘퀴퀴한 일기’와 ‘19번지로 놀러오세요’를 묶어 재구성한 《퀴퀴한 일기》와 청춘상담 《19Mhz》로 구성되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로드",
+                "DDC": "",
+                "UPDATE_DATE": "20150721",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "글·그림: 이보람",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185051796",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185051772",
+                "INPUT_DATE": "20150119",
+                "SET_EXPRESSION": "(세트)",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "미쓰리즘",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "03810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

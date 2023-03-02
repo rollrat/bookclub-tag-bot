@@ -1,0 +1,67 @@
+{
+    "otitle": "고급스럽게 즐기는 일본 가정식",
+    "oauthor": "이동기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고급스럽게 즐기는 일본 가정식 (담백하고 깔끔한 맛을 담은 일본 가정 요리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436124532",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436124532.20221229072614.jpg",
+                "author": "이동기",
+                "discount": "15300",
+                "publisher": "북스고",
+                "pubdate": "20190628",
+                "isbn": "9791189612290",
+                "description": "요즘 일본 가정식이나 일본 요리에 대한 수요가 높다. 일본 요리는 우리나라와 사용하는 식재료가 비슷할 뿐만 아니라 재료 본연의 맛을 느낄 수 있도록 조리하기에 건강한 요리라는 인식이 높아졌기 때문이다. 일본 요리는 다양한 식재료를 이용하여 맛을 내지만, 향신료나 자극적인 맛 대신 재료의 맛에 집중하는 조리법을 사용한다. 『고급스럽게 즐기는 일본 가정식』은 기존의 일본 가정식과 달리 좀 더 고급스럽게 즐길 수 있는 레시피로 구성하였다. 일본 반찬이나 덮밥 등의 간단한 일본 요리뿐만 아니라 실제 손님을 접대하거나 격식이 필요한 자리에서 먹을 수 있는 일본 가정 요리를 담았다. 쯔께다시, 국물 요리, 식사, 구이와 조림, 튀김, 후식 순으로 정리하여 일본 요리의 진수를 맛볼 수 있도록 하였다. 또한 일본 요리의 기본이 되는 다시와 소스, 베이스를 만들고, 생선을 손질하고 보관하는 방법, 상황에 맞는 일본 요리 한 상 구성까지 한 차원 놓은 일본 가정 요리를 선보이고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "",
+                "UPDATE_DATE": "20190710",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.booksgo.co.kr",
+                "AUTHOR": "이동기 지음",
+                "SERIES_TITLE": "",
+                "KDC": "594.523",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "205 p.",
+                "CONTROL_NO": "CIP2019024395",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189612290",
+                "INPUT_DATE": "20190621",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(고급스럽게 즐기는) 일본 가정식",
+                "PUBLISH_PREDATE": "20190628",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

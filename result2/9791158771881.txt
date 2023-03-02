@@ -1,0 +1,67 @@
+{
+    "otitle": "영어 그림책, 하브루타가 말을 걸다",
+    "oauthor": "이영은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영어 그림책, 하브루타가 말을 걸다 (엄마와 아이가 행복해지고 영어가 재밌어지는 독서법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492657061",
+                "image": "https://shopping-phinf.pstatic.net/main_3249265/32492657061.20221229072716.jpg",
+                "author": "이영은",
+                "discount": "11700",
+                "publisher": "바이북스",
+                "pubdate": "20200905",
+                "isbn": "9791158771881",
+                "description": "엄마와 아이가 행복해지고 영어가 재밌어지는 독서법. 수년간 어린이 영어교사로 일을 하면서 천 명 가까운 아이들을 만난 저자 이영은이, 엄마도 아이도 행복하고 즐겁게 영어를 하는 방법을 담은 《영어 그림책, 하브루타가 말을 걸다》를 세상에 내놓는다. 육아 스트레스로 저자도 아이들도 힘겹던 시간을 탈출하는 길은 그림책 속에 있었다. 그 경험이 아이와 함께 영어 그림책을 읽고 하브루타 하는 것으로 발전했다. 영어 그림책 하브루타를 통해 엄마와 아이가 공감하고 위로를 받을 수 있다. 아이와 좋은 추억을 쌓고 영어를 좋아하게 만들어주자!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20201013",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이영은 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "221 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158771881",
+                "INPUT_DATE": "20200818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "영어 그림책, 하브루타가 말을 걸다",
+                "PUBLISH_PREDATE": "20200905",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

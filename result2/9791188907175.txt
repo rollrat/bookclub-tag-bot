@@ -1,0 +1,67 @@
+{
+    "otitle": "젊은 음악가를 위한 슈만의 조언",
+    "oauthor": "스티븐 이설리스 편집 및 해설/정세진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "젊은 음악가를 위한 슈만의 조언",
+                "link": "https://search.shopping.naver.com/book/catalog/32444955388",
+                "image": "https://shopping-phinf.pstatic.net/main_3244495/32444955388.20221230074328.jpg",
+                "author": "슈만 (Robert Schumann)",
+                "discount": "11700",
+                "publisher": "클",
+                "pubdate": "20180615",
+                "isbn": "9791188907175",
+                "description": "낭만주의 음악의 거장 로베르트 슈만이 젊은 음악가들에게 보내는 진심어린 조언을 영국 출신의 세계적인 첼리스트 스티븐 이설리스가 자신의 해설을 덧붙여 새롭게 엮었다. 이설리스 특유의 재치 있는 유머와 진솔한 음악 이야기로 재미를 더했으며, KBS 클래식 FM의 대표적인 프로그램인 '노래의 날개 위에'를 오랫동안 진행해온 정세진 아나운서가 번역했다.\n\n\n\n이 글은 원래 슈만이 1849년에 피아노 작품집 '어린이를 위한 앨범'과 함께 발표하려고 쓴 것으로, 200여 년이 지난 오늘날에도 음악가들 사이에서 널리 읽히고 있다. 슈만은 그가 만든 음악 잡지인 &lt;음악 신보&gt; 등에 글을 쓰는 등 글쓰기에도 재능을 보였는데, 음악에 대한 섬세하고 깊이 있는 통찰이 돋보이는 이 글에서도 천재적 면모를 엿볼 수 있다.\n\n\n\n이설리스는 슈만의 글들을 모아 ‘연주에 관하여’ ‘연습에 관하여’ ‘작곡에 관하여’ 등의 주제로 재구성하고 각각의 글에 해설을 달았다. 오늘날 독자들의 정서에 맞춰 쉽게 풀어 쓴 해설에서 30여 년 동안 활발하게 공연을 해온 음악가의 생생한 경험이 빛을 발한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "780.2",
+                "UPDATE_DATE": "20180621",
+                "EA_ADD_CODE": "02670",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "스티븐 이설리스 편집 및 해설 ;정세진 번역",
+                "SERIES_TITLE": "",
+                "KDC": "670.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6670874_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20180615",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*165",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "16,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "179 p.",
+                "CONTROL_NO": "CIP2018015462",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188907175",
+                "INPUT_DATE": "20180517",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "젊은 음악가를 위한 슈만의 조언",
+                "PUBLISH_PREDATE": "20180615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "백년 건강의 비밀",
+    "oauthor": "김충웅 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "백년 건강의 비밀 (생활습관 바꾸면 건강이 보인다 | 아프지 않고 장수하는 100세 인생의 힘!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436125413",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436125413.20221229072651.jpg",
+                "author": "김충웅",
+                "discount": "13500",
+                "publisher": "중앙생활사",
+                "pubdate": "20190620",
+                "isbn": "9788961412377",
+                "description": "* 생활습관 바꾸면 건강이 보인다! \n* 위암, 대장암을 완치한 저자의 유익하고 생생한 건강 상식! \n\n3기의 다른 두 가지 암(위암, 대장암)을 극복한 파란만장한 이력의 소유자인 저자가 백세시대를 위한 유익하고 생생한 건강 상식을 알려준다. 조심해야 할 질환의 특징과 원인, 특이한 증상과 예방 및 치료는 물론 무병장수를 위한 13가지 건강 꿀팁, 장수시대에 따른 의료비 증가와 대안, 그리고 13가지 암 예방법을 알기 쉽게 소개한다. 또한 백세시대에 아프지 않고 건강하게 오래 살려면 어떻게 준비해야 하는지를 사례를 들면서 상세히 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙생활사",
+                "DDC": "",
+                "UPDATE_DATE": "20190726",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "김충웅 지음",
+                "SERIES_TITLE": "",
+                "KDC": "517.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/27/9788961412377.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "270 p.",
+                "CONTROL_NO": "CIP2019020969",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961412377",
+                "INPUT_DATE": "20190527",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "백년 건강의 비밀",
+                "PUBLISH_PREDATE": "20190620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

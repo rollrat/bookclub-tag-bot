@@ -1,0 +1,67 @@
+{
+    "otitle": "매일 먹는 우리 아이 밥상",
+    "oauthor": "이미경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "매일 먹는 우리 아이 밥상 (초보 엄마도 쉽게 만드는 아이 요리 레시피 119)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494087211",
+                "image": "https://shopping-phinf.pstatic.net/main_3249408/32494087211.20221229071743.jpg",
+                "author": "이미경",
+                "discount": "13320",
+                "publisher": "상상출판",
+                "pubdate": "20201124",
+                "isbn": "9791190938150",
+                "description": "집밥과 간식만큼은 직접 만들어주고 싶은 \n초보 엄마를 위한 아이 요리 책!\n\n이 책은 과거 많은 사랑을 받은 『아이요리』의 개정판으로, 보기 쉬운 구성으로 다시 출간됐다. 성장기의 아이들은 잘 먹어야 하지만, ‘어린이 입맛’이라는 표현이 있듯 아이들이 좋아하는 음식 중에는 건강하지 않은 식재료가 많은 것이 사실이다. 또한 요즘은 하루 한두 끼는 어린이집이나 학교에서 급식을 먹기 때문에, 집에서 먹는 아이 요리 만큼은 더 신경 써주고 싶은 엄마들이 많다.\n『매일 먹는 우리 아이 밥상』은 엄마들이 먹이고 싶은 영양 만점 재료들로 아이가 좋아하는  음식을 후다닥 만들어내는, 아이와 엄마 모두를 위한 요리책이다. 쉽고, 맛있고, 건강한 119가지의 착한 음식들을 한 권에 담았다.\n조미료를 넣지 않은 간장 떡볶이, 먹고 나면 속이 편한 채소 자장면, 기름진 재료 대신 샐러드를 얹은 샐러드 피자, 초콜릿 아이스크림 등 아이들이 좋아하는 요리와 엄마가 만든 육포, 견과류 누룽지, 토마토 볶음밥, 두부 피자, 콩가루말이밥 등 건강 식재료로 만든 별미 요리로 구성했다. 또한 아이들과 함께 만들면 좋은 캐릭터 도시락이나 소풍 도시락, 생일 파티 메뉴도 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20201125",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이미경 글과 요리",
+                "SERIES_TITLE": "",
+                "KDC": "594.62",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*254",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215 p.",
+                "CONTROL_NO": "CIP2020047533",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190938150",
+                "INPUT_DATE": "20201104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(매일 먹는) 우리 아이 밥상",
+                "PUBLISH_PREDATE": "20201124",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

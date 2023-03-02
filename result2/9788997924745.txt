@@ -1,0 +1,67 @@
+{
+    "otitle": "백견불여일타 머신러닝 데이터 전처리 입문",
+    "oauthor": "아다치 하루카 저/김태현 역/조휘용 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "백견불여일타 머신러닝 데이터 전처리 입문 (실습하며 배우는 데이터 전처리 입문서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482009771",
+                "image": "https://shopping-phinf.pstatic.net/main_3248200/32482009771.20221230074550.jpg",
+                "author": "아다치 하루카",
+                "discount": "22500",
+                "publisher": "로드북",
+                "pubdate": "20200921",
+                "isbn": "9788997924745",
+                "description": "이 책은 인공지능이 올바른 데이터를 입력 받아 의미 있는 결과를 도출하는 과정에서 필수적으로 거쳐야 할 데이터 전처리에 관한 ‘입문서’이다. 정형 데이터뿐만 아니라 이미지, 텍스트 데이터와 같은 비정형 데이터를 다루는 방법을 제공한다. 데이터를 처리하고 분석하기 위해 가장 많이 사용되는 파이썬 언어를 사용하고, NumPy, Pandas 등 라이브러리를 통해 어떠한 방법으로 데이터를 시각화하고, 의미를 도출할 수 있는지를 자세하게 배울 수 있다. 실습 위주의 책이며, 파이썬을 조금만 알아도 누구나 쉽게 따라해보면서 데이터 전처리의 개념과 방법 등에 관한 기초지식을 충분히 습득할 수 있다. 이것을 기초로 스스로 데이터 전처리 전문가가 되는 길을 찾을 수 있을 것이다.\n\n[샘플원고] www.roadbook.co.kr/244\n\n_대상 독자\n머신러닝이나 딥러닝을 학습하고 실무에서 모델을 작성해보고자 하는 입문자\n인공지능 개발자가 되기 위해 고군분투 중인 취준생 개발자"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20210215",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "아다치 하루카 지음 ;김태현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924745",
+                "INPUT_DATE": "20200907",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "머신러닝 데이터 전처리 입문",
+                "PUBLISH_PREDATE": "20200921",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

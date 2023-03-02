@@ -1,0 +1,67 @@
+{
+    "otitle": "블러, 오아시스",
+    "oauthor": "이경준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "블러, 오아시스",
+                "link": "https://search.shopping.naver.com/book/catalog/32489621939",
+                "image": "https://shopping-phinf.pstatic.net/main_3248962/32489621939.20221019120817.jpg",
+                "author": "이경준",
+                "discount": "14400",
+                "publisher": "산디",
+                "pubdate": "20200904",
+                "isbn": "9791190271080",
+                "description": "브릿팝의 두 불꽃,\n블러 오아시스 연대기\n\n그 전쟁은 1990년대 초반부터 시작되었다. 블러가 먼저 나타나 불을 피웠고, 곧 오아시스가 매서운 추격에 돌입했다. 그 밖에 펄프, 스웨이드, 버브 같은 밴드가 참여해 판을 키워놓았다. 이는 영국 팝 시장에서 벌어진 일이었지만, 곧 세계가 열광하는 전시장이 되었다. 이러한 흐름을 브릿팝이라고 부른다. 영국의 여러 음악가가 훌륭한 작품을 공격적으로 쏟아내 미디어를 장악한 시절의 이야기다.\n\n이 책은 브릿팝의 두 불꽃, 블러와 오아시스의 활동을 추적한다. 두 그룹이 각각 어떤 배경에서 데뷔를 하고 주목을 받으며 라이벌 구도를 형성해 성과를 거두었는지를 살펴본다. 이것은 블러와 오아시스의 활동 일대기인 동시에 1990년대 브릿팝의 연대기다. 1960~1970년대 비틀스와 롤링 스톤스 이후 가장 치열하게 다툰 두 음악가를 통해 영국 팝 음악이 빛나던 마지막 순간을 돌아보는 것이다.\n\n1990년 블러는 첫 싱글 〈She’s So High〉를 발표했다. 1994년에는 오아시스의 데뷔 음반 《Definitely Maybe》이 나왔다. 오아시스의 갤러거 형제가 늘 허세와 욕설로 말잔치를 벌이는 동안 블러의 데이먼 알반은 1997년 “브릿팝은 죽었다”고 냉소적으로 선언했다. 그 전쟁으로 그들은 무엇을 얻고 잃었을까. 결국 남은 것은 작품이다. 이만큼 시간이 흘렀어도 돌아볼 가치가 충분한 좋은 노래와 음반이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산디",
+                "DDC": "",
+                "UPDATE_DATE": "20200915",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이경준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "673.53",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/06/9791190271080.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "125*185",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "CIP2020032849",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190271080",
+                "INPUT_DATE": "20200806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "블러, 오아시스",
+                "PUBLISH_PREDATE": "20200904",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

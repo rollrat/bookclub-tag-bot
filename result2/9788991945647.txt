@@ -1,0 +1,67 @@
+{
+    "otitle": "과학문화유산답사기 1 조선왕릉 편",
+    "oauthor": "이종호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학문화유산답사기 1: 조선 왕릉 편",
+                "link": "https://search.shopping.naver.com/book/catalog/32504670057",
+                "image": "https://shopping-phinf.pstatic.net/main_3250467/32504670057.20221019114643.jpg",
+                "author": "이종호",
+                "discount": "17100",
+                "publisher": "북카라반",
+                "pubdate": "20140516",
+                "isbn": "9788991945647",
+                "description": "『역사로 여는 과학문화유산답사기』 제1권 《조선 왕릉 편》. 문화유산은 나라의 지역, 민족 특유의 역사와 문화, 과학이 담겨있다. 이 책에서는 한 왕조가 500년 이상 이어졌음에도 훼손없이 남아있는 조선왕조의 왕릉을 소개하고 그 안에 담긴 의미를 풀어내었다. 산재한 40개의 능을 답사의 편의성을 고려해 4구역으로 나누었고, 동일 구역 내에 있는 추존, 왕비, 계비의 왕릉도 함께 다루었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문화유람",
+                "DDC": "951.9",
+                "UPDATE_DATE": "20140902",
+                "EA_ADD_CODE": "04910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이종호",
+                "SERIES_TITLE": "역사로 여는 과학문화유산답사기",
+                "KDC": "911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3531287_3.jpg",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3531287_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014014203",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991945647",
+                "INPUT_DATE": "20140425",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "역사로 여는 과학문화유산답사기 1. 조선 왕릉 편",
+                "PUBLISH_PREDATE": "20140512",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

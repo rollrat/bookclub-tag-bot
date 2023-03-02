@@ -1,0 +1,67 @@
+{
+    "otitle": "세계 지도는 어떻게 완성되었을까?",
+    "oauthor": "조지프 제이콥스 글/김곰 그림/김희정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계 지도는 어떻게 완성되었을까? (탐험과 지도로 쓴 세계사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454323661",
+                "image": "https://shopping-phinf.pstatic.net/main_3245432/32454323661.20221019110757.jpg",
+                "author": "조지프 제이콥스",
+                "discount": "11700",
+                "publisher": "행성B아이들",
+                "pubdate": "20170630",
+                "isbn": "9791187525455",
+                "description": "세상은 어떻게 발견되었을까? 세계 지도는 어떻게 만들어져 왔을까? 그리고 그것은 누가 만든 것일까? 『세계 지도는 어떻게 완성되었을까?』는 이런 질문으로부터 출발한다. 고대 사람들은 자기가 사는 곳을 제대로 알기 위해 지도를 만들어 왔다. 하지만 거기에서 그치지 않았다. 한발 더 나아가 다른 나라를 정복하거나 그들과 교역하기 위해 다른 세상을 발견하려는 과정에서 끊임없이 새로운 지도를 만들어 왔다. 사람들이 세상을 왜 발견하려 했고, 지금의 세계 지도를 어떻게 완성해 왔는가를 살펴보면 인류 전체의 역사를 알 수 있게 된다. 이를 세계사에서는 ‘지리상의 발견’이라고 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "행성B아이들 :행성비",
+                "DDC": "",
+                "UPDATE_DATE": "20170711",
+                "EA_ADD_CODE": "73980",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "조지프 제이콥스 지음 ;김희정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "989",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6246050_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6246050_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "194 p.",
+                "CONTROL_NO": "CIP2017013799",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187525455",
+                "INPUT_DATE": "20170609",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "세계 지도는 어떻게 완성되었을까?",
+                "PUBLISH_PREDATE": "20170630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

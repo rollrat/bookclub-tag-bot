@@ -1,0 +1,78 @@
+{
+    "otitle": "아들러의 감정수업",
+    "oauthor": "게리 D. 맥케이,돈 딩크마이어 공저/김유광 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:10 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "아들러의 감정수업 (내 마음의 주인으로 살기 위한 감정 선택 훈련)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483329113",
+                "image": "https://shopping-phinf.pstatic.net/main_3248332/32483329113.20221019105148.jpg",
+                "author": "게리 D. 맥케이^Don Dinkmeyer",
+                "discount": "14220",
+                "publisher": "시목",
+                "pubdate": "20170914",
+                "isbn": "9791187292722",
+                "description": "《아들러의 감정 수업》은 현대인들에게 가장 문제되는 분노, 우울, 불안, 죄책감 등의 감정이 가지는 목적을 밝히고, 그 목적과 감정을 수동적으로 따를 것인지 아니면 건설적이고 행복한 삶을 위해 새로운 목적과 감정을 선택할 것인지 독자들에게 물음을 던진다. 나의 감정 표현법 체크하기, 트라우마 재해석하기, 내가 화를 냈던 목적 알아보기, 화내지 않는 연습 실천해보기, 우울증 자가 진단, 죄책감 극복하기, 불안을 극복하는 문장 필사하기, 행복해지는 방법 실천하기, 스트레스 자기평가 해보기, 내 장점 찾아보기, 최근에 겪었던 갈등 되짚어보기 등. 각 파트마다 나오는 ‘오늘의 감정 수업’은 책 속의 이론들을 자신의 마음과 삶에 효과적으로 적용하도록 도와주는 실용적인 길라잡이가 되어 줄 것이다."
+            },
+            {
+                "title": "나는 더 이상 착하게만 살지 않기로 했다 (매일매일 상처받는 당신을 위한 아들러의 감정수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506909838",
+                "image": "https://shopping-phinf.pstatic.net/main_3250690/32506909838.20221019104952.jpg",
+                "author": "이와이 도시노리",
+                "discount": "11700",
+                "publisher": "다산 3.0",
+                "pubdate": "20150827",
+                "isbn": "9791130606101",
+                "description": "모두의 호감을 산다는 것은 환상이고, 모두의 미움을 받는다는 것은 망상이다!\n\n『나는 더 이상 착하게만 살지 않기로 했다』는 30년 간 상담을 통해 저자가 직접 경험한 아들러 심리학의 실천편이다. ‘모든 고민은 인간관계에서 비롯된다’고 보는 아들러 심리학을 바탕으로, 단순히 마음과 생각의 관점을 바꾸는 것만으로도 실제 인간관계에 변화가 찾아올 수 있음을 보여준다. 저자의 상담 체험이 뒷받침된 실제 생활에서의 실천방법을 담고 있다. \n\n이 책은 우선 인간관계에 대한 사고의 밑바탕으로 인간관계는 자신의 힘으로 바꿀 수 있고, 인간관계를 바꾸려면 ‘용기’부터 가져야 하며, 인간관계를 악화시키지 않으려면 감정 조절이 필요하다고 말한다. 그리고 한층 실천적인 사항으로 사람과의 거리를 좁히는 아들러 심리학 방식의 커뮤니케이션, 습관으로 인간관계를 바꾸는 비결 등을 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시목 :북로그컴퍼니",
+                "DDC": "152.4",
+                "UPDATE_DATE": "20170929",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "게리 D. 맥케이,돈 딩크마이어 지음 ;김유광 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6348315_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6348315_3.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6348315_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "359 p.",
+                "CONTROL_NO": "CIP2017023079",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187292722",
+                "INPUT_DATE": "20170830",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "아들러의 감정 수업",
+                "PUBLISH_PREDATE": "20170914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

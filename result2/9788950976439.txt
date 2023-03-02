@@ -1,0 +1,67 @@
+{
+    "otitle": "공부호르몬",
+    "oauthor": "박민수,박민근 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공부호르몬 (습관과 의지를 지배하는 호르몬을 알면 ‘공부의 길’이 보인다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454981800",
+                "image": "https://shopping-phinf.pstatic.net/main_3245498/32454981800.20221227203832.jpg",
+                "author": "박민수^박민근",
+                "discount": "13500",
+                "publisher": "21세기북스",
+                "pubdate": "20180731",
+                "isbn": "9788950976439",
+                "description": "당신의 공부법에 근본적인 변화가 필요하다\n중독을 몰입으로 바꾸는 호르몬의 비밀\n\n공부할 때 우리의 뇌에서는 여러 호르몬이 분비된다. 그중 세로토닌, 도파민, 옥시토신과 같은 몇 가지 중요 호르몬은 학습에 지대한 영향을 미친다. 우리는 이러한 몇 가지 주요 학습 관여 호르몬을 통칭해 공부호르몬이라고 부른다. 공부는 뇌에 공급되는 충분한 영양, 긍정적 태도와 마음가짐, 생활 습관 같은 요소들이 유기적으로 결합돼 만드는 ‘호르몬 믹스’에 의해 지속된다. 각 요소의 최적 지점만 알면 누구나 최상의 호르몬 믹스 상태를 유지할 수 있다. 이를 조화롭게 운영하는 것이 바로 공부호르몬 기반 학습이다. 이 책은 최상의 공부 상태를 유지할 수 있는 공부호르몬의 최적 지점부터 구체적인 스터디 계획표까지 공부호르몬을 깨우기 위한 실제적인 기술을 안내한다.\n\n저자들은 사람들이 누구나 성능 좋은 두뇌를 가지고 태어난다고 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스",
+                "DDC": "",
+                "UPDATE_DATE": "20180829",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "박민수,박민근 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950976439",
+                "INPUT_DATE": "20180731",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "공부호르몬",
+                "PUBLISH_PREDATE": "20180730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

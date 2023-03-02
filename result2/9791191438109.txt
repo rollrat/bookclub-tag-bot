@@ -1,0 +1,67 @@
+{
+    "otitle": "조선의 살림하는 남자들",
+    "oauthor": "정창권 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조선의 살림하는 남자들 (조선 시대 남자들의 집안 살림 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490302920",
+                "image": "https://shopping-phinf.pstatic.net/main_3249030/32490302920.20221019143426.jpg",
+                "author": "정창권",
+                "discount": "12960",
+                "publisher": "돌베개",
+                "pubdate": "20210726",
+                "isbn": "9791191438109",
+                "description": "외조하는 조선 남자들\n\n조선은 철저한 남존여비 사회, 엄격한 가부장제 사회였을까? 실질 생활 속으로 들어가 조선 시대 사람들이 남긴 일기와 편지 등을 살펴보면, 우리가 미처 알지 못했던 조선 사회의 한 단면을 마주하게 된다. 살림은 주부의 일이라는 고정관념은 언제부터 생긴 것일까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "돌베개",
+                "DDC": "",
+                "UPDATE_DATE": "20210831",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "www.dolbegae.com",
+                "AUTHOR": "정창권 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/07/23/9791191438109.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191438109",
+                "INPUT_DATE": "20210723",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "조선의 살림하는 남자들",
+                "PUBLISH_PREDATE": "20210726",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

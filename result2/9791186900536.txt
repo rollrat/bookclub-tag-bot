@@ -1,0 +1,67 @@
+{
+    "otitle": "다라야의 지하 비밀 도서관",
+    "oauthor": "델핀 미누이 저/임영신 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다라야의 지하 비밀 도서관 (시리아 내전에서 총 대신 책을 들었던 젊은 저항자들의 감동 실화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476649950",
+                "image": "https://shopping-phinf.pstatic.net/main_3247664/32476649950.20221019123537.jpg",
+                "author": "델핀 미누이",
+                "discount": "12600",
+                "publisher": "더숲",
+                "pubdate": "20180627",
+                "isbn": "9791186900536",
+                "description": "독재의 포탄에 맞서 도서관을 짓다!\n\n시리아 내전의 중심 도시 다라야. 그곳에 책으로 만든 피난처인 지하 도서관에서 끊임없이 책을 읽고 강의를 열고, 대화를 나눈 청년들이 있었다. 『다라야의 지하 비밀 도서관』은 20여 년간 이슬람 지역을 다니며 중동 각국의 중요한 사회적 이슈를 취재해온 프랑스 출신의 저널리스트이자 분쟁 지역 전문기자 델핀 미누이가 2015년 페이스북에 올라온 사진 한 장으로 내전이 진행 중인 시리아 한복판에 존재하는 지하 도서관을 알게 된 후, 다라야의 강제이주가 시행된 2016년 8월까지 약 2년에 걸쳐 스카이프를 통해 청년들과 나눈 대화를 바탕으로 쓴 책이다. \n\n평범한 삶을 살고 있던 20대 청년들의 삶이 국가의 독재로 인해 무너지는 과정과 매일 벌어지는 참혹한 전쟁터에서의 고민, 모든 것이 무너지던 전쟁 속에서 학교를 다니고 친구를 만나는 평범한 삶 대신 책을 읽고 공유하며 절망의 시간을 견디는 과정, 그들이 시공간을 초월한 책을 읽으며 나눈 깊은 대화를 통해 정신적으로 고양되는 놀라운 경험을 담고 있다. 책을 통해 자유와 비폭력, 인간다운 삶을 꿈꾸며 무너지지 않기 위해, 계속되는 삶을 살아내기 위해 책을 읽었던 청년들의 이야기는 시리아 내전에 대한 살아있는 투쟁의 역사이자 기록이기도 하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더숲",
+                "DDC": "320.95691",
+                "UPDATE_DATE": "20180627",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "델핀 미누이 지음 ;임영신 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "340.9185",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6668728_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "242 p.",
+                "CONTROL_NO": "CIP2018015318",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186900536",
+                "INPUT_DATE": "20180516",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "다라야의 지하 비밀 도서관",
+                "PUBLISH_PREDATE": "20180627",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "스웨덴 기사",
+    "oauthor": "레오 페루츠 저/강명순 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스웨덴 기사 (레오 페루츠 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467508095",
+                "image": "https://shopping-phinf.pstatic.net/main_3246750/32467508095.20230131163047.jpg",
+                "author": "레오 페루츠",
+                "discount": "12420",
+                "publisher": "열린책들",
+                "pubdate": "20201130",
+                "isbn": "9788932912646",
+                "description": "우연히 만나 신분이 뒤바뀐 도둑과 귀족\n운명처럼 얽힌 두 사람의 죄와 사랑에 대한 놀라운 이야기\n독일어권 문학의 거장 레오 페루츠의 걸작 국내 초역\n\n『스웨덴 기사』는 18세기 초 유럽을 배경으로 한 페루츠의 역사적 환상 소설로 운명처럼 얽혀 신분이 뒤바뀐 도둑과 귀족의 파란만장한 이야기를 담은 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "",
+                "UPDATE_DATE": "20210111",
+                "EA_ADD_CODE": "04850",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 레오 페루츠 ;옮긴이: 강명순",
+                "SERIES_TITLE": "열린책들 세계문학",
+                "KDC": "853",
+                "EDITION_STMT": "세계문학판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788932914992",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "326 p.",
+                "CONTROL_NO": "CIP2020047758",
+                "SERIES_NO": "264",
+                "EA_ISBN": "9788932912646",
+                "INPUT_DATE": "20201110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "스웨덴 기사",
+                "PUBLISH_PREDATE": "20201130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

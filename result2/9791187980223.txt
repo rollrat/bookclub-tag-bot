@@ -1,0 +1,67 @@
+{
+    "otitle": "우연의 설계",
+    "oauthor": "뉴 사이언티스트 기획/마크 뷰캐넌 외 저/마이클 브룩스 엮은이/김성훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우연의 설계 (종의 탄생과 인공지능, 행운까지 불러들이는 우연의 과학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496646071",
+                "image": "https://shopping-phinf.pstatic.net/main_3249664/32496646071.20221019132357.jpg",
+                "author": "마이클 브룩스",
+                "discount": "14400",
+                "publisher": "반니",
+                "pubdate": "20170630",
+                "isbn": "9791187980223",
+                "description": "‘우연’이란 일정한 법칙으로 설명하기 어려운 일들, 불규칙하고 무작위적인, 의도하지 않은 일들을 뜻한다. 이 책에서는 우연이란 실제로 무엇이며, 우주가 탄생하고 지금껏 지속되는 과정에서 우연이 어떤 역할을 했는지, 우리가 ‘기적 같은 우연’이라고 믿는 일에는 어떤 힘이 작용하는지, 흔히 ‘운이 좋다’고 생각하는 사람들은 어떻게 운을 손에 넣었는지 등 우연에 대한 궁금증을 풀어간다. \n\n\n\n더불어 우연 혹은 행운이 정말 비과학적인 것인지, 우리의 인생에 도움이 되도록 우연을 활용할 수 있는 방법은 무엇인지에 대해서도 알아본다. 이언 스튜어트, 마크 뷰캐넌, 폴 데이비스 등 저명한 과학 저술가들이 이 탐험의 안내자가 되어 독자들을 흥미로운 우연의 세계로 인도한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "502",
+                "UPDATE_DATE": "20170719",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마크 뷰캐넌,그레고리 카이틴,그레이엄 로턴,닉 레인,데이비드 시가,딜런 에번스,레지나 누조,로라 스피니,로버트 매슈스,리처드 와이즈먼,밥 홈즈,블라트코 베드럴,스티븐 배터스비,아닐 아난타스와미,앤절라 사이니,이언 스튜어트,잭 코언,카트린 드 랑즈,케이트 레빌리어스,클레어 윌슨,폴 데이비스,헨리 니콜스,헬렌 톰슨 지음 ;마이클 브룩스 엮음 ;김성훈 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "404",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6254550_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6254550_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "CIP2017014742",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187980223",
+                "INPUT_DATE": "20170620",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "우연의 설계",
+                "PUBLISH_PREDATE": "20170630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

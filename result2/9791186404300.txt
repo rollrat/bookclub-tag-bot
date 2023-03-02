@@ -1,0 +1,67 @@
+{
+    "otitle": "해외직구, 10분이면 끝",
+    "oauthor": "직구팡 편집부,이종혁 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "해외직구, 10분이면 끝 (쉽고, 빠르고, 안전하게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466589793",
+                "image": "https://shopping-phinf.pstatic.net/main_3246658/32466589793.20221229072714.jpg",
+                "author": "직구팡 편집부^이종혁",
+                "discount": "10350",
+                "publisher": "팬덤북스",
+                "pubdate": "20151110",
+                "isbn": "9791186404300",
+                "description": "“아직도 백화점에서 제값 다 주고 쇼핑하니?”\n통 큰 할인의 정수, 쇼핑은 역시 해외직구가 답이다!\n\n‘해외직구’는 일단 한번 해 보면 그 늪에서 빠져나오기 힘들다고 말할 정도로 매력적이다. 가격도 국내보다 훨씬 저렴하며 상품 선택의 폭이 넓은 데다가, 쇼핑 방법도 국내 온라인 쇼핑과 크게 다르지 않기 때문이다. ‘한국판 블랙 프라이데이’까지 나올 정도로 해외직구 열풍이 불고 있지만, 막연한 두려움으로 해외직구의 문턱을 넘지 못하는 이들도 있다. 포털 사이트에 해외직구를 검색했을 때 쏟아지는 방대한 정보 탓에 ‘해외직구=복잡하고 번거로운 쇼핑’이라는 편견을 갖는 이들도 많다. \n\n《해외직구, 10분이면 끝》에는 국내 최초로 SNS를 통해 해외직구 핫딜, 할인 코드, 쇼핑 정보를 제공해 20만 명의 구독자를 보유한 ‘직구팡’의 노하우가 담겨 있다. 10분 안에 해외직구를 마칠 수 있도록 핵심 정보만 수록했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20151216",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "직구팡 편집부, 이종혁 공저 ",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "180",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186404300",
+                "INPUT_DATE": "20151026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "해외직구, 10분이면 끝 ",
+                "PUBLISH_PREDATE": "20151110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

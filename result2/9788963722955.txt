@@ -1,0 +1,67 @@
+{
+    "otitle": "올리브 가지를 든 소녀",
+    "oauthor": "박건,윤태연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "올리브 가지를 든 소녀",
+                "link": "https://search.shopping.naver.com/book/catalog/32492645432",
+                "image": "https://shopping-phinf.pstatic.net/main_3249264/32492645432.20221230071901.jpg",
+                "author": "박건^윤태연",
+                "discount": "9000",
+                "publisher": "양철북",
+                "pubdate": "20190418",
+                "isbn": "9788963722955",
+                "description": "다른 시대, 다른 장소에서 \n같은 비극을 겪는 두 소녀의 간절한 기도\n\n두 소녀가 태어났을 때는 서로 다른 전쟁이 한창이었다. \n마을이 불타고 누군가는 죽는 나날을 운명처럼 살아야 하는 팔레스타인 소녀 파라. \n아빠는 시위에서 한쪽 다리를 잃고 삶의 의욕마저 꺾였다. 오빠는 이스라엘 군인에게 아내를 잃고 복수를 꿈꾸며 집을 나간다. 가족들 걱정에 점점 야위어만 가는 엄마.\n파라는 이런 현실에 점점 숨이 막힌다. 어느 날 학교 선생님이 파라에게 건넨 책 한 권. 그건 바로 2차 세계대전 당시 독일군을 피해 지하실에 숨어 살았던 유대인 소녀 아디나가 남긴 일기였다. \n“나는 희망을 잃지 않고, 어떻게든 견뎌 가며 최선을 다해 살고 있어.”\n전쟁의 고통 속에서도 자유를 꿈꾸며 따듯함을 잃지 않았던 유대인 소녀의 일기에 파라는 다시 작은 희망의 불씨를 피우게 된다. \n과연 두 소녀의 간절한 기도가 가닿을 현실은 있는 걸까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "양철북",
+                "DDC": "",
+                "UPDATE_DATE": "20190430",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박건,윤태연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963722955",
+                "INPUT_DATE": "20190430",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "올리브 가지를 든 소녀",
+                "PUBLISH_PREDATE": "20190418",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

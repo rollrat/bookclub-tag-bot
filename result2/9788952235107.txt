@@ -1,0 +1,67 @@
+{
+    "otitle": "아무것도 하지 않으면 아무 일도 일어나지 않는다",
+    "oauthor": "기시미 이치로 저/전경아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무것도 하지 않으면 아무 일도 일어나지 않는다 (인생의 판을 뒤집는 아들러의 가르침)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438183671",
+                "image": "https://shopping-phinf.pstatic.net/main_3243818/32438183671.20230214162243.jpg",
+                "author": "기시미 이치로",
+                "discount": "11700",
+                "publisher": "살림",
+                "pubdate": "20161005",
+                "isbn": "9788952235107",
+                "description": "삶은 타고난 대로 사는 것이 아니라 마음먹은 대로 사는 것이다!\n\n2016년 일본 NHK에서 기시미 이치로가 직접 강연한 ‘100분의 명저 《인생의 의미의 심리학》’ 편이 방송되면서 일본에서는 다시 한 번 ‘아들러 심리학’ 열풍이 일었다. 《미움받을 용기》 이후 아들러 심리학에 관해 수많은 책이 쏟아져 나왔지만, 사실 아들러 심리학은 겉보기엔 간명해 보여도 대중이 이해하기에는 매우 난해한 이론이다. 그런데 이 강연에서 기시미 이치로가 직접 이론의 난해함을 걷어내고 피부로 느껴지도록 설명해주면서 비로소 아들러 심리학을 실천할 수 있게 됐다는 평이 쏟아졌다.\n\n『아무것도 하지 않으면 아무 일도 일어나지 않는다』는 실제 강연 내용을 담은 책으로, 마치 현장에 있는 듯 생생함을 느낄 수 있으며 멀게만 느껴졌던 아들러 심리학을 손에 잡힐 듯이 이해할 수 있도록 돕는다. 그래서 ‘가장 쉽고, 명확하게 아들러 심리학을 이해하고 실천하게 해주는 책’이라 하는 것이다. \n\n기시미 이치로가 이 책을 통해 다루고 있는 아들러의 저서 《인생의 의미의 심리학》은 과거의 기억, 타고난 성격, 주어진 환경 때문에 앞으로 나아가지 못 하는 사람들, 특히 이 시대 청춘들의 마음을 꿰뚫어보듯 뜨끔하게 일깨우는 지침들을 담고 있다. 자신이 잘 안 되는 이유를 아들러식 ‘역전의 발상’으로 뒤집어 생각한다면, 오늘의 나를 바꾸어 나의 내일을 달라지게 만드는 힘을 얻을 수 있을 것이다. 더 나아가 지나간 나의 과거까지 바꿀 수 있는 그 역전의 용기가 바로 이 책에 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "158",
+                "UPDATE_DATE": "20161017",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "기시미 이치로",
+                "SERIES_TITLE": "",
+                "KDC": "189",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5762719_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5762719_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "216",
+                "CONTROL_NO": "CIP2016022668",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952235107",
+                "INPUT_DATE": "20160919",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "아무것도 하지 않으면 아무 일도 일어나지 않는다",
+                "PUBLISH_PREDATE": "20161005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

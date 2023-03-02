@@ -1,0 +1,67 @@
+{
+    "otitle": "피터 래빗 시리즈 전집",
+    "oauthor": "베아트릭스 포터 저/윤후남 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "피터 래빗 시리즈 전집",
+                "link": "https://search.shopping.naver.com/book/catalog/32441655363",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441655363.20230218110616.jpg",
+                "author": "베아트릭스 포터",
+                "discount": "12100",
+                "publisher": "현대지성",
+                "pubdate": "20150713",
+                "isbn": "9791195329335",
+                "description": "1902년 초판 출간 후 전 세계 1억 5천만 부 이상 판매, 30개 언어로 출간된 어른, 아이 모두를 위한 세기의 동화 '피터 래빗' 시리즈를 한 권으로 엮어 출간하였다. 시리즈 본편 23편, 베아트릭스의 미출간작 4편이 수록되어 있다. \n\n\n\n책 안에는 100년도 더 전에 그린 그림들이라고는 믿기지 않는 매력적이고 사랑스러운 그림들이 한가득 담겨 있다. 피터 래빗 시리즈는 단순히 그림만 예쁜 그림 동화가 아니다. 각 이야기들은 단순한 듯하면서도 그 안에 해학이 있고, 의인화된 동물들은 사람들이 사는 현실 세계의 모습을 잘 반영하고 있어 어린이에게는 물론이거니와, 어른을 위한 동화로도 더없는 즐거움을 선사한다. \n\n\n\n적절히 큰 사이즈를 채택하여, 그림들을 최대한 크고 예쁘게 담고자 했다. 또한 책에 담긴 '작가 소개', 영국에서 유학한 번역가 윤후남의 상세한 '역자 해설', 그리고 각 편마다 본문 시작에 앞서 실려 있는 이야기 소개 글은 베아트릭스 포터와 그녀의 작품들을 이해하는데 도움을 주고, 읽는 즐거움을 더해 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20150723",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "베아트릭스 포터",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791195329304",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195329335",
+                "INPUT_DATE": "20150612",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "피터 래빗 시리즈 전집",
+                "PUBLISH_PREDATE": "20150713",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "무엇이 최고의 조직을 만드는가",
+    "oauthor": "한근태 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "무엇이 최고의 조직을 만드는가 (기업의 미래를 좌우하는 조직문화의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/33442414619",
+                "image": "https://shopping-phinf.pstatic.net/main_3344241/33442414619.20230223071228.jpg",
+                "author": "한근태",
+                "discount": "12600",
+                "publisher": "미래의창",
+                "pubdate": "20220720",
+                "isbn": "9791192519029",
+                "description": "왜 어떤 조직은 성공하고, 어떤 조직은 실패하는가?\n고수가 말하는 조직의 운명을 가르는 결정적 차이 “문제는 기술이 아니라 문화다”\n\n최근 물의를 일으킨 기업들을 보면 하나같이 이것이 문제였다. 바로 조직문화다. 얼마 전 불미스러운 사건으로 뉴스를 도배한 국내 굴지의 대기업도 조직 내에 여전히 팽배한 군대식 조직문화가 원인이었다. 요즘 같은 시대에 이런 조직문화가 있을까 싶지만, 생각보다 많은 기업들이 조직문화의 중요성을 간과하고 있다. 변화하는 시대에 맞춰 수직적 조직문화를 수평적으로 바꾸고자 호칭이나 직급을 없앤 기업들도 생겨나긴 했지만, 과연 김 부장이 브라이언이 된다고 조직문화가 바뀔까?\n이 책은 경영 컨설턴트로 수많은 기업을 연구해온 저자가 성공하는 조직이 되기 위해서 왜 조직문화에 주목해야 하는지를 구글, 넷플릭스, 아마존 등 다양한 기업들을 예로 들어 설명한다. 이와 함께 현재 조직문화가 잘되어 있는지 아닌지를 점검하고, 어떻게 개선하고, 구축해야 하는지, 이 시대에 필요한 조직문화는 무엇인지 저자 특유의 명확하고 강한 어조로 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미래의창",
+                "DDC": "",
+                "UPDATE_DATE": "20220802",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "한근태 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791192519029",
+                "INPUT_DATE": "20220617",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "무엇이 최고의 조직을 만드는가",
+                "PUBLISH_PREDATE": "20220720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

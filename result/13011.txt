@@ -1,0 +1,23 @@
+{
+    "otitle": "혼자 사니 좋다",
+    "oauthor": "서정희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "혼자 사니 좋다",
+                "link": "https://search.shopping.naver.com/book/catalog/32454999190",
+                "image": "https://shopping-phinf.pstatic.net/main_3245499/32454999190.20221019152412.jpg",
+                "author": "복미정",
+                "discount": "13410",
+                "publisher": "몽스북",
+                "pubdate": "20200518",
+                "isbn": "9791196946548",
+                "description": "“혼자가 되고 비로소 \n진짜 나와의 동거가 시작됐다”\n\n타인의 시선에서 벗어나 바르게 나와 마주하는 일상\n“이제 홀가분하다”\n\n같이 살 때 알았으면 더 좋았을 혼자 사는 법에 대하여 \n혼자 사는 삶이 주는 맛에 대하여\n진짜 나와 마주하며 알게 된 것들에 대하여"
+            }
+        ]
+    }
+}

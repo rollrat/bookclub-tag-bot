@@ -1,0 +1,67 @@
+{
+    "otitle": "캘리그라피 시작 노트",
+    "oauthor": "이정원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "캘리그라피 시작 노트 (쉽게 따라 쓰며 배우는 손글씨 수업 | 문장을 붓잡아, 마음을 붓들다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492101678",
+                "image": "https://shopping-phinf.pstatic.net/main_3249210/32492101678.20220527052829.jpg",
+                "author": "이정원",
+                "discount": "13500",
+                "publisher": "비타북스",
+                "pubdate": "20161005",
+                "isbn": "9791158461225",
+                "description": "나만의 감성 캘리그라피를 완성하는 가장 쉽고 완벽한 방법을 만나보세요\n\n스마트폰과 컴퓨터 사용으로 손글씨 쓸 일이 사라진 요즘, 오히려 예쁜 손글씨를 배우려는 사람들이 늘고 있다. 디지털 서체로 가득한 생활 속에서 아날로그적인 손글씨가 주는 따뜻함이 사람들의 감성을 자극시킨 결과일 것이다. 『캘리그라피 시작 노트』는 나의 감성을 담은 손글씨를 써보고 싶은 캘리그라피 입문자를 위한 책이다. 복잡한 도구 없이 손에 익숙한 필기구 하나면 충분하다. 책장을 한 장 한 장 넘기며 천천히 혼자 연습하면, 누구나 근사한 나만의 서체를 완성할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "745.61",
+                "UPDATE_DATE": "20161011",
+                "EA_ADD_CODE": "13640",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "이정원",
+                "SERIES_TITLE": "",
+                "KDC": "640",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5759699_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5759699_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240",
+                "CONTROL_NO": "CIP2016022508",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158461225",
+                "INPUT_DATE": "20160913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "캘리그라피 시작 노트 ",
+                "PUBLISH_PREDATE": "20161005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

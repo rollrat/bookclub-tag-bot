@@ -1,0 +1,67 @@
+{
+    "otitle": "아이가 원하는 것을 모른 채 부모는 하고 싶은 말만 한다",
+    "oauthor": "오연경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아이가 원하는 것을 모른 채 부모는 하고 싶은 말만 한다",
+                "link": "https://search.shopping.naver.com/book/catalog/32443022931",
+                "image": "https://shopping-phinf.pstatic.net/main_3244302/32443022931.20221019142237.jpg",
+                "author": "오연경",
+                "discount": "12960",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20210630",
+                "isbn": "9791191583977",
+                "description": "작은 애정 표현만으로도 아이를 변화시키는 10만 부모의 양육해결사 ‘육아메이트 미오’의 교감 법칙\n\n내리사랑부모코칭센터와 유튜브, 블로그, 카페 등에서 10만 부모의 ‘육아메이트 미오’로 활동하고 있는 아동 발달 및 부모 교육 전문가, 오연경 박사의 첫 책. 십수 년간의 현장 경험과 이론적 지식을 토대로, 부모의 사랑이 아이에게 오해 없이 확실히 전해지도록 도와주는 저자만의 애정 표현 코칭이 담겨 있다. 울며 떼쓰고 고집부리며 화내는 아이의 진짜 마음을 제대로 읽는 방법, 그리고 말과 목소리, 눈빛과 표정, 몸짓과 스킨십을 이용한 부모의 애정 표현을 통해 그 같은 아이의 문제 행동을 변화시키는 방법을 알차게 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20210817",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "오연경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191583977",
+                "INPUT_DATE": "20210528",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "아이가 원하는 것을 모른 채 부모는 하고 싶은 말만 한다",
+                "PUBLISH_PREDATE": "20210630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

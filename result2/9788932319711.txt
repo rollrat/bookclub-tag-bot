@@ -1,0 +1,67 @@
+{
+    "otitle": "도시에 살기 위해 진화 중입니다",
+    "oauthor": "메노 스힐트하위전 저/제효영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도시에 살기 위해  진화 중입니다 (도시 생활자가 된 동식물의 진화 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440938654",
+                "image": "https://shopping-phinf.pstatic.net/main_3244093/32440938654.20221229072432.jpg",
+                "author": "메노 스힐트하위전",
+                "discount": "15300",
+                "publisher": "현암사",
+                "pubdate": "20190130",
+                "isbn": "9788932319711",
+                "description": "도시 한가운데에서 일어나는 엄청난 사건\n”진화는 바로 지금 눈앞에서 벌어지는 일이다!“\n\n  인구 과잉 시대가 도래하면 그나마 남은 한 줌의 자연환경이 전부 파괴될 거라는 비관론이 지금까지 대세였다. 하지만 어떤 면에서 그 예측은 빗나갔다. 청정 구역이 아니라 인간이 바글바글한 바로 이 도시에서, 자연은 분명히 새로운 생태계를 형성하고 있다. 이 책은 인간과 자연이 독특한 하모니를 이루며 공존하는 도시의 새로운 그림을 제시한다. 소음 공해와 교통 체증이 극심하고, 24시간 불이 꺼지지 않으며, 고층 빌딩이 숲을 이룬 현대 거대도시에서 동식물들이 어떻게 보금자리를 마련하고 적응한다는 건지 쉬이 믿기진 않을 것이다. 하지만 우리가 모르는 사이 이미 수많은 동식물이 마치 전형적인 현대 도시인처럼 도시 생활자로 거듭나고 있다. 상상하지 못한 이야기에 놀라게 될 테니 마음의 준비를 해두어도 좋다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "576.8",
+                "UPDATE_DATE": "20190213",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "지은이: 메노 스힐트하위전 ;옮긴이: 제효영",
+                "SERIES_TITLE": "",
+                "KDC": "476",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7117023_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "365 p.",
+                "CONTROL_NO": "CIP2019001962",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932319711",
+                "INPUT_DATE": "20190116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "도시에 살기 위해 진화 중입니다",
+                "PUBLISH_PREDATE": "20190130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

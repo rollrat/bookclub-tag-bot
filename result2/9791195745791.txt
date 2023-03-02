@@ -1,0 +1,67 @@
+{
+    "otitle": "우리 뇌는 왜 늘 삐딱할까?",
+    "oauthor": "하워드 J. 로스 저/박미경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리 뇌는 왜 늘 삐딱할까? (의식과 행동을 교묘히 조종하는 일상의 편향성)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506687929",
+                "image": "https://shopping-phinf.pstatic.net/main_3250668/32506687929.20221019123459.jpg",
+                "author": "하워드 J. 로스",
+                "discount": "15300",
+                "publisher": "탐나는책",
+                "pubdate": "20180816",
+                "isbn": "9791195745791",
+                "description": "우리의 삶에 은밀히 스며들어 영향을 끼치는 무의식적 편견과 편향성을 말하다!\n\n모든 인간이 지닌 주요한 요소이자 습관 중 하나인 편견·편향성의 개념과 실체를 날카롭게 파악하는 『우리 뇌는 왜 늘 삐딱할까?』. 성별과 연령, 인종과 국가를 뛰어넘어 지구 위에 사는 거의 모든 사람이 ‘당신은 편향된 사람이다’라는 식의 평가를 순순히 받아들이지 않을 것이다. 하지만 저자는 사실상 모든 사람이 정도 차이일뿐 편견에 사로잡혀 있고, 생각이 한쪽으로 치우쳐 있으며, 주관적이고 편파적이라고 이야기한다.\n\n이 책에서 우리는 일상속에서 얼마나 자주 편견ㆍ편향성의 지배를 받으며 살아가는지에 관한 몇 가지 흥미로운 실험을 만나볼 수 있다. 일상의 요소요소에 은밀히 스며들어 우리의 의식과 행동, 삶을 지배하는 편견ㆍ편향성의 복잡다단한 모습과 실태를 심도 있게 분석하고 탐구하면서 편견ㆍ편향성이 지닌 때로 치명적이기까지 한 부정적인 요소는 물론, 긍정적이며 삶의 ‘위험 탐지기’의 역할을 충실히 감당해내는 긍정적인 요소도 세밀히 짚고 넘어간다.\n\n저자는 우리 안의 편견ㆍ편향성은 위험 탐지기 역할을 충실히 감당할 수 있다고 이야기하면서 편견ㆍ편향성이 원천적으로 빠져 있다면 위험한 상황에서 적절하고도 지혜롭게 대응하는 일은 거의 불가능할 것이라고 이야기한다. 편견ㆍ편향성이 무조건 나쁘기만 한 것이 아니며, 상황에 따라 얼마든지 긍정적인 역할을 할 수도 있다고 이야기하며 그것의 부정성을 줄이고 긍정성을 늘려가는 방법까지 일깨워준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "탐나는책",
+                "DDC": "153.42",
+                "UPDATE_DATE": "20180822",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하워드 J. 로스 지음 ;박미경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6740167_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6740167_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6740167_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "383 p.",
+                "CONTROL_NO": "CIP2018021779",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195745791",
+                "INPUT_DATE": "20180710",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "우리 뇌는 왜 늘 삐딱할까?",
+                "PUBLISH_PREDATE": "20180816",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

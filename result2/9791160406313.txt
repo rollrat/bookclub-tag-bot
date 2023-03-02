@@ -1,0 +1,78 @@
+{
+    "otitle": "홍합",
+    "oauthor": "한창훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:11 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "홍합 (제3회 한겨레문학상 수상작 | 한창훈 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436014909",
+                "image": "https://shopping-phinf.pstatic.net/main_3243601/32436014909.20221019134954.jpg",
+                "author": "한창훈",
+                "discount": "12420",
+                "publisher": "한겨레출판사",
+                "pubdate": "20210830",
+                "isbn": "9791160406313",
+                "description": "그렇게 사는 것도 사는 것이라면\n산다는 게 그런 것이었다\n\n“한창훈의 소설을 읽는 맛은 싱싱한 자연산 푸성귀를 먹는 맛과 같다고나 할까.\n도시적인 감수성을 여유 있게 비껴가면서도 재미가 여간 아니다.” _박완서(소설가)\n-\n제3회 한겨레문학상 수상작 《홍합》 개정판!\n-\n고달프고 굴곡진 삶을\n질펀한 입담으로 야무지게 살아내는\n홍합공장 여성들의 빛나는 이야기"
+            },
+            {
+                "title": "홍합 (제3회 한겨레문학상 수상작)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484747018",
+                "image": "https://shopping-phinf.pstatic.net/main_3248474/32484747018.20220527033402.jpg",
+                "author": "한창훈",
+                "discount": "8550",
+                "publisher": "한겨레신문사",
+                "pubdate": "20110120",
+                "isbn": "9788984313262",
+                "description": "제 3회 한겨레 문학상 수상작 『홍합』. 한창훈의 장편소설로 변화의 물결에 노출된 농어촌의 삶을 그 밑바닥에서 건강하게 떠받치고 있는 토착적 생명력을 포착해낸 작품이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한겨레출판 :한겨레엔",
+                "DDC": "",
+                "UPDATE_DATE": "20210927",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hanibook.co.kr",
+                "AUTHOR": "지은이: 한창훈",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정 1판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160406313",
+                "INPUT_DATE": "20210803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "홍합",
+                "PUBLISH_PREDATE": "20210830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

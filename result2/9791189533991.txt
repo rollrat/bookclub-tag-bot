@@ -1,0 +1,89 @@
+{
+    "otitle": "드림 맵",
+    "oauthor": "박소현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:57 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "드림 맵 (당신의 꿈을 이뤄주는 쉽고 재미있는 성공법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454320359",
+                "image": "https://shopping-phinf.pstatic.net/main_3245432/32454320359.20230110162709.jpg",
+                "author": "박소현",
+                "discount": "14400",
+                "publisher": "SISO",
+                "pubdate": "20220405",
+                "isbn": "9791189533991",
+                "description": "평범한 사람이 위대해질 수 있는 단 하나의 방법\n‘원하는 걸 시각화하고, 선언하고, 심상화하라!’\n\n‘미라클 모닝’보다 쉽고 ‘100번 쓰기’보다 훨씬 재미있는 자기계발 방법이 있다. 7,000억 매출신화를 창조한 캘리 최와 이미 오래전부터 드림 맵의 위대함을 몸소 실천해온 《영혼을 위한 닭고기 수프》의 저자 잭 캔필드는 드림 맵으로 자신이 꿈꾸는 삶을 상상하고 그대로 이루며 살고 있다. 이 밖에도 성공한 사람 중에는 자신만의 드림 맵을 만들고 활용하여 이룬 사람들이 많다.\n아무런 행동이 없이는 ‘성공과 행복’이라는 달콤한 열매를 맛볼 수 없다. 오늘부터 드림 맵을 만들며 원하는 삶에 대한 두근거림과 설렘을 다시금 되찾고, 진짜 당신의 인생을 만들어 나가라! 드림 맵은 당신의 길을 안내하는 든든한 내비게이션이 되어 줄 것이다."
+            },
+            {
+                "title": "나의 꿈 완전 정복 (초등학생을 위한 진로가이드 워크북 드림맵)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493378619",
+                "image": "https://shopping-phinf.pstatic.net/main_3249337/32493378619.20221227205040.jpg",
+                "author": "백영수",
+                "discount": "8550",
+                "publisher": "대가주니어",
+                "pubdate": "20110907",
+                "isbn": "9788996703105",
+                "description": "『나의 꿈 완전 정복』은 어린이들이 스스로 가장 먼저 자기 자신을 이해할 수 잇도록 도와주는 책입니다. 자신이 태어날 때부터 가지고 있었던 강점이 무엇인지 알아보고 자시닝 즐겁게 할 수 있는 일은 무엇인지 알아보는 것은 매우 흥미로운 일입니다. 이와 더불어 성격을 알고 자신이 살아가면서 가장 중요하게 여기는 것이 무엇인지를 알게 하여 자신을 사랑하고 많은 일에 자신감을 가질 수 있도록 도와줍니다.\n\n세상을 살아갈 때 무엇보다 중요한 것 중 하나는 바로 창의력입니다."
+            },
+            {
+                "title": "금지된 게임 (골프와 차이니스 드림: 거대한 변화를 겪고 있는 중국의 내밀한 연대기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485529809",
+                "image": "https://shopping-phinf.pstatic.net/main_3248552/32485529809.20220527055935.jpg",
+                "author": "댄 워시본",
+                "discount": "12600",
+                "publisher": "비즈니스맵",
+                "pubdate": "20141209",
+                "isbn": "9788962606904",
+                "description": "중국의 ‘골프’ 문화 속에서 엿보는 중국의 진짜 속살!\n\n중국에서 골프는 과열된 개발 열풍과 감격스러운 성공 스토리와 어두운 정치 현실까지 아우르고 있다. 언론인 댄 워시번은 『금지된 게임』에서 중국의 기묘한 골프계에 얽힌 세 사람의 삶을 추적하며 현대 중국의 속사정을 들여다본다. 골프를 중국의 신중산층에 진입하는 수단으로 여기는 농부 출신 프로 골퍼 저우와, 리치 농부였다가 대규모 리조트가 이웃에 들어서는 바람에 인생이 바뀌어버린 왕리보, 정치적인 기업 환경 속에서 버텨가며 베이징 ‘골프 경찰’의 눈치를 살피는 미국 경영인 마틴을 통해 모순으로 가득찬 중국을 살펴본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Siso",
+                "DDC": "",
+                "UPDATE_DATE": "20220511",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박소현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "232 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189533991",
+                "INPUT_DATE": "20220317",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "드림 맵",
+                "PUBLISH_PREDATE": "20220405",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

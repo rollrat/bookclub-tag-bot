@@ -1,0 +1,78 @@
+{
+    "otitle": "글쓰기의 모험",
+    "oauthor": "황산 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:43 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "라블레, 새로운 글쓰기의 모험",
+                "link": "https://search.shopping.naver.com/book/catalog/32467100335",
+                "image": "https://shopping-phinf.pstatic.net/main_3246710/32467100335.20221230072658.jpg",
+                "author": "유석호",
+                "discount": "10800",
+                "publisher": "연세대학교 대학출판문화원",
+                "pubdate": "20160715",
+                "isbn": "9788968501586",
+                "description": "『라블레, 새로운 글쓰기의 모험』은 크게 4부로 구성된 책이다. 라블레 소설의 기원, 라블레 소설의 모델들, 이야기꾼 알코프리바스의 새로운 글쓰기 방식, 라블레 소설의 현대성 등으로 구성되어 있다."
+            },
+            {
+                "title": "철학자들과 함께 떠나는 글쓰기의 모험 (철학자들과 함께 떠나는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506487618",
+                "image": "https://shopping-phinf.pstatic.net/main_3250648/32506487618.20221227205745.jpg",
+                "author": "황산",
+                "discount": "13500",
+                "publisher": "북바이북",
+                "pubdate": "20200410",
+                "isbn": "9791185400990",
+                "description": "오늘날은 미디어 환경의 변화로 개인들의 발화 욕구가 그 어느 때보다 높다. 이러한 시대 분위기에 부응하여 글쓰기 및 책 쓰기 열풍이 불고 있다. 하지만 글쓰기 책과 강좌는 대체로 기술적 방법을 가르치는 데 급급할 뿐 정작 중요한 문제는 다루지 않고 있다. 이 책은 근대적 글쓰기가 가지는 계몽과 객관적 사실의 전달이라는 한계에서 벗어나 “개인의 시대, 참다운 나를 찾아가기 위한 정신의 오디세이로서의 글쓰기”를 프리드리히 니체, 블랑쇼, 롤랑 바르트, 폴 사르트르, 발터 벤야민, 질 들뢰즈, 자크 데리다 등 일곱 명의 현대 철학자들에게서 배운다. \n\n\n\n글쓰기 정신, 글 쓰는 이의 자세, 글쓰기 방법론까지 “참다운 나를 찾아가기 위한 정신의 오디세이”를 다루는 글쓰기 입문서인 셈이다. 이를 통해 “글이란, 또한 글쓰기란 무엇인가”에 대한 답을 찾고, 글 쓰는 이가 잊지 말아야 할 원칙을 스스로 찾아갈 수 있도록 돕는다. 글쓰기를 시작하는 이, 글쓰기의 관성에서 벗어나고자 하는 이, 깜빡이는 커서 앞에서 한 글자도 나아가지 못하는 이 들에게 유익한 글쓰기의 모험 안내서가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "연세대학교 대학출판문화원",
+                "DDC": "",
+                "UPDATE_DATE": "20160722",
+                "EA_ADD_CODE": "93800",
+                "PUBLISHER_URL": "http://www.yonsei.ac.kr/press",
+                "AUTHOR": "유석호",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "반양장",
+                "FORM_DETAIL": "",
+                "PAGE": "216",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788968501586",
+                "INPUT_DATE": "20160628",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "라블레, 새로운 글쓰기의 모험",
+                "PUBLISH_PREDATE": "20160715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

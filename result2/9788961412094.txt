@@ -1,0 +1,78 @@
+{
+    "otitle": "우리가 몰랐던 목 통증 치료의 놀라운 비밀",
+    "oauthor": "박문수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:05 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "우리가 몰랐던 목 통증 치료의 놀라운 비밀 (디스크, 거북목, 일자목, 목 결림, 수술 없이 고칠 수 있다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466668469",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466668469.20221227205242.jpg",
+                "author": "박문수",
+                "discount": "12150",
+                "publisher": "중앙생활사",
+                "pubdate": "20180727",
+                "isbn": "9788961412094",
+                "description": "목 디스크가 지긋지긋한 분들에게, 이 책은 수술하지 않고 치료하는 방법을 제안한다. 침상휴식 치료법은 수건이나 타월을 말아 목을 받쳐주거나 낮고 부드러운 베개를 받쳐주어 목이 약간 굴곡된 상태가 되도록 한다. 목이 약간 굴곡된 상태에서는 신경이 지나는 길이 넓어지기 때문이다. 급성기엔 냉치료법이 효과적이다. 얼음덩어리로 마사지하거나 얼음주머니로 찜질함으로써 연조직의 부기를 줄이고 근이완과 진통효과를 동시에 볼 수 있다. 열치료법도 좋은 방법이다. 온습포, 전기패드, 심부열인 초음파, 적외선, 더운물 샤워 등이 주로 사용된다. 또 100와트짜리 전구를 50~60cm 거리에서 쪼이는 것도 간단하게 사용할 수 있는 열치료 방법이다."
+            },
+            {
+                "title": "우리가 몰랐던 턱관절 통증 치료의 놀라운 비밀 (턱관절 치료! 당신도 쉽게 할 수 있다!!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32453739619",
+                "image": "https://shopping-phinf.pstatic.net/main_3245373/32453739619.20221227205533.jpg",
+                "author": "로버트 업가르드",
+                "discount": "13500",
+                "publisher": "중앙생활사",
+                "pubdate": "20181105",
+                "isbn": "9788961412230",
+                "description": "* 턱관절 치료! 당신도 쉽게 할 수 있다!!\n* 수많은 환자를 통해 입증된 가장 완벽한 턱 건강 사용설명서!\n\n저자 로버트 업가르드 박사는 미네소타 주 북부에 턱관절 질환을 특화한 의원을 설립해 턱관절 장애 환자만 진료하는 턱관절 질환 전문의다. 이 책에는 저자가 턱관절 질환이나 관련 질환으로 고통받는 환자들을 치료한 경험을 바탕으로 환자들이 질환에서 회복되어 건강을 유지하도록 돕는 ‘종합 건강 프로그램’을 담았다. 또 턱관절 질환과 관련 질환에 대하여 40여 년 동안 강의하고 치료해온 권종진 치의학 박사의 치과 상식도 소개했다. 만병의 근원인 턱관절 장애로 고통받았다면 이 책에서 제시한 종합 건강 프로그램과 치과 상식이 새로운 길을 열어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙생활사",
+                "DDC": "615.82",
+                "UPDATE_DATE": "20180904",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "지은이: 박문수",
+                "SERIES_TITLE": "",
+                "KDC": "512.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6736024_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6736024_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "179 p.",
+                "CONTROL_NO": "CIP2018021431",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961412094",
+                "INPUT_DATE": "20180706",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(우리가 몰랐던) 목 통증 치료의 놀라운 비밀",
+                "PUBLISH_PREDATE": "20180727",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

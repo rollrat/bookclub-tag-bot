@@ -1,0 +1,67 @@
+{
+    "otitle": "머릿속에 쏙쏙! 화학 노트",
+    "oauthor": "사이토 가쓰히로 저/곽범신 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "머릿속에 쏙쏙! 화학 노트 (우리 생활은 전부 화학으로 되어 있다! 알아두면 생활 속 지혜가 쑥쑥!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476031508",
+                "image": "https://shopping-phinf.pstatic.net/main_3247603/32476031508.20230225070927.jpg",
+                "author": "사이토 가쓰히로",
+                "discount": "13500",
+                "publisher": "시그마북스",
+                "pubdate": "20201113",
+                "isbn": "9791190257862",
+                "description": "일상생활 속에 숨어 있는 화학의 수수께끼를 해결해보자! 우리는 물질에 둘러싸여 생활하고 있다. 물질들은 변한다. 물은 얼어 고체가 되기도 하고, 수증기가 되어 기체가 되기도 한다. 오랫동안 안 쓰던 칼에는 빨간 녹이 슬고, 가스레인지를 켜면 가스가 불에 타 빨갛게 파랗게 빛나며 뜨거워진다. \n\n\n\n이런 물질의 변화는 모두 화학반응의 결과다. 이 책은 이와 같은 우리 주변의 물질과 그 변화를 재미있게, 이해하기 쉽게 해설해주고 있다. 이제껏 대수롭지 않게 봐왔던 물건과 현상이 어떻게 이루어져 있으며, 어떻게 변하는지 알게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20201124",
+                "EA_ADD_CODE": "03430",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "사이토 가쓰히로 지음 ;곽범신 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257862",
+                "INPUT_DATE": "20201012",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(머릿속에 쏙쏙!) 화학 노트",
+                "PUBLISH_PREDATE": "20201113",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

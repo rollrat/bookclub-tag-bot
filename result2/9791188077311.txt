@@ -1,0 +1,67 @@
+{
+    "otitle": "강아지 밥의 교과서",
+    "oauthor": "효오모리 토모코 저/박진희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "강아지 밥의 교과서 (기본 육수로 손쉽게 만드는 행복 밥상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486075763",
+                "image": "https://shopping-phinf.pstatic.net/main_3248607/32486075763.20221229074103.jpg",
+                "author": "효오모리 도모코",
+                "discount": "15300",
+                "publisher": "레드스톤",
+                "pubdate": "20190902",
+                "isbn": "9791188077311",
+                "description": "10분에 뚝딱! \n기본 육수로 만드는 국물 자작한 행복 밥상\n\n사료가 편리하긴 하지만, 반려견에게 행복과 건강까지 주진 않습니다.\n좋은 음식이 바로 건강을 만들죠. \n사료가 아닌 쿠킹 영양식, 반려견에게 이보다 좋을 수는 없습니다.\n손쉽게 만들어 간편하고, 맛있게 잘 먹어 몸도 건강해지는 최고의 한 끼!\n건강한 반려견과 함께 오래오래 행복을 누리세요~\n\n이런 반려견에게 모두 OK!!\nㆍ만성적으로 몸 컨디션이 안 좋은 아이\nㆍ이것저것 먹여 봤지만 마땅한 것을 찾지 못한 아이\nㆍ왕성한 에너지로 운동을 많이 하는 아이\nㆍ특별한 신체 허약과 병증이 있는 아이\nㆍ체력이 약화된 고령견\nㆍ폭풍 성장 중인 어린 강아지\nㆍ먹성 좋은 개구쟁이"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "레드스톤 :인터파크",
+                "DDC": "",
+                "UPDATE_DATE": "20190916",
+                "EA_ADD_CODE": "13520",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 효오모리 토모코",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "212*192",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "141 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188077311",
+                "INPUT_DATE": "20190731",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "강아지 밥의 교과서",
+                "PUBLISH_PREDATE": "20190909",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

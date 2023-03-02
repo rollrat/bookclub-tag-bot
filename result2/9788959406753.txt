@@ -1,0 +1,67 @@
+{
+    "otitle": "모던 슈트 스토리",
+    "oauthor": "크리스토퍼 브루어드 저/전경훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모던 슈트 스토리 (단순한 아름다움이 재단한 남성복 400년의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490228667",
+                "image": "https://shopping-phinf.pstatic.net/main_3249022/32490228667.20221228074343.jpg",
+                "author": "크리스토퍼 브루어드",
+                "discount": "15120",
+                "publisher": "시대의창",
+                "pubdate": "20181101",
+                "isbn": "9788959406753",
+                "description": "슈트, 단순함이 아름다움이 되기까지 400년의 역사\n\n영화 [킹스맨]의 콜린 퍼스는 매력적인 ‘슈트 핏’으로 사람들의 마음을 사로잡았다. 인민복만 입던 김정은 위원장이 양복 차림을 보이자 온갖 평이 나돌았다. 세계 정상들의 회담장에서는 물론 면접장의 구직자에 이르기까지, 슈트는 격식을 갖춰야 하는 자리에서 입어야 할 필수 아이템이다. 그런데 슈트는 어떻게 생겨났을까?\n\n이 책의 저자 크리스토퍼 브루어드는 슈트에 봉합된 역사와 문화를 한 땀 한 땀 풀어내 보여준다. 17세기에 처음 등장한 슈트는 섬유 산업이 발달하면서 근대 남성 패션의 전형으로 자리 잡았다. 서구 열강이 식민지를 확장하자 세계로, 특히 남아시아와 동아시아로 퍼져나가 서구 문명의 아이콘이 되었다. 슈트는 사회적 지위를 드러내기도 한다. 그와 동시에 지배 문화에 순응하는 상징으로 비춰지기도 한다. 한편으론 섹슈얼리티와 젠더의 함의도 지닌다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시대의창",
+                "DDC": "646.433",
+                "UPDATE_DATE": "20181107",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "크리스토퍼 브루어드 지음 ;전경훈 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "592.353",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6945881_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "CIP2018032559",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959406753",
+                "INPUT_DATE": "20181010",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "모던 슈트 스토리",
+                "PUBLISH_PREDATE": "20181101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

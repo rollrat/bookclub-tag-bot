@@ -1,0 +1,67 @@
+{
+    "otitle": "쓰시마에서 온 소녀",
+    "oauthor": "정명섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쓰시마에서 온 소녀",
+                "link": "https://search.shopping.naver.com/book/catalog/32493278633",
+                "image": "https://shopping-phinf.pstatic.net/main_3249327/32493278633.20221019120359.jpg",
+                "author": "정명섭",
+                "discount": "9900",
+                "publisher": "다른",
+                "pubdate": "20140717",
+                "isbn": "9791156330264",
+                "description": "『쓰시마에서 온 소녀』는 고려 후기 화약을 들여와 개발한 최무선의 아들 최해산의 청소년 시절을 재구성한 소설이다. 저자는 야사에 기록된 해산의 어린 시절을 소설적 재미와 역사적 상상력을 덧입혀 흥미롭게 풀어내었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)다른",
+                "DDC": "",
+                "UPDATE_DATE": "20140731",
+                "EA_ADD_CODE": "44800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정명섭",
+                "SERIES_TITLE": "오늘의 청소년 문학",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3726910_6.txt",
+                "SET_ISBN": "9788992711579",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3726910_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014019424",
+                "SERIES_NO": "10",
+                "EA_ISBN": "9791156330264",
+                "INPUT_DATE": "20140625",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "쓰시마에서 온 소녀",
+                "PUBLISH_PREDATE": "20140717",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

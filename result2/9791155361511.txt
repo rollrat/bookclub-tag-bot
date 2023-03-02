@@ -1,0 +1,67 @@
+{
+    "otitle": "아파트 인테리어 교과서",
+    "oauthor": "주부의벗사 편/박승희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아파트 인테리어 교과서 (아파트 리노베이션의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490800616",
+                "image": "https://shopping-phinf.pstatic.net/main_3249080/32490800616.20221019115528.jpg",
+                "author": "주부의 벗사",
+                "discount": "14690",
+                "publisher": "즐거운상상",
+                "pubdate": "20200715",
+                "isbn": "9791155361511",
+                "description": "좋아하는 공간에서 좋아하는 사람과 살기 \n나에게 맞는 편안한 생활이 가능해지는\n아파트 리노베이션!\n\n인테리어 스케줄, 자금 계획, 인기 설비, 업체 선택…\n아파트 리노베이션의 시작부터 끝까지 A to Z\n이 책 한권으로 내가 꿈꾸는 이상적인 집을 만들 수 있다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "즐거운상상",
+                "DDC": "",
+                "UPDATE_DATE": "20201019",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 주부의 벗 편집부 ;옮긴이: 박승희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*258",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155361511",
+                "INPUT_DATE": "20200610",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "아파트 인테리어 교과서",
+                "PUBLISH_PREDATE": "20200715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

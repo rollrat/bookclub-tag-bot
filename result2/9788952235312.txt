@@ -1,0 +1,27 @@
+{
+    "otitle": "썸 타는 천문대",
+    "oauthor": "지웅배 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "썸 타는 천문대 (별 좀 아는 오빠가 풀어주는 130억 년 우주의 사랑과 이별 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464889675",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464889675.20230103163150.jpg",
+                "author": "지웅배",
+                "discount": "12600",
+                "publisher": "살림",
+                "pubdate": "20161031",
+                "isbn": "9788952235312",
+                "description": "별 좀 아는 오빠가 풀어주는 130억 년 우주의 사랑과 이별 이야기『썸 타는 천문대』. 이 책은 5장으로 구성됐다. 각 장은 사랑의 시작부터 끝이 나는 과정을 단계별로 나눈 것이다. 독자가 사랑의 흐름을 따라가면서 우주와 별이 생성되고 소멸하는 과정을 이해할 수 있도록 했다. 또한 책 곳곳에서 천문학자가 하는 일에 대해 설명하며, 앞으로 천문학을 접하는 데 꼭 알아두어야 할 단어, 인물, 개념을 꼼꼼하게 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "resultCode": "105",
+        "resultMsg": "ERROR-API ERROR"
+    }
+}

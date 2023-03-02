@@ -1,0 +1,67 @@
+{
+    "otitle": "나의 프랑스식 샐러드",
+    "oauthor": "이선혜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나의 프랑스식 샐러드 (채소가 맛있어지는 썰기, 굽기, 데치기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454107679",
+                "image": "https://shopping-phinf.pstatic.net/main_3245410/32454107679.20221228074941.jpg",
+                "author": "이선혜",
+                "discount": "16200",
+                "publisher": "브.레드",
+                "pubdate": "20200705",
+                "isbn": "9791190920001",
+                "description": "인테리어 디자이너인 저자는 우연히 올리브 오일에 반해 식료품 가게를 열었다. 유럽풍 그로서리는 미식가들 사이에서 소문이 났고, 단골에게 샐러드, 파스타를 간단히 만들어주다 급기야 레스토랑 '빌라 올리바'를 열게 된다. 세로로 길게 썬 애호박 구이, 필러로 얇게 켠 당근 샐러드, 웨지 모양으로 썰어 스테이크처럼 구워낸 양배추 등 이선혜의 채소 샐러드는 채소 맛이 진하고 식감이 특별해 인기를 끌었다. \n\n\n\n이 책에서 저자는 소금을 뿌리는 타이밍, 뒤집는 시점, 채소 종류별 굽기의 노하우, 드레싱을 섞어두는 시점 등 더 아삭하고, 더 촉촉하고, 더 진한 맛의 샐러드를 만드는 노하우를 알려준다. 프랑스에서 8년, 프랑스인 남편과 30년 살며 알게 된 프랑스 음식은 새롭고 근사했다. 저자는 시어머니에게 배운 정통 프렌치 레시피, 남프랑스 친구에게 배운 지중해 음식 등을 바탕으로 우리 입맛에 맞는 유럽 샐러드를 레시피를 찾아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "B.read(브.레드)",
+                "DDC": "",
+                "UPDATE_DATE": "20201103",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이선헤 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/06/9791190920001.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "172*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "219 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190920001",
+                "INPUT_DATE": "20200619",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "나의 프랑스식 샐러드",
+                "PUBLISH_PREDATE": "20200705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

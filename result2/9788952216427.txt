@@ -1,0 +1,67 @@
+{
+    "otitle": "귓속말 금지 구역",
+    "oauthor": "김선희 글/정혜경 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "귓속말 금지 구역",
+                "link": "https://search.shopping.naver.com/book/catalog/32436334850",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436334850.20221019115618.jpg",
+                "author": "김선희",
+                "discount": "10370",
+                "publisher": "살림어린이",
+                "pubdate": "20111110",
+                "isbn": "9788952216427",
+                "description": "나를 힐끔거리면서 귓속말하지 마!\n\n2001년 동화 으로 2001년 황금도깨비 상을 받은 동화작가 김선희의 『귓속말 금지 구역』. 친구를 왕따시키는 무서운 무기 '귓속말'의 두 얼굴을 고발하는 동화다. 나쁜 어른들의 세계를 모방한 권력 투쟁이 벌어지는 변질된 아이들의 세계의 '집단 따돌림' 속에서도 자신의 자아 정체성을 지키며 용기 있게 맞서는 소녀 '박세라'를 만날 수 있다. 그림작가 정혜경의 캐릭터의 표정이 생생하게 살아 있는 흥미진진한 그림을 함께 담았다. 5학년이 된 세라는 교실에서 모든 일에 솔선수범할 뿐 아니라, 공부도 잘하는 우등생이다. 그런데 세라에게 왕따라는 위기가 닥쳐왔다. 막강한 라이벌 차예린을 한 표 차이로 누르고 회장에 당선되면서부터다. 예린이는 회장 자리를 빼앗기 위해 세라를 친구들과 갈라놓는다. 바로 귓속말을 통해서인데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림출판사,",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "김선희 글 ;정혜경 그림",
+                "SERIES_TITLE": "살림 5·6학년 창작 동화 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20111110",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "12000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "05",
+                "EA_ISBN": "9788952216427",
+                "INPUT_DATE": "20111108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "귓속말 금지 구역 ",
+                "PUBLISH_PREDATE": "20111110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

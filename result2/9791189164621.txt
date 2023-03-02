@@ -1,0 +1,67 @@
+{
+    "otitle": "내게 행복을 주는 그림책",
+    "oauthor": "이루리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내게 행복을 주는 그림책",
+                "link": "https://search.shopping.naver.com/book/catalog/32439706255",
+                "image": "https://shopping-phinf.pstatic.net/main_3243970/32439706255.20230131164339.jpg",
+                "author": "이루리",
+                "discount": "19800",
+                "publisher": "북극곰",
+                "pubdate": "20190712",
+                "isbn": "9791189164621",
+                "description": "“이 책은 그대로 하나의 그림책 도서관이다!”\n_이용훈(한국도서관협회 사무총장, 도서관문화비평가)\n\n“이 책은 망망한 그림책 바다에 켜진 환한 등불이다!”\n_백화현(독서운동가)\n\n“아, 그림책을 이렇게 읽으면 되겠네!”\n_김선자(길작은도서관 관장)\n\n“그림책에 대한 연애편지 같은 서평.” \n_이미정(건국대학교 동화ㆍ한국어문화 전공 교수)\n\n순수한 웃음, 찡한 눈물, 깜짝 선물, 아름다운 탄성을 주는 그림책 서평집\n그림책 마니아이며 평론가이자 편집자, 세계 10여 개국에 수출된 그림책의 작가이자 스타 강사인 이루리가 펴낸 세 번째 그림책 서평집. 『아빠와 함께 그림책 여행 1, 2』에 이어서 3년여 만에 출간된 이 서평집은 꾸준히 새 그림책을 탐색하고 음미해 온 작가의 즐거움 가득한 그림책 감상평을 모아 실었습니다. 순수한 웃음과 찡한 눈물, 깜짝 놀랄 만한 기발한 생각, 시선을 사로잡는 아름다움을 갖춘 그림책을 향유하는 기쁨이 온전히 전해집니다. 이루리가 안내하는 그림책 세상은 모두에게 사랑과 행복의 가치를 나누어 줄 것입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20190703",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "이루리 지음",
+                "SERIES_TITLE": "",
+                "KDC": "029.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/06/11/9791189164621.jpg",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "302 p.",
+                "CONTROL_NO": "CIP2019023000",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189164621",
+                "INPUT_DATE": "20190611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "내게 행복을 주는 그림책",
+                "PUBLISH_PREDATE": "20190712",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

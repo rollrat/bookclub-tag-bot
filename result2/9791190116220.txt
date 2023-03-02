@@ -1,0 +1,67 @@
+{
+    "otitle": "흐르는 것들의 과학",
+    "oauthor": "마크 미오도닉 저/변정현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "흐르는 것들의 과학 (물질에 집착하는 한 남자의 일상 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494107884",
+                "image": "https://shopping-phinf.pstatic.net/main_3249410/32494107884.20221019124013.jpg",
+                "author": "마크 미오도닉",
+                "discount": "15300",
+                "publisher": "엠아이디",
+                "pubdate": "20200428",
+                "isbn": "9791190116220",
+                "description": "‘아는 만큼 보인다’ \n세상을 보는 눈을 좀 더 넓혀 줄, 유쾌한 과학책\n\n『흐르는 것들의 과학』은  ‘비행기의 원료인 등유의 어마어마한 폭발성’, ‘볼펜의 잉크가 종이 위에 한꺼번에 쏟아지지 않는 이유’ 등 우리가 당연하게 생각하는 액체들에 숨어있는 과학적 특성을 저자의 ‘특별한 눈’으로 관찰한다. 더불어 저자는 인간과 지구 생명의 근원이 되어주기도 하고, 동시에 쓰나미가 되어 우리의 생명을 위협하기도 하는 액체의 이중성에 대해 이야기한다. 이처럼 기묘한 액체의 특성을 잘 이해하고 활용한다면 우리의 삶이 더 풍부해지고, 안전해질 수 있을 것이다. 저자는 이러한 액체에 대한 이야기를 결코 딱딱하지 않게, 마치 추리소설을 쓰듯 흥미롭게 풀어나간다. \n\n저자 마크 미오도닉은 샌프란시스코 학회로 가는 비행에서 만나는 액체들을 중심으로, 액체의 이중성과 다양한 특성들에 대한 탐구를 시작한다. 그리고 그의 특유의 발랄한 문체와 사물을 보는 ‘특별한 눈’을 통해 자칫 딱딱하게 여겨질 수도 있는 과학 지식을 친구에게 하는 이야기처럼 물 흐르듯 자연스럽게 소개한다. ‘볼펜의 잉크는 왜 번지거나 흐르지 않는 것일까?’, ‘화면의 액정을 통해 어떻게 움직이는 영상이 구현될 수 있는 것일까?’ 사물을 바라보는 저자의 특별한 시선은 우리 주변의 모든 것들이 곧 과학임을 자연스럽게 깨닫게 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "MID(엠아이디)",
+                "DDC": "",
+                "UPDATE_DATE": "20200519",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마크 미오도닉 지음 ;변정현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "420.42",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/04/16/9791190116220.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "316 p.",
+                "CONTROL_NO": "CIP2020015754",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190116220",
+                "INPUT_DATE": "20200416",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "흐르는 것들의 과학",
+                "PUBLISH_PREDATE": "20200428",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

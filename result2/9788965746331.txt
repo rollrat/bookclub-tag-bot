@@ -1,0 +1,67 @@
+{
+    "otitle": "그녀를 모르는 그에게",
+    "oauthor": "존 가트맨,줄리슈워츠 가트맨,더글러스 에이브럼스,레이철 칼턴 에이브럼스 공저/정미나 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그녀를 모르는 그에게 (세계 최초의 관계 연구소 러브랩이 전하는 남녀관계의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492777853",
+                "image": "https://shopping-phinf.pstatic.net/main_3249277/32492777853.20220527045103.jpg",
+                "author": "존 가트맨^줄리 슈워츠 가트맨^더글러스 에이브럼스^레이철 칼턴 에이브럼스",
+                "discount": "0",
+                "publisher": "해냄출판사",
+                "pubdate": "20170918",
+                "isbn": "9788965746331",
+                "description": "정신분석의 창시자인 프로이트도, 인류 역사상 최고의 지성으로 꼽히는 아인슈타인도, 천재 물리학자 스티븐 호킹도 ‘여자들은 불가사의하기 그지없다’라며, 관계 속에서 여자들의 심리와 행동을 이해하는 데 어려움을 호소했다. 이는 동서고금을 막론하고 대다수 남자들이 토로하는 어려움이다. 그만큼 여성들도 친밀한 소통의 부재와 답답함을 호소하기 일쑤다. ‘도대체 여자들이 원하는 것은 무엇인가!’\n\n이에 세계적인 심리학자이자 관계 치료의 대가인 존 가트맨 & 줄리 가트맨 박사 부부는 오랫동안 성(性)과 사랑의 주제를 천착해 온 베스트셀러 작가 더글러스 에이브럼스, 임상내과의 레이철 에이브럼스 부부와 합심하여 행복한 남녀관계를 위해 꼭 알아야 할 비법을 신간『그녀를 모르는 그에게』에서 전하고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄",
+                "DDC": "155.3",
+                "UPDATE_DATE": "20171012",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "존 가트맨,줄리 슈워츠 가트맨,더글러스 에이브럼스,레이철 칼턴 에이브럼스 지음 ;정미나 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "182.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6339167_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6339167_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "147*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "CIP2017022194",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965746331",
+                "INPUT_DATE": "20170828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "그녀를 모르는 그에게",
+                "PUBLISH_PREDATE": "20170918",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

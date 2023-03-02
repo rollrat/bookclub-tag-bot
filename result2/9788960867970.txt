@@ -1,0 +1,67 @@
+{
+    "otitle": "생각하는 힘, 노자인문학",
+    "oauthor": "최진석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "생각하는 힘, 노자 인문학 (EBS [인문학 특강] 최진석 교수의 노자 강의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472937139",
+                "image": "https://shopping-phinf.pstatic.net/main_3247293/32472937139.20230117164938.jpg",
+                "author": "최진석",
+                "discount": "13320",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20150312",
+                "isbn": "9788960867970",
+                "description": "노자에게 묻는 내 삶의 진정한 주인이 되는 법!\n\n『생각하는 힘, 노자 인문학』은 ‘창조 인문학의 전도사’로 통하는 최진석 교수가 EBS 《인문학 특강》에서 강연한 강의를 책으로 엮은 것이다. 단순히 노자의 철학을 소개하거나 《도덕경》을 해설하는 책이 아닌, 2500년 전 노자의 생각법에서 ‘현대인의 생존법’을 끄집어내는 동시에 지금 우리의 삶과 사유를 뒤흔드는 통찰을 전달한다. \n\n가령 저자는 우리나라 학생들이 대답은 잘하면서도 질문은 잘하지 못하는 현상을 지적하며 ‘자기표현이 안 되는 공부는 즉시 끊어야 한다’고 주장하는가 하면, 자살률이 세계 1위인 우리 사회에 대해서는 보편적 기준이 너무 강하고 획일화되어 있기 때문이라고 밝히며 ‘각자 사는 맛’을 가져야 함을 설파한다.\n\n이 외에도 책은 우리를 일상에서 좌절하게 만드는 선택, 불안, 사랑, 소통, 행복 등에 관한 문제들에 명쾌한 해법들을 소개한다. 노자의 시대적 맞수 공자의 사상과 치밀하게 비교하고, 근현대 서구의 사상가들과도 전방위적으로 견주며 노자를 현대적으로 재탄생시킨다. 그리하여 내 삶의 진정한 주인으로 거듭날 수 있는 길로 인도한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)위즈덤하우스",
+                "DDC": "181.114",
+                "UPDATE_DATE": "20150319",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "최진석",
+                "SERIES_TITLE": "",
+                "KDC": "152.222",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4361232_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4361232_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015004027",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960867970",
+                "INPUT_DATE": "20150204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "생각하는 힘, 노자 인문학",
+                "PUBLISH_PREDATE": "20150312",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

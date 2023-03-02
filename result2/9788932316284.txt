@@ -1,0 +1,67 @@
+{
+    "otitle": "그래도 책읽기는 계속된다",
+    "oauthor": "이현우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그래도 책읽기는 계속 된다 (로쟈의 책읽기 2010-2012)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503744944",
+                "image": "https://shopping-phinf.pstatic.net/main_3250374/32503744944.20221019123914.jpg",
+                "author": "이현우",
+                "discount": "16200",
+                "publisher": "현암사",
+                "pubdate": "20120615",
+                "isbn": "9788932316284",
+                "description": "삶이 계속되듯 책읽기를 지속하는 로쟈에게 물어보라!\n\n로쟈의 책읽기 2010-2012『그래도 책읽기는 계속된다』. 쉼 없이 책 읽기-쓰기-소개하기를 이어온 당대의 서평가 로쟈의 두 번째 서평집으로, 2010년부터 2012년까지 2년간의 독서 기록을 모아 엮었다. 총 86개의 서평을 ‘독서, 인문학, 삶, 정의, 정치’ 5개의 주제로 묶어 서가를 만들고, 주제마다 16개의 글들을 담아냈다. 소개한 책의 끝에는 결말 P.S.와 책꽂이 사이에 16문 16답을 수록하여, 조용하고 진중한 이미지인 로쟈의 편안한 모습을 만나볼 수 있다. 또한 책 말미에 덧붙인 금정연의 밀착 인터뷰 ‘로쟈와 나’에서는 로쟈 안에 숨어 있는 또 다른 로쟈의 실체를 엿보는 즐거움이 더해졌다. 이 책에서 저자는 동시대를 살아가는 같은 독자로서 우리가 어떤 책들과 함께 하고 있는지 확인하자고 독려하며, 지속적인 국민적 독서를 통해 우리의 삶이 변화되는 희망을 로쟈만의 어법으로 전하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "028.1",
+                "UPDATE_DATE": "20170628",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "이현우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "029.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2559371_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2559371_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2559371_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012002598",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932316284",
+                "INPUT_DATE": "20120530",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "그래도 책읽기는 계속된다 ",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

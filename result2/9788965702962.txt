@@ -1,0 +1,67 @@
+{
+    "otitle": "어느 소방관의 기도",
+    "oauthor": "오영환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어느 소방관의 기도 (우리가 잊지 말아야 할 작은 영웅들의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455951669",
+                "image": "https://shopping-phinf.pstatic.net/main_3245595/32455951669.20221019105234.jpg",
+                "author": "오영환",
+                "discount": "12600",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20151225",
+                "isbn": "9788965702962",
+                "description": "『어느 소방관의 기도』는 소방관의 뜨거운 사명에 관한 이야기다. 또한 한 청년 소방관이 치열한 소방 현장의 최전선에서 경험했던 절망, 슬픔, 분노, 희망, 감격 그 모든 순간에 대한 기록이자 너무나 쉽게 잊히곤 하는 대한민국 모든 소방관의 이야기다. 모두가 도망쳐 나올 때 그곳으로 뛰어드는 사람들, 소방관. 이 책에 담긴 뜨거운 희망과 위로의 메시지는 우리가 너무도 당연하게 여겨서 잊어버리곤 하는 ‘살아 있음’의 소중함을 새삼 일깨워준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)쌤앤파커스",
+                "DDC": "353.979",
+                "UPDATE_DATE": "20160202",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "오영환",
+                "SERIES_TITLE": "",
+                "KDC": "351.18204",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5080017_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5080017_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "220페이지 내외",
+                "CONTROL_NO": "CIP2015033687",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965702962",
+                "INPUT_DATE": "20151207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "어느 소방관의 기도",
+                "PUBLISH_PREDATE": "20151225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "논어로 중용을 풀다",
+    "oauthor": "이한우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "논어로 중용을 풀다 (이한우의 사서삼경)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455930080",
+                "image": "https://shopping-phinf.pstatic.net/main_3245593/32455930080.20221019124656.jpg",
+                "author": "이한우",
+                "discount": "25200",
+                "publisher": "해냄출판사",
+                "pubdate": "20130220",
+                "isbn": "9788965743699",
+                "description": "《논어》의 핵심을 꿰뚫어 본질에 접근한다!\n\n『논어로 중용을 풀다』는 논어로 중용을 풀어내면서 유교 경전의 핵심이자 동양철학의 본질을 다룬 책이다. 《중용》은 공자의 제자이자 손자인 자사가 공자의 말씀을 묶어, 그 해석을 덧붙인 책으로 총 33장의 짧은 구성으로 이루어져 있다. 학술 저널리스트 이한우는 그런 《중용》을 쉽게 접근할 수 있도록 핵심을 꿰뚫어 본질에 접근하고 간명하게 풀어냈다. 또한 《논어》 속에 산재되어 있는 실마리를 통해 재정리하여 논리적으로 해석한다. \n\n특히 ‘논어를 논어로 푼다’의 연장선상에서 ‘논어로 중용을 푸’는 새로운 독해와 이해의 방법을 제시한다. 《논어》에서 제시된 공자 어록 속의 기본 개념들과 어휘를 바탕으로, 《중용》의 핵심 개념들을 정확히 파악하고 해석하고자 한다. 저자는 기존의 해석에 의심을 품고 거침없는 비판도 하면서 공자의 진의를 밝히는 데에 집중했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20130307",
+                "EA_ADD_CODE": "03140",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "이한우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965743699",
+                "INPUT_DATE": "20130307",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "논어로 중용을 풀다 ",
+                "PUBLISH_PREDATE": "20130220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

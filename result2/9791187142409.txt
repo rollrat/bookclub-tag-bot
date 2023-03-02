@@ -1,0 +1,67 @@
+{
+    "otitle": "중국사 인물 열전",
+    "oauthor": "소준섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "중국사 인물 열전",
+                "link": "https://search.shopping.naver.com/book/catalog/32472058623",
+                "image": "https://shopping-phinf.pstatic.net/main_3247205/32472058623.20221019151815.jpg",
+                "author": "소준섭",
+                "discount": "16200",
+                "publisher": "현대지성",
+                "pubdate": "20180412",
+                "isbn": "9791187142409",
+                "description": "중국 전문가 소준섭 박사가 말해주는 재미있는 중국사 이야기\n\n진시황부터 공자, 양귀비, 마오쩌둥까지, 79명의 인물로 만나는 중국사, 이들만 알아도 5,000년 중국사의 흐름을 한 눈에 꿸 수 있다! 중국사는 5천 년이라는 유장한 시간을 자랑할 만큼 그 정보도 방대하여 쉽게 접근하기가 어렵다. 『중국사 인물 열전』은 그런 방대한 중국사의 문서와 기록들을 모두 취합하여 인물 열전이라는 형태로 중국사를 쉽고 재미있게 풀어간다. 통일 제국을 세운 진시황의 출생의 비밀, 현실 정치에서는 등용되지 못해 상갓집 개의 신세였던 공자, 괴로움에 못 이겨 자신의 얼굴 가죽을 뜯고 죽은 타이완의 개척자 정성공 등 수많은 인물들의 파란만장한 삶의 이야기가 흥미진진하게 그려지고 있다. 독자들은 이 책의 인물 기술만 보아도 해당 시기의 사건과 주변 인물, 그리고 시대적 조류 및 전후좌우의 역사적 흐름과 사상을 잘 이해할 수 있을 것이다. 뿐만 아니라, 내용의 이해를 돕는 이미지들도 200점 이상 수록해 독자들의 읽는 재미와 신선함도 더해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20180508",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "소준섭 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "493 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187142409",
+                "INPUT_DATE": "20180327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "중국사 인물 열전",
+                "PUBLISH_PREDATE": "20180412",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

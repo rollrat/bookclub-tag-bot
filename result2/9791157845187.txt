@@ -1,0 +1,78 @@
+{
+    "otitle": "상식의 재구성",
+    "oauthor": "조선희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:46 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "상식의 재구성 (한국인이라는, 이 신나고 괴로운 신분)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436316719",
+                "image": "https://shopping-phinf.pstatic.net/main_3243631/32436316719.20230218110450.jpg",
+                "author": "조선희",
+                "discount": "19010",
+                "publisher": "한빛비즈",
+                "pubdate": "20210701",
+                "isbn": "9791157845187",
+                "description": "넓고 깊게, 정확히 아는 데서\n상식의 중간지대가 만들어진다!\n\n틀린 정보와 상식, 끊어져 버린 흐름...\n흐트러진 모자이크를 맞추다\n\n한국 사회는 사회 갈등으로 몸살을 앓고 있다. 냉철하게 이해해야 할 정치사회적 문제조차도 감정적으로 변질되어 분노로 양극화되어 가는 중이다. 각종 미디어와 SNS에서 쏟아내는 단절되고 맥락 없는 정보들은 대중에게 혼란과 오해를 부추기고 있다. 한국의 민주주의가 그만큼 성숙하지 않았다는 얘기이기도 하다. 이 책은 우리 사회의 갈등을 포인트로 잡았다. 쟁점도 많고 갈등도 많은 민주주의 사회에서 건강한 시민으로 살아갈 수 있도록 저널리스트의 관점에서 ‘팩트’를 체크하고 배경을 짚어줌으로써, 문제를 좀 더 넓은 시야로 들여다보고 주체적으로 판단할 수 있도록 한다."
+            },
+            {
+                "title": "2017 시나공 일반상식의 재구성 (기억상자 프로그램 탑재)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467121060",
+                "image": "https://shopping-phinf.pstatic.net/main_3246712/32467121060.20220519234036.jpg",
+                "author": "길벗 R&D 일반상식 연구팀",
+                "discount": "0",
+                "publisher": "길벗",
+                "pubdate": "20151218",
+                "isbn": "9791186978160",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20210827",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "조선희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "555 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157845187",
+                "INPUT_DATE": "20210609",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "상식의 재구성",
+                "PUBLISH_PREDATE": "20210701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

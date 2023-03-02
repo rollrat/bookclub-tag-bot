@@ -1,0 +1,67 @@
+{
+    "otitle": "부동산, 누구에게나 공평한 불행",
+    "oauthor": "마강래 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부동산, 누구에게나 공평한 불행 (우리는 왜 부동산 때문에 좌절하는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441095590",
+                "image": "https://shopping-phinf.pstatic.net/main_3244109/32441095590.20221019145122.jpg",
+                "author": "마강래",
+                "discount": "15300",
+                "publisher": "메디치미디어",
+                "pubdate": "20211001",
+                "isbn": "9791157068661",
+                "description": "도시계획과 도시재생, 도시행정을 주제로 균형 있는 국토 발전을 위한 다양한 방법들을 구축하는 데 전력해온 현장 중심의 연구자인 마강래 교수(중앙대학교 도시계획부동산학과)가 우리 사회의 가장 민감하고 중요한 이슈인 부동산의 모든 것을 담은 《부동산, 누구에게나 공평한 불행》을 펴냈다. 《부동산, 누구에게나 공평한 불행》은 평범한 우리가 “부동산에 관해서는 모두가 억울해졌다”라고 말하는 도발적인 책이자, 우리 사회의 현주소를 담아낸 한 편의 다큐멘터리다. 지방이 살아야 서울이 살 수 있다고 믿는 도시계획가로서 자신의 길을 묵묵히 걸어온 마강래 교수는 응용통계학·도시및지역계획학·도시계획학에 기반을 둔 통합적인 시각을 바탕으로 하여 늘 당대의 구체적인 문제를 치열하게 고민하는 것이 학자로서의 책임이자 역할이라고 믿었다. 현장과 밀착한 도시계획·부동산 문제에 천착해온 연구자로서, 화려한 불빛 속에 감추어진 집값 폭등이 낳은 박탈감, 무주택 청년들의 상실감 등 우리 사회의 현주소를 날카롭게 분석하는 동시에 혼란을 타개할 새로운 공존의 패러다임을 제시할 적임자가 그인 이유다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211018",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마강래 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157068661",
+                "INPUT_DATE": "20210818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "부동산, 누구에게나 공평한 불행",
+                "PUBLISH_PREDATE": "20211001",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

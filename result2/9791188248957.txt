@@ -1,0 +1,67 @@
+{
+    "otitle": "행복이 거기 있다, 한 점 의심도 없이",
+    "oauthor": "정지우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "행복이 거기 있다, 한 점 의심도 없이 (쓰는 사람 정지우가 가득 채운 나날들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474539879",
+                "image": "https://shopping-phinf.pstatic.net/main_3247453/32474539879.20221019152751.jpg",
+                "author": "정지우",
+                "discount": "12600",
+                "publisher": "웨일북(whalebooks)",
+                "pubdate": "20190814",
+                "isbn": "9791188248957",
+                "description": "늘 깨어 있는 채로 곁에 머무는 행복!\n\n젊은 인문학자 정지우의 다감한 사유가 담긴 첫 에세이 『행복이 거기 있다, 한 점 의심도 없이』. 매일 한두 개의 긴 글을 쓰고 나누고, 쓰고자 하는 사람들이 사랑하는 글을 쓰고, 정성스레 살고 정성스레 관계하는 사람이 있다. 모두가 정신없이 살아갈 때, 섬세한 시선으로 일상을 촘촘하게 걸러내고, 흘러가는 생을 핵심적으로 살아내려 노력하는 작가 정지우의 이야기이다.\n\n대책 없이 따뜻하지 않은, 지적인 사유를 바탕으로 삶의 온도를 유지하는 법을 알고 싶다면 그의 생각과 생활을 눈여겨볼 필요가 있다. 이 책에서 우리는 어느 하루하루들이, 그 하루 속에서 필사적으로 생각하고 느끼고 살아내고자 했던 기억들이 삶을 비집고 나오듯 새겨진 기록들을 만나볼 수 있다. 관계, 사랑, 인생, 행복에 대한 저자의 오랜 고민들은 늘 자신이 보낸 하루들과 엉겨 붙은 실타래처럼 새어나왔는데, 그런 글들은 저자가 한 시절을 바쳐 해왔던 어떤 글보다도 훨씬 더 진실한 데가 있었다고 이야기하며 자신의 숨결과 같은, 저녁과 같은, 잠과 같은 글들을 담아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Whale books(웨일북)",
+                "DDC": "",
+                "UPDATE_DATE": "20190827",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "정지우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "CIP2019027774",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188248957",
+                "INPUT_DATE": "20190716",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "행복이 거기 있다, 한 점 의심도 없이",
+                "PUBLISH_PREDATE": "20190814",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

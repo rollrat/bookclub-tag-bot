@@ -1,0 +1,67 @@
+{
+    "otitle": "야나두 나의 즐거운 영어생활",
+    "oauthor": "원예나 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "야나두 나의 즐거운 영어생활 (트레이닝 북, 동영상 강의 제공)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485989517",
+                "image": "https://shopping-phinf.pstatic.net/main_3248598/32485989517.20221019104858.jpg",
+                "author": "원예나",
+                "discount": "12100",
+                "publisher": "라곰",
+                "pubdate": "20201116",
+                "isbn": "9791189686246",
+                "description": "짧고, 쉽게, 집중해서\n눈으로 보고, 입으로 따라하면\n입에서 영어가 저절로 툭!\n\n출간 즉시 종합 베스트셀러 1위를 기록한 《야나두 영어회화》의 새로운 시리즈가 더욱 쉽고, 재미있는 《야나두 나의 즐거운 영어생활》로 돌아왔다. 100만 수강생의 영어 말문을 열어주는 야나두 대표 강사 원예나가 이번에 주목한 건 ‘생활 밀착형 영어회화’다. \n《야나두 나의 즐거운 영어생활》은 ‘반찬을 꺼내다’, ‘폰을 확인하다’, ‘유튜브를 구독하다’ 등과 같이 우리가 매일 일상에 하는 행위들을 영어로 말하는 법을 배우고, 일상에서 반복적으로 훈련하게 함으로써 학습 효과를 극대화한다. 아기자기한 일러스트와 함께 공부의 재미를 더했고, 시제와 인칭 변화 훈련으로 영어회화의 기초 체력을 단단하게 다지게 했다. 또한 학습한 내용을 바탕으로 ‘1분 말하기’까지 가능하게 해 영어에 자신감을 불어넣어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "라곰",
+                "DDC": "",
+                "UPDATE_DATE": "20210203",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "https://post.naver.com/lagombook",
+                "AUTHOR": "지은이: 원예나 ;일러스트: 코끼리씨",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "322 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189686246",
+                "INPUT_DATE": "20201019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "야나두 나의 즐거운 영어생활",
+                "PUBLISH_PREDATE": "20201116",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "우리 이제 낭만을 이야기 합시다",
+    "oauthor": "김도훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리 이제 낭만을 이야기합시다 (신경질적인 도시를 사랑하며 사는 법에 관하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473903940",
+                "image": "https://shopping-phinf.pstatic.net/main_3247390/32473903940.20221019120746.jpg",
+                "author": "김도훈",
+                "discount": "12600",
+                "publisher": "웨일북(whalebooks)",
+                "pubdate": "20190328",
+                "isbn": "9791188248810",
+                "description": "욕망의 도시에 발붙인 채, 시시한 어른으로 늙지 않으려 살아낸 삶의 흔적들!\n\n《허프포스트코리아》 김도훈 편집장의 첫 번째 에세이 『우리 이제 낭만을 이야기합시다』. 사람, 영화, 도시, 옷, 물건, 정치까지 다루는 대상에 제한 없이, 정제된 단문으로 세상에서 일어나는 모든 일에 대한 모든 것을 보고 쓰는 저자가 2004년부터 써온 글 가운데 솎아내고 엮은, 가장 아끼는 글들을 담았다. 매체에 기고하지 않고 남겨두었던 개인적인 에피소드까지 만나볼 수 있다.\n\n마산에서 태어나 외항선 선장이었던 아버지가 사다 준 일본 장난감을 친구들에게 자랑하거나 프라모델을 조립하거나 썩은 바다에서 게를 잡으며 유년을 보내고, 영화 잡지가 생겨나던, 저자에 따르면 한국 역사상 가장 멋지게 얄팍했던 90년대에 대학을 다녔고, 지금은 신경질적인 소음으로 가득한 서울에서 중년에 접어드는 중인 저자의 어른스러운 청년의 사려 깊음과 청년 같은 중년의 재기 발랄함이 엿보이는 문장들이 담겨 있다.\n\n자존감이 강해 누군가에게 작은 우울함과 슬픔의 사인도 보내고 싶지 않았고 극복할 수 있다고 생각하던 어느 날 밤 문득 ‘가야겠다’고 읊조린 후 상담을 받으러 가기까지, 온라인 매체에서 일하면서도 새 잡지를 주문한 뒤 종이 냄새를 맡으며 안온함을 느끼는 잡지 중독자의 삶처럼 30대 중반부터 40대 중반까지 품격과 허영 사이에서, 쓸모와 쓸모없음 사이에서, 옮음과 현실 사이에서 갈지자걸음을 걸으며 신경질적인 도시를 견뎌낸 기록이 뒤엉켜 있는 이 책에서 늘 변화의 최전선에 있는 저자의 속마음, 그 특별한 상태들을 들여다볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Whale books(웨일북)",
+                "DDC": "",
+                "UPDATE_DATE": "20190405",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "김도훈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/11/9791188248810.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "CIP2019007447",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188248810",
+                "INPUT_DATE": "20190219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우리 이제 낭만을 이야기합시다",
+                "PUBLISH_PREDATE": "20190328",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "쓰는 기분",
+    "oauthor": "박연준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:01 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "쓰는 기분 (박연준 산문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442795781",
+                "image": "https://shopping-phinf.pstatic.net/main_3244279/32442795781.20221019135416.jpg",
+                "author": "박연준",
+                "discount": "12100",
+                "publisher": "현암사",
+                "pubdate": "20210720",
+                "isbn": "9788932321530",
+                "description": "“당신에게 '부드러운 용기, 작은 추동을 일으키는 바람, 따뜻한 격려'를 건네고 싶다”\n\n박연준 작가의 신작 산문집 『쓰는 기분』이 출간되었다. 시집 『속눈썹이 지르는 비명』, 『아버지는 나를 처제, 하고 불렀다』, 『베누스 푸디카』, 『밤, 비, 뱀』 그리고 산문집 『소란』, 『인생은 이상하게 흐른다』, 『모월모일』 등 다방면으로 독자들의 사랑을 받아온 그가 이번에는 우리를 시 읽기, 그리고 시 쓰기의 세계로 안내한다. \n\n  ‘시가 대체 뭐지? 시는 어떻게 읽지? 시인의 마음이란 무엇일까? 작가는 어떻게 쓸까? 혹시 나도 시를 쓸 수 있을까?’ 이런 생각 앞에서 갸웃거리거나 머뭇거리는 이들이라면 더더욱 두 팔 벌려 환영한다. ‘쓰는 기분’이 특별한 ‘재능’을 가지거나 ‘선택된’ 누군가의 것이 아니라는 걸, 바로 당신도 누릴 수 있다는 걸 다정하게 이야기하는 책이다."
+            },
+            {
+                "title": "책갈피의 기분 (책 만들고 글 쓰는 일의 피 땀 눈물에 관하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467226983",
+                "image": "https://shopping-phinf.pstatic.net/main_3246722/32467226983.20221228073612.jpg",
+                "author": "김먼지",
+                "discount": "12600",
+                "publisher": "제철소",
+                "pubdate": "20190429",
+                "isbn": "9791188343218",
+                "description": "12구짜리 멀티탭 수준으로 일하는 어느 8년 차 출판편집자의 본격 하소연 에세이. 2018년 독립출판물로 소개되어 많은 이의 공감을 샀다. 독자들의 사랑에 힘입어 이번에 새롭게 펴낸 &lt;책갈피의 기분&gt;에서는 '독립출판'이라는 특별한 경험과 그것이 가져다 준 작은 변화들까지 모두 담아냈다.\n\n\n\n책장을 열면 \"연봉을 13으로 나눈 쥐꼬리를 월급으로 받고, 유명 인사가 작고하면 삼가 고인의 명복을 빌 새도 없이 한 달 만에 관련 도서 5종을 뚝딱 찍어내고, 핫식스와 레드불과 스누피 커피우유 가운데 어느 게 가장 각성 효과가 큰지 꿰고 있는 편집자의 삶\"이 파노라마처럼 펼쳐진다. \n\n\n\n책과 책 사이에 끼어 너덜너덜 납작해진 책갈피의 일상을 따라가다 보면 지옥철에 끼이고, 액셀 시트에 끼이고, 무능한 상사와 가진 건 열정뿐인 신입사원 사이에 끼인 우리 납작이들에게 전하는 작은 위안과 응원의 메시지를 발견하게 된다. 그리고 모니터 앞에서 분연히 일으켜세워 다른 갈피에 접어두었던 삶을 꿈꾸게 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20210820",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "지은이: 박연준",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "125*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932321530",
+                "INPUT_DATE": "20210528",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "쓰는 기분",
+                "PUBLISH_PREDATE": "20210720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

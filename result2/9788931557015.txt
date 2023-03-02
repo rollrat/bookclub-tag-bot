@@ -1,0 +1,67 @@
+{
+    "otitle": "인생 유니티 VR/AR 교과서",
+    "oauthor": "이영호,박원석,박현상,탁광욱,이영훈,김현진,김정윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인생 유니티 VR/AR 교과서 (유니티 VR/AR 게임 개발 탑티어 강의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467440745",
+                "image": "https://shopping-phinf.pstatic.net/main_3246744/32467440745.20230218110558.jpg",
+                "author": "이영호^박원석^박현상^탁광욱^이영훈^김현진^김정윤",
+                "discount": "31500",
+                "publisher": "성안당",
+                "pubdate": "20210405",
+                "isbn": "9788931557015",
+                "description": "상상의 현실인 가상현실(VR)과 현실에 가상을 더한 증강현실(AR)을 \n유니티 게임 제작에 접목하여 메타버스(Metaverse)까지!\n\n인생 유니티 VR/AR 교과서\n\n315조 메타버스(Metaverse) 시장을 선점하려고 통신, 포털, 게임 업계가 혈안이라는 뉴스에  로블록스(Roblox)가 뉴욕 증시 직상장을 통해 52조 원의 기업 가치를 인정받았다는 소식이 최근 연일 뉴스에 오르내렸다. 초보자용 VR 게임 엔진으로 로블록스 스튜디오와 함께 탑으로 꼽히는 유니티도 메타버스 시장의 유망주로 꼽혀 관심이 부쩍 높아지고 있다. \n가상현실(VR) 시장으로만 좁혀서 살펴보면 시장조사기관 디지캐피탈(Digi-Capital)이 전 세계 VR 시장 규모를 2016년 40억 달러에서 2017년 200억 달러, 2020년 1,500억 달러 규모로 예측한 바 있다. 또 현재는 VR 산업이 디바이스 위주 성장이지만 향후 컨텐츠 개발로 성장이 가속화 될 것으로 전망했다. 이제 가상현실(VR, Virtual Reality), 증강현실(AR, Augmented -), 융합현실(MR, Mixed -), 확장현실(XR, eXetended -), 공존현실(CR, Coexistent -)에 이어 메타버스가 핫 키워드로 등장함에 따라 유니티로 VR/AR 게임 개발에 더욱 관심이 집중될 전망이다. \n메타버스는 ‘초월적(Meta)’ ‘우주(Universe)’를 뜻하는 단어로 3차원 가상 세계가 현실과 이어지는 개념으로 과거에 유행하던 ‘세컨드 라이프’ 같은 게임, 영화 ‘매트릭스’ 등을 연상하면 되지만 요즘에는 제대로 VR을 체험할 수 있는 오큘러스 VR 글래스 등으로 더욱 인기를 끌고 있다. VR 기술은 게임, 교육, 방송영상, 마케팅, 테마파크, 의료, 커뮤니티, 군사 및 기타 분야에 다양하게 적용된다. 특히 최근 유니티는 건설 현장에 증강현실(AR) 설계도를 덧입히는 기술을 보유한 비주얼 라이브를 인수했고 이로 인해 게임 개발에 사용되는 도구로 건축 설계를 돕는 플랫폼인 유니티 리플렉트도 현장에서 활용되는 AR 설계도 기능을 갖추게 됐다. 이런 가운데 [인생 유니티 교과서]를 낸 집필진들이 두 번째로 집필한 [인생 유니티 VR/AR 교과서]는 오큘러스 VR 글래스를 제대로 적용해 유니티 게임 개발을 위한 각종 개발 환경을 구성하고 방법을 제대로 안내한다. 전망이 밝은 메타버스 시장에 뛰어들 수많은 유니티 개발자들이 배울 내용이 많아 관심이 집중될 것으로 보인다. \nChapter 1에서 VR 콘텐츠 제작을, Chapter 2에서 AR 콘텐츠 제작을 균형 있게 다룬다. Chapter 1에서는 VR에 대해 알아보고 개발 환경을 설정한 뒤 매직복셀 프로젝트를 통해 복셀(Voxel, 3차원 큐브 데이터)과 VR 360 영상 제작 플레이어, VR 타워 디펜스도 만들어보고 VR 네트워크도 제작해 본다. Chapter 2에서는 지형 인식을 이용한 자동차 카탈로그와 얼굴 인식을 이용한 앱, 마커 인식을 이용한 게임 제작 등을 알아본다. 책에 사용된 소스와 예제들은 저자 깃허브(github/araxrlab/xlifeunity)와 ㈜성안당 자료실(www.cyber.co.kr)에서, 각종 독자 문의와 질의응답은 저자 카페 유니티 언리얼(cafe.naver.com/unrealunity)을 통해 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210602",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "이영호,박원석,박현상,탁광욱,이영훈,김현진,김정윤 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/30/9788931557015.jpg",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "643 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931557015",
+                "INPUT_DATE": "20210330",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "인생 유니티 VR/AR 교과서",
+                "PUBLISH_PREDATE": "20210405",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

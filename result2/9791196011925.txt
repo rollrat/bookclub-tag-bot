@@ -1,0 +1,67 @@
+{
+    "otitle": "차이나는 요리",
+    "oauthor": "최형진,정지선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "차이나는 요리 (스타 셰프 최형진, 정지선의 맛있는 중식 88)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441032220",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441032220.20221228074403.jpg",
+                "author": "최형진^정지선^이건호 (도움)",
+                "discount": "13320",
+                "publisher": "북스고",
+                "pubdate": "20170830",
+                "isbn": "9791196011925",
+                "description": "갑작스레 친구가 찾아오거나 집들이처럼 손님 치를 일이 있을 때 또는 주말에 밥 해먹기 귀찮을 때 가장 먼저 중국요리를 떠올리고 주문한 경험은 누구에게나 있을 것이다. 그만큼 친숙하지만, 정작 집에서 만들기는 어렵다는 생각을 종종 한다. 다양한 식재료와 조리법으로 쉽게 할 수 없다는 생각 때문에 중국요리는 배달해서 먹는 것이자 식당에서 먹는 것으로만 생각해 왔다. 하지만 중국요리도 쉽고 간단하게 집에서 해 먹을 수 있다면 어떨까? \n이 책은 생각보다 어렵지 않고 간단한 중국요리 레시피를 담고 있다. 세계 3대 요리 중 하나로 전 세계에서 사랑받는 중국요리를 우리 입맛에 맞는 식재료와 조리법에 맞추어 재현하였다. 대한민국 중식을 이끌고 있는  스타 셰프인 최형진, 정지선이 제안하는 간단하고 건강한, 그리고 맛까지 보장하는 중국요리를 제시하고 있다. 누구라도 ‘셰프의 맛’을 그대로 재현할 수 있도록, 주변에서 쉽게 구할 수 있는 제철 재료와 정확한 계량의 대표적인 중국요리 88가지 레서피로 중국요리의 즐거움을 느낄 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "",
+                "UPDATE_DATE": "20171212",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최형진,정지선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196011925",
+                "INPUT_DATE": "20170811",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "차이나는 요리",
+                "PUBLISH_PREDATE": "20170830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

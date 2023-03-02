@@ -1,0 +1,78 @@
+{
+    "otitle": "차세대 3D 배경그래픽",
+    "oauthor": "장형호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:20 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "차세대 3D 배경 그래픽 (Unreal Engine 4와 Substance Designer를 이용한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465757952",
+                "image": "https://shopping-phinf.pstatic.net/main_3246575/32465757952.20221228074054.jpg",
+                "author": "장형호",
+                "discount": "37800",
+                "publisher": "성안당",
+                "pubdate": "20181115",
+                "isbn": "9788931554649",
+                "description": "언리얼 엔진4 기반의 수준 높은 활용 예제 및 배경 제작 방법 풀 공개! \n3ds Max, ZBrush, 언리얼 엔진 4를 활용한 고급 3D 배경 제작 지침서!\n\n이 책은 차세대를 기반으로 한 배경 그래픽을 제작하는 전반적인 내용을 담고 있다. 이 책에서는 3ds Max, 포토샵, ZBrush에 대한 팁, 3ds Max와 ZBrush를 통한 하이폴리곤 기반의 모델링 방식과 텍스처 제작 등을 다루며, 또 차세대 엔진인 언리얼 엔진 4를 통해 머티리얼을 제작하고 레벨을 꾸미는 과정을 통해서 배경을 제작하는 전반적인 방법을 제시하고 있다.  부록(Appendix)으로 절차적 방식의 텍스처 제작 툴인 섭스턴스 디자이너(Substance Designer)를 활용하여 엔진 등에 연계하여 활용하는 방법이 포함되어 있다. 전반적인 내용 이해를 돕기 위해 각 과정 설명을 가급적 생략하지 않고 풀어 쓰려고 노력하였다. 특히 모든 내용은 초보자에서 실무자까지 모두 볼 수 있는 수준 높은 예제와 저자만의 작업 방법, 실무에서 겪고 강의를 하면서 얻은 노하우가 책에 고스란히 수록되어 있다.  3쇄부터는 부록 CD를 없애고 본문 예제와 결과 파일을 (주)성안당(www.cyber.co.kr) 자료실- 자료실에서 다운로드할 수 있도록 했다."
+            },
+            {
+                "title": "차세대 3D 배경 그래픽 (Unreal Engine 4와 Substance Designer를 이용한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505812284",
+                "image": "https://shopping-phinf.pstatic.net/main_3250581/32505812284.20220530151516.jpg",
+                "author": "장형호",
+                "discount": "0",
+                "publisher": "성안당",
+                "pubdate": "20150430",
+                "isbn": "9788931553499",
+                "description": "하이엔드 3D 배경 그래픽 제작 방법!\n\n『Unreal Engine 4와 Substance Designer를 이용한 차세대 3D 배경 그래픽』은 차세대를 기반으로 한 배경 그래픽을 제작하는 전반적인 내용을 담고 있다. 책에서는 3ds Max, ZBrush, Photoshop 등 다양한 툴의 활용과 응용 방법이 수록되어 있고, 차세대 텍스처 제작 툴인 Substance Designer를 설명한다. 아울러 차세대 엔진인 언리얼 엔진 4를 통해 머테리얼을 제작하고 레벨을 꾸미는 과정을 통해 배경을 제작하는 방법을 소개한다. 부록에는 절차적 방식의 텍스쳐 제작 툴인 Substance Designer를 활용해 엔진 등에 연계하여 활용하는 방법을 알려준다. 저자는 책의 전반적인 내용의 이해를 돕기 위해 과정들의 설명을 가급적 생략하지 않고 풀어 썼다고 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)성안당",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "저자 : 장형호",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "42,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "220*250",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "712",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931554649",
+                "INPUT_DATE": "20210114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "N",
+                "TITLE": "(Unreal Engine 4와 Substance Designer를 이용한)차세대 3D 배경 그래픽",
+                "PUBLISH_PREDATE": "20160920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

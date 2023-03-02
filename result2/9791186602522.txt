@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 스윙",
+    "oauthor": "김선영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 스윙 (울고 싶은 마음이 들면 스윙을 떠올린다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467223663",
+                "image": "https://shopping-phinf.pstatic.net/main_3246722/32467223663.20221227203906.jpg",
+                "author": "김선영",
+                "discount": "8910",
+                "publisher": "위고",
+                "pubdate": "20200601",
+                "isbn": "9791186602522",
+                "description": "금요일 밤에는 택시를 달려 최대한 빨리 가야 할 곳이 있다. 흥겨운 재즈 음악이 가득 울리고, 백 명도 넘는 사람들이 다 함께 스윙을 추고 있는 곳. 개구쟁이 같은 표정으로 춤을 추는 댄서들이 이따금 빵 하고 시원한 웃음을 터뜨리는 곳. &lt;아무튼, 스윙&gt;은 생각이 많아 모든 시작이 어려웠던 편집자가 직장인이 되기 위해 떠났고, 다시 직장인으로 살기 위해 돌아온 스윙에 관한 이야기다. 즐거울 때보다 슬플 때 더 생각나는, 울고 싶은 마음이 들면 떠올리는, 위로와 같은 '댄스'에 관한 이야기. \n\n\n\n네이버 지식백과에 '스윙'을 검색하면 한 줄 소개가 나오는데, 저자는 이 설명이 꽤나 마음에 들었다고 한다. \"어둠의 시기 사람들을 춤추게 하다.\" 1929년에 시작된 대공황으로 침체된 경기가 1930년대 중반부터 차츰 살아나면서 사람들은 다시 활기를 찾았고 이때 등장한 재즈 연주 스타일인 스윙 음악이 인기를 끌었다. 이 음악에 맞춰 사람들은 몸을 흔들거렸을(swing) 것이고, 스윙 음악을 즐기기 위한 스윙 댄스도 번성했다. \n\n\n\n\"음악에 푹 빠져 자못 과장된 표정으로 춤을 추는 사람들을 보며 나도 저들처럼 오늘을 얼마나 기다렸는지 다시금 깨닫는다. 노래 한 곡이 또 끝나간다. 새로운 곡이 시작되면 나도 이제 저 댄서들 속으로 들어가는 거다. 거기에 김선영 팀장은 없을 것이다.\""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "",
+                "UPDATE_DATE": "20200814",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 김선영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602522",
+                "INPUT_DATE": "20200814",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 스윙",
+                "PUBLISH_PREDATE": "20200601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

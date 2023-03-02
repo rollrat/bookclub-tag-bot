@@ -1,0 +1,67 @@
+{
+    "otitle": "서른과 마흔 사이 (10주년 기념 에디션)",
+    "oauthor": "오구라 히로시 저/박혜령 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서른과 마흔 사이(10주년 기념 에디션) (30대에 이루지 못하면 평생 후회하는 70가지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463129662",
+                "image": "https://shopping-phinf.pstatic.net/main_3246312/32463129662.20230117163653.jpg",
+                "author": "오구라 히로시",
+                "discount": "13500",
+                "publisher": "위너스북",
+                "pubdate": "20201215",
+                "isbn": "9791189352332",
+                "description": "30대 비즈니스맨에게 가장 사랑받는, \n당신의 서른을 가장 특별한 기회로 만들어 주는 책!\n\n일본에서 성공한 30~40대 비즈니스맨들의 탁월한 통찰과 성취를 담고 있다. 일본 젊은 직장인들이 가장 존경하는 멘토 중 하나인 저자 오구라 히로시는 ‘서른부터 마흔까지의 10년을 어떻게 보내느냐’에 따라 그후의 모든 인생이 결정된다고 강조한다. 태어나면서부터 20대까지가 배움과 수업의 시기였다면 30대는 그야말로 인생의 모든 진검승부가 펼쳐지는 시절이라는 것이다.\n\n20대에는 제아무리 빨라봤자, 또래보다 3~4년 정도 앞설 뿐이다. 하지만 30대에 들어서면 이야기가 달라진다. 30대의 10년이라는 시간을 어떻게 보내느냐에 따라 남은 인생의 모두가 결정된다. 30대에는 20대의 혈기와 낭만적 생각, 구체화되지 않은 막연한 비전과 꿈이 용납되지 않는다. 실수도 시행착오도 너그럽게 받아들여지지 않는다. 책은 바로 그 젊은 프로페셔널의 정신을 통찰 깊게 조명한다.\n\n따라서 인생의 황금기이자 절정기인 30대에 우리는 일과 삶의 거의 모든 승부수를 띄우고 거기에서 반드시 승리해야 한다. 이 책은 30대에 깨닫지 못하고 알지 못하고 실천하지 못하면 평생 후회할 수밖에 없는 70가지 인생전략을 소개한다. 또한 30대를 눈부시게 통과함으로써 40대에 자유와 행복, 참된 성공을 거머쥔 사람들의 지혜로 가득하다. 이 책은 인생의 전환기인 30대를 어떻게 보내야 하는지, 어떤 마음가짐으로 살아가야 하는지를 독자들에게 선물할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Winner's Book(위너스북)",
+                "DDC": "",
+                "UPDATE_DATE": "20210129",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오구라 히로시 지음 ;박혜령 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/03/9791189352332.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "270 p.",
+                "CONTROL_NO": "CIP2020046866",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189352332",
+                "INPUT_DATE": "20201103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "서른과 마흔 사이",
+                "PUBLISH_PREDATE": "20201215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

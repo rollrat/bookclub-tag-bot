@@ -1,0 +1,67 @@
+{
+    "otitle": "국경 없는 과학기술자들",
+    "oauthor": "이경선 저/국경없는과학기술자회 기획",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "국경 없는 과학기술자들 (적정기술과 지속가능한 세상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483323945",
+                "image": "https://shopping-phinf.pstatic.net/main_3248332/32483323945.20221230071426.jpg",
+                "author": "이경선",
+                "discount": "16200",
+                "publisher": "뜨인돌",
+                "pubdate": "20131120",
+                "isbn": "9788958074878",
+                "description": "적정기술이란 ‘현지의 자원과 노동력을 이용하여, 현지인들의 필요에 맞게, 친환경적이고 지속가능한 방법으로 개발 ·  운용되는 기술’을 말한다. “빈곤은 대량생산에 의해서가 아니라 대중에 의한 생산을 통해서만 해결된다”고 주장했던 마하트마 간디의 ‘손물레 운동’(1920)이 적정기술의 기원이다. 이후 E. F. 슈마허가 &lt;작은 것이 아름답다&gt;(1973)에서 주창한 ‘중간기술’을 거쳐 &lt;소외된 90%를 위한 디자인&gt;(2007)을 내세운 폴 폴락에 이르기까지, 개념적 ·  실천적으로 확장을 거듭하며 이어져 왔다. \n\n\n\n&lt;국경 없는 과학기술자들&gt;은 (사)국경없는과학기술자회(SEWB)에서 실무자로 활동했던 글쓴이가 그 동안의 다양한 경험들을 바탕으로 우리나라 적정기술의 현주소를 짚어 보고 나아갈 방향을 밝힌 책이다. 2009년에 설립된 SEWB는 아시아, 아프리카, 남태평양까지 이름 그대로 국경을 넘나들며 개발도상국에 적정기술을 전파하기 위해 노력하고 있는 단체다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌출판(주)",
+                "DDC": "658.5",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "이경선",
+                "SERIES_TITLE": "",
+                "KDC": "530.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3077411_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3077411_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013023242",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958074878",
+                "INPUT_DATE": "20131106",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "국경 없는 과학기술자들 ; 적정기술과 지속가능한 세상",
+                "PUBLISH_PREDATE": "20131115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

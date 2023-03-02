@@ -1,0 +1,67 @@
+{
+    "otitle": "나의 첫 금리공부",
+    "oauthor": "염상훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나의 첫 금리 공부 (내 자산을 지키는 금리지식의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442690218",
+                "image": "https://shopping-phinf.pstatic.net/main_3244269/32442690218.20230214163928.jpg",
+                "author": "염상훈",
+                "discount": "14400",
+                "publisher": "원앤원북스",
+                "pubdate": "20191015",
+                "isbn": "9791170430308",
+                "description": "나에게 맞는 적절한 자산을 선택할 수 있는 안목을 기르는 방법!\n\n누구나 궁금해 하지만 아무도 쉽게 설명해주지 않는 금리에 관해 알려주는 『나의 첫 금리 공부』. 금리라는 무기를 통해 자본시장을 이해하고, 다양한 투자대상 중에서 자산을 지키고 이익을 얻는 냉철한 안목을 기를 수 있도록 도와주는 책이다. 저자는 현재와 과거의 사례를 연관시켜 금리, 경제, 물가, 신용, 환율, 그리고 현재의 금융위기와의 관계를 설명하며, 학교에서도 회사에서도 아무도 알려주지 않던, 관심도 없고 중요하게 여겨지지 않았던, 그러나 실은 매우 중요하고 흥미로운 금리를 알려준다.\n\n파트 1에서는 금리에 대한 전반적인 지식을, 파트 2에서는 경기흐름에서 금리가 어떻게 작용하는지 알려준다. 파트 3과 파트 4에서는 물가와 금리, 신용과 금리의 관계를 다양한 사례로 설명한다. 파트 5에서는 우리나라의 원화뿐만 아니라 엔화, 위안화, 유로화 등을 통해 환율과 금리의 관계를 분석하고, 마지막 파트 6은 금융위기에서 금리가 어떤 역할을 하고 어떻게 영향을 미치는지 설명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191104",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "염상훈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.43",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "315 p.",
+                "CONTROL_NO": "CIP2019037467",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170430308",
+                "INPUT_DATE": "20190923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나의 첫 금리 공부",
+                "PUBLISH_PREDATE": "20191015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

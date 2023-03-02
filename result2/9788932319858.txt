@@ -1,0 +1,67 @@
+{
+    "otitle": "질문하는 삶",
+    "oauthor": "류대성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "질문하는 삶 (살면서 한 번쯤은 짚고 넘어가야 할 것들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472688825",
+                "image": "https://shopping-phinf.pstatic.net/main_3247268/32472688825.20221019134446.jpg",
+                "author": "류대성",
+                "discount": "13500",
+                "publisher": "현암사",
+                "pubdate": "20190419",
+                "isbn": "9788932319858",
+                "description": "질문의 깊이가 삶의 깊이다\n조금 더 단단한 내일을 위해 오늘 물어야 할 것들\n\n왜 우리는 매일 열심히 노력하는데도 내일을 생각하면 설레지 않는 걸까? 사랑, 죽음, 돈, 정치, 공부, 행복 등 반복해서 우리 삶을 덮쳐 오는 문제들에 대해 성급히 답을 구하기 전에 먼저 현명하게 질문하는 법을 짚어보는 교양 인문학. 살면서 낙담하거나 좌절할 때마다 우리는 ‘일이란 무엇인가’, ‘죽으면 모든 고통이 끝날까’, ‘무엇이 행복한 삶일까’와 같은 근본적인 물음에 부딪친다. 이와 같은 질문은 방황하던 청소년기의 고민이 아니라, 죽을 때까지 삶이 우리에게 끈질기게 묻는 실존적 질문들이다. 이 책은 누구나 살면서 주저앉고 싶어질 때마다 마주치는 질문들에 대해 함께 고민하며, ‘나는 왜 불행한가’라는 절망을 ‘나는 왜 불편한가’라는 비판적 인식으로 바꿔 따져 묻기를 권한다. 누구나 쉽게 읽고 이해할 수 있도록 각 장의 질문을 에세이 형식으로 흥미롭게 풀어간다. 독자들은 살면서 자주 의문을 품게 되는 주제들을 다른 관점에서 바라보며 문제의 본질을 깨닫고, 자기 삶의 목적과 태도를 변화시킬 힘을 얻을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20190502",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "류대성 지음",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "CIP2019011956",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932319858",
+                "INPUT_DATE": "20190327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "질문하는 삶",
+                "PUBLISH_PREDATE": "20190419",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

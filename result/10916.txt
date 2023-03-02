@@ -1,0 +1,23 @@
+{
+    "otitle": "지금, 너에게 간다",
+    "oauthor": "박성진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 너에게 간다",
+                "link": "https://search.shopping.naver.com/book/catalog/32436253960",
+                "image": "https://shopping-phinf.pstatic.net/main_3243625/32436253960.20220527043300.jpg",
+                "author": "사란",
+                "discount": "0",
+                "publisher": "선",
+                "pubdate": "20130906",
+                "isbn": "9788997875436",
+                "description": "사란 장편소설 『지금 너에게 간다』. 단 한 번의 첫 사랑에 마음을 여는 방법을 잊어버린 여자 민하율. 스스로 원하지 않았지만 세컨드의 아들이라는 굴레를 뒤집어 쓰고 산 정현원. 두 사람에게 결혼은 또 다른 기회였다."
+            }
+        ]
+    }
+}

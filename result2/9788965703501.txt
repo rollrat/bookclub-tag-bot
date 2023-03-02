@@ -1,0 +1,67 @@
+{
+    "otitle": "세도나 마음혁명",
+    "oauthor": "레스터 레븐슨,헤일 도스킨 공저/아눌라 스님 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세도나 마음혁명 (수천만 세계인의 인생을 바꾼 ‘세도나 메서드’로 가는 길)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485602424",
+                "image": "https://shopping-phinf.pstatic.net/main_3248560/32485602424.20221229074004.jpg",
+                "author": "레스터 레븐슨",
+                "discount": "13830",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20161004",
+                "isbn": "9788965703501",
+                "description": "마음이 평안해지는 7주간의 여행\n\n『세도나 마음혁명』은 근본적인 자기탐험, 자기치유, 자기혁명의 실천 로드맵, 세도나 메서드의 정수만을 담은 마음여행 안내서다. 성공한 사업가이자 물리학자였던 레스터 레븐슨은 세상이 말하는 성공의 정점에 있었지만 행복하지도, 건강하지도 못했다. 자기 내면으로 들어가 답을 찾기로 결심한 저자는 나는 누구인지, 내 인생의 목적이 무엇인지, 문제는 무엇이고 해결책은 어떻게 찾는지, 궁극의 행복은 어디에 있는지 등 끊임없는 물음을 던지며 몸과 마음과 영혼을 관통하는 답을 발견하기에 이른다. 바로 모든 내적 한계들을 놓아버리는 릴리싱 테크닉, ‘세도나 메서드’다.\n\n이 책은 세도나 메서드의 첫 단추이자 몸통이라 할 수 있는 ‘놓아버리기’를 쉽게 알려주는 책이다. 레스터 레븐슨 자신이 깨달은 과정을 스토리로 생생하게 보여주고, 세도나트레이닝협회의 창립자이자 CEO인 헤일 도스킨이 ‘놓아버리기’를 훈련하는 7주간의 여정을 안내한다. 책은 레스터 레븐슨이 생전에 남긴 지혜로운 가르침과 깨달음의 진언들을 대담과 어록 형식으로 수록했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)쌤앤파커스",
+                "DDC": "158.1",
+                "UPDATE_DATE": "20161011",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "레스터 레븐슨, 헤일 도스킨",
+                "SERIES_TITLE": "",
+                "KDC": "189.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5743483_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5743483_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "312",
+                "CONTROL_NO": "CIP2016022061",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965703501",
+                "INPUT_DATE": "20160907",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "세도나 마음혁명",
+                "PUBLISH_PREDATE": "20161005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

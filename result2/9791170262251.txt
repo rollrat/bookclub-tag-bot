@@ -1,0 +1,67 @@
+{
+    "otitle": "지금 잘 자고 있습니까?",
+    "oauthor": "조동찬 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 잘 자고 있습니까? (그동안 미처 몰랐던 잠에 관한 오해와 진실을 밝히다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496144276",
+                "image": "https://shopping-phinf.pstatic.net/main_3249614/32496144276.20221019115651.jpg",
+                "author": "조동찬",
+                "discount": "12420",
+                "publisher": "팜파스",
+                "pubdate": "20181120",
+                "isbn": "9791170262251",
+                "description": "보약을 뛰어넘는 만병통치약, 잠을 이야기하다!\n\nSBS 의학전문기자 조동찬이 그동안 미처 몰랐던 잠에 관한 오해와 진실을 밝히는 『지금 잘 자고 있습니까?』. 우리가 간과했던 잠의 중요성과 필요성에 많은 의미와 비밀이 숨어 있다는 것에 주목한 책으로, 학술적 근거를 토대로 잠이란 무엇이며, 잠이 사람에게 과연 어떤 영향을 미치는지 알아보고 잠에 관한 지식과 궁금증을 알기 쉽게 풀어낸다.\n\n지나친 수면 부족으로 잠 빚에 시달린 경험이 있는 저자는 수면 부족이 야기하는 위험성을 결코 가벼이 넘겨서는 안 된다고 강조하며, 잠이 우리 몸에서 얼마나 중요한지 설명한다. 누군가는 잠을 조금만 자도 충분히 살 수 있다고 하고, 깨어 있는 시간에 비해 잠은 자투리 시간을 때우는 용도 혹은 불필요하고 게으른 사람의 상징처럼 언급되기도 하지만 수많은 질병의 원인으로 수면 부족이 거론된다고 이야기하면서 우리가 평소 놓치고 있었던 잠에 관한 이해와 오해, 과학적·문화적 의미 등을 일깨워준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "613.794",
+                "UPDATE_DATE": "20181121",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "조동찬 지음",
+                "SERIES_TITLE": "",
+                "KDC": "517.31",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970797_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "CIP2018034457",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170262251",
+                "INPUT_DATE": "20181025",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "지금 잘 자고 있습니까?",
+                "PUBLISH_PREDATE": "20181120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "내 방식대로 삽니다",
+    "oauthor": "남인숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 방식대로 삽니다 (남인숙의 쇼핑 심리 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492624450",
+                "image": "https://shopping-phinf.pstatic.net/main_3249262/32492624450.20221019113944.jpg",
+                "author": "남인숙",
+                "discount": "15120",
+                "publisher": "해냄출판사",
+                "pubdate": "20220513",
+                "isbn": "9791167140340",
+                "description": "한국과 중국을 합해 380만 부 이상 판매된 베스트셀러『여자의 모든 인생은 20대에 결정된다』등을 통해 ‘여자들의 멘토’로 사랑받아 온 남인숙 작가가 3년 만에 신작『내 방식대로 삽니다』를 출간한다. 이 책에는 저자가 자신의 손으로 돈을 벌면서부터 시작된 쇼핑 이력이 글쟁이 특유의 자기검열과 관찰을 거쳐 괜찮은 습관으로 자리 잡기까지의 흥미진진한 과정을 담았다. 물건을 ‘산다’는 것과 인생을 ‘산다’는 두 의미가 중의적으로 포함된 책 제목이 저자가 이 책에서 말하고 싶은 핵심과도 맞닿아 있다. 건강한 쇼핑은 욕망과 현실의 단차에 휘청이지 않고 재화를 삶의 도구와 맞바꾸는 즐거움을 준다. 무엇보다 사는 행위나 물건에 지배당하지 않는 태도는 나 자신의 삶을 장악하는 것으로 이어진다. 이것저것 기준 없이 마구 물건을 사들이는 사람은 인생도 그와 같기 쉽다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄(해냄출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20220609",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "남인숙 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "126*187",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "237 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167140340",
+                "INPUT_DATE": "20220418",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "내 방식대로 삽니다",
+                "PUBLISH_PREDATE": "20220513",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

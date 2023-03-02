@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 발레",
+    "oauthor": "최민영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 발레 (그래도 안 힘든 척하는 게 발레다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456299005",
+                "image": "https://shopping-phinf.pstatic.net/main_3245629/32456299005.20221228072642.jpg",
+                "author": "최민영",
+                "discount": "8910",
+                "publisher": "위고",
+                "pubdate": "20181122",
+                "isbn": "9791186602430",
+                "description": "마흔 살을 코앞에 둔 2015년부터 취미 발레를 시작한 저자의 에세이다. 저자는 어느 주말 무료하게 낮잠을 자다가 벌떡 일어났다. “내가 잠이 많고 잠을 좋아하기는 하지만 정말 낮잠은 이제 지겹다”는 생각이 들었다. 일상이 점점 재미가 없어지고 있었고 하루하루가 단조로웠다. 나이가 들어서도 심리적 에너지 수준이 떨어지지 않으려면 어린 시절 꼭 하고 싶었던 일에 도전해보는 게 좋다는 조언이 생각났다. 바로 발레였다.\n\n\n\n그러나 발레가 무엇인가, 팔다리 길고 하늘하늘한 사람들이 우아한 피아노곡에 맞춰 아름답고 근사한 움직임을 만들어내는 예술 아닌가. 발레를 배우고 싶다는 생각은 늘 있었지만 “맥주 뱃살이 양손 가득 잡히는 자신의 아랫배와 무대 위 그녀들의 공기처럼 가벼운 몸에 생각이 이르면 발레는 감히 범접할 수 없는 일임이 분명해졌다.”\n\n\n\n그러던 어느 토요일, 어차피 죽으면 썩어서 사라질 몸인데 난 참 쓸데없이 주저하는 일이 많구나 생각하며 자리를 털고 일어나 한 성인 발레 전문학원으로 쳐들어가 3개월 일시불 선결제로 발레수업을 등록하고 만다. “입구는 있지만 출구는 없는” 발레의 세계로 들어선 저자의 이야기다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181204",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 최민영",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6994101_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20181125",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6994101_3.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6994101_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "12,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "147 p.",
+                "CONTROL_NO": "CIP2018036215",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602430",
+                "INPUT_DATE": "20181025",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 발레",
+                "PUBLISH_PREDATE": "20181125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

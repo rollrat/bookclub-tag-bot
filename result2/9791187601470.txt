@@ -1,0 +1,67 @@
+{
+    "otitle": "모든 진화는 공진화다",
+    "oauthor": "박재용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모든 진화는 공진화다 (경이로운 생명의 나비효과)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497829627",
+                "image": "https://shopping-phinf.pstatic.net/main_3249782/32497829627.20221019151324.jpg",
+                "author": "박재용",
+                "discount": "13500",
+                "publisher": "MID",
+                "pubdate": "20171023",
+                "isbn": "9791187601470",
+                "description": "『모든 진화는 공진화다』는 다양한 생물들이 어떻게 관계를 맺고 살아가고 있으며, 그 관계가 어떻게 현재의 생태계를 만들어내는 데에 주요한 역할을 했는지를 밝히는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "MID(엠아이디)",
+                "DDC": "577",
+                "UPDATE_DATE": "20171103",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박재용 지음",
+                "SERIES_TITLE": "",
+                "KDC": "472.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6388441_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6388441_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "324 p.",
+                "CONTROL_NO": "CIP2017026390",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187601470",
+                "INPUT_DATE": "20171012",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "모든 진화는 공진화다",
+                "PUBLISH_PREDATE": "20171023",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

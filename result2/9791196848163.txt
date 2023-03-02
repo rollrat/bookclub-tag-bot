@@ -1,0 +1,78 @@
+{
+    "otitle": "고잉 그레이",
+    "oauthor": "주부의 벗 저/박햇님 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:19 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "고잉 그레이(큰글자도서) (나는 흰머리 염색을 하지 않기로 했다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441599620",
+                "image": "https://shopping-phinf.pstatic.net/main_3244159/32441599620.20221019131843.jpg",
+                "author": "주부의 벗사",
+                "discount": "13500",
+                "publisher": "블루무스",
+                "pubdate": "20200921",
+                "isbn": "9791196848163",
+                "description": "평소와 같은 아침, \n머리를 감고 빗질을 하다가 흰 머리카락 한 가닥을 발견한다면, 당신은 어떤 기분이 들까요?\n누구나 흰머리는 납니다. 저마다 시작이 다를 뿐이죠.\n\n100세 시대, 흰머리가 나기 시작하는 평균연령 39세!\n70세 이후에 염색을 멈춘다고 해도, 그 사이 30년은 당신의 선택입니다. \n\n당신은 어떤 스타일의 그레이 헤어가 되고 싶은지 생각해본 적 있나요?  \n흰머리가 자라기 전이라면, \n흰머리가 자라기 시작했다면,\n흰머리를 감추기에 너무 지쳤다면..... \n이 책을 읽어두세요!"
+            },
+            {
+                "title": "고잉 그레이(Going Grey) (나는 염색을 하지 않기로 했다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492206825",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492206825.20221019132713.jpg",
+                "author": "주부의 벗사",
+                "discount": "13500",
+                "publisher": "베르단디",
+                "pubdate": "20200525",
+                "isbn": "9791196848125",
+                "description": "평소와 같은 아침. \n머리를 감고 빗질을 하다가 흰 머리카락 한 가닥을 발견한다면, 어떤 기분이 들까요?\n누구나 흰머리는 납니다. 저마다 시작이 다를 뿐이죠.\n\n100세 시대, 흰머리가 나기 시작하는 평균연령 39세!\n70세 이후에 염색을 멈춘다고 해도, 그 사이 30년은 당신의 선택입니다. \n\n당신은 어떤 스타일의 그레이 헤어가 되고 싶은지 생각해본 적 있나요?  \n\n흰머리가 자라기 전이라면, \n흰머리가 자라기 시작했다면,\n흰머리를 감추기에 너무 지쳤다면…\n이 책을 읽어두세요!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "베르단디 :블루무스",
+                "DDC": "",
+                "UPDATE_DATE": "20220127",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "주부의 벗 지음 ;박햇님 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "593.235",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/25/9791196848163.jpg",
+                "PRE_PRICE": "33000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*297",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "225 p.",
+                "CONTROL_NO": "CIP2020035939",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196848163",
+                "INPUT_DATE": "20200825",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "고잉 그레이",
+                "PUBLISH_PREDATE": "20200921",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "세일즈포스, 디지털 혁신의 판을 뒤집다",
+    "oauthor": "김영국,김평호,김지민 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세일즈포스, 디지털 혁신의 판을 뒤집다 (글로벌 15만 기업의 놀라운 성장을 이끈 Salesforce 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473645888",
+                "image": "https://shopping-phinf.pstatic.net/main_3247364/32473645888.20221229073827.jpg",
+                "author": "김영국^김평호^김지민",
+                "discount": "18900",
+                "publisher": "베가북스",
+                "pubdate": "20190131",
+                "isbn": "9791186137871",
+                "description": "‘정보중심 고객시대’ 디지털혁신의 선도 기업, 세일즈포스(Salesforce)\n남다른 ‘고객경험’을 창출하는 클라우드 기반의 통합 플랫폼 이야기\n\n   데이터의 엄청난 역할로 인해 인간은 생산의 시대에서 소비의 시대로 넘어왔다. 정보 탐색 대상은 자연-사회현상에서 개개인의 소비행위로 옮겨진 지 오래다. 분석가들은 수집한 데이터로부터 소비자를 보다 근본적으로 이해하는 방법을 찾느라 한창이다. 빅 데이터와 AI는 소비자 행위를 예견하고 맞춤형 소비 제안을 도출하는 데 활용되고 있으며, 이를 위해 SNS에 방대하게 축적된 온갖 감성 데이터까지 수집-관리되고 있다. \n \n삼성전자, 현대자동차, CJ제일제당, 삼성물산, 아모레퍼시픽, 두산인프라코어, 풀무원...\n이들 일류 기업들은 왜 세일즈포스의 디지털 영업혁신 플랫폼을 쓰고 있을까?\n\n   이런 상황에서 고객정보가 경쟁력의 핵심임을 일찍이 간파하고 고객관계관리(CRM) 분야에 특화해 비즈니스를 전개해온 기업이 있다. 바로 세일즈포스다. “아는 것이 힘”인 시대에 정보는 중요한 생산요소 중 하나로, 시장의 불확실성을 줄이고 생산성을 획기적으로 증가시킨다. 특히 그 정보가 고객의 기호와 구매 의도로부터 나오는 것이라면, 그 분석도구는 시장에서 금맥을 캐낼 수 있다. 미래 비즈니스를 이끌고 있는 우버, 넷플릭스, 아마존이 전통적인 자동차 제조사, 영화사, 오프라인 유통기업에 비해 높은 경쟁력을 갖게 만든 요인은 무엇일까? 바로 대규모 ‘고객 정보’를 보유하고 활용한다는 것이다. 이렇듯 전통산업을 미래지향적 첨단산업으로 탈바꿈하는 경영혁신의 이면에 바로 그 혁신 수단을 제공하는 세일즈포스가 있었다. 이 책은 세일즈포스의 모든 것을 재미있고 소상하게 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "베가북스",
+                "DDC": "658.812",
+                "UPDATE_DATE": "20190605",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.vegabooks.co.kr",
+                "AUTHOR": "김영국,김평호,김지민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.512",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7063929_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "21000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7063929_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "299 p.",
+                "CONTROL_NO": "CIP2018041179",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186137871",
+                "INPUT_DATE": "20181213",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "세일즈포스, 디지털혁신의 판을 뒤집다",
+                "PUBLISH_PREDATE": "20190131",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

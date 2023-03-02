@@ -1,0 +1,67 @@
+{
+    "otitle": "어린이 사회 형사대 CSI 2",
+    "oauthor": "고희정 글/송진욱 그림/김봉수,배성호 감수 및 학습글",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어린이 사회 형사대 CSI 2: CSI, 힘겨운 시작 (추리로 배우는 사회 교과서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441653819",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441653819.20230131164256.jpg",
+                "author": "고희정",
+                "discount": "9000",
+                "publisher": "가나출판사",
+                "pubdate": "20150424",
+                "isbn": "9788957367100",
+                "description": "초등 사회 교과서를 충실히 다룬 사회 학습 동화입니다. 초등 사회 교과서는 일반 사회 영역(사회 문화, 정치, 경제), 지리 영역, 역사 영역으로 나눠집니다. 이에 따라 각 영역에 능통한 일반 사회 형사, 경제 형사, 지리 형사, 역사 형사, 정치 형사 캐릭터가 등장하며 이들이 다양한 사건 사고를 사회 교과 내용을 이용해 해결하는 과정이 그려집니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20150512",
+                "EA_ADD_CODE": "74300",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "고희정 글, 송진욱 그림, 김봉수 배성호 감수",
+                "SERIES_TITLE": "",
+                "KDC": "300",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788957366851",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4492426_3.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4492426_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015009792",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957367100",
+                "INPUT_DATE": "20150330",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "어린이 사회 형사대 CSI 2",
+                "PUBLISH_PREDATE": "20150424",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

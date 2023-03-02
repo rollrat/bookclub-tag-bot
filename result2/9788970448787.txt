@@ -1,0 +1,78 @@
+{
+    "otitle": "알기 쉬운 양자론",
+    "oauthor": "쓰즈키 다쿠지 저/손영수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:04 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "알기 쉬운 양자론 (현대물리학을 만든 거인들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466558302",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466558302.20221227203907.jpg",
+                "author": "쓰즈키 다쿠지",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190425",
+                "isbn": "9788970448787",
+                "description": "물질의 궁극을 응시하는 사고, 양자론\n\n양자론에 대해서 말하자면, 전문가가 아닌 사람들에게는 어쨌든 설명이 필요할 것이다. 음악이나 그림이라면 몇 번이고 되풀이하여 진짜를 들려주고 보여 주고 있으면 자연히 소양이 붙게 된다고 한다. 그러나 양자론은 아무리 수식을 바라본들 어떻게 되는 것이 아니다. 도대체 양자론이란 무엇인가? 왜 이런 것을 학자들이 눈에 핏발을 세우며 조사하는 지경이 되었을까? 설명하지 않으면 알 길이 없다. 이 책이 텔레비전 영화의 해설과 같은 것이라고까지는 말할 생각이 없지만, 어쨌든 전문가가 아닌 사람들도 그 윤곽만이라도 알아주고, 다소나마 흥미를 느껴 주었으면 하는 것이 목적이다. 세상에는 이런 일에 몰두한 사람들도 있었다는 것을 이해해 준다면 좋겠다."
+            },
+            {
+                "title": "알기 쉬운 양자론:현대물리학을 만든 거인들 (현대물리학을 만든 거인들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466648044",
+                "image": "https://shopping-phinf.pstatic.net/main_3246664/32466648044.20220524184416.jpg",
+                "author": "쓰즈키 타쿠지",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19880901",
+                "isbn": "9788970440729",
+                "description": "상대론과 견주는 현대 물리의 꽃-양자론은 어떻게 하여 만들어졌는가? 20세기 초두에 배출된 천재들의 얘기를 통해서 양자란 무엇인가를 말하고 자연의 정체를 해명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190521",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "쓰즈키 다쿠지 지음 ;손영수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448787",
+                "INPUT_DATE": "20190418",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "알기 쉬운 양자론",
+                "PUBLISH_PREDATE": "20190516",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

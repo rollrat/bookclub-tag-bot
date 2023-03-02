@@ -1,0 +1,67 @@
+{
+    "otitle": "도망치고 싶을 때면 나는 여행을 떠났다",
+    "oauthor": "박희성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도망치고 싶을 때면 나는 여행을 떠났다",
+                "link": "https://search.shopping.naver.com/book/catalog/32503831631",
+                "image": "https://shopping-phinf.pstatic.net/main_3250383/32503831631.20221019151204.jpg",
+                "author": "박희성",
+                "discount": "13500",
+                "publisher": "프롬북스",
+                "pubdate": "20211027",
+                "isbn": "9791188167531",
+                "description": "‘도망’과 ‘로망’ 사이, \n불안한 청춘의 솔직한 여행 이야기\n\n“겁 많고 내성적이지만, 잠시 다녀오겠습니다!”\n집 떠나면 개고생이라는데 왜 못 나가서 안달일까? 자존심 구겨가며 어렵사리 번 돈과 적금처럼 쌓아놓은 휴가를 한 방에 털어 떠나는 청춘들에게 여행은 대체 무엇일까?  \n『도망치고 싶을 때면 나는 여행을 떠났다』는 겁 많고, 불안하고, 내성적인 20대 청춘이 털어놓는 ‘여행지’ 아닌 ‘여행’ 이야기다. 성인이 되고부터 내내 20여 개 나라를 들락날락하면서 여행을 떠나고 돌아왔지만, 생각해보면 불안한 현실로부터의 도피였음을 고백하며, 아이가 어른이 되는 젊은 날의 호된 성인식을 여행을 통해 어떻게 무사히 치러냈는지를 들려준다. 또한 세계 곳곳의 다양한 사회와 문화, 낯선 사람들과 만나면서 ‘가면 벗은 나’를 발견할 수 있었고, 우리 사회가 암묵적으로 강요하는 빤한 어른이 될 뻔한 유혹을 이겨낼 수 있었다고 솔직하고 담담하게 말한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "프롬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211103",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박희성 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/10/08/9791188167531.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "134*199",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188167531",
+                "INPUT_DATE": "20211008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "도망치고 싶을 때면 나는 여행을 떠났다",
+                "PUBLISH_PREDATE": "20211027",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

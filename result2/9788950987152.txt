@@ -1,0 +1,67 @@
+{
+    "otitle": "회사 밥맛",
+    "oauthor": "서귤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "회사 밥맛",
+                "link": "https://search.shopping.naver.com/book/catalog/32439692368",
+                "image": "https://shopping-phinf.pstatic.net/main_3243969/32439692368.20221019110534.jpg",
+                "author": "서귤",
+                "discount": "12600",
+                "publisher": "아르테(arte)",
+                "pubdate": "20200401",
+                "isbn": "9788950987152",
+                "description": "먹고살기 위한 고군분투와 화려한 밥맛의 세계\n재기발랄 마이웨이 서귤의 리얼 오피스라이프!\n\n정신을 차리고 나니 오후 네 시였다. \n여태 점심을 먹지 못해 눈앞이 어질어질했다. 가까운 아무 식당이나 들어가려는 나를 \n선배가 막았다.\n\n“이렇게 개처럼 일했는데 아무거나 먹으려고?”\n\n매일 가는 회사,\n매번 다른 고난,\n매일 다른 ‘회사 밥맛’ 이야기"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아르테",
+                "DDC": "",
+                "UPDATE_DATE": "20200515",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "서귤 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "206 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950987152",
+                "INPUT_DATE": "20200402",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "회사 밥맛",
+                "PUBLISH_PREDATE": "20200401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

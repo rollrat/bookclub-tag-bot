@@ -1,0 +1,78 @@
+{
+    "otitle": "최고의 반찬 비결",
+    "oauthor": "요안나 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:21 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "최고의 반찬 비결 (국민 재료 60가지로 만드는 국민 반찬 198가지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32488827290",
+                "image": "https://shopping-phinf.pstatic.net/main_3248882/32488827290.20220527055617.jpg",
+                "author": "이혜영",
+                "discount": "0",
+                "publisher": "비타북스",
+                "pubdate": "20110615",
+                "isbn": "9788993357547",
+                "description": "냉장고 속 일상 재료로 만드는 대한민국 대표 반찬!\n\n일상적인 재료로 쉽게 만드는 대한민국 대표 반찬 레시피 『최고의 반찬 비결』. 인기 블로거 '요안나'가 구하기 쉬운 60가지 재료로 만드는 국민 반찬 198가지를 소개한다. 네이버 '레시피 스마트파인더'를 기준으로 대한민국 주부들이 가장 많이 사용하는 인기 재료를 선정해 각 재료별로 레시피를 담았다. 한 가지 재료를 이용해 여러 가지 반찬을 만들 수 있어 재료 활용도가 높고 쓸데없는 낭비도 줄일 수 있다. 또한 각 재료에 대한 영양 정보, 선택법, 보관법, 손질법, 제철 등 기본 정보를 함께 제공한다. 채소 반찬부터 육류 반찬, 해물반찬, 별미반찬, 스페셜 반찬까지 다양하게 만날 수 있다."
+            },
+            {
+                "title": "최고의 요리비결 4: 밑반찬 (13년간 방송된 최고의 밑반찬을 담았다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485005944",
+                "image": "https://shopping-phinf.pstatic.net/main_3248500/32485005944.20220527051708.jpg",
+                "author": "김숙년",
+                "discount": "0",
+                "publisher": "그리고책",
+                "pubdate": "20140310",
+                "isbn": "9788997686414",
+                "description": "최고의 요리 프로그램을 넘어 최고의 요리책 시리즈로 자리 잡은 . 4편에서는 13년간 방송에서 소개된 최고의 밑반찬 레시피만을 엄선했어요. 1~3권에서 요리 선생님 한 분의 레시피를 총망라해 한 권을 구성한 것과 달리 밑반찬을 주제로 여러 선생님들의 베스트 레시피만을 모았죠. 더 다양한 선생님들의 요리를 한꺼번에 만나고 싶어 했던 애독자들의 의견을 적극 반영한 이유 있는 변신이에요. “방송에 나온 베스트 레시피만 모아서 만들어 주면 안 될까요?” “내가 좋아하는 선생님의 요리는 언제쯤 책으로 나오나요?” 새로운 시리즈가 발간될 때 마다 아쉬움 섞인 질문을 남겨주신 애독자 분들을 위해 더욱 알차고 풍성한 내용으로 찾아왔어요. 요리 수는 120품으로 늘고, 디자인도 상큼하게 리뉴얼했어요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "헬스조선,",
+                "DDC": "",
+                "UPDATE_DATE": "20110621",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "이혜영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993357547",
+                "INPUT_DATE": "20110527",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "최고의 반찬 비결 ",
+                "PUBLISH_PREDATE": "20110615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

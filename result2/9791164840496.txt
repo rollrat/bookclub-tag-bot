@@ -1,0 +1,67 @@
+{
+    "otitle": "하버드 머스트 리드 스타트업 기업가정신",
+    "oauthor": "마크 안드레센 등저/이주영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하버드 머스트 리드 스타트업 기업가정신 (거대한 아이디어의 파고를 뛰어넘는 기업가정신)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492771795",
+                "image": "https://shopping-phinf.pstatic.net/main_3249277/32492771795.20220527022129.jpg",
+                "author": "마크 안드레센^티모시 버틀러^윌리언 살먼^노먼 위나스키^아디 이그내이셔스",
+                "discount": "15300",
+                "publisher": "매일경제신문사",
+                "pubdate": "20191122",
+                "isbn": "9791164840496",
+                "description": "스티브 잡스, 마크 저커버그, 리드 호프만…\n다음 혁신은 당신의 기업가정신에 달렸다!\n\n늘 사방에서 경쟁자가 기웃거리고, 소비자는 더 많은 걸 요구한다. 어디에도 없던 특별한 상품을 만들어야 한다. 그뿐일까. 내 기업은 윤리적으로 깨끗해야 하며, 직원의 불만도 들어야 한다. 머릿속에는 이길 수 있는 큰 그림을 그려야 한다. 스티브 잡스, 마크 저커버그… 이들은 모든 문제를 뚫고 지나갔다. 보통은 이렇게 말한다. 성공한 기업가는 따로 있다고. 날 때부터 창의적이고, 오만하며, 위험을 즐긴다는 것이다. 정말일까? 아니다. 오히려 자신만의 기업가정신으로 성공한 이들이 많다. 비즈니스 세계에는 당신만의 오리지널 퍼포먼스가 필요하다. 이 책에는 『하버드 비즈니스 리뷰』에 실렸던 칼럼 중 기업가정신 관련 10가지 이야기를 담았다. 각 창업 스토리와 기업가정신을 읽다보면 어느새 당신도 혁신의 중심에 서 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20200515",
+                "EA_ADD_CODE": "04320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "지은이: 마크 안드레센,티모시 버틀러,윌리엄 A. 살만,노먼 위나스키,아디 이그내이셔스,함디 울루카야,안드레이 하지우,사이먼 로스먼,리드 호프만,팀 설리번,리처드 S. 루백,로이스 유드코프,노암 와서맨,다이앤 멀케이 ;옮긴이: 이주영",
+                "SERIES_TITLE": "",
+                "KDC": "325.24",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791164840458",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/15/9791164840496.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "202 p.",
+                "CONTROL_NO": "CIP2019045487",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164840496",
+                "INPUT_DATE": "20191108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(하버드 머스트 리드) 스타트업 기업가정신",
+                "PUBLISH_PREDATE": "20191122",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04320 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

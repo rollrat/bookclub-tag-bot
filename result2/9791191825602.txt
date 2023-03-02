@@ -1,0 +1,67 @@
+{
+    "otitle": "팀장의 본질",
+    "oauthor": "장윤혁 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "팀장의 본질 (혼자가 아닌 팀으로 성과 내는 팀장은 무엇이 다른가)",
+                "link": "https://search.shopping.naver.com/book/catalog/35419861619",
+                "image": "https://shopping-phinf.pstatic.net/main_3541986/35419861619.20230117163218.jpg",
+                "author": "장윤혁",
+                "discount": "15120",
+                "publisher": "빅피시",
+                "pubdate": "20221026",
+                "isbn": "9791191825602",
+                "description": "‘잘해야’ 믿을 수 있는 게 아니라 ‘믿어야’ 잘한다\n팀원들이 곧바로, 스스로, 알아서 일하게 만드는 법\n\n유능한 업무 능력으로 회사에서 인정받아 남들보다 빠르게 팀장이 됐다. 그런데 막상 팀장이 되니 막막하고 당황스럽다. 관리 업무에 치이다 보면 실무는 뒷전이고, 성과를 내기도 어렵다. 나름대로 팀원 관리도 하지만 팀원들의 불만은 늘고, 퇴사자도 생긴다. 이러한 과정을 통해 실무 능력과 팀장의 역량은 별개라는 것을 알게 되지만, 막상 배운 적은 없다. 문제는 알겠는데, 해결책이 보이지 않는다.\n《팀장의 본질》은 저자이자 HR 전문가 장윤혁이 대기업부터 글로벌기업, 중소기업까지 다양한 조직을 직접 운영하면서 체득한 업무ㆍ성과ㆍ인사 관리법을 담은 책이다. 특히 요즘 팀장들의 가장 큰 고민인 MZ 세대 팀원에게 인정받는 리더십, 동기 부여 방법에 대해 집중적으로 다뤘다. 당장 현실에 적용할 만한 구체적인 사례와 방법론을 통해 지금 우리 팀의 규모와 성격에 맞는 팀장의 역할이 무엇인지 단번에 알 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빅피시",
+                "DDC": "",
+                "UPDATE_DATE": "20221221",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "장윤혁 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221026",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "278 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191825602",
+                "INPUT_DATE": "20220916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "팀장의 본질",
+                "PUBLISH_PREDATE": "20221026",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

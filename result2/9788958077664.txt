@@ -1,0 +1,67 @@
+{
+    "otitle": "스마트 클래스를 위한 슬기로운 온라인 수업",
+    "oauthor": "김서영,김재현,박종필,홍지연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스마트 클래스를 위한 슬기로운 온라인 수업 (스마트 클래스를 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505589011",
+                "image": "https://shopping-phinf.pstatic.net/main_3250558/32505589011.20221228073604.jpg",
+                "author": "김서영^김재현^박종필^홍지연",
+                "discount": "12960",
+                "publisher": "뜨인돌",
+                "pubdate": "20200916",
+                "isbn": "9788958077664",
+                "description": "슬기로운 교사를 만드는 온라인 수업·스마트 스쿨 가이드북. 코로나19 사태로 갑작스레 도입된 온라인 원격 수업. 그 대혼란의 와중에, 일찌감치 스마트 수업의 길을 닦아온 4인의 교사가 교육 혁신의 구심점으로서 조명 받고 있다. \n\n\n\n그들의 경험과 노하우를 고스란히 담아낸 이 책은 변화한 환경에 적응하기 힘들어하는 일선 교사들에게 효율적인 현장 솔루션을 제공함은 물론, 시스템 개선을 고민 중인 교육 당국에 적절한 방향을 제시한다. 한발 앞서 혁신의 길을 걸으며 체험한 고민과 좌절 그리고 극복의 이야기는, 포스트 코로나 시대를 슬기롭게 헤쳐 나가기 위한 용기와 아이디어를 선사한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌(뜨인돌출판)",
+                "DDC": "",
+                "UPDATE_DATE": "20201015",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "지은이: 김서영,김재현,박종필,홍지연",
+                "SERIES_TITLE": "",
+                "KDC": "373.33",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/09/09/9788958077664.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "CIP2020036704",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958077664",
+                "INPUT_DATE": "20200828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(스마트 클래스를 위한) 슬기로운 온라인 수업",
+                "PUBLISH_PREDATE": "20200916",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

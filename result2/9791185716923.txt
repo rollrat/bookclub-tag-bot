@@ -1,0 +1,67 @@
+{
+    "otitle": "절대 성공하지 못할 거야",
+    "oauthor": "마크 랜돌프 저/이선주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "절대 성공하지 못할 거야 (공동 창업자 마크 랜돌프가 최초 공개하는 넷플릭스 창업 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461502027",
+                "image": "https://shopping-phinf.pstatic.net/main_3246150/32461502027.20221229072719.jpg",
+                "author": "마크 랜돌프",
+                "discount": "16200",
+                "publisher": "덴스토리(Denstory)",
+                "pubdate": "20200501",
+                "isbn": "9791185716923",
+                "description": "공동 창업자 마크 랜돌프가 최초 공개하는 넷플릭스 창업 이야기\n\n현재 전 세계에서 1억 6000만 명이 구독하는 미디어 기업 넷플릭스를 보면 처음부터 성공할 수밖에 없었던 것처럼 느껴진다. 하지만 넷플릭스도 처음에는 믿어주는 사람이 거의 없었고(공동 창업자 마크 랜돌프의 아내마저 처음 사업 구상을 들었을 때 “절대 성공하지 못할 거야”라고 말했다), 매번 심각한 어려움을 겪었다. 넷플릭스 공동 창립자이자 첫 번째 CEO인 마크 랜돌프가 그 동안 알려지지 않았던 놀라운 이야기를 들려준다. \n\n1997년, 마크 랜돌프가 넷플릭스를 처음 구상할 때는 오프라인 비디오 대여점이 전성기를 누리던 시절이었다. 어느 대여점이나 연체료를 받았고, 이제 막 DVD가 세상에 나온 때였다. 넷플릭스는 인터넷을 이용해 영화를 빌려주자는 간단한 생각에서 시작되었다. 리드 헤이스팅스는 투자자, 마크 랜돌프는 CEO가 되어 함께 창립했다. 시작은 그야말로 미약했다. 마크 랜돌프는 단 7명으로 팀을 꾸렸다. 기획, 마케팅, 홍보, 코딩, 큐레이션 등 꼭 필요한 분야의 인재들이었다, 이들은 박봉에도 불구하고 스톡옵션과 사업의 미래 가능성을 보고 기꺼이 랜들프와 함께했다. 사업 초창기에 그들은 미국에 출시된 모든 DVD를 확보하고, 소니, 도시바 등과 제휴해 DVD 플레이어를 구매하면 넷플릿스 무료 대여 쿠폰을 주는 판촉 활동을 벌였다. 이로써 넷플릭스는 출시 후 얼마 후 미국에서 어느 정도 인지도를 높일 수 있었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Denstory :알피스페이스",
+                "DDC": "",
+                "UPDATE_DATE": "20200504",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마크 랜돌프 지음 ;이선주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "326.78",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "465 p.",
+                "CONTROL_NO": "CIP2020015167",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185716923",
+                "INPUT_DATE": "20200410",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "절대 성공하지 못할 거야",
+                "PUBLISH_PREDATE": "20200501",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

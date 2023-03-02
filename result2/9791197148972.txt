@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 다르게 번다 : 위어드 피플",
+    "oauthor": "신희철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 다르게 번다: 위어드 피플 (별난 생각들이 성공하는 시대)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476768932",
+                "image": "https://shopping-phinf.pstatic.net/main_3247676/32476768932.20221019105407.jpg",
+                "author": "신희철",
+                "discount": "14400",
+                "publisher": "무블출판사",
+                "pubdate": "20210202",
+                "isbn": "9791197148972",
+                "description": "보통이 아니라는 말로는 아쉬운 사람들, \n 위어드(weird) 피플\n\n\"위어드 피플은 ‘남들이 보기엔 의아하지만 자신만의 합리적인 이유로 확신을 갖고 성공을 찾는 사람들’이다. 도대체 무엇을 하는 사람들일까?  6개월간 창업 멤버들과 돼지고기 500kg를 시식한 김재연 대표, 브랜딩에 목숨 거는 K패션의 선도주자 이스트엔드 김동진 대표, 게임으로 한국사를 강제로 공부하게 만든 게임업계의 이단아 안겨레, 고용성 투캉프로젝트 대표, 당근마켓, 마켓컬리, 직방의 성공을 알아본 2700억 규모의 벤처캐피털 송은강 캡스톤파트너스 대표, 부동산 업계에서 소문난 역발상의 귀재 손지호 네오밸류 대표, 마지막으로 온라인에서 숨겨진 인격을 찾아내는 마케팅 승부사 블랙야크 남윤주 팀장이 바로 그들이다. 이들의 성공이 놀라운 이유는 불가능해 보이는 것들을 해냈기 때문이다. 독특한 방식으로 성공에 다가갔기 때문이다. 그 방식과 가치관을 취재한 것이 한 권의 책으로 탄생한 것이다.\""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "MBL books(무블출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210308",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "신희철 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197148972",
+                "INPUT_DATE": "20210109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "위어드 피플 ",
+                "PUBLISH_PREDATE": "20210202",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

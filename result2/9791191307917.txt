@@ -1,0 +1,67 @@
+{
+    "otitle": "비주얼 재즈",
+    "oauthor": "앨린 시프턴 저/존 에드워드 하세 글/백지선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비주얼 재즈",
+                "link": "https://search.shopping.naver.com/book/catalog/32438168709",
+                "image": "https://shopping-phinf.pstatic.net/main_3243816/32438168709.20230103162952.jpg",
+                "author": "앨리 시프턴",
+                "discount": "31500",
+                "publisher": "시그마북스",
+                "pubdate": "20220103",
+                "isbn": "9791191307917",
+                "description": "재즈, 방대한 시각예술 작품으로 톺아보다\n\n재즈는 ‘재즈’라는 단어가 처음 생겨났을 때부터 음악과 춤뿐 아니라 미술과 디자인, 패션을 묘사하는 데 쓰였다.  ‘재즈 패턴 드레스’, ‘재즈 색감의 실크’, ’재즈 스타킹은 최신 패션이다‘나 유명 화가가 색채 배합에 ’재즈의 생기를 불어넣었다‘라고 표현할 정도로 자연스럽게 사용되었다. 재즈는 탄생부터 시각 예술과 그래픽 디자인 영역뿐 아니라 예술 전 분야에 막대한 영향을 끼치며 재즈의 시대를 열었다.\n〈비주얼 재즈〉는 재즈가 예술을 어떻게 꽃피웠는지 재즈가 탄생한 19세기 후반부터 최고의 전성기를 거쳐 21세기 신주류의 재즈까지 생생한 사진 자료들을 살피며 하나하나 더듬어 간다. 재즈로부터 영감을 받아 작품을 그린 화가 피카소나 두스부르흐, 몬드리안, 팝 아트의 선구자 앤디 워홀 등의 커버 디자인은 물론 사진작가, 삽화가, 디자이너들의 귀중한 작품들과 재즈계 거장들의 연주 스타일부터 패션, 보물 같은 사진들을 보며 재즈의 세계에 빠져들어 보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220209",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "앨린 시프턴 지음 ;백지선 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "248*279",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "254 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191307917",
+                "INPUT_DATE": "20211117",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "비주얼 재즈",
+                "PUBLISH_PREDATE": "20220103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

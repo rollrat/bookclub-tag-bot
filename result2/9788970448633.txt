@@ -1,0 +1,78 @@
+{
+    "otitle": "전자기학의 ABC",
+    "oauthor": "후쿠시마 하지메 저/손영수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:32 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "전자기학의 ABC (쉬운 회로에서부터 “장”의 사고방식까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492212201",
+                "image": "https://shopping-phinf.pstatic.net/main_3249221/32492212201.20221229071940.jpg",
+                "author": "후쿠시마 하지메",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190220",
+                "isbn": "9788970448633",
+                "description": "상대론에 관한 입문서는 많지만 전자기학의 입문서는 거의 없다. 전기장과 자기장이 자연계에 존재하고 있다는 것은 많은 사람들이 나름대로 듣고 알고 있는 일이다. 그러나 그것이 정말로 어떤 것이며, 왜 그런 것을 과학자가 생각하게 되었느냐고 하는 점에 대해서는 모르는 일이 많다. 따라서 이 책은 전자기의 여러 가지 현상을 살펴가면서, 이 전기장과 자기장을 철저히 추궁해 보려는 것이 이 책의 중심 테마이다.\n\n이 책에서는 엄밀한 개념의 정의에서부터 들어가서 기본 법칙을 설명하고, 그 응용 사례를 드는 통상적인 교과서의 순서를 취하지 않은 데가 많이 있다. 이 책과 같은 방법이 물리학의 전문가들로부터 달갑게 여겨지지 않을 것이라는 점은 잘 알고 있다. 하지만 엄밀하고 체계적인 전개는 우리 전문가들에게는 기분이 좋을지 몰라도 넓은 층의 독자에게는 매우 달라붙기 힘든 것이다. 따라서 독자들이 쉽게 전자기학을 이해할 수 있도록 변형적인 방법을 택하게 되었다."
+            },
+            {
+                "title": "전자기학의 ABC (쉬운 회로에서부터 장의 사고방식까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466537197",
+                "image": "https://shopping-phinf.pstatic.net/main_3246653/32466537197.20220527032228.jpg",
+                "author": "후쿠시마 하지메",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20110620",
+                "isbn": "9788970440736",
+                "description": "『전자기학의 ABC』은 전자기의 여러 가지 현상을 살펴가면서, 전기장과 자기장을 철저히 학습해 보는 것이다. 전자기의 여러 가지 복잡한 현상 속에서 무엇이 기본이 도는 법칙인지 이해하기 쉽게 설명하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190312",
+                "EA_ADD_CODE": "03560",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "후쿠시마 하지메 지음 ;손영수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/12/9788970448633.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "206 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448633",
+                "INPUT_DATE": "20190212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "전자기학의 ABC",
+                "PUBLISH_PREDATE": "20190220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "굿모닝 해빗",
+    "oauthor": "멜 로빈스 저/강성실 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "굿모닝 해빗 (아침마다, 나를 위해 하이파이브!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455954038",
+                "image": "https://shopping-phinf.pstatic.net/main_3245595/32455954038.20221019152914.jpg",
+                "author": "멜 로빈스",
+                "discount": "14400",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20220525",
+                "isbn": "9791165345198",
+                "description": "매일 아침 3초의 행동이 \n당신의 뇌를 바꾸고 하루를 바꾸고 인생을 바꾼다!\n\n‘전 세계에서 강연 신청이 가장 빨리 마감되는 강사’, ‘매달 6,000만 명을 코칭하는 세계적인 라이프코치’ 멜 로빈스 신작 《굿모닝 해빗》은, 매일 아침 단 3초 만에 뇌를 바꾸고, 하루를 바꾸는 강력한 리추얼을 소개한다. 바로 눈 뜨자마자 화장실로 달려가 ‘거울 속 자신과 하이파이브’ 하기다. 이 쉽고도 독특한 행동이 어떻게 뇌를 바꿀까? 신경가소성의 원리와 뇌 속 배터리를 깨우는 뉴로빅스에 비밀이 숨어 있다.\n이 책이 소개하는 ‘굿모닝 해빗’은 자신을 바라보는 방식을 바꾸고, 삶의 에너지를 갉아먹는 자기비판을 멈추게 하며, ‘독이 되는 말’을 걸러준다. 죄책감과 남에게 맞추는 습관에서 벗어나 마음속 여러 장애물을 스스로 치우는 마법의 행동이다. 놀랍게도 이미 SNS를 통해 전 세계 수천만이 그녀의 아침 리추얼을 따라 하고 있으며, 이 책 역시 35개국에 번역 출간되었다. 이 책은 코로나 팬데믹을 겪는 동안 불안과 공포로 나약해진 마음을 다시 단단하게 회복하고, 당당하고 의욕적인 원래의 자신으로 되돌아가고자 하는 모든 이에게 큰 용기와 울림, 자신감과 실행 에너지를 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20220615",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "멜 로빈스 지음 ;강성실 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "134*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "285 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165345198",
+                "INPUT_DATE": "20220408",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "굿모닝 해빗",
+                "PUBLISH_PREDATE": "20220525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

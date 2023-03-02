@@ -1,0 +1,67 @@
+{
+    "otitle": "이제는 나도 엄마가 되고 싶어",
+    "oauthor": "윤은주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이제는 나도 엄마가 되고 싶어 (난임이라는 숲에 홀로 서 있는 당신에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464091382",
+                "image": "https://shopping-phinf.pstatic.net/main_3246409/32464091382.20221019141906.jpg",
+                "author": "윤은주",
+                "discount": "14220",
+                "publisher": "홍익출판미디어그룹",
+                "pubdate": "20220302",
+                "isbn": "9791191420708",
+                "description": "기다리기만 하면 아이가 선물처럼 올 줄 알았다\n-난임이라는 숲에 홀로 서 있는 당신에게\n\n8년의 기다림과 4년의 난임 시술. 저자는 7번의 시험관 이식에 도전한 난임 환자이자 난임 상담 심리사이다. 결혼을 하면 자연스럽게 임신이 될 거라 생각했지만, 아기는 찾아오지 않았다. 시간이 흐를수록 아기를 갖고 싶다는 생각이 커지면서 시험관 시술에 도전한다.\n\n이 책은 여성이 난임 시술을 받는 동안의 고뇌와 슬픔, 그리고 극복의 과정이 생생하게 담겨 있다. 수차례 도전과 실패를 오가는 과정에서 저자는 몸뿐만 아니라 마음의 고통이 찾아오기도 했다. 주변의 걱정과 어설픈 배려가 오히려 상처가 된 것이다. 그럴 때마다 내면의 상담사와 현재 상황에 대해 대화를 나누었다. 그리고 깨닫는다. 목표가 있으면 불쌍하지 않다! 거듭되는 임신 실패로 인해 연민의 시선이 늘어갔지만, 아기라는 소중한 목표가 있었기 때문에 좌절하지 않고 다시 도전할 수 있었다. 저자는 이제 난임이라는 숲에 홀로 서 있는 사람들에게 손을 내미려 한다. 만일 당신이 그렇다면 앞서 그 길을 걸어가 본 저자의 손을 꼭 잡길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "홍익출판 미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20220329",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윤은주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*204",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "222 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191420708",
+                "INPUT_DATE": "20220211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이제는 나도 엄마가 되고 싶어",
+                "PUBLISH_PREDATE": "20210302",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

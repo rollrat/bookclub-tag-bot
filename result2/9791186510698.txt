@@ -1,0 +1,67 @@
+{
+    "otitle": "면접 2주 전",
+    "oauthor": "김장수,서영우 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "면접 2주 전 (취업 면접에 100% 합격시켜 주는 기적의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505224939",
+                "image": "https://shopping-phinf.pstatic.net/main_3250522/32505224939.20221227203328.jpg",
+                "author": "김장수^서영우",
+                "discount": "12420",
+                "publisher": "글라이더",
+                "pubdate": "20180913",
+                "isbn": "9791186510698",
+                "description": "2주면 된다! 기적을 만드는 마지막 면접 특훈!\n다양한 질문에 이 책의 해답으로 면접관을 압도하라!\n\n네 명의 가상 인물을 통해 면접 상황을 그려낸 유형별 최적화 답안\n면접은 왜 어려운 걸까요? 대부분의 취업 준비생들은 면접을 준비하며 면접 스터디와 기업이 진행하고 있는 최근 사업과 인재상을 조사한다. 하지만 그것만으로는 면접에서 나올 질문을 예측하기 어려울 뿐더러 대부분의 지원자들이 준비한 과정이 비슷하기에 면접에서 두각을 나타내기 어렵다.\n면접에서 면접관이 질문을 하고 응시자가 답변을 하는 방식을 바꿀 수는 없지만 면접관의 질문을 유도할 수는 있다. 그것이 면접을 편하게 준비하고 합격에 한 걸음 앞서 다가갈 수 있는 방법이다.\n또한 신입사원 면접에서 면접관은 지원자의 현재 역량만을 기준으로 당락을 결정하지 않는다. 신입사원은 다듬어지지 않은 원석과 같아 그 원석이 보석이 되었을 때의 미래 가치를 제조비를 제외한 현재 가치로 할인하여 평가한다.\n면접관은 원석 상태라고 할 수 있는 지원자가 다년간 일을 하고, 다양한 사내 교육을 이수해서 완성된 지원자의 모습을 상상한다. 면접관의 머릿속에 일을 잘하고 있는 지원자의 모습이 그려진다면 면접에 바로 합격할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "글라이더",
+                "DDC": "658.311",
+                "UPDATE_DATE": "20180921",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "gliderbooks@hanmail.net",
+                "AUTHOR": "지은이: 김장수,서영우",
+                "SERIES_TITLE": "",
+                "KDC": "325.33",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6889899_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6889899_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6889899_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "236 p.",
+                "CONTROL_NO": "CIP2018028141",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186510698",
+                "INPUT_DATE": "20180830",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(취업 면접에 100% 합격시켜 주는 기적의) 면접 2주 전",
+                "PUBLISH_PREDATE": "20180913",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

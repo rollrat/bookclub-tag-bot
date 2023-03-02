@@ -1,0 +1,67 @@
+{
+    "otitle": "독서의 취향",
+    "oauthor": "고나희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "독서의 취향 (일상이 풍요로워지는 특별한 책 읽기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504243847",
+                "image": "https://shopping-phinf.pstatic.net/main_3250424/32504243847.20221230074844.jpg",
+                "author": "고나희",
+                "discount": "12600",
+                "publisher": "더블엔",
+                "pubdate": "20181115",
+                "isbn": "9788998294519",
+                "description": "텍스트에 관한 인문학적 취향과 사유\n\n‘취존(취향존중) 사회’라는 말이 등장할 만큼, 개인의 ‘취향’과 욕망에 대해 솔직한 시대가 되었다. ‘취향’은 하나의 트렌드가 되었고, 각종 미디어나 책, 축제 등에도 반영되는 콘셉트, 테마로 부상했다. 취미를 묻는 말에 ‘독서’라고 대답하는 게 보편적이었던 때를 지나, 이제 우리는 독서가 ‘취향’인 시대에 살고 있다. \n\n전작 『여행의 취향』에서 여행지에서의 인문학적 사유를 풀어낸 고나희 작가가 이번에는 텍스트에 관한 인문학적 취향을 담아 『독서의 취향』을 출간했다.\n\n쓰는 이(筆者)이자 읽는 이(讀者)인, 고나희 작가의 인문학적 독서 취향을 엿보며, 많은 독자들이 자신의 독서 취향을 찾는 계기가 되기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더블:엔",
+                "DDC": "028.1",
+                "UPDATE_DATE": "20190729",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고나희 읽고 쓰다",
+                "SERIES_TITLE": "",
+                "KDC": "029.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6956372_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6956372_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6956372_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6956372_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "245 p.",
+                "CONTROL_NO": "CIP2018033366",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998294519",
+                "INPUT_DATE": "20181017",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "독서의 취향",
+                "PUBLISH_PREDATE": "20181115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

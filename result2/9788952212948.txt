@@ -1,0 +1,67 @@
+{
+    "otitle": "1학년은 너무 힘들어",
+    "oauthor": "노경실 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "1학년은 너무 힘들어!",
+                "link": "https://search.shopping.naver.com/book/catalog/32492655797",
+                "image": "https://shopping-phinf.pstatic.net/main_3249265/32492655797.20221019131638.jpg",
+                "author": "노경실",
+                "discount": "7650",
+                "publisher": "살림어린이",
+                "pubdate": "20091207",
+                "isbn": "9788952212948",
+                "description": "『1학년은 너무 힘들어』.  1학년 입학 첫날부터 겪는 현호의 갈등을 깔끔하면서도 속도감 있는 단문체와 위트 있는 단어를 선택해 재치 넘치는 스토리를 전개한다. ‘레벌퀴바’라는 상상적 공간으로 끌어들여 현실과 상상을 오고 가면서, 아이들이 처한 현실적인 문제를 보여 주면서 어려움을 극복해 가는 심리적인 과정까지 보여 주고 있다. 글과 완벽한 조화를 이루는 그림은 현호를 둘러싼 환경과 그로 인해 시시각각 변하는 현호의 심리를 대비 구도의 장면 연출로 재미를 더해 준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20100118",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "노경실 글 ;김영곤 그림",
+                "SERIES_TITLE": "살림 1·2학년 창작 동화 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "8500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "01",
+                "EA_ISBN": "9788952212948",
+                "INPUT_DATE": "20100118",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "1학년은 너무 힘들어! ",
+                "PUBLISH_PREDATE": "20091207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

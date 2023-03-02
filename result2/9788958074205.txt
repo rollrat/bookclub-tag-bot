@@ -1,0 +1,78 @@
+{
+    "otitle": "류명성 통일빵집",
+    "oauthor": "박경희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:36 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "류명성 통일빵집",
+                "link": "https://search.shopping.naver.com/book/catalog/32459072794",
+                "image": "https://shopping-phinf.pstatic.net/main_3245907/32459072794.20221019132524.jpg",
+                "author": "박경희",
+                "discount": "9000",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20130315",
+                "isbn": "9788958074205",
+                "description": "수많은 사연을 안고 이 땅에 온 탈북 청소년들!\n\n지금 대한민국을 살아가는 남북한 청소년들의 이야기 『류명성 통일빵집』. 사회적 주제의식을 담아낸 청소년 문학 시리즈 「VivaVivo(비바비보)」의 열아홉 번째 책으로, VivaVivo는 ‘깨어 있는 삶’이라는 뜻이다. 탈북 청소년을 주제로 한 이 소설은 탈북민의 삶이나 탈북 과정에 초점을 두는 대신, 남북한 청소년들이 서로 소통하는 이야기를 선보인다. 탈북청소년대안학교에서 3년간 글쓰기를 지도했던 작가의 경험이 곳곳에 녹아 있다. \n\n탈북 모녀와 가족이 되어 가는 주희, 좌절을 모르는 기철이에게 마음이 끌리는 다경, 엄마처럼 따랐던 언니에게 배신을 당하는 강희, 떠돌이 개 멍구를 데려다 기르는 연미, 세라를 보며 북에 두고 온 동생을 그리워하는 명성, 학교 대신 서점에서 지식을 채우며 상처를 치유하는 은휘…. ‘탈북’이라는 다소 무거운 소재를 다루고 있지만, 청소년들의 이야기인 만큼 유쾌함과 진지함을 함께 선사한다. 이 땅에서 호흡하며 살아가는 남북한 청소년들의 이야기를 만날 수 있다."
+            },
+            {
+                "title": "류명성 통일빵집(큰글자도서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466968399",
+                "image": "https://shopping-phinf.pstatic.net/main_3246696/32466968399.20221019135401.jpg",
+                "author": "박경희",
+                "discount": "21600",
+                "publisher": "뜨인돌",
+                "pubdate": "20220128",
+                "isbn": "9788958078739",
+                "description": "탈북한 모녀와 가족이 되어 가는 주희, \n좌절을 모르는 기철이에게 마음이 끌리는 다경, \n엄마처럼 따랐던 언니에게 배신을 당하는 강희, \n떠돌이 개 멍구를 데려다 기르는 연미,\n세라를 보며 북에 두고 온 동생을 그리워하는 명성,  \n학교 대신 서점에서 지식을 채우고 상처를 치유하는 은휘.  \n지금, 대한민국이라는 땅에서 \n함께 호흡하며 살아가는 남북한 청소년들의 이야기가 시작됩니다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌출판",
+                "DDC": "",
+                "UPDATE_DATE": "20130327",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "박경희",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2610526_3.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2610526_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2610526_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013000980",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958074205",
+                "INPUT_DATE": "20130218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "류명성 통일빵집 ",
+                "PUBLISH_PREDATE": "20130315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

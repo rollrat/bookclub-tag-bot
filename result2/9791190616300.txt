@@ -1,0 +1,67 @@
+{
+    "otitle": "여자의 삶은 처음이라",
+    "oauthor": "김영임 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여자의 삶은 처음이라 (김영임 소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32451972617",
+                "image": "https://shopping-phinf.pstatic.net/main_3245197/32451972617.20221019120426.jpg",
+                "author": "김영임",
+                "discount": "12600",
+                "publisher": "리더북스",
+                "pubdate": "20210318",
+                "isbn": "9791190616300",
+                "description": "어떻게 살 것인가 묻는 딸에게 미처 하지 못했던 이야기!\n남녀가 불평등한 성별 권력 관계를 뛰어넘어\n“여성의 사랑과 자유를 깨우치게 하는 강력한 소설”\n\n장편소설 『여자의 삶은 처음이라』는 남녀불평등 사회에서 고통받는 세상의 모든 딸들의 마음을 어루만져준다. 3대 여성의 삶으로 본 여성의 인권, 순결과 낙태라는 무거운 주제를 작가는 3년간 취재했고, 억압받으며 살아온 여성들의 삶을 드라마보다 더 강렬하게 낱낱이 고발한다. 재미있으면서 결코 가볍지 않은 이 소설은 작가의 깊은 고뇌가 역력히 드러난다. 여자라면 누구나 공감하고 눈시울이 뜨거워지지만, 작가의 재치있는 문체에 통쾌해지고 카타르시스를 선사하는 소설이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리더북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210426",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김영임",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "256 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190616300",
+                "INPUT_DATE": "20210310",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여자의 삶은 처음이라",
+                "PUBLISH_PREDATE": "20210318",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

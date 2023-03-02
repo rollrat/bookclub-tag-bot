@@ -1,0 +1,67 @@
+{
+    "otitle": "굴욕 없는 출산",
+    "oauthor": "목영롱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "굴욕 없는 출산 (우리는 출산을 모른다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454999025",
+                "image": "https://shopping-phinf.pstatic.net/main_3245499/32454999025.20221230073311.jpg",
+                "author": "목영롱",
+                "discount": "12600",
+                "publisher": "들녘",
+                "pubdate": "20210215",
+                "isbn": "9791159256097",
+                "description": "『굴욕 없는 출산』은 차별받지 않고 살았다고 자부했던 평범한 30대 후반 여성이 임신과 출산을 통해 자신이 어떻게 새로운 자아로 거듭나게 되었는지를 당당하고 솔직하게 밝힌 일종의 ‘전투 기록’이다. 외롭고 낯선 길을 홀로 걸어왔을 경험자들을 대신해서 여성만의 언어로 출산을 기록한 귀한 결과물이기도 하다. 또한 이 책은, 그가 임신·출산의 과정에서 마주한 각 분야 종사자들, 가족과 친지 및 동료들의 시선과 태도에 대한 가감 없는 소회는 물론 대한민국에서 임신과 출산이 어떻게 자본주의의 물을 먹은 산업이 되었는지, 그 과정에서 여성의 인권은 어디로 증발하게 되는지, 의학기술의 발달로 인공수정이 시술되지만 그것이 과연 여성 당사자에게 무리 없이 받아들여질 일인지, 저출산이 문제라며 목청을 높이는 사람들이 간과한 것은 무엇인지 등의 문제도 함께 다룬다. 임신과 출산을 계획하고 있는 여성들, 비현실적인 저출산 담론 확산에 손을 거드는 사람들, 너무도 근본적이며 예민한 사안을 지도나 통계 따위로 노출하는 관료들과 정책 입안자들, 그리고 모든 어머니 덕분에 세상에 나온 자녀들에게 필독을 권한다. 이제 어머니의 목소리와 어머니의 경험을 ‘여성의 언어’로 담아내는 것은 당신들의 몫이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20210407",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "목영롱 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159256097",
+                "INPUT_DATE": "20210129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "굴욕 없는 출산",
+                "PUBLISH_PREDATE": "20210215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

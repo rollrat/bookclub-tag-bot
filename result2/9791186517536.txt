@@ -1,0 +1,67 @@
+{
+    "otitle": "즐겁고 신나고 따뜻하게",
+    "oauthor": "경리안 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "즐겁고 신나고 따뜻하게 (3천만이 울고 웃은 경리안의 행복사용지침서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492734055",
+                "image": "https://shopping-phinf.pstatic.net/main_3249273/32492734055.20220520231712.jpg",
+                "author": "경리안",
+                "discount": "11700",
+                "publisher": "상상출판",
+                "pubdate": "20160302",
+                "isbn": "9791186517536",
+                "description": "(전)싸이월드와 (현)네이버 블로그 누적 방문자 수 약 3천만을 자랑하는 파워블로거 경리안. 외국인 남자친구(현재의 남편)와의 연애 이야기와 평범한 일상, 소소한 생각을 담은 글에 많은 사람들이 함께 웃고 울며 공감했다. &lt;즐겁고 신나고 따뜻하게&gt;는 그런 그녀의 끝나지 않은 이야기를 담고 있다. \n\n\n\n외국인 남편과의 솔직담백한 사랑 이야기, 문화 차이에서 오는 재미난 에피소드, 크고 작은 꿈을 향한 도전기는 물론 미드로 영어 공부하는 법, 외국인 연인을 위한 한국어 공부법, 미국에서의 혼인신고, 전통혼례 과정, 반려동물 입양법, 건강하게 다이어트 하는 법 등 어디서도 공개하지 않은 그녀만의 꿀팁까지. 소소한 웃음과 긍정의 메시지가 담긴, 3천만이 울고 웃은 그 이야기 속으로 빠져보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20160309",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "경리안",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5225788_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5225788_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "288",
+                "CONTROL_NO": "CIP2016003825",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186517536",
+                "INPUT_DATE": "20160211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "즐겁고 신나고 따뜻하게",
+                "PUBLISH_PREDATE": "20160302",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

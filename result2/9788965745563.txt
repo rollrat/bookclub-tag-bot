@@ -1,0 +1,78 @@
+{
+    "otitle": "코끼리의 여행",
+    "oauthor": "주제 사라마구 저/정영목 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:52 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "코끼리의 여행 (주제 사라마구 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493309603",
+                "image": "https://shopping-phinf.pstatic.net/main_3249330/32493309603.20221019110211.jpg",
+                "author": "주제 사라마구",
+                "discount": "13050",
+                "publisher": "해냄출판사",
+                "pubdate": "20161205",
+                "isbn": "9788965745563",
+                "description": "노벨문학상 수상작가 주제 사라마구가 실화를 소설화한 유일의 장편소설 『코끼리의 여행』. 환상적 리얼리즘의 대표 작가 주제 사라마구의 이 소설은 1551년, 포르투갈 국왕 부부가 오스트리아의 사촌 막시밀리안 대공에게 코끼리 ‘솔로몬’을 선물한 실제 사건에서 출발한다. 종교 개혁과 재정난으로 몸살을 앓던 포르투갈이 신교인 루터주의에 동조하는 대공에게 ‘진귀한’ 코끼리를 보냄으로써, 사료 값도 못하는 처치 곤란의 후피 동물도 해결하고 구교의 매서운 눈초리도 피하는 묘안은, 가장 필요 없는 것이 가장 값진 것이 되는 아이러니를 보여준다."
+            },
+            {
+                "title": "꼬마 바다코끼리의 북극 여행",
+                "link": "https://search.shopping.naver.com/book/catalog/32466674630",
+                "image": "https://shopping-phinf.pstatic.net/main_3246667/32466674630.20220527045214.jpg",
+                "author": "캐롤 영",
+                "discount": "0",
+                "publisher": "한국헤밍웨이",
+                "pubdate": "20140801",
+                "isbn": "9788954822466",
+                "description": "아이들에게 과학 지식을 쉽게 알려주는 「키즈 자연과학 그림책」 시리즈 『꼬마 바다코끼리의 북극 여행』. 생명에 대한 이야기를 들려주는 책입니다. 재미있는 이야기를 읽은 뒤에는 다양한 과학 지식을 배울 수 있습니다. 친환경 식물성 원료인 대두유 잉크를 사용해서 인체에 무해하고, 눈에 부담을 주지 않는 자연스러운 색을 낸다는 것이 특징입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)해냄출판사",
+                "DDC": "869.342",
+                "UPDATE_DATE": "20170427",
+                "EA_ADD_CODE": "03870",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "주제 사라마구",
+                "SERIES_TITLE": "",
+                "KDC": "879",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5491636_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5491636_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "300페이지 내외",
+                "CONTROL_NO": "CIP2016013900",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965745563",
+                "INPUT_DATE": "20160602",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "코끼리의 여행",
+                "PUBLISH_PREDATE": "20161205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

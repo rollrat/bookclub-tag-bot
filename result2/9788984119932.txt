@@ -1,0 +1,67 @@
+{
+    "otitle": "사르트르 vs 카뮈",
+    "oauthor": "변광배 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사르트르 vs 카뮈",
+                "link": "https://search.shopping.naver.com/book/catalog/32505089703",
+                "image": "https://shopping-phinf.pstatic.net/main_3250508/32505089703.20221019150754.jpg",
+                "author": "변광배",
+                "discount": "11700",
+                "publisher": "세창출판사",
+                "pubdate": "20201218",
+                "isbn": "9788984119932",
+                "description": "20세기 프랑스를 대표하는 철학자, 작가, 참여지식인으로 널리 알려진 사르트르와 카뮈는 흔히 ‘실존주의’라는 항목 아래 항상 같이 묶여 거론되곤 한다. 8살의 나이 차이에도 불구하고 친밀했던 두 사람은 냉전시대를 거치면서 두 사람은 첨예하게 대립하고 만다. 지난 세기에 그들이 왜 친구이자 적이 되었는지 묻는 작업은 오늘날에도 이데올로기 문제를 겪고 있는 우리의 상황을 이해하는 데 타산지석이 될 수 있을 것이다.\n\n서로 대립하면서도 상대에게 영향을 주며 자신을 성장시켜 온 대가들을 비교ㆍ대조하여 그들의 삶과 사상을 깊이 있게 이해하는 프레너미(Friend+Enemy) 시리즈. 지금까지도 프랑스 대중에게 사랑받는 두 사상가가 남긴 논쟁의 발자취를 따라가 보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세창출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20210209",
+                "EA_ADD_CODE": "93160",
+                "PUBLISHER_URL": "http://www.sechangpub.co.kr",
+                "AUTHOR": "변광배 지음",
+                "SERIES_TITLE": "",
+                "KDC": "166.85",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/04/9788984119932.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2020051734",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984119932",
+                "INPUT_DATE": "20201204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "사르트르 vs 카뮈",
+                "PUBLISH_PREDATE": "20201218",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

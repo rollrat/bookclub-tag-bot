@@ -1,0 +1,67 @@
+{
+    "otitle": "기적의 피아노",
+    "oauthor": "전지은 글/백지원 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기적의 피아노 (시각장애 피아니스트 예은이의 꿈을 담은 희망연주)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505086843",
+                "image": "https://shopping-phinf.pstatic.net/main_3250508/32505086843.20221019135746.jpg",
+                "author": "전지은",
+                "discount": "11700",
+                "publisher": "가나출판사",
+                "pubdate": "20160825",
+                "isbn": "9788957368565",
+                "description": "꿈을 향해 나아가는 우리 아이들에게 들려주고 싶은 이야기!\n\n“마음을 비추는 피아니스트가 되고 싶어요.” 송중기, 하하 등 스타 연예인부터 문경란 전 서울시 인권위원장, 김이수 헌법재판관 등 사회 저명인사들이 응원한 다큐멘터리 영화 『기적의 피아노』를 동화로 만나보세요! 많은 사람들의 관심을 끌던 ‘시각장애 꼬마 천재 피아니스트’라는 타이틀을 벗어나 자신만의 희망연주를 시작하는 아이. 냉정한 경쟁의 세계에서 자신의 한계에 부딪치며 좌절하지만 차근차근 하나씩 극복하여 “작곡가 겸 피아니스트”라는 더욱 단단해진 꿈을 향해 걸어가는 예은이의 아름다운 도전기가 펼쳐집니다. 이 책을 통해 꿈이 없는 게 고민인 우리 아이들이, 자신의 진짜 꿈을 발견할 수 있게 되길 응원합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20160922",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "글 전지은 그림 백지원",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5686209_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5686209_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 180페이지",
+                "CONTROL_NO": "CIP2016019850",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957368565",
+                "INPUT_DATE": "20160816",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "기적의 피아노",
+                "PUBLISH_PREDATE": "20160825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

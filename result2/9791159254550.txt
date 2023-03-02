@@ -1,0 +1,67 @@
+{
+    "otitle": "고기가 아니라 생명입니다",
+    "oauthor": "황주영,안백린 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고기가 아니라 생명입니다 (비건 셰프와 철학자의 동물생각)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485081071",
+                "image": "https://shopping-phinf.pstatic.net/main_3248508/32485081071.20221230072310.jpg",
+                "author": "황주영^안백린",
+                "discount": "13320",
+                "publisher": "들녘",
+                "pubdate": "20190930",
+                "isbn": "9791159254550",
+                "description": "인간이라는 동물처럼, 비인간 동물 또한 존중받아 마땅하다!\n비건 셰프와 철학자가 나누는 우리 시대 동물에 관한 문제적인 생각들\n\n최근 아프리카 열병이 한반도를 덮치면서 대량의 동물이 살처분 당하고 있다. 지난 2010년에는 구제역과 조류독감으로 인해 350만이 넘는 가축이 살처분 됐다. 구제역, 돼지독감, 조류독감 등의 질병은 한번 번지기 시작하면 걷잡을 수 없는 규모가 되기 쉽다. 대규모 농장의 좁고 오염된 공간에 너무 많은 동물들이 갇혀 있기 때문이다. 또한 항생제를 과도하게 주입당한 동물은 면역이 떨어져 각종 질병에 취약하다. 공장식 축산하의 사육방식이 그 많은 동물을 생매장시켰다고 해도 과언이 아니다. 동물과 관련된 문제는 무심히 넘길 것이 아니다. 사실 인간이 살아가는 필요한 모든 것과 동물문제는 깊게 연관되어 있다.  \n\n이 책은 우리 시대 동물에 관한 비건 셰프 안백린과 철학자 황주영의 논의를 담고 있다. 인간중심주의의 모순부터 젠더문제와 동물의 연관성, 육식마케팅이 우리의 사고를 잠식하는 과정, 의류산업이 동물을 다루는 방식, 축산업에 종사하는 노동자들이 겪는 고초에 이르기까지, 동물과 연관된 모든 사회적 층위를 세세히 살펴본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20191017",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "황주영,안백린 지음",
+                "SERIES_TITLE": "",
+                "KDC": "194.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "CIP2019033845",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159254550",
+                "INPUT_DATE": "20190827",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "고기가 아니라 생명입니다",
+                "PUBLISH_PREDATE": "20190930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

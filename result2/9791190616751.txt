@@ -1,0 +1,67 @@
+{
+    "otitle": "나로 살 결심",
+    "oauthor": "원새연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나로 살 결심 (늘 남에게 맞춰 사느라 나에게 다정하지 않은 당신에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/34398312630",
+                "image": "https://shopping-phinf.pstatic.net/main_3439831/34398312630.20221019135449.jpg",
+                "author": "원새연",
+                "discount": "12600",
+                "publisher": "리더북스",
+                "pubdate": "20220905",
+                "isbn": "9791190616751",
+                "description": "굽이굽이 인생길을 속도가 아니라 \n내가 원하는 방향으로 사는 지혜!\n나로 살기로 결심한 순간부터 \n내가 더 좋아지고 나에게 다정해졌다!\n\n저자는 30여 년 교직생활을 하면서 세 딸을 키우고, 박사학위를 받고, 미국 유학에 교장 승진까지 하는 억척스러운 삶을 살아왔다. 이 과정에서 암에 두 번이나 걸리는 아픔을 겪었으나 절망과 외로움, 힘든 시간을 다양한 취미활동과 봉사활동, 명상, 운동 등으로 이겨냈다. \n그동안의 경험과 생각을 공유해 인생을 슬기롭게 사는 방법과 늦은 나이에도 무엇이든 다시 시작할 수 있다는 용기와 희망을 준다. 너무 늦기 전에 나로 살겠다고 결심한 여성들에게 누군가의 엄마, 누이, 딸, 아내, 며느리이기 전에 오늘을 눈이 부시게 나로 살아가라고, 당신은 그럴 자격이 있다고 격려하고 응원한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리더북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220923",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "원새연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "264 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190616751",
+                "INPUT_DATE": "20220823",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나로 살 결심",
+                "PUBLISH_PREDATE": "20220905",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

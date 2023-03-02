@@ -1,0 +1,67 @@
+{
+    "otitle": "미니멀라이프 부엌 사용법",
+    "oauthor": "주부의벗사 저/김수정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미니멀라이프 부엌 사용법 (인기 미니멀리스트 23인의 부엌 관리 아이디어)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489612739",
+                "image": "https://shopping-phinf.pstatic.net/main_3248961/32489612739.20221019110011.jpg",
+                "author": "주부의 벗사",
+                "discount": "12600",
+                "publisher": "즐거운상상",
+                "pubdate": "20200915",
+                "isbn": "9791155361535",
+                "description": "『미니멀라이프 부엌 사용법』은 19개의 매력적인 부엌을 보여준다. 편안한 내추럴 부엌, 깔끔한 모던 부엌, 북유럽 스타일 부엌에서부터 카페 스타일, 레스토랑 스타일 부엌도 있다. 탐나는 이들 부엌의 공통점은 각자가 좋아하는 스타일로 공들여 만든 공간이라는 것. 남의 집 부엌 살림 구경 만큼 재미있는 일이 또 있을까? 전체 인테리어 스타일뿐만 아니라 조리 도구, 가전 제품, 그릇까지 보여주니 서랍까지 열어보는 느낌이다. 언젠가는 꼭 갖고 싶은 나만의 부엌을 상상해보자. 상상만으로도 즐거워진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "즐거운상상",
+                "DDC": "",
+                "UPDATE_DATE": "20201019",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 주부의 벗 편집부 ;옮긴이: 김수정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "143 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155361535",
+                "INPUT_DATE": "20200728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "미니멀라이프 부엌 사용법",
+                "PUBLISH_PREDATE": "20200915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

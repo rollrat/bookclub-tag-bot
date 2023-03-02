@@ -1,0 +1,67 @@
+{
+    "otitle": "조선왕 시크릿 파일",
+    "oauthor": "박영규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조선 왕 시크릿 파일 (우리가 몰랐던 조선 왕들의 인성과 사생활 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496893957",
+                "image": "https://shopping-phinf.pstatic.net/main_3249689/32496893957.20221228074904.jpg",
+                "author": "박영규",
+                "discount": "15120",
+                "publisher": "옥당북스",
+                "pubdate": "20180914",
+                "isbn": "9791196412821",
+                "description": "지금까지 알던 조선왕은 잊어라! &lt;한 권으로 읽는 조선왕조실록&gt; 저자 박영규가 열어젖힌 조선왕 시크릿 파일. 조선시대 왕들은 우리에게 친근하다. [뿌리 깊은 나무](세종대왕), [이산](정조), [왕의 남자](연산군), [광해](광해군) 등 드라마나 영화의 단골 소재로 다뤄진 덕분이다. \n\n\n\n그런데 우리는 조선 왕들에 대해 얼마나 알고 있을까? 저자 박영규는 &lt;조선 왕 시크릿 파일&gt;에서 \"지금까지 알던 조선 왕은 잊어라!\"라고 외친다. 저자는 그들의 업적이 아니라 인성과 사생활에 초점을 맞춰 새로운 이야기를 들려주기 시작한다. 우리가 알고 있던 조선 왕들의 강인하고 포용적인 모습과는 다른 지극히 인간적이고 색다른 면을 엿볼 수 있는 기회다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "옥당북스",
+                "DDC": "951.902",
+                "UPDATE_DATE": "20180917",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박영규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "911.05",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6874804_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20180914",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6874804_3.jpg",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "19,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "406 p.",
+                "CONTROL_NO": "CIP2018026924",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196412821",
+                "INPUT_DATE": "20180822",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "조선 왕 시크릿 파일",
+                "PUBLISH_PREDATE": "20180914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

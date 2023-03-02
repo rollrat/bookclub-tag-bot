@@ -1,0 +1,67 @@
+{
+    "otitle": "도대체 내가 뭘 읽은 거지?",
+    "oauthor": "송민수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도대체 내가 뭘 읽은 거지? (자기계발서, 되도 않는 훈수 걷어차기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441618724",
+                "image": "https://shopping-phinf.pstatic.net/main_3244161/32441618724.20221228074103.jpg",
+                "author": "송민수",
+                "discount": "13500",
+                "publisher": "들녘",
+                "pubdate": "20180305",
+                "isbn": "9791159253201",
+                "description": "성공의 길을 가리키는 자기계발서 앞에서 오히려 우리는 루저가 되고 있지 않은지?\n\n아름답고 가슴 벅찬 성공을 누군들 바라지 않을까? 성공을 향한 욕구 앞에서 결핍을 느끼지 않는 사람이 얼마나 될까? 그럴 때 만나게 되는 멘토가 있으니, 자기계발서가 그것이다. 그것은 ‘당신’에게 성공할 것을 명령하고, 가르치고, 타이르며, 훈수한다. ‘당신’은 그것을 믿고 따르며, 실천하고 행동한다. 그러나 아무리 애써봐도 성공은 다가오지 않고, 결국 절망한 당신은 오로지 ‘자기’만을 탓하게 된다. 하나의 자기계발서가 유통기한을 다하면, ‘당신’은 마약처럼 또 다른 자기계발서를 집어든다. ‘당신’의 성공 욕망을 부추기기 위해 자기계발서들은 부단히 진화ㆍ변이한다.\n\n→ ‘오늘’을 특별한 ‘내일’로 만드는 지혜: 계몽적 자기계발서\n→ 1%만 알았던 부와 성공의 비밀: 초월적 자기계발서\n→ 읽으면 심장이 뛰는 책: 성공담 자기계발서\n→ 당신의 인생을 뒤바꿔놓을 경이로운 책: 관리형 자기계발서\n→ 하지만 기억하라, 그대는 눈부시게 아름답다: 위로형 자기계발서\n→ 자유롭고 행복한 삶을 위한 가르침: 이기적 자기계발서\n\n이 책은 자기계발서의 패턴 변화를 6가지로 분류ㆍ정리하고, 자기계발서가 누구에게 무슨 말을 하고 있는지, 그것이 성공하고 싶어 하는 사람들에게 어떤 영향을 미치고 있는지를 깊이 들여다보고자 한다. 대표적인 도서들의 분석을 통해, 그 가르침이 1% 성공자들의 성공을 합리화해주는 것일 뿐, 나머지 99%의 사람들을 오히려 루저로 만들고 있음을 상기시킨다. 자기계발서는 우리를 수많은 ‘나’들로 분해시켜 개인의 굴레에 가두어놓고, 진정한 ‘자기계발’의 전제인 ‘우리계발’과 ‘사회계발’을 보지 못하게 한다. 자기계발서가 드리운 장막을 젖히고 ‘나’의 문제를 ‘우리’의 문제와 통합해서 바라보게 될 때, 비로소 다중의 행복한 삶이 가능해짐을 밝힌다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20180328",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "송민수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6562935_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6562935_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "335 p.",
+                "CONTROL_NO": "CIP2018005949",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159253201",
+                "INPUT_DATE": "20180220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "도대체 내가 뭘 읽은 거지?",
+                "PUBLISH_PREDATE": "20180305",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "진진, 왕육성입니다",
+    "oauthor": "왕육성,안충기 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "진진, 왕육성입니다 (미쉐린 가이드를 홀린 골목식당, 백년가게를 꿈꾸다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442160818",
+                "image": "https://shopping-phinf.pstatic.net/main_3244216/32442160818.20230103162745.jpg",
+                "author": "안충기^왕육성",
+                "discount": "13830",
+                "publisher": "동아시아",
+                "pubdate": "20220430",
+                "isbn": "9788962624267",
+                "description": "2016년 말, 요식업계가 발칵 뒤집어졌다. ‘미식가의 성서’라고 불리는 미쉐린 가이드가 한국에도 론칭한다는 소식이 퍼졌다. 특급호텔 레스토랑, 고급 요릿집 등이 수록을 기대하며 발표만 기다리고 있었다. 총 24곳이 발표됐는데 눈에 띄는 가게와 셰프가 있었다. ‘진진’ 그리고 왕육성. 진진은 마포구 서교동 골목에 자리 잡은 작은 중식당이다. 게다가 개업한 지 2년도 안 된 신생 가게나 다름없었다.\n\n『진진, 왕육성입니다』는 바로 이 깜짝 스타 진진과 진진을 만든 왕육성에 대한 이야기다. TV에 얼굴을 자주 내비치진 않지만 알 만한 사람은 다 아는 그는 사실 이미 중화요리계 스타다. 왕육성은 50년 업력을 가진 백전노장이자, 대관원, 홍보석, 플라자호텔 도원 등 장안에서 이름난 중식당을 거쳐 코리아나호텔 대상해 오너 셰프의 자리까지 오른 입지적인 인물이다.\n\n진진은 왕육성이 50년 요리 인생에서 축적된 내공을 모두 쏟아부은 ‘작품’이나 다름없다. 모든 것을 그는 철저하게 설계했다. 가게 위치부터 메뉴 선정, 주류 판매 목록까지 허투루 정해놓은 것이 단 한 가지도 없다. 유동인구 거의 없는 골목 자리에서, 짜장면·짬뽕도 없고 탕수육도 없고 단무지까지 없는 이 이상한 중국집, 결국에는 성공했다. 역시 그는 이번에도 실패하지 않았다. 한 기자가 말했다. ‘전승의 승부사 왕육성.’"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "",
+                "UPDATE_DATE": "20220607",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "왕육성 말하고 안충기 쓰다",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "299 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962624267",
+                "INPUT_DATE": "20220414",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "진진, 왕육성입니다",
+                "PUBLISH_PREDATE": "20220430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "한밤의 태양",
+    "oauthor": "김혜정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한밤의 태양 (김혜정 소설집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485096259",
+                "image": "https://shopping-phinf.pstatic.net/main_3248509/32485096259.20221019132625.jpg",
+                "author": "김혜정",
+                "discount": "12600",
+                "publisher": "델피노",
+                "pubdate": "20210825",
+                "isbn": "9791191459098",
+                "description": "늘 모자라거나 넘치는 우리의 삶\n그 아픈 상처를 다독이는 따뜻한 위로\n\n우리는 현재 어떤 인생을 살아내고 있을까? 각자 어떤 위치에서 힘겹게 고통과 싸우고 있을까? 그리고 누구를 만나 위로와 안정을 얻고 있을까? 작가는 특유의 섬세한 시선으로 각기 독특한 소재 9개를 촘촘한 이야기로 풀어내 우리의 인생은 모두 보석처럼 아름답다고 말하고 있다. 우리는 살아가는 동안 각자의 인생에 맞게 수많은 계획을 세우고 현재의 노력을 다해 미래를 짐작한다. 인생에 대한 평가는 대체로 늘 모자라거나 때로 과하게 넘쳐 우리를 혼란에 빠뜨리며 고통스럽게 한다. 작가도 한때 예고 없는 사고로 커다란 아픔을 가진 경험이 있다. 그 상처를 힘들게 치유하고 극복해 나가면서 얻게 된 세상을 향한 긍정적인 시선으로 우리에게 따뜻하고 특별한 위로법을 9개의 단편소설로 제공한다. 인생은 어디서 어떤 일이 불쑥 튀어나올지 모르는 정글과도 같은 곳이다. 지구가 생명을 다하는 날까지 사랑을 맹세했던 남녀가 사소한 말 하나로 두 번 다시는 보지 않을 원수가 될 수도 있고, 기분 좋게 일어나 아침에 출근하다가 불의의 사고로 목숨을 잃을 수도 있다. 번듯하게 다녔던 직장에서 하루아침에 잘려 백수가 될 수도 있고, 주머니에 만 원 한 장이 없던 사람이 우연히 로또에 맞아 벼락부자가 될 수도 있다. 그리고 서로 다른 나라에서 살던 남녀가 어느 한 좌표에서 맞닥뜨려 운명 같은 사랑을 키워나갈 수도 있다. 우리의 인생은 그 예측불허가 있어 아름답다. 그래서 살아갈 만하고 견뎌낼 만하다. 우리에게는 무슨 일이든 일어날 수 있고, 또 아무 일도 일어나지 않을 수도 있다. 그래서 더욱 이 순간을 열심히 살아내야 한다. 우리에게 어떤 놀라운 일이 벌어질지는 아무도 모르기 때문에."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "델피노",
+                "DDC": "",
+                "UPDATE_DATE": "20210914",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.delpinobooks.com",
+                "AUTHOR": "지은이: 김혜정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/03/9791191459098.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "288 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191459098",
+                "INPUT_DATE": "20210803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "한밤의 태양",
+                "PUBLISH_PREDATE": "20210825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

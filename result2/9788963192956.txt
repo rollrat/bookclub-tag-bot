@@ -1,0 +1,67 @@
+{
+    "otitle": "수상한 도서관",
+    "oauthor": "박현숙 글/장서영 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수상한 도서관",
+                "link": "https://search.shopping.naver.com/book/catalog/32483723660",
+                "image": "https://shopping-phinf.pstatic.net/main_3248372/32483723660.20230207163816.jpg",
+                "author": "박현숙",
+                "discount": "9900",
+                "publisher": "북멘토",
+                "pubdate": "20190402",
+                "isbn": "9788963192956",
+                "description": "『수상한 도서관』에서 작가는 가까운 사이일수록 표현하지 못해 생기는 오해와 하지 말아야 할 이유 백 가지를 이긴 한 가지 용기 있는 행동이 지켜 낸 아름다운 우정에 대해 말한다. 도서관 서가 깊은 곳에 숨어 있던 의문의 일기장! 날마다 한 장씩 새로 쓰이는 일기장의 주인은 누구?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20190423",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.bookmentorbooks.co.kr",
+                "AUTHOR": "박현숙 글 ;장서영 그림",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20190402",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/13/9788963192956.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "13,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "220 p.",
+                "CONTROL_NO": "CIP2019009792",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963192956",
+                "INPUT_DATE": "20190313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "수상한 도서관",
+                "PUBLISH_PREDATE": "20190402",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

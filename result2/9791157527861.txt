@@ -1,0 +1,67 @@
+{
+    "otitle": "수채 손글씨는 예뻐요",
+    "oauthor": "민미레터 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수채 손글씨는 예뻐요 (쉽게 배우는 감성 수채 캘리그라피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492781254",
+                "image": "https://shopping-phinf.pstatic.net/main_3249278/32492781254.20221227203217.jpg",
+                "author": "민미레터",
+                "discount": "10350",
+                "publisher": "큐리어스(Qrious)",
+                "pubdate": "20160510",
+                "isbn": "9791157527861",
+                "description": "다양한 감정을 담아 쓰는 알록달록 손글씨!\n\n『작고 예쁜 그림 한 장』의 저자 민미레터가 이번에는 수채화 물감으로 예쁜 손글씨 쓰는 법을 알려준다. 『수채 손글씨는 예뻐요』는 도구 선택하는 법, 6가지 손글씨체 쓰는 법 등 기본부터 시작하고, 쓰는 과정을 3단계로 정리해서 알려주기 때문에 누구나 쉽고 예쁘게 쓸 수 있다. 감성 넘치는 42가지 캘리 작품을 직접 써보고, 어울리는 감성수채화 그리기도 배울 수 있다. 남들과 다른, 개성 있는 캘리그라피를 하고 싶은 사람 혹은 예쁜 손글씨로 엽서나 카드를 만들고 싶은 사람, 그리고 좋아하는 글귀를 적어 소품으로 장식하고 싶은 사람까지 수채 손글씨를 써보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Qrious(큐리어스)",
+                "DDC": "",
+                "UPDATE_DATE": "20160601",
+                "EA_ADD_CODE": "13600",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "민미레터 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157527861",
+                "INPUT_DATE": "20160601",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "수채 손글씨는 예뻐요 ",
+                "PUBLISH_PREDATE": "20160510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

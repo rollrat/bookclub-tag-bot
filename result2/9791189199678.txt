@@ -1,0 +1,67 @@
+{
+    "otitle": "50대 또 한 번 나 혼자만의 시간",
+    "oauthor": "나카미치 안 저/조은아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "50대 또 한 번 나 혼자만의 시간",
+                "link": "https://search.shopping.naver.com/book/catalog/32482670015",
+                "image": "https://shopping-phinf.pstatic.net/main_3248267/32482670015.20221230074959.jpg",
+                "author": "나카미치 안",
+                "discount": "9940",
+                "publisher": "시그마북스",
+                "pubdate": "20190125",
+                "isbn": "9791189199678",
+                "description": "50대부터 홀로서기가 시작된다\n\n20대에 결혼해서 2남 1녀를 두고 주부로서 평범하게 살아오다, 50대가 되어 인생의 전환기가 찾아왔다. 그런 중에도 홀로서기를 하고 혼자만의 시간을 즐기며 살아가게 한 삶이 있다. 남편과 별거, 어머니 병간호, 여성으로서 신체 변화, 자녀들의 성장. 그 속에서 발견한 홀로서기의 즐거움을 가감 없이 전한다. 50대 생활과 50대부터 인생을 즐겁고 긍정적으로 살 수 있는 현실적인 조언이 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20190502",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "나카미치 안 지음 ;조은아 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "199.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7048128_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "170 p.",
+                "CONTROL_NO": "CIP2018040157",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189199678",
+                "INPUT_DATE": "20181206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "50대 또 한 번 나 혼자만의 시간",
+                "PUBLISH_PREDATE": "20190125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

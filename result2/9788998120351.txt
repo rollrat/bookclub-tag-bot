@@ -1,0 +1,67 @@
+{
+    "otitle": "스스로 배우는 학생을 만드는 가르치지 않는 수업",
+    "oauthor": "야마모토 다카오 저/정현옥 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스스로 배우는 학생을 만드는 가르치지 않는 수업",
+                "link": "https://search.shopping.naver.com/book/catalog/32504375979",
+                "image": "https://shopping-phinf.pstatic.net/main_3250437/32504375979.20221227203556.jpg",
+                "author": "야마모토 다카오",
+                "discount": "11700",
+                "publisher": "솔빛길",
+                "pubdate": "20170331",
+                "isbn": "9788998120351",
+                "description": "즐거운 교실, 지적열의가 넘치는 교실에는 하나의 공통점이 있다. 그것은 학생이 일방적으로 듣는 객체로서의 수업이 아니라, 교육의 한 주체로 대우받고 주도적으로 학생이 수업에 참여한다는 것이다. 이 단순한 사실을 모르는 교사와 학부모들은 없다. 문제는 그것을 어떻게 하느냐는 구체적인 방법에 대한 선례가 없어서 힘들다는 것이다. \n\n\n\n이 책의 저자는 일본의 중고등학교 영어 교사이다. 그는 동일본 대지진에서 희생된 학생들을 보면서 자립하는 학생을 만들어야겠다는 결심을 한다. 또한 그는 수업을 자신이 주도해서 하는 것이 교사의 자기만족에 지나지 않는다는 사실을 겸허하게 직시한다. 그래서 그는 교사는 방향만 제시할 뿐 지식은 학생들이 스스로 추구하는 ‘가르치지 않는 수업’이라는 모델을 실험하고 성공했다. \n\n\n\n그의 목표는 자립한 학생을 만드는 것이고, 그의 수업에서 학생들은 스스로 공부하는 방법을 터득함으로써 단순히 많은 지식을 외워서 저장한 수동적인 학생이 아니라, 능동적으로 지식을 습득하는 방법을 배운 자립한 학생들이 되었다. 이 책은 그러한 학생을 만드는 구체적인 방법과 실제 사례들을 제시하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "솔빛길",
+                "DDC": "371.3",
+                "UPDATE_DATE": "20200508",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "야마모토 다카오 지음 ;정현옥 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "373",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6175418_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6175418_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "199 p., 도판 8 p.",
+                "CONTROL_NO": "CIP2017007356",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998120351",
+                "INPUT_DATE": "20170321",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "스스로 배우는 학생을 만드는 가르치지 않는 수업",
+                "PUBLISH_PREDATE": "20170331",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

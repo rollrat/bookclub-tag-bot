@@ -1,0 +1,78 @@
+{
+    "otitle": "Do it! 깡샘의 안드로이드 프로그래밍 with 코틀린 (개정판)",
+    "oauthor": "강성윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:34 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린 (친절한 문법 설명과 18개 실습으로 배우는 모바일 앱 개발)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441646331",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441646331.20221019135747.jpg",
+                "author": "강성윤",
+                "discount": "32400",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20220119",
+                "isbn": "9791163033301",
+                "description": "안드로이드-코틀린 분야 베스트 1위! 개정판 출간!\n20여 년간 개발과 강의 현장에서 쌓은 ‘깡샘’의 노하우를 만나 보자!\n\n이 책은 구글에서 공식 언어로 채택한 코틀린으로 안드로이드 앱을 개발하는 전 과정을 다룬다. 이번 개정판에서는 안드로이드 12, 안드로이드 스튜디오 북극여우 최신판을 기준으로 달라진 내용을 보충했으며 실습 소스를 업데이트했다. IT 업계의 명강사인 깡샘이 입문자도 쉽게 이해할 수 있게 구성하여 이 책만으로도 코틀린 모바일 앱 개발자로 성장할 수 있도록 했다. 특히 우리가 한번쯤 사용해 본 기능들을 실습 주제로 다뤄서 끝까지 흥미를 잃지 않고 학습할 수 있다. \n \n코틀린 문법의 핵심을 친절하게 설명했으며 앱의 첫 화면 설계부터 이벤트 처리, 알림, 데이터베이스, 위치 정보 활용, 네트워킹, 파이어베이스 연동 등 자주 쓰는 기능을 직접 만들어 본다. 이로써 독자는 안드로이드 앱의 구조와 개발 방법을 자연스럽게 익힐 수 있다. 그 뿐만 아니라 최신 트렌드에 맞춰 제트팩 androidx 라이브러리의 다양한 API도 소개하며, 안드로이드 버전에 따라 호환성을 고려한 개발도 자세하게 다룬다. 또한 이론과 실습을 분리해 놓아 강의 교재로도 손색이 없다."
+            },
+            {
+                "title": "Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린 (18개 실습 예제로 배우는 모바일 앱 개발)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494121668",
+                "image": "https://shopping-phinf.pstatic.net/main_3249412/32494121668.20230103163254.jpg",
+                "author": "강성윤",
+                "discount": "32400",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20210821",
+                "isbn": "9791163032731",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱(주)",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "저자 : 강성윤",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "36,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "712",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163033301",
+                "INPUT_DATE": "20211228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "N",
+                "TITLE": "Do it! 깡샘의 안드로이드 프로그래밍 with 코틀린 [개정판]",
+                "PUBLISH_PREDATE": "20220119",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

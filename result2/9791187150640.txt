@@ -1,0 +1,67 @@
+{
+    "otitle": "미술관에 간 물리학자",
+    "oauthor": "서민아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미술관에 간 물리학자 (명화에서 찾은 물리학의 발견)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464655166",
+                "image": "https://shopping-phinf.pstatic.net/main_3246465/32464655166.20221019150330.jpg",
+                "author": "서민아",
+                "discount": "16200",
+                "publisher": "어바웃어북",
+                "pubdate": "20200207",
+                "isbn": "9791187150640",
+                "description": "명화를 통해 만물의 이치를 탐구하다!\n\n물리학은 만물의 이치를 탐구하는 학문이다. 구름은 어떻게 생성되는지, 사물의 형태나 색을 어떻게 인지하는지, 소리는 어떻게 전달되는지, 자전하는 지구에서 어떻게 떨어지지 않고 버틸 수 있는지……. 물리학자는 자연과 우주의 본질을 탐구하는 사람들이다. 만물의 본질을 각자의 언어로 궁구(窮究) 한다는 차원에서 과학자의 일과 예술가의 일은 다르지 않다.\n\n이 책은 명화에서 물리학의 핵심 개념과 원리를 찾아 소개한다. 샤갈의 성 슈테판 교회 스테인드글라스에는 퀀텀닷과 나노입자의 과학, 다빈치의 〈모나리자〉에는 ‘꿈의 전자파’라 불리는 테라헤르츠파의 과학, 마그리트의 〈이미지의 배신〉에는 현대물리학의 큰 축인 양자역학, 몬드리안의 〈빨강, 파랑, 노랑의 구성〉에는 그래핀 같은 낮은 차원의 물질세계를 설명하는 과학이 담겨 있다. 그림에서 찾아낸 물리 법칙은 수식으로 설명하는 것보다 훨씬 쉬울 뿐만 아니라 아름답다. 이 책은 ‘프리즘’처럼 좀처럼 알아채기 힘든 물리학의 아름다움을 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "어바웃어북",
+                "DDC": "",
+                "UPDATE_DATE": "20200217",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "서민아 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "413 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187150640",
+                "INPUT_DATE": "20200116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "미술관에 간 물리학자",
+                "PUBLISH_PREDATE": "20200207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

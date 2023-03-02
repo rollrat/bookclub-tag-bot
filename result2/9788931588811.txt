@@ -1,0 +1,67 @@
+{
+    "otitle": "인공지능과 테크놀로지",
+    "oauthor": "미야케 오이치로 저/황명희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잠 못들 정도로 재미있는 이야기: 인공지능과 테크놀로지",
+                "link": "https://search.shopping.naver.com/book/catalog/32492237669",
+                "image": "https://shopping-phinf.pstatic.net/main_3249223/32492237669.20221019120615.jpg",
+                "author": "성안당 편집부",
+                "discount": "8820",
+                "publisher": "성안당",
+                "pubdate": "20200525",
+                "isbn": "9788931588811",
+                "description": "새로운 진화를 계속하는 테크놀로지와\n인공지능이 미래의 생활을 어떻게 바꿀 것인가?\n그리고 인공지능은 인간의 지능을 뛰어넘을까?\n\n진화하는 인공지능(AI)과 테크놀로지는 특이점(싱귤래리티)으로 시시각각 다가오고 있다. 빅데이터, IoT, 딥러닝을 시작으로 주목되고 가상통화, 블록체인, MR(혼합현실) 등 모르는 것이 끝나지 않는 최첨단의 혁신과 우리의 가까운 미래가 ‘변화되는 생활’에 대해 중요한 주제를 중심으로 다루었다. 또한 이해하기 힘든 최신 용어들을 한눈에 들어오는 그림과 도표로 정리하여 가능한 한 알기 쉽게 정리하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20221201",
+                "EA_ADD_CODE": "04080",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "저자 : 미야케 요이치로;감수자 : 한선관;역자 : 황명희;",
+                "SERIES_TITLE": "잠 못들 정도로 재미있는 이야기",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788931588897",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "128",
+                "CONTROL_NO": "",
+                "SERIES_NO": "3",
+                "EA_ISBN": "9788931588811",
+                "INPUT_DATE": "20200519",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "인공지능과 테크놀로지",
+                "PUBLISH_PREDATE": "20200525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "삶은 왜 짐이 되었는가",
+    "oauthor": "박찬국 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "삶은 왜 짐이 되었는가 (서울대 박찬국 교수의 하이데거 명강의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483634805",
+                "image": "https://shopping-phinf.pstatic.net/main_3248363/32483634805.20221019120225.jpg",
+                "author": "박찬국",
+                "discount": "13500",
+                "publisher": "21세기북스",
+                "pubdate": "20170920",
+                "isbn": "9788950971991",
+                "description": "서울대 철학과 박찬국 교수가 들려주는 하이데거 인생수업\n\n우리의 일상을 지배하는 불안과 고독, 우울과 무기력은 어디에서 오는 것일까? 하이데거는 현대사회의 위기를 직시하고 그것을 회복하기 위한 길을 사유하는 데 자신의 삶을 바친 사상가다. 하이데거는 우리 삶이 충만해지기 위해서는 자연과 사물 등 존재하는 모든 것에 대해 경이와 기쁨을 느끼는 인간 고유의 감정을 회복해야 한다고 말한다. \n하이데거 철학의 대표적인 권위자인 서울대 철학과 박찬국 교수는 강의 형식의 친절한 설명과 신뢰감 있는 정교한 해설을 통해 하이데거 철학의 정수를 소개한다. 공허하고 삭막해져만 가는 삶의 문제들을 진단하고 그 대안을 제시하는 이 책을 통해 분주한 삶 속에서 우리가 놓치고 있던 것들에 대해 생각해보는 시간이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스",
+                "DDC": "",
+                "UPDATE_DATE": "20171115",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "박찬국 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "264 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950971991",
+                "INPUT_DATE": "20170918",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "삶은 왜 짐이 되었는가",
+                "PUBLISH_PREDATE": "20170920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

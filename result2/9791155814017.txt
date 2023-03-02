@@ -1,0 +1,67 @@
+{
+    "otitle": "킨포크 가든",
+    "oauthor": "존 번스 저/오경아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "THE KINFOLK GARDEN(킨포크 가든) (자연의 기쁨을 삶에 들이는 시간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440370067",
+                "image": "https://shopping-phinf.pstatic.net/main_3244037/32440370067.20230222101800.jpg",
+                "author": "존 번스",
+                "discount": "27630",
+                "publisher": "윌북",
+                "pubdate": "20211001",
+                "isbn": "9791155814017",
+                "description": "자연의 초록빛 위안이 삶에 스미는 시간 \n킨포크가 만난 정원의 표정\n\n단순하고 소박한 삶을 지향하는 라이프스타일 매거진 〈킨포크〉의 가든 에세이. 자연의 기쁨을 삶에 들이는 방법을 담은 책이다. 〈킨포크〉의 편집장 존 번스와 킨포크 팀은 14개국 23개 도시를 돌며 전 세계인의 정원을 방문했고, 그곳의 식물만큼이나 단순하고 우아하게, 자기만의 속도로 살아가는 이들을 만났다. 디자이너, 플로리스트, 화가 등 각기 다른 일을 하며 정원을 가꾸는 이들은 우리에게 한 가지 공통된 이야기를 들려준다. “식물을 돌보는 일은 자기를 돌보는 법을 배우는 가장 좋은 방법입니다.” \n\n파리의 좁은 아파트 옥상에 자기만의 자연 도피처를 만든 가든 디자이너부터 꽃잎의 구조를 연구하며 종이꽃을 연구하는 뉴욕의 공예가, 코펜하겐 커뮤니티 농장에서 채소를 직접 수확하는 사람들까지. 말 없는 식물에게 가장 많은 이야기를 듣고, 식물처럼 자기 모습 그대로, 무엇을 바꾸려 애쓰지 않는 이들의 일상에는 특별한 울림이 있다. 마음이 복잡한 날에는 이 책을 펼쳐보자. 언제나 다정하게 곁을 내주는 친구의 정원에서 잠시 거닐다 온 듯한 기분을, 그리하여 문득 편안해지는 마음을 느낄 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "",
+                "UPDATE_DATE": "20211019",
+                "EA_ADD_CODE": "13520",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지으이: 존 번스 ;옮긴이: 오경아",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/19/9791155814017.jpg",
+                "PRE_PRICE": "33000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "203*280",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "349 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155814017",
+                "INPUT_DATE": "20210819",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "킨포크 가든",
+                "PUBLISH_PREDATE": "20211001",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

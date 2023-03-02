@@ -1,0 +1,67 @@
+{
+    "otitle": "곰아, 놀자!",
+    "oauthor": "조리 존 글/벤지 데이비스 그림/이순영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "곰아 놀자!",
+                "link": "https://search.shopping.naver.com/book/catalog/32484553868",
+                "image": "https://shopping-phinf.pstatic.net/main_3248455/32484553868.20230214164058.jpg",
+                "author": "조리 존",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20160121",
+                "isbn": "9791186797099",
+                "description": "『곰아, 놀자!』는 친구와 함께 시간을 보내고 싶은 오리와 혼자 쉬고 싶은 곰의 시끌시끌하고 유쾌한 산책 이야기입니다. 친구의 시간을 소중히 생각하는 것, 서로 다르다는 것을 인정하는 것, 그리고 진정한 우정에 대해 생각해 보게 하는 유쾌한 그림책입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20160323",
+                "EA_ADD_CODE": "77840",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "조리 존 글; 벤지 데이비스 그림",
+                "SERIES_TITLE": "",
+                "KDC": "843",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5154417_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5154417_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "229x280",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5154417_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "40",
+                "CONTROL_NO": "CIP2016000545",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186797099",
+                "INPUT_DATE": "20160107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "곰아, 놀자!",
+                "PUBLISH_PREDATE": "20160121",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

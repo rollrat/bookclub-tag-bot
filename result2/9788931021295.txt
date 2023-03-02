@@ -1,0 +1,67 @@
+{
+    "otitle": "어린 왕자 (소프트커버 에디션) (개정판)",
+    "oauthor": "생텍쥐페리 저/전성자 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어린 왕자 (소프트커버 에디션) (개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478427734",
+                "image": "https://shopping-phinf.pstatic.net/main_3247842/32478427734.20230218110713.jpg",
+                "author": "생텍쥐페리",
+                "discount": "7200",
+                "publisher": "문예출판사",
+                "pubdate": "20200922",
+                "isbn": "9788931021295",
+                "description": "원로 불문학자 전성자 선생의 더 새롭고 더 완벽한 번역!\n문예출판사 『어린 왕자』 소프트커버 에디션\n\n문예출판사가 전성자 선생의 원전에 가까운 아름다운 번역과 새로운 디자인으로 『어린 왕자』 소프트커버 에디션을 선보인다. 기존에 문예출판사에서 하드커버로 출간된 『어린 왕자: 0629 에디션』을 소프트커버로 바꾸고, 금박을 입힌 고급스러운 디자인으로 탈바꿈시켰다. 故 황현산 선생은 생전에 트위터를 통해 수많은 『어린 왕자』를 읽었지만, 그중에서도 전성자 선생의 번역이 좋다고 평하기도 했다. 시대가 변해도 『어린 왕자』가 전하는 메시지와 감동은 여전하다. “어린 왕자는 생텍쥐페리 자신”이라는 문학평론가 아드리엔느 모니에의 말처럼 생텍쥐페리의 때묻지 않은 순수함과 진실함이 작품에도 그대로 반영되어 있다. 읽을 때마다 매번 다른 깨달음을 주는 20세기 문학의 가장 위대한 작품 『어린 왕자』를 만나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문예출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20201027",
+                "EA_ADD_CODE": "03860",
+                "PUBLISHER_URL": "http://www.moonye.com",
+                "AUTHOR": "앙투안 드 생텍쥐페리 지음 ;전성자 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "863",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "8000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "143 p.",
+                "CONTROL_NO": "CIP2020038470",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931021295",
+                "INPUT_DATE": "20200902",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "어린 왕자",
+                "PUBLISH_PREDATE": "20200922",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

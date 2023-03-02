@@ -1,0 +1,67 @@
+{
+    "otitle": "부의 미술관",
+    "oauthor": "니시오카 후미히코 저/서수지 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부의 미술관 (인간의 욕망과 뒤얽힌 역사 속 명화 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466665992",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466665992.20230103165022.jpg",
+                "author": "니시오카 후미히코",
+                "discount": "15120",
+                "publisher": "사람과나무사이",
+                "pubdate": "20220331",
+                "isbn": "9791188635603",
+                "description": "자본주의를 태동시킨 8가지 욕망의 명화 이야기\n\n마르틴 루터가 시작한 종교개혁은 예술가들의 밥줄을 끊어놓았으며 예술에 치명타를 입혔다. 그러나 종교미술 파괴가 가장 심했던 17세기 대표적인 프로테스탄트 국가 네덜란드에서는 오히려 ‘회화 열풍’이 거세게 불었고 근대 시민 회화가 활짝 꽃을 피웠다. 교회ㆍ왕실 등 부와 권력을 손에 쥔 후원자의 주문에 전적으로 의존하던 생산 시스템이 ‘기성품 전시 판매’ 방식으로 바뀐 덕분이었다. 그로 인해 미술품의 주요 소비층이 성직자ㆍ왕 등 교회와 세속 권력자에서 ‘일반 시민’으로 바뀌었으며, 그림 소재도 성경 내용이나 신화 이야기에서 ‘평범한 사람들의 일상적인 모습’으로 바뀌었다. 종교개혁이 세계 미술사의 패러다임을 혁명적으로 바꿔놓은 셈이었다. \n\n이 책 『부의 미술관』은 ‘메디치 가문 지하 금융의 도움이 없었다면 르네상스도 없었을 것이라는 가정’에서부터 ‘회화가 가진 강력한 프레젠테이션 기능을 간파하고 정치적 선전 도구로 활용한 나폴레옹 이야기’, ‘한때 잡동사니 취급받던 인상주의 회화의 가치를 알아보고 카브리올 레그와 금테 액자를 활용하여 부르는 게 값인 ‘귀하신 몸’으로 둔갑시킨 폴 뒤랑뤼엘의 탁월한 마케팅 전략’ 등 자본주의를 태동시킨 8편의 욕망의 명화 이야기를 다룬다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사람과나무사이",
+                "DDC": "",
+                "UPDATE_DATE": "20220422",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "니시오카 후미히코 지음 ;서수지 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "292 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188635603",
+                "INPUT_DATE": "20220413",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "부의 미술관",
+                "PUBLISH_PREDATE": "20220331",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

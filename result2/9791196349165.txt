@@ -1,0 +1,67 @@
+{
+    "otitle": "모든 순간의 향기",
+    "oauthor": "김민경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모든 순간의 향기 (서른 개의 향과 서른 개의 마음)",
+                "link": "https://search.shopping.naver.com/book/catalog/32468184167",
+                "image": "https://shopping-phinf.pstatic.net/main_3246818/32468184167.20221230073929.jpg",
+                "author": "김민경",
+                "discount": "13500",
+                "publisher": "사이드웨이",
+                "pubdate": "20200827",
+                "isbn": "9791196349165",
+                "description": "“당신의 기억에 다가오는 향이 좋은 향이에요.”\n향이 주는 충만한 위로와 활력의 기록\n서른 개 향기를 통해서 고백하는 서른 개의 마음\n세상의 향기 어린 것들을 아끼고 좋아하는 이들이,\n나를 편안하게 만드는 향을 제대로 알기 위한 단 한 권의 책, \n모든 ‘향덕’들을 매료시킬 특급 에세이!\n\n향기의 힘은 놀랍다. 우리는 향의 힘이 왜 놀라운지 정확히 알지도 못하면서 매일 킁킁거리며 좋은 향을 맡는다. 샤워하며 에센셜 오일을 몸에 바르고, 어두운 밤엔 향초에 슬며시 불을 켠다. 디퓨저와 포푸리에 얼굴을 가까이하며, 그 앞에서 잠시 눈을 감고 마음을 달랜다. \n좋은 향은 우리에게 어째서 그토록 다정한 치유와 위안을 선사해주는 것인가? 2014년부터 매일처럼 서울 성북구의 작업실을 지키며 향을 빚어내는 작가 김민경이 그 대답을 찾기 위한 이야기를 시작한다. 각각의 향기와 오일이 지닌 효능과 성분 분석, 마케팅 효과 같은 뻔한 말을 하는 게 아니다. 대신 저마다의 향기에 담긴 자신의 기억을 고백하고, 각각의 향을 떠올렸을 때 그의 마음에 번지는 계절과 사랑과 이별과 미움과 기쁨과 슬픔과 상처와 용기와 우정에 관해 이야기한다. \n과연 솔직하고도 가감 없는 고백이다. 그러므로, 세상의 모든 향덕(‘향기덕후’)들은 이 책 『모든 순간의 향기』에 매료될 수밖에 없을 것이다. 좋은 향은 언제나 우리를 애틋한 기억의 틈새 어딘가로 데려다주므로."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Sideways(사이드웨이)",
+                "DDC": "",
+                "UPDATE_DATE": "20201007",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김민경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196349165",
+                "INPUT_DATE": "20200813",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "모든 순간의 향기",
+                "PUBLISH_PREDATE": "20200827",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

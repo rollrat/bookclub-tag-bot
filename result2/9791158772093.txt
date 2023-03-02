@@ -1,0 +1,67 @@
+{
+    "otitle": "나를 믿고 사랑하며 잘 극복 중입니다",
+    "oauthor": "최지영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나를 믿고 사랑하며 잘 극복 중입니다 (우리의 소명은 어쩌면 나 자신을 알아가는 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492750638",
+                "image": "https://shopping-phinf.pstatic.net/main_3249275/32492750638.20221228075018.jpg",
+                "author": "최지영",
+                "discount": "11700",
+                "publisher": "바이북스",
+                "pubdate": "20201120",
+                "isbn": "9791158772093",
+                "description": "자신을 삶의 주인공으로 만드는 역경 극복의 시간. 딸아이 출산 후 워킹맘에 도전해 취업 및 퇴사를 반복하던 중 글쓰기를 만나 작가의 꿈을 품게 된 저자 최지영이, 자신을 사랑하고 주인공으로 살아가라는 당부를 담아 《나를 믿고 사랑하며 잘 극복 중입니다》를 세상에 내놓는다.\n\n\n\n이 책은 자기계발서의 대단한 사람이나 TV에 나오는 유명인의 이야기가 아니라 우리의 이야기를 담았다. 100년 드라마의 주인공인 나에게는 지금 자신을 되돌아볼 시간이 꼭 필요하다. 이 책을 덮는 순간 또 다른 시작을 마주할 독자가 더욱더 자신을 믿고 사랑하는 선택을 하길 기대한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20201202",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최지영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "216 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158772093",
+                "INPUT_DATE": "20201104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나를 믿고 사랑하며 잘 극복 중입니다",
+                "PUBLISH_PREDATE": "20201120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

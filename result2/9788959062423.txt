@@ -1,0 +1,67 @@
+{
+    "otitle": "지혜롭고 행복한 집 한옥",
+    "oauthor": "임석재 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지혜롭고 행복한 집 한옥 (한옥의 과학과 미학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484713914",
+                "image": "https://shopping-phinf.pstatic.net/main_3248471/32484713914.20221019123922.jpg",
+                "author": "임석재",
+                "discount": "18000",
+                "publisher": "인물과사상사",
+                "pubdate": "20131014",
+                "isbn": "9788959062423",
+                "description": "『지혜롭고 행복한 집 한옥』은 한옥 열풍이 불고 있는 한국 사회에 한옥이 주는 편리함과 불편함에 대해 설명한다. 또한 한옥의 불편함과 관련하여 잘못된 편견이 갖는 문제와 그 배경을 설명한다. 한옥이 결코 불편한 집이 아니며, 설사 일부 불편하더라도 그것이 더 큰 장점을 얻기 위한 것이라는 사실을 자세하게 설명하고 과학적으로 바로잡는 한편 한옥의 진정한 미학과 장점을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과 사상",
+                "DDC": "728.09519",
+                "UPDATE_DATE": "20131022",
+                "EA_ADD_CODE": "03610",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "임석재",
+                "SERIES_TITLE": "",
+                "KDC": "617.80911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3004242_3_2.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3004242_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3004242_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013019567",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959062423",
+                "INPUT_DATE": "20130930",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "지혜롭고 행복한 집 한옥",
+                "PUBLISH_PREDATE": "20131014",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "내가 살아본 교토",
+    "oauthor": "김희정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내가 살아본 교토 (교토에서의 900일, 나를 돌보다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489142902",
+                "image": "https://shopping-phinf.pstatic.net/main_3248914/32489142902.20230131164419.jpg",
+                "author": "김희정",
+                "discount": "12960",
+                "publisher": "이담북스",
+                "pubdate": "20200914",
+                "isbn": "9791166030802",
+                "description": "2년 반 유학생활을 풀어낸 교토 이야기\n수업이 끝나자 교토는 내게 말을 걸었다\n\n교토를 여행했다. 2년 6개월간의 기나긴 시간이었다. 천년 고도 교토를 충분히 보고 듣고 느끼고 경험했다. 여행자들의 발길이 미처 닿지 않는 곳을 밟아보기도 했고 한곳을 계절을 달리해 반복해서 가보기도 했다. 교토는 매번 느낌이 달랐고 신선했다. 그로 인해 난 살아 있음을 느꼈고 행복했다. 그곳에 들어가면 난 자연스럽게 팔을 벌리고 숨을 들이마셨다. 그 느낌들이 사라지기 전에 추억을 소환해 책을 완성했다. 나를 말없이 품어준 교토에 대한 최소한의 보답이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20201103",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "글·사진: 김희정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "133*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166030802",
+                "INPUT_DATE": "20200827",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "내가 살아본 교토",
+                "PUBLISH_PREDATE": "20200914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

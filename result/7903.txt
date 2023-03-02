@@ -1,0 +1,34 @@
+{
+    "otitle": "앵무새의 정리 2",
+    "oauthor": "드니 게즈 저/문선영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:19 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "앵무새의 정리 2 (드니 게즈 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454330533",
+                "image": "https://shopping-phinf.pstatic.net/main_3245433/32454330533.20221019141619.jpg",
+                "author": "드니 게디",
+                "discount": "13320",
+                "publisher": "자음과모음",
+                "pubdate": "20210730",
+                "isbn": "9788954447447",
+                "description": "프랑스의 대표적 지성,\n드니 게즈의 소설로 만나는\n수학의 위대한 순간들"
+            },
+            {
+                "title": "앵무새의 정리 2",
+                "link": "https://search.shopping.naver.com/book/catalog/32490737680",
+                "image": "https://shopping-phinf.pstatic.net/main_3249073/32490737680.20220520194254.jpg",
+                "author": "드니 게즈",
+                "discount": "12330",
+                "publisher": "이지북",
+                "pubdate": "20080204",
+                "isbn": "9788956243047",
+                "description": ""
+            }
+        ]
+    }
+}

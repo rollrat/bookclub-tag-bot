@@ -1,0 +1,67 @@
+{
+    "otitle": "천재들의 생각 수업",
+    "oauthor": "데니스 셰커지안 저/김혜선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "천재들의 생각 수업 (그릿, 회복탄력성을 뛰어넘는 창의력에 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506013647",
+                "image": "https://shopping-phinf.pstatic.net/main_3250601/32506013647.20220527024956.jpg",
+                "author": "데니스 셰커지안",
+                "discount": "13500",
+                "publisher": "슬로디미디어",
+                "pubdate": "20180531",
+                "isbn": "9791188977062",
+                "description": "그릿, 회복탄력성을 뛰어넘는 창의력에 모든 것!\n4차 산업혁명 시대, 현재와 미래의 인재들이 침대 맡에 두고 잃어야 할 책!\n‘맥아더상’ 수상자 40명의 창의적 사고를 흥미롭게 추적한다!\n\n‘천재들의 상’이라고 불리는 맥아더상 수상자 40명을 만나 창의성에 관한 모든 것을 정리하고 알려주는 책이다. 수상자들은 어느 날, “당신은 창의적인 능력을 인정받아 상을 수상하게 되셨습니다. 이 상으로 이제 당신은 향후 5년 간 어떠한 조건도 없이 수십만 달러를 받으실 겁니다”라는 전화를 받는다. 이른바 맥아더상의 수상자가 된 것이다. 《천재들의 생각 수업》은 40명의 천재들을 인터뷰하면서 창의력은 어디서 오는가? 창의력은 어떻게 작동하는가? 창의력은 길러질 수 있는 것인가? 왜 어떤 사람들은 다른 사람들보다 창의적인가? 등을 주제로 인터뷰한 프로젝트의 성과물이다. 인터뷰한 수상자들은 하워드 가드너, 스티븐 제이 굴드 등 우리에게 잘 알려진 인물을 비롯해 예술가, 교육가, 연출가, 물리학자, 사회학자, 배우, 영화감독 등 다양하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어",
+                "DDC": "153.35",
+                "UPDATE_DATE": "20180622",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "데니스 셰커지안 지음 ;김혜선 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.53",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6666680_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6666680_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6666680_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "CIP2018014990",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188977062",
+                "INPUT_DATE": "20180514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "천재들의 생각 수업",
+                "PUBLISH_PREDATE": "20180531",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

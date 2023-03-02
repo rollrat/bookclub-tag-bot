@@ -1,0 +1,67 @@
+{
+    "otitle": "빨간 맛 중국어 일기 편",
+    "oauthor": "리지아니 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빨간 맛 중국어 : 일기 편 (하루 3줄, 한 달만 따라 하면 나도 중국어로 일기 쓸 수 있다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443923950",
+                "image": "https://shopping-phinf.pstatic.net/main_3244392/32443923950.20221229074351.jpg",
+                "author": "리지아니",
+                "discount": "11700",
+                "publisher": "처음북스",
+                "pubdate": "20190128",
+                "isbn": "9791170221685",
+                "description": "하루에 5분만 쓰면 중국어가 술~술~\n오리지널 중국어를 맛보자!\n\n· 중국 친구의 3줄 일기를 엿보고\n· 본문에서 배울 수 있는 문법과 단어를 학습하고\n· 예문으로 더 확실하게 외우고\n· TIP으로 틀리기 쉬운 문장부터 중국 문화, 신조어까지 꽉 잡으면\n\n나도 모르게 중국어 실력자가 돼 있을 거예요!\n\n파고다 어학원 출신 원어민 강사 리지아니 선생님은 문법 하나하나, 단어 하나하나는 아는데 막상 새로운 문장을 쓰기 어려운 이들을 위해 일기라는 우리의 가장 일상적인 주제를 다루는 형식을 통해 해결했다. 본문은 딱 세 줄. 아주 짧아 한 페이지를 꽉 채운 한자에 나도 모르게 책을 덮어버릴 염려도 없다. 모든 문장과 단어, 예문에 병음이 달려 있어 어떻게 읽어야 할지 고민하지 않아도 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "처음네트웍스",
+                "DDC": "",
+                "UPDATE_DATE": "20190117",
+                "EA_ADD_CODE": "03720",
+                "PUBLISHER_URL": "cheombooks.net",
+                "AUTHOR": "리지아니 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170221685",
+                "INPUT_DATE": "20181214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "빨간맛 중국어",
+                "PUBLISH_PREDATE": "20190128",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

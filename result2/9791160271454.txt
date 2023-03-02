@@ -1,0 +1,67 @@
+{
+    "otitle": "지워지는 것도 사랑입니까",
+    "oauthor": "황경신 저/김원 사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지워지는 것도 사랑입니까",
+                "link": "https://search.shopping.naver.com/book/catalog/32485089769",
+                "image": "https://shopping-phinf.pstatic.net/main_3248508/32485089769.20221019152530.jpg",
+                "author": "황경신",
+                "discount": "12420",
+                "publisher": "소담출판사",
+                "pubdate": "20180910",
+                "isbn": "9791160271454",
+                "description": "감성적인 사진 위에 스민 아름다운 문장들, \n그 따뜻하고 가슴 먹먹한 콜라보 \n\n월간 〈PAPER〉 골수팬들에게 반가운 작가 황경신, 김원의 ‘영혼시’가 출간되었다. 김원의 사진 위에 스민 황경신의 아름다운 문장들, 황경신의 글을 품은 김원의 감성적인 사진들. 〈PAPER〉 독자들 사이에서는 ‘영혼시(영혼을 위로하는 시)’라 불렸다. \n이 책『지워지는 것도 사랑입니까』의 ‘영혼시’는 영혼의 한 조각이 말랑말랑해지는 과거의 글들과 사진들로 채워져 있다. 작가는 장롱 구석에 먼지 쌓인 오래된 추억 상자를 슬며시 열어 그 기억의 지층을 들추어 화석이 된 글들을 하나하나 파헤쳤다.\n\n찬란하고 비루한 자의식을 다시 들여다보는 일은, 오래된 상처의 흉터를 살펴보는 일과 같다.\n상처가 아물고 남은 자국은 아름다울 것도 없고 자랑스러울 것도 없으나, 그 자국을 남긴 때와 장소, 우연과 인연, 이야기의 시작과 끝이 거기 새겨져 있어, 최소한 진부하지는 않다. 비록 그것이 하는 이야기가 낡고 빛바랜 것이라 해도.- 에필로그 중에서 \n\n영혼시가 선물했던 여러 추억들. 다시 꺼내어본 그 추억들은 우리들의 메마른 가슴에 물줄기를 드리우며 그때 그 시절 누군가를 뜨겁게 사랑했고 뜨겁게 아파했던 과거의 기억들을 불러온다. 성장기에 만난 〈PAPER〉의 글들과 사진은 함께 뜨겁게 사랑했고 뜨겁게 아파했던 우리 영혼의 동반자였다. \n세월이 지나 인연을 잘 만난 글과, 운명을 잘난 사진을 차곡차곡 모아서 『지워지는 것도 사랑입니까』가 되었다. 그 사랑했던 글들과 다시 한번 재회하며 색을 잃었던 추억들이 다시 하나둘씩 색을 입고 두둥실 우리 가슴 안에 떠오른다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소담출판사 :태일소담",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20180928",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황경신 글 ;김원 사진",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6868704_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*187",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "269 p.",
+                "CONTROL_NO": "CIP2018026569",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160271454",
+                "INPUT_DATE": "20180820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "지워지는 것도 사랑입니까",
+                "PUBLISH_PREDATE": "20180910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "지극히 개인주의적 소확행",
+    "oauthor": "전수진,전경욱,최민석,김성환,김승현,한정아,김미려 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지극히 개인주의적 소확행 (알고 보면 당신의 일상에 숨겨져 있는 소중한 점(dot)들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504347875",
+                "image": "https://shopping-phinf.pstatic.net/main_3250434/32504347875.20221229071949.jpg",
+                "author": "전수진^전경욱^최민석^김성환^김승현",
+                "discount": "13050",
+                "publisher": "치읓",
+                "pubdate": "20190211",
+                "isbn": "9791196309763",
+                "description": "각 분야 최고의 전문가 7명이 바라보는 \n행복의 인과관계, 그리고 아름다운 행보.\n\n소소해서 당연시했던 일상 속에, 사실은 당신이 알지 못했던 정말 엄청난 행복이 숨어있다. 행복이란 무엇일까? 아니, 행복이란 어디에 있는 것일까? 많은 이들이 행복이 무엇인지 궁금해하고, 행복을 안다고 자부하는 이들도 끊임없이 행복을 찾아 헤매고만 있다. 그런데 여기, 그 행복 중에서 소소하지만 확실한 행복이 무엇인가에 대해 과감히 답을 내놓은 7명의 사람들이 있다. 각 분야 최고의 전문가로 꼽히는 7명이 말하는 각각의 행복은 우리의 모습과 무엇이 다를까? 소위 많은 사람이 생각하기에, 성공하는 이들의 행복은 자신들 같은 범인(凡人)이 가지는 행복의 모습과는 다를 것이란 선입견을 품고 있다. 놀랍게도, 그들이 말하는 ‘소소하지만 확실한 행복’은 우리가 생각하는 행복과 전혀 다른 모습이 아니다. 이제 그들이 말하는 행복처럼, 알고 보면 당신의 일상에 숨겨져 있는 행복을 찾아보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "치읓",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20190213",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 전수진,전경욱,최민석,김성환,김승현,한정아,김미려 ;사진: 전경욱 ;그림: 김미려",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6999629_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6999629_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6999629_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*198",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "CIP2018036584",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196309763",
+                "INPUT_DATE": "20181112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "지극히 개인주의적 소확행",
+                "PUBLISH_PREDATE": "20190211",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

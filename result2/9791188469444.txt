@@ -1,0 +1,67 @@
+{
+    "otitle": "솔직한 서른 살",
+    "oauthor": "박도 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "솔직한 서른 살 (찌질해도 나는 나야, 안 그래?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436121626",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436121626.20221227204741.jpg",
+                "author": "박도",
+                "discount": "13500",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20191205",
+                "isbn": "9791188469444",
+                "description": "“가끔은 빨리 살다가 가끔은 느리게 살다가, 그냥 내 꼴리는 대로 살란다”\n\n찌질함이 위대하다고 믿는,\n‘솔직하면서도 찌질하게’ 정답 없는 삶에 대해 이야기하다!\n\n박도는 때론 찌질하고 때론 솔직한 자신에 대해 과감히 서술한다. 인간은 누구나 모순적인 찌질이가 분명하다고 말하는 저자. 예측할 수 없는 삶에 정답 없는 여자로 살아가면서 겪은 다양한 상황과 감정을 글로써 재치 있고, 다소 예민하게 말한다. 우리는 던져진 인생의 쳇바퀴 안에서 사람, 사람, 또 사람……을 겪는다. 그러면서 순간의 감정, 불편한 상황, 잊을 수 없는 추억 등 여러 기억을 켜켜이 쌓아간다. 사람은 자의적으로, 혹은 타의적으로 관계를 겪으며 살아간다. 관계 속에서 예상하지 못했던 이별에 아파하기도, 순간의 상황에 기뻐하기도, 걷잡을 수 없는 깊은 감정의 터널 안에서 우울해하기도, 때론 무념무상의 반열에 오르기도 한다. \n\n저자 박도는 자기성찰이 아닌, 그저 자신에 대해, 그동안의 삶의 기록을 사실만을 근거로 자유롭게 풀어내고 있다. 《솔직한 서른 살》 안에는 저자와 관련된 7명의 등장인물이 등장한다. 저자와 6명의 구성원은 각자의 삶에 반원을 그리며 서로에게 영향을 미친다. 그 외에도 회사 사람(feat. 꼰대), 초딩 삼총사부터 대학 친구들, 때아닌 불청객 파리까지. 분명 누구나 달리는 시작점은 동일한데, 달리면서 예측할 수 없는 관계에 섞이고, 부딪치고, 정들면서 어쩔 땐 빠르게, 어쩔 땐 주변 풍경에 시선을 뺏겨 여유 있게 걷는 듯 달리기도 한다. 저자는 말한다. 모두의 인생도 마지막에 돌아보면 긴 미로 속을 헤맨 꿈인 듯하다고. 만일 인생에 대해 깊은 회의감을 느끼고 있는 당신이라면, 우리의 인생은 아무도 예측할 수 없으니, 꼴리는 대로 살자는 저자의 책을 펼쳐보기를."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름",
+                "DDC": "",
+                "UPDATE_DATE": "20200414",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 박도",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/31/9791188469444.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "CIP2019044066",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188469444",
+                "INPUT_DATE": "20191031",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "솔직한 서른 살",
+                "PUBLISH_PREDATE": "20191205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

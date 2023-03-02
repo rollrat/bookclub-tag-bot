@@ -1,0 +1,67 @@
+{
+    "otitle": "무엇이 역사인가",
+    "oauthor": "린 헌트 저/박홍경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "무엇이 역사인가 (린 헌트, 역사 읽기의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462234932",
+                "image": "https://shopping-phinf.pstatic.net/main_3246223/32462234932.20230218110801.jpg",
+                "author": "린 헌트",
+                "discount": "11700",
+                "publisher": "프롬북스",
+                "pubdate": "20190916",
+                "isbn": "9791188167203",
+                "description": "무엇이 역사가 되는가?\n\n저명한 역사학자 린 헌트가 근래 역사에 대한 대중적 관심이 폭발적으로 커짐과 동시에 ‘무엇이 역사인가’란 질문에 대답하기가 점점 더 어려워지는 현실을 생생히 전하며, 역사에 대한 노골적인 거짓말을 비롯해 역사적 진실을 둘러싼 최근의 쟁점들을 다루는 『무엇이 역사인가』. \n\n역사는 증거가 정직하게 제시되는 데에 있어 핵심적인 역할을 수행한다. 이를 통해 오늘날 우리가 직면하고 있는 온갖 문제에 겸허하게 대처하고, 맹목적 애국심에 비판적 태도를 취하며, 다른 민족과 문화를 열린 마음으로 대할 수 있다. 저자는 이 책에서 역사적 기념물의 보존과 파괴를 둘러싼 갈등, 역사 교과서 논쟁, 전 세계 다양한 진상규명위원회의 활동 등을 소개하며, 이러한 상황에서 역사적 진실을 규정한다는 것의 의미와 그 역사적 진실을 밝혀낼 최선의 방법은 무엇인지를 묻는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "프롬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191001",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "린 헌트 지음 ;박홍경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "901",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/05/9791188167203.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "p.",
+                "CONTROL_NO": "CIP2019033599",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188167203",
+                "INPUT_DATE": "20190826",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "무엇이 역사인가",
+                "PUBLISH_PREDATE": "20190916",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

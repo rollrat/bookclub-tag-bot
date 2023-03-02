@@ -1,0 +1,67 @@
+{
+    "otitle": "글쓰기가 처음입니다",
+    "oauthor": "백승권 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "글쓰기가 처음입니다 (직장인과 대학생을 위한 실용 글쓰기 연장통)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436265112",
+                "image": "https://shopping-phinf.pstatic.net/main_3243626/32436265112.20221019135108.jpg",
+                "author": "백승권",
+                "discount": "14400",
+                "publisher": "메디치미디어",
+                "pubdate": "20140510",
+                "isbn": "9791157060030",
+                "description": "이제부터 글쓰기는 연장 탓을 하자!\n\n직장인과 대학생을 위한 실용 글쓰기 연장통 『글쓰기가 처음입니다』. 청와대 홍보수석실 행정관 출신으로 공공기관, 언론, 기업 등에서 ‘실용 글쓰기’를 강연해온 저자 백승권의 글쓰기 책이다. 창작과 논술에 집중한 여타 글쓰기 책들과 달리 보고서·자기소개서· 이메일·SNS 메시지 등 대부분의 직장인과 대학생들이 실제 생활에서 필요로 하는 실용적인 글쓰기 방법을 알려준다.\n\n저자는 ‘키워드 매트릭스’, ‘마인드맵 글쓰기’, ‘대화 글쓰기’, ‘피래미(FiReMe) 구성법’ 등 자신이 직접 개발한 실용 글쓰기 ‘연장통’을 제시한다. 가령, ‘키워드 매트릭스’에서는 81칸에 단어를 모두 채워 넣어야 한다는 사실에만 몰입하게 함으로써 글쓰기에 대한 두려움과 자기검열을 밀어내고 우리 안에 잠재되어 있는 글거리를 수면 위로 떠올려 글쓰기에 자신감을 갖도록 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20140602",
+                "EA_ADD_CODE": "13800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "백승권",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157060030",
+                "INPUT_DATE": "20140424",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "글쓰기가 처음입니다",
+                "PUBLISH_PREDATE": "20140510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

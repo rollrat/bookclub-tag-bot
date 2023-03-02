@@ -1,0 +1,78 @@
+{
+    "otitle": "마음이 조금은 헐렁한 사람",
+    "oauthor": "송광용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:55 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "마음이 조금은 헐렁한 사람",
+                "link": "https://search.shopping.naver.com/book/catalog/32459271712",
+                "image": "https://shopping-phinf.pstatic.net/main_3245927/32459271712.20221227202929.jpg",
+                "author": "송광용",
+                "discount": "12600",
+                "publisher": "행성B",
+                "pubdate": "20200525",
+                "isbn": "9791164711055",
+                "description": "행성B 산문 시리즈 '쓰는 존재' 3권. 마음을 걷는 산책자가 우리에게 내어주는 아늑한 빈방 같은 에세이다. 저자는 조금은 허술하고, 헐렁하고, 빈 듯해 보이는 것들에 눈과 귀를 기울이고 그의 소중한 일상을 너그러이 베푼다. 자신뿐만 아니라 타인에게 기꺼이 여유롭고 단정한 빈방을 내어주는 마음, '성공한 사람'보다는 '좋은 사람'이 되기 위해 헐렁한 삶을 지향하는 저자의 성장과 농담, 그리고 글쓰기에 관한 이야기를 담았다."
+            },
+            {
+                "title": "[큰글씨책] 마음이 조금은 헐렁한 사람",
+                "link": "https://search.shopping.naver.com/book/catalog/32444578040",
+                "image": "https://shopping-phinf.pstatic.net/main_3244457/32444578040.20221228074806.jpg",
+                "author": "송광용",
+                "discount": "21600",
+                "publisher": "행성B",
+                "pubdate": "20201111",
+                "isbn": "9791164711291",
+                "description": "행성B 산문 시리즈 '쓰는 존재' 3권. 마음을 걷는 산책자가 우리에게 내어주는 아늑한 빈방 같은 에세이다. 저자는 조금은 허술하고, 헐렁하고, 빈 듯해 보이는 것들에 눈과 귀를 기울이고 그의 소중한 일상을 너그러이 베푼다. 자신뿐만 아니라 타인에게 기꺼이 여유롭고 단정한 빈방을 내어주는 마음, '성공한 사람'보다는 '좋은 사람'이 되기 위해 헐렁한 삶을 지향하는 저자의 성장과 농담, 그리고 글쓰기에 관한 이야기를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "행성B(행성비)",
+                "DDC": "",
+                "UPDATE_DATE": "20200708",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "송광용 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/05/20/9791164711055.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "253 p.",
+                "CONTROL_NO": "CIP2020018264",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164711055",
+                "INPUT_DATE": "20200504",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "마음이 조금은 헐렁한 사람",
+                "PUBLISH_PREDATE": "20200525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

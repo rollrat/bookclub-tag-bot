@@ -1,0 +1,67 @@
+{
+    "otitle": "처음 읽는 바다 세계사",
+    "oauthor": "헬렌 M. 로즈와도스키 저/오수원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "처음 읽는 바다 세계사 (바다에서 건져 올린 위대한 인류의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463718745",
+                "image": "https://shopping-phinf.pstatic.net/main_3246371/32463718745.20221228073141.jpg",
+                "author": "헬렌 M. 로즈와도스키",
+                "discount": "13500",
+                "publisher": "현대지성",
+                "pubdate": "20190902",
+                "isbn": "9791187142973",
+                "description": "바다의 관점에서 바라본 역사!\n\n여전히 우리에게 미지의 공간인 바다는 인류가 탄생하기 이전부터 역사의 주요 무대였다. 지구의 70% 이상을 차지하는 이 광대하고 푸른 물은 지구에 생명체를 탄생시켰고, 그들을 길러냈다. 인류가 등장하면서 바다의 역할은 어마어마하게 커졌다. 전쟁, 신대륙의 발견, 제국의 탄생 등 세계사를 뒤바꾼 큰 사건의 배경에는 항상 바다가 있었다. 사실상 인류의 모든 시간은 바다와 함께 해왔다고 해도 과언이 아니다. \n\n바다가 이렇게 중요한 역할을 해왔건만, 우리가 땅으로 시선을 돌린 사이 바다의 찬란한 역사는 캄캄한 심해 속에 숨어버렸고, 개발의 한계점에 다다른 육지에서 인류 문명은 갈 곳을 잃었다. 그동안 우리가 배워왔던 역사는 모두 육지의 관점에서 다루어졌는데, 『처음 읽는 바다 세계사』는 우리가 흔히 알고 있던 역사에 새로운 관점을 추가한다. 육지의 눈으로 바라보는 역사가 아닌 바다의 눈으로 바라보는 역사다. \n\n이 책은 육지에 살아 숨 쉬는 존재가 단 하나도 없었던 시절부터 바다가 흘러온 역사뿐만 아니라 바다가 어떻게 인류의 문명을 꽃피우고, 발전시키고, 때로는 삼켜버렸는지를 보여준다. 바다의 자연과학적 측면뿐만 아니라 고고학과 역사, 사회와 문화적 측면까지 모두 다룸으로써 바다와 같이 광대한 시선으로 역사를 바라보며 우리에게 역사를 새롭게 읽을 수 있는 눈을 선물한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20190909",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "헬렌 M.로즈 와도스키 지음 ;오수원 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "358 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187142973",
+                "INPUT_DATE": "20190814",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(처음 읽는) 바다 세계사 ",
+                "PUBLISH_PREDATE": "20190902",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "이야기 한국고대사",
+    "oauthor": "조법종 외 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:43 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "이야기 한국고대사 (고조선에서 발해까지, 우리 역사를 찾아서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496645924",
+                "image": "https://shopping-phinf.pstatic.net/main_3249664/32496645924.20220527025310.jpg",
+                "author": "조법종",
+                "discount": "0",
+                "publisher": "청아출판사",
+                "pubdate": "20070125",
+                "isbn": "9788936803599",
+                "description": "고조선에서 발해까지 우리의 역사를 살펴보는 . 좀 더 쉽고 간단하게 한국고대사의 여러 분야를 한눈에 일목요연하게 파악할 수 있도록 도와주는 책이다. 각 분야사별로 해당 전공자가 집필하였으며, 우리 역사에 관심이 있는 청소년들도 읽고 이해할 수 있도록 쉬운 문체로 서술하였다. 또한 편의를 위해 학술적인 주를 따로 붙이지 않고, 각종 삽화와 주제별 에피소드를 실어 한국고대사에 대한 흥미를 이끌어내도록 하였다."
+            },
+            {
+                "title": "한국 고대사의 비밀 (치열한 한 역사 교사의 생각하는 대중을 위한 한국 고대사 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456486836",
+                "image": "https://shopping-phinf.pstatic.net/main_3245648/32456486836.20221019105142.jpg",
+                "author": "류현종",
+                "discount": "11700",
+                "publisher": "살림터",
+                "pubdate": "20110325",
+                "isbn": "9788994445090",
+                "description": "학교에서 가르쳐 주지 않는 역사적 비밀들!\n\n『한국 고대사의 비밀』은 현재 역사 교과서에서 다루고 있지 않지만, 한국인이라면 꼭 알아야 할 한국 고대사 25가지에 대한 흥미진진한 이야기를 들려준다. 단군신화와 에 숨겨진 역사의 진실, 바보 온달의 실패와 평강공주의 한, 여왕 콤플렉스에 시달린 선덕여왕의 슬픔, 신라인들이 근친혼과 성에 개방적이었던 이유, 허황옥, 김수로, 석탁해가 모두 인도인이었다는 사실 등 고조선, 고구려, 백제, 신라, 가야, 남북국시대의 비밀에 대해 철저히 우리의 시각에서 탐구해 나간다. 수많은 사료 연구를 바탕으로 사진, 만화, 도표, 영화, 드라마, 답사 보고서, 역사 신문 등 다양한 장르를 응용하여 우리 역사에 대한 관심과 호기심을 불러일으키고, 역사적 진실을 밝힌다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20170705",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조범종 외 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936803599",
+                "INPUT_DATE": "20070208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(이야기) 한국고대사",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

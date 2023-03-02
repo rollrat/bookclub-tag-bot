@@ -1,0 +1,67 @@
+{
+    "otitle": "라이브 대본집 ＆ 메이킹북 2",
+    "oauthor": "노희경 극본/GT:st 제작",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "라이브 대본집 & 메이킹북 2 (대본집 & 메이킹북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492893693",
+                "image": "https://shopping-phinf.pstatic.net/main_3249289/32492893693.20221228072141.jpg",
+                "author": "노희경",
+                "discount": "21600",
+                "publisher": "북로그컴퍼니",
+                "pubdate": "20180529",
+                "isbn": "9791189166045",
+                "description": "&lt;라이브&gt;의 원작 대본과 함께 고퀄리티 미공개 촬영 스틸과 드라마 제작 히스토리를 한데 담은 ‘대본집+메이킹북’. &lt;라이브&gt;는 탄탄한 극본을 바탕으로 ‘하이퍼 리얼리즘 드라마’라고 불릴 만큼 뛰어난 연출, 배우들의 명품 연기까지 삼박자를 고루 갖춘 웰메이드 작품이다. &lt;라이브&gt;가 남긴 모든 기록을 《라이브 대본집 & 메이킹북 1.2》(전2권)에 담았다.\n\n\n\n&lt;시놉시스&gt;에서부터 작가 특유의 치밀함이 드러난다. 상세한 기획의도와 주요 등장인물의 밑그림, 줄거리 등을 담고 있는 시놉시스는 무려 50쪽에 달한다. 1년여의 취재를 바탕으로 이 시대의 애환과 상처, 이를 받아들이고 이겨내야 하는 다양한 군상을 가감 없이 그려내고자 했던 작가 노희경의 고뇌가 고스란히 묻어난다.\n\n\n\n또한 책에 실은 총 18회 차 &lt;대본&gt;은 노희경 작가의 무삭제 원작 대본이다. 드라마에서 담지 못한 부분은 무엇이며, 대본과 다르게 표현된 부분은 무엇인지 비교하며 읽는 재미를 발견하게 될 것이다. 또한 드라마에서 미처 발견하지 못했던 작가의 의도나 숨겨진 복선 등을 하나하나 풀어가는 것도 대본집을 읽는 묘미다. 그리고 무엇보다 ‘읽는 드라마’라는 장르를 개척한 주인공 노희경 작가의 필력을 고스란히 감상할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로그컴퍼니",
+                "DDC": "895.725",
+                "UPDATE_DATE": "20180618",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "노희경 극본",
+                "SERIES_TITLE": "라이브 대본집 & 메이킹북",
+                "KDC": "812.68",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6665939_6.txt",
+                "SET_ISBN": "9791189166021",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6665939_3.jpg",
+                "PRE_PRICE": "24000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6665939_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "541 p.",
+                "CONTROL_NO": "CIP2018015028",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189166045",
+                "INPUT_DATE": "20180425",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "라이브",
+                "PUBLISH_PREDATE": "20180528",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

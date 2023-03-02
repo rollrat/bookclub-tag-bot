@@ -1,0 +1,67 @@
+{
+    "otitle": "옷장은 터질 것 같은데 입을 옷이 없어!",
+    "oauthor": "마쓰오 다이코 저/김지영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "옷장은 터질 것 같은데 입을 옷이 없어!",
+                "link": "https://search.shopping.naver.com/book/catalog/32466935169",
+                "image": "https://shopping-phinf.pstatic.net/main_3246693/32466935169.20221230074615.jpg",
+                "author": "마쓰오 다이코",
+                "discount": "13500",
+                "publisher": "앳워크",
+                "pubdate": "20200911",
+                "isbn": "9791157062126",
+                "description": "일본의 유명 일러스트레이터이자 희대의 옷장 확대범인 마쓰오 다이코가 ‘1년간 옷 안 사기 프로젝트’에 도전한다. 편의점에서 초콜릿을 사는 것보다 더 쉽게 옷을 사들이곤 했던 저자는 어떻게 이 가시밭길 프로젝트를 끝낼 수 있었을까? 그리고 1년간 옷을 사지 않았을 뿐인데 ‘최고로 좋은 것’으로만 채워진 삶을 맞이하게 되다니? 명랑한 패션광이 펼치는, 터질 것 같은 옷장과 삶에 대한 자기 성찰적 에세이이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "앳워크 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20201014",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마쓰오 다이코 지음 ;김지영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "838",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/21/9791157062126.JPG",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "197 p.",
+                "CONTROL_NO": "CIP2020035439",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157062126",
+                "INPUT_DATE": "20200821",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "옷장은 터질 것 같은데 입을 옷이 없어!",
+                "PUBLISH_PREDATE": "20200911",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

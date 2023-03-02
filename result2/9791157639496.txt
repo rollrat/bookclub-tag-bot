@@ -1,0 +1,67 @@
+{
+    "otitle": "디저트 실무 호텔 프리미엄 테크닉",
+    "oauthor": "신태화,이재진,이준열,채현석 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "디저트 실무 (호텔 프리미엄 테크닉)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490505654",
+                "image": "https://shopping-phinf.pstatic.net/main_3249050/32490505654.20221019145543.jpg",
+                "author": "신태화",
+                "discount": "27000",
+                "publisher": "백산출판사",
+                "pubdate": "20190930",
+                "isbn": "9791157639496",
+                "description": "호텔 프리미엄 테크닉 [디저트 실무]. 디저트의 개념과 역사부터 장식과 플레이팅까지 관련 이론을 총망라했다. 이어 실기부분에서는 달콤한 디저트, 차가운 디저트, 핫 디저트, 타르트, 구운과자, 초콜릿 등으로 나서 실제 작업을 배울 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "백산출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20190927",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.ibaeksan.kr",
+                "AUTHOR": "신태화,이재진,이준열,채현석 공저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "365 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157639496",
+                "INPUT_DATE": "20190327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "디저트실무",
+                "PUBLISH_PREDATE": "20190930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

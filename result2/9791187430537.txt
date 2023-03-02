@@ -1,0 +1,67 @@
+{
+    "otitle": "모빌리티와 인문학",
+    "oauthor": "피터 메리만,린 피어스 편저/김태희,김수철,이진형,박성수 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모빌리티와 인문학 (인문학, 이동을 생각하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461118945",
+                "image": "https://shopping-phinf.pstatic.net/main_3246111/32461118945.20221228072445.jpg",
+                "author": "피터 메리만^린 피어스",
+                "discount": "16200",
+                "publisher": "앨피",
+                "pubdate": "20190215",
+                "isbn": "9791187430537",
+                "description": "예술과 인문학 분야를 가로질러 모빌리티 연구를 사회과학의 산물로만 취급하는 단순한 설명 방식에 도전하고, ‘모빌리티 연구’라는 새로운 분야에 대한 대안적 관점을 제시하는 책이다. ‘모빌리티’는 기차, 자동차, 비행기, 인터넷, 모바일 기기 같은 모빌리티 테크놀로지에 기초한 사람, 사물, 정보의 이동과 이를 가능하게 하는 테크놀로지를 의미한다. \n\n\n\n그리고 이에 수반되는 공간(도시) 구성과 인구 배치의 변화, 노동과 자본의 변형, 권력 또는 통치성의 변용 등을 통칭하는 사회적 관계의 이동까지 ‘모빌리티 연구’에 포함된다. 모빌리티 연구라는 신흥 학문의 권위자로 꼽히는 셸러와 어리는 “사회과학 분야에서 새로운 패러다임, 즉 ‘새 모빌리티 패러다임’이 형성 중인 것으로 보인다”면서, “새 모빌리티 패러다임은 사회과학의 근본적 재구성을 추구한다”고 선언했다. 아직까지 일반 독자뿐 아니라 연구자들에게도 낯선 모빌리티(이동성)라는 개념과 학문은 이처럼 서구의 위계화된 사회과학, 더 나아가 인문학 전체를 뒤흔드는 지진의 진앙으로 급부상 중이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "앨피",
+                "DDC": "",
+                "UPDATE_DATE": "20190307",
+                "EA_ADD_CODE": "94300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "피터 메리만,린 피어스 편저 ;지은이: 닐 아처,죠르진 클라슨,존 컬버트,이안 C 데이비슨,루스 라이브시,피터 메리만,레슬리 머리,소니아 오버올,린 피어스,콜린 풀리 ;옮긴이: 김태희,김수철,이진형,박성수",
+                "SERIES_TITLE": "모빌리티인문학 총서",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791187430520",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "452 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791187430537",
+                "INPUT_DATE": "20190131",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "모빌리티와 인문학",
+                "PUBLISH_PREDATE": "20190215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "94300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

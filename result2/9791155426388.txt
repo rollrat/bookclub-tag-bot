@@ -1,0 +1,67 @@
+{
+    "otitle": "품격이 전부다",
+    "oauthor": "김대영 저/김준혁 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "품격이 전부다 (기업과 개인의 미래가 국가평판에 달려 있다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503753831",
+                "image": "https://shopping-phinf.pstatic.net/main_3250375/32503753831.20221019150039.jpg",
+                "author": "김대영",
+                "discount": "14400",
+                "publisher": "매일경제신문사",
+                "pubdate": "20170403",
+                "isbn": "9791155426388",
+                "description": "“이게 나라냐?” 많은 국민들이 광장에서 외친 이 질문에 대한 해법을 담은 책『품격이 전부다』. 2017년 3월, 대통령의 탄핵이 인용됐다. 2016년, 대한민국의 민낯이 일부 드러나며 국가평판이 하락하는 사태가 일어났다. 〈뉴욕타임스〉와 BBC, CNN 등은 연일 한국의 정세 관련 뉴스를 보도하며 촉각을 세웠다. 대한민국의 GDP는 2016년 기준으로 세계 11위, 1인당 GDP는 세계 29위이다. 그러나 국가평판은 세계 45위, 국가청렴도 세계 52위로, 매년 낮아지고 있다. 기업은 가치를 제대로 인정받지 못하는 ‘코리아 디스카운트’ 현상을 겪고 있으며, 국민들의 행복지수 역시 세계 58위로 매우 낮다. 국민들의 정부 신뢰도 점점 낮아져 국민 10명 중 7명 이상이 ‘정부를 믿지 못한다’고 밝혔다.\n\n대한민국의 평판이 점점 더 낮아지고 있다. 국가의 평판을 높이지 못하면 해외에서 대한민국에 투자하지 않을 것이고, 국내의 인재들은 새로운 일자리를 찾아 해외로 떠날 것이다. 결국 국가평판에 국가는 물론 개인과 기업의 운명까지 달려 있는 셈이다. 그렇다면 국가의 평판과 품격을 어떻게 높일 수 있을까? 〈매일경제신문〉에서 20년 이상 기자로 근무하며, 국가, 기업, 개인의 평판에 대해 연구해온 평판전문가 김대영이 그 해법을 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매경출판(주)",
+                "DDC": "",
+                "UPDATE_DATE": "20170426",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "김대영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "264",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155426388",
+                "INPUT_DATE": "20170320",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "품격이 전부다",
+                "PUBLISH_PREDATE": "20170403",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

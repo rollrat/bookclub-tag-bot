@@ -1,0 +1,67 @@
+{
+    "otitle": "반도체의 부가가치를 올리는 패키지와 테스트",
+    "oauthor": "서민석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "반도체의 부가가치를 올리는 패키지와 테스트",
+                "link": "https://search.shopping.naver.com/book/catalog/32487167979",
+                "image": "https://shopping-phinf.pstatic.net/main_3248716/32487167979.20221229073238.jpg",
+                "author": "서민석",
+                "discount": "18810",
+                "publisher": "한올출판사",
+                "pubdate": "20200310",
+                "isbn": "9791156858577",
+                "description": "이 책은 반도체 패키지와 테스트의 입문서입니다. 반도체 업계에 입문하려는 학생들에게는 방향을 제시하는 지침서의 역할을 하 게 될 것입니다. 또한 패키지와 테스트 관련 업무에 종사하는 분들과 유관 업무를 하고 계신 분 들에게는 이해도를 향상시켜드리게 될 것입니다. 나아가 패키지, 테스트의 장비와 소재를 만드는 분들에게도 이 책의 지식들이 해 당 업무의 효율을 높이는 데 기여할 것이라 생각됩니다. \n\n 제1장에서는 테스트 장비와 프로세스, 대략적인 테스트 항목에 대해 설명하였고, 제2장에서는 패키지의 정의와 역할, 기술 개발 트렌드, 기술 개발 프로세스 등을 설 명하였습니다. 제3장에서는 패키지의 종류를 분류하고, 각 종류별 특징, 장단점 등을 기술하였습니다. 제4장에서는 패키지 설계와 해석을 설명하였는데, 패키지 설계와 칩 설계의 차이점을 알리고, 설계 및 공정 효율을 높이기 위한 구조, 열, 전기 해석 내용과 과정 을 소개하였습니다. 제5장은 패키지 공정을 설명하는 장인데, 종류별 공정 순서와 각 공정들의 진행방 법과 의미를 소개하였습니다. 제6장에서는 패키지 공정 진행을 위해서 사용되는 재료들을 소개하였고, 제7장에서는 품질과 신뢰성의 의미 및 신뢰성 평가 항목들의 진행 방법과 목적을 설명하였습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한올출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20200403",
+                "EA_ADD_CODE": "93500",
+                "PUBLISHER_URL": "http://www.hanol.co.kr",
+                "AUTHOR": "저자: 서민석",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20200310",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "22,800",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "xii, 317 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156858577",
+                "INPUT_DATE": "20200110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(반도체의 부가가치를 올리는) 패키지와 테스트",
+                "PUBLISH_PREDATE": "20200310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

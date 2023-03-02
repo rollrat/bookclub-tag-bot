@@ -1,0 +1,67 @@
+{
+    "otitle": "소설, 어떻게 읽고 써야 하는가?",
+    "oauthor": "산드라 스코필드 저/임현택 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "소설, 어떻게 읽고 써야 하는가? (볼품 없는 초고를 명작으로 만드는 비법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455166696",
+                "image": "https://shopping-phinf.pstatic.net/main_3245516/32455166696.20221227205845.jpg",
+                "author": "산드라 스코필드",
+                "discount": "13500",
+                "publisher": "처음북스",
+                "pubdate": "20180406",
+                "isbn": "9791170221456",
+                "description": "책의 시각과 전개는 쉽게 입소문이 퍼질 만큼 파급력이 있어야 하고, 제목은 모두의 눈길을 끌만큼 자극적이어야 한다. 가슴 속 깊이 와닿는 무언가도 있어야 입소문이 난다. 여기에 운이 더해져야 비로소 책의 매력이 드러난다.\n『소설, 어떻게 읽고 써야 하는가』는 이런 매력적인 책을 쓰고 싶은 사람, 단 한 명의 독자도 소중한 사람, 글쓰기라는 가장 하고 싶은 일을 하면서 성취감을 느끼고 싶은 사람을 도와 작가로 만들어 줄 단 하나의 책이다.\n\n이 책이 다른 글쓰기 책과 다른 점\n?불확실하고 복잡하게 얽힌 이야기에서 진정한 소설이 탄생한다고 믿는다.\n?해결책을 정해 놓고 따라만 오라고 강요하지 않는다. 글을 쓸 때 고려할 질문과 제안 중 어떤 문제에 집중할지는 전적으로 자신에게 달렸다.\n?글 고치기는 문장을 이리저리 옮기고 뜯어고치는 것이 아니라 숙고와 분석하는 과정을 거치면서 새로운 이야기를 준비하는 것이라고 생각한다.\n? 책이 출간돼서 나름의 독자를 찾으면 좋겠지만, 꼭 베스트셀러가 되고 영화로 만들어져야 한다고 생각하지는 않는다. 그저 자신만의 이야기를 풀어낼 수 있는 나름의 방법을 찾기를 기대한다.\n?소설을 어떻게 읽어야 하는지도 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "처음북스",
+                "DDC": "",
+                "UPDATE_DATE": "20180412",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "cheombooks.net",
+                "AUTHOR": "산드라 스코필드 지음 ;임현택 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "320 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170221456",
+                "INPUT_DATE": "20180302",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "소설 어떻게 읽고 써야 하는가?",
+                "PUBLISH_PREDATE": "20180406",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

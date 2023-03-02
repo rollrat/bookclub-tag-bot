@@ -1,0 +1,67 @@
+{
+    "otitle": "시간의 불가사의",
+    "oauthor": "쓰즈키 다쿠지 저/손영수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "시간의 불가사의 (타임머신에서 스티븐 호킹까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466667724",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466667724.20220527035436.jpg",
+                "author": "쓰즈키 타쿠지",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19930925",
+                "isbn": "9788970441122",
+                "description": "이 책은 시간을 둘러싸는 일곱 가지 수수께끼를 들어 쉽고 명쾌한 설명을 하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "저자 : 쓰즈키 타쿠지;역자 : 손영수;",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "8000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "190",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970441122",
+                "INPUT_DATE": "20220218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "시간의 불가사의",
+                "PUBLISH_PREDATE": "19920701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

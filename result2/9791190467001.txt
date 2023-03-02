@@ -1,0 +1,67 @@
+{
+    "otitle": "뇌는 달리고 싶다",
+    "oauthor": "안데르스 한센 저/김성훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뇌는 달리고 싶다 (불안과 스트레스를 잠재우고 집중력과 창의성을 끌어올리는 운동의 뇌과학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465155855",
+                "image": "https://shopping-phinf.pstatic.net/main_3246515/32465155855.20230214162617.jpg",
+                "author": "안데르스 한센",
+                "discount": "13500",
+                "publisher": "반니",
+                "pubdate": "20191210",
+                "isbn": "9791190467001",
+                "description": "『뇌는 달리고 싶다』는 운동을 당장 시작해야 한다고 말하는 자기계발서가 아닌 단지 운동이 뇌의 특정 기능과 호르몬의 생성과 작용 그리고 기타 여러 시스템에 어떤 영향을 주는지, 우리가 흔히 느끼는 스트레스, 우울, 불안, 행복, 창의성이 운동과 어떤 관련이 있는지 쉽고 흥미롭게 정리하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "안데르스 한센 ;김성훈",
+                "SERIES_TITLE": "",
+                "KDC": "517.32",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p. ",
+                "CONTROL_NO": "CIP2019046028",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190467001",
+                "INPUT_DATE": "20191112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "뇌는 달리고 싶다 ",
+                "PUBLISH_PREDATE": "20191210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

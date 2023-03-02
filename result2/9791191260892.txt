@@ -1,0 +1,67 @@
+{
+    "otitle": "식탁 위의 중국사",
+    "oauthor": "장징 저/장은주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "식탁 위의 중국사 (한 상 가득 펼쳐진 오천 년 미식의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481403626",
+                "image": "https://shopping-phinf.pstatic.net/main_3248140/32481403626.20221229072851.jpg",
+                "author": "장징",
+                "discount": "10800",
+                "publisher": "현대지성",
+                "pubdate": "20210205",
+                "isbn": "9791191260892",
+                "description": "5천 년 역사 중국에는 전통 요리가 없다\n수많은 민족의 문화가 뒤섞인 중국을 이해하는 필수 교양서\n\n식생활을 보면 그 나라의 진짜 역사와 문화가 보인다. 복식과 의례는 꾸며낼 수 있지만, 음식은 자연스럽게 일상에 스며들기 때문이다. \n가령, 중국에서는 옛날부터 매운 음식을 즐겨 먹었을 것 같지만 매운맛을 내는 고추는 18세기 초가 되어서야 중국에 퍼졌다. 한국인의 입맛을 사로잡은 ‘마라탕’ 역시 비교적 최근 음식이다. 고대 중국인들은 만두나 면에 대해 몰랐으며, 쌀이 아닌 콩이 서민의 주식이었다. 현대 중국인은 생선회를 먹지 않지만 춘추시대에는 생식이 매우 일반적이어서 공자도 육회를 즐겨 먹었다. \n이처럼 지금 우리가 떠올리는 중화요리는 ‘전통 요리’가 아닌, 이민족의 침략과 서역과의 교류 과정에서 만들어진 근대적 산물이다. 이 책은 50권이 넘는 풍부한 사료에서 찾은 중화요리의 흥미로운 뒷이야기를 다루면서 음식이라는 키워드로 5천 년 중국의 역사 전체를 살피고 있다. \n\n· 공자는 손으로 밥을 먹었다?\n· 사천에서는 언제부터 매운 음식을 먹었을까?\n· 왜 현대 중국인은 회를 잘 먹지 않을까?\n· 중국음식은 왜 이렇게 기름기가 많고 느끼할까?\n· 중국인들은 개고기를 어떻게 생각할까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20210312",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "장징 지음 ;장은주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191260892",
+                "INPUT_DATE": "20201125",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "식탁 위의 중국사",
+                "PUBLISH_PREDATE": "20210205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

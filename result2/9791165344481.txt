@@ -1,0 +1,67 @@
+{
+    "otitle": "이렇게 오랫동안 못 갈 줄 몰랐습니다",
+    "oauthor": "신예희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이렇게 오랫동안 못 갈 줄 몰랐습니다 (신예희의 여행 타령 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486056062",
+                "image": "https://shopping-phinf.pstatic.net/main_3248605/32486056062.20221019151740.jpg",
+                "author": "신예희",
+                "discount": "12100",
+                "publisher": "비에이블",
+                "pubdate": "20220120",
+                "isbn": "9791165344481",
+                "description": "“여행 썰을 풀다 보니 눈물이 날 것 같다.”\n웃다가 울다가, 괜히 같이 설렜다가 먹먹하게 그리웠다가… \n‘신예희’표 문장들로 선명히 소환되는 모두의 가슴속 ‘여행의 기억들’\n\n느닷없는 바이러스로 발목이 잡힌 ‘이 시국’에 딱 어울리는 여행 타령 에세이. ‘이렇게 오랫동안 못 갈 줄 몰랐’던 ‘여행’ 그 자체에 관한 아주 사적이고 주관적인 25개 이야기를 담았다. 그동안 ≪여행, 잘 먹겠습니다≫ 시리즈, ≪여행자의 밥≫ 시리즈 등으로 여행과 음식에 대한 애정을 드러냈던 작가 신예희는 이 책 ≪이렇게 오랫동안 못 갈 줄 몰랐습니다≫에서 인생의 축소판이라는 여행에서 깨달은 소소한 팁들과 혼자 여행하며 마주한 나 자신, 그리고 나름의 소신을 재치있게, 그러나 가볍지는 않게 풀어냈다. 코로나 바이러스로 하늘길이 막혀버린 지금, 머나먼 곳으로의 이륙부터 익숙한 고향으로의 착륙까지 여행이 그녀의 인생에 남긴 흔적들에 대한 아주 흥미롭고도 처절한 그녀의 ‘썰’을 듣다 보면 어느새 글로 읽는 여행의 생생한 감각에 푹 빠져들게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비에이블",
+                "DDC": "",
+                "UPDATE_DATE": "20220302",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "지은이: 신예희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165344481",
+                "INPUT_DATE": "20211217",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이렇게 오랫동안 못 갈 줄 몰랐습니다",
+                "PUBLISH_PREDATE": "20220120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

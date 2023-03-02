@@ -1,0 +1,67 @@
+{
+    "otitle": "ZOOM 거의 모든 것의 속도",
+    "oauthor": "밥 버먼 저/김종명 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "ZOOM 거의 모든 것의 속도",
+                "link": "https://search.shopping.naver.com/book/catalog/32454958008",
+                "image": "https://shopping-phinf.pstatic.net/main_3245495/32454958008.20221228073122.jpg",
+                "author": "밥 버먼",
+                "discount": "14690",
+                "publisher": "예문아카이브",
+                "pubdate": "20180716",
+                "isbn": "9791187749844",
+                "description": "“자연은 결코 멈추지 않는다!”\n원자와 은하에서 태풍과 달팽이의 속도까지 유쾌한 과학자의 우주적 탐구 일지\n\n원자 단위의 세계부터 무한한 우주까지, 그 속에서 발생하는 움직임과 속도를 탐구하는 책. \n세계적인 천문학자이자 과학을 가장 쉽게 설명해주는 과학 커뮤니케이터 밥 버먼은 신작 《ZOOM 거의 모든 것의 속도(ZOOM: How Everything Moves)》에서 자연과 우주의 모든 측면이 어떻게 움직임과 속도와 관련돼 있는지 밝힌다.\n저자는 고대로부터 현대에 이르기까지 과학자들이 밝혀낸 발견들을 이용해, “환상적이고 웅장하며 흥미롭지만 정작 알려진 것은 별로 없는 자연현상”을 매우 자세하게 들여다본다. \n이 책은 손톱이 자라는 속도나 박테리아와 혈액의 속도에서부터, 용암과 번개 그리고 우주 팽창 속도에 이르기까지 ‘거의 모든 것의 속도’에 대해 역사적·과학적으로 접근하면서 인간이 절대로 피할 수 없는 자연의 법칙을 상기시켜준다.\n어려운 과학 용어를 사용하지 않는 직관적이고 위트 넘치는 설명은 양념처럼 곁들여진 개인사와 여행 과정의 에피소드와 어우러지며 유쾌한 웃음과 강렬한 몰입감을 선사한다.\n과학에 처음 접근하는 사람에게는 쉽고 재미있게 다가설 수 있는 계기를 만들어주고, 과학을 잘 아는 사람에게는 ‘충분히 알고 있다’고 생각했던 많은 부분에서 새로운 사실을 알려준다.     \n자료 조사를 위한 세계여행으로 시작하는 이 책의 여정은 천문학과 지리학, 생물학, 기상학, 과학사를 넘나드는 통합적인 지식을 충실히 전달한다. 우리가 미처 몰랐던 수많은 사물과 생물, 그리고 일상의 속도에 대한 경외와 찬사를 이끌어내는 수작이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문아카이브",
+                "DDC": "531",
+                "UPDATE_DATE": "20180806",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "밥 버만 지음 ;김종명 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "421",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6719742_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6719742_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "494 p.",
+                "CONTROL_NO": "CIP2018019916",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187749844",
+                "INPUT_DATE": "20180625",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "Zoom 거의 모든 것의 속도",
+                "PUBLISH_PREDATE": "20180716",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

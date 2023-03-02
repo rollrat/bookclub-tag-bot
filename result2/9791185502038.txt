@@ -1,0 +1,67 @@
+{
+    "otitle": "쉼표, 강릉",
+    "oauthor": "유승혜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쉼표, 강릉 (휴식이 필요한 당신을 위한 맞춤 강릉 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505279650",
+                "image": "https://shopping-phinf.pstatic.net/main_3250527/32505279650.20221227204226.jpg",
+                "author": "유승혜",
+                "discount": "12600",
+                "publisher": "클",
+                "pubdate": "20140331",
+                "isbn": "9791185502038",
+                "description": "천혜의 자연 환경과 아름다운 고택, 바닷가 카페\n지루할 틈 없이 짜릿한 강릉의 모든 것\n\n『쉼표, 강릉』은 여름철 휴가지로만 생각되는 강릉의 다채로운 매력을 꼼꼼하게 찾아낸 여행서다. 바다와 계곡뿐만 아니라 최근 떠오르고 있는 강릉의 명소와 문화를 살펴볼 수 있도록 여행자의 동선을 고려해 총 5개 권역으로 나눴고, 각각 하루를 기준으로 코스를 구성했다. 첫 여행을 준비하는 사람도, 갑자기 떠난 사람도 충분히 즐기고 올 수 있도록 명소를 선정해 사진 찍기 좋은 장소나 놓치지 말아야 할 포인트, 주의할 점을 명쾌하게 담았다. 이외에도 이동 수단, 취향에 따라 선택하는 맛집과 카페, 숙소 86곳을 소개한다. 걷는 것을 좋아하는 사람, 사진 찍기가 취미인 사람, 은둔하듯 떠나고 싶은 사람, 레저스포츠를 즐기고 싶은 사람 모두 이 책과 함께 강릉의 사계절을 만나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "퍼블리싱 컴퍼니 클",
+                "DDC": "915.1904",
+                "UPDATE_DATE": "20140414",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "유승혜",
+                "SERIES_TITLE": "",
+                "KDC": "981.14602",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3414651_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3414651_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014008285",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185502038",
+                "INPUT_DATE": "20140310",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "쉼표 강릉",
+                "PUBLISH_PREDATE": "20140331",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

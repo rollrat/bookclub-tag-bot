@@ -1,0 +1,67 @@
+{
+    "otitle": "여행, 커피에 빠지다",
+    "oauthor": "류동규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여행, 커피에 빠지다 (커피향 가득한 길 위의 낭만)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489403953",
+                "image": "https://shopping-phinf.pstatic.net/main_3248940/32489403953.20221227205314.jpg",
+                "author": "류동규",
+                "discount": "12510",
+                "publisher": "상상출판",
+                "pubdate": "20141027",
+                "isbn": "9788994799940",
+                "description": "류동규 작가는 국내 전문 여행사의 대표로서 여행과는 떼려야 뗄 수 없는 사이이다. 커피와의 만남을 매개체로 하여 도시 여행을 떠난 저자의 이야기이다. 각 여행지마다 특별한 테마가 담겨 있어 이미 알고 있는 도시라고 해도 이전에는 보지 못한 새로운 모습을 발견할 수 있을 것이다. \n\n\n\n책에서는 수많은 도시의 길 위에서 우리의 삶을 되돌아본다. 아버지와의 추억을 반추한 인천 여행과 첫사랑의 기억이 담긴 춘천 여행 등에선 아련한 그리움과 향수를 느낄 수 있다. 부산 감천문화마을 골목길에서 떠올리는 상념은 겪어본 사람들의 공감과 생소한 사람들의 흥미를 자아낸다. \n\n\n\n뿐만 아니라 천안 터미널 앞에 자리한 수십억짜리 예술품처럼 늘 그 자리에 있었지만 많은 사람들의 관심에서 벗어나 있던 여행지도 엿볼 수 있다. 단순히 여행지에 대한 정보뿐만 아니라 삶에 대한 인문학적 성찰을 통해 참여행의 의미를 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "915.19",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "류동규",
+                "SERIES_TITLE": "",
+                "KDC": "981.102",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4025644_3.jpg",
+                "PRE_PRICE": "13900",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4025644_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014029118",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994799940",
+                "INPUT_DATE": "20141008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "여행 커피에 빠지다",
+                "PUBLISH_PREDATE": "20141027",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "슬픔의 위로",
+    "oauthor": "메건 더바인 저/김난령 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "슬픔의 위로 (자신과 타인을 위로하는 진정한 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482645743",
+                "image": "https://shopping-phinf.pstatic.net/main_3248264/32482645743.20221230072015.jpg",
+                "author": "메건 더바인",
+                "discount": "14400",
+                "publisher": "반니",
+                "pubdate": "20200325",
+                "isbn": "9791190467445",
+                "description": "슬픔의 경험에 대해, 그리고 사별의 아픔을 견디는 사람들을 돕는 방법에 있어 완전히 새로운 접근법을 제시한 책이다. 20여 년 넘는 경력의 베테랑 상담치료사에서 배우자의 갑작스런 죽음이라는 비극을 겪으면서 ‘슬픔의 옹호자’로 거듭난 작가 메건 더바인, 특유의 깊은 통찰력으로 지금까지 아무도 말하지 않았던 상실과 사랑과 치유에 관한 진실을 이 책에 진솔하게 풀어냈다.\n\n \n\n작가는 이 책에서 슬픔을 극복하고 다시 정상적이고 행복한 삶으로 복귀하는 것을 최고의 목표로 삼는 슬픔에 대한 우리 문화의 접근 방식이 얼마나 잘못된 것인지를 철저히 파헤친다. 또한 슬픔을 극복할 것인가 아니면 평생을 고통에 갇혀 살 것인가라는 이분법적 접근 대신에 그 보다 훨씬 더 건강한 ‘중도’의 길을 제시한다. 그 길은 슬픔을 없애려 하기보다는 슬픔을 보듬으면서 자신만의 삶을 만들어가는 방법이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "20200403",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "메건 더바인 지음 ;김난령 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "182.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "CIP2020010181",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190467445",
+                "INPUT_DATE": "20200309",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "슬픔의 위로",
+                "PUBLISH_PREDATE": "20200325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

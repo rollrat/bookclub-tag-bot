@@ -1,0 +1,67 @@
+{
+    "otitle": "서른다섯, 내 몸부터 챙깁시다",
+    "oauthor": "최혜미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서른다섯, 내 몸부터 챙깁시다",
+                "link": "https://search.shopping.naver.com/book/catalog/32493772732",
+                "image": "https://shopping-phinf.pstatic.net/main_3249377/32493772732.20221230073646.jpg",
+                "author": "최혜미",
+                "discount": "15300",
+                "publisher": "푸른숲",
+                "pubdate": "20191030",
+                "isbn": "9791156757993",
+                "description": "“당연한 불편함은 없다” \n늘 어딘가 불편하지만 말할 곳 없는 모든 여성을 위한 \n한의사 최혜미의 내 몸 돌봄 수업\n\n당신이 서른다섯 살이 넘어 산부인과에 갔을 때 듣게 되는 말.  \n“서른다섯 살 넘으셨어요? 노산이네요?” \n  《서른다섯, 내 몸부터 챙깁시다》를 쓴 한의사 최혜미는 누군가의 나이를 가늠할 때 ‘노산’을 기준으로 삼는 시선을 경계해야 한다고 말한다. 임신과 출산 말고도 여성의 몸에 대해 할 이야기는 무궁무진하며, 공부하고 취직하느라 필연적으로 늦었을 뿐이고 한 사람 한 사람 몸의 역사는 제각각인데, 여성의 몸을 무조건 ‘노산 프레임’ 안에 가두어서는 안 된다는 것이다.    \n  실제 여자 나이 ‘서른다섯’은 가임기 중간 지점을 막 넘긴 시점으로, 몸이 달라지는 분기점이지만, 중요한 건 ‘나이’가 아니라 내 몸의 변화에 관심을 갖고, 내 몸을 대하는 태도를 바꾸는 것. 이 책은 몸이 느끼는 사소한 불편함, 작은 신호를 무시하면 안 되는 이유, 내 몸의 변화에 대해 설명할 수 있는 근거를 과학적으로 제시해 ‘지금이라도 내 몸을 스스로 바꿀 수 있다’는 믿음을 준다. 특히 스스로 몸과 마음을 돌보고자 하는 현대 여성의 필독서다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20191107",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "글·그림: 최혜미",
+                "SERIES_TITLE": "",
+                "KDC": "519.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/04/9791156757993.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "315 p.",
+                "CONTROL_NO": "CIP2019039482",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156757993",
+                "INPUT_DATE": "20191004",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "서른다섯, 내 몸부터 챙깁시다",
+                "PUBLISH_PREDATE": "20191030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

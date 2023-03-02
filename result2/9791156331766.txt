@@ -1,0 +1,67 @@
+{
+    "otitle": "뉴스로 보는 사이다 심리학",
+    "oauthor": "이남석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뉴스로 보는 사이다 심리학 (가짜 뉴스, 갑질 논란, 편파 판정은 왜 일어나는 걸까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466820586",
+                "image": "https://shopping-phinf.pstatic.net/main_3246682/32466820586.20221019152440.jpg",
+                "author": "이남석",
+                "discount": "11700",
+                "publisher": "다른",
+                "pubdate": "20171013",
+                "isbn": "9791156331766",
+                "description": "『뉴스로 보는 사이다 심리학』은 우리 모두가 겪고 있는 문제들을 분석하는 데 길잡이가 되어 줄 친절한 안내서다. 오늘날에는 인지부조화, 반사회적 인격 장애, 동일시 등등 기초적인 인간의 심리를 알아야 사회적 이슈를 균형감 있게 분석할 수 있다. 더욱이 어떤 사건은 심리적으로 현상에 접근해야만 비로소 온전히 이해할 수 있기도 하다. 청소년은 올바른 가치관과 개념을 확립하는 데 중요한 시기다. 이 시기에 읽는 심리학 교양서는 인간과 사회, 시대를 이해하는 소중한 자양분이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른",
+                "DDC": "",
+                "UPDATE_DATE": "20171116",
+                "EA_ADD_CODE": "43180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이남석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "180",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6363680_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6363680_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6363680_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "195 p.",
+                "CONTROL_NO": "CIP2017024386",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156331766",
+                "INPUT_DATE": "20170915",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(뉴스로 보는) 사이다 심리학",
+                "PUBLISH_PREDATE": "20171013",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "미니멀 밥상",
+    "oauthor": "누마하타 나오키,시모죠 미오 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미니멀 밥상 (식재료, 조리법, 그릇까지 최소한으로 미니멀 키친라이프)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436238923",
+                "image": "https://shopping-phinf.pstatic.net/main_3243623/32436238923.20221229073159.jpg",
+                "author": "누마하타 나오키^시모죠 미오",
+                "discount": "11700",
+                "publisher": "즐거운상상",
+                "pubdate": "20180416",
+                "isbn": "9791155361108",
+                "description": "잔뜩 장을 봤는데도 어떤 음식을 만들어야 할지 모르겠고, 막상 요리를 하려니 피곤해서 라면을 끓이거나 배달음식을 시킨 경험, 누구나 갖고 있을 것이다. 《미니멀 밥상》은 만들기 쉬우면서도 질리지 않고 계속 먹을 수 있는 담백한 레시피를 제안한다. 양파, 무, 당근, 감자, 양배추, 푸른 채소, 버섯 등을 주재료로 한 미니멀 밑반찬 레시피 29가지와 달걀, 고기, 생선, 수프 등 메인 요리 레시피 20가지는 무엇이든 심플한 식탁을 만드는데 유용하다.\n\n\n\n 특히 밑반찬을 미리 만들어두면 미니멀한 식생활을 유지하는데 큰 도움이 된다는 것을 강조한다. 밑반찬을 잘 만들어두면 그 밑반찬을 응용해서 메인요리로 발전시킬 수 있는 효과적인 상차림 팁도 눈에 띈다. 쌀밥과 밑반찬으로 만드는 간단 나물밥, 푸른 채소를 얹은 두유 탄탄면, 구운 주먹밥 리조또, 두부 카페 덮밥, 연어 영양밥, 비빔밥 스타일 돼지고기 생강구이, 반건조 생선 오차츠케, 토마토소스를 뿌린 치킨 등 당장 도전해보고 싶은 반짝반짝 빛나는 레시피가 가득하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "즐거운상상",
+                "DDC": "",
+                "UPDATE_DATE": "20190211",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글과 사진: 누마하타 나오키 ;일러스트: Hachiii ;[옮긴이]: 김수정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "110 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155361108",
+                "INPUT_DATE": "20180315",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "미니멀 밥상",
+                "PUBLISH_PREDATE": "20180415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

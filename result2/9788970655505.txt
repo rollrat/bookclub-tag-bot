@@ -1,0 +1,67 @@
+{
+    "otitle": "여자 서른다섯, 그런대로 안녕하다",
+    "oauthor": "곽민지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여자 서른다섯, 그런대로 안녕하다 (나만의 속도대로 살아도 행복할 수 있어)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441653785",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441653785.20220527024807.jpg",
+                "author": "곽민지",
+                "discount": "12420",
+                "publisher": "홍익출판사",
+                "pubdate": "20161020",
+                "isbn": "9788970655505",
+                "description": "30대 여성들에게 위로와 격려를 주는 책『여자 서른다섯, 그런대로 안녕하다』. 서른 다섯의 동양화가인 저자 곽민지는 자신의 일상을 통해 30대 여성의 삶을 솔직하게 들여다보고, 행복할 수 있는 방법을 모색한다. 한 사람으로서, 여성으로서, 또한 화가로서 정체성을 단단히 하고 성장해나가는 과정을 보여줌으로써 이 시대를 살아가는 서른 중반 여성의 삶을 담아냈다. 저자 특유의 섬세한 언어와 감각적인 동양화로 담아낸 30대 여성의 현실에세이는 공감과 감성을 일깨워 여성으로서의 삶을 돌아보게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "홍익출판사",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20161110",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.hongikbooks.com",
+                "AUTHOR": "곽민지",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5805101_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5805101_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "320",
+                "CONTROL_NO": "CIP2016024039",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970655505",
+                "INPUT_DATE": "20161007",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여자 서른다섯, 그런대로 안녕하다",
+                "PUBLISH_PREDATE": "20161020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

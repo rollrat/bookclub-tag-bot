@@ -1,0 +1,67 @@
+{
+    "otitle": "마법의 연금 굴리기",
+    "oauthor": "성일 저/김지민 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마법의 연금 굴리기 (연금저축, IRP, ISA 절세 삼총사를 ETF로 자산배분하라!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476011686",
+                "image": "https://shopping-phinf.pstatic.net/main_3247601/32476011686.20221019134321.jpg",
+                "author": "김성일",
+                "discount": "13540",
+                "publisher": "에이지21",
+                "pubdate": "20190412",
+                "isbn": "9788998342500",
+                "description": "“연금저축, IRP, ISA 절세 삼총사를 ETF로 자산배분하라!”\n√ 가장 신뢰받는 이코노미스트 홍춘욱 박사 추천!!\n\n인생 100세 시대라고 한다. 한편으로는 사람의 수명이 언제까지 늘어날지 모른다는 것이 우리를 두렵게 한다. 돈을 벌 수 있는 시기는 한정되어 있는데, 수입이 없이 많은 날을 살아야 하기 때문이다. 충분한 자산을 가지고 있는 사람이라면 문제없다. 하지만 그렇지 않은 사람은 지금부터라도 준비하지 않으면 안 된다. 이 책은 20대부터 50대까지 자영업자와 월급쟁이를 위한 절세와 노후 준비를 돕기 위해 쓰였다. 바로 개인연금으로 연금저축펀드를, 퇴직연금으로 IRP를, 절세 계좌로 ISA를 활용하여 안전하면서도 수익을 내는 방법을 안내한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "에이지21",
+                "DDC": "",
+                "UPDATE_DATE": "20190425",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김성일 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998342500",
+                "INPUT_DATE": "20190327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(굴릴수록 눈덩이처럼 불어나는) 마법의 연금 굴리기",
+                "PUBLISH_PREDATE": "20190412",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

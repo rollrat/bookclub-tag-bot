@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘부로 일 년간 휴직합니다",
+    "oauthor": "몽돌 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘부로 일 년간 휴직합니다 (나다움을 찾기 위한 속도 조절 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487157952",
+                "image": "https://shopping-phinf.pstatic.net/main_3248715/32487157952.20221230073638.jpg",
+                "author": "몽돌",
+                "discount": "12420",
+                "publisher": "빌리버튼",
+                "pubdate": "20190603",
+                "isbn": "9791188545568",
+                "description": "‘지금 멈추지 않으면 계속 이렇게 살 것만 같아서’\n나를 알기 위해 잠시 멈추기로 했습니다.\n\n《오늘부로 일 년간 휴직합니다》의 저자는 정해진 궤도를 따라, 타인이 만들어놓은 속도에 맞춰 성실하게 살아왔다. 그러다 어느 날 익숙한 곳에서 갑갑함을 느끼고 방황을 한다. “이렇게 남 눈치 보며 사는 게 맞는 거야?” “나 잘 살고 있는 거야?” 하는 의심이 들었고, 그것을 해결하기 위해 갖은 노력을 했다. 그러나 좀처럼 사라지지 않았다. 수천 번을 고민한 끝에 잠시 속도를 늦추고 멈춤을 선택했다.\n저자는 ‘지금 멈추지 않으면 계속 이렇게 살 것만 같아서’ 발을 멈추고 스스로를 돌아봤다. 막상 멈추어보니 불안감이 엄습해왔다. 불안한 마음을 멈추려, 쉬는 기간동안 그간 하고 싶었던 것들을 하기로 했다. 운동도 하고, 여행도 가고, 요가를 하며 단 한 번도 들여다보지 않은 내 마음에 집중해보았다. 이 책은 ‘기준’에 대해 생각하고, 나만의 삶의 기준을 만드는 이야기다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "",
+                "UPDATE_DATE": "20190610",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "몽돌 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/02/9791188545568.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "CIP2019017517",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188545568",
+                "INPUT_DATE": "20190502",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘부로 일 년간 휴직합니다",
+                "PUBLISH_PREDATE": "20190603",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

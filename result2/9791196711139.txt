@@ -1,0 +1,67 @@
+{
+    "otitle": "슈퍼 기억력 트레이닝",
+    "oauthor": "히라타 나오야 저/정현옥 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "슈퍼 기억력 트레이닝 (인생이 10배 유리해지는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442759871",
+                "image": "https://shopping-phinf.pstatic.net/main_3244275/32442759871.20221229073320.jpg",
+                "author": "히라타 나오야",
+                "discount": "12420",
+                "publisher": "다른상상",
+                "pubdate": "20190710",
+                "isbn": "9791196711139",
+                "description": "인생이 10배 유리해진다!\n기억력 트레이닝, 두뇌를 200% 활용하는 가장 간단한 방법\n\n스마트 시대에 왜 기억력 트레이닝이 필요할까? AI가 발전하면서 인간의 존재 가치가 창의력에 집중되고 있는 지금, 창조성의 바탕이 되는 게 바로 기억력이기 때문이다. 한편 스마트폰 의존도가 높은 2030세대에서 나타나는 ‘디지털 치매’ 현상 역시 심각하다.\n기억력대회 챔피언인 히라타 나오야는 누구에게나 ‘슈퍼 기억력’이 잠재되어 있고, 기억법을 연습하면 누구나 자기 두뇌를 200% 활용할 수 있다고 말한다. 그는 이 책에서 가장 대표적인 기억법 4가지 - 스토리 기억법, 장소법, 변환법, 태그법을 초보자도 따라할 수 있을 만큼 쉽고 재미있게 설명한다. \n대학생 신분으로 기억력대회 챔피언이 된 저자는 자신이 기억법 4가지에 통달했기 때문에 이후 과목에서 모두 A+를 받을 수 있었다며, 성적을 올리고 싶은 수험생, 잦은 실수로 지적받는 직장인들에게 기억력 트레이닝을 통해 공부력, 업무력을 쑥쑥 올려 10배 유리한 인생을 만들어가길 권한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른상상",
+                "DDC": "",
+                "UPDATE_DATE": "20190719",
+                "EA_ADD_CODE": "13370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "히라타 나오야 지음 ;정현옥 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "211 p.",
+                "CONTROL_NO": "CIP2019022910",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196711139",
+                "INPUT_DATE": "20190611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(인생이 10배 유리해지는) 슈퍼 기억력 트레이닝",
+                "PUBLISH_PREDATE": "20190710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

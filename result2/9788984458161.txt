@@ -1,0 +1,67 @@
+{
+    "otitle": "나만의 이케아 만들기",
+    "oauthor": "엘리스 메이저,샬롯 리버스 공저/이지민 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나만의 이케아 만들기 (쉽고 재미있고 기발한 이케아 리폼법 50)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492176010",
+                "image": "https://shopping-phinf.pstatic.net/main_3249217/32492176010.20220527031433.jpg",
+                "author": "엘리스 메이저",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20170102",
+                "isbn": "9788984458161",
+                "description": "이케아는 저렴하고 심플하며 조립 제품이 지닌 휴대성을 갖추었다는 점에서 제품 개조에 대한 경제적 부담이 적고, 변동의 폭이 크다. 따라서 자신만의 개성 있는 소품, 가구를 만들고자 하는 이들에게 이케아 제품은 더없이 적합하다. 이 책은 어디에서나 흔히 볼 수 있는 선반과 탁자, 찬장 등의 모습에서 벗어나 세상에 단 하나뿐인 나만의 이케아를 만드는 50가지 방법을 소개한다. 쉽고 빠르고 경제적으로 할 수 있는 초간단 리폼 아이디어부터 보다 넓고 편리하고 멋스러운 수납 제품으로 바꾸는 아이디어, 본래의 용도를 뛰어넘어 더욱 유용한 제품으로 탈바꿈시키는 업사이클링 아이디어에 이르기까지 다양한 작업을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "645",
+                "UPDATE_DATE": "20170721",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "엘리스 메이저,샬롯 리버스 지음 ;이지민 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "595.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5773735_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5773735_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "144 p.",
+                "CONTROL_NO": "CIP2016023114",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984458161",
+                "INPUT_DATE": "20160923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "나만의 이케아 만들기",
+                "PUBLISH_PREDATE": "20170102",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

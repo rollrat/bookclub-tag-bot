@@ -1,0 +1,67 @@
+{
+    "otitle": "물리지 않는 물리학",
+    "oauthor": "이노키 마사후미 저/정미애 역/오스가 겐 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "물리지 않는 물리학 (복잡한 수식 없이 유쾌하게 즐기는 경이로운 물리학의 세계)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480516225",
+                "image": "https://shopping-phinf.pstatic.net/main_3248051/32480516225.20230225070858.jpg",
+                "author": "이노키 마사후미",
+                "discount": "14400",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20211008",
+                "isbn": "9791188469857",
+                "description": "유쾌하다! 수식이 없다! 어렵지 않다! 경이롭다!\n50년 전 인기 물리학 명저를 타임슬립하듯 만나다\n\n그 어렵다던 상대성 이론과 양자 역학이 귀에 쏙쏙 들어온다면? 우주의 수수께끼와 먼지 속 미시 세계가 마치 만화처럼 내 머릿속에 그려진다면? 어렵고 딱딱한 수식 없이, 기발한 발상과 유쾌한 비유로 물리학의 최고 이론들을 알기 쉽게 서술한다. 다수의 재미있는 일러스트가 내용의 포인트를 잘 짚어주며 독자의 상상력을 한껏 자극한다. \n이 책이 첫 출간된 건 1963년이다. 당시에도 폭넓은 독자들에게 많은 사랑을 받기도 했지만 지금 읽어도 손색이 없을 만큼 친절하고 일상적인 사례와 재치 있는 설명이 매력적이다. 고단샤 과학출판상을 수상한 쓰쿠바대학교 교수 오스가 겐이 감수를 맡아 꼼꼼하게 검토해 각주를 달았다. \n책에 소개된 연구 성과는 모두 노벨상을 받은 것들이다. 아인슈타인의 상대성 원리, 하이젠베르크의 불확정성 원리, 드브로이의 물질파, 윌슨의 안개상자, 글레이저의 거품상자, 러더퍼드의 원자핵, 앤더슨의 양전자, 유카와 히데키의 파이 중간자…. 이 책을 통해 현대 물리학의 빛나는 결실을 그야말로 한눈에 감상할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름 출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20220124",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이노키 마사후미 지음 ;정미애 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/16/9791188469857.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "321 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188469857",
+                "INPUT_DATE": "20210916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "물리지 않는 물리학",
+                "PUBLISH_PREDATE": "20211008",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

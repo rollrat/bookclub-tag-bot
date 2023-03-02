@@ -1,0 +1,67 @@
+{
+    "otitle": "문학사를 움직인 100인",
+    "oauthor": "이한이 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "문학사를 움직인 100인 (호메로스부터 마르케스까지 문학의 역사를 만든 사람들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489596689",
+                "image": "https://shopping-phinf.pstatic.net/main_3248959/32489596689.20221227205202.jpg",
+                "author": "이한이",
+                "discount": "26100",
+                "publisher": "청아출판사",
+                "pubdate": "20141231",
+                "isbn": "9788936810641",
+                "description": "역사를 움직인 100인 시리즈. 소설, 시, 희곡, 수필 등 문학의 여러 장르를 막론하고 세계문학사에 큰 영향을 끼친 100인의 작가를 소개한다. 그런 한편 세계 문학사의 흐름과 한국 문학의 발전사를 함께 비교해 볼 수 있도록 '이 시기의 한국 문학가와 작품'이라는 별면도 구성하였다. \n\n\n\n문학 발전의 흐름부터 문학가의 삶과 해당 작품을 쓰게 된 배경 등을 설명하며 작품을 해석하는 다양한 도구를 제시했다. 특히 아동 문학이나 추리소설, SF 등의 분야는 오늘날 하나의 문학 장르로 자리 잡았음에도 많은 문학 관련 책들에서 다루지 않는 아쉬움을 해소하고자 포함시켜 서술하였다. 이와 더불어 한 시대를 풍미했던 문학작품과 관련된 일러스트 및 문학가가 사랑한 연인, 가족 등 이미지를 수록하여 눈으로 보는 재미도 더했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "809",
+                "UPDATE_DATE": "20150128",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이한이",
+                "SERIES_TITLE": "",
+                "KDC": "809",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4137007_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4137007_3.jpg",
+                "PRE_PRICE": "29000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014036762",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936810641",
+                "INPUT_DATE": "20141120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "문학사를 움직인 100인",
+                "PUBLISH_PREDATE": "20141231",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

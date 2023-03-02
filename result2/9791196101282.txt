@@ -1,0 +1,78 @@
+{
+    "otitle": "작은 행복론",
+    "oauthor": "가와사키 쇼헤이 저/이영미 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:00 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "작은 행복론 (현실을 사랑하는 25가지 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436003696",
+                "image": "https://shopping-phinf.pstatic.net/main_3243600/32436003696.20221228072040.jpg",
+                "author": "가와사키 쇼헤이",
+                "discount": "10800",
+                "publisher": "소소의책",
+                "pubdate": "20180126",
+                "isbn": "9791196101282",
+                "description": "상처뿐인 영광을 위해, 그리고 사회가 만들어놓은 이상이나 가치 기준에 맞춰 살아가기가 너무 힘들고 숨이 막히지 않느냐고 묻는다. 저자는 어깨를 토닥이는 따뜻한 위안이나 충고의 말보다는 사람들이 눈앞의 현실을 제대로 사랑하지 못하는 이유가 무엇이고, 자신이 정한 목표나 꿈을 반드시 손안에 넣겠다는 당찬 각오 없이도 하루하루를 즐겁게 생활하면서 작은 행복을 손에 넣을 수 있는 방법을 알려준다.\n\n\n\n아직도 실현 불가능한 목표에 매달려 힘들어하고 있지 않은가? 자기 능력 밖의 일을 책임감 때문에 놓지 못하고 있지 않은가? 주위 사람들이 인정하는 사회적 지위에 오르기 위해 너무 애쓰지 말자. 옆자리에 있는, 나보다 능력 있는 사람에게 감사하고 고개를 숙이자. 그러면 이상의 노예가 되지 않고도 담담하게 자신의 자리를 지키면서, 위만 바라볼 때는 놓쳤던 것들을 재발견할 수 있다.\n\n\n\n저자는 ‘이상을 버리는’ 것도, ‘현실을 사랑하는’ 것도 어디까지나 나를 지키기 위한 사상이며 마음을 지켜야만 비로소 평온을 얻을 수 있다고 믿어왔다. 그런 마음을 지키려면 스스로 강해져야 하고 현실을 겸허히 마주할 줄 알아야 한다. 나아가 쉽게 꺾이지 않는 마음을 가졌다고 확신한다면 당당하게 이상에 매진해야 하라고 말한다."
+            },
+            {
+                "title": "작은 부자로 사는 법 (돈 좀 만져본 남자와 돈 주변을 배회하는 남자의 행복론)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485411851",
+                "image": "https://shopping-phinf.pstatic.net/main_3248541/32485411851.20220527042847.jpg",
+                "author": "이진우^김동환",
+                "discount": "0",
+                "publisher": "청림출판",
+                "pubdate": "20130102",
+                "isbn": "9788935209453",
+                "description": "돈에 휘둘리지 않아야 쪼들리지 않는다!\n\n『작은 부자로 사는 법』은 대한민국의 직장인들에게 필요한 재테크의 원칙과 지침을 알려주는 책이다. MBC 라디오 '손에 잡히는 경제 이진우입니다'의 진행자인 이진우 기자와 김동환 대안금융경제연구소장이 투자 현장에서 만난 고수들의 투자 철학과 경제 현장의 취재 과정에서 느낀 시장의 법칙을 알기 쉽게 녹여냈다. \n\n이 책에서 저자들은 우리 삶에서 돈의 의미가 무엇인지 짚어보고 돈의 움직임과 그 움직임을 포착하는 방법에 대해 논한다. 딱딱한 개념 설명이나 이해 안 되는 스킬보다는 돈의 흐름을 읽어내는 눈과 재테크의 원칙을 세우는 데 필요한 노하우를 제시한다. 더불어 헛된 부자 열풍에 목매지 말고, 돈의 노예로 살지 않기 위한 현실적인 재테크 지혜를 쌓으라고 조언한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20180404",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "가와사키 쇼헤이 지음 ;이영미 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6503517_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6503517_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*188",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6503517_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "CIP2018000680",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196101282",
+                "INPUT_DATE": "20180105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "작은 행복론",
+                "PUBLISH_PREDATE": "20180126",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

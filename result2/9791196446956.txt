@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 출근을 해냅니다",
+    "oauthor": "스테르담 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 출근을 해냅니다 (딱 하루만큼 버텨내는 마음 근육을 기르는 중)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441595743",
+                "image": "https://shopping-phinf.pstatic.net/main_3244159/32441595743.20230131162748.jpg",
+                "author": "스테르담",
+                "discount": "12420",
+                "publisher": "다른상상",
+                "pubdate": "20190310",
+                "isbn": "9791196446956",
+                "description": "“퇴사하는 용기만큼이나 대단한 게\n버텨내는 용기 아닐까?”\n\n매일 아침 이불 밖으로 나오다니 그걸로 충분해!\n이미 충분한 당신의 출근길에 들려주고픈 글 하나, 마음 하나\n\n아침마다 숨 막히는 지옥철을 타면서도 출근을 해낸다. 남들 다 한다는 퇴사, 나도 하고 싶지만 일단 버텨낸다. 왜냐고? 남들에겐 BGM인 내 인생, 나에게는 소중하니까! \n우리는 오늘도 출근을 해낸다. 그게 얼마나 대단한 일인지 깨닫지도 못한 채. 사실 이건 기적에 가까운 일이다. 절대 빠져나오고 싶지 않은 이불 속에서 몸을 일으키다니. 제시간에 회사에 나와 자리를 지키고, 날아오는 욕을 먹으면서도 계속 일을 하다니. \n직장 생활 할 만큼 한 ‘프로 직장인’이자 조회 수 250만의 브런치 작가 스테르담은 매일 버텨내는 기적을 살아가는 직장인들의 일상에 대해 쓴다. 더럽고 치사한 회사 생활을 겪다 보니 어느덧 튼튼해진 마음 근육. 그 근육의 놀라운 힘이 퇴사하는 용기보다 더 강인하다고. 버틸 줄 아는 우리, 그걸로 충분하다고. 이제는 우리가 우리를 인정해줄 때라고."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른상상",
+                "DDC": "",
+                "UPDATE_DATE": "20190719",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "스테르담 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/22/9791196446956.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "264 p.",
+                "CONTROL_NO": "CIP2019006759",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196446956",
+                "INPUT_DATE": "20190208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘도 출근을 해냅니다",
+                "PUBLISH_PREDATE": "20190310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

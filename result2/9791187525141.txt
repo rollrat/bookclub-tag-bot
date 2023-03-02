@@ -1,0 +1,78 @@
+{
+    "otitle": "궁극의 자전거 매뉴얼",
+    "oauthor": "에벤 웨이스 저/홍석화 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:10 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "궁극의 자전거 매뉴얼 (타고 싶고 갖고 싶은 자전거에 관한 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441653323",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441653323.20220527052910.jpg",
+                "author": "에벤 웨이스",
+                "discount": "13500",
+                "publisher": "행성B",
+                "pubdate": "20170327",
+                "isbn": "9791187525141",
+                "description": "『궁극의 자전거 매뉴얼』은 이제 막 라이딩을 시작한 자전거 입문자나, 자전거를 좋아하는 사람들이 알아두면 좋을 자전거에 대한 ‘거의 모든 것’을 담고 있다. 자전거 구매에서부터 타고 수리하고 관리하는 법 그리고 라이더의 권리 및 책임 등까지 자전거에 관한 기본적이고 핵심적인 내용만 뽑아놓은 쉽고 경쾌한 가이드북이다.  무조건 비싸고 보기 좋은 장비부터 갖추려는 이들에게 꼭 필요한 정보를 제공할 뿐만 아니라 라이더 선배로서 현실적인 조언도 서슴지 않는다. 마치 자전거 전문 매장 주인과 마주 앉아 이야기 나누는 듯한 기분마저 든다. 그의 이야기에 귀를 기울이다 보면 무조건 비싼 자전거를 팔려는 자전거 회사 마케팅으로부터 자신을 지키는 법도 알게 된다."
+            },
+            {
+                "title": "궁극의 자전거 매뉴얼 (큰글씨책) (타고 싶고 갖고 싶은 자전거에 관한 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436429822",
+                "image": "https://shopping-phinf.pstatic.net/main_3243642/32436429822.20221227204545.jpg",
+                "author": "에벤 웨이스",
+                "discount": "22500",
+                "publisher": "행성B잎새",
+                "pubdate": "20200626",
+                "isbn": "9791164710447",
+                "description": "자전거 알고 탈까, 그냥 탈까?\n자전거 구매부터 즐겨 타는 법까지\n핵심 정보만 뽑아낸 유쾌한 가이드북!\n\n아마도 당신은 이제 막 자전거를 사기로 결심했을 것이다. 혹은 기존에 타던 자전거 대신 조금 더 좋은 자전거를 사기 위해 잡지나 인터넷에서 열심히 정보를 찾거나, 주변 라이더들에게 조언을 구하고 있을지도 모른다. 어쩌면 근처 자전거 매장에서 봐둔 카본 프레임의 로드 바이크를 이미 찜해 두었을지도. 『궁극의 자전거 매뉴얼』은 이제 막 라이딩을 시작한 자전거 입문자나, 자전거를 좋아하는 사람들이 알아두면 좋을 자전거에 대한 ‘거의 모든 것’을 담고 있다. 자전거 구매에서부터 타고 수리하고 관리하는 법 그리고 라이더의 권리 및 책임 등까지 자전거에 관한 기본적이고 핵심적인 내용만 뽑아놓은 쉽고 경쾌한 가이드북이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)행성비",
+                "DDC": "796.6",
+                "UPDATE_DATE": "20170329",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "에벤 웨이스",
+                "SERIES_TITLE": "",
+                "KDC": "698.97",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6149127_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6149127_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "188",
+                "CONTROL_NO": "CIP2017005208",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187525141",
+                "INPUT_DATE": "20170224",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "궁극의 자전거 매뉴얼",
+                "PUBLISH_PREDATE": "20170327",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

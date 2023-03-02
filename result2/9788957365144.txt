@@ -1,0 +1,67 @@
+{
+    "otitle": "어린이 과학 형사대 CSI 12",
+    "oauthor": "고희정 글/서용남 그림/곽영직 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어린이 과학 형사대 CSI 12: CSI 갈등이 시작되다 (CSI, 갈등이 시작되다, CSI 시즌 2)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438177709",
+                "image": "https://shopping-phinf.pstatic.net/main_3243817/32438177709.20221019113913.jpg",
+                "author": "고희정",
+                "discount": "9000",
+                "publisher": "가나출판사",
+                "pubdate": "20100820",
+                "isbn": "9788957365144",
+                "description": "'어린이 과학 형사대' CSI시리즈 제11권『CSI 갈등이 시작되다』. 어린이가 보다 흥미롭게 과학을 이해하고 다가설 수 있도록 기획된 과학 추리 동화 시리즈로, 주인공들은 예기치 못한 사건과 이를 해결하는 과정 속에서 물리, 화학, 생물, 지구과학 등의 과학 원리를 알게된다. 인기드라마인 'CSI'를 능가하는 추리력으로 사건을 수사하며 과학의 원리를 조목조목 짚어주는 주인공 일행을 통해 교과서 속의 딱딱한 과학을 재미나게 배울 수 있다. 제12권에서는 CSI 2기로 들어온 신태양을 못마땅하게 여기는 강별, 정나미 형사와 안미인 형사의 주도권 경쟁 등, 새롭게 구성된 CSI 2기 대원들 사이에 갈등이 시작된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가나출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20100901",
+                "EA_ADD_CODE": "74400",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "글: 고희정 ;그림: 서용남",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788957364406",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957365144",
+                "INPUT_DATE": "20100726",
+                "SET_EXPRESSION": "",
+                "VOL": "12",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "어린이 과학 형사대 CSI",
+                "PUBLISH_PREDATE": "20100820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74400 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

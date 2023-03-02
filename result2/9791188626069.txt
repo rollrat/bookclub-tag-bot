@@ -1,0 +1,78 @@
+{
+    "otitle": "비트코인, 지혜의 족보",
+    "oauthor": "오태민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:46 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "비트코인 지혜의족보 (개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/33938439619",
+                "image": "https://shopping-phinf.pstatic.net/main_3393843/33938439619.20230214162829.jpg",
+                "author": "오태민",
+                "discount": "22050",
+                "publisher": "백산출판사",
+                "pubdate": "20220730",
+                "isbn": "9791188626069",
+                "description": "비트코인은 이 시대, 가장 중요한 지적 현상이다.\n우리 모두는 인문학적 호기심이 얄팍한 사회에 속했다는 이유로 엄청난 대가를 지불한 셈이다. 비트코인은 철학적으로 족보가 있는 명문가문 출신이기 때문에 인문학적 식견과 약간의 호기심이 있는 누군가는 어렵지 않게 흐름을 읽어낼 수 있었다. 비트코인을 인문학적으로 재발견하라고 권유하는 그 한 사람이 당신 주변에 없었기 때문에 우린 세대에게만 주어졌던 기회를 날려버리고 말았다."
+            },
+            {
+                "title": "비트코인, 지혜의 족보 (비트코인은 이 시대, 가장 중요한 지적인 현상이다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474242774",
+                "image": "https://shopping-phinf.pstatic.net/main_3247424/32474242774.20221227205235.jpg",
+                "author": "오태민",
+                "discount": "16650",
+                "publisher": "케이디북스",
+                "pubdate": "20200425",
+                "isbn": "9791188626007",
+                "description": "비트코인은 이 시대, 가장 중요한 지적인 현상이다.\n\n우리 모두는 인문학적 호기심이 얄팍한 사회에 속했다는 이유로 엄청난 대가를 지불한 셈이다. 비트코인은 철학적으로 족보가 있는 명문가문 출신이기 때문에 인문학적 식견과 약간의 호기심이 있는 누군가는 어렵지 않게 흐름을 읽어낼 수 있었다. 비트코인을 인문학적으로 재발견하라고 권유하는 그 한 사람이 당신 주변에 없었기 때문에 우리 세대에게만 주어졌던 기회를 날려버리고 말았다. 이 책은 비트코인의 지혜와 비트코인의 족보로 나누었다. 1부, “비트코인의 지혜”를 읽는 독자의 이해를 돕기 위해 필요한 개념과 지식 및 정보를 ‘족보’에 몰아 넣고 여백에 참조를 달았다. 2부, “비트코인의 족보” 에는 전작 『비트코인은 강했다』와 『스마트 콘트랙:신뢰혁명』에서 가져온 부분이 많으며 심지어 『인문학적 상상력』에서도 가져왔다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "KDbooks(케이디북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20220826",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오태민 저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "24500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "569 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791188626069",
+                "INPUT_DATE": "20220714",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "비트코인 지혜의 족보",
+                "PUBLISH_PREDATE": "20220730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

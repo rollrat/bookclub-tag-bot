@@ -1,0 +1,67 @@
+{
+    "otitle": "가장 잔인한 달",
+    "oauthor": "루이즈 페니 저/신예용 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가장 잔인한 달 (애거서상 수상작)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504577000",
+                "image": "https://shopping-phinf.pstatic.net/main_3250457/32504577000.20221019141635.jpg",
+                "author": "루이즈 페니",
+                "discount": "12600",
+                "publisher": "피니스아프리카에",
+                "pubdate": "20140601",
+                "isbn": "9791185190044",
+                "description": "선하지만 선하지만은 않은, 악하지만 악하지만은 않은 평범한 사람들의 이야기!\n\n애거서 크리스티로 불리는 루이즈 페니의 『가장 잔인한 달』. 「가마슈 경감 시리즈」의 한 작품으로 미스터리로서의 재미와 과장하지 않은 인간 내면을 있는 그대로 보여주며 공감을 이끌어내는 작품이다. 언제나 인간관계에 대한 심각한 질문 한 가지를 던지고 살인 사건을 통해 그 주제를 섬세하게 파고드는 저자는 이번 작품에선 질투와 구원에 대해 이야기하고자 한다.\n\n마을 사람들은 부활절을 맞아 마을을 정화하기 위해 저주가 깃든 옛 해들리 저택에서 교령회를 하기로 결정한다. 부활절 일요일 밤 스리 파인스 마을에 우연찮게 방문한 영매를 비롯한 마을 사람들은 폐가가 된 저택의 어느 어둡고 음울한 방에서 죽은 자를 소환하는 의식을 시작하고 의식 도중 참석한 사람 중 한 명이 공포에 질려 사망한다. 자연사였을까? 아니면 다른 이유가 있었던 것일까? 조사를 위해 마을을 다시 방문한 가마슈 경감은 옛 해들리 저택에 깃든 불안과 공포를 감지하는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "피니스 아프리카에",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20140616",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "루이즈 페니",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3629803_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3629803_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014016371",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185190044",
+                "INPUT_DATE": "20140522",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "가장 잔인한 달",
+                "PUBLISH_PREDATE": "20140601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

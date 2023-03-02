@@ -1,0 +1,67 @@
+{
+    "otitle": "천재, 빛나거나 미쳤거나",
+    "oauthor": "신성권 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "천재, 빛나거나 미쳤거나 (천재는 대체 누구이며 어떻게 만들어지는가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504334998",
+                "image": "https://shopping-phinf.pstatic.net/main_3250433/32504334998.20221019132048.jpg",
+                "author": "신성권",
+                "discount": "14400",
+                "publisher": "팬덤북스",
+                "pubdate": "20210329",
+                "isbn": "9791161691541",
+                "description": "천재란 과연 누구이며 무엇일까? ‘천재’라고 하면 사람들은 대체로 화려한 성공과 축복, 부와 비범한 창조성을 떠올린다. 범인들에겐 부러움의 대상인 역사 속 천재들은 과연 IQ도 뛰어나고 언제나 누구에게든, 그리고 스스로에게도 환영받는 존재였을까? 대다수의 천재들이 예외적이고 비범했지만, 사실 그들의 삶과 정신성은 그렇게 원만하지 않았으며 적잖은 고독과 고통, 우울증, 광기, 자폐증을 앓았다. 이 시대에서 천재들을 우리는 어떻게 평가할 것이며, 그들에게서 우리는 무엇을 배울 수 있을까? 이 책은 역사 속 천재들과 그 천재들의 모든 것을 인문학적으로 파헤치면서, 우리 자신의 존재성과 창의성을 되돌아보는 계기를 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210414",
+                "EA_ADD_CODE": "03120",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "글쓴이: 신성권",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "363 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161691541",
+                "INPUT_DATE": "20210319",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "천재, 빛나거나 미쳤거나",
+                "PUBLISH_PREDATE": "20210329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

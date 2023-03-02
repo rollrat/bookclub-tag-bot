@@ -1,0 +1,67 @@
+{
+    "otitle": "우리는 안아주는 사람일 뿐",
+    "oauthor": "김상아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리는 안아주는 사람일 뿐 (1녀 1견과 살며 배운 것들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466909800",
+                "image": "https://shopping-phinf.pstatic.net/main_3246690/32466909800.20221229073704.jpg",
+                "author": "김상아",
+                "discount": "13320",
+                "publisher": "푸른숲",
+                "pubdate": "20181105",
+                "isbn": "9791156757689",
+                "description": "미성숙했던 한 성인이 작고 약한 두 생명과 살아가면서 가까스로 괜찮은 어른이 되어가는 여정을 담은 에세이다. 서로를 단숨에 사랑하지 못했던 어른과 개가 십 년 넘게 시공간을 함께하면서 신뢰를 쌓기까지, 종이 다른 아기와 개가 서로를 보듬고 이끌어주기까지, 저자는 세 생명이 각자를 알아가고 관계를 이어가는 과정을 때로는 깊숙이 개입한 1인칭 관점에서, 또 때로는 거리를 두고 타자의 시선에서 찬찬히 읊는다. \n\n\n\n말할 수 없는 이끌림에 안락사를 일주일 앞둔 어린 개를 데려온 저자는 개와 데면데면하게 지내다가 찬찬히 정이 들어 존재만으로도 위안이 되는 사이가 된다. 누군가와 관계를 맺는다는 건 겹겹이 쌓이는 시간의 틈에 희로애락을 바르는 것과 같다. 그리고 언젠간 그 시간에 끝이 보이게 된다. 우리는 저마다의 이유로 이제 더는 함께할 수 없음을 어느 순간 직감하게 된다. \n\n\n\n개의 수명은 고작 15년 남짓이다. 우리는 태어나는 순간부터 죽어가는 과정까지 한 사람의 삶 전반을 밀착해서 접하는 일이 흔치 않다. 그래서 개를 비롯해 수명이 짧은 다른 종의 일생을 본다는 건 삶의 다양한 단면을 미리 겪게 되는 셈이다. 유한한 삶 안에서 그 생명과 관계된 사랑, 기쁨, 짜증, 분노, 후회, 슬픔, 그리움 같은 여러 감정들을 비교적 단시간에 경험하게 된다. 그렇게 부대끼면서 우리는 조금씩 어른이 되어간다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181115",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "지은이: 김상아",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6949208_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6949208_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6949208_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "CIP2018032819",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156757689",
+                "INPUT_DATE": "20181012",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우리는 안아주는 사람일 뿐",
+                "PUBLISH_PREDATE": "20181105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

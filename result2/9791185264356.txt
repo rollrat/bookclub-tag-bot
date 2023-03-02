@@ -1,0 +1,67 @@
+{
+    "otitle": "우리 시대의 역설",
+    "oauthor": "민이언,박상규 공저/김동욱 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리 시대의 역설 (다 함께 있지만 외로운 사람들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492909790",
+                "image": "https://shopping-phinf.pstatic.net/main_3249290/32492909790.20221230072723.jpg",
+                "author": "민이언^박상규",
+                "discount": "13500",
+                "publisher": "다반",
+                "pubdate": "20190630",
+                "isbn": "9791185264356",
+                "description": "어떻게 살아야 하는가? 우리가 정말로 원하는 것은 무엇인가? 그와 관련한 숱한 질문과 대답이 있지만, 막상 닥쳐 온 현실 앞에서는 어찌 해야 하는 것인지를 몰라 주저하다가 결국 세상의 권고대로 따랐던 것 같다. 그리고 삶의 어느 순간부터는 그 질문들을?조금씩 지우며 살아왔다. 더 많은?시간이 흘러서야 다시 질문을 던지기 시작했다. \n\n\n\n현대인이 안고 사는 이런저런 고민들의 주제로 각색해 본 원고이다. 철학을 공부하는 대기업 CEO 입장에서 고찰해 본 시장의 문제. 교직을 떠나 작가의 길로 들어선 철학도가 바라보는 시대의 문제. 그리고 대형 출판사에서 근무하다 1인 출판사로 독립해 불황의 영역에서 고군분투하고 있는 출판인이 느끼는 시기의 문제 등등. 현대사회에서 우리가 맞닥뜨리는 갈등과 선택 혹은 불안의 순간들에 대한 내용을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다반",
+                "DDC": "",
+                "UPDATE_DATE": "20190708",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "민이언,박상규 지음 ;김동욱 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185264356",
+                "INPUT_DATE": "20190612",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "우리 시대의 역설",
+                "PUBLISH_PREDATE": "20190630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

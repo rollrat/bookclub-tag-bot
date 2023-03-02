@@ -1,0 +1,67 @@
+{
+    "otitle": "가상화폐 가치투자의 정석",
+    "oauthor": "조한준(Value Cho) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가상화폐 가치투자의 정석 (ICO에서 장기투자까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466572424",
+                "image": "https://shopping-phinf.pstatic.net/main_3246657/32466572424.20221230073832.jpg",
+                "author": "조한준",
+                "discount": "18000",
+                "publisher": "북오션",
+                "pubdate": "20180417",
+                "isbn": "9788967993610",
+                "description": "대형코인 적립식 투자, 소형코인 파종 투자, ICO(가상화폐공개) 투자까지! \n이제 가상화폐 시장에도 ‘정석’이 세워지고 가치투자의 시대가 시작됐다\n\n광풍이 불다시피 했던 가상화폐 시장이 조정 국면을 찾아가고 있다. 그중에는 소문만 듣고 뛰어들어 가상화폐가 어떤 기술적 특징과 전망 속에서 탄생했는지 알아볼 겨를도 없었거나, 차트조차 보지 못했던 초단타 묻지 마 투자자도 있었다. 그러나 시장은 냉정하게 손실과 손익이라는 결과를 투자자에게 안겨줬다. 투자자들은 이제 열기보다는 이성의 눈으로 시장을 다시 보게 되었고, 차트 분석과 같은 기술적 투자뿐만 아니라 장기적 안목으로 가상화폐 전체를 조망할 수 있는 여러 가치투자의 단계와 방법들을 모색하기 시작했다. \n이 책은 가상화폐가 기반하고 있는 블록체인 기술에 대한 이해를 기본으로 하여 가상화폐를 둘러싼 여러 질문들과 가상화폐의 역사와 전망을 일목요연하게 다뤄준다. 그러면서 최근의 투자자들에게 가장 요원한 주제인 왜 가치투자를 해야 하는지, 가치투자는 어떻게 해야 하는지, 대형주, 소형주 위주의 투자와 ICO투자의 유형으로 나누어 집중적으로 분석해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북오션",
+                "DDC": "332.4",
+                "UPDATE_DATE": "20180412",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조한준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6601058_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "CIP2018009232",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788967993610",
+                "INPUT_DATE": "20180321",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "가상화폐 가치투자의 정석",
+                "PUBLISH_PREDATE": "20180417",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

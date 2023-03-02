@@ -1,0 +1,67 @@
+{
+    "otitle": "내러티브와 장르",
+    "oauthor": "닉 레이시 저/임영호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내러티브와 장르 (미디어 분석의 핵심 개념들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483216636",
+                "image": "https://shopping-phinf.pstatic.net/main_3248321/32483216636.20221228072400.jpg",
+                "author": "닉 레이시",
+                "discount": "22500",
+                "publisher": "산지니",
+                "pubdate": "20200225",
+                "isbn": "9788965456421",
+                "description": "기원전 서사시부터 현대 SF 영화까지 \n    변하는 미디어 환경 속에서도 변하지 않은\n    미디어의 핵심, 내러티브를 들여다보다\n\n종이책에서 전자책으로, TV에서 넷플릭스로, 오늘날 미디어 매체는 급격히 변화하고 있다. 그렇다면 매체를 통해 전달되는 콘텐츠는 어떨까? 놀랍게도 콘텐츠의 내용과 구조는 인간이 이야기를 기록한 이래 몇천 년간 거의 변하지 않았다. 예컨대, 기원전 2천 년 경에 쓰인 ‘길가메시 서사시’의 고난 구조와, ‘아리스토텔레스의 비극’의 플롯은 현재의 웹드라마와 장르 소설의 그것과 큰 차이가 없다. 이렇게 사람들을 다른 간접 경험의 세계로 빠지게 하는 이야기는 본능적으로 인류의 삶 속에 계속되고 있다.\n영국 고등학교에서 미디어 개론 교재로 사용되고 있는 『내러티브와 장르』는 인간과 함께해온 이야기 분석의 핵심이 되는 언어, 내러티브와 장르가 어떤 구조로 되어 있으며 전달 관행은 어떻게 구성되는지를 설명한다. 또한 블라디미르 프로프, 롤랑 바르트를 포함한 주요 내러티브 이론가들의 이론을 다루고, 장르 기본 구조와 규칙, 등장인물의 성격 등을 통해 각 장르의 레퍼토리가 어떻게 나타나는지를 보여준다. 각 이론에는 저자 닉 레이시 특유의 위트가 곁들여진 설명이 함께하여 생생함을 더하고, 드라마, 영화, 소설, 신문 기사에 이르기까지 흥미롭고 풍부한 예시를 수록해 이해를 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20200309",
+                "EA_ADD_CODE": "93330",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "닉 레이시 지음 ;임영호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "331.65",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/01/22/9788965456421.jpg",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "453 p.",
+                "CONTROL_NO": "CIP2020003363",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965456421",
+                "INPUT_DATE": "20200122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "내러티브와 장르",
+                "PUBLISH_PREDATE": "20200225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

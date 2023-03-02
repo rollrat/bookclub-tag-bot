@@ -1,0 +1,23 @@
+{
+    "otitle": "백견불여일타 C# 입문",
+    "oauthor": "정준석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "백견불여일타 C# 입문 (예제와 연습문제에 집중한 프로그래밍 입문서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441079036",
+                "image": "https://shopping-phinf.pstatic.net/main_3244107/32441079036.20221227204521.jpg",
+                "author": "정준석",
+                "discount": "22500",
+                "publisher": "로드북",
+                "pubdate": "20191115",
+                "isbn": "9788997924455",
+                "description": "이 책은 프로그래밍에 입문하고자 하거나 C# 언어를 새롭게 배우고자 하는 프로그래머를 위한 입문서이다. 개념과 예제 그리고 연습문제에 집중하여 기획되었다. 100개의 본문 예제를 반복하여 익히고 각 장마다 제공되는 연습문제를 스스로 풀어낸다면 C# 개발자로 충분히 성장할 수 있는 발판을 마련할 수 있을 것이다."
+            }
+        ]
+    }
+}

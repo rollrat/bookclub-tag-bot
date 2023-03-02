@@ -1,0 +1,67 @@
+{
+    "otitle": "빅데이터를 활용한 예측마케팅 전략",
+    "oauthor": "외머 아튼,도미니크 레빈 공저/고한석 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빅데이터를 활용한 예측마케팅 전략 (측정하고 반응할 줄 아는 기업으로의 안내)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458362828",
+                "image": "https://shopping-phinf.pstatic.net/main_3245836/32458362828.20221228074245.jpg",
+                "author": "외머 아튼^도미니크 레빈",
+                "discount": "16200",
+                "publisher": "마인드큐브",
+                "pubdate": "20170810",
+                "isbn": "9791195327799",
+                "description": "『빅데이터를 활용한 예측마케팅 전략』은 당신의 회사가 제품 또는 채널 중심에서 진정으로 개인맞춤화된 경험을 제공함으로써 모든 개별 고객의 평생가치를 극대화하는 고객중심 마케팅으로 변화하기 위해서 필요한 모든 것을 알려준다. 상세한 안내서의 역할을 하는 이 책은 최첨단의 기계학습 테크놀로지와 실용적인 데이터 기반 접근방식을 활용하여 기업의 고객 획득 및 유지를 개선하도록 해준다.\n\n이 책에 담긴 모든 전략, 조언, 충고들은 대기업으로부터 중소기업에 이르기까지 모든 마케터들에게 도움을 준다. 당신은 작은 기업이 혁신적인 프로그램을 통해 대기업보다 앞서나가는 현실 세계의 사례들을 보게 될 것이다. 직관적으로 알기 쉽게 씌어진 『빅데이터를 활용한 예측마케팅 전략』은 왜 비즈니스에 대한 이해가 수학보다 중요한지 알려줄 것이며 다음을 위한 도구 및 노하우를 제공하여 당신을 지원해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마인드큐브",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "외머 아튼, 도미니크 레빈",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "356",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195327799",
+                "INPUT_DATE": "20170620",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "N",
+                "TITLE": "빅데이터와 예측마케팅",
+                "PUBLISH_PREDATE": "20170705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

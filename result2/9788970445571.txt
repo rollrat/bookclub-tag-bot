@@ -1,0 +1,67 @@
+{
+    "otitle": "미적분에 강해진다",
+    "oauthor": "시바타 도시오 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미적분에 강해진다 (그 의미와 사고방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455884791",
+                "image": "https://shopping-phinf.pstatic.net/main_3245588/32455884791.20221228073453.jpg",
+                "author": "시바타 도시오",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20010520",
+                "isbn": "9788970445571",
+                "description": "미적분이란 무엇인가. 도대체 무엇 때문에 미적분을 공부하지 않으면 안되는가. 이러한 의문 아래 씌어진 이 책은 극한의 사고를 기초로 하여, 미지의 것을 이미 아는 것으로 끼워 넣는 조작을 사용한다. 읽어 나가는 동안 원리부터 응용까지 미적분에 강해져 있는 당신을 발견할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20180502",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "시바타 도시오 저 ; 임승원 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "19950525",
+                "TITLE_URL": "",
+                "PRE_PRICE": "6000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "13000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "256 ",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970445571",
+                "INPUT_DATE": "19950510",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "미적분에 강해진다",
+                "PUBLISH_PREDATE": "19950525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

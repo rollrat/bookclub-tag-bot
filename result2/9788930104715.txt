@@ -1,0 +1,67 @@
+{
+    "otitle": "고백의 형식들",
+    "oauthor": "이성복 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고백의 형식들 (사람은 시 없이 살 수 있는가 | 이성복 산문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466656380",
+                "image": "https://shopping-phinf.pstatic.net/main_3246665/32466656380.20221229071851.jpg",
+                "author": "이성복",
+                "discount": "13500",
+                "publisher": "열화당",
+                "pubdate": "20140920",
+                "isbn": "9788930104715",
+                "description": "이성복 산문집. 1976년에서 2014년 사이에 씌어진 산문 21편을 담고 있다. 첫 머리에 실린 「천씨행장(千氏行狀)」은 일기, 시, 희곡, 편지 등이 포함된 다소 복잡한 구성의 단편소설로, 죽음과도 같은 현실 앞에서 공포와 아름다움을 동시에 느끼는 시인의 고뇌가 두드러진다. \n\n\n\n또한 「글쓰기의 비유들」에서는 글쓰기를 ‘연날리기’ ‘자전거 타기’ ‘젖은 걸레 쥐어짜기’ ‘길에서 만난 깡통 차기’ 등에 빗대어 말하고 있는데, 시인의 눈에 들어오는 모든 것이 글쓰기의 유비(類比)로 수렴될 수 있음을 보여 준다. 이 책의 여러 산문들이 품고 있는 사유는 결국 ‘나는 누구인가’ ‘삶은 무엇인가’ ‘이 세상은 어떠한 것인가’라는 질문으로 귀결된다. 이 물음들은 냉정한 자기 성찰과 세상 모든 ‘입이 없는 것들’에 대한 연민, 그리고 다양한 형식의 고백들로 그를 이끈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열화당",
+                "DDC": "895.745",
+                "UPDATE_DATE": "20150115",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.youlhwadang.co.kr",
+                "AUTHOR": "이성복",
+                "SERIES_TITLE": "",
+                "KDC": "814.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3923870_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3923870_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014024734",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788930104715",
+                "INPUT_DATE": "20140820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "고백의 형식들",
+                "PUBLISH_PREDATE": "20140920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

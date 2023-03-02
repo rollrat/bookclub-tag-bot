@@ -1,0 +1,67 @@
+{
+    "otitle": "모든 책 위의 책",
+    "oauthor": "고운기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모든 책 위의 책 (삼국유사로 오늘을 읽는다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436137714",
+                "image": "https://shopping-phinf.pstatic.net/main_3243613/32436137714.20221019104554.jpg",
+                "author": "고운기",
+                "discount": "14400",
+                "publisher": "현암사",
+                "pubdate": "20200428",
+                "isbn": "9788932320458",
+                "description": "40여 년간 삼국유사를 연구해 온 고운기 교수가 삼국유사를 바탕으로 현대 사회와 문화, 우리의 삶을 풀어내었습니다. \"스토리텔링 삼국유사\"로 우리에게 삼국유사의 이야기를 들려주었던 저자는 이 책으로 좀 더 친근하고 쉽게 삼국유사의 이야기를 들려줍니다. 삼국유사 속에서 깊이 공감하며 읽을 만한 이야기, 다사다난한 오늘을 사는 우리에게 삶의 지혜와 위로를 주는 이야기를 엮어낸 역사 에세이입니다. 저자가 직접 다녀오고 촬영한 삼국유사의 역사 현장도 컬러 화보로 함께 담았습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20200515",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "고운기 지음",
+                "SERIES_TITLE": "",
+                "KDC": "911.03",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "125*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "227 p.",
+                "CONTROL_NO": "CIP2020015296",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932320458",
+                "INPUT_DATE": "20200413",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "모든 책 위의 책",
+                "PUBLISH_PREDATE": "20200428",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "문학상 수상을 축하합니다",
+    "oauthor": "도코 고지 등저/송태욱 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "문학상 수상을 축하합니다 (세계 8대 문학상에 대한 지적인 수다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442154602",
+                "image": "https://shopping-phinf.pstatic.net/main_3244215/32442154602.20221228072710.jpg",
+                "author": "도코 고지^나카무라 가즈에^미야시타 료^다케다 마사키^다키이 아사요",
+                "discount": "12600",
+                "publisher": "현암사",
+                "pubdate": "20170630",
+                "isbn": "9788932318554",
+                "description": "우리가 잘 몰랐던 문학상의 세계, 작품을 보는 새로운 시각을 제시한다. 쏟아져 나오는 문학 작품들 속에서 방황하는 독자들을 붙잡기 위해, 작품마다 화려한 수상 이력으로 표지를 장식하며 우리를 유혹한다. “나오키상 수상작”, “맨부커상 수상작”, “카프카상 수상 작가!” 그러나 이러한 상들이 대체 어떤 상인지, 어느 만큼 가치가 있고 권위가 있는 상인지 알지 못하는 한 독자에게는 이러한 수식어가 아무런 의미가 없다. 책에 대한 가이드만큼이나 이제는 우리가 모르는 사이에 너무도 다양해진 문학상에 대한 가이드가 필요한 시점이다.\n\n\n\n전 세계의 다양한 문학상 중에서 8대 문학상을 선정하고, 수상작들을 통해 각 상의 의미와 특성을 낱낱이 해부하고 있는 &lt;문학상 수상을 축하합니다&gt;는 그야말로 문학상에 대한 첫 번째 가이드이며, 더 나아가 문학 작품과 작가에 대한 가이드이다. 일본에서 소설가, 평론가, 번역가, 서평가 등 책과 관련된 일을 하며 살아가는 열네 명의 대담자들은 때로는 작가의 입장을 대변하고 때로는 독자의 눈으로 문학상의 안팎을 바라보면서 작품과 작가, 문학상의 삼각관계를 파헤친다. 그 과정에서 튀어나오는 문학상 수상에 얽힌 뒷이야기들과 생생한 감상, 현대 문학에 대한 깊이 있는 해설은 이 책을 보는 또 하나의 즐거움이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "809",
+                "UPDATE_DATE": "20170714",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "지은이: 도코 고지,나카무라 가즈에,미야시타 료,다케다 마사키,다키이 아사요,이시이 지코,에나미 아미코,후지노 가오리,구와타 고헤이,후지이 히카루,다니자키 유이,아베 겐이치,아베 마사히코,구라모토 사오리 ;옮긴이: 송태욱",
+                "SERIES_TITLE": "",
+                "KDC": "809",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6255646_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6255646_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6255646_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "CIP2017014851",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932318554",
+                "INPUT_DATE": "20170621",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "문학상 수상을 축하합니다",
+                "PUBLISH_PREDATE": "20160630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

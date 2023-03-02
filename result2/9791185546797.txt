@@ -1,0 +1,78 @@
+{
+    "otitle": "아르센 뤼팽 전집 16",
+    "oauthor": "모리스 르블랑 저/바른번역 역/장경현,나혁진 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:16 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "바리바 외 (최신 원전 완역본-아르센 뤼팽 전집 16)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503369734",
+                "image": "https://shopping-phinf.pstatic.net/main_3250336/32503369734.20230226071220.jpg",
+                "author": "모리스 르블랑",
+                "discount": "7110",
+                "publisher": "코너스톤",
+                "pubdate": "20160106",
+                "isbn": "9791185546797",
+                "description": "100년이 넘게 칭송받아온 추리 문학의 고전명작 '아르센 뤼팽 전집'. 1905년 첫선을 보인 이래로 추리 소설 마니아들의 열렬한 사랑과 아낌없는 응원을 받아온 도둑 아르센 뤼팽의 활약이 2015년 코너스톤의 '아르센 뤼팽 전집'으로 묶였다. \n\n\n\n저자 모리스 르블랑의 섬세한 문체는 고전 특유의 우아함을 잃지 않으면서도 현대적 감각이 어우러지도록 번역했으며, 소설의 재미를 풍부하게 해줄 주석에도 꼼꼼히 신경 썼다. 특별히 추리 문학계 최초로 추리 소설 마니아의 감수까지 받아 오역 등 잘못된 부분을 최대한 바로잡으며, 독자들이 완벽히 뤼팽의 시대로 몰입하도록 돕고 있다.\n\n\n\n16권 &lt;바리바 외&gt;는 바리바 영지에 숨겨진 황금을 찾아가는 모험담으로, 베슈 형사는 제 마음대로 주무르지만 아름다운 두 자매 사이에서는 갈팡질팡하는 뤼팽의 모습이 읽는 재미를 더한다.\n\n\n\n어느 늦은 밤, 라울 다브낙은 자신의 아파트에 몰래 들어온 한 여인과 맞닥뜨린다. 두려움에 떨며 도움을 간청하는 여인 카트린, 그리고 그 순간 걸려온 베슈 형사의 전화. 바리바 영지에서 일어난 살인 사건을 알리는 전화에 카트린은 극심한 공포에 휩싸이고, 그녀 역시 바리바 영지와 관계가 있음을 직감한 라울은 카트린과 함께 사건의 현장으로 향한다."
+            },
+            {
+                "title": "아르센 뤼팽 전집 16 (바르네트 탐정 사무소)",
+                "link": "https://search.shopping.naver.com/book/catalog/35307568881",
+                "image": "https://shopping-phinf.pstatic.net/main_3530756/35307568881.20221019110656.jpg",
+                "author": "모리스 르블랑",
+                "discount": "6300",
+                "publisher": "황금가지",
+                "pubdate": "20030530",
+                "isbn": "9788982734335",
+                "description": "파리 경찰청의 민완 형사 베슈는 곤란을 겪을 때마다 탐정 짐 바르네트의 도움을 받아 사건을 해결한다. 언제나 무보수로 사건을 해결하는 바르네트, 하지만 사실 그는 법으로 처벌할 수 없는 범죄자들을 골탕 먹이는 유쾌한 악당."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "코너스톤",
+                "DDC": "",
+                "UPDATE_DATE": "20160203",
+                "EA_ADD_CODE": "04860",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "모리스 르블랑",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185546254",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "7900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185546797",
+                "INPUT_DATE": "20150623",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "16 바리바 외",
+                "PUBLISH_PREDATE": "20160106",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04860 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "살아가는데 꼭 필요한 최소한의 금융지식",
+    "oauthor": "김석한 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "살아가는 데 꼭 필요한 최소한의 금융지식 (금융지식을 알면 재테크가 훨씬 쉬워진다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32451841819",
+                "image": "https://shopping-phinf.pstatic.net/main_3245184/32451841819.20221019151711.jpg",
+                "author": "김석한",
+                "discount": "14400",
+                "publisher": "원앤원북스",
+                "pubdate": "20190716",
+                "isbn": "9791189344962",
+                "description": "기초 금융지식부터 연금, 예·적금, 펀드, 보험, 절세까지\n한 권으로 끝내는 금융지식 바이블\n\n기초 금융지식부터 연금, 예·적금, 펀드, 보험, 절세까지 다양한 금융지식을 이해하기 쉽게 한 권으로 정리했다. 재테크의 필요성은 느끼고 있지만, 자신에게 적합한 정보를 선별하고 이를 어떻게 실생활에 적용해야 할지 어려워하는 사람들에게 실질적인 도움이 될 것이다. 풍부한 금융지식은 어설픈 재테크 노하우로 자산이 축나는 것을 방지할 뿐만 아니라, 불확실한 국내외 경제 및 금융환경의 변화 속에서 잠재된 위험요소를 파악하고 적절한 해결방법을 찾는 데 도움을 준다. 그럼으로써 궁극적으로 자신이 원하는 만큼 자산을 형성하고 불릴 수 있도록 진가를 발휘하게 해준다. 이 책을 통해 실생활에 필요한 금융지식을 쌓고 성공적인 재테크의 발판을 마련해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190807",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김석한 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/07/09/9791189344962.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "334 p.",
+                "CONTROL_NO": "CIP2019024620",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189344962",
+                "INPUT_DATE": "20190624",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(살아가는 데 꼭 필요한 최소한의) 금융지식",
+                "PUBLISH_PREDATE": "20190716",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

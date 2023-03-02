@@ -1,0 +1,67 @@
+{
+    "otitle": "홀로 쓰고, 함께 살다",
+    "oauthor": "조정래 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "홀로 쓰고, 함께 살다 (등단 50주년 기념 | 독자와의 대화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441786826",
+                "image": "https://shopping-phinf.pstatic.net/main_3244178/32441786826.20221019133019.jpg",
+                "author": "조정래",
+                "discount": "14520",
+                "publisher": "해냄출판사",
+                "pubdate": "20201015",
+                "isbn": "9788965749998",
+                "description": "한국문학의 큰 산 조정래 작가의 \n문학론, 인생론, 사회론, 역사론의 완결판\n\n등단 50주년을 맞은 소설가 조정래가 불완전한 인간과 불확실한 세상에 문학이 줄 수 있는 희망을 담은 『홀로 쓰고, 함께 살다』. 인생살이 고민부터 문학과 창작에 대한 궁금증, 사회와 역사 문제까지 남녀노소 독자의 질문 100여 개에 대한 조정래 작가의 진심어린 응답을 정리하였다. 이 책에는 반세기 동안 조정래 문학의 영토를 함께 지켜준 독자들에게 선물이 되기를 바라는 작가의 마음이 진하게 담겨 있다. 『황홀한 글감옥』 이후 10년, 더 웅숭깊어진 생각들과 못다 한 말들, 근작들에 대한 이야기와 현 시대 상황에 대한 성찰 등이 더해짐으로써 조정래 작가의 철학과 신념이 더 구체적이고 종합적인 완결판으로 정리되었다.\n\n책은 ‘문학과 인생’, ‘대하소설 3부작의 세계’, ‘문학과 사회’ 등 세 개의 주제로 나뉘어 있다. 1부에는 문학의 존재 이유와 인생의 의미 등 치열한 작가정신과 인생철학을 풀어냈으며, 2부에서는 조정래 작가의 대표작 『태백산맥』『아리랑』 『한강』의 탄생 과정과 집필 배경을 생생히 이해하고 남다른 취재 및 창작 방법 등을 구체적으로 얻어갈 수 있다. 3부에서는 한반도의 역사ㆍ외교 문제부터 불평등과 폭력 등 현재 한국의 문제, 인공지능 시대를 바라보는 시선까지 각종 사회문제에 대한 작가의 폭넓은 통찰을 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄(해냄출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20201116",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "저자: 조정래",
+                "SERIES_TITLE": "",
+                "KDC": "814.62",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "144*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "378 p.",
+                "CONTROL_NO": "CIP2020039150",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965749998",
+                "INPUT_DATE": "20200911",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "홀로 쓰고, 함께 살다",
+                "PUBLISH_PREDATE": "20201015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

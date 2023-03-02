@@ -1,0 +1,67 @@
+{
+    "otitle": "시무룩 고양이 네코노히 2",
+    "oauthor": "큐라이스 글그림/손나영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "네코노히 2 (시무룩 고양이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456788686",
+                "image": "https://shopping-phinf.pstatic.net/main_3245678/32456788686.20221019123310.jpg",
+                "author": "큐라이스",
+                "discount": "10620",
+                "publisher": "재미주의",
+                "pubdate": "20190221",
+                "isbn": "9788901229751",
+                "description": "귀여움 하나로 SNS를 휘어잡은 트위터 스타 \n네코노히 두 번째 이야기!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)웅진씽크빅",
+                "DDC": "",
+                "UPDATE_DATE": "20190426",
+                "EA_ADD_CODE": "07650",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "만화: 큐라이스 ;번역: 손나영",
+                "SERIES_TITLE": "네코노히",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788901225159",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "132 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788901229751",
+                "INPUT_DATE": "20190121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "네코노히",
+                "PUBLISH_PREDATE": "20190221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "07650 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

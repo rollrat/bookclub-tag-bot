@@ -1,0 +1,67 @@
+{
+    "otitle": "소용돌이에 다가가지 말 것",
+    "oauthor": "폴 맥어웬 저/조호근 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "소용돌이에 다가가지 말 것",
+                "link": "https://search.shopping.naver.com/book/catalog/32504685296",
+                "image": "https://shopping-phinf.pstatic.net/main_3250468/32504685296.20220527024636.jpg",
+                "author": "폴 맥어웬",
+                "discount": "13050",
+                "publisher": "허블",
+                "pubdate": "20180905",
+                "isbn": "9791196090272",
+                "description": "나노과학을 둘러싼 명암을 예측하다!\n\n『소용돌이에 다가가지 말 것』의 작가이자 나노과학의 대가인 폴 맥어웬은 ‘클래리베이트 애널리틱스’가 선정한 2017년 노벨 물리학상 유력 후보 3명 중 한 사람으로 거론되었다. 탄소 기반 전자학 연구에 대한 공헌이 그가 노벨상 후보로 주목받은 이유다. 우리가 이 소설에 주목해야 할 이유는 분명하게도, 나노과학 기술의 상용화를 가까운 미래에 앞둔 시점에서, 기술을 둘러싼 명암을 그 분야 최고 연구자가 써낸 한 편의 근사한 이야기로 만나볼 수 있기 때문이다. \n\n작품은 노벨상 수상자이자 코넬대학교 생물학과의 명예교수인 리암 코너의 죽음으로 시작된다. 뱃속의 ‘마이크로 크롤러’ 네 마리와 함께, 다리 밑에서 발견된 리암의 시체. 경찰은 그의 죽음을 자살이라고 결론짓는다. 하지만 동료 교수인 제이크 스털링과 리암의 손녀인 매기는 그가 스스로 다리 밑으로 뛰어내렸을 가능성은 없다고 믿는다. 그리고 리암을 죽음을 둘러싼 거대한 비밀을 쫓기 시작한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "허블",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20180913",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "폴 맥어웬 지음 ;조호근 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6877372_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6877372_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*198",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "519 p.",
+                "CONTROL_NO": "CIP2018027119",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196090272",
+                "INPUT_DATE": "20180823",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "소용돌이에 다가가지 말 것",
+                "PUBLISH_PREDATE": "20180905",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

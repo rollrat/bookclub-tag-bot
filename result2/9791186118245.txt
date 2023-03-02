@@ -1,0 +1,78 @@
+{
+    "otitle": "퇴근 후 심리 카페",
+    "oauthor": "채정호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:30 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "퇴근 후 심리 카페 (채정호의 직장인 스트레스 마음처방전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484747250",
+                "image": "https://shopping-phinf.pstatic.net/main_3248474/32484747250.20221019104836.jpg",
+                "author": "채정호",
+                "discount": "11700",
+                "publisher": "생각속의집",
+                "pubdate": "20171130",
+                "isbn": "9791186118245",
+                "description": "중년의 남자가 상담실 한켠에서 눈시울을 붉힌다. 가정에서 직장에서 늘 성실했던 사람. 열심히 사는 것이 좋은 삶이라 믿었는데, 언제부터인가 일에서 밀리고 대인관계도 힘들어지면서 그가 의지할 것이 없어졌다. 고개 숙인 그에게 정신과전문의 채정호 교수가 한마디 건넨다. “지금까지 견뎌 오신 것만으로도 잘 살아오신 거예요.” 어디서도 들어보지 못한 이 한마디에 직장인들은 눈물부터 흘린다고 [퇴근 후 심리 카페]의 저자 채정호 교수는 말한다. ‘살아남아야 한다’‘더 열심히 일해야 한다.’‘이 정도에 힘들다면 무슨 큰일을 하겠느냐’며 달려왔던 직장인들. 하지만 더는 견딜 수 없을 만큼 직장인들의 정서건강은 빨간불이 켜진 지 오래다. 이 책은 저자가 직무스트레스학회장으로, 정신과전문의로 상담 현장에서 만난 직장인들의 갈등과 상처를 함께 나눈 이야기를 담은 심리치유 에세이다."
+            },
+            {
+                "title": "퇴근 후 심리 카페(큰글씨책) (채정호의 직장인 스트레스 마음처방전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503336700",
+                "image": "https://shopping-phinf.pstatic.net/main_3250333/32503336700.20221019132626.jpg",
+                "author": "채정호",
+                "discount": "23000",
+                "publisher": "생각속의집",
+                "pubdate": "20210827",
+                "isbn": "9791186118528",
+                "description": "“직장에서 나, 괜찮은 걸까?”\n\n일과 사람에 지친 당신에게 \n건네는 카운슬링 한잔"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각속의집",
+                "DDC": "158",
+                "UPDATE_DATE": "20171207",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "채정호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6431334_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6431334_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6431334_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "183 p.",
+                "CONTROL_NO": "CIP2017030111",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186118245",
+                "INPUT_DATE": "20171114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "퇴근 후 심리 카페",
+                "PUBLISH_PREDATE": "20171130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "앵무새의 정리 2",
+    "oauthor": "드니 게즈 저/문선영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:19 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "앵무새의 정리 2 (드니 게즈 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454330533",
+                "image": "https://shopping-phinf.pstatic.net/main_3245433/32454330533.20221019141619.jpg",
+                "author": "드니 게디",
+                "discount": "13320",
+                "publisher": "자음과모음",
+                "pubdate": "20210730",
+                "isbn": "9788954447447",
+                "description": "프랑스의 대표적 지성,\n드니 게즈의 소설로 만나는\n수학의 위대한 순간들"
+            },
+            {
+                "title": "앵무새의 정리 2",
+                "link": "https://search.shopping.naver.com/book/catalog/32490737680",
+                "image": "https://shopping-phinf.pstatic.net/main_3249073/32490737680.20220520194254.jpg",
+                "author": "드니 게즈",
+                "discount": "12330",
+                "publisher": "이지북",
+                "pubdate": "20080204",
+                "isbn": "9788956243047",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)자음과모음",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "04860",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 드니 게즈",
+                "SERIES_TITLE": "앵무새의 정리",
+                "KDC": "",
+                "EDITION_STMT": "개정1판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788954447423",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "145*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "400",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788954447447",
+                "INPUT_DATE": "20210706",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "앵무새의 정리 2",
+                "PUBLISH_PREDATE": "20210715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04860 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

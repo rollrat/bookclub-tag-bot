@@ -1,0 +1,67 @@
+{
+    "otitle": "ENJOY 여행스페인어",
+    "oauthor": "넥서스콘텐츠개발팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "ENJOY 여행 스페인어",
+                "link": "https://search.shopping.naver.com/book/catalog/32453182522",
+                "image": "https://shopping-phinf.pstatic.net/main_3245318/32453182522.20230131162453.jpg",
+                "author": "넥서스콘텐츠개발팀 (엮음)",
+                "discount": "5850",
+                "publisher": "넥서스",
+                "pubdate": "20160725",
+                "isbn": "9791157528424",
+                "description": "스페인여행 처음 갈 때 이 책!『ENJOY 여행 스페인어』. 이 책은 필수 여행스페인어 표현과 함께 인기 여행지 소개, 여행에 유용한 정보를 담은 책이다. 여행지에서 필요한 표현들이 한눈에 들어오도록 가독성이 좋게 구성되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)넥서스",
+                "DDC": "468",
+                "UPDATE_DATE": "20161201",
+                "EA_ADD_CODE": "13770",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "넥서스콘텐츠개발팀",
+                "SERIES_TITLE": "",
+                "KDC": "777.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5631222_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5631222_3.jpg",
+                "PRE_PRICE": "6500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "152",
+                "CONTROL_NO": "CIP2016017948",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157528424",
+                "INPUT_DATE": "20160722",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "ENJOY 여행스페인어",
+                "PUBLISH_PREDATE": "20160725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

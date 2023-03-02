@@ -1,0 +1,67 @@
+{
+    "otitle": "지구 격동의 이력서, 암석 25",
+    "oauthor": "도널드 R. 프로세로 저/김정은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지구 격동의 이력서, 암석 25 (우주, 지구, 생명의 퍼즐로 엮은 지질학 입문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481957656",
+                "image": "https://shopping-phinf.pstatic.net/main_3248195/32481957656.20221019152825.jpg",
+                "author": "도널드 R. 프로세로",
+                "discount": "22500",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20210709",
+                "isbn": "9788964621622",
+                "description": "지구와 우주의 25가지 조각으로 풀어낸 지질과 생명의 수수께끼!\n\n고생물학자이자 지질학자인 도널드 R. 프로세로는 『지구 격동의 이력서, 암석 25』에서, 응회암부터 빙하표석까지 오늘날 이 땅을 이루는 중요한 암석과 그것을 만들어낸 지질현상을 탐구한다. 더불어 이와 관련된 역사적·문화적 배경을 살피면서 지구에 대한 사람들의 생각이 어떻게 달라졌는지 보여주며, 지질학의 발전을 이끈 과학자들의 이야기까지 담는다. 모든 암석에는 약 50억 년 전부터 끊임없이 변화해온 지구의 흔적이 고스란히 새겨져 있다. 이 책은 지구의 격동, 그리고 이를 탐구하는 과학의 역동성을 보여주는 지질학 입문서다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "",
+                "UPDATE_DATE": "20210812",
+                "EA_ADD_CODE": "03450",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "도널드 R. 프로세로 지음 ;김정은 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "455 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964621622",
+                "INPUT_DATE": "20210614",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "지구 격동의 이력서, 암석 25",
+                "PUBLISH_PREDATE": "20210709",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

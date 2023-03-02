@@ -1,0 +1,67 @@
+{
+    "otitle": "유튜브로 인생 역전",
+    "oauthor": "김용주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "유튜브로 인생 역전 (당신은 왜 아직도 유튜버가 아닌가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504686033",
+                "image": "https://shopping-phinf.pstatic.net/main_3250468/32504686033.20221228071842.jpg",
+                "author": "김용주",
+                "discount": "13500",
+                "publisher": "라디오북",
+                "pubdate": "20190502",
+                "isbn": "9791196457648",
+                "description": "대한민국을 뒤흔들고 있는 유튜브, \n그 유튜브를 장악한 톱클래스 유튜버 16인의 놀라운 인사이트를 만나다!\n\n이 책은 현재 가장 핫한 유튜버 16인이 유튜브 하면서 얻은 노하우와 인사이트를 소개하는데 초점을 맞췄다. 취업, 투잡, 퇴직, 인생 역전을 키워드로 인생의 중요한 순간 유튜브로 삶의 활로를 찾은 이들의 이야기를 전한다.\n\n[유튜브로 인생 역전]은 총 4개 챕터로 구성됐다. \n\n챕터 1 ‘취업 대신 유튜버 : 유튜버로 진로 문제 해결한 20대들’은 20대 톱유튜버들을 소개한다. 취업이 아닌 유튜버를 선택한 이들의 고민과 성공, 향후 진로 구상에 대한 인사이트가 펼쳐진다. \n챕터 2 ‘양수겸장, 투잡 뛰는 유튜버 : 유튜브로 월급 두 번 받는 투잡러들’에서는 유튜버와 기존의 일을 병행하며 새로운 수익과 기회를 만드는 이들의 이야기를 담았다. 본업과 유튜브를 병행하는 이유와 목적, 이를 통한 새로운 기회 창출 노하우를 소개한다.\n\n챕터 3 ‘퇴사 그리고 화려한 인생 2막 : 퇴사하고 유튜브로 대박 친 승부사들’에서는 전업 유튜버를 선택한 이유와 이후의 삶, 전업 유튜버로서 성공하는 법을 다룬다.\n\n챕터 4 ' 유튜브로 인생 역전 : 삶의 위기에서 인생 역전한 핫한 유튜버들’에서는 인생의 고비의 순간 유튜브로 대역전을 만든 가장 핫한 크리에이터들을 소개한다. 이들의 이야기에서 유튜브의 미래와 차별화된 콘텐츠를 만드는 법을 알 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Radio Book(라디오북)",
+                "DDC": "",
+                "UPDATE_DATE": "20190510",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김용주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "326.79",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/15/9791196457648.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "289 p.",
+                "CONTROL_NO": "CIP2019014750",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196457648",
+                "INPUT_DATE": "20190415",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "유튜브로 인생 역전",
+                "PUBLISH_PREDATE": "20190502",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

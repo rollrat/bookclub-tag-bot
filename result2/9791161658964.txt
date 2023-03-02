@@ -1,0 +1,67 @@
+{
+    "otitle": "좋아하는 거장의 문장 하나쯤",
+    "oauthor": "붉은여우 편/손창용 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋아하는 거장의 문장 하나쯤 (1일 1문호 문학하는 시간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438180651",
+                "image": "https://shopping-phinf.pstatic.net/main_3243818/32438180651.20221230073222.jpg",
+                "author": "붉은여우",
+                "discount": "11700",
+                "publisher": "지식의숲",
+                "pubdate": "20200425",
+                "isbn": "9791161658964",
+                "description": "좋아하는 작가 있으세요? 라고 물을 때 대답하기 좋은 책\n문학하는 시간을 손에 쥐다!\n단테부터 백석, 장아이링까지 세계적 작가 30인을 한 권에 담다.\n\n고전문학과 현대문학에 관심은 있지만 수없이 많은 작가와 작품목록, 주눅 들게 하는 책의 두께까지… 누구의 어떤 작품부터 읽으면 좋을까? 『좋아하는 거장의 문장 하나쯤』은 천재 또는 거장이라 불리는 세계 문호 30명을 한 권에 담았다. 『신곡』의 단테부터 『어린 왕자』의 생텍쥐페리까지, 중국 근대의 쉬즈모부터 우리나라의 백석까지 모았다. 거장들의 위대했던, 그러나 알려지지 않았던 삶의 이야기와 거장들이 남긴 명언과 작품 속 문장들을 가려 뽑았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "지식의숲 :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20200511",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "붉은여우 엮음",
+                "SERIES_TITLE": "",
+                "KDC": "809",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/04/14/9791161658964.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "313 p.",
+                "CONTROL_NO": "CIP2020015398",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161658964",
+                "INPUT_DATE": "20200414",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "좋아하는 거장의 문장 하나쯤",
+                "PUBLISH_PREDATE": "20200425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

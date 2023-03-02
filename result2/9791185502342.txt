@@ -1,0 +1,67 @@
+{
+    "otitle": "쉼표, 부산",
+    "oauthor": "박진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쉼표, 부산 (휴식이 필요한 당신을 위한 맞춤 부산 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492617182",
+                "image": "https://shopping-phinf.pstatic.net/main_3249261/32492617182.20230216071247.jpg",
+                "author": "박진",
+                "discount": "13500",
+                "publisher": "클",
+                "pubdate": "20160415",
+                "isbn": "9791185502342",
+                "description": "손 안에 쏙 들어오는 알차고 친절한 여행서. 부산을 총 5개 권역으로 나누어 시간의 흐름에 따라 둘러보면 좋을 순서의 코스를 제시하고, 각 코스는 하루를 기준으로 하여 짧은 시간 방문해도 무리가 없도록 여행자의 동선을 고려했다. \n\n\n\n주요 명소 앞뒤로 소개하는 꼼꼼하고 친절한 팁과 권역별 여행하기 좋은 시기, 장소 간 이동 시간과 방법, 장소별 소요시간, 그리고 현지 주민이 직접 추천하는 장소의 숨은 매력과 활용 노하우 ‘부산시민 추천 별점’ 등은 실제 여행지에서 유용하게 활용할 수 있다. 무엇보다도 부산에서 태어나고 자란 저자가 보여주고 들려주는 부산의 풍경과 이야기는 마치 친구와 함께 여행하는 느낌을 준다.\n\n\n\n자갈치시장, 태종대, 해운대해수욕장 등 부산의 유명한 관광 명소부터 매일 오후 2시 바다 위로 열리는 영도대교, 누구에게나 한 가지 소원을 들어준다는 해동용궁사까지 부산의 명소 21곳과 여행의 풍성함을 더할 22곳의 장소를 골라 알차게 즐기는 방법을 안내한다. \n\n\n\n마지막으로 여행의 가장 큰 고민인 맛집, 카페, 숙소는 이동 수단과 취향에 따라 선택할 수 있도록 147곳을 엄선했다. 사직야구장, 금정산, 범어사 등 놓치기 아쉬운 명소들도 꼼꼼하게 짚어 부산에 처음 가는 이도, 갑자기 떠나는 이도 재미있고 새롭게 부산을 만날 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)출판사 클",
+                "DDC": "915.1904",
+                "UPDATE_DATE": "20160427",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박진",
+                "SERIES_TITLE": "",
+                "KDC": "981.18902",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5327140_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5327140_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 336페이지 내외",
+                "CONTROL_NO": "CIP2016008021",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185502342",
+                "INPUT_DATE": "20160325",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "쉼표 부산",
+                "PUBLISH_PREDATE": "20160415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

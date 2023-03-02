@@ -1,0 +1,67 @@
+{
+    "otitle": "대멸종 연대기",
+    "oauthor": "피터 브래넌 저/김미선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "대멸종 연대기 (멸종의 비밀을 파헤친 지구 부검 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464754593",
+                "image": "https://shopping-phinf.pstatic.net/main_3246475/32464754593.20221228073607.jpg",
+                "author": "피터 브래넌",
+                "discount": "19800",
+                "publisher": "흐름출판",
+                "pubdate": "20190628",
+                "isbn": "9788965963240",
+                "description": "미국에서 가장 주목 받는 젊은 과학저널리스트 피터 브래넌이 3년여의 추적과 연구 끝에 완성한 대멸종 연구서의 최종판이다. 브래넌의 작가 데뷔작인 『대멸종 연대기』는 출간 이후 아마존닷컴 분야 1위(환경 재난 분야), 포브스 선정 베스트북 10, [뉴욕타임스] 베스트셀러 및 에디터스 초이스(2017), [사이언티픽 아메리칸] 선정 이 달의 책 등에 선정되며 대멸종 연구서의 한 획을 그었다는 평가를 받고 있다. 또한 더 나은 세상을 위해 공헌한 책에 수여하는 노틸러스상(nautilus book awards, 2017)을 수상했으며, [사이언스] [뉴요커] [보스턴글로브] [이코노미스트] TED.com 등 유력 매체의 극찬을 받기도 했다. 부분적으로는 여행서이자 역사서이며 인류의 자연에 대한 무신경을 꼬집는 경고가 담겨 있는 이 책은, 지구가 죽음에서 스스로 깨어난 방법들을 알려주면서 또 한 번의 대멸종을 멈추기 위해 인류가 무엇을 해야 하는지를 깨닫게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판",
+                "DDC": "",
+                "UPDATE_DATE": "20190710",
+                "EA_ADD_CODE": "03450",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "피터 브래넌 지음 ;김미선 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "476.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "446 p., 도판 [14] p.",
+                "CONTROL_NO": "CIP2019019546",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965963240",
+                "INPUT_DATE": "20190517",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "대멸종 연대기",
+                "PUBLISH_PREDATE": "20190628",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

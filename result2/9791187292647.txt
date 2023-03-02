@@ -1,0 +1,67 @@
+{
+    "otitle": "너의 기억을 지워줄게",
+    "oauthor": "웬디 워커 저/김선형 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "너의 기억을 지워줄게",
+                "link": "https://search.shopping.naver.com/book/catalog/32466697821",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466697821.20221229071230.jpg",
+                "author": "웬디 워커",
+                "discount": "13320",
+                "publisher": "북로그컴퍼니",
+                "pubdate": "20170711",
+                "isbn": "9791187292647",
+                "description": "모두 지워버리는 것만이 최선일까?\n\n워너 브라더스에서 영화 판권을 계약하고 배우 리즈 위더스푼의 제작 및 출연이 예정되어 있는 웬디 워커의 심리스릴러 데뷔작 『너의 기억을 지워줄게』. 강간 사건의 피해자인 열다섯 소녀 제니. 트라우마를 최소화하기 위해 ‘망각 치료’를 받지만 그것이 또다른 악몽의 시작이 되면서 벌어지는 이야기를 담았다. 나쁜 기억을 모조리 지워버리는 것이 최선일지 생각하게 하며 ‘기억’이란 현재를 살아가는 한 인간으로서 ‘존재’ 이유와 마찬가지라는 것을 다시 한 번 되새기게 하는 작품이다.\n\n미국 코네티컷의 작은 도시 페어뷰. 파티장에서 나온 열다섯 소녀 제니 크레이머는 집 뒤편 숲에서 강간당했다. 끔찍한 절규가 울려 퍼졌고, 결국 그 소리를 들은 누군가가 달려왔지만 놈은 사라진 후였다. 곧바로 병원으로 옮겨진 제니는 어머니 샬럿의 결정으로 ‘외상 후 스트레스’를 최소화하기 위해 끔찍한 트라우마를 지워버리는 ‘망각 치료’를 받게 된다. 겉보기에 제니는 PTSD의 기미도 보이지 않았다. 제니를 치료한 망각 요법은 성공 사례로 크게 소문이 날 정도였다. \n\n그러나 혹자들이 ‘기적’의 치료라고 하는 그 요법은 마술이 아니었다. 제니는 강간을 기억하지 못했고, 그날 밤 숲에서 일어난 일은 세심하게 가공됐지만 제니는 그날 이후 줄곧 알 수 없는 불안과 공포에 시달렸고, 그걸 멈출 방법을 알지 못했다. 제니에게서 거품처럼 보글거리던 즐거움이 싹 사라졌고, 8개월 후 제니는 자살 시도를 하게 된다. 자살 기도 실패 후 제니는 지워진 기억을 되살리기로 결심하고 정신과 의사 앨런을 만나 상담을 하게 된다. 앨런은 가여운 소녀에게 그날의 악몽을 돌려주기로 결심한다. 감추어진 비밀들이 한데 엉키고, 마침내 충격적 진실이 그 실체를 드러내는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로그컴퍼니",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20170720",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "웬디 워커 지음 ;김선형 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6250916_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6250916_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "375 p.",
+                "CONTROL_NO": "CIP2017014310",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187292647",
+                "INPUT_DATE": "20170615",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "너의 기억을 지워줄게",
+                "PUBLISH_PREDATE": "20170710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

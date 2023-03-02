@@ -1,0 +1,67 @@
+{
+    "otitle": "마케팅 지배사회",
+    "oauthor": "송재도 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마케팅 지배사회 (소진, 파괴 그리고 불평등)",
+                "link": "https://search.shopping.naver.com/book/catalog/33435240721",
+                "image": "https://shopping-phinf.pstatic.net/main_3343524/33435240721.20221230073019.jpg",
+                "author": "송재도",
+                "discount": "15300",
+                "publisher": "들녘",
+                "pubdate": "20170131",
+                "isbn": "9791159252259",
+                "description": "한국은 수명, 건강, 소득과 같은 객관적 부분에서 긍정적인 성과를 달성해왔다. 그러나 주관적인 경제적 만족감과 전체적인 행복 수준은 낮게 평가되고 있다. 이와 관련하여 불평등의 심화에 따른 상대적 결핍감과 미래에 대한 불안감, 여가의 부족 등 절대적인 소득 증가와는 별개의 문제들이 논의될 필요가 있다. 개개인의 여가와 가족에 대한 배려, 공동체에 대한 공헌, 사회적 약자의 배려, 환경보호와 같은 문제들을 외면하고 소비와 소득 증가에 매진하는 사이 우리는 악순환의 과정에 빠져들었다. 성장 중심의 경제는 빈부격차와 사회적 불안정성을 심화시켰다. \n\n\n\n소비문화와 행복을 위한 성찰을 위해 저자는 1장 ‘소비문화의 형성과 문화의 힘’을 논하고, 2~6장에서 마케팅의 논리와 구체적인 실행방식을 설명한다. 7장 ‘소비, 부와 개인의 행복’에서는 소비와 부의 추구가 개인의 행복 수준에 미치는 영향들을 검토하고 8장 ‘소득과 형평성, 사회의 행복’에서는 사회 전반의 소득 수준, 형평성 수준이 행복에 미치는 영향을 검토한다. 마지막으로 9장과 10장은 이런 악순환의 문제와 관련하여 우리 경제 시스템에 대한 구조적 이해를 시도하고 개선방안을 논의한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "658.8",
+                "UPDATE_DATE": "20170221",
+                "EA_ADD_CODE": "93320",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "송재도",
+                "SERIES_TITLE": "",
+                "KDC": "325.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6005254_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6005254_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "328",
+                "CONTROL_NO": "CIP2016031389",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159252259",
+                "INPUT_DATE": "20161219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마케팅 지배사회",
+                "PUBLISH_PREDATE": "20170131",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

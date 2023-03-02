@@ -1,0 +1,67 @@
+{
+    "otitle": "왜 플라스틱이 문제일까?",
+    "oauthor": "강신호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왜 플라스틱이 문제일까? (10대에게 들려주는 플라스틱 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441647626",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441647626.20221019142409.jpg",
+                "author": "강신호",
+                "discount": "11700",
+                "publisher": "반니",
+                "pubdate": "20210409",
+                "isbn": "9791191214567",
+                "description": "2050년에는\n물고기보다 플라스틱이 더 많아질 거라고?\n\n플라스틱처럼 자본주의에 꼭 맞는 물질도 없다.\n짧은 시간에 수도 없이 만들어지며 자유롭게 변형되고 썩지도 않기 때문이다.\n그런데 수많은 플라스틱이 이제 갈 곳을 잃었고\n우리 손으로 만든 플라스틱의 운명을 책임질 때가 오고 있다.\n플라스틱의 미래는 어떤 모습이어야 할까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "43300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강신호",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "146*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "147 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191214567",
+                "INPUT_DATE": "20210311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "왜 플라스틱이 문제일까?",
+                "PUBLISH_PREDATE": "20210331",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "재무제표 처음공부",
+    "oauthor": "대럴 멀리스,주디스 올로프 저/백승우 역/신현식 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재무제표 처음공부 (실제 사례로 기초부터 배우는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482667292",
+                "image": "https://shopping-phinf.pstatic.net/main_3248266/32482667292.20221230074935.jpg",
+                "author": "대럴 멀리스^주디스 올로프",
+                "discount": "13950",
+                "publisher": "이레미디어",
+                "pubdate": "20180528",
+                "isbn": "9791188279166",
+                "description": "<b>재무제표는 어렵다? 쉽다!\n레모네이드 가판 사업으로 배우는 신선하고 재미있는 재무제표의 기초</b>\n\n세계적인 기업은 무엇으로 회사의 가치와 존재를 증명할까? 바로 재무제표다. 누구나 다 아는 구글, 페이스북, 애플을 포함해 삼성전자, 네이버 등의 모든 회사는 재무제표로 자신을 나타낸다. 하지만 우리에게는 커다란 문제가 있다. 재무제표를 보고 나서도 무슨 말인지 하나도 이해할 수 없다는 것. 이유인즉슨 재무제표는 머리가 지끈거릴 정도로 복잡한 숫자와 알 수 없는 외계어로 쓰인 탓이다.     \n\n그렇다면 재무제표는 원래 이렇게 어려운 것일까? 질문에 대한 대답은 ‘No’다. 애플이든 삼성전자든 상관없이 본질은 결국 내 돈과 남의 돈을 이용해 물건을 만들고, 이를 통해 이익을 내는 것이다. 단지 이를 회계의 언어로 나타낼 뿐이며, 핵심을 알면 재무제표가 쉽다는 것이다. 그러므로 재무제표 공부의 가장 중요한 포인트는 ‘핵심적인 회계 원리를 완벽히 이해하느냐’에 달렸다. 어렵고 복잡한 세부사항에 집착할 것이 아니라, 재무제표들이 상호적으로 어떻게 작용하고 맞물리는지 이해하는 큰 그림을 보아야 한다는 것이다. 《재무제표 처음공부》는 바로 그 점에 주목했다. 레모네이드 가판 경영이라는 책 속의 체험을 통해 독자가 직접 재무제표를 작성하고, 이 과정을 통해 저절로 핵심 개념을 이해하게 된다. 처음부터 끝까지 가볍게 읽기만 하면, 그 어렵던 재무제표의 원리를 온전히 내 것으로 만들어 실제에 적용할 수 있게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "657.3",
+                "UPDATE_DATE": "20180529",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "대럴 멀리스,주디스 올로프 지음 ;백승우 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.93",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6628004_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6628004_3.jpg",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6628004_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2018011678",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188279166",
+                "INPUT_DATE": "20180412",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(실제 사례로 기초부터 배우는) 재무제표 처음공부",
+                "PUBLISH_PREDATE": "20180528",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

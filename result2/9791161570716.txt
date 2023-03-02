@@ -1,0 +1,67 @@
+{
+    "otitle": "이중 연인",
+    "oauthor": "전경린 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이중 연인 (전경린 소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492207528",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492207528.20230131162903.jpg",
+                "author": "전경린",
+                "discount": "9900",
+                "publisher": "나무옆의자",
+                "pubdate": "20191022",
+                "isbn": "9791161570716",
+                "description": "사랑이 서로의 폐허를 덮어주고 \n시원의 얼굴을 건져낼 수 있을까\n\n‘정념情念’의 작가 전경린 신작소설\n비스듬히 어긋난 연인 사이에 흘렀던 사랑 이야기\n\n마음을 열고 한 사람을 받아들이면 다른 사람이 동시에 다가온다. 동시성의 법칙은 연애 월드에서 꽤 알려진 징크스이다. 파스칼은 말한다. 정념情念은 지나치지 않으면 아름답지 않다. 사람은 지나친 사랑을 하지 않을 때는 충분히 사랑하지 않은 것이다. ‘정념의 작가’, 혹은 '대한민국에서 연애소설을 가장 잘 쓰는 작가'로 불리는 소설가 전경린의 신작 『이중 연인』이 나무옆의자에서 출간되었다. 섬세한 문장과 강렬한 묘사로 삶과 사랑의 양면성을 그려내는 작가 전경린의 이 번 신작 『이중 연인』은 『이마를 비추는, 발목을 물들이는』(문학동네) 이후 이 년 만이며, 장편소설로는 열세 번째 작품이자 고품격 로맨스소설을 표방하고 있는 나무옆의자 ‘ROMAN COLLECTION’ 시리즈의 열세 번째 작품이기도 하다. \n\n전경린의 장편소설 『이중 연인』은 사랑이 서로의 폐허를 덮어주고 시원의 얼굴을 건져낼 수 있는지를 묻는 소설이다. 작가는 비스듬히 어긋난 연인 사이에 흘렀던 어찌할 수 없는 지독한 사랑 이야기를 가을 하늘에 새떼처럼 풀어놓았다. 아울러 『이중 연인』은 어떤 여자에게는 한 번도 일어나지 않았을 수도 있고 어떤 여자에게는 예사로운 일인지도 모를 ‘이중 약속’에 관한 이야기다. 부주의하게 겹쳐버린 약속, 중복되는 사랑 이야기인 셈이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무옆의자",
+                "DDC": "",
+                "UPDATE_DATE": "20191023",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 전경린",
+                "SERIES_TITLE": "ROMAN COLLECTION",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186748046",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "CIP2019039531",
+                "SERIES_NO": "13",
+                "EA_ISBN": "9791161570716",
+                "INPUT_DATE": "20191004",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이중 연인",
+                "PUBLISH_PREDATE": "20191022",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "피터 팬과 웬디",
+    "oauthor": "제임스 매슈 배리 저/박중서 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:30 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "피터 팬과 웬디",
+                "link": "https://search.shopping.naver.com/book/catalog/32466598633",
+                "image": "https://shopping-phinf.pstatic.net/main_3246659/32466598633.20221019142257.jpg",
+                "author": "제임스 베리",
+                "discount": "14850",
+                "publisher": "푸른사상",
+                "pubdate": "20210501",
+                "isbn": "9791130817866",
+                "description": "우리 마음속에 영원히 살아 있는 피터 팬 이야기\n\n제임스 매튜 배리의 세계적인 명작 『피터 팬과 웬디』(김명복 옮김)가 푸른사상의 〈세계문학전집 6〉으로 출간되었다. 자라지 않는 소년 피터 팬과 달링 가의 세 아이들이 독자들을 환상적인 네버랜드로 안내한다. 어린이뿐만 아니라 어른에게도 따듯하고 풍부한 기쁨과 상상력을 되찾아주는 피터 팬의 이야기는 우리 마음속에 영원히 살아 있다."
+            },
+            {
+                "title": "피터 팬과 웬디",
+                "link": "https://search.shopping.naver.com/book/catalog/32503467649",
+                "image": "https://shopping-phinf.pstatic.net/main_3250346/32503467649.20221019142812.jpg",
+                "author": "제임스 베리",
+                "discount": "10800",
+                "publisher": "현대문학",
+                "pubdate": "20140224",
+                "isbn": "9788972756910",
+                "description": "결코 자라지 않는 아이 ‘피터 팬’을 만나다!\n\n시대를 초월한 아동문학의 고전 『피터 팬과 웬디』. 초판이 발행된 이래 한 세기를 지나오는 동안 여전히 신비로운 매력을 잃지 않고 전 세계 독자들을 황홀하게 한 ‘피터 팬’의 신화를 엿볼 수 있다. 어린이, 학생, 교사, 부모, 나아가 고전 읽기를 다시 시도하는 이들에게 충실한 길잡이가 되어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른사상(푸른사상사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210622",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.prun21c.com",
+                "AUTHOR": "지은이: 제임스 매튜 배리 ;옮긴이: 김명복",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/21/9791130817866.jpg",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791130817866",
+                "INPUT_DATE": "20210421",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "피터 팬과 웬디",
+                "PUBLISH_PREDATE": "20210501",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

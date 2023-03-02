@@ -1,0 +1,78 @@
+{
+    "otitle": "나혼자 끝내는 프랑스어 단어장",
+    "oauthor": "김정란 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:46 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나혼자 끝내는 프랑스어 단어장 (MP3 + 단어 암기 동영상 포함)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482814647",
+                "image": "https://shopping-phinf.pstatic.net/main_3248281/32482814647.20230207163832.jpg",
+                "author": "김정란",
+                "discount": "10080",
+                "publisher": "넥서스",
+                "pubdate": "20171030",
+                "isbn": "9791161651552",
+                "description": "『나혼자 끝내는 프랑스어 단어장』은 프랑스어 독학자들이 혼자서 30일 만에 단어를 암기할 수 있도록 구성되어 있습니다. 기초 단어 약 600개를 포함하여 일상생활에서 활용도가 높은 필수 단어 약 2,000개를 수록하고 있습니다."
+            },
+            {
+                "title": "나혼자 끝내는 독학 프랑스어 첫걸음 (단어장 + MP3 무료 다운로드, 8가지 독학용 학습자료 포함)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474598775",
+                "image": "https://shopping-phinf.pstatic.net/main_3247459/32474598775.20230131162733.jpg",
+                "author": "염찬희",
+                "discount": "15300",
+                "publisher": "넥서스",
+                "pubdate": "20170805",
+                "isbn": "9791161650586",
+                "description": "〈나혼자 끝내는 독학 프랑스어 첫걸음〉은 혼자서 프랑스어를 공부하는 분들을 위해 개발된 독학자\n맞춤형 교재입니다. 학원에 다니지 않아도, 단어장이나 다른 참고서를 사지 않아도 이 책 한 권만\n으로 충분히 프랑스어 기초 과정을 마스터할 수 있도록 구성되어 있습니다.\n\n〈나혼자 끝내는 독학 프랑스어 첫걸음〉은 본책과 함께 부록으로 단어장을 제공합니다. 혼\n자 공부하는 학습자들을 위해 총 8가지 독학용 학습자료를 무료로 제공하고 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "448",
+                "UPDATE_DATE": "20171128",
+                "EA_ADD_CODE": "13760",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "김정란 지음",
+                "SERIES_TITLE": "",
+                "KDC": "764",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6382603_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6382603_3.jpg",
+                "PRE_PRICE": "11200",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6382603_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*192",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "224 p.",
+                "CONTROL_NO": "CIP2017025820",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161651552",
+                "INPUT_DATE": "20171009",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "나혼자 끝내는 프랑스어 단어장",
+                "PUBLISH_PREDATE": "20171030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "생각을 멈추고 존재를 시작하라",
+    "oauthor": "아눌라 스님 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "생각을 멈추고 존재를 시작하라",
+                "link": "https://search.shopping.naver.com/book/catalog/32505630675",
+                "image": "https://shopping-phinf.pstatic.net/main_3250563/32505630675.20221229070816.jpg",
+                "author": "아눌라",
+                "discount": "13500",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20151019",
+                "isbn": "9788965702733",
+                "description": "20년 가까이 근본불교의 본향인 스리랑카 등지에서 수행하며 위빠사나를 가르쳐온 아눌라 스님의 에세이. 너무 많은 생각으로 늘 머릿속이 복잡하고, 무언가 해소되지 않는 마음의 갈증으로 괴로운 사람들에게 아눌라 스님은 이렇게 말한다. \n\n\n\n\"타고 온 뗏목이 아무리 고마워도 어깨에 짊어지고 다니지 마라. \n\n스스로 그린 종이호랑이를 보고 무섭다고 호들갑 떨지 마라. \n\n생각을 놓아버리면, 그 어떤 것도 그대를 흔들 수 없다.\"\n\n\n\n생각고문으로 스스로를 괴롭히는 사람들에게, 아눌라 스님은 \"생각은 살아 있는 호랑이가 아니고, 호랑이에 대한 정신적 프린트에 불과한 것이다. 잠시 자신의 내면으로 들어가 그 호랑이를 만날 시간을 가져야 한다. 자기가 그린 호랑이이기 때문에 마음만 먹으면 언제라도 귀여운 강아지로 바꿀 수도 있고, 그냥 텅 비워버릴 수도 있다.\"고 말한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)쌤앤파커스",
+                "DDC": "294.302",
+                "UPDATE_DATE": "20151203",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "아눌라 스님",
+                "SERIES_TITLE": "",
+                "KDC": "220.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4912103_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4912103_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판 변형",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "300",
+                "CONTROL_NO": "CIP2015026335",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965702733",
+                "INPUT_DATE": "20150923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "생각을 멈추고 존재를 시작하라",
+                "PUBLISH_PREDATE": "20151019",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

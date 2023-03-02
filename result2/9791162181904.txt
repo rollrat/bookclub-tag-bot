@@ -1,0 +1,67 @@
+{
+    "otitle": "고양이 샴푸",
+    "oauthor": "이상교 글/김소라 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고양이 샴푸",
+                "link": "https://search.shopping.naver.com/book/catalog/32487182989",
+                "image": "https://shopping-phinf.pstatic.net/main_3248718/32487182989.20221019140305.jpg",
+                "author": "이상교",
+                "discount": "11700",
+                "publisher": "나무생각",
+                "pubdate": "20220303",
+                "isbn": "9791162181904",
+                "description": "어느 날 아침 고양이 샴푸로 머리를 감았더니\n머리카락이 노래지고 두 귀가 삐쭉해지고\n눈꼬리가 샐쭉해졌어요. 설마… 내가?\n\nIBBY 어너리스트 선정, 권정생문학상 수상 작가 \n이상교 시인의 재미난 동시와 김소라 작가의 \n따뜻한 그림이 만나 탄생한 유쾌한 동시 그림책!\n\n“어쩌다 그럴 수도 있지.” 하고 넘기면 될 일이었을지도 몰라요. 고양이 샴푸라고 해도 사람한테만 특별히 해로운 물질이 든 것도 아닐 텐데, 괜히 찜찜했던 거예요. 머리를 몇 번이나 헹궈 감았는데도 계속 찜찜했지요. 학교 가는 길에 만난 동네 고양이들이 다 나한테 관심이 생긴 것 같고, 내 그림자에 꼬리가 달린 것 같은 기분도 들었어요. 머리카락이 노래지는 것 같더니, 창문에 비친 내 얼굴엔 뾰족한 귀가 달렸어요. 이러다 정말 고양이가 되는 것은 아니겠지요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "어린이나무생각 :나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20220503",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이상교 시 ;김소라 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*255",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[36] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162181904",
+                "INPUT_DATE": "20220210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "고양이 샴푸",
+                "PUBLISH_PREDATE": "20220303",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

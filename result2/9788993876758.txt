@@ -1,0 +1,67 @@
+{
+    "otitle": "명언의 힘",
+    "oauthor": "이탄 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "명언의 힘 (한줄의 메시지가 인생을 움직인다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480568937",
+                "image": "https://shopping-phinf.pstatic.net/main_3248056/32480568937.20221229071718.jpg",
+                "author": "이탄",
+                "discount": "10800",
+                "publisher": "아름다운날",
+                "pubdate": "20141212",
+                "isbn": "9788993876758",
+                "description": "인류 역사를 빛낸 동서고금 최고의 명언들을 담은 책. 명언은 짧은 한 줄의 글이지만 그 속에는 끊임없는 도전으로 자신의 인생을 성공으로 이끌었던 사람들, 어려운 조건 속에서도 꿈을 이루고 행복한 삶을 누렸던 사람들의 경험과 세상을 보는 통찰력이 들어있다. 명언에는 사람의 마음을 뒤흔들고 이 세계에 새롭게 눈을 뜨게 해주는 강력한 힘이 있다. \n\n\n\n이 한 권에 담긴 236가지의 명언들은 절망에 빠져 허우적거릴 때에나 중대한 선택의 갈림길에 서 있을 때, 불안과 무기력에 시달릴 때에, 내 앞을 비추는 빛이 되기도 하고, 나아갈 방향을 가르쳐주는 나침반이 되기도 하고, 무엇보다 꿈을 향해 가느라 힘겨운 지금의 나를 지탱해줄 든든한 버팀목이 되어 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아름다운 날",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20150102",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이탄",
+                "SERIES_TITLE": "",
+                "KDC": "199.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4146635_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4146635_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014034152",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993876758",
+                "INPUT_DATE": "20141124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "명언의 힘",
+                "PUBLISH_PREDATE": "20141212",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

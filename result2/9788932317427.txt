@@ -1,0 +1,67 @@
+{
+    "otitle": "그 남자의 재즈 일기",
+    "oauthor": "황덕호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그 남자의 재즈 일기 (재즈 입문자를 위한 명반 컬렉션)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492636846",
+                "image": "https://shopping-phinf.pstatic.net/main_3249263/32492636846.20221019143034.jpg",
+                "author": "황덕호",
+                "discount": "24300",
+                "publisher": "현암사",
+                "pubdate": "20150710",
+                "isbn": "9788932317427",
+                "description": "재즈 입문자를 위한 최고의 레퍼런스 『그 남자의 재즈 일기』. 재즈는 한때 지금의 힙합 같은 핫한 음악이자 불손한 음악이었으며, 팝처럼 널리 대중적인 사랑을 받던 음악이었다. 또 현대 미술처럼 파격적이고 난해한 음악이기도 했다. 모든 것이 그렇듯 재즈도 공부하면 하는 만큼 들리는 음악이고, 역사적 이해가 필요한 음악이다. 재즈 입문자를 위한 최고의 레퍼런스 '그 남자의 재즈 일기'는 ‘그 남자’가 뉴올리언스의 홍등가, 시카고의 클럽, 뉴욕의 뒷골목과 카네기홀을 함께 거닐며 재즈를 읽어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)현암사",
+                "DDC": "781.65",
+                "UPDATE_DATE": "20150724",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "황덕호",
+                "SERIES_TITLE": "",
+                "KDC": "673.53",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4658980_3.jpg",
+                "PRE_PRICE": "27000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4658980_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015016334",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932317427",
+                "INPUT_DATE": "20150615",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "그 남자의 재즈 일기",
+                "PUBLISH_PREDATE": "20150710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

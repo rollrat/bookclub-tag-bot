@@ -1,0 +1,67 @@
+{
+    "otitle": "클래식의 발견",
+    "oauthor": "존 마우체리 저/장호연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "클래식의 발견 (지휘자가 들려주는 청취의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473970170",
+                "image": "https://shopping-phinf.pstatic.net/main_3247397/32473970170.20230110165526.jpg",
+                "author": "존 마우체리",
+                "discount": "15300",
+                "publisher": "에포크",
+                "pubdate": "20210810",
+                "isbn": "9791197070037",
+                "description": "우리는 왜 음악을 들을까?\n작곡가는 어떻게 곡을 구성해낼까?\n악보를 못 읽어도 음악을 즐길 수 있을까?\n\n세계적인 지휘자가 안내하는 고전음악 감상의 모든 것\n\n‘음악가들은 음악을 어떻게 들을까? 그걸 알면 우리가 음악을 듣는 데 어떤 도움이 될까?’ 음악을 좋아하거나 즐겨 듣는 사람이라면 한 번쯤 이런 질문을 머릿속에 떠올려보았을 것이다. 어떻게 해야 잘 들을 수 있을까, 곡을 들을 때 어디에 초점을 맞춰 들어야 할까, 내가 느끼는 감정이 이 곡에 대한 타당한 감정일까……. 음악을 듣는 것은 많은 이들이 할 수 있는 일이다. 하지만 전문적으로 청취나 감상을 훈련받은 적이 없는 대부분의 사람들은 스스로 음악을 제대로 듣고 즐기고 있는 것인지 확신하지 못한다. 과연 우리도 음악가처럼 음악을 들을 수 있을까?\n이 책 『클래식의 발견: 지휘자가 들려주는 청취의 기술』은 평생에 걸쳐 음악을 듣고 연주에 헌신하며 명망 있는 지휘자로, 또 교육자로 이력을 쌓아온 존 마우체리(John Mauceri, 1945~)의 아주 특별한 고전음악 순례기이자 안내서다. 이모부의 하이파이 오디오를 통해 처음으로 라벨의 “새벽”을 듣고 음향 세계에 눈을 뜬 열 살 때부터, 세계적인 마에스트로가 되어 런던 필하모닉 오케스트라와 함께 리하르트 슈트라우스의 〈네 개의 마지막 노래〉를 연주하던 일흔한 살에 이르기까지 음악가이자 청취자로서 그가 건네주는 다채로운 이야기와 풍부한 경험, 250년 역사의 서양 고전음악 레퍼토리에 관한 이론적 지식은, 언제나 음악에 대해 더 알고 싶어 하는 음악 애호가들의 목마름을 한결 시원하게 해소해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "에포크",
+                "DDC": "",
+                "UPDATE_DATE": "20210906",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "http://www.epoch-books.com",
+                "AUTHOR": "존 마우체리 지음 ;장호연 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/17/9791197070037.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "315 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197070037",
+                "INPUT_DATE": "20210701",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "클래식의 발견",
+                "PUBLISH_PREDATE": "20210810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

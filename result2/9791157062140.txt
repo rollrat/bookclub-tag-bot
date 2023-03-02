@@ -1,0 +1,67 @@
+{
+    "otitle": "일본인 이야기 2",
+    "oauthor": "김시덕 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일본인 이야기 2: 진보 혹은 퇴보의 시대 (진보 혹은 퇴보의 시대)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464884398",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464884398.20230217105553.jpg",
+                "author": "김시덕",
+                "discount": "17280",
+                "publisher": "메디치미디어",
+                "pubdate": "20201028",
+                "isbn": "9791157062140",
+                "description": "일본은 물론 한국에서도, 일본은 에도 시대 때 난학을 통해 유럽과의 끈을 놓지 않아 일찍 근대화되었고 다른 아시아 국가들보다 우월했다며 높이 평가하는 경향이 있다. 과연 에도 시대는 진보의 시대였을까, 퇴보의 시대였을까. 이 책은 피지배민들의 삶의 방식을 들여다보며 에도 시대의 참모습을 파헤쳐본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20201106",
+                "EA_ADD_CODE": "04910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김시덕 지음",
+                "SERIES_TITLE": "일본인 이야기",
+                "KDC": "913",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791157061761",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/13/9791157062140.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*214",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "450 p.",
+                "CONTROL_NO": "CIP2020043352",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9791157062140",
+                "INPUT_DATE": "20201013",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "일본인 이야기",
+                "PUBLISH_PREDATE": "20201028",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04910 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

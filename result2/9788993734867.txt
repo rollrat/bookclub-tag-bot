@@ -1,0 +1,67 @@
+{
+    "otitle": "모나리자 바이러스",
+    "oauthor": "티보어 로데 저/박여명 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모나리자 바이러스 (Mona Lisa Virus)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455976892",
+                "image": "https://shopping-phinf.pstatic.net/main_3245597/32455976892.20230110165633.jpg",
+                "author": "티보어 로데",
+                "discount": "13320",
+                "publisher": "북펌",
+                "pubdate": "20160729",
+                "isbn": "9788993734867",
+                "description": "르네상스 시대의 천재들은 이 세계에 무엇을 남겨놓았는가!\n\n인류 역사상 가장 미스터리한 인물인 레오나르도 다빈치와 명작 ‘모나리자’의 탄생 과정과 아름다움을 향한 현대인의 집착, 고정관념을 파고드는 독일의 소설가 티보어 로데의 지적인 추리 스릴러 『모나리자 바이러스』. 현대인의 의식 속에 고착화된 아름다움의 기준은 어디에서부터 어떻게 시작되었는가? 소설은 그 기원을 레오나르도 다빈치의 아틀리에에서 그려진 ‘모나리자’에서 발견한다. \n\n미스 아메리카 선발대회 참가자들이 실종되고, 벌들이 떼죽음을 당한다. 르네상스 시대의 건물들에 연쇄 폭탄 테러가 가해지고, 전 세계의 영상 데이터를 훼손하는 바이러스가 급속도로 퍼진다. 목적도, 이유도 밝혀지지 않은 채 세계 곳곳에서 터지는 사건들로 공포가 확산되는 가운데 FBI의 베테랑 요원 밀너는 이 모든 사건의 관련성을 포착하고 조금씩 실체에 접근해간다.\n\n한편 파트리크 바이시라는 남자로부터 자기 아버지 파벨 바이시의 실종이 헬렌의 딸과 관련되어 있을지도 모른다는 내용의 전화를 받은 헬렌. 거식증으로 요양 중이던 딸 매들린이 갑자기 사라졌다는 사실을 뒤늦게 알게 된 헬렌은 딸의 실종과 관련된 단서를 찾기 위해 폴란드에 있는 파벨 바이시의 저택으로 향한다. 헬렌이 저택의 깊고 어두운 지하실에서 발견한 것은 기이하게도 ‘생화학적 위험’이라는 경고 표지가 붙은 채 격리된 한 점의 그림, ‘모나리자’였다. \n\n목적도, 이유도 밝혀지지 않은 채 세계 곳곳에서 터지는 사건들로 공포가 확산되는 가운데 비밀의 실체에 다가가는 FBI 요원 밀너는 실종된 딸을 찾아 나선 신경미학자 헬렌과 조우한다. 정의감과 모성애로 의기투합한 밀러와 헬렌, 두 사람은 세상을 뒤흔드는 현대의 이 모든 사건이 연결되는 지점에 500년 전 르네상스 시대의 천재 화가 레오나르도 다빈치가 있음을 알게 되는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)프롬북스",
+                "DDC": "833.92",
+                "UPDATE_DATE": "20161031",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "티보어 로데",
+                "SERIES_TITLE": "",
+                "KDC": "853",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5540731_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5540731_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "530",
+                "CONTROL_NO": "CIP2016014960",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993734867",
+                "INPUT_DATE": "20160616",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "모나리자 바이러스",
+                "PUBLISH_PREDATE": "20160729",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

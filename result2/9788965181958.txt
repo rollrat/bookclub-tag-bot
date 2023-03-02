@@ -1,0 +1,67 @@
+{
+    "otitle": "비주얼 로지컬 씽킹",
+    "oauthor": "히라이 다카시,와타나베 다카시 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비주얼 로지컬 씽킹 (생각하는 시간을 단축시키는 노하우 69가지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441646522",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441646522.20221228074855.jpg",
+                "author": "히라이 다카시",
+                "discount": "11700",
+                "publisher": "경향미디어",
+                "pubdate": "20170419",
+                "isbn": "9788965181958",
+                "description": "로지컬 씽킹의 기본을 소개한다. 알기 쉬운 문장과 도표를 활용하여 로지컬 씽킹의 요점을 망라했다. 로지컬 씽킹을 활용하여 결과를 내는 현역 컨설턴트로서 활동하는 저자가 평소에 주의하는 점, 또 컨설팅 회사에서 실시하는 연수 내용을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "경향미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20170627",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "히라이 다카시,와타나베 다카시 지음 ;장인주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965181958",
+                "INPUT_DATE": "20170627",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "비주얼 로지컬 씽킹",
+                "PUBLISH_PREDATE": "20170419",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

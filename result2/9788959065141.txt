@@ -1,0 +1,67 @@
+{
+    "otitle": "바벨탑 공화국",
+    "oauthor": "강준만 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바벨탑 공화국 (욕망이 들끓는 한국 사회의 민낯)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466848273",
+                "image": "https://shopping-phinf.pstatic.net/main_3246684/32466848273.20221019152508.jpg",
+                "author": "강준만",
+                "discount": "13500",
+                "publisher": "인물과사상사",
+                "pubdate": "20190211",
+                "isbn": "9788959065141",
+                "description": "우리는 왜 비싼 집에 사는\n가난한 사람이 되었는가?\n\n욕망의 충족에 미쳐 있는 바벨의 시민들\n“‘바벨탑 멘털리티’의 두 얼굴”\n\n강준만 교수가 ‘바벨탑 공화국’으로 상징되는 한국 사회 전반의 문제를 다루었다. 욕망의 내재와 분출로 응축된 ‘바벨탑’은 같은 인간들 사이에서 더 높은 서열을 차지하기 위한 각자도생형 투쟁을 상징한다. 그래서 수많은 바벨탑이 세워지며, 상호소통이 불가능해진 불통은 이 단계에서부터 나타난다. 이러한 바벨탑은 탐욕스럽게 질주하는 ‘서열 사회’의 심성과 행태, 서열이 소통을 대체한 불통사회를 가리키는 은유이자 상징이다.\n우리 사회는 주거지만 서열화되어 있는 게 아니다. 대학 입시에서부터 취업에 이르기까지 모든 게 다 서열화되어 있다. 서열 없는 나라는 없지만 심각한 건 서열 격차다. 서열 의식이 한국 못지않은 일본만 해도 중소기업의 연봉은 대기업의 80퍼센트를 넘지만, 한국은 겨우 절반 수준이다. 사회적 대접까지 돈으로 환산하자면 절반에도 한참 미치지 못한다. 300인 이상 대기업에서 일하는 정규직과 비정규직 근로자 간의 임금은 최대 4.2배 차이가 난다. 이게 바로 한국의 청년 실업률이 일본의 2배가 넘는 결정적 이유다.\n한국은 사회적 약자에게 매우 가혹하며, 그 결과 우리 사회는 누구에겐 천국이지만 누구에겐 지옥이 되어버렸다. 강준만 교수가 집중하는 의제도 탐욕이 빚어낸 병폐와 그늘이다. ‘왜 아파트와 서울은 성역이 되었나?’, ‘왜 고시원은 타워팰리스보다 비싼가?’, ‘왜 조물주 위에 건물주가 있다고 하는가?’, ‘불로소득 부자를 양산한 약탈 체제’, ‘미친 아파트값의 비밀’, ‘강남에 집중되는 공공 인프라 건설사업’, ‘왜 지방민은 지방의 이익에 반하는 투표를 하는가?’, ‘왜 한국은 야비하고 잔인한 갑질 공화국이 되었나?’ 등 작금의 주요 현안들을 총합한다.  \n강준만 교수는 이러한 문제들의 상당 부분은 기존의 수직지향적 삶을 수평지향적 삶으로 바꾸면 해결될 수 있다고 말한다. 오직 경쟁 일변도로 모든 문제를 해결해보려는 기존의 발상에 ‘협력’과 ‘공존’이라는 가치를 주입시켜야 한다고 제언한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과사상사",
+                "DDC": "301.09519",
+                "UPDATE_DATE": "20190220",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "강준만 지음",
+                "SERIES_TITLE": "",
+                "KDC": "330.911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7129097_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7129097_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7129097_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "283 p.",
+                "CONTROL_NO": "CIP2019002749",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959065141",
+                "INPUT_DATE": "20190123",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "바벨탑 공화국",
+                "PUBLISH_PREDATE": "20190211",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "명동 부자들",
+    "oauthor": "고미숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "명동 부자들 (아무것도 없던 그들은 어떻게 성공했을까)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473030914",
+                "image": "https://shopping-phinf.pstatic.net/main_3247303/32473030914.20221227202834.jpg",
+                "author": "고미숙",
+                "discount": "13500",
+                "publisher": "더난출판사",
+                "pubdate": "20200210",
+                "isbn": "9788984059825",
+                "description": "명동 VIP 자산관리사가 20년간 탐구한 부자들의 지혜\n“부자의 공식을 명동에서 찾다!”\n\n가진 것 없이 시작해 부자의 꿈을 이뤄낸 평범한 사람들의 극적인 인생 스토리와 성공 법칙을 담은 책 《명동 부자들》이 출간됐다. 명동은 대한민국 공시지가 최고액을 매년 갈아치우는 명실상부 국내 최고의 글로벌 상권이다. 그곳에서 묵묵히 땀 흘리며 커다란 부를 쌓은 이들이 있다. 명동 상권의 흥망성쇠를 함께하며 아무것도 없는 바닥에서부터 시작해 수백억 원대, 수천억 원대 자산을 일군 9명의 명동 부자들과 250명의 숨은 부자들. 고미숙 자산관리사는 유명 은행의 VIP 팀장으로 그들과 일하면서 그들이 ‘부자가 된 비결’이 궁금했다. 과연 그들은 어떻게 대한민국 서울의 한복판 명동에서 부자가 되었으며, 왜 그들 중에는 유독 자수성가한 부자들이 많은 것일까?\n\n이 책은 ‘명동 부자들’이 크게 성공한 이유를 파헤친다. 저자는 인터뷰를 통해 100억 원대 의류도매업자부터 1000억 원대 자산운용가까지, 그들이 부자가 된 과정을 유형별로 분류하고, 명동과 부자들의 어제와 오늘을 사례별로 소개한다. 부자들의 생생한 인터뷰는 멘토의 자상한 코칭을 받는 느낌이 든다. 명동에서 시작해 지금도 명동에서 삶을 이어가고 있는 부자들의 독특한 습관에서 흙수저들도 ‘강남 부자들’ 못지 않게 부를 쌓을 수 있는 명동 부자들만의 부의 공식을 전하며 저자는 강조한다. “꿈을 가지세요. 목표를 이루는 과정 속에서 돈은 결과일 뿐.”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "The Nan :더난콘텐츠그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20200221",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "지은이: 고미숙 ;일러스트: 정민영",
+                "SERIES_TITLE": "",
+                "KDC": "327.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "CIP2020003141",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984059825",
+                "INPUT_DATE": "20200121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "명동 부자들",
+                "PUBLISH_PREDATE": "20200210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

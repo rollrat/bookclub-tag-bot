@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 로드무비",
+    "oauthor": "김호영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 로드무비 (다른 사람이 되길 바란 적이 있어?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32451846016",
+                "image": "https://shopping-phinf.pstatic.net/main_3245184/32451846016.20221019151942.jpg",
+                "author": "김호영",
+                "discount": "8910",
+                "publisher": "위고",
+                "pubdate": "20180630",
+                "isbn": "9791186602416",
+                "description": "길 위의 영화들, 길에서 시작해 길에서 끝나는 영화들\n\n고등학교 시절 를 본 후 영혼이 탈출하는 듯한 느낌을 받은 저자. 알아들은 대사라고는 데니스 호퍼가 수도 없이 내뱉었던 “헤이, 맨”밖에 없었지만, 뭔지 모를 강렬한 감정을 느끼며 영화에서 빠져나오지 못한 채 허우적거렸다. 이후 어디론가 떠나서 돌아다니는 영화들에 매료되었고, 이십대 후반부터는 실제로 긴 유학 생활과 해외 체류를 하게 된다. 정주(定住)와는 거리가 먼 떠돌이 생활. 『아무튼, 로드무비』는 저자가 그 생활에서 만난 ‘진짜’ 로드무비들의 세계로 독자를 인도한다. 저자는 말한다. 그런 영화들로 인해 방황이 더 길어졌을 수 있었겠지만, 자기합리화와 무뇌화를 거쳐 삶의 정해진 틀에 스스로를 끼워 맞추는 시간은 덕분에 조금 늦어졌는지도 모른다고."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20180822",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 김호영",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6711120_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6711120_3.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6711120_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "143 p.",
+                "CONTROL_NO": "CIP2018019226",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602416",
+                "INPUT_DATE": "20180618",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 로드무비",
+                "PUBLISH_PREDATE": "20180630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

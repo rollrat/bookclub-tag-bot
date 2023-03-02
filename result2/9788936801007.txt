@@ -1,0 +1,67 @@
+{
+    "otitle": "한권으로 정리한 이야기 중국사",
+    "oauthor": "조관희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한 권으로 정리한 이야기 중국사 (개정신판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436434633",
+                "image": "https://shopping-phinf.pstatic.net/main_3243643/32436434633.20220518132232.jpg",
+                "author": "조관희",
+                "discount": "0",
+                "publisher": "청아출판사",
+                "pubdate": "20031120",
+                "isbn": "9788936801007",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 연명흠;저자 : 정의철;저자 : 정의태;",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "비매품/무료",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "200",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936801007",
+                "INPUT_DATE": "20230227",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "6",
+                "BIB_YN": "N",
+                "TITLE": "UX·UI 디자인 입문",
+                "PUBLISH_PREDATE": "20230228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

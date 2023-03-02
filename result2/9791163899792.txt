@@ -1,0 +1,67 @@
+{
+    "otitle": "시간을 달리는 안경 3",
+    "oauthor": "후시노 미치루 저/김동주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "시간을 달리는 안경 3 (안경의 귀환과 공주왕자의 결혼)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466679996",
+                "image": "https://shopping-phinf.pstatic.net/main_3246667/32466679996.20221019105430.jpg",
+                "author": "Michiru Fushino",
+                "discount": "9000",
+                "publisher": "소미미디어",
+                "pubdate": "20191030",
+                "isbn": "9791163899792",
+                "description": "- 고대로 타임슬립 하게 된 현대 법의학자의 미스터리 시리즈! \n- 포트기스 국가의 캐슬린 공주가 납치되다?! \n- 미궁의 사건을 해결하는 것은 현대법의학! \n\n‘현대 법의학도’는 고대의 살인 미스터리와 고군분투 중!\n\n원래의 세계로 돌아가는 날이 언제인지 모르는 채, \n과거의 마키스 섬에서 살아가는 의대생 사이죠 아스마. \n\n낯선 생활에도 익숙해진 상황에서 \n공주왕자 빅토리아의 결혼 얘기가 갑자기 불거졌다. \n\n대국 앙글레로부터 들어온 요청이어서 거절하기 어려운 상황. \n하지만 쉽게 받아들일 수도 없는 노릇이다……. \n왕 로데릭이 내놓은 답은?! \n그리고 아스마에게는 갑자기 결단을 내려야만 하는 일이 생기는데!\n\n적어도 지금은 이곳이 제가 있어야만 하는 장소니까요.\n\n법의학자가 그려내는 타임슬립 의학 미스터리!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20191101",
+                "EA_ADD_CODE": "04830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "원작: 후시노 미치루 ;일러스트: 미나미노 미시로 ;옮긴이: 김동주",
+                "SERIES_TITLE": "시간을 달리는 안경 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791161906089",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "296 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163899792",
+                "INPUT_DATE": "20190812",
+                "SET_EXPRESSION": "",
+                "VOL": "3",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "시간을 달리는 안경",
+                "PUBLISH_PREDATE": "20191030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04830 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

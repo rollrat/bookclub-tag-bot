@@ -1,0 +1,67 @@
+{
+    "otitle": "하루 5분의 공상은 현실이 된다",
+    "oauthor": "이시다 히사쓰구 저/이수경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하루 5분의 공상은 현실이 된다 (인생의 속도를 높이는 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466668403",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466668403.20221019120548.jpg",
+                "author": "이시다 히사쓰구",
+                "discount": "11610",
+                "publisher": "세개의소원",
+                "pubdate": "20210118",
+                "isbn": "9791196933197",
+                "description": "욕망에 충실한 ‘끌어당김의 법칙‘ \n원하는 것을 착실히 이루어가는 잠재의식 활용의 결정판\n\n한국과 일본 독자를 사로잡은 베스트셀러 《3개의 소원 100일의 기적》 그 두 번째 이야기를 담은 이 책은 수많은 책에서 다루었던 ‘끌어당김의 법칙‘을 매우 현실적, 구체적으로 설명한다. 사소하더라도 정말 원하는 것을 글로 적어, 무의식에 저장하고, 그것으로 향하는 법을 실천적으로 안내했다. 무엇보다 중요한 특징은 돈, 직업 등 현재의 욕망에 충실하게 원하는 것을 끌어당기는 방법을 다루고 있다는 지점이다. 불안의 시대에, 미래와 인생의 방향을 명확히 하고 빠르게 나아가는 방법을 현실적이고 설득력 있게 설명했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세개의소원",
+                "DDC": "",
+                "UPDATE_DATE": "20210309",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이시다 히사쓰구 ;옮긴이: 이수경",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196933197",
+                "INPUT_DATE": "20201203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "하루 5분의 공상은 현실이 된다",
+                "PUBLISH_PREDATE": "20210118",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

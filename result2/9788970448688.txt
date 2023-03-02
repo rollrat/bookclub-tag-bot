@@ -1,0 +1,78 @@
+{
+    "otitle": "광합성의 세계",
+    "oauthor": "이와나미 요조 저/심상철 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:51 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "광합성의 세계 (지구상의 생명을 지탱하는 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455949955",
+                "image": "https://shopping-phinf.pstatic.net/main_3245594/32455949955.20221019124147.jpg",
+                "author": "이와나미 요조",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190228",
+                "isbn": "9788970448688",
+                "description": "생명을 꽃피우는 식물, 그 신비한 이야기!\n\n동물은 식물을 먹이로 해서 살아가지만, 식물은 동물을 먹지 않고도 살아간다. 식물은 생명을 유지하는 데 필요한 유기물을 스스로 합성해 가지만 동물에는 그러한 능력이 없기 때문이다. 자신에게 필요한 유기물을 스스로 만들어 내지 못하는 동물은, 식물이 만든 유기물을 가로채는 수밖에는 별 도리가 없다.\n본래 동물은 먹이를 찾아내느라 여기저기 돌아다녀야 하지만, 식물은 처음부터 그럴 필요가 없다. 식물이 해내는 유기물의 합성작용, 지구 위에 있는 모든 동식물을 지탱해 주는 화학산업이 바로 이 책의 주제인 ‘광합성’이다.\n이 책은 에너지를 만들고 활용하는 광합성의 과정은 물론이고, 다른 생물이나 환경과 영향을 주고받으며 살아가는 신비한 식물의 세계를 여러 각도에서 조명하고 있다. 이 책의 취지는 광합성에 관한 해설을 하자는 것이 아니다. 오묘하게 이뤄지고 있는 대자연의 신비를 우리 인간의 입장에서 볼 때, 저절로 숙연해지는 심정으로 광합성에 관한 이야기를 이해하도록 하고자 한다."
+            },
+            {
+                "title": "광합성의 세계 (지구상의 생명을 지탱하는 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503923972",
+                "image": "https://shopping-phinf.pstatic.net/main_3250392/32503923972.20220527052253.jpg",
+                "author": "이와나미 요조",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "20050530",
+                "isbn": "9788970440019",
+                "description": "이 책은 광합성의 세계에 대해 일반인들도 이해하기 쉽도록 설명하고 있다. 광합성, 광합성의 동력, 원료, 생산과정, 제품과 이용, 빛과 식물 등과 같은 대자연의 신비한 내용을 숙연한 심정으로 서술하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190312",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "이와니미 요조 지음 ;심상철 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "208 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448688",
+                "INPUT_DATE": "20190220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "광합성의 세계",
+                "PUBLISH_PREDATE": "20190228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "아무튼, 메모",
+    "oauthor": "정혜윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:26 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "아무튼, 메모 (이것으로 나의 내일이 만들어질 것이다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466544043",
+                "image": "https://shopping-phinf.pstatic.net/main_3246654/32466544043.20230218110410.jpg",
+                "author": "정혜윤",
+                "discount": "8910",
+                "publisher": "위고",
+                "pubdate": "20200315",
+                "isbn": "9791186602515",
+                "description": "_ 『아무튼, 메모』\n“메모같이 사소한 일에 무슨 의미가 있을까?” 이런 질문에 CBS 라디오 PD 정혜윤은 되묻는다. 우리는 항상 사소한 것들의 도움 및 방해를 받고 있지 않냐고. 강아지가 꼬리만 흔들어도 웃을 수 있지 않냐고, 미세먼지만 심해도 우울하지 않냐고, 소음만 심해도 떠나고 싶지 않냐고. 그리고 덧붙인다. 몇 문장을 옮겨 적고 큰 소리로 외우는 것은 전혀 사소한 일이 아니라고. ‘사소한 일’이란 말을 언젠가는 ‘자그마한 기적’이라고 부르고 싶어질 것이라고.\n『아무튼, 메모』는 메모는 삶을 위한 재료이자 예열 과정이라고 믿는 한 메모주의자의 기록으로, 비메모주의자가 메모주의자가 되고, 꿈이 현실로 부화하고, 쓴 대로 살 게 된 이야기이다. 그리고 무엇보다 메모장 안에서 더 용감해진 이야기이다."
+            },
+            {
+                "title": "아무튼, 메모(큰글자도서) (이것으로 나의 내일이 만들어질 것이다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497842950",
+                "image": "https://shopping-phinf.pstatic.net/main_3249784/32497842950.20221019135553.jpg",
+                "author": "정혜윤",
+                "discount": "24000",
+                "publisher": "위고",
+                "pubdate": "20220415",
+                "isbn": "9791186602744",
+                "description": "“메모같이 사소한 일에 무슨 의미가 있을까?” 이런 질문에 CBS 라디오 PD 정혜윤은 되묻는다. 우리는 항상 사소한 것들의 도움 및 방해를 받고 있지 않냐고. 강아지가 꼬리만 흔들어도 웃을 수 있지 않냐고, 미세먼지만 심해도 우울하지 않냐고, 소음만 심해도 떠나고 싶지 않냐고. 그리고 덧붙인다. 몇 문장을 옮겨 적고 큰 소리로 외우는 것은 전혀 사소한 일이 아니라고. ‘사소한 일’이란 말을 언젠가는 ‘자그마한 기적’이라고 부르고 싶어질 것이라고.\n『아무튼, 메모』는 메모는 삶을 위한 재료이자 예열 과정이라고 믿는 한 메모주의자의 기록으로, 비메모주의자가 메모주의자가 되고, 꿈이 현실로 부화하고, 쓴 대로 살 게 된 이야기이다. 그리고 무엇보다 메모장 안에서 더 용감해진 이야기이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "",
+                "UPDATE_DATE": "20200317",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 정혜윤",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20200315",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/02/25/9791186602515.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "12000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "165 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602515",
+                "INPUT_DATE": "20200225",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 메모",
+                "PUBLISH_PREDATE": "20200315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

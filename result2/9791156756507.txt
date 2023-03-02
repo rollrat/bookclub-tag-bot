@@ -1,0 +1,67 @@
+{
+    "otitle": "아이 없는 완전한 삶",
+    "oauthor": "엘런 L. 워커 저/공보경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아이 없는 완전한 삶 (아이가 있어도 불행할 수 있듯 아이가 없어도 행복할 수 있다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489500802",
+                "image": "https://shopping-phinf.pstatic.net/main_3248950/32489500802.20221227210132.jpg",
+                "author": "엘런 L. 워커",
+                "discount": "13500",
+                "publisher": "푸른숲",
+                "pubdate": "20160520",
+                "isbn": "9791156756507",
+                "description": "아이 없는 삶은 선택이다!\n\n『아이 없는 완전한 삶』은 아이 없이 살기로 한 어느 임상심리학자가 자신처럼 ‘아이 없는 삶’을 살고 있는 이들을 인터뷰해 엮은 책이다. 아이 없는 사람들의 특징, 이들이 마주하는 현실적인 불안과 문제, 아이가 없기에 누릴 수 있는 행복과 동시에 생각해야 할 미래 및 노후에 대한 생각들이 진솔하게 담겨 있다. \n\n저자는 여러 사례와 함께 각 장마다 ‘아이 없이 완전한 삶을 살기 위해 필요한 질문’을 정리해 넣어 충분히 숙고하도록 독려한다. 또한 ‘아이가 없어서 생기는 불안은 아이가 있어서 드는 불안의 총량과 비슷하다’고 말하며 살면서 누구나 겪는 불안 때문에 헛된 고민에 빠지지 말라고 조언한다.\n\n옳은 길도 틀린 길도 없다. 그저 여러 갈래의 다른 길이 있을 뿐. 아이 없는 삶을 선택한 이들은 누구보다 이 사실을 명확히 깨닫고 있다. 그렇기에 지금 누리고 있는 것을 지키는 것이 가장 행복하다는 것을 잊지 않는다. 저자 또한 우리는 모든 것을 선택할 수 없기 때문에 각자 내린 결정을 받아들이고 남은 인생을 알차게 살기 위해 노력하라고 당부한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)푸른숲",
+                "DDC": "150.2",
+                "UPDATE_DATE": "20160525",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "엘런 L. 워커 지음/ 공보경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "180.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5410496_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5410496_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "292페이지 ",
+                "CONTROL_NO": "CIP2016011314",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156756507",
+                "INPUT_DATE": "20160502",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "아이 없는 완전한 삶",
+                "PUBLISH_PREDATE": "20160520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

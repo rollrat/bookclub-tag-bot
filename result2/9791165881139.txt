@@ -1,0 +1,67 @@
+{
+    "otitle": "장화 신는 날",
+    "oauthor": "이승범 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "장화 신는 날(보드북) (장화로 만든 동물 친구 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492607733",
+                "image": "https://shopping-phinf.pstatic.net/main_3249260/32492607733.20230218110449.jpg",
+                "author": "이승범",
+                "discount": "10800",
+                "publisher": "북극곰",
+                "pubdate": "20210712",
+                "isbn": "9791165881139",
+                "description": "*상상만발 책그림전 당선 작가\n*『굴러 굴러』 이승범 작가의 새로운 그림책\n*다리 숫자로 동물의 분류를 배우는 자연 그림책\n*장화만 신었는데 우정이 솟아나는 우정 그림책\n*신발 가게에서 다양한 색깔의 장화를 고르는 색깔 그림책\n*장화 신고 물장구 치며 배우는 수학 그림책\n\n비 내리는 하루가 즐거워지는 오늘은 장화 신는 날!   \n비가 많이 왔어요. 그래서 여기저기 웅덩이가 생겼어요. 이럴 땐 장화가 필요해요! 신발 가게원숭이 할아버지는 장화를 사러 올 친구들을 기다려요. 신발 가게는 누구에게나 열려 있어요. 신발 가게 선반에는 여러 가지 색깔의 장화들이 줄지어 있어요. 과연 오늘의 첫 번째 손님은 누구일까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20210907",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 이승범",
+                "SERIES_TITLE": "북극곰 꿈나무 그림책",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/06/18/9791165881139.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*170",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "보드북",
+                "PAGE": "[22] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "78",
+                "EA_ISBN": "9791165881139",
+                "INPUT_DATE": "20210618",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "장화 신는 날",
+                "PUBLISH_PREDATE": "20210712",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

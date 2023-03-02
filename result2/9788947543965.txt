@@ -1,0 +1,78 @@
+{
+    "otitle": "나는 일흔에 운동을 시작했다",
+    "oauthor": "이순국 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:00 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나는 일흔에 운동을 시작했다 (인생 후반전이 더 젊어지는 운동법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441626027",
+                "image": "https://shopping-phinf.pstatic.net/main_3244162/32441626027.20221019132824.jpg",
+                "author": "이순국",
+                "discount": "14400",
+                "publisher": "한국경제신문",
+                "pubdate": "20180820",
+                "isbn": "9788947543965",
+                "description": "70세에 운동을 시작해 77세에 운동생리학 박사가 된 \n 전직 대기업 회장의 ‘신체 개조 스토리’\n\n우리나라 30대 그룹 중 하나였던 신호그룹 회장 이순국\n협심증을 이겨내고 더 건강한 몸짱 할아버지로 돌아오다\n\n“장수를 축하한다는 뜻인 희수(喜壽, 77세),\n충분히 오래 산 나이에 저는 책을 쓰기로 결심했습니다. \n몸소 체험한 운동의 효과를 많은 사람들에게 \n알려야겠다는 사명감 때문입니다.”\n\n늦은 정도가 아니라 확실한 노인인 70세부터 운동을 시작하고 공부한 전 신호그룹 회장 이순국 박사가 직접 체험한 운동 효과와 건강한 삶을 유지하기 위한 신진대사 전반에 대한 모든 것. 운동이 우리 건강에서 얼마나 중요하며 어떤 역할을 하는지, 인생 후반전이 더 젊어지는 운동법은 무엇인지 소개한다. 건강한 노년을 위해 누구나 한 번쯤은 읽어야 할 내용, 더 건강하게 장수하려는 장년층은 꼭 알아두고 실천해야 할 구체적인 건강법과 운동 해법을 제시한다."
+            },
+            {
+                "title": "몸짱 할아버지의 청춘 운동법 (나는 일흔에 운동을 시작했다 실천편)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485542943",
+                "image": "https://shopping-phinf.pstatic.net/main_3248554/32485542943.20221019124703.jpg",
+                "author": "이순국",
+                "discount": "17820",
+                "publisher": "한국경제신문",
+                "pubdate": "20190820",
+                "isbn": "9788947545068",
+                "description": "77세에 운동생리학 박사가 된 전직 대기업 회장이 쓴 \n노년에 실내외에서 할 수 있는 근력운동의 모든 것\n\n한때 비즈니스맨의 신화적 존재로 한국 경제계의 한 축을 맡아 맹활약하던 온양펄프의 창업자 이순국 회장이 혜성처럼 등장했다. 그것도 전성기가 한참 지난 팔순 가까운 나이에. 그가 돌아온 까닭은 비즈니스 때문이 아니다. 건강한 삶, 행복한 삶, 패기 넘치는 삶을 전파하기 위해서다. 그의 명함에 새겨진 직함은 ‘한국시니어근력운동실천기구 이사장’이다. 그 아래는 ‘체육학 박사’, ‘상명대학교 특임교수’라는 또 다른 수식어가 붙어 있다. 그동안 도대체 무슨 일이 있었던 것일까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20180829",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "이순국 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947543965",
+                "INPUT_DATE": "20180829",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "나는 일흔에 운동을 시작했다",
+                "PUBLISH_PREDATE": "20180820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

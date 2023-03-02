@@ -1,0 +1,67 @@
+{
+    "otitle": "당신으로 충분하다",
+    "oauthor": "정혜신 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신으로 충분하다 (정신과의사 정혜신의 6주간의 힐링톡)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485005898",
+                "image": "https://shopping-phinf.pstatic.net/main_3248500/32485005898.20221019143004.jpg",
+                "author": "정혜신",
+                "discount": "12420",
+                "publisher": "푸른숲",
+                "pubdate": "20130615",
+                "isbn": "9788971846919",
+                "description": "더 노력하지 않아도, 더 채우지 않아도 괜찮다!\n\n정신과 의사 정혜신의 6주간의 힐링톡『당신으로 충분하다』. 이 책은 정신과 전문의 정혜신이 개발한 심리분석 프로그램 ‘내 마음 보고서’의 상황을 생생하게 전달한 것으로, 분석 결과 평균적 모습을 보인 30대 여성 4명과 저자가 6주간 진행한 집단상담을 토대로 했다. 이 책은 상담참석자들이 자기 감정과 느낌을 표현하는 법을 배우고, 덮어둔 상처를 용기 있게 대면하며 치유에 이르는 과정을 고스란히 담아냈다.\n\n심리서 최초로 ‘집단 상담’ 과정을 따라가면서 치유자와 내담자의 상호작용을 보여준 이 책은 치유받은 사람이 또 다른 사람의 치유자가 되는 치유의 선순환을 확인할 수 있게 한다.  '나는 30대니까, 나는 ~가 부족하니까 ~해야 한다‘는 자기 규정에 갇혀 숨가쁜 하루를 버티고 있는 현대인을 대표하는 내담자들의 상담 과정은 어떤 상처를 지녔든, 어떤 결핍이 있든 ’더 노력하지 않아도, 더 채우지 않아도 괜찮은‘ 그들 각자의 종착지로 인도한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)푸른숲",
+                "DDC": "155.9",
+                "UPDATE_DATE": "20130614",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "정혜신",
+                "SERIES_TITLE": "",
+                "KDC": "186.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20130615",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2735511_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2735511_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "15800",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013007455",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788971846919",
+                "INPUT_DATE": "20130527",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "당신으로 충분하다 ",
+                "PUBLISH_PREDATE": "20120615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

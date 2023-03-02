@@ -1,0 +1,67 @@
+{
+    "otitle": "아무도 문밖에서 기다리지 않았다",
+    "oauthor": "매슈 설리번 저/유소영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무도 문밖에서 기다리지 않았다 (매슈 설리번 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506430787",
+                "image": "https://shopping-phinf.pstatic.net/main_3250643/32506430787.20221230072654.jpg",
+                "author": "매슈 설리번",
+                "discount": "13050",
+                "publisher": "나무옆의자",
+                "pubdate": "20180312",
+                "isbn": "9791161570266",
+                "description": "막다른 골목에 부딪힌 외로운 청년이 남긴 마지막 언어가 되살려낸 20년 전 공포의 밤!\n\n매슈 설리번의 첫 장편소설 『아무도 문밖에서 기다리지 않았다』. 단편소설 《언파운드(Unfound)》로 로버트 올렌 버틀러 상과 플로리다 리뷰 에디터 상을 수상한 저자가 오랫동안 서점에서 일한 경험에서 영감을 얻어 쓴 작품으로, 서점에서 벌어진 한 청년의 자살이 과거 세상을 떠들썩하게 했던 살인사건과 연결되어 반전에 반전을 거듭하는 독창적인 플롯의 미스터리 소설이다. \n\n대도시 개발지구의 브라이트아이디어 서점 점원으로 일하는 리디아 스미스는 좋아하는 책과 괴짜 동료들과 손님들에 둘러싸여 조용히 살아간다. 어느 날 폐점 시간, 서점을 정리하던 리디아는 위층 외딴 서가 사이에서 목을 맨 고아 청년 조이의 시체를 발견한다. 하루 종일 매장에 틀어박혀 온갖 두서없는 주제에 대한 책을 섭렵하던 그의 주머니 안에는 놀랍게도 리디아 자신조차 기억하지 못하는 그녀의 열 살 생일파티 사진이 들어 있다. 사진에는 아픔 없이는 떠올릴 수 없는 그 시절 친구 캐럴과 라지도 함께 찍혀 있다. \n\n조이는 자신의 작은 아파트에 있던 책과 물건들을 리디아에게 유품으로 남긴다. 책에는 엉뚱한 라벨이 붙어 있고, 몇몇 페이지에 작은 사각형 구멍이 잔뜩 뚫려 있다. 언뜻 아무 질서도, 의미도 없어 보이는 구멍. 하지만 분명 여기에 뭔가 있다. 리디아는 조이가 남긴 퍼즐 풀기에 몰입한다. 책 취향처럼 남다른 조이의 유서가 그가 남긴 책과 쌍을 이루는 또 한 권의 책에서 한 장 한 장 펼쳐지고, 리디아는 오랜 세월 굳게 봉인해두었던 어린 시절의 기억과 맞닥뜨리게 되는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무옆의자",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20180328",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 매슈 설리번 ;옮긴이: 유소영",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6551393_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "385 p.",
+                "CONTROL_NO": "CIP2018004971",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161570266",
+                "INPUT_DATE": "20180209",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무도 문밖에서 기다리지 않았다",
+                "PUBLISH_PREDATE": "20180312",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

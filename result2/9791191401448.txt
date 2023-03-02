@@ -1,0 +1,67 @@
+{
+    "otitle": "이것은 작은 브랜드를 위한 책",
+    "oauthor": "이근상 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이것은 작은 브랜드를 위한 책 (우주에 흔적을 남겨라, 2022년 세종도서 교양부문 선정도서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481909736",
+                "image": "https://shopping-phinf.pstatic.net/main_3248190/32481909736.20230224102506.jpg",
+                "author": "이근상",
+                "discount": "13370",
+                "publisher": "몽스북",
+                "pubdate": "20211224",
+                "isbn": "9791191401448",
+                "description": "광고계 혁신의 아이콘 이근상의 30년간의 마케팅 인사이트. 광고 시장은 주로 대기업을 중심으로 돌아간다. 당연한 일이다. 막대한 광고비와 매체 비용을 지불할 수 있는 능력은 거대 자본을 지닌 대기업 브랜드만이 엄두 낼 수 있는 일이다. 그 광고 시장의 중심에서 일해 온 광고 기획자 이근상은 그러나 이러한 시장의 흐름이 이미 무너졌다고 선언한다.\n\n\n\n매체와 플랫폼이 다양해졌고 무엇보다 브랜드와 광고, 세상을 바라보는 사람들의 관점이 다양해졌다. 광고를 통해 메시지를 일방적으로 수용하는 소비자들은 줄고 있고, 이제 ‘나에게 맞는 브랜드’를 스스로 찾아내고 선택하는 소비자들이 늘고 있다.\n\n\n\n큰 브랜드를 성장시켰던 그동안의 방식은 동력을 잃고 반대로 작은 브랜드들은 지금까지와는 다른 방식으로 성장해 자신만의 영역을 구축할 수 있는 기회를 맞게 되었다. 작은 브랜드는 큰 브랜드의 방식을 답습해서는 안 된다. 큰 브랜드와는 다른 자신만의 길을 찾아야 한다. 그 길을 제시하고자 저자는 지금 관심 가질 만 한 66개의 브랜드를 통해 작은 브랜드의 승리법을 설명한다.\n\n\n\n‘깊이’의 성장을 위한 37가지의 구체적 솔루션을 제시하면서 저자는 본인이 현재 주목하고 있는 66개의 브랜드를 예시로 든다. 그 중엔 이 책을 집필하기 위해 찾아낸 작은 글로벌 브랜드도 있고, 저자가 브랜딩을 맡아왔던 대기업 브랜드도 있다. 이미 성장해 규모를 키운 브랜드에서도 작은 브랜드에서 참고할 만 한 포인트를 찾아냈다. 저자가 컨설팅을 하며 안타까운 마음이 들었던 실패 사례, 전혀 새로운 관점으로 브랜드를 성공으로 이끌었던 사례들도 구체적으로 드러냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Mons(몽스북)",
+                "DDC": "",
+                "UPDATE_DATE": "20220124",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이근상 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/12/13/9791191401448.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191401448",
+                "INPUT_DATE": "20211213",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "이것은 작은 브랜드를 위한 책",
+                "PUBLISH_PREDATE": "20211224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

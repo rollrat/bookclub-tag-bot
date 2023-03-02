@@ -1,0 +1,67 @@
+{
+    "otitle": "여백을 번역하라",
+    "oauthor": "조영학 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여백을 번역하라 (원서 사대주의에서 벗어나, 글맛을 살리는 번역 특강)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492277622",
+                "image": "https://shopping-phinf.pstatic.net/main_3249227/32492277622.20230131162920.jpg",
+                "author": "조영학",
+                "discount": "13500",
+                "publisher": "메디치미디어",
+                "pubdate": "20180820",
+                "isbn": "9791157061297",
+                "description": "베테랑 번역가 조영학의 첫 저작-\n번역 17년, 번역 강의 7년\n“잘 읽히는 번역”의 비결\n\n2000년대 초부터 번역가의 길을 걸어온 조영학은 글맛을 살리는 번역으로 유명하다. 3백 명 넘는 번역 지망생과 기성 번역가에게 번역 수업을 해왔다. 『여백을 번역하라』는 17년 번역, 7년 강의에서 얻은 에센스를 담은 책이다. 정확하고 잘 읽히면서도 ‘빠른 번역 작업’은 어떻게 가능한가? 관계대명사 처리나 번역 순서 등을 담은 ‘번역 표준’은 다양한 번역 상황에서 효과적이다. 1부에서 서술한 소탈한 성격만큼이나 솔직한 번역 인생 이야기도 흥미롭다. 저자는 한국 번역 풍토에 대한 비판도 서슴지 않는다. 원서와 원작자를 떠받들다 보니 번역 투를 남발하는 ‘원서 사대주의’에 빠져 있다는 것이다. 문법체계가 다른데도 단어(기호)만 바꾸는 직역을 한다면, 그것이 바로 오역이다. 불편한 번역은 독자들을 책에서 멀어지게 한다. 저자가 내놓은 해법은 ‘여백을 번역하라!’ 출판번역가 박산호와 영화번역가 황석희가 강력 추천했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치",
+                "DDC": "",
+                "UPDATE_DATE": "20180823",
+                "EA_ADD_CODE": "03700",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조영학 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "286 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157061297",
+                "INPUT_DATE": "20180802",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "여백을 번역하라",
+                "PUBLISH_PREDATE": "20180820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

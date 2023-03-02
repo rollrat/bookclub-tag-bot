@@ -1,0 +1,67 @@
+{
+    "otitle": "지식인의 옷장",
+    "oauthor": "임성민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지식인의 옷장 (알고 입는 즐거움을 위한 패션 인문학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436263698",
+                "image": "https://shopping-phinf.pstatic.net/main_3243626/32436263698.20221229071612.jpg",
+                "author": "임성민",
+                "discount": "12150",
+                "publisher": "웨일북",
+                "pubdate": "20170228",
+                "isbn": "9791195677191",
+                "description": "늙지 않는 얼굴은 없어도 늙지 않는 스타일은 있다\n나만의 고유함을 얻기 위한 보편의 지식\n\n검은색 터틀넥 티셔츠에 청바지만 고집했던 스티브 잡스를 두고 패션이 왜 그러냐고 지적했던 사람은 없다. 그는 ‘스타일’을 구축했기 때문이다. 스타일은 비싸고 좋은 옷으로 만들어지는 게 아니다. 사람의 인상, 말투, 분위기가 하루아침에 생겨나지 않듯 스타일도 한 사람의 개성, 취향, 자존감 등이 세월 속에 자연스레 녹아든 결과다. 외모는 늙어도 스타일은 남는다. \n\n스타일은 고유함에서 나오지만, 고유함을 얻으려면 보편의 지식이 필요하다. 옷과 구두에 숨겨진 이야기에 귀를 기울이는 것은 일시적인 유행을 따르기 위해서가 아니다. 현대사회의 온갖 문화와 층층이 얽힌 패션의 거대한 흐름을 먼저 읽고, 그 속에서 나만의 향기를 발견하기 위해서다. 20년 이상 패션계에 몸담아온 저자는 패션의 도도한 장벽을 깨는 데서 출발한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)웨일북",
+                "DDC": "646.3",
+                "UPDATE_DATE": "20170308",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "임성민",
+                "SERIES_TITLE": "",
+                "KDC": "592.023",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6137756_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6137756_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6137756_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 250페이지 내외",
+                "CONTROL_NO": "CIP2017004346",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195677191",
+                "INPUT_DATE": "20170206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "지식인의 옷장",
+                "PUBLISH_PREDATE": "20170228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

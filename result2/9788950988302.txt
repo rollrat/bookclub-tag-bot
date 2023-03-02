@@ -1,0 +1,67 @@
+{
+    "otitle": "바우트원 2",
+    "oauthor": "장우룡 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바우트원 2 (대한민국 공군 창설사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464889588",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464889588.20221019110558.jpg",
+                "author": "장우룡",
+                "discount": "14400",
+                "publisher": "레드리버",
+                "pubdate": "20200625",
+                "isbn": "9788950988302",
+                "description": "1950년 6월, 대한민국 공군의 위대한 비행이 시작된다\n신념으로 하늘을 난 딘 헤스 소령과 한국 공군, 그들의 두 번째 이야기\n\n6.25전쟁 당시 250회 이상 출격해 이름을 빛낸 딘 헤스. 그는 2015년 3월 3일 향년 97세의 나이로 세상을 떠났다. 그의 기체 ‘신념의 조인’은 여전히 한국에서 회자되는 이름이지만, 당시 그의 ‘신념’이 무엇이었는지는 오히려 사람들 기억 속에서 사라져가고 있다.〈바우트 원〉 2권은 6.25전쟁에 참여해 한국 공군의 탄생을 도운 미군 조종사 딘 헤스 소령의 이야기를 다룬다. 그는 자신의 신념에 맞게 다른 나라의 전쟁에도 최선을 다하고, 진정한 군인이 지녀야 할 인류애와 사명감을 보여주었다. 이 책을 통해 우리는 딘 헤스를 그의 유명했던 기체 ‘신념의 조인’으로만 기억하는 것이 아니라, 그가 지켜냈던 수많은 생명과 신념의 가치와 함께 기억하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북이십일 레드리버",
+                "DDC": "",
+                "UPDATE_DATE": "20200730",
+                "EA_ADD_CODE": "07910",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "글·그림: 장우룡",
+                "SERIES_TITLE": "바우트 원",
+                "KDC": "",
+                "EDITION_STMT": "6.25전쟁 70주년 기념 개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788950988326",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*232",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "228 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788950988302",
+                "INPUT_DATE": "20200623",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "바우트원 ",
+                "PUBLISH_PREDATE": "20200625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "07910 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

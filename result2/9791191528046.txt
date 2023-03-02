@@ -1,0 +1,67 @@
+{
+    "otitle": "AI 101, 인공지능 비즈니스의 모든 것",
+    "oauthor": "정지훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "AI 101, 인공지능 비즈니스의 모든 것",
+                "link": "https://search.shopping.naver.com/book/catalog/32438310816",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438310816.20230207163541.jpg",
+                "author": "정지훈",
+                "discount": "19800",
+                "publisher": "틔움출판",
+                "pubdate": "20211006",
+                "isbn": "9791191528046",
+                "description": "인공지능은 곧 인터넷과 같은 길을 걷게 된다!\n\n이제는 “인공지능이 어떤 일을 할 수 있을까?”라는 질문에서 “인공지능이 도대체 할 수 없는 일은 무엇인가?”라는 자조 섞인 질문으로 바뀌었다. 대부분의 전문가는 앞으로 5년 이내에 모든 기술 데이터와 인프라가 AI 기반으로 바뀔 것이라고 말한다. 2010년 전후 모바일에 적응한 기업과 그렇지 못한 기업을 구분했던 것처럼, 모든 제품과 서비스는 AI 기술을 제대로 활용하느냐, 못하느냐로 구분되는 시기가 도래했다.\nAI 기술과 비즈니스에 대한 이해 없이는 미래를 준비할 수 없는 이유다. 이 책은 AI의 역사에서 시작하여 핵심 기술과 비즈니스, AI의 창의성과 공정성, 그리고 인간과의 상호작용까지를 폭넓게 다루고 있다. 또한 단순한 트렌드 분석을 넘어 신기술 분야 투자에 대한 통찰과 기술 스타트업의 관점까지를 모두 다루고 있어 AI에 관심이 있는 초보자에서부터 AI 관련 조직에서 일하는 구성원 모두에게 유용하다. 또한 글로벌 AI 전문가들과의 생생한 인터뷰는 이 책의 가치를 더한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "틔움(틔움출판)",
+                "DDC": "",
+                "UPDATE_DATE": "20211025",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.tiumbooks.com",
+                "AUTHOR": "정지훈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/13/9791191528046.jpg",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "276 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191528046",
+                "INPUT_DATE": "20210913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "AI 101 인공지능 비즈니스의 모든 것",
+                "PUBLISH_PREDATE": "20211006",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

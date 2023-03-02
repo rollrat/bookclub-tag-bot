@@ -1,0 +1,78 @@
+{
+    "otitle": "나는 정신병원에 놀러간다",
+    "oauthor": "원광훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:03 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나는 정신병원에 놀러간다 (편견을 깨고 문턱은 낮추는 원무과 직원의 단단한 목소리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457867827",
+                "image": "https://shopping-phinf.pstatic.net/main_3245786/32457867827.20221019143202.jpg",
+                "author": "원광훈",
+                "discount": "13500",
+                "publisher": "이담북스",
+                "pubdate": "20210910",
+                "isbn": "9791166035029",
+                "description": "정신병원 원무과 직원이 말하는 정신병원 이용 안내서이다. 보호자 동의가 필요한 입원과 자의 입원이 가능한 기준, 대표적인 정신병 증상과 종류, 입원 시 서류가 꼭 필요한 이유, 폐쇄 병동의 풍경 등 정신병원을 움직이는 형편과 까닭을 말한다. 부록으로 전국 정신병원 목록과 연락처를 실었다."
+            },
+            {
+                "title": "나는 정신병원에 놀러간다(큰글자도서) (편견을 깨고 문턱은 낮추는 원무과 직원의 단단한 목소리)",
+                "link": "https://search.shopping.naver.com/book/catalog/36313340621",
+                "image": "https://shopping-phinf.pstatic.net/main_3631334/36313340621.20221213170449.jpg",
+                "author": "원광훈",
+                "discount": "31500",
+                "publisher": "이담북스",
+                "pubdate": "20221202",
+                "isbn": "9791168019478",
+                "description": "정신병원 원무과 직원이 말하는 정신병원 이용 안내서이다. 보호자 동의가 필요한 입원과 자의 입원이 가능한 기준, 대표적인 정신병 증상과 종류, 입원 시 서류가 꼭 필요한 이유, 폐쇄 병동의 풍경 등 정신병원을 움직이는 형편과 까닭을 말한다. 부록으로 전국 정신병원 목록과 연락처를 실었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담북스 :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20211025",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "원광훈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166035029",
+                "INPUT_DATE": "20210803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 정신병원에 놀러간다",
+                "PUBLISH_PREDATE": "20210910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

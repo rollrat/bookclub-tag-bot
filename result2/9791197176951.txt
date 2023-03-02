@@ -1,0 +1,67 @@
+{
+    "otitle": "한 권으로 읽는 비즈니스 명저 100",
+    "oauthor": "김민주,구자룡,한근태,고현숙,허보희,홍재화,이엽 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한 권으로 읽는 비즈니스 명저 100 (경제경영서 읽는 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464623622",
+                "image": "https://shopping-phinf.pstatic.net/main_3246462/32464623622.20230218110556.jpg",
+                "author": "김민주^구자룡^한근태^고현숙^허보희^홍재화^이엽",
+                "discount": "22500",
+                "publisher": "좋은습관연구소",
+                "pubdate": "20210208",
+                "isbn": "9791197176951",
+                "description": "위기를 극복하는 지혜를 얻다!!\n\n이 책은 지난 2000년부터 지금까지, 최근 20년 동안 국내에 출간된 경제경영서 중 우리 사회에 큰 파장을 주었거나 지금 다시 읽어도 그 의미가 각별하다고 판단되는 도서 100권을 선정하고 리뷰한 서평집입니다. 경영 컨설턴트부터 경영학과 교수, 비즈니스 코치 그리고 전현직 CEO 등 총 7분의 비즈니스 전문가가 참여했습니다. 혁신 전략, 미래 전략, 마케팅 전략, CEO와 리더십, 성공과 행복, 행동과 심리, 경제, 인문 사회, 정치 사회 등으로 책을 분류하고 몇 차례 토론 끝에 총 100권을 엄선했습니다. 이 책들은 지금 다시 읽어도 그 의미가 퇴색되지 않는 경영학의 고전들입니다. 변화무쌍하고 위기가 난무하는 세상, 무엇이 본질이고 무엇이 지켜야 할 가치인지, 다시 한번 점검해볼 수 있는 지혜를 제공해주는 책입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "좋은습관연구소",
+                "DDC": "",
+                "UPDATE_DATE": "20210316",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김민주,구자룡,한근태,고현숙,허보희,홍재화,이엽 지음",
+                "SERIES_TITLE": "",
+                "KDC": "029.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "549 p.",
+                "CONTROL_NO": "CIP2020054776",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197176951",
+                "INPUT_DATE": "20201224",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(한 권으로 읽는) 비즈니스 명저 100",
+                "PUBLISH_PREDATE": "20210201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "숲에서 다시 시작하다",
+    "oauthor": "박재희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "숲에서 다시 시작하다 (리셋 원정대의 뉴질랜드 트레킹)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506009914",
+                "image": "https://shopping-phinf.pstatic.net/main_3250600/32506009914.20221019142713.jpg",
+                "author": "박재희",
+                "discount": "12420",
+                "publisher": "꿈의지도",
+                "pubdate": "20160410",
+                "isbn": "9791186581681",
+                "description": "인간의 발길을 허락한 지 백 년도 채 되지 않는 원시의 땅, 뉴질랜드 밀포드 사운드로 7명의 원정대가 트레킹을 떠났다. 평소 ‘3보 이상 승차’를 부르짖던 사람들이 20킬로그램짜리 근심과 욕심의 배낭을 메고 메인 트랙 53.5킬로미터, 폭포와 샛길 트레킹을 합쳐 60킬로미터 산길을 종주했다. 『숲에서 다시 시작하다』는 지친 일상에서 가면을 쓴 채 살아가는 건 더 이상 하지 않기 위해, 자신의 의지와 상관없이 상황에 끌려가는 삶을 멈추기 위해, 태초의 숲에서 다시 시작하기 위해. 리셋 키를 찾으러 떠난 리셋 반지원정대의 신선하고 따뜻하고 유쾌한 트레킹 이야기를 담은 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20160330",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "박재희 ",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "230",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186581681",
+                "INPUT_DATE": "20160304",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "숲에서 다시 시작하다",
+                "PUBLISH_PREDATE": "20160410",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

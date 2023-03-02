@@ -1,0 +1,67 @@
+{
+    "otitle": "컨슈머 인사이트",
+    "oauthor": "김헌식,노정동 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "컨슈머 인사이트 (실질구매력 1위 파워쇼퍼가 된 70년대생의 소비 패턴)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465780625",
+                "image": "https://shopping-phinf.pstatic.net/main_3246578/32465780625.20221230074848.jpg",
+                "author": "김헌식^노정동",
+                "discount": "12600",
+                "publisher": "책들의정원",
+                "pubdate": "20210630",
+                "isbn": "9791164160853",
+                "description": "“우리는 그동안 70년대생을 놓쳤다!”\n생필품·패션·자동차·부동산까지 시장을 주도하는 건 20대가 아니라 머니파워로 무장한 40대\n\n40대는 대한민국 경제를 받치고 있는 ‘허리’와 같은 세대다. 동시에 베이비부머 세대와 밀레니얼 세대 사이를 잇는 ‘다리’가 되는 세대이기도 하다. X세대라 명명될 만큼 독특한 문화 헤게모니를 주도했던 ‘70년대생’들은, 이제 40대로서 대한민국 경제를 이끌어 가는 실질구매력 1위 파워쇼퍼 자리에 올랐다. 그들이 열광하면 곧 유행이 되고, 그들이 구매하면 곧 히트상품이 된다는 이야기다.\n\n책 《컨슈머 인사이트》는 40대가 된 70년대생들이 소득과 고용, 재테크, 라이프스타일, 문화 콘텐츠 분야에서 어떤 경제적 선택을 하는지 사례별로 정리하고 있다. 또한 다양한 통계와 설문 및 기타 조사 등을 통해 그들의 소비 성향을 분석하고 있다. 이 책을 통해 대한민국 소비 시장의 큰 흐름을 파악한다면, 향후 성공적으로 상품을 기획하고 판매하는 데 필요한 마케터로서의 혜안을 가지게 될 것이다.\n\n- 대한민국 경제를 주도하는 40대의 마음을 사로잡는 마케팅\n- 40대가 된 X세대, 70년대생에 관해 다루는 첫 번째 책\n- 베이비부머 세대와 밀레니얼 세대와는 다른 40대의 소비 성향\n- 대한민국 최초의 개인주의 세대가 열광하는 상품들의 특징\n- 다양한 키워드로 파악하는, 40대를 대상으로 한 마케팅 전략"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책들의정원",
+                "DDC": "",
+                "UPDATE_DATE": "20210727",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김헌식,노정동 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/05/06/9791164160853.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "330 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164160853",
+                "INPUT_DATE": "20210506",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "컨슈머 인사이트",
+                "PUBLISH_PREDATE": "20210630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

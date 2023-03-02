@@ -1,0 +1,67 @@
+{
+    "otitle": "흙살림이 좋아",
+    "oauthor": "이혜선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "흙 살림이 좋아 (딱 1년만! 띵굴마님 흉내 내고 농부 되어보기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491890907",
+                "image": "https://shopping-phinf.pstatic.net/main_3249189/32491890907.20221019131828.jpg",
+                "author": "이혜선",
+                "discount": "14400",
+                "publisher": "포북(forbook)",
+                "pubdate": "20140402",
+                "isbn": "9788993418781",
+                "description": "『흙 살림이 좋아』는 3년 간 띵굴마님의 블로그인 《그곳에 그 집》의 ‘흙 살림’ 편에 탑재된 내용을 소개한다.  크게 두 장으로 분류되어 있다. 일 년 열두 달 채소밭 돌보는 요령에서부터 스케줄까지 정리한 핵심 페이지와 그 밭에서 키운 채소 갈무리하고, 음식 해 먹는 이야기로 분류하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포북",
+                "DDC": "",
+                "UPDATE_DATE": "20140417",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이혜선",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993418781",
+                "INPUT_DATE": "20140311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "흙살림이 좋아",
+                "PUBLISH_PREDATE": "20140320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

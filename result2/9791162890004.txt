@@ -1,0 +1,67 @@
+{
+    "otitle": "CentOS7으로 리눅스 핵심 이해하기",
+    "oauthor": "정성재,배유미,신병웅,박정수,신준희,이광용 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "CentOS7으로 리눅스 핵심 이해하기",
+                "link": "https://search.shopping.naver.com/book/catalog/32492767475",
+                "image": "https://shopping-phinf.pstatic.net/main_3249276/32492767475.20230131165206.jpg",
+                "author": "정성재",
+                "discount": "32000",
+                "publisher": "북스홀릭퍼블리싱",
+                "pubdate": "20180330",
+                "isbn": "9791162890004",
+                "description": "리눅스는 공개 소프트웨어라는 특징으로 인해 다양한 배포판이 등장하게 되었고, 사용 분야도 서버, 데스크톱 및 개발, 임베디드 기기 등 다양하게 활용되고 있다. 특히 서버 분야에서는 리눅스 운영체제가 유닉스를 대체하면서 시장을 주도하고 있다. 수많은 리눅스 배포판중에서 서버 분야를 선도한 리눅스를 고른다면 레드햇 리눅스(Red Hat Linux)를 손꼽을 수 있다. 특히 레드햇은 유료 배포판인 Red Hat Enterprise Linux(RHEL)를 출시하고 리눅스 커뮤니티인 fedora 프로젝트를 후원하고 있다. 본 교재에서 다루는 CentOS는 RHEL의 복제판(Clone)으로 커뮤니티 형식으로 운영되던 리눅스이었으나 CentOS 프로젝트를 흡수하고 직접 운영하면서 안정성과 신뢰성이 높아진 상태이다. CentOS는 리눅스 시스템 엔지니어나 서버 관리자를 희망하는 사람에게는 무료로 손쉽게 구할 수 있는 리눅스이다. 특히 상용 버전인 RHEL과 거의 동일한 환경에서 다양한 실습을 해볼 수 있다는 것이 큰 장점이라고 볼 수 있다. 본 교재는 CentOS 7 버전을 기반으로 리눅스에 대해 전반적으로 이해하고, 많이 사용되고 있는 웹, 메일, DNS, FTP 서버 등을 직접 구축해보는 것에 초점을 맞추었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북스홀릭 Publishing(북스홀릭 퍼블리싱)",
+                "DDC": "005.432",
+                "UPDATE_DATE": "20180523",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 정성재,배유미,신병웅,박정수,신준희,이광용",
+                "SERIES_TITLE": "",
+                "KDC": "005.44",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6597969_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "32000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*260",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "723 p.",
+                "CONTROL_NO": "CIP2018008994",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162890004",
+                "INPUT_DATE": "20180319",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(CentOS7으로) 리눅스 핵심 이해하기",
+                "PUBLISH_PREDATE": "20180330",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

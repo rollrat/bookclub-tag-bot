@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 영어를 잘하기로 결정했다",
+    "oauthor": "김성희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 영어를 잘하기로 결정했다 (무엇 때문에 그토록 영어를 공부하는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506078764",
+                "image": "https://shopping-phinf.pstatic.net/main_3250607/32506078764.20230216070944.jpg",
+                "author": "김성희",
+                "discount": "13500",
+                "publisher": "북오션",
+                "pubdate": "20191030",
+                "isbn": "9788967994983",
+                "description": "# 영어는 스킬이 아니라 문화다\n# 영어를 잘한다는 것은 그 나라의 문화를 이해하는 것\n# 문화를 이해함으로써 세계와 소통하며 글로벌 의식이 깨어난다\n# 교육은 단지 입시 때문이 아니라 더 나은 삶을 살기 위함이라는 것을 기억하자\n\n이 책은 영어를 가르쳐주지 않는다. 영어에 대해 말하는 책이 영어를 알려주지 않는다니 다소 황당하게 들릴 수도 있다. 하지만 사실이다. 이 책은 영어를 잘하는 법을 알려주는 게 아니라, 왜 영어를 알아야 하는지, 그럼으로써 우리는 무엇을 성취할 수 있는지를 말한다.\n\n영어는 단지 스킬이 아니다. 영어는 소통의 수단이며, 소통을 함으로써 우리는 상대방의 문화를 받아들이고, 우리의 문화를 이해시킨다. 문화의 교환은 아무리 발음이 좋아도, 회화를 잘해도 이루어지지 않는다. 우리 머리와 마음속에 콘텐츠가 있어야 이루어진다. \n\n영어는 실질적인 세계 공용어인 만큼 영어에서 발생한 문화가 상상을 초월할 수 없을 정도로 다양하게 개발돼 있다. 영어를 배운다는 것은 이 문화를 받아들이기로 마음먹는 것이다. 그럼으로써 우리는 다른 방법으로 생각하게 되고, 우리 머리와 마음속에 콘텐츠가 생겨 좀 더 삶의 질이 풍부해진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북오션콘텐츠그룹 :북오션",
+                "DDC": "",
+                "UPDATE_DATE": "20191125",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김성희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/25/9788967994983.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "CIP2019038098",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788967994983",
+                "INPUT_DATE": "20190925",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 영어를 잘하기로 결정했다",
+                "PUBLISH_PREDATE": "20191030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

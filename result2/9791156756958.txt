@@ -1,0 +1,67 @@
+{
+    "otitle": "망각의 기술",
+    "oauthor": "이반 이스쿠이에르두 저/김영선 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "망각의 기술 (우리가 잊는 것이 우리 자신을 만든다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436239572",
+                "image": "https://shopping-phinf.pstatic.net/main_3243623/32436239572.20221227202913.jpg",
+                "author": "이반 이스쿠이에르두",
+                "discount": "12600",
+                "publisher": "심심",
+                "pubdate": "20170608",
+                "isbn": "9791156756958",
+                "description": "인간에게 기억은 살아가기 위해, 반드시 필요한 요소다. 그런데 그만큼이나 망각도 살아가기 위해 절대적으로 필요하다. 기억과 망각, 떼려야 뗄 수 없는 두 요소가 실제 인간의 뇌에서 어떻게 투쟁하는지, 우리가 어떤 메커니즘으로 특정 사건을 기억하고, 또 잊는 것인지 ‘신경과학’의 관점에서 살펴본 책이 출간되었다.\n\n\n\n인간의 뇌는 일종의 ‘기술’을 써서 어떤 기억을 망각하게 하거나, 망각하도록 촉진한다. 이스쿠이에르두는 뇌가 우리 의지의 영향을 받지 않고 단독으로 이 기술을 행한다고 말한다. 뇌는 왜 자발적으로 망각할까? 가장 큰 이유이자, 핵심적인 이유는 바로 ‘살아가기 위해, 그리고 생존하기 위해’서다. 우리 뇌는 기억을 형성하고 인출하는 기제가 포화하지 않도록 쓰지 않는 기억을 정리해 새로운 기억에 자리를 물려준다. 이 책에 등장하는 ‘망각의 기술’은 모두 4가지로 습관화, 소거, 차별화, 억압이 그것이다. 이 4가지 방식은 모두 기억을 지우는 대신 기억으로의 접근 가능성을 떨어뜨린다. \n\n\n\n사실상 이 4가지가 대부분의 사람이 망각이라고 하는 것(기억을 불러낼 때 그야말로 그 기억이 없는 것)을 이룬다. ‘망각의 기술’은 기억이 떠오르지 않게 하는 이들 4가지 방식을 이용하고, 또 기억을 변조하는 데 집중된다. 따라서 그것은 진짜로 망각을 하는 즉, 기억을 삭제하는 기술이 아니라 뇌가 기억을 억제하는 과정을 우리에게 유리하도록 이용하는 방법을 학습하는 기술이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)푸른숲",
+                "DDC": "153.125",
+                "UPDATE_DATE": "20170616",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "이반 이스키에르도",
+                "SERIES_TITLE": "",
+                "KDC": "181.46",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6230698_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6230698_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "232",
+                "CONTROL_NO": "CIP2017012383",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156756958",
+                "INPUT_DATE": "20170523",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "망각의 기술",
+                "PUBLISH_PREDATE": "20170608",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "디플레 전쟁",
+    "oauthor": "홍춘욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "디플레 전쟁",
+                "link": "https://search.shopping.naver.com/book/catalog/32498726323",
+                "image": "https://shopping-phinf.pstatic.net/main_3249872/32498726323.20221019120459.jpg",
+                "author": "홍춘욱",
+                "discount": "15750",
+                "publisher": "스마트북스",
+                "pubdate": "20200424",
+                "isbn": "9791190238182",
+                "description": "전 세계가 놀랄 한국의 V자 경기회복을 기원하며…\n국내 최고 이코노미스트 홍춘욱의 \n디플레 위험을 이겨내는 투자법\n\n전 세계에 경기침체 위험이 닥쳤다! 한국은 이미 디플레 위험이 감지되고 있었고, 코로나19 쇼크가 그 방아쇠를 당겼다! 국내 최고의 이코노미스트인 저자 홍춘욱 박사는 『디플레 전쟁』에서 한국이 코로나19 쇼크로 인한 경기침체에서 빨리 벗어나려면, ‘효과가 검증된 경제정책만’을 쓰려는 집착에서 벗어나 지금 당장 돈을 푸는 강력한 금융 및 재정정책을 펴야 한다고 주장한다. \n\n경우에 따라서는 2차, 3차 재정정책을 적극적으로 시행해야 한다. 이런 과감한 조치의 효과는 코로나19 쇼크 이후 ‘한국의 강력한 경기회복’으로 돌아올 것이다. 앞으로 저금리, 재정지출 확대 시기가 계속될 것이므로, 개인은 주식이나 부동산 등 위험자산에 대한 관심을 꾸준히 지속하며, 미국 주식 및 한국의 일부 주식, 일부 부동산시장에 주목할 만하다. 또한 저가매수에 관심을 가진 투자자가 주목해야 할 기업유형, 안정지향형 투자를 원하는 사람들을 위한 자산배분 전략도 추천한다. 세계적 경기침체에 혼란한 투자자들에게 많은 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스마트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200512",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.smartbooks21.com",
+                "AUTHOR": "홍춘욱 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "331 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190238182",
+                "INPUT_DATE": "20200415",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "디플레 전쟁",
+                "PUBLISH_PREDATE": "20200424",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

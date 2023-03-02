@@ -1,0 +1,67 @@
+{
+    "otitle": "청소년을 위한 한발 빠른 IT 수업",
+    "oauthor": "이임복 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "청소년을 위한 한발 빠른 IT 수업 (최신 IT 트렌드를 이해하는 41가지 질문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441643781",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441643781.20230207163439.jpg",
+                "author": "이임복",
+                "discount": "12960",
+                "publisher": "매경주니어북스",
+                "pubdate": "20220307",
+                "isbn": "9791164843787",
+                "description": "일상에서 만나는 IT 기술부터 미래 일자리까지\n4차 산업혁명 시대를 살아갈 청소년을 위한 IT 안내서\n\nIT 전문 강사이자 베스트셀러 《메타버스, 이미 시작된 미래》 저자 이임복 선생님이 들려주는 일상 속 IT 이야기. IT 책이라고 해서 어렵고 딱딱할 것이라는 생각은 금물! 이 책은 우리 일상에서 가장 많이 쓰이는 IT 기술들을 Q&A(질문과 답변)로 정리하면서, 단순히 정의와 해답을 제시하는 게 아니라 IT가 왜 이렇게 쓰이고 구성되는지, 이용 방법까지 친절하게 설명되어 있어 실생활에 유용한 책입니다. 알면 알수록 재미있고 신기한 이야기가 가득한 IT의 세계. 《청소년을 위한 한발 빠른 IT 수업》를 읽고 IT 상식과 호기심을 채워보세요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매경주니어 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20220510",
+                "EA_ADD_CODE": "03500",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "이임복 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164843787",
+                "INPUT_DATE": "20220215",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(청소년을 위한) 한발 빠른 IT 수업",
+                "PUBLISH_PREDATE": "20220307",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

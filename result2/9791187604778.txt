@@ -1,0 +1,67 @@
+{
+    "otitle": "밥상 위에 차려진 역사 한 숟갈",
+    "oauthor": "박현진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "밥상 위에 차려진 역사 한 숟갈 (역사 속 한 끼 식사로 만 나는 음식문화사의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466958859",
+                "image": "https://shopping-phinf.pstatic.net/main_3246695/32466958859.20221230074654.jpg",
+                "author": "박현진",
+                "discount": "13500",
+                "publisher": "책들의정원",
+                "pubdate": "20180925",
+                "isbn": "9791187604778",
+                "description": "2015년 겨울부터 지금까지 쉼 없이 연재해온 조선일보 인기 칼럼 '아하! 이 음식' 중 45개의 베스트 칼럼을 한 권의 책으로 엮어냈다. 한국인의 음식문화를 현미경으로 들여다보듯 세밀하게 관찰해온 저자는 現 고려대학교 생명공학원 및 식품공학과 교수이자 미국 클렘슨대학교 식품.영양.포장공학과 겸임교수이다. 더불어 前 삼성정밀화학 기술고문이자 롯데제과 사외감사이사였다.\n\n\n\n&lt;밥상 위에 차려진 역사 한 숟갈&gt;의 글들은 현장에서 학생들을 지도하면서 느꼈던 감정과 함께 수 년 전 아버지께서 90세가 되셨을 때 하셨던 말씀이 얽히고설켜 한 권의 책으로 탄생했다 해도 과언이 아니다. 바로 \"지금도 16세 소년 같다\"고 하셨던 아버지의 그 말씀을 듣고서 건강하고 오래 살려면 좋은 환경과 함께 좋은 음식을 섭취해야 하는 것이 필수라고 확신한 것이다.\n\n\n\n특히 이 책에는 한국인이 즐겨먹는 한식, 양식, 중식, 일식 그리고 그 외 나라의 음식이 만들어지게 된 지리적 환경과 무구한 역사가 담겨 있기 때문에 이러한 배경과 함께 음식을 즐기게 된다면 해당 음식을 더욱 즐겁고도 맛있게 먹을 수 있다. 결국 음식에는 사람에 대한 깊은 배려와 예절 그리고 우리 몸을 이롭게 하는 식의동원(食醫同源)이라는 의식이 잠재되어 있다고 생각하면 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책들의정원",
+                "DDC": "394.12",
+                "UPDATE_DATE": "20180928",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글쓴이: 박현진 ;그린이: 오현숙",
+                "SERIES_TITLE": "",
+                "KDC": "381.75",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6894401_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6894401_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "230 p.",
+                "CONTROL_NO": "CIP2018028552",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187604778",
+                "INPUT_DATE": "20180903",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "밥상 위에 차려진 역사 한 숟갈",
+                "PUBLISH_PREDATE": "20180925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

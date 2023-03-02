@@ -1,0 +1,67 @@
+{
+    "otitle": "원소가 뭐길래",
+    "oauthor": "장홍제 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "원소가 뭐길래 (일상 속 흥미진진한 화학 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441648209",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441648209.20221019124834.jpg",
+                "author": "장홍제",
+                "discount": "13500",
+                "publisher": "다른",
+                "pubdate": "20170224",
+                "isbn": "9791156331483",
+                "description": "세상을 이루는 모든 원소를 만나다!\n\n휴대전화 배터리의 ‘리튬’, 치약의 ‘플루오린’ 등 원소는 어디에서 있지만 우리는 어디에 있는지 잘 알지 못한다. 『원소가 뭐길래』는 세상을 이루는 모든 원소를 특징별로 묶어 흥미로운 이야기와 사진으로 소개하는 원소 입문서다. 주기율표는 어떤 기준으로 만들어졌는지, 각각 원소는 누가 어떻게 밝혀냈는지 오늘날 어디에 쓰이는지 원소에 대한 모든 것을 알려준다.\n\n이 책은 원소에 얽힌 흥미진진한 이야기가 가득한다. 전 러시아 보안국 요원 ‘폴로늄’ 독살 사건, 이스라엘의 팔레스타인 백린탄 폭격, 독일 폴크스바겐의 ‘디젤게이트’ 등 국제적인 사건과 건강에 좋다고 알려진 ‘저마늄(게르마늄)’ 팔찌, 우유를 마시면 키가 큰다는 소설, 핵폭탄의 대체 무기로 소개되는 ‘하프늄’폭탄 등 잘못 알려진 정보들의 오류도 파헤치고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)다른",
+                "DDC": "",
+                "UPDATE_DATE": "20170310",
+                "EA_ADD_CODE": "43430",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "장홍제",
+                "SERIES_TITLE": "",
+                "KDC": "430",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6126389_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6126389_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "296",
+                "CONTROL_NO": "CIP2017003490",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156331483",
+                "INPUT_DATE": "20170208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "원소가 뭐길래",
+                "PUBLISH_PREDATE": "20170224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

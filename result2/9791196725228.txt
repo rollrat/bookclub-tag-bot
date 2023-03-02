@@ -1,0 +1,67 @@
+{
+    "otitle": "어부의 무덤",
+    "oauthor": "존 오닐 저/이미경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어부의 무덤 (바티칸 비밀 연구)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455932114",
+                "image": "https://shopping-phinf.pstatic.net/main_3245593/32455932114.20221229072027.jpg",
+                "author": "존 오닐",
+                "discount": "11700",
+                "publisher": "혜윰터",
+                "pubdate": "20200130",
+                "isbn": "9791196725228",
+                "description": "바티칸 여행자에게 들려주는 성 베드로 성당 아래 죽은 자의 도시 이야기. 1939년 바티칸의 한 연구팀이 성당 지하에서 초기 기독교 무덤 발굴을 시작하여 2013년 프란치스코 교황이 베드로의 것으로 추정되는 유골을 대중에 공개하기까지 75년간의 비밀 연구와 그 과정의 숨은 주인공들의 영웅적 활약을 그린 탐사 기록."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "혜윰터",
+                "DDC": "",
+                "UPDATE_DATE": "20200420",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "존 오닐 지음 ;이미경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "238.2692863",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "221 p.",
+                "CONTROL_NO": "CIP2019049321",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196725228",
+                "INPUT_DATE": "20191202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "어부의 무덤",
+                "PUBLISH_PREDATE": "20200130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

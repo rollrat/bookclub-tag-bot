@@ -1,0 +1,67 @@
+{
+    "otitle": "나도 나와 잘 지내고 싶다",
+    "oauthor": "후루카와 다케시 저/김주영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나도 나와 잘 지내고 싶다 (생각이 많아 불안한 당신에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492659813",
+                "image": "https://shopping-phinf.pstatic.net/main_3249265/32492659813.20221019131810.jpg",
+                "author": "후루카와 다케시",
+                "discount": "13500",
+                "publisher": "한국경제신문",
+                "pubdate": "20190329",
+                "isbn": "9788947544559",
+                "description": "이 책 《나도 나와 잘 지내고 싶다》에서 성공한 사람들의 사고습관을 9가지 유형으로 체계화하여 제시한다. 극심한 스트레스 상황에서도 그들이 능동적으로 역경을 마주하고 극복할 수 있었던 것은 9가지로 정리되는 사고습관에 길들여져 있어서다. 이 책에서는 ‘마이너스 사고에서 벗어나는 9가지 습관’에 대해 자세히 다루되, 각 카테고리 내에 유익한 습관을 익힐 수 있는 45가지 기술도 함께 소개하고 있어서, 독자들이 배우고 실천하기 더없이 좋을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20190410",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "후루카와 다케시 지음 ;김주영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947544559",
+                "INPUT_DATE": "20190410",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "나도 나와 잘 지내고 싶다",
+                "PUBLISH_PREDATE": "20190329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

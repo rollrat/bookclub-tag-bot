@@ -1,0 +1,67 @@
+{
+    "otitle": "다낭 홀리데이 (2019-2020 개정판)",
+    "oauthor": "박솔희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다낭 홀리데이 (2019-2020 최신 개정판, 휴대용 맵북) (최고의 휴가를 위한 여행 파우치)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485088013",
+                "image": "https://shopping-phinf.pstatic.net/main_3248508/32485088013.20221229071939.jpg",
+                "author": "박솔희",
+                "discount": "13500",
+                "publisher": "꿈의지도",
+                "pubdate": "20190228",
+                "isbn": "9791189469313",
+                "description": "&lt;다낭 홀리데이&gt; 2019-2020 최신 개정판. ‘베트남의 하와이’라 불리는 핫한 휴양지 다낭, 도시 전체가 세계문화유산인 고대 도시 호이안, 고즈넉한 베트남 역사의 도시 후에까지! 베트남 중부의 다채로운 매력을 지닌 세 도시의 여행정보를 알차게 담았다. 여행자의 취향에 따라 테마별로 추천하는 스케줄을 따라만 가도 최고의 여행이 완성된다.\n\n\n\n준비편에서는 다낭과 호이안, 후에에서 어떤 것을 보고 무엇을 해야 할지를 시원한 사진과 함께 보여줘 여행의 큰 그림을 그릴 수 있게 해준다. 상세하고 친절하게 보여주는 테마별 추천일정은 따라만 가도 만족도 100%를 끌어올릴 수 있게 한다. 그 외에 어떤 액티비티를 즐기고, 무엇을 먹으며, 어디서 묵을지 등 여행 계획을 구상할 수 있도록 각 파트마다 소개한다. 지역편에서 상세한 스폿 소개를 통해 원하는 여행지의 정보를 상세하게 안내하며 구체적인 일정을 짤 수 있도록 돕는다. \n\n\n\n부록으로 맵북을 실었다. 여행지에서 가이드북은 잠시 가방에 두고, 가벼운 맵북만 이용해서 편하게 여행하자. 맵북에 수록된 지도는 본 책에도 수록되어 여행지를 꼼꼼하게 체크할 때도 유용하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20190328",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "글·사진: 박솔희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판, 2019~2020년 최신 개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186581339",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "305 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189469313",
+                "INPUT_DATE": "20190211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "다낭 홀리데이",
+                "PUBLISH_PREDATE": "20190228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

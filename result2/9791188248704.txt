@@ -1,0 +1,67 @@
+{
+    "otitle": "남에게 못할 말은 나에게도 하지 않습니다",
+    "oauthor": "정재영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "남에게 못할 말은 나에게도 하지 않습니다 (걱정 많은 나 데리고 즐겁게 사는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492113643",
+                "image": "https://shopping-phinf.pstatic.net/main_3249211/32492113643.20221019140553.jpg",
+                "author": "정재영",
+                "discount": "13050",
+                "publisher": "웨일북(whalebooks)",
+                "pubdate": "20181210",
+                "isbn": "9791188248704",
+                "description": "이 책은 ‘나를 사랑하는 방법’에 관한 가장 정교하고 포괄적인 안내서다. 있는 그대로의 자신을 오롯이 끌어안고 작은 바람에 쉽게 일렁이지 않는 단단한 마음을 갖는 법을 가장 친절하게 전달한다. 그 출발점은 스스로를 홀대하지 않고 정중히 대하는 태도에 있다. 매일 한 챕터씩 읽고 꾸준히 연습해보면, 차가운 질책보다 다정한 위로가 훨씬 강력하고 지속적인 힘을 발휘함을 몸소 느끼게 될 것이다. 이 책이 말하는 자기 사랑의 원칙은 단순하다. 내일 당신이 어떻게 되든, 당신의 자존감 수준이 어떻든, 지금의 당신이 내면의 목소리 때문에 괴롭고 불행하다면 그 사랑은 잘못 표출되고 있다는 것이다. 1년 후, 5년 후의 당신이 ‘절망보다 행복에 더 익숙한’ 당신을 만나기 바란다면, 이 책을 통해 스스로를 사랑하는 방법을 처음부터 다시 익히기를 권한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Whale Books(웨일북)",
+                "DDC": "158.1",
+                "UPDATE_DATE": "20181218",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "정재영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7024857_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7024857_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7024857_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "281 p.",
+                "CONTROL_NO": "CIP2018038376",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188248704",
+                "INPUT_DATE": "20181126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "남에게 못할 말은 나에게도 하지 않습니다",
+                "PUBLISH_PREDATE": "20181210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 당당한 페미니스트로 살기로 했다",
+    "oauthor": "린디 웨스트 저/정혜윤 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 당당한 페미니스트로 살기로 했다 (웃음을 잃지 않고 세상과 싸우는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436280799",
+                "image": "https://shopping-phinf.pstatic.net/main_3243628/32436280799.20220524184415.jpg",
+                "author": "린디 웨스트",
+                "discount": "14220",
+                "publisher": "세종서적",
+                "pubdate": "20170221",
+                "isbn": "9788984076136",
+                "description": "까칠하고 유쾌한 페미니스트가 세상을 바꾸는 방법!\n\n사회의 수면 위로 떠오른 페미니즘은 이제 단순한 한때의 유행으로 치부해버리기엔 거대한 목소리가 되었다. 이러한 추세에 힘입어 자신을 페미니스트라고 선언하든, 선언하지 않든  일상의 차별과 폭력을 겪은 여성들은 자신들이 받아왔던 불평등에 대해 더 큰 목소리로 이야기를 나누기 시작했다. \n\n여성혐오와 비만혐오를 이야기하는 책『나는 당당한 페미니스트로 살기로 했다』의 저자 린디 웨스트는 페미니스트 활동가이자 인기 작가로 자신이 겪은 고통스러운 경험을 솔직하게 밝힘으로써 세상의 다른 여자들과 연대하고, 이것이 세상의 편견과 싸우기 위한 효과적인 치유법이라고 말한다. \n\n이 책은 여성차별에 대항하여 실질적인 변화를 이끈 개인적인 승리의 기록인 동시에, 단순한 에세이를 넘어 페미니즘 운동의 한걸음에 대한 기록이기도 하다. 저자는 커다란 몸집과 그보다 더 강한 자신의 의견을 숨기고자 애쓰다가 실패한 어린 시절에서부터, 강간 유머를 정당화하는 스탠드업 코미디언들과 공개적으로 맞서 싸운 일 등 유머와 페이소스를 섞어 자신의 삶을 이야기한다. 또한 모든 몸이 똑같이 존중받지 못하는 세상에서 살아남는 법과 증오, 외로움, 괴롭힘, 상실을 헤쳐 나가는 법에 대해서 안내해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세종서적(주)",
+                "DDC": "305.42",
+                "UPDATE_DATE": "20170302",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "린디 웨스트",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6122884_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6122884_3.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 376페이지 내외",
+                "CONTROL_NO": "CIP2017003213",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984076136",
+                "INPUT_DATE": "20170206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 당당한 페미니스트로 살기로 했다",
+                "PUBLISH_PREDATE": "20170221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

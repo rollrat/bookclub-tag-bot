@@ -1,0 +1,67 @@
+{
+    "otitle": "워런 버핏 바이블 2021",
+    "oauthor": "이건,최준철,홍영표 편저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "워런 버핏 바이블 2021 (버핏이 직접 말해주는 투자와 경영의 지혜. 2: 2017~2021)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445214332",
+                "image": "https://shopping-phinf.pstatic.net/main_3244521/32445214332.20221019124636.jpg",
+                "author": "이건^최준철",
+                "discount": "17280",
+                "publisher": "에프엔미디어",
+                "pubdate": "20210515",
+                "isbn": "9791188754410",
+                "description": "4년 만에 나온 ‘워런 버핏 바이블’ 시리즈 2 \n‘리틀 버핏’ 최준철의 한국판 Q&A와 해설 더해\n\n2017~2021년 워런 버핏 친필 주주 서한과 버크셔 해서웨이 주주총회 육성 답변을 정리하고 해설했다. 1991~2017년 버핏의 ‘글’과 ‘말’을 모은 《워런 버핏 바이블》의 두 번째 시리즈다. 버핏의 일관된 투자 철학은 물론 마이너스 금리, 코로나19 팬데믹, 가상 화폐 등 최근 이슈에 대한 그의 통찰과 식견이 고스란히 담겨 있다. 또 기존의 버핏 관련 서적이 담지 못한 ‘최근 4~5년 사이 새로 생긴 의문’을 해소해준다.\n\n《워런 버핏 바이블 2021》에서 주목할 만한 것은 국내에서 ‘리틀 버핏’으로 불리는 최준철 브이아이피자산운용 대표의 한국판 Q&A와 각 장에 대한 해설이다. 한국판 Q&A는 둘째가라면 서운할 버핏 마니아인 홍영표 변호사가 초보 투자자의 눈높이에서 질문을 던지고 이에 대해 최준철 대표가 쉽고 간결하게 답변하는 형식으로 구성되었다. 각 장 말미에 들어가는 해설 역시 버핏의 메시지에 대한 독자의 이해를 돕는 동시에 한국인 투자자에게 유용한 정보와 관점을 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "에프엔미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20210722",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이건,최준철,홍영표 엮고 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/05/11/9791188754410.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "342 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188754410",
+                "INPUT_DATE": "20210426",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "워런 버핏 바이블 2021",
+                "PUBLISH_PREDATE": "20210515",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

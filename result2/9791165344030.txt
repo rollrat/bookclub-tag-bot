@@ -1,0 +1,67 @@
+{
+    "otitle": "오무아무아",
+    "oauthor": "아비 로브 저/강세중 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오무아무아 (하버드가 밝혀낸 외계의 첫 번째 신호)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467118241",
+                "image": "https://shopping-phinf.pstatic.net/main_3246711/32467118241.20230214162823.jpg",
+                "author": "아비 로브",
+                "discount": "15300",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20210927",
+                "isbn": "9791165344030",
+                "description": "출간 즉시 아마존 베스트셀러, 〈뉴욕타임스〉, 〈WSJ〉, 〈포브스〉가 극찬한 책!\n2021년 북미를 발칵 뒤집어놓은 하버드대 아비 로브 교수의 충격적 제안\n\n2017년 가을, 하와이 천문대에서 이상한 물체 하나가 관측되었다. 국제천문연맹은 ‘오무아무아’라는 별명을 붙여주었다. 하와이어로 ‘먼 곳에서 온 첫 번째 전령’이라는 뜻이다. 천문학자들은 이것의 모양과 운동방식이 기존의 것들과는 다르지만, 어쨌든 (뭔지 모르겠으니) 처음 발견한 소행성이나 혜성이라고 결론지었다. \n하지만 20년간 하버드대 천문학부 학장을 역임한 천문학계의 거두 아비 로브 교수는 여러 연구를 통해 “이것은 외계 지성체가 만든 인공물”이라는 결론을 내놓았다. 그의 논문이 발표된 후 학계는 발칵 뒤집혔고, 전 세계 언론이 그를 집중 조명했다. \n《오무아무아》는 세계적인 과학자이자 혁신적인 사상가인 로브 교수가 ‘오무아무아’를 만나기 이전 외계 지성체를 탐색하기 위해 시도한 연구들을 비롯해 그 연속 선상에서 ‘오무아무아’의 비밀을 밝혀나가는 과정을 생생하게 보여준다. 로브 교수의 연구 여정과 논쟁 과정을 따라가는 것만도 흥미진진하지만, 더 나아가 근본적으로 과학이 무엇인지 다시 생각해보게 만든다. 결코 쉬운 주제가 아님에도 유려한 문장과 풍부한 상상력, 위트 있는 비유로 독자들을 매료시킨다는 추천평이 쏟아졌다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20211007",
+                "EA_ADD_CODE": "03440",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "아비 로브 지음 ;강세중 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*185",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "355 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165344030",
+                "INPUT_DATE": "20210817",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "오무아무아",
+                "PUBLISH_PREDATE": "20210927",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

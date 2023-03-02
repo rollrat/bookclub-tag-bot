@@ -1,0 +1,67 @@
+{
+    "otitle": "대답도 제대로 못 하면서",
+    "oauthor": "조관일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "대답도 제대로 못 하면서 (비즈니스 대답법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493308757",
+                "image": "https://shopping-phinf.pstatic.net/main_3249330/32493308757.20221019113936.jpg",
+                "author": "조관일",
+                "discount": "13320",
+                "publisher": "나무옆의자",
+                "pubdate": "20191120",
+                "isbn": "9791161570815",
+                "description": "나무옆의자에서 출간한 조관일 박사의 『대답도 제대로 못 하면서』는 ‘비즈니스 대답법’에 관한 것이다. 대답법으로는 국내 최초, ‘비즈니스 대답법’으로는 세계 최초로 평가되는 이번 신간은 상사와 부하와의 관계, 그리고 거래처와의 협상, 고객과의 사이에서 발생하는 질문에 어떻게 대답할 것인지를 한국에 맞는 사례들을 통해 실증적으로 다루고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무옆의자",
+                "DDC": "",
+                "UPDATE_DATE": "20191128",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조관일 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.26",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "CIP2019045659",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161570815",
+                "INPUT_DATE": "20191111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "대답도 제대로 못하면서",
+                "PUBLISH_PREDATE": "20191120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

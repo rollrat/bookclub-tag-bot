@@ -1,0 +1,67 @@
+{
+    "otitle": "8초만 누르면 통증이 사라진다!",
+    "oauthor": "장민제 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "8초만 누르면 통증이 사라진다! (통증 잡는 기적의 스위치 요법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441645058",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441645058.20220527050331.jpg",
+                "author": "장민제",
+                "discount": "0",
+                "publisher": "비타북스",
+                "pubdate": "20151101",
+                "isbn": "9791158460273",
+                "description": "내 몸속 30가지 스위치만 알면 통증 ‘완전 정복’\n\n『8초만 누르면 통증이 사라진다!』는 동양의학의 원리를 근거로 한 8초 통증 마사지와 배꼽 자극 요법, 발 자극 요법을 소개하는 책이다. TV조선 《내 몸 사용 설명서》, KBS 《아침 뉴스타임》 등에서 소개되며 매 방송마다 장안의 화제가 되었던 ‘8초 통증 마사지’를 책으로 만날 수 있게 된 것이다. 방송에서 선보인 ‘8초 통증 마사지’와 ‘배꼽 자극 요법’은 물론, 방송에서 공개한 적 없는 ‘발 자극 요법’까지 상세하게 담고 있다.\n\n문제가 있는 신체 부위를 직접 자극하면 몸이 아픔을 느끼고 긴장해 통증이 심해질 수 있으므로 8초 통증 마사지에서는 각 부위와 연관된 경혈을 스위치 삼아 ‘원격’으로 제어할 수 있도록 구성했다. 8초 동안 마사지할 경우 그 효과는 짧게는 3시간가량 지속되며, 매일 꾸준히 마사지하면 아픔을 느끼는 시간이 점차 줄어들어 만성 통증에서도 해방될 수 있다고 말한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "616.0472",
+                "UPDATE_DATE": "20151216",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "장민제",
+                "SERIES_TITLE": "",
+                "KDC": "511.845",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4938300_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4938300_3.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "224 페이지",
+                "CONTROL_NO": "CIP2015027447",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158460273",
+                "INPUT_DATE": "20151008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "8초만 누르면 통증이 사라진다!",
+                "PUBLISH_PREDATE": "20151101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

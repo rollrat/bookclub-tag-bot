@@ -1,0 +1,67 @@
+{
+    "otitle": "아끼고 아낀 말",
+    "oauthor": "정세운 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아끼고 아낀 말 (정세운 청춘에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485703754",
+                "image": "https://shopping-phinf.pstatic.net/main_3248570/32485703754.20221019123243.jpg",
+                "author": "정세운",
+                "discount": "14400",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20220328",
+                "isbn": "9791168122734",
+                "description": "“보통의 기분으로, 보통의 기억으로.”\n때로는 부드럽고 따뜻하게, 때로는 설레고 청량하게\n뮤지션 정세운이 들려주는 청춘의 문장들, 위로의 노래들\n\n부드러운 목소리와 담백하고 진솔한 가사로 사랑받는 ‘싱어송라이돌’ 정세운이 들려주는 편안한 위로와 청량한 고백을 담은 청춘 에세이 《아끼고 아낀 말》이 출간되었다. 지금의 나를 만들어온 경험과 생각들, 지금의 나를 바라보는 시선과 상념들, 지금의 내가 나아가는 방향과 결심을 때론 따뜻하고 감각적으로, 때론 유쾌하고 리듬감 있게 들려주는 이 책은 빠르게 흘러가는 시간을 붙잡아 기억하기 위한 그만의 청춘 일기이기도 하고, 같은 시간을 보내는 모든 청춘에게 전하는 위로의 연가이기도 하다. ‘청춘’이라는 단어에 잘 어울리는 섬세하고 풋풋한 감성을 음악으로 표현해온 뮤지션답게 정세운은 싱그럽게 빛나는 동시에 방황하며 흔들리는 20대 청춘의 모습을 100편의 글과 100장의 사진, 100곡의 노래를 엮어 선물처럼 담아냈다. 어제와 오늘, 내일에 대한 고민과 소망, 공감과 위로의 이야기를 담담하고 위트 있게 전하는 이 책이 당신의 지친 하루를 감싸는 작은 불빛이 되기를."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20220511",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "지은이: 정세운",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/03/30/9791168122734.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*185",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "219 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168122734",
+                "INPUT_DATE": "20220330",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아끼고 아낀 말",
+                "PUBLISH_PREDATE": "20220401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

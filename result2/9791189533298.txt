@@ -1,0 +1,67 @@
+{
+    "otitle": "하루 세 번 감사의 힘",
+    "oauthor": "김별,김선미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하루 세 번 감사의 힘 (불안과 두려움을 용기와 자신감으로 바꾸는 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485989574",
+                "image": "https://shopping-phinf.pstatic.net/main_3248598/32485989574.20221019104935.jpg",
+                "author": "김별",
+                "discount": "13500",
+                "publisher": "SISO",
+                "pubdate": "20200723",
+                "isbn": "9791189533298",
+                "description": "“매일 자신에게 감사를 선물하세요.”\n인생에 부와 건강, 행운을 불러오는 5분의 기적\n\n무심코 흘려보낼 하루를 특별하게 바꾸는 감동 습관이 있다. 바로 ‘감사일기’다. 『하루 세 번 감사의 힘』은 한국이 아닌 호주 땅에서 하루하루 감사하며 사는 7인의 이야기를 담은 책이다.\n‘감사하는 마음, 감사를 기록하는 힘’에 대해서는 이미 수많은 책에서 이야기하고 있다. 그러나 이 책에는 그 힘에 대해 전혀 모르던 사람들이 감사일기를 알게 되고, 매일 감사를 기록하면서 성장해나간 과정이 그 증거로 담겨 있다.\n함께 감사하며 시너지를 느끼는 이 책을 통해 독자들이 ‘감사의 힘’을 믿고 ‘하루 세 번’의 감사일기를 실천함으로써 행복이 더 멀리, 더 오래 갈 수 있기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Siso",
+                "DDC": "",
+                "UPDATE_DATE": "20200826",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김별,김선미,김소연,박가을,박은지,장혜정,조소연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/22/9791189533298.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "276 p.",
+                "CONTROL_NO": "CIP2020030767",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189533298",
+                "INPUT_DATE": "20200709",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "하루 세 번 감사의 힘",
+                "PUBLISH_PREDATE": "20200731",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

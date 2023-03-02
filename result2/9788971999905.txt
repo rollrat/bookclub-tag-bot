@@ -1,0 +1,67 @@
+{
+    "otitle": "SF 거장과 걸작의 연대기",
+    "oauthor": "김보영,박상준,심완선 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "SF 거장과 걸작의 연대기",
+                "link": "https://search.shopping.naver.com/book/catalog/32465515284",
+                "image": "https://shopping-phinf.pstatic.net/main_3246551/32465515284.20230219103339.jpg",
+                "author": "김보영^박상준^심완선",
+                "discount": "17550",
+                "publisher": "돌베개",
+                "pubdate": "20191230",
+                "isbn": "9788971999905",
+                "description": "바야흐로 SF의 시대가 찾아왔다. 이제 SF는 이 시대의 문화 예술뿐만 아니라 과학 기술의 가능성을 모색하기 위한 필수 교양이 되고 있다. 메리 셸리의 &lt;프랑켄슈타인&gt;으로 시작된 SF라는 세계는 이제 소설의 경계를 넘어 만화, 애니메이션, 영화, 드라마, 미디어 아트 등 무한 팽창하고 있다. 인공 지능(AI)와 로봇 등 과학 기술의 발달이 인류에게 가져올 다양한 가능성을 상상해 왔던 예술적 전통과 그것이 실현된 오늘의 현실적 조건을 결합시켜서 지금부터 펼쳐질 새로운 과학의 서사를 거침없이 전개하고 있다. \n\n\n\n오랫동안 SF의 거장과 걸작들이 상상하고 실험해 왔던 그 미래를 지금 현실로 살고 있기에, 이제 SF는 더 이상 공상 과학이 아닌 가장 현실적이며 사회적인 문학이자 장르로서 받아들여져야만 한다. 저 광대한 SF의 네트 속으로 떠나려는 한국의 독자들이 꼭 알아야 할 내용을 가득 담은 가장 충실하며 탁월한 SF 가이드북을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "돌베개",
+                "DDC": "",
+                "UPDATE_DATE": "20200129",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "www.dolbegae.com",
+                "AUTHOR": "김보영,박상준,심완선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "809.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "374 p.",
+                "CONTROL_NO": "CIP2019049448",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788971999905",
+                "INPUT_DATE": "20191203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "SF 거장과 걸작의 연대기",
+                "PUBLISH_PREDATE": "20191230",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

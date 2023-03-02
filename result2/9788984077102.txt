@@ -1,0 +1,67 @@
+{
+    "otitle": "어원으로 배우는 경제 이야기",
+    "oauthor": "김경원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어원으로 배우는 경제 이야기 (지적 대화를 위한 경제 경영 잡학 사전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455482621",
+                "image": "https://shopping-phinf.pstatic.net/main_3245548/32455482621.20221129173419.jpg",
+                "author": "김경원",
+                "discount": "13500",
+                "publisher": "세종서적",
+                "pubdate": "20180531",
+                "isbn": "9788984077102",
+                "description": "금융인, 사회 초년생, 취업 준비생이 꼭 알아야 할 경제 이야기\n\n언어의 뿌리를 알면 경제와 사회를 꿰뚫어보는 힘이 커진다!\n한 번만 읽어도 제대로 써먹을 수 있는, 당신에게 ‘지적 우위’를 만들어줄 경제 지식!\n\n지적 대화를 위한 쓸 데 있는 경제 지식\n\n십여 년 전 국내 유수의 문과대학 교수들을 위시하여 ‘인문학 위기론’이 화두가 되었다. \n서점 베스트셀러에 인문학 도서가 없다는 자성의 목소리가 나온 이후, 인문학은 권위를 내려놓고 ‘가벼워진 인문학’의 형태로 상아탑을 벗어나 대중에게 퍼져나갔고, 곳곳에서 지적 호기심을 자극하는 강연이 인기를 끌고 있다. \n이처럼 ‘지적 즐거움’을 찾는 사람들의 마음을 읽은 인기 프로그램 중 하나가 〈알쓸신잡(알아두면 쓸데없는 신비한 잡학사전)〉이다. ‘알아도 쓸데없다’는 데도 많은 사람의 흥미를 끈 이유는 무엇일까?\n세종대학교 경영학과 김경원 교수는, 최근 저서 『어원으로 배우는 경제 이야기』에서 “현재 정보사회를 사는 사람들에게 정보는 넘쳐나는데 정작 이 정보가 자기 것, 즉 지식이 잘 되지 못한다는 사실에 기인”하기 때문이라고 설명한다. \n그리고 이 넘쳐나는 정보를 스마트폰에서 찾는 것이 아니라, ‘상식과 교양’으로 저장하고 있는 사람은 주변 사람들보다 ‘지적 우위’를 점하게 되고, 이는 업무에서 결정적인 역할을 할 뿐만 아니라 대인관계에서도 큰 영향력을 키우게 된다고 말한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세종서적",
+                "DDC": "330.02",
+                "UPDATE_DATE": "20180608",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김경원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "320.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6663905_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "CIP2018014696",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984077102",
+                "INPUT_DATE": "20180511",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(어원으로 배우는) 경제 이야기",
+                "PUBLISH_PREDATE": "20180531",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

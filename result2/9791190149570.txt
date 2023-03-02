@@ -1,0 +1,67 @@
+{
+    "otitle": "마블로지",
+    "oauthor": "김세리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마블로지 (히어로 만화에서 인문학을 배우다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441024777",
+                "image": "https://shopping-phinf.pstatic.net/main_3244102/32441024777.20221019114314.jpg",
+                "author": "김세리",
+                "discount": "15300",
+                "publisher": "하이픈",
+                "pubdate": "20210709",
+                "isbn": "9791190149570",
+                "description": "우리 시대의 신화, \n마블 유니버스\n\n슈퍼 히어로물이 등장한 것은 연이은 전쟁으로 인해 승리와 평화가 간절하던 때였다. 주로 미국을 배경으로 하던 히어로 만화는 시대와 가치관의 변화에 따라 점차 발전했다. 미국에서 전 세계로, 우주로. 의심의 여지 없이 악할 뿐이었던 빌런들에게도 복잡한 이야기가 주어졌고, 독자들은 점차 고민하게 됐다. “정의란 무엇일까?” \n사실 정의에 관한 논쟁은 아주 오래전에 시작된 것이다. 인류에게 문화라는 것이 생기자 신화가 만들어졌고, 인간들은 이를 믿고 따를 뿐만 아니라 열광했다. 다양한 예술 작품을 통해 때로는 원형으로, 때로는 변형된 모습으로 전해 내려온 신화에는 그 시대의 모습과 가치관, 대두되던 문제점, 대중이 원하는 정의의 모습이 담겨있다. 이에 따르면 마블의 히어로물은 이 시대의 새로운 신화이다. \n우리는 이 책에서 마블 코믹스의 설립 배경과 변천사, 주요 캐릭터와 쟁점, 그리고 각 캐릭터에 견주어 볼 만한 신화와 영웅을 살펴볼 것이다. 그리고 이를 바탕으로 마블 세계관을 하나의 학문으로 정립하고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하이픈",
+                "DDC": "",
+                "UPDATE_DATE": "20210810",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "없음",
+                "AUTHOR": "김세리 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/06/22/9791190149570.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "291 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190149570",
+                "INPUT_DATE": "20210426",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "마블로지",
+                "PUBLISH_PREDATE": "20210709",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

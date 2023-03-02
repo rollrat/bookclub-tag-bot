@@ -1,0 +1,67 @@
+{
+    "otitle": "생각이 많은 10대를 위한 철학 사전",
+    "oauthor": "황진규 저/나수은 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "생각이 많은 10대를 위한 철학 사전 (21가지 키워드로 살펴보는 청소년 철학 입문서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444777764",
+                "image": "https://shopping-phinf.pstatic.net/main_3244477/32444777764.20221019134342.jpg",
+                "author": "황진규",
+                "discount": "11700",
+                "publisher": "나무생각",
+                "pubdate": "20210830",
+                "isbn": "9791162181638",
+                "description": "《생각이 많은 10대를 위한 철학 사전》은 다름, 중독, 콤플렉스, 폭력, 희망 등 21가지 키워드를 통해 10대의 고민을 만나고 이에 대한 철학자의 생각을 살펴봄으로써 청소년에게 객관적 시선과 생각의 확장을 선물하는 책입니다. 어른들의 세상보다 더 복잡한 세상을 살아가고 있는 10대 청소년들이 갖는 고민을 뽑고, 여기에 여러 철학자들이 질문의 답과 생각의 방향을 제시해 줍니다. 철학자의 생각이 어렵거나 복잡하지 않고 딱 청소년의 눈높이에 맞게 설명되어 있어 읽다 보면 어느새 고개를 끄덕이게 되지요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20211014",
+                "EA_ADD_CODE": "43100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황진규 글 ;나수은 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "237 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162181638",
+                "INPUT_DATE": "20210802",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(생각이 많은 10대를 위한) 철학 사전",
+                "PUBLISH_PREDATE": "20210830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

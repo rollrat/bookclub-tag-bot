@@ -1,0 +1,67 @@
+{
+    "otitle": "질문이 무기가 된다",
+    "oauthor": "우치다 카즈나리저 /이정환 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "질문이 무기가 된다",
+                "link": "https://search.shopping.naver.com/book/catalog/32485087818",
+                "image": "https://shopping-phinf.pstatic.net/main_3248508/32485087818.20221019152020.jpg",
+                "author": "우치다 카즈나리",
+                "discount": "12420",
+                "publisher": "한빛비즈",
+                "pubdate": "20200324",
+                "isbn": "9791157843961",
+                "description": "“시키는 대로 했는데, 뭐가 문제지?”\n당신은 엉뚱한 문제를 해결했다\n\n상사가 시키는 대로 일을 처리해서 보고했는데 무슨 이유에서인지 만족스러워하지 않는다. 물론 상사에게 문제가 있는 경우도 있지만, 대부분은 지시를 내린 문제와 다른 엉뚱한 문제를 해결한 것이다. 일을 할 때는 문제를 해결하는 것이 당연히 중요하지만, 여기에는 ‘올바른 문제를 해결했을 경우’라는 전제가 붙는다. 비즈니스 세계는 학교와 달리 누군가가 이 과제를 해결하라고 가르쳐주지 않는다. 신입사원일 때는 상사가 이 과제를 해결하라는 식으로 정확하게 문제를 알려주고 지시를 내린다. 하지만 시간이 흐르면서 스스로 과제가 무엇인지 생각해야 하고, 해결방법도 찾아야 한다. 이 능력이 갖춰져 있지 않으면 리더나 경영자가 될 수 없다. 만약 이런 능력이 없는 인물이 리더나 경영자가 되었다면, 그가 이끄는 조직이나 그룹은 손을 대야 할 과제가 무엇인지 알 수 없어 우왕좌왕하는 상황이 될 것이다. 어떻게 하면 올바른 문제, 또는 해결해야 할 문제를 정확하게 찾아낼 수 있을까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20200416",
+                "EA_ADD_CODE": "14320",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "우치다 카즈나리 지음 ;이정환 옮김",
+                "SERIES_TITLE": "직장인의 사고 시리즈 3권 세트 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791157843930",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "244 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157843961",
+                "INPUT_DATE": "20200228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "질문이 무기가 된다",
+                "PUBLISH_PREDATE": "20200324",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14320 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

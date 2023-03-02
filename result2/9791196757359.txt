@@ -1,0 +1,67 @@
+{
+    "otitle": "악플러 수용소",
+    "oauthor": "고호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "악플러 수용소",
+                "link": "https://search.shopping.naver.com/book/catalog/32439080567",
+                "image": "https://shopping-phinf.pstatic.net/main_3243908/32439080567.20221019124418.jpg",
+                "author": "고호",
+                "discount": "12600",
+                "publisher": "델피노",
+                "pubdate": "20200707",
+                "isbn": "9791196757359",
+                "description": "여기에 들어온 자여, 희망은 버려라!\n\n어느 날, 전국 각지에서 남녀 열한 명이 동시에 증발하는 일이 생긴다. 약에서 깨어난 듯 의식을 차린 그들이 갇힌 곳은 ‘온라인 범죄행위자 교정수용소’, 곧 악플러 수용소다. 이곳에서는 토끼 마스크를 쓴 사내의 소름 끼치는 관리가 시작되고, 도망치려 했거나 수용소 규정에 반하는 행동을 한 사람들은 여지없이 하나둘 죽음을 맞는다. 한편 살아남은 사람들은 이 주에 한 번씩 상호평가 댓글을 통해 가장 추천을 많이 받은 순서대로 조기 퇴소를 위한 게임을 시작하는데….\n\n조기 퇴소를 하는 족족 그들 앞에 펼쳐지는 기상천외한 사건들! 그리고 수용소 소장과 자살한 여배우와의 베일에 싸인 관계가 조금씩 밝혀지면서 독자로 하여금 숨겨진 의미를 찾는 재미와 복선, 반전 및 여운을 제공할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "델피노",
+                "DDC": "",
+                "UPDATE_DATE": "20200716",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.delpinobooks.com",
+                "AUTHOR": "지은이: 고호",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "365 p.",
+                "CONTROL_NO": "CIP2020023973",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196757359",
+                "INPUT_DATE": "20200610",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "악플러 수용소",
+                "PUBLISH_PREDATE": "20200707",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "달팽이가 사랑할때 2",
+    "oauthor": "딩모 저/남혜선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:33 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "달팽이가 사랑할 때 2",
+                "link": "https://search.shopping.naver.com/book/catalog/32436142999",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436142999.20221129171937.jpg",
+                "author": "딩모",
+                "discount": "13500",
+                "publisher": "현암사",
+                "pubdate": "20170217",
+                "isbn": "9788932318387",
+                "description": "드라마 《달팽이가 사랑할 때》의 원작 소설 『달팽이가 사랑할 때』제2권. 경찰대학을 우수한 성적으로 졸업하고 경찰청에 배치된 쉬쉬는 무수한 범죄사건 분석으로 단련된 신입 프로파일러. 지독하리만큼 고도의 집중력과 뛰어난 분석 능력으로 경찰청 안팎을 놀라게 하지만 반대로 자신의 감정을 알아채는 데에는 지나치게 서툰 사람이다. 그런 그녀의 사수로 풍부한 사건 경험, 진중한 태도, 출중한 외모를 지닌 명형사 지바이가 배치되고 고요한 쉬쉬의 세계는 점차 흔들리기 시작한다. 그리고 린 시의 경찰청에는 연이어 잔혹한 사건 소식이 날아드는데……."
+            },
+            {
+                "title": "달팽이가 사랑할 때 1",
+                "link": "https://search.shopping.naver.com/book/catalog/32504168990",
+                "image": "https://shopping-phinf.pstatic.net/main_3250416/32504168990.20221129171946.jpg",
+                "author": "딩모",
+                "discount": "12600",
+                "publisher": "현암사",
+                "pubdate": "20170217",
+                "isbn": "9788932318370",
+                "description": "드라마 《달팽이가 사랑할 때》의 원작 소설 『달팽이가 사랑할 때』제1권. 경찰대학을 우수한 성적으로 졸업하고 경찰청에 배치된 쉬쉬는 무수한 범죄사건 분석으로 단련된 신입 프로파일러. 지독하리만큼 고도의 집중력과 뛰어난 분석 능력으로 경찰청 안팎을 놀라게 하지만 반대로 자신의 감정을 알아채는 데에는 지나치게 서툰 사람이다. 그런 그녀의 사수로 풍부한 사건 경험, 진중한 태도, 출중한 외모를 지닌 명형사 지바이가 배치되고 고요한 쉬쉬의 세계는 점차 흔들리기 시작한다. 그리고 린 시의 경찰청에는 연이어 잔혹한 사건 소식이 날아드는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)현암사",
+                "DDC": "895.136",
+                "UPDATE_DATE": "20170302",
+                "EA_ADD_CODE": "04820",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "딩모",
+                "SERIES_TITLE": "",
+                "KDC": "823.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6119145_6.txt",
+                "SET_ISBN": "9788932318363",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6119145_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "556",
+                "CONTROL_NO": "CIP2017002881",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932318387",
+                "INPUT_DATE": "20170202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "달팽이가 사랑할 때 2",
+                "PUBLISH_PREDATE": "20170217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04820 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

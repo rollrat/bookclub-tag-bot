@@ -1,0 +1,67 @@
+{
+    "otitle": "언니가 없으면 좋겠어",
+    "oauthor": "이은재 글/심윤정 그림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "언니가 없으면 좋겠어",
+                "link": "https://search.shopping.naver.com/book/catalog/32438315718",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438315718.20221227203808.jpg",
+                "author": "이은재",
+                "discount": "9900",
+                "publisher": "살림어린이",
+                "pubdate": "20150925",
+                "isbn": "9788952232090",
+                "description": "살림 3.4학년 창작 동화 시리즈 9권. &lt;잘못 뽑은 반장&gt; 이은재 작가의 단편 동화 모음집으로, 먼 훗날이 아닌 바로 지금, 주어진 상황 속에서 행복한 가족이 되는 비법을 세 편의 작품 속에 담고 있다. 이야기를 통해 행복은 조건이나 환경이 갖추어졌을 때가 아니라 스스로 행복하려고 노력할 때 찾아온다는 사실을 깨닫게 한다.\n\n\n\n첫 번째 작품이자 표제작인 「언니가 없으면 좋겠어」에는 자폐증을 앓고 있는 언니를 둔 예담이의 모습이 그려진다. 예담이는 언니에게 부모님의 관심과 사랑을 모두 빼앗겼다고 생각한다. 그리고 언니 때문에 힘들어하는 부모님을 보며 ‘언니만 없으면’ 다른 가족처럼 행복할 수 있을 거라고 기대한다.\n\n\n\n결국 예담이는 마음속에 품어 오던 생각을 실행에 옮긴다. 언니를 장터에 데리고 가 찐빵 두 개를 사 준 다음 혼자 집으로 돌아온 것이다. 예담이의 바람대로 언니가 없어졌다. 이제 예담이와 예담이 가족 앞에는 행복이 기다리고 있어야 한다. 하지만 언니가 없어졌다고 생각한 순간부터 예담이는 다리가 후들거리고 눈앞이 깜깜해지는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20151111",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "이은재 글/ 심윤정 그림",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4883217_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4883217_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "167×220mm",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "228",
+                "CONTROL_NO": "CIP2015024955",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952232090",
+                "INPUT_DATE": "20150910",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "언니가 없으면 좋겠어",
+                "PUBLISH_PREDATE": "20150925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

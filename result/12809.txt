@@ -1,0 +1,23 @@
+{
+    "otitle": "해법코드로 설명한 심층강화학습",
+    "oauthor": "이승익 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "해법코드로 설명한 심층강화학습 (한국어판) (반복 강화학습,정책 그라디언트,TRPO)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466624150",
+                "image": "https://shopping-phinf.pstatic.net/main_3246662/32466624150.20221227204011.jpg",
+                "author": "Maxim Lapan",
+                "discount": "13500",
+                "publisher": "홍릉",
+                "pubdate": "20200313",
+                "isbn": "9791156007401",
+                "description": "▶ 이 책은 컴퓨터공학/과학개론을 다룬 이론서입니다. 컴퓨터공학/과학개론의 기초적이고 전반적인 내용을 학습할 수 있습니다."
+            }
+        ]
+    }
+}

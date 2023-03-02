@@ -1,0 +1,67 @@
+{
+    "otitle": "호르몬의 거짓말",
+    "oauthor": "로빈 스타인 델루카 저/황금진 역/정희진 해제",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "호르몬의 거짓말 (여성은 정말 한 달에 한 번 바보가 되는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466315385",
+                "image": "https://shopping-phinf.pstatic.net/main_3246631/32466315385.20221227205856.jpg",
+                "author": "로빈 스타인 델루카",
+                "discount": "15700",
+                "publisher": "동양북스",
+                "pubdate": "20181012",
+                "isbn": "9791157684328",
+                "description": "2016년 130만 조회수를 넘기고 22개 언어로 번역되면서 큰 화제가 된 TED 강연 ‘생리전증후군에 관한 희소식’이 토대가 되어 완성된 이 책, 『호르몬의 거짓말』은 15년 동안 ‘여성의 건강과 젠더 불평등’에 대해 연구한 심리학 박사, 로빈 스타인 델루카의 오랜 연구를 집대성한 책이다.\n\n\n\n저자의 주장을 단 한마디로 요약하자면 바로 이것이다. “여성이 짜증이 나고 우울하고 건강하지 못한 건, 호르몬 때문이 아니라 사회적 불평등 때문이다.” 저자는 우리가 알고 있는 생물학적 여성에 대한 ‘과학 정보’가 사실은 ‘통념’이나 ‘미신’에 불과하다는 것을 ‘과학적’으로 규명해낸다.\n\n\n\n대부분의 과학 연구에서 이미 호르몬 신화의 무용론이 증명된 지 오래되었다고 말한다. 1990년 초부터 많은 학자들이 이 사실을 알고 있었으나 수천 년간 지속된 사회 문화적 이데올로기 그리고 이를 돈벌이로 활용하는 제약회사와 의료업계에 의해 은폐/왜곡되었다는 것이다. \n\n\n\n저자는 묻는다. “호르몬 신화로 이득을 보는 자들은 누구인가?” “호르몬 신화를 계속 믿으면 우리는 어떤 손해를 보게 되는가?” 여성학자 정희진은 해제를 통해 ‘언제나 인간의 문제는 팩트 여부가 아니라 팩트를 만들어내는 권력에 달려 있다’고 말했다. 그녀의 말처럼 우리가 현재 팩트라고 믿고 있는 것을 생산해내는 권력인 ‘가부장’을 떠받쳐주고 있는 ‘호르몬 신화’에 균열이 생긴다면 가부장제는 서서히 무너져 내릴 것이고 ‘젠더 불평등’ 역시 약화될 것이다. 저자 로빈 스타인 델루카가 의도한 바도 바로 이것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양북스",
+                "DDC": "305.4",
+                "UPDATE_DATE": "20181122",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "로빈 스타인 델루카 지음 ;황금진 옮김 ;정희진 해제",
+                "SERIES_TITLE": "",
+                "KDC": "337.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6907170_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6907170_3.jpg",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6907170_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "441 p.",
+                "CONTROL_NO": "CIP2018029700",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157684328",
+                "INPUT_DATE": "20180911",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "호르몬의 거짓말",
+                "PUBLISH_PREDATE": "20181012",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

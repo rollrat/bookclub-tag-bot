@@ -1,0 +1,67 @@
+{
+    "otitle": "보통의 것이 좋아",
+    "oauthor": "반지수 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "보통의 것이 좋아 (나만의 보폭으로 걷기, 작고 소중한 행복을 놓치지 말기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441602498",
+                "image": "https://shopping-phinf.pstatic.net/main_3244160/32441602498.20230218110758.jpg",
+                "author": "반지수",
+                "discount": "13320",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20211201",
+                "isbn": "9791168120587",
+                "description": "나만의 보폭으로 걸을 때 보이는 소중한 보통의 날들. 사실적인 배경과 만화적인 인물의 화풍, 따뜻한 시선이 담긴 일러스트로 온라인상에서 많은 사랑을 받고 있는 반지수 작가는 특별한 무언가가 아니더라도 지극히 사소했던 보통의 날, 보통의 순간이 주는 작고 소중한 행복을 말한다. \n\n\n\n평범한 나날을 아름다운 순간으로 느껴지게 하는 그림들은 당신도 잘 살아가고 있다고, 그 자체로도 충분히 아름답다고 이야기해주는 듯하다. 나만의 보폭으로 걷다 보면 보이는 것들이 있다. 타인의 속도와 시선을 쫓으며, 지금의 보통 날을 외면하고 살아온 나 자신에게 이 책은 그 누구도 아닌 나와 잘 지내는 법을 생각하게 해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20220104",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "지은이: 반지수",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "168*191",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "219 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168120587",
+                "INPUT_DATE": "20211027",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "보통의 것이 좋아",
+                "PUBLISH_PREDATE": "20211201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

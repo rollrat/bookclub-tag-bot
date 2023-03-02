@@ -1,0 +1,67 @@
+{
+    "otitle": "처음 하는 재봉틀",
+    "oauthor": "송효은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "처음 하는 재봉틀 A to Z",
+                "link": "https://search.shopping.naver.com/book/catalog/32504652096",
+                "image": "https://shopping-phinf.pstatic.net/main_3250465/32504652096.20221019105116.jpg",
+                "author": "송효은",
+                "discount": "12600",
+                "publisher": "즐거운상상",
+                "pubdate": "20110607",
+                "isbn": "9788992109765",
+                "description": "재봉틀로 쉽고 예쁘게 만드는 핸드메이드 소품!\n\n소소한 즐거움이 있는 핸드메이드『처음 하는 재봉틀 A TO Z』. 이 책은 블로그 ‘재봉틀로 쓰는 편지’의 파워블로거의 첫 작품집으로 재봉틀의 기초를 탄탄하게 닦을 수 있도록 도와준다. 재봉틀 소품 30가지를 소개하며 재봉틀을 사용하는 법, 갖추어 두면 좋은 도구와 재료 설명은 물론 원단 고르는 법, 재단하는 요령, 기본적인 재봉법과 접착솜 붙이는 법 등 재봉틀 초보자에게 유용한 내용들을 꼼꼼하게 담았다. 쉽고 자세한 설명과 사진은 물론 실제 사이즈의 패턴 18가지를 수록하여 완성도 높은 소품을 만들 수 있다. 간단하게 만들 수 있는 소품에서부터 저자의 감성어린 작품들까지 핸드메이드 소품을 이 책과 함께 만들어본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "즐거운상상",
+                "DDC": "",
+                "UPDATE_DATE": "20110811",
+                "EA_ADD_CODE": "14630",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 송효은",
+                "SERIES_TITLE": "소소한 즐거움이 있는 핸드메이드 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788992109697",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "07",
+                "EA_ISBN": "9788992109765",
+                "INPUT_DATE": "20110509",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "처음 하는 재봉틀 ",
+                "PUBLISH_PREDATE": "20110607",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14630 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

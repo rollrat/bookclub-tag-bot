@@ -1,0 +1,67 @@
+{
+    "otitle": "초등 혼자 매일 공부",
+    "oauthor": "김은영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초등 혼자 매일 공부 (즐겁게 시작해서 꾸준하게 지속 가능한 초등 공부 습관 교육)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487795400",
+                "image": "https://shopping-phinf.pstatic.net/main_3248779/32487795400.20221229074310.jpg",
+                "author": "김은영",
+                "discount": "12790",
+                "publisher": "블루무스",
+                "pubdate": "20201222",
+                "isbn": "9791196848170",
+                "description": "똑똑한 엄마는 ‘공부 루틴’을 만든다!\n10살 전에 완성하는 지속 가능한 공부 습관!\n\n“제발 좀 알아서 공부하면 좋겠어요!”\n많은 부모들의 바람이다. 하지만 현실은 어떨까? 많은 부모가 공부하지 않는 아이와 매일같이 씨름하기 바쁘다. 어떻게 해야 아이가 스스로 공부하게 만들 수 있을까?\n《초등 혼자 매일 공부》는 10살 이전에 아이가 스스로 매일 공부하는 루틴을 만들어주는 시스템을 소개하는 책이다. 과연 저자는 어떤 마법을 부려 아이들의 자기주도 학습 습관을 만든 걸까? 그 비법을 배우기 위해 수많은 부모들이 그녀의 블로그를 방문한다.\n이 책에는 알아서 공부하는 아이들의 엄마로서 실천한 노하우를 꾹꾹 눌러 담았다. 시간과 노력을 조금만 투자하면 엄마가 손대지 않아도, 사교육 없이도 저절로 굴러가는 ‘관리 시스템’을 갖출 수 있다. 구체적이고 실용적인 방법들이 가득한 이 책은 가정학습 시간이 늘어나 고민이 많은 부모들에게 바로 적용할 수 있는 좋은 집 공부 지침서가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "블루무스",
+                "DDC": "",
+                "UPDATE_DATE": "20210111",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김은영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "373.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/20/9791196848170.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "258 p.",
+                "CONTROL_NO": "CIP2020046467",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196848170",
+                "INPUT_DATE": "20201030",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "초등 혼자 매일 공부",
+                "PUBLISH_PREDATE": "20201222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

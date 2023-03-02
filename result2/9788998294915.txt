@@ -1,0 +1,78 @@
+{
+    "otitle": "나는 나와 사이가 좋다",
+    "oauthor": "김수정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:36 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나는 나와 사이가 좋다 (외향적이지만 혼자도 충분히 좋고 하고 싶은 만큼 말고 할 수 있는 만큼)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493367785",
+                "image": "https://shopping-phinf.pstatic.net/main_3249336/32493367785.20221229074411.jpg",
+                "author": "김수정",
+                "discount": "12600",
+                "publisher": "더블엔",
+                "pubdate": "20200910",
+                "isbn": "9788998294915",
+                "description": "서른여섯, 별일 없는 게 별일인, \n경력 재설정기를 지나는 중인, \n전직 기자의 유쾌명랑한 오늘 에세이\n\n생각을 적고 마음을 토닥이는 글을 쓰며 \n“나는 나와 사이가 좋아졌다!”\n\n더 이상 설레지 않는 생일의 덤덤함,\n권고사직 당하던 날의 씁쓸함, \n다이어트 댄스를 하다 오히려 2kg 늘어난 체중, \n육아의 3할은 커피가 도와주었고, \n서른여섯이 되도록 진로 걱정을 하고 있으며 \n외향적이지만 혼자도 좋은 어느 전직 기자의 \n안녕한 오늘 이야기 42편을 담았다."
+            },
+            {
+                "title": "나는 나와 사이가 좋다 (큰글씨책) (외향적이지만 혼자서도 충분히 좋고 하고 싶은 만큼 말고 할 수 있는 만큼)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441077260",
+                "image": "https://shopping-phinf.pstatic.net/main_3244107/32441077260.20221227210242.jpg",
+                "author": "김수정",
+                "discount": "24300",
+                "publisher": "더블엔",
+                "pubdate": "20210630",
+                "isbn": "9791191382907",
+                "description": "서른여섯, 별일 없는 게 별일인, 경력 재설정기를 지나는 중인, 전직 기자의 유쾌명랑한 오늘 에세이. 생각을 적고 마음을 토닥이는 글을 쓰며 \"나는 나와 사이가 좋아졌다!\" \n\n\n\n더 이상 설레지 않는 생일의 덤덤함, 권고사직 당하던 날의 씁쓸함, 다이어트 댄스를 하다 오히려 2kg 늘어난 체중, 육아의 3할은 커피가 도와주었고, 서른여섯이 되도록 진로 걱정을 하고 있으며 외향적이지만 혼자도 좋은 어느 전직 기자의 안녕한 오늘 이야기 42편을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더블:엔",
+                "DDC": "",
+                "UPDATE_DATE": "20201124",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김수정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/11/9788998294915.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "253 p.",
+                "CONTROL_NO": "CIP2020033637",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998294915",
+                "INPUT_DATE": "20200811",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 나와 사이가 좋다",
+                "PUBLISH_PREDATE": "20200910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

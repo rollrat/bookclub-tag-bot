@@ -1,0 +1,67 @@
+{
+    "otitle": "도쿄 우에노 스테이션",
+    "oauthor": "유미리 저/강방화 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도쿄 우에노 스테이션",
+                "link": "https://search.shopping.naver.com/book/catalog/32464077588",
+                "image": "https://shopping-phinf.pstatic.net/main_3246407/32464077588.20221019135128.jpg",
+                "author": "유미리",
+                "discount": "12420",
+                "publisher": "소미미디어",
+                "pubdate": "20210915",
+                "isbn": "9791138403245",
+                "description": "“나는 갈 곳도, 있을 곳도 없는 사람을 위해 글을 쓴다.”\n_유미리\n\n2020년 전미도서상(National Book Awards) 번역문학 부문 수상작으로 재일한국인 작가 유미리의 장편소설 《도쿄 우에노 스테이션》이 선정되었을 때, 일본의 언론이 앞다투어 소식을 전했다. 하지만 곧 열린 기념 기자회견에서 유미리는 자신은 “일본인이 아니”기에 이를 일본 문학의 쾌거로 삼는 것은 부당하다며 축하 분위기에 찬물을 끼얹는다. 1997년 소설 〈가족 시네마〉로 아쿠타가와상을 수상한 후, 재일한국인이라는 이유로 일본 우익들의 살해 협박과 출판 금지 등을 겪으며 이미 자신의 정체성을 단단하게 확립한 그녀였다. 2020도쿄 올림픽 준비 기간인 2014년 발표한 《도쿄 우에노 스테이션》은 한 노숙자의 삶과 죽음을 통해 일본 사회의 부끄러운 면을 정면으로 고발한 소설이다. 출간된 이후 일본 국내의 불편한 시선을 감내해야 했지만 영어로 번역되어 제71회 전미도서상을 수상하며 다시 주목받는다. 2021년 현재 일본에서만 판매 누계 43만 부를 돌파하며 역주행 베스트셀러로 자리 잡았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "유미리 ;강방화",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "212 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791138403245",
+                "INPUT_DATE": "20210826",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "도쿄 우에노 스테이션",
+                "PUBLISH_PREDATE": "20210928",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "터틀의 방식",
+    "oauthor": "커티스 페이스 저/이은주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "터틀의 방식 (터틀 원년 멤버가 직접 공개하는 터틀 트레이딩 기법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476012144",
+                "image": "https://shopping-phinf.pstatic.net/main_3247601/32476012144.20230216071103.jpg",
+                "author": "커티스 페이스",
+                "discount": "20250",
+                "publisher": "이레미디어",
+                "pubdate": "20100601",
+                "isbn": "9788991998391",
+                "description": "평범한 사람을 단 2주 만에 최고의 트레이더로 만든 비법을 밝힌다!\n\n터틀 원년 멤버가 직접 공개하는 터틀 트레이딩 기법『터틀의 방식』. 천재적인 트레이딩을 통해 터틀 그룹을 월스트리트의 전설로 자리 잡게 한 주인공 커티스 페이스가 자신이 눈부신 성공을 거둘 수 있었던 이유를 시원하게 밝힌다. 그는 ‘농장에서 거북이를 키우듯이 트레이더도 얼마든지 키워낼 수 있다’는 명제로 터틀을 만들어낸 데니스와 에크하르트가 평범한 사람 13명을 단 2주일 만에 어떻게 훌륭한 트레이더로 키워냈는지를 이야기한다. 터틀 멤버 중 가장 뛰어난 성적을 거뒀던 페이스는 훈련 과정에서 배운 트레이딩 기술을 사례를 통해 상세히 설명하면서 자신의 성공 비법을 자신 있게 조언한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "332.645",
+                "UPDATE_DATE": "20100607",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "커티스 페이 지음 ;이은주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "327.83",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2404250_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2404250_3.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2404250_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2010001689",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991998391",
+                "INPUT_DATE": "20100414",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "터틀의 방식 ",
+                "PUBLISH_PREDATE": "20100601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

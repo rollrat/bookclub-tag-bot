@@ -1,0 +1,78 @@
+{
+    "otitle": "바다의 세계 1",
+    "oauthor": "바다의 이야기 편집그룹 저/이광수 등역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:00 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "바다의 세계 1",
+                "link": "https://search.shopping.naver.com/book/catalog/32438166728",
+                "image": "https://shopping-phinf.pstatic.net/main_3243816/32438166728.20221228073631.jpg",
+                "author": "바다의이야기편집그룹",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19931010",
+                "isbn": "9788970445069",
+                "description": "『바다의 세계우리의 생존과 생활에 현실적으로 밀접한 관계를 맺고 있는 바다. 우리는 그 바다를 얼마나 알고 있을까? 바다의 연구에만 전념하고 있는 과학자들이 꼭꼭 챙겨두었던 생물. 생태학적. 지학적 모든 재미있고 유익한 이야기 160항목을 모아 엮은 바다에 관한 모든 것을 얘기한다."
+            },
+            {
+                "title": "세계탐험 100장면 1: 바다의 탐험가들 (탐험가들의 위대한 도전 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506038688",
+                "image": "https://shopping-phinf.pstatic.net/main_3250603/32506038688.20221019133143.jpg",
+                "author": "안형모",
+                "discount": "8820",
+                "publisher": "대원키즈",
+                "pubdate": "20110725",
+                "isbn": "9788925284668",
+                "description": "탐험가들의 위대한 도전 이야기『세계탐험 100장면』제1권 . 베스트셀러인 역사서『100장면 시리즈』(가람기획)를 원작으로 하여, 검증된 내용과 재미를 바탕으로 어린이용 역사 학습만화로 재구성하였다. 어린이들에게 탐험의 역사를 알려 주는 동시에 모험심과 도전 정신을 자연스럽게 길러준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19930915",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "\"바다의 이야기\"편집그룹 편 ; 이광우 ; 손영수 공역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "2500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970445064",
+                "INPUT_DATE": "19930915",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "바다의 세계",
+                "PUBLISH_PREDATE": "19931010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

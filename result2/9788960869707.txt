@@ -1,0 +1,67 @@
+{
+    "otitle": "대통령의 말하기",
+    "oauthor": "윤태영 저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "대통령의 말하기 (노무현 대통령에게 배우는 설득과 소통의 법칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445059600",
+                "image": "https://shopping-phinf.pstatic.net/main_3244505/32445059600.20230226071215.jpg",
+                "author": "윤태영",
+                "discount": "13500",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20160824",
+                "isbn": "9788960869707",
+                "description": "참여정부 시절 노무현 대통령을 그림자처럼 수행하며 ‘대통령의 복심’, ‘대통령의 입’, ‘노무현의 필사’ 등 권력의 핵심으로 불렸던 윤태영 전 청와대 대변인은 2000년부터 2009년까지 10년 정도의 세월을 노무현의 말과 함께 살았다. \n\n\n\n특히 2003년부터 2007년까지는 대통령인 그의 말을 받아 적는 것이 직업이었다. 조찬과 오전회의, 오찬과 오후회의, 그리고 만찬에 이르기까지 일상적인 나날이 기록의 연속이었다. 대변인 시절까지 포함하여 노무현의 말을 기록했던 10년, 업무노트 100여 권, 작은 포켓수첩 500여 권, 그리고 한글파일 1,400여 개가 생성되었다. 그것이 모두 ‘대통령 노무현의 말’이었다. \n\n\n\n이 책은 그 방대한 자료에서 집약한 노무현 대통령의 말하기 원칙과 노하우를 담고 있다. 저자 윤태영은 이 책을 통해 노무현 대통령이 어떻게 말했고, 또 말을 위해 얼마나 치열한 고심을 거듭했는지를 실감 나는 예화와 함께 보여준다. \n\n\n\n총과 칼이 아닌 ‘말’로써 사람들의 마음을 움직인 노무현 대통령의 말하기 노하우를 23가지 원칙으로 정리한 저자는, 대화의 목적.대상.장소.상황에 맞는 대화법뿐만 아니라 말재주 없어도 편안하게 대화를 이어나갈 수 있는 소통하는 말하기의 진수를 제대로 배울 수 있게 도와준다. 말을 잘하려는 사람, 말로 사람의 마음을 움직이려는 사람, 말로 세상을 바꾸려는 사람 들에게 훌륭한 지침서가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)위즈덤하우스",
+                "DDC": "352.236",
+                "UPDATE_DATE": "20161130",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "윤태영",
+                "SERIES_TITLE": "",
+                "KDC": "350.214",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5654461_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5654461_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "328",
+                "CONTROL_NO": "CIP2016018638",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960869707",
+                "INPUT_DATE": "20160801",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마음을 움직이는 대통령의 말하기",
+                "PUBLISH_PREDATE": "20160824",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

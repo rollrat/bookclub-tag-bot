@@ -1,0 +1,78 @@
+{
+    "otitle": "제인 에어 (하)",
+    "oauthor": "샬럿 브론테 저/이미선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:54 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "제인 에어(하)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463265099",
+                "image": "https://shopping-phinf.pstatic.net/main_3246326/32463265099.20221019151754.jpg",
+                "author": "샬롯 브론테",
+                "discount": "8820",
+                "publisher": "열린책들",
+                "pubdate": "20110405",
+                "isbn": "9788932911663",
+                "description": "자신의 노력과 의지로 사랑과 행복을 이룬 여성, 제인 에어!\n\n한 여성의 삶과 사랑을 통해 사랑과 열정, 속죄와 용서의 테마를 다룬 샬럿 브론테의 소설 『제인 에어』 하권. 세계적인 거장들의 대표 작품부터 한국의 고전 문학까지 젊고 새로운 감각으로 고전을 새롭게 선보이는 「열린책들 세계문학」 시리즈의 166번째 책이다. 가난한 고아 가정교사 제인 에어와 부유하지만 불행한 에드워드 로체스터의 사랑 이야기가 중심을 이루고 있다. 자신의 노력과 의지로 사랑과 행복, 나아가 자아실현까지 이뤄낸 여주인공의 모습을 통해 매혹적인 여성상을 보여준다."
+            },
+            {
+                "title": "제인 에어(하)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496907709",
+                "image": "https://shopping-phinf.pstatic.net/main_3249690/32496907709.20220527061742.jpg",
+                "author": "샬롯 브론테",
+                "discount": "0",
+                "publisher": "종합출판범우",
+                "pubdate": "20200601",
+                "isbn": "9788963652818",
+                "description": "19세기 중엽 영국 빅토리아 조(朝)에서 선풍을 일으킨 장편소설-\n\n〈제인 에어〉는 고아 제인의 반항적 기개와 정열을 고취한 작품으로 당시 영국 문단에 선풍을 일으킨 작품이다. 이 작품이 발간되자 당시 영국 내외에 커더란 반향을 불러일으켰다. 무명의 여성 작가가 혜성처럼 나타나 당시 유행하던 새커리의 명성을 짓누를 만큼 커다란 선풍을 보였다. 당시 문학사조로 볼 때 〈제인 에어〉는 너무도 파격적인 성격을 띠고 있었기 때문이다. 한번 읽으면 독자의 감정을 사로잡고 마는 용솟음치는 정열을 지니고 있었으며, 그 정열의 이면에는 차분히 깔려 있는 냉정한 이지(理智)와 이성(理性)이 스며 있었기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "823.8",
+                "UPDATE_DATE": "20150402",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "샬럿 브론테, 이미선 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2469384_6.txt",
+                "SET_ISBN": "9788932914992",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2469384_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2011001315",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932911663",
+                "INPUT_DATE": "20130507",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "제인 에어 Jane Eyre(하)",
+                "PUBLISH_PREDATE": "20110405",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

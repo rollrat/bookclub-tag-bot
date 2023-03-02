@@ -1,0 +1,67 @@
+{
+    "otitle": "오랑캐의 역사",
+    "oauthor": "김기협 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오랑캐의 역사 (만리장성 밖에서 보는 중국사)",
+                "link": "https://search.shopping.naver.com/book/catalog/34110351622",
+                "image": "https://shopping-phinf.pstatic.net/main_3411035/34110351622.20230110163551.jpg",
+                "author": "김기협",
+                "discount": "22500",
+                "publisher": "돌베개",
+                "pubdate": "20220819",
+                "isbn": "9791191438741",
+                "description": "중화제국과 동아시아 오랑캐에서 \n이슬람세계의 성취와 서양의 흥기까지 아우르는 \n장대한 역사의 파노라마! \n\n문명 간 대립과 영향, 대륙의 초원과 바닷길을 넘나드는 \n2000년의 역사 이야기\n\n『오랑캐의 역사-만리장성 밖에서 보는 중국사』는 중화제국과 오랑캐의 대립 및 교섭의 역사를 통해, 단일국가의 프레임으로 한정할 수 없는 중국과 변경의 역사 그리고 동아시아 문명사를 다룬다. 나아가 중국 및 동ㆍ서양과 모두 교류한 이슬람세계의 역할, 근대 이후 서양의 흥기와 중국 침략에 이르기까지 세계사를 폭넓게 아우른다. \n\n이 책은 ‘오랑캐의 역사’라는 주제를 통해 중국과 그 밖의 세계사를 서술한다. 중국문명권이 중원(중심)과 변경(변방)으로 이루어진다고 할 때, 중원은 ‘화’華(중화, 화하)로, 변경은 ‘이’夷(오랑캐)로 불렸다. 오늘날 일반적으로 알려진 중국사는 ‘화’의 입장에서 쓰인 것이다. 저자는 제국 내부만 보아서는 “중화제국의 성격이 시대에 따라 변화하는 메커니즘을 제대로 이해할 수 없다”(10쪽)고 말한다. 중원의 국가와 변경의 오랑캐들이 어떻게 교섭하고 영향을 주고받았는지 살펴봄으로써 중화문명권 또는 동아시아문명권의 형성을 이해할 수 있다는 것이다. 저자는 문명권 차원의 역사를 밝히기 위해 ‘오랑캐의 역사’에 초점을 두었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "돌베개",
+                "DDC": "",
+                "UPDATE_DATE": "20220902",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "www.dolbegae.com",
+                "AUTHOR": "김기협 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "487 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191438741",
+                "INPUT_DATE": "20220727",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "오랑캐의 역사",
+                "PUBLISH_PREDATE": "20220819",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

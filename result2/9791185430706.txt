@@ -1,0 +1,67 @@
+{
+    "otitle": "법의학으로 보는 한국의 범죄 사건",
+    "oauthor": "문국진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "법의학으로 보는 한국의 범죄 사건 (한국 최초 법의학자 문국진이 들려주는 사건 현장 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496967914",
+                "image": "https://shopping-phinf.pstatic.net/main_3249696/32496967914.20230207165800.jpg",
+                "author": "문국진",
+                "discount": "12150",
+                "publisher": "알마",
+                "pubdate": "20160701",
+                "isbn": "9791185430706",
+                "description": "오랜 세월 동안 잊혀져왔던 한국의 법의학 드라마를 오늘날 다시금 살려보려는 취지에서 기획된 이 책 [법의학으로 보는 한국의 범죄 사건]은 20여 년 전 《새튼이》와 《지상아 1, 2》에 실린 이야기들 중 오늘날에도 의미 있을 법한 꼭지들을 세심하게 간추려 엮었다. 책은 법의학적인 시사점은 물론이고, 그 당시 한국 사회를 잘 보여줄 수 있는 글들을 두루 선정했으며, 현대적인 글맛을 살려 글을 리라이팅하는 한편, 감각적인 일러스트를 가미해 오늘날의 독자들이 흥미진진하게 읽을 수 있도록 구성했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)알마",
+                "DDC": "614.1",
+                "UPDATE_DATE": "20161108",
+                "EA_ADD_CODE": "04300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "문국진",
+                "SERIES_TITLE": "",
+                "KDC": "517.96",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4789522_6.txt",
+                "SET_ISBN": "9791159920356",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4789522_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240",
+                "CONTROL_NO": "CIP2015021472",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185430706",
+                "INPUT_DATE": "20150805",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "법의학으로 보는 한국의 범죄 사건",
+                "PUBLISH_PREDATE": "20150825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

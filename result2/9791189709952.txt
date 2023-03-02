@@ -1,0 +1,67 @@
+{
+    "otitle": "어메이징 디스커버리 1 덴마크",
+    "oauthor": "김재훈 저/윌리엄 리 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어메이징 디스커버리 1: 덴마크 (교양만화로 배우는 글로벌 인생 학교)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445624717",
+                "image": "https://shopping-phinf.pstatic.net/main_3244562/32445624717.20230207165730.jpg",
+                "author": "김재훈",
+                "discount": "12420",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20190227",
+                "isbn": "9791189709952",
+                "description": "확실한 행복의 나라로 초대합니다!\n\n새로운 세대에게 세상을 보는 시선이 넓고 깊은 사람으로 자라날 수 있는 글로벌 지식과 긍정의 가치관을 심어주는 『어메이징 디스커버리』 시리즈. 우리가 꿈꾸는 행복한 삶의 대안을 보여줄 나라를 여행하며 다양한 문화와 역사를 생생하게 만나볼 수 있다. 작가가 직접 여행을 떠나 현장을 취재했으며, 꼼꼼한 지식을 만화로 녹여 일상의 삶과 그 바탕을 이룬 역사, 문화, 종교, 언어, 지리 등을 쉽고 건강하게 익힐 수 있도록 했다.\n\n『어메이징 디스커버리』 1권은 북유럽 복지강국 《덴마크》 편이다. 행복지수 1위로 잘 알려진 덴마크의 삶을 밀착 탐험하며 휘게 열풍의 진실을 만나볼 수 있다. 부족함이 없을 정도로 큰 기업을 일궈낸 장 회장. 그러나 마음의 공허함을 끝없이 느끼고 손주에게 물려줘야 할 유산이 단순히 돈이 아니라는 것을 깨닫는다. 과연 채워진 삶이란 어떤 것일까? 장 회장은 프로젝트 팀을 모집해 다른 세계를 탐험하고 행복한 삶에 대해 가장 훌륭한 보고서를 써오는 팀에게 거액의 상금을 주겠다고 약속한다. \n\n얼떨결에 참여하게 되어 편견 없이 세계를 들여다보는 홍설록-장화순 팀, 홍설록의 짝사랑 상대인 강가영 팀, 그리고 물질주의적 시각으로 세계를 바라보는 백범영-신수길 교수 팀. 이 세 팀은 행복지수 1위라는 덴마크로 탐험을 떠난다. 이들은 행복한 나라를 여행하고 어떤 결론에 다다를 수 있을까? 부유함보다 우리의 행복에 더 큰 영향을 미치는 것은 무엇일까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사) 위즈덤하우스미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20200623",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "저자 : 김재훈",
+                "SERIES_TITLE": "어메이징 디스커버리",
+                "KDC": "923",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7149182_6.txt",
+                "SET_ISBN": "9791189709976",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7149182_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "312",
+                "CONTROL_NO": "CIP2019004278",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189709952",
+                "INPUT_DATE": "20190208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "어메이징 디스커버리 1 덴마크",
+                "PUBLISH_PREDATE": "20190227",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

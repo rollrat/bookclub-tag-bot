@@ -1,0 +1,67 @@
+{
+    "otitle": "주원홈트 맥시멈",
+    "oauthor": "김주원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "주원홈트 맥시멈 (군살까지 모조리 빼주는 스파르타 트레이닝)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467255616",
+                "image": "https://shopping-phinf.pstatic.net/main_3246725/32467255616.20221019120539.jpg",
+                "author": "김주원",
+                "discount": "12150",
+                "publisher": "싸이프레스",
+                "pubdate": "20170415",
+                "isbn": "9791160320206",
+                "description": "늘 제자리인 몸무게에서 벗어나게 해줄 홈프 맥시멈!\n\n지난 여름, 서점가를 뜨겁게 달궜던 홈트레이닝의 원조, 주원언니! 이번에는 매번 같은 동작, 쉬운 운동법으로 나태해진 병아리들의 몸을 바짝 조이고 활활 태워버리기 위한 지방 몰살 프로그램 ‘7.7.7 트레이닝’이다. 『주원홈트 맥시멈』에 소개된 ‘7.7.7. 트레이닝’ 프로그램은 병아리들이 인스타그램을 통해 가장 많이 물어본 질문, “언니, 저 한창 다이어트 중인데 아무리 해도 더 이상 빠지지가 않아요. 어떻게 하면 좋죠?”에 대한 답이기도 하다.\n\n총 4주 완성으로 짜여진 이번 프로그램은 매일 7가지 동작을 7회씩, 모두 7세트를 수행해야 끝이 난다. 시작 전, 부가적인 유산소 운동으로 내 몸의 세포를 깨우지 않아도 충분할 만큼 세다. 전신의 근육을 모두 사용해야 가능한 동작, 내 몸이 낼 수 있는 최대치의 힘을 필요로 하는 동작으로 구성되어 있다. 강도가 센 만큼 확실한 다이어트 효과를 원하는 병아리들에게 새로운 자극이 되는 동작들이다. 파워 병아리 수준에 맞춰져있지만 초보 병아리들도 영상을 보며 천천히 동작을 익히면 충분히 소화할 수 있다. 정말 ‘이번에야말로’ 빼고자 한다면 지금 당장 시작해보자!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "싸이프레스",
+                "DDC": "613.712",
+                "UPDATE_DATE": "20170502",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "www.cypressbook.co.kr",
+                "AUTHOR": "김주원",
+                "SERIES_TITLE": "",
+                "KDC": "593.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6178322_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6178322_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "112",
+                "CONTROL_NO": "CIP2017007610",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160320206",
+                "INPUT_DATE": "20170323",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "주원홈트 맥시멈",
+                "PUBLISH_PREDATE": "20170415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

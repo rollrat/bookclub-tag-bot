@@ -1,0 +1,67 @@
+{
+    "otitle": "돈을 만드는 N잡러의 사람을 모으는 기술",
+    "oauthor": "최광미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "돈을 만드는 N잡러의 사람을 모으는 기술 (나는 한 달에 세 번 월급 받는다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444455002",
+                "image": "https://shopping-phinf.pstatic.net/main_3244445/32444455002.20221228072416.jpg",
+                "author": "최광미",
+                "discount": "15300",
+                "publisher": "북스고",
+                "pubdate": "20210604",
+                "isbn": "9791189612993",
+                "description": "게임에서 사용하던 용어인 ‘부캐’의 열풍이 좀처럼 꺼지지 않는다. 한 가지에 일에 몰두하며 본캐(본래 캐릭터)의 성공을 이야기하던 시대에서 이제는 다양한 분야에서 다양한 모습으로 두각을 나타내는 부캐를 가진 사람들의 성공 이야기가 익숙해졌다. 인테리어가 멋진 카페에서 커피 향을 맡으며 노트북으로 몇 시간 일하면서 성공과 부를 거머쥔 ‘디지털 노마드’, ‘N잡러’에 대한 로망을 누구나 가지고 있다. 하지만 그들도 처음이 있었고, 첫 시도가 있었기에 지금의 그 자리에 있는 것이다. [돈을 만드는 N잡러의 사람을 모으는 기술]에는 처음과 첫 시도를 담았다. 이 책의 저자는 그 첫 시도로 ‘글쓰기’만큼 쉬운 것이 없다고 이야기하며 글쓰기를 어디서 어떻게 시작해야 하는지, 사람이 모이고 수익으로 만드는 글은 어떻게 써야 하는지 등을 초보자의 관점에서 하나하나 짚어가며 상세히 설명하고 있다. 또한 블로그 글쓰기, 브런치 글쓰기의 장단점을 짚어주고 각 성격에 맞는 활용 방법을 통해 수익으로 연결하는 방법까지 모두 알려주고 있다. 그뿐만 아니라 유튜브, 프로그램 모집 등 모든 N잡러의 활동 근간이 되는 글쓰기를 통해 어떻게 사람을 모으는지를 다루며 실제 바로 활용할 수 있는 방법을 제시하고 있다. 평범한 누구라도 시작할 수 있는 N잡러의 확실한 동기부여를 제공하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "",
+                "UPDATE_DATE": "20210727",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.booksgo.co.kr",
+                "AUTHOR": "최광미 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "256 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189612993",
+                "INPUT_DATE": "20210525",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(돈을 만드는 N잡러의) 사람을 모으는 기술",
+                "PUBLISH_PREDATE": "20210604",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

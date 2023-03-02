@@ -1,0 +1,67 @@
+{
+    "otitle": "부의 체인저 2",
+    "oauthor": "조던 김장섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부의 체인저 2 (바뀐 세상에서 어떻게 투자할 것인가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474598810",
+                "image": "https://shopping-phinf.pstatic.net/main_3247459/32474598810.20221019142911.jpg",
+                "author": "김장섭",
+                "discount": "15560",
+                "publisher": "트러스트북스",
+                "pubdate": "20211115",
+                "isbn": "9791187993957",
+                "description": "남아 있던 단점까지 극복한 세상에서 가장 완벽한 투자서!\n\n조던 김장섭의 이전 책 『내일의 부』(전2권)는 독자들로부터 열광적인 환호와 큰 사랑을 받았다. 2020년 3월 코로나 위기로 전세계 증시가 폭락세를 연출하면서 독자들의 관심이 증폭되었고, 종합베스트셀러 2위까지 오르는 기염을 토했다. 많은 투자자들이 조던의 ‘-3%룰’ 덕분에 손실을 최소화하고, 위기를 기회로 바꿀 수 있었다. 저자는 이전 책에서 나스닥지수에서 한 달에 -3% 이상의 급락이 4번 이상 나오는 상황을 공황으로 규정하고, 이때 투자자들이 어떻게 대처해야 하는지 다루었다. 바로 2020년 3월 코로나 위기 때 나스닥지수 -3% 이상이 4번 발생하면서 공황에 들어갔고, 책의 출간 시기와 절묘하게 맞아떨어지며, 많은 독자들의 호응과 관심을 받았고, 어려운 상황에서 올바른 대처법을 도움 받을 수 있었다.\n\n이 책 이후 저자는 더욱 연구에 매진하여 남아 있던 단점까지 완벽하게 극복한 이번 책 『부의 체인저』(전2권)를 새롭게 세상에 선보인다. 이 책에서 저자는 코로나 이후 완전히 뒤바뀌어버린 세상을 그의 특별한 통찰력으로 조망하며, 뒤바뀐 그 세상에서 투자로 살아남는 법을 다룬다. 특히 이번 책에서는 ‘제갈량의 세 주머니’라 할 만한 세상에 하나뿐인 특별한 비책을 최초로 공개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "트러스트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220104",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김장섭 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187993957",
+                "INPUT_DATE": "20211028",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "부의 체인저",
+                "PUBLISH_PREDATE": "20211220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

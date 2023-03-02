@@ -1,0 +1,67 @@
+{
+    "otitle": "어쨌든 미술은 재밌다",
+    "oauthor": "박혜성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어쨌든 미술은 재밌다 (그림을 어렵게 느끼는 입문자를 위한 5분 교양 미술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493641698",
+                "image": "https://shopping-phinf.pstatic.net/main_3249364/32493641698.20220527053608.jpg",
+                "author": "박혜성",
+                "discount": "13500",
+                "publisher": "글담출판",
+                "pubdate": "20180125",
+                "isbn": "9791186650448",
+                "description": "하루 5분, 그림이 내게로 온다!\n\n화가의 사소한 이야기부터 미술사를 바꾼 위대한 그림까지, 전공자와 비전공자의 구분 없이 모두 읽을 수 있는 미술 이야기를 들려주는 『어쨌든 미술은 재밌다』. 예술의전당, 인사아트센터 등에서 100여 회가 넘는 전시회를 연 화가이자 블로그 ‘화줌마의 ART STORY’를 통해 하루 5분 미술 상식, 세계 미술 여행, 국내 미술관 산책 등의 이야기를 올리며 온라인에서 뜨거운 반응을 얻고 있는 박혜성의 글을 모아 엮은 책이다.\n\n빅뱅의 뮤직비디오에 차용된 명화 한 점, 다 빈치의 ‘모나리자’가 이탈리아를 떠나 프랑스로 간 속사정, 가우디와 피카소의 격렬한 충돌, 제프 쿤스 부부의 포르노그래피, 똥 통조림이 다이아몬드보다 비싼 값에 팔리게 된 이유 등 하루 5분, 재미있고 흥미롭지만 결코 가볍지 않은 미술 이야기 한 편을 읽을 수 있도록 구성해 누구나 쉽고 편안하게 그림을 가까이할 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "글담출판사",
+                "DDC": "750.2",
+                "UPDATE_DATE": "20180131",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.geuldam.com",
+                "AUTHOR": "박혜성 지음",
+                "SERIES_TITLE": "",
+                "KDC": "650.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6495991_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6495991_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "313 p.",
+                "CONTROL_NO": "CIP2017035921",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186650448",
+                "INPUT_DATE": "20171228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "어쨌든 미술은 재밌다",
+                "PUBLISH_PREDATE": "20180125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

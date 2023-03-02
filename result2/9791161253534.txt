@@ -1,0 +1,67 @@
+{
+    "otitle": "자료 찾기가 어렵습니다 (리커버)",
+    "oauthor": "고영리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "자료 찾기가 어렵습니다(리커버) (제대로 된 자료 찾는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/33123011620",
+                "image": "https://shopping-phinf.pstatic.net/main_3312301/33123011620.20221019135947.jpg",
+                "author": "고영리",
+                "discount": "9000",
+                "publisher": "더디퍼런스",
+                "pubdate": "20220701",
+                "isbn": "9791161253534",
+                "description": "믿을 수 있는 자료 잘 찾는 10가지 솔루션\n“제대로 된 자료를 찾고 싶습니다.”\n\n자료란 ‘정보를 만들기 위해 1차적으로 수집해야 하는 다양한 형태의 사실’이다. 또한 ‘주장하거나 증명하고자 하는 것을 뒷받침해 주는 재료’이다. 즉, 타당성을 위한 가장 기초적인 준비물이다. 이는 자료가 존재하는 이유이기도 하다. 자료는 단순한 사실의 모음이나 근거로서의 역할뿐만 아니라, 좋은 정보가 되며 큰 흐름을 만드는 근거 자료가 된다. 이처럼 좋은 자료는 모든 사실의 시작이다. \n이 책은 당신이 어떤 목적으로 무슨 일을 할 때 자료를 가장 효율적으로 찾을 수 있는 최신 방법에 대해 안내하고 있다. 좋은 자료 찾는 방법, 검색 잘하는 방법, 찾은 자료를 검증하고 분류하는 방법 등을 터득해 빠르고 정확한 자료를 찾게 되길 바란다. 자료는 당신이 하고자 하는 일이 무엇이든 언제나 첫 시작이다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더디",
+                "DDC": "",
+                "UPDATE_DATE": "20220726",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://www.thedifference.co.kr",
+                "AUTHOR": "고영리 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "120 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161253534",
+                "INPUT_DATE": "20220615",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "자료 찾기가 어렵습니다",
+                "PUBLISH_PREDATE": "20220701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

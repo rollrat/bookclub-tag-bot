@@ -1,0 +1,67 @@
+{
+    "otitle": "처음 읽는 윤리학",
+    "oauthor": "서울대학교 철학사상연구소 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "처음 읽는 윤리학 (소크라테스부터 자크데리다까지 성윤리부터 디지털윤리까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32498143691",
+                "image": "https://shopping-phinf.pstatic.net/main_3249814/32498143691.20230209071043.jpg",
+                "author": "서울대학교 철학사상연구소",
+                "discount": "22500",
+                "publisher": "동녘",
+                "pubdate": "20131220",
+                "isbn": "9788972977025",
+                "description": "서울대학교 철학사상연구소는 윤리에 대한 총체적인 연구서를 기획했다. 윤리학에 대한 주요한 쟁점을 살피는 것으로 시작해 근현대 철학에 나타난 다양한 윤리학의 입장들, 또한 일상에서 마주하는 윤리적인 문제들까지 윤리에 대한 모든 것을 한 권에 담아보기로 한 것이다. 국내에서 활발하게 연구하는 철학 연구진 21명이 참여해 24개의 글을 모았고, 이렇게 국내외 유례적인 윤리학 입문서가 탄생하게 됐다. \n\n\n\n이 책의 1부와 2부는 윤리학의 중요성을 다시 짚어보며, 철학에서 윤리가 어떻게 전개됐는지 보여주는 데 집중했다. 특히 2부에서는 소크라테스, 칸트, 키르케고르부터 레비나스, 푸코, 데리다 등과 같이 최근 인기를 얻고 있는 프랑스 현대철학자들까지 근현대를 넘나들며 철학자들이 말했던 윤리에 귀를 기울인다. 구성상 ‘계약론의 입장’, ‘계보학의 입장’, ‘정신분석학의 입장’, ‘페미니즘의 입장’ 등 12개의 입장으로 분류하고 있지만, 각 입장이 정립되기까지 등장했던 많은 사상가들이 총집합되고 있으며, 최근 논의되는 담론에 젊은 이론가까지 모두 수록하려고 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동녘",
+                "DDC": "170",
+                "UPDATE_DATE": "20131210",
+                "EA_ADD_CODE": "93100",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "서울대학교 철학사상연구소",
+                "SERIES_TITLE": "",
+                "KDC": "190",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3155224_3.jpg",
+                "PRE_PRICE": "25,000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3155224_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013026709",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972977025",
+                "INPUT_DATE": "20131206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "처음 읽는 윤리학",
+                "PUBLISH_PREDATE": "20131220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

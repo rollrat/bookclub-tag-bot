@@ -1,0 +1,67 @@
+{
+    "otitle": "국기에 그려진 세계사",
+    "oauthor": "김유석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "국기에 그려진 세계사 (콩이와 함께하는 35개국 역사 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474546728",
+                "image": "https://shopping-phinf.pstatic.net/main_3247454/32474546728.20230131164408.jpg",
+                "author": "김유석",
+                "discount": "17100",
+                "publisher": "틈새책방",
+                "pubdate": "20170324",
+                "isbn": "9791195976027",
+                "description": "국기를 통해 세계사를 읽는다!\n\n국기 한 폭에는 어떤 이야기가 들어 있을까? 한 장의 국기에는 우리가 상상조차 하지 못한 이야기들이 들어있다. 이처럼 『국기에 그려진 세계사』는 한 나라의 역사와 민족, 정체성을 함축한, 나라를 대표하는 상징인 국기를 통해 세계사를 흥미롭게 살펴본다. 일러스트 작가 김혜련이 만 2년간 작업한 텍스트보다 직관적인 그림으로 이야기를 풀어나가며 세계사에 대해 훨씬 편하게 이해하고 세계사에 대한 기초를 쌓을 수 있는 입문서가 되어준다. \n\n선 하나, 문양 한 개, 색깔 한 가지에도 깊은 역사적 의미가 담겨있는 국기는 그 나라의 가장 중요한 순간을 함축하고 있다. 이 책은 그런 국기들이 만들어지는 과정을 역사적으로 해부하고, 그 안에 담긴 복잡한 이야기들을 쉽게 풀어놓는다. 국기를 보다 보면 생각지도 못한 연관성과 규칙을 발견할 수 있는데, 이런 연관성을 이해하게 되면 세계의 역사가 고립된 것이 아닌 연관되어 있고, 함께 발전해왔음을 더 쉽게 알 수 있게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "틈새책방",
+                "DDC": "",
+                "UPDATE_DATE": "20170404",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.teumsaebooks.com",
+                "AUTHOR": "김유석, 김혜련",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "466",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195976027",
+                "INPUT_DATE": "20170313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "국기에 그려진 세계사: 콩이와 함께하는 35개국 역사 여행",
+                "PUBLISH_PREDATE": "20170324",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

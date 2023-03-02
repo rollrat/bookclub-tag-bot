@@ -1,0 +1,67 @@
+{
+    "otitle": "말은 잘하고 싶지만 말 많은 사람은 싫습니다",
+    "oauthor": "질 해슨 저/남혜령 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "말은 잘하고 싶지만 말 많은 사람은 싫습니다 (상대를 움직이는 대화와 커뮤니케이션 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492200204",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492200204.20221228074501.jpg",
+                "author": "질 해슨",
+                "discount": "11700",
+                "publisher": "팬덤북스",
+                "pubdate": "20180727",
+                "isbn": "9791161690506",
+                "description": "우리는 매일 서로 다른 의견과 신념, 요구를 가진 사람들과 소통한다. 생각이나 의견을 교환하고, 상대의 관점을 이해하고, 자신과 관련된 문제를 풀어 가는 능력은 얼마나 효과적으로 커뮤니케이션하느냐에 달려 있다\n\n\n\n효과적인 커뮤니케이션은 삶의 모든 영역에 중대한 영향을 미친다. 직장이나 가정, 친구들이나 가족, 낯선 사람 등 거의 모든 범위에 영향을 준다. 좋은 커뮤니케이션 기술은 다른 사람들과 손쉽게 연결시켜 주고, 친분을 쌓게 하며, 관계를 발전시키도록 돕는다.\n\n\n\n이 책은 크게 두 부분으로 나뉘어 있다. 1~6장은 커뮤니케이션 기술이란 무엇인지, 그 기술들은 어떻게 발전시키는지 등을 알려 준다. 적극적인 경청의 중요성, 소통을 강화하는 열린 질문, 자신감과 공감을 기르는 방법, 명료하고 간결한 글쓰기 등의 기술들을 소개한다. \n\n\n\n7~8장에서는 실제 상황에 대처하는 커뮤니케이션 기술을 보여 준다. 조언을 하거나 잡담을 할 때 어떤 말을 어떻게 해야 하는지와 같은 구체적인 상황을 설명한다. 인터뷰나 프레젠테이션에서 사용하면 좋은 비언어 커뮤니케이션의 중요성도 알려 준다. 또한 명확하고 간결하고 예의를 갖추는 이메일 작성법을 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20180705",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "질 해슨 지음 ;남해령 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161690506",
+                "INPUT_DATE": "20180612",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "말은 잘하고 싶지만 말 많은 사람은 싫습니다",
+                "PUBLISH_PREDATE": "20180727",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

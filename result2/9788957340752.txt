@@ -1,0 +1,67 @@
+{
+    "otitle": "코딱지 대장 버티 1",
+    "oauthor": "앨런 맥도널드 글/데이비드 로버츠 그림/고정아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "코딱지 대장 버티 1: 지렁이 편 (지렁이 편)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436006759",
+                "image": "https://shopping-phinf.pstatic.net/main_3243600/32436006759.20221019142415.jpg",
+                "author": "앨런 맥도널드",
+                "discount": "10800",
+                "publisher": "아이들판",
+                "pubdate": "20190403",
+                "isbn": "9788957340752",
+                "description": "유럽의 어린이책 상을 휩쓴 화제의 베스트셀러!\n전 세계 28개 언어로 출간되어 어린이들을 배꼽 잡게 한 바로 그 책!\n\n세상에서 가장 지저분한 이야기! \n언제나 콧구멍을 후비고 있는 코딱지 대장 버티, \n좌충우돌, 우왕좌왕 '못 말리는 버티'의 상상을 뛰어넘는 엉뚱한 이야기입니다. 하지만 기발한 생각만큼은 세계 최고인 버티입니다. \n어디로 튈지 모르는, 기상천외한 꼬질이 버티의 하루가\n오늘도 흥미진진하게 펼쳐집니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아이들판",
+                "DDC": "",
+                "UPDATE_DATE": "20190429",
+                "EA_ADD_CODE": "73840",
+                "PUBLISHER_URL": "http://www.msp21.co.kr",
+                "AUTHOR": "데이비드 로버츠 기획·그림 ;앨런 맥도널드 글 ;고정아 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/22/9788957340752.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "95 p.",
+                "CONTROL_NO": "CIP2019011353",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957340752",
+                "INPUT_DATE": "20190322",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "코딱지 대장 버티",
+                "PUBLISH_PREDATE": "20190403",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

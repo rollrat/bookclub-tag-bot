@@ -1,0 +1,67 @@
+{
+    "otitle": "오로지 습관하라",
+    "oauthor": "아이카와 히데키 저/최시원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오로지 습관하라 (최고를 만드는 공식은 사소한 습관에 있다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441511817",
+                "image": "https://shopping-phinf.pstatic.net/main_3244151/32441511817.20221019105446.jpg",
+                "author": "아이카와 히데키",
+                "discount": "12420",
+                "publisher": "북스고",
+                "pubdate": "20180730",
+                "isbn": "9791196292768",
+                "description": "최고’라고 불리는 사람들이 있다. 세계 각 분야에서 활약하며 자신만의 아우라와 능력으로 자신이 원하는 바를 확실하게 얻어내는 사람들이 바로 그들이다. 그들은 어떤 상황에서도 어떤 문제나 뜻밖의 일들이 일어나더라도 전혀 당황하지 않고 의연하게 대처한다. 때로는 미리 준비해둔 것이 아닐까 싶을 정도로 하나하나 해결하는 모습을 보며 혀를 내 두를 정도다. 그렇다면 ‘최고’들에게는 그들만의 특별한 비법이 있는 것은 아닐까? 《오로지 습관하라》는 그런 궁금증에서 시작하였다. 일본에서 ‘와세다 학원’을 운영하여 기존과 다른 방식의 교육을 펼치던 저자가, 일하면서 알게 된 세계적인 인재들의 공통점을 하나씩 파헤쳐 새로운 성공 습관으로 정리하였다. 누구나 바로 실천하여 스스로의 인생에 더 좋은 방향으로 이끌 수 있는 변화를 가질 수 있도록 구성하여 쉽게 읽히는 성공을 위한 실천 가이드다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20181115",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.booksgo.co.kr",
+                "AUTHOR": "아이카와 히데키 지음 ;최시원 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6811601_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6811601_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "170 p.",
+                "CONTROL_NO": "CIP2018022284",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196292768",
+                "INPUT_DATE": "20180716",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "오로지 습관하라",
+                "PUBLISH_PREDATE": "20180730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

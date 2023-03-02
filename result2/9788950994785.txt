@@ -1,0 +1,67 @@
+{
+    "otitle": "사실은 이 말이 듣고 싶었어",
+    "oauthor": "윤정은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사실은 이 말이 듣고 싶었어 (윤정은 에세이 | 나를 사랑하지 못하는 나를 위한 다정한 말 한마디)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463425831",
+                "image": "https://shopping-phinf.pstatic.net/main_3246342/32463425831.20221019145303.jpg",
+                "author": "윤정은",
+                "discount": "13500",
+                "publisher": "21세기북스",
+                "pubdate": "20210416",
+                "isbn": "9788950994785",
+                "description": "퇴근길 마음이 헛헛한 날, 평범한 대화가 그리운 날,\n어깨를 다독여주는 그런 무언가가 필요한 날, \n‘사실은 이 말이 듣고 싶었어.’\n10만 독자의 마음을 달랜 작가 윤정은이 선물하는 위로의 문장들\n\n사람은 혼자 살지 못한다. 그렇기에 때로는 누군가의 말 한마디에 쓰러지기도 하고, 다시 일어서기도 한다. 힘들 때 묵묵히 누군가가 곁에 있어 주는 것만으로 충분한 순간들이 있지만, 사막에 혼자 서 있는 것만 같을 때 마음을 달래줄 말 한마디에 목마른 순간들 역시 시시때때로 찾아온다. \n 당신은 오늘을 살게 하는 그 말 한마디를 어디서 찾고 있는가. 『하고 싶은 대로 살아도 괜찮아』라는 책으로 10만 독자의 삶을 격려해온 작가 윤정은이, 다시 따뜻한 문장들을 품에 안고 돌아왔다. 신간 에세이 『사실은 이 말이 듣고 싶었어』에서 작가는 자존감이 무너져 잠 못 들지 못하는 밤, 어디서도 위로받을 길 없어 헛헛한 마음만 부여안고 있는 날, 그 모든 순간 당신 곁에서 힘이 되어줄 수 있는 말들을 들려주고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20210618",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "지은이: 윤정은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "125*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950994785",
+                "INPUT_DATE": "20210324",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사실은 이 말이 듣고 싶었어",
+                "PUBLISH_PREDATE": "20210416",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "결혼은 모르겠고 내 집은 있습니다",
+    "oauthor": "김민정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "결혼은 모르겠고 내 집은 있습니다 (지속 가능한 1인용 삶을 위한 인생 레시피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436278474",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436278474.20221229073447.jpg",
+                "author": "김민정",
+                "discount": "12960",
+                "publisher": "21세기북스",
+                "pubdate": "20201209",
+                "isbn": "9788950993160",
+                "description": "임시의 삶은 이제 끝내기로 했다!\n1인 가구, 부동산 전쟁의 중심에서 ‘내 집’을 외치다\n\n서울 집값은 오늘이 제일 싸다던데…. 자고 일어나면 내가 화제의 ‘벼락 거지’가 되어 있는 건 아닌지 걱정이다. 평범하게 일하고 차곡차곡 저축해 왔는데, 폭등하는 집값 때문에 하루아침에 전세는커녕 월세 난민 신세가 될지도 모른다는 공포. ‘영끌’ ‘몸테크’ 등 부동산 대란 속에서 무주택자들의 애환이 담긴 신조어들이 연일 쏟아지고 있다. 바야흐로 내 집을 마련하려는 이들은 영혼까지 끌어모으거나 극악의 주거 환경을 몸으로 때우며 먼 미래로 삶을 유예해야만 하는 상황이 된 것이다.\n\n가구 구성원 모두가 똘똘 뭉쳐도 쉽지 않은 ‘내 집 마련’을 해낸 ‘1인 가구’가 바로 여기 있다. 고양시의 한 아파트에서 고양이 두 마리와 함께 살아가는 ‘1인2묘 가구’가 바로 그 주인공이다. 《결혼은 모르겠고 내 집은 있습니다》는 뭐든 혼자서 해내려던 저자가 내 집을 마련하고, 고양이 두 마리, 친구들을 만나며 ‘따로 또 함께’의 삶으로서 비혼 라이프를 갱신하고 있는 1인 가구의 새로운 오늘에 대한 기록이다. 비혼을 결심하고 1인 가구로서 내 집 마련에 이르기까지 그녀에게 어떤 일이 있었을까? 자신의 집에서 그녀는 과연 행복하게 쭉 잘 살고 있을까? 유튜브 화제의 채널 ‘1인2묘 가구’의 내 집 마련 분투기와 그 후의 이야기를 책으로 만난다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20210218",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "김민정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950993160",
+                "INPUT_DATE": "20201209",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "결혼은 모르겠고 내 집은 있습니다",
+                "PUBLISH_PREDATE": "20201209",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

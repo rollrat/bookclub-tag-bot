@@ -1,0 +1,67 @@
+{
+    "otitle": "리가의 개들",
+    "oauthor": "헨닝 망켈 저/박진세 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "리가의 개들",
+                "link": "https://search.shopping.naver.com/book/catalog/34345752630",
+                "image": "https://shopping-phinf.pstatic.net/main_3434575/34345752630.20221019140330.jpg",
+                "author": "헨닝 망켈",
+                "discount": "13320",
+                "publisher": "피니스아프리카에",
+                "pubdate": "20220901",
+                "isbn": "9791185190532",
+                "description": "헨닝 망켈은 ‘마르틴 베크 시리즈’를 쓴 마이 셰발과 페르 발뢰의 적자로 두 작가에 이어 변화하는 스웨덴의 사회상을 범죄소설을 통해 이야기했다. 『리가의 개들』은 중년의 위기를 맞은 쿠르트 발란데르 형사가 두 번째로 등장하는 소설로, LA 타임스 미스터리/스릴러 부문 최종 후보작에 올랐다.\n쿠르트 발란데르와 그의 수사반이 익명의 제보를 받은 때는 겨울이었다. 며칠 후 해안으로 구명보트가 떠밀려 올 것이라는. 구명보트 안에는 비싼 양복을 입은 두 남자가 총에 맞아 죽어 있었다. 죽은 두 남자는 갱단에 희생된 범죄자들로 보였다. 경찰의 감시, 보이지 않는 위협 그리고 거짓말이 난무하는 라트비아의 수도 리가로 출장 간 발란데르에게 간단히 해결될 것 같은 사건은 점점 더 불길한 양상을 띠는 것처럼 보인다. 발란데르는 자신이 쫓는 어두운 그림자에 계속 한발 뒤처진다. 정의가 이루어지길 바라는 발란데르의 고집만이 진실에 불을 비출 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "피니스 아프리카에",
+                "DDC": "",
+                "UPDATE_DATE": "20220916",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "헨닝 망켈 지음 ;박진세 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "395 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185190532",
+                "INPUT_DATE": "20220810",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "리가의 개들",
+                "PUBLISH_PREDATE": "20220901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

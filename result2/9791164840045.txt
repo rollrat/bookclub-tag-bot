@@ -1,0 +1,67 @@
+{
+    "otitle": "페미니스트까진 아니지만",
+    "oauthor": "박은지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "페미니스트까진 아니지만 (명확히 설명 안 되는 불편함에 대하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458974872",
+                "image": "https://shopping-phinf.pstatic.net/main_3245897/32458974872.20230219103310.jpg",
+                "author": "박은지",
+                "discount": "13320",
+                "publisher": "생각정거장",
+                "pubdate": "20190812",
+                "isbn": "9791164840045",
+                "description": "“그냥 그 얘기는 하지 말자. 말할 때마다 싸우니까.”\n너와 이야기하면 나는 예민한 여자가 된다\n\n하고 싶은 말은 많지만, 그것을 어떻게 다 말할 수 있을까요?\n여성으로서 남성들과 이야기하다 보면 명확히 설명 안 되는 불편함을 발견할 때가 있습니다. 때로는 본격적인 이야기가 시작되기도 전에 배척의 눈빛이 느껴지기도 합니다. 너무나도 쉽게 “너 페미니스트야?”를 묻는 이 세상에서 목소리를 내기는 더욱 조심스러워 졌습니다. 하지만 내가 무엇 때문에 불편한지는 꾸준히 고민해야 하는 문제입니다.\n모든 여성들이 페미니즘에 대해 깊게 공부하고 세상을 바꾸기 위해 앞장서 싸울 수는 없습니다. 다만 스스로 납득할 수 있는 삶을 선택하고, 가까운 가족과 사랑하는 사람에게 그 선택을 이해시키기 위해 어떤 대답을 할 수 있을지 담담히 모색하고자 합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정거장",
+                "DDC": "",
+                "UPDATE_DATE": "20190821",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "박은지 지음",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "CIP2019027460",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164840045",
+                "INPUT_DATE": "20190712",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "페미니스트까진 아니지만",
+                "PUBLISH_PREDATE": "20190812",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

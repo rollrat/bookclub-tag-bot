@@ -1,0 +1,67 @@
+{
+    "otitle": "더 골 The Goal (만화판)",
+    "oauthor": "엘리 골드렛,제프 콕스 원저/기시라 유지 감수/아오키 다케오 각색/아오타 야마 만화/김해용 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "더 골 The Goal (만화판) (당신의 목표는 무엇인가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466654958",
+                "image": "https://shopping-phinf.pstatic.net/main_3246665/32466654958.20221227204814.jpg",
+                "author": "엘리 골드렛",
+                "discount": "10800",
+                "publisher": "동양북스",
+                "pubdate": "20151008",
+                "isbn": "9791157031559",
+                "description": "이스라엘의 물리학자에서 전 세계 주요 기업과 정부 기관의 경영 컨설턴트로 대변신하면서 ‘천재’, ‘비즈니스 업계의 대가’라 불리는 엘리 골드렛의 대표작 &lt;더 골&gt; 만화판이다. &lt;더 골&gt;은 1984년 출간 이후 30년이 흘렀지만, 지금도 아마존 경제경영 1위를 고수하고 있을 정도로 오래가는 고전이다. 600쪽에 육박하는 방대한 양의 이 책을 200여 쪽으로 대폭 줄이면서 재미와 속도와 깊이라는 세 가지 메인 메뉴를 골고루 배합하였다.\n\n\n\n이 책은 원작과는 차별되는 큰 장점을 갖고 있는데, 그것은 바로 TOC 이론을 매우 쉽고 빠르게 이해할 수 있다는 것이다. 분량에 압도되어 지레 겁을 먹고 원작 읽기를 포기했던 많은 독자들이 &lt;더 골&gt;의 핵심 이론인 TOC를 너무나 쉽고 빠르게 이해할 수 있다는 장점에 대해 수많은 독자들이 호평을 쏟아내고 있다. 또한 페이지 페이지마다 사건이 펼쳐지고 그 사건이 어떻게 해결되어 가는지가 흥미진진하다는 점은 원작과 마찬가지로 큰 장점이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양books",
+                "DDC": "823.914",
+                "UPDATE_DATE": "20151127",
+                "EA_ADD_CODE": "07320",
+                "PUBLISHER_URL": "http://www.dongyangbooks.com",
+                "AUTHOR": "엘리 골드렛, 제프 콕스 지음 아오타 야마 만화 김해용 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4867782_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4867782_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240",
+                "CONTROL_NO": "CIP2015024435",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157031559",
+                "INPUT_DATE": "20150904",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "[만화판]더 골 ; 당신의 목표는 무엇인가?",
+                "PUBLISH_PREDATE": "20151016",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

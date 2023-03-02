@@ -1,0 +1,67 @@
+{
+    "otitle": "실리콘밸리를 읽으면 미국 주식이 보인다",
+    "oauthor": "양연정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "실리콘밸리를 읽으면 미국 주식이 보인다 (뜬 주식이 아니라 뜰 주식을 잡아라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456019983",
+                "image": "https://shopping-phinf.pstatic.net/main_3245601/32456019983.20221230074939.jpg",
+                "author": "양연정",
+                "discount": "14400",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20210720",
+                "isbn": "9791165343774",
+                "description": "포스트 코로나 시대는 백 년 만에 찾아오는 절호의 기회이다\n부자가 되려면 당장 미국 실리콘밸리 ETF에 투자하라!\n\n이 책에서 다루는 기본 투자 원칙은 \n‘실리콘밸리 기술주와 미국 증시 랠리’의  \nETF를 통한 2년 이상 장기 분산투자다. \n\n현재 한국 투자자들이 가장 많이 투자한 미국 주식 톱 5는 테슬라, 애플, 아마존, 마이크로소프트, 알파벳(구글)이다. 모두 실리콘밸리와 서부에 본사를 둔 기업들이다. 테슬라는 팰로앨토Palo Alto, 애플은 쿠퍼티노Cupertino, 구글은 마운틴 뷰Mountain View에 본사가 위치한다. 모두 실리콘밸리 지역 도시들이다. 아마존은 시애틀 Seattle, 마이크로소프트는 레드먼드Redmond에 본사가 있는데, 두 도시 모두 미 서부 워싱턴주에 위치한다. 미국 주식시장에서 투자할 만한 테크 기업들의 90% 이상이 실리콘밸리에 본사를 두고 있다. 2021년 앞으로도 3년 동안 미국 증시는 실리콘밸리가 주도하는 대형 기술주 중심으로 상승을 계속할 것이다. 지난 3년간 폭발적으로 증가한 기업공개도 기술주 주도의 증시 상승 전망에 더욱 힘을 보태고 있다. 그리고 이들 기술주 투자에 필요한 알짜 정보는 월가가 아닌 실리콘밸리에 있다. 그러므로 미국 주식에 투자하려면 반드시 실리콘밸리를 봐야 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20210819",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "양연정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "245 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165343774",
+                "INPUT_DATE": "20210701",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "실리콘밸리를 읽으면 미국주식이 보인다",
+                "PUBLISH_PREDATE": "20210720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

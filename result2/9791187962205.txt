@@ -1,0 +1,67 @@
+{
+    "otitle": "인생을 바꾸는 정리기술",
+    "oauthor": "윤정훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인생을 바꾸는 정리 기술 (물건과 공간, 인생을 디자인하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436428622",
+                "image": "https://shopping-phinf.pstatic.net/main_3243642/32436428622.20221027194832.jpg",
+                "author": "윤정훈",
+                "discount": "13500",
+                "publisher": "다연",
+                "pubdate": "20190411",
+                "isbn": "9791187962205",
+                "description": "내 인생을 빛나게 해줄 정리의 기술\n\n  이 책은 우리에게 왜 정리가 필요한지 그 이유를 정확히 짚어준 뒤, 정리를 하고 난 후 원상태로 돌아가지 않도록 물건에 자리를 만들어주는 방법, 최적의 공간을 활용하는 방법 등 실전 정리수납법을 총 6장에 걸쳐 알려줄 것이다. 한마디로 이 책은 ‘실패하지 않는 정리 기술서’이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다연",
+                "DDC": "",
+                "UPDATE_DATE": "20190417",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윤정훈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "591",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/28/9791187962205.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*213",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "CIP2019012276",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187962205",
+                "INPUT_DATE": "20190328",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "인생을 바꾸는 정리 기술",
+                "PUBLISH_PREDATE": "20190411",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

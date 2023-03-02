@@ -1,0 +1,67 @@
+{
+    "otitle": "혼자 살아가기",
+    "oauthor": "송제숙 저/황성원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "혼자 살아가기 (비혼여성, 임대주택, 민주화 이후의 정동)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497149716",
+                "image": "https://shopping-phinf.pstatic.net/main_3249714/32497149716.20220527052524.jpg",
+                "author": "송제숙",
+                "discount": "13500",
+                "publisher": "동녘",
+                "pubdate": "20160630",
+                "isbn": "9788972977704",
+                "description": "이 책은 여성의 교육 수준과 사회적 지위가 이전과 비할 수 없이 올라갔고 자유롭고 독립적인 여성의 삶이 대중매체 등을 통해 이토록 널리 확신이 되었음에도, 여전히 비혼을 선택하는 것, 비혼여성이 독립해 혼자 살아가는 것은 투쟁에 가깝다는 것을 여실히 드러낸다. 저자는 한국의 비혼여성의 상황을 “이 같은 친족관계로부터의 주변화와 젠더화된 사회경제적 지위는 퀴어 집단이나 이혼여성 같은, 한국사회에서 규범적인 성인의 삶에 속하지 않는 다른 하위 인구 집단들이 직면한 상황에 비견될만하다”라고 정리한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동녘",
+                "DDC": "306.81",
+                "UPDATE_DATE": "20161025",
+                "EA_ADD_CODE": "93330",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "송제숙",
+                "SERIES_TITLE": "",
+                "KDC": "332.277",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5477998_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5477998_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240쪽 내외",
+                "CONTROL_NO": "CIP2016014069",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972977704",
+                "INPUT_DATE": "20160527",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "혼자 살아가기",
+                "PUBLISH_PREDATE": "20160630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

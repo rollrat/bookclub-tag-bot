@@ -1,0 +1,67 @@
+{
+    "otitle": "주식투자 ETF로 시작하라",
+    "oauthor": "systrader79,이성규 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "주식투자 ETF로 시작하라 (실전 ETF 투자 매뉴얼)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441654711",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441654711.20230223071021.jpg",
+                "author": "systrader79^이성규",
+                "discount": "17100",
+                "publisher": "이레미디어",
+                "pubdate": "20180205",
+                "isbn": "9791188279104",
+                "description": "쉽고 단순한 방법으로 누구나 지속적인 수익을 내는 전략을 공개한다! 데이터를 통해 검증된 전략을 바탕으로 나만의 필승 D.I.Y. 포트폴리오를 구성하자!\n\n아직도 수많은 개인투자자는 비합리적인 의사 결정으로 시장의 먹잇감이 되고 있다. 특정 종목에 올인하여 까마득한 손실을 입거나, 우량주에 투자하면서도 돈을 잃는 경우가 태반이다. ‘수익률이 높으면서도 안정적인 투자는 없을까?’라며 한 번이라도 고민한 사람이라면 ETF 투자가 정답이다. \nETF (Exchange Traded Fund, 상장지수펀드)는 수많은 주식 종목을 하나로 묶어 분산투자할 수 있는 가장 안전하고 이상적인 투자수단이다. 『주식투자 ETF로 시작하라』는 전 세계적인 투자 트렌드인 ETF와 운용전략에 대해 쉽고 간단하게 설명한다. 주식 초보라면 투자의 기초부터 전략까지 단번에 수립하는 방법을 배울 수 있다. 게다가 주식 전문 투자가는 데이터를 바탕으로 철저히 검증한 결과물을 이 책 통해 확인하고, 자신의 투자 운용전략을 새롭게 수립하거나 수정할 수 있다. 또한, 투자 전략의 장점을 집약한 MPAA 전략을 소개하고, 투자 시뮬레이션까지 스텝바이스텝으로 따라할 수 있게 도와준다. 이제 『주식투자 ETF로 시작하라』를 통해 객관적이고 합리적인 투자법을 배우고, 자신만의 전략을 수립해 절대 수익을 올리는 일만 남았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "332.6322",
+                "UPDATE_DATE": "20180206",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "systrader79,이성규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6513470_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "393 p.",
+                "CONTROL_NO": "CIP2018001456",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188279104",
+                "INPUT_DATE": "20180112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "주식투자 ETF로 시작하라",
+                "PUBLISH_PREDATE": "20180205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "곤충의 통찰력",
+    "oauthor": "길버트 월드바우어 저/김홍옥 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "곤충의 통찰력 (해충이 우리에게 가르쳐주는 것들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487155439",
+                "image": "https://shopping-phinf.pstatic.net/main_3248715/32487155439.20221228072126.jpg",
+                "author": "길버트 월드바우어",
+                "discount": "18000",
+                "publisher": "에코리브르",
+                "pubdate": "20170720",
+                "isbn": "9788962631616",
+                "description": "매혹적인 교훈을 담은 곤충계의 명사록!\n\n자연선택에 의거한 진화론에 근거해 곤충의 생활양식에 대해 이야기하는 『곤충의 통찰력』. 자연선택이 이끄는 진화는 30만 종이 넘는 식물과 120만 종이 넘은 동물을 만들어냈으며, 그 동물종 가운데 90만 종이 곤충이다. 이들 곤충 집단은 우리 인간 생존에 반드시 필요한 존재다. 만약 곤충이 존재하지 않는다면 농업을 비롯한 생태계 전반이 무너질 테고, 우리가 알고 있는 생명이라는 존재도 더는 존속하지 못할 것이다. \n\n그런 곤충 가운데 극히 일부인 2퍼센트만이 우리가 저장해놓은 곡물을 좀먹고, 재배하는 작물에 해를 끼치며, 질병을 퍼뜨린다는 사실과 마주해야 한다. 그러면 어떻게 해야 이러한 것들을 극복할 수 있을까? 우리는 소수 해충에 대해 더 많은 것을 알고 있다. 그들이 우리에게 경제적으로 피해를 안겨주므로 무해하다 싶은 곤충보다 그들에 대한 연구에 더 많은 시간과 노력을 기울이고 비용을 투자한 결과다. 이는 적어도 경제적 관점에서 볼 때 당연한 일이다. 다행히 우리가 해충에 관해 알아낸 사실은 다른 모든 곤충에게도 적용될 뿐 아니라, 인간 역시 생존을 기대고 있는 전 지구적 생명체의 망(web)에서 곤충이 차지하는 역할에 대해 많은 것을 일깨워준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "에코리브르",
+                "DDC": "",
+                "UPDATE_DATE": "20170727",
+                "EA_ADD_CODE": "03490",
+                "PUBLISHER_URL": "http://www.arachne.co.kr",
+                "AUTHOR": "길버트 월드바우어 지음 ;김홍옥 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962631616",
+                "INPUT_DATE": "20170727",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "곤충의 통찰력",
+                "PUBLISH_PREDATE": "20170720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

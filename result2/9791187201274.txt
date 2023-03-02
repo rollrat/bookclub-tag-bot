@@ -1,0 +1,67 @@
+{
+    "otitle": "핵심 읽기 최소원칙",
+    "oauthor": "정경수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "핵심읽기 최소원칙 (핵심을 읽고 이해하고 기억하는 현실적인 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493296376",
+                "image": "https://shopping-phinf.pstatic.net/main_3249329/32493296376.20221019104849.jpg",
+                "author": "정경수",
+                "discount": "13500",
+                "publisher": "큰그림(슈퍼그래픽)",
+                "pubdate": "20191007",
+                "isbn": "9791187201274",
+                "description": "읽기의 목적은 이해와 기억이다\n\n읽지 않고 무언가를 배운다는 건 상상할 수 없다. 학생은 공부하기 위해서 읽고 직장인은 일하기 위해서 읽는다. 읽기의 본질은 글자를 인지하는 게 아니다. 의미를 이해해서 기억에 남기는 것이 제대로 된 읽기다. 하지만 읽은 내용을 전부 기억할 수는 없다. 핵심 문장, 키워드를 찾아낸 다음 필요한 정보에 집중해서 배경지식, 경험과 연결하면서 읽는다. 이렇게 읽으면 핵심을 기억할 수 있다.\n공부와 일에서 좋은 성과를 내는 데는 집중력, 몰입, 동기부여, 환경 등 다양한 요인이 작용한다. 이중 가장 결정적인 요인은 ‘읽기’다. 더 구체적으로 말하면 읽고 이해하고 분석하는 능력이 뛰어나면 좋은 성적, 좋은 성과를 얻는다. 더 빨리, 많이 읽는 게 아니라 읽고 이해하고 활용하는 능력을 키워야 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "큰그림 :슈퍼그래픽",
+                "DDC": "",
+                "UPDATE_DATE": "20191014",
+                "EA_ADD_CODE": "03020",
+                "PUBLISHER_URL": "fb.com/bpcpress",
+                "AUTHOR": "정경수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "029.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "269 p.",
+                "CONTROL_NO": "CIP2019035127",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187201274",
+                "INPUT_DATE": "20190904",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "핵심 읽기 최소원칙",
+                "PUBLISH_PREDATE": "20191007",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

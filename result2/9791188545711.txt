@@ -1,0 +1,67 @@
+{
+    "otitle": "죽음을 생각하는 시간",
+    "oauthor": "로라 프리책 저/신솔잎 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "죽음을 생각하는 시간 (언젠가 마주할 마지막 순간을 위한 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441458003",
+                "image": "https://shopping-phinf.pstatic.net/main_3244145/32441458003.20221228074344.jpg",
+                "author": "로라 프리챗",
+                "discount": "13500",
+                "publisher": "빌리버튼",
+                "pubdate": "20191129",
+                "isbn": "9791188545711",
+                "description": "PEN USA Award 수상 작가가 전하는 죽음에 관한 이야기. 살아 있는 한, 인간은 모두 죽음을 맞이한다. 나의 죽음, 그리고 내가 사랑하는 이들의 죽음을 어떻게 맞이할 것인지를 생각하게 하는 책, 언젠가 마주할 나의 마지막 순간을 준비하는 데 큰 도움을 주는 매우 실용적인 책이다.  \n\n1부에서는 죽음을 준비하는 과정에서 우리가 해야 할 일을 정리했다. “어떻게 죽어야 할까” “타인의 죽음을 어떻게 도울 수 있을까” “마지막의 그 순간을 어떻게 맞이해야 할까” 등의 주제에 대해 깊이 생각할 수 있는 시간을 제공한다.\n삶을 잘 사는 것이 곧 죽음을 잘 맞이하는 것이라는 말이 있듯, 2부에서는 각자에게 주어진 남은 삶을 잘 가꾸는 방법에 대한 내용을 담았다. \n3부는 1부에서 고민한 내용을 정리할 수 있는 질문들을 담았다. 중요하고 의미 있는 질문들을 모아두었다. 질문에 답을 써내려가면서 ‘나만의 굿바이책’을 만드는 데 도움을 준다. \n이 책은 중요하고 다양한 죽음에 관한 질문을 던짐으로써, 독자가 죽음과 마주할 수 있는 기회를 주고, 죽음 준비를 착실하게 마칠 수 있게 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "",
+                "UPDATE_DATE": "20191220",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "로라 프리쳇 지음 ;신솔잎 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "182.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/07/9791188545711.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "305 p.",
+                "CONTROL_NO": "CIP2019045314",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188545711",
+                "INPUT_DATE": "20191107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "죽음을 생각하는 시간",
+                "PUBLISH_PREDATE": "20191129",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

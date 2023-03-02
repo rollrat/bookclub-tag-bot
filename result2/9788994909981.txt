@@ -1,0 +1,89 @@
+{
+    "otitle": "보고서 마스터",
+    "oauthor": "윤영돈,이병주 공저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:51 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "보고서 마스터 (1Page로 설득하라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466845461",
+                "image": "https://shopping-phinf.pstatic.net/main_3246684/32466845461.20230219103421.jpg",
+                "author": "이병주^윤영돈",
+                "discount": "13500",
+                "publisher": "가디언",
+                "pubdate": "20170518",
+                "isbn": "9788994909981",
+                "description": "완벽한 보고서 작성을 위한 실전 노하우\n\n보고서를 잘 쓴다는 것은 단순히 문장을 잘 쓰는 것만을 의미하지는 않는다. 물론 시각적으로 보기 좋게 꾸미는 것만을 의미하지도 않는다. 기본적으로는 시간 관리 능력을 포함해 한 사람이 가진 업무 지식과 동원 가능한 정보, 통찰력 있는 분석, 상하 동료 간의 의사소통, 추진력 등의 결정체가 바로 보고서이다. 그래서 보고서 작성 능력이 곧 업무 능력이라고 평가하기도 한다. \n\n『보고서 마스터』는 수없이 보고서를 작성하면서도 보고서와 결코 친해지지 못하는 사람들을 위해 그동안 저자들이 각 분야에서 갈고닦은 실전 경험과 노하우는 물론 조직이나 업무와 관련된 다양한 통찰까지 제공한다. 따라서 보고서를 쓰는 데 애를 먹고 있거나 좀 더 다양한 보고서 사례를 필요로 하는 사람이라면 필독을 권한다. 보고서 작성 능력뿐만 아니라 업무 능력까지 향상되는 것을 경험하게 될 것이다."
+            },
+            {
+                "title": "보고서 마스터(큰글자책) (칼퇴근과 승진을 부르는 완벽한 보고서 작성 50가지 체크리스트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461136900",
+                "image": "https://shopping-phinf.pstatic.net/main_3246113/32461136900.20221019114633.jpg",
+                "author": "윤영돈",
+                "discount": "31500",
+                "publisher": "가디언",
+                "pubdate": "20200630",
+                "isbn": "9791189159597",
+                "description": "저자들도 처음부터 보고서를 잘 썼던 것은 아니다. 이들도 여러 차례의 시행착오를 거치고 수많은 사례를 접하면서 조금씩 문서 작성 기술이 향상되었다. 그래서 자신들이 겪은 쓰디쓴 경험을 후배들은 겪지 않았으면 하는 바람에서 이 책을 쓰게 되었다.\n\n\n\n는 수없이 보고서를 작성하면서도 보고서와 결코 친해지지 못하는 사람들을 위해 그동안 저자들이 각 분야에서 갈고닦은 실전 경험과 노하우는 물론 조직이나 업무와 관련된 다양한 통찰까지 제공한다."
+            },
+            {
+                "title": "보고서 작성법 66 (모건스탠리 엘리트들의 보고서 작성 고급 스킬을 마스터 하자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504765773",
+                "image": "https://shopping-phinf.pstatic.net/main_3250476/32504765773.20220521124201.jpg",
+                "author": "쿠마노 히토시",
+                "discount": "0",
+                "publisher": "아이스토리",
+                "pubdate": "20161115",
+                "isbn": "9791195526178",
+                "description": "『세계적인 투자은행의 보고서 작성법 66』은 업무에 꼭 필요한 66가지 보고서 작성의 규칙을 소개한 책이다. 수많은 직장인들의 문서 작성 스트레스를 날려주었던 쿠마노 히토시가 이번에는 엑셀 뿐만 아니라 파워포인트 프리젠테이션 작성 스킬까지 낱낱이 파헤친다. 어떻게 하면 상대에게 보기 쉽고 알기 쉽게 내용을 전달할 수 있을지에 대한 해답을 이 책이 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가디언",
+                "DDC": "651.78",
+                "UPDATE_DATE": "20170519",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.sirubooks.com",
+                "AUTHOR": "윤영돈, 이병주",
+                "SERIES_TITLE": "",
+                "KDC": "325.484",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6179665_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6179665_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 330페이지 내외",
+                "CONTROL_NO": "CIP2017007535",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994909981",
+                "INPUT_DATE": "20170323",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "보고서 마스터 ",
+                "PUBLISH_PREDATE": "20170518",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

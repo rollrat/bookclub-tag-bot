@@ -1,0 +1,67 @@
+{
+    "otitle": "오! 한강 1",
+    "oauthor": "김세영 저/허영만 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오! 한강 1: 해방 (해방)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462837746",
+                "image": "https://shopping-phinf.pstatic.net/main_3246283/32462837746.20230103165138.jpg",
+                "author": "김세영",
+                "discount": "11700",
+                "publisher": "가디언",
+                "pubdate": "20190425",
+                "isbn": "9791189159283",
+                "description": "25년의 시간을 뛰어넘어 부활한 허영만, 김세영의 『오! 한강』!\n\n민주화 시위가 치열했던 1980년대 말, 해방 이후부터 1987년 6월 항쟁까지 우리의 현대사를 생생하고 드라마틱하게 그려낸 만화가 허영만과 만화 작가 김세영의 『오! 한강』 제1권 《해방》. 만화의 인기가 정점을 달렸던 1980년대 코믹한 분위기를 거두고 현실 속의 이념 대립 문제를 정면으로 다룬 우리나라의 첫 이데올로기 만화다. 오늘날의 시각으로 쓴 현대사와 달리, 1980년대 민주화 운동이 격렬했던 당시에 그려진 현대사로, 시대의 분위기를 생생하게 담고 있다.\n\n일제강점기에 가난한 소작농의 아들로 태어난 주인공 이강토. 해방 무렵 강토는 일본인 소녀 야스코가 두고 간 화구로 그림을 시작한다. 그림에 소질이 있었던 강토는 지주의 딸, 동갑내기 김혜린의 제안으로 상경한다. 서울살이를 하며 그림을 익히던 강토는 대학생 서클에 가입해 혁명에 대해 듣게 된다. 강토는 평등의 개념을 깨닫고 예술로써 혁명을 이루고자 결심하는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가디언",
+                "DDC": "",
+                "UPDATE_DATE": "20190521",
+                "EA_ADD_CODE": "04910",
+                "PUBLISHER_URL": "www.sirubooks.com",
+                "AUTHOR": "글: 김세영 ;그림: 허영만",
+                "SERIES_TITLE": "",
+                "KDC": "911.06",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791189159276",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/04/9791189159283.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "CIP2019013206",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189159283",
+                "INPUT_DATE": "20190404",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "오! 한강",
+                "PUBLISH_PREDATE": "20190425",
+                "RELATED_ISBN": "9791189159214",
+                "SET_ADD_CODE": "04910 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "빅니스",
+    "oauthor": "팀 우 저/조은경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빅니스 (거대 기업에 지배당하는 세계)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441626348",
+                "image": "https://shopping-phinf.pstatic.net/main_3244162/32441626348.20221229074304.jpg",
+                "author": "팀 우",
+                "discount": "14400",
+                "publisher": "소소의책",
+                "pubdate": "20201222",
+                "isbn": "9791188941568",
+                "description": "거대 기업이 우리의 삶을 위협하고 있다\n「워싱턴 포스트」 논픽션 베스트셀러! 아마존 반독점법 분야 1위!\n\n지금 우리는 전 세계 곳곳에서 벌어지는 기업집중으로 인한 ‘거대함의 저주’에 맞닥뜨려 있다. 그것은 곧 부의 집중화, 빈부 격차의 심화, 거대 기업이 누리는 특혜 등 편중된 경제의 문제를 뛰어넘어 정치체제와 개인의 삶까지 위협할 만큼 막강한 영향력을 행사하고 있다. 구글이나 아마존, 페이스북 같은 거대 기술 기업은 이미 우리의 일상생활을 지배할 만큼 독보적인 입지를 다졌고 모든 것에 대한 정보를 낱낱이 꿰차고 있다. 이 책은 지난 수십 년간 진행된 독점과 과점, 그리고 반독점의 역사를 냉철하게 돌아보면서 불평등한 경제구조가 어떤 문제를 일으켰는지 비교 분석한다. 다양한 산업 분야에서 거대 기업이 어떻게 생겨나 자유롭고 공정한 경쟁을 가로막거나 방해했는지, 그로 인한 폐해는 무엇이고 어떻게 해결해나가야 하는지를 명쾌하게 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "",
+                "UPDATE_DATE": "20210204",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "팀 우 지음 ;조은경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "324.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "218 p.",
+                "CONTROL_NO": "CIP2020050184",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188941568",
+                "INPUT_DATE": "20201124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "빅니스",
+                "PUBLISH_PREDATE": "20201222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

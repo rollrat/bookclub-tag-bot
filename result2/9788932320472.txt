@@ -1,0 +1,67 @@
+{
+    "otitle": "아메리칸 엔드 게임",
+    "oauthor": "김광기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아메리칸 엔드 게임 (지금 반드시 읽어야 할 미국)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497848726",
+                "image": "https://shopping-phinf.pstatic.net/main_3249784/32497848726.20221019150157.jpg",
+                "author": "김정희",
+                "discount": "16200",
+                "publisher": "현암사",
+                "pubdate": "20201030",
+                "isbn": "9788932320472",
+                "description": "『아메리칸 엔드 게임』은 〈아이티를 ‘봉’으로 삼은 클린턴 재단의 민낯〉, 〈기울어진 운동장 - 미국의 대학입시〉, 〈미국 대학입시와 우리〉등을 수록하고 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20201116",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "김광기 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "368 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932320472",
+                "INPUT_DATE": "20201016",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "아메리칸 엔드 게임",
+                "PUBLISH_PREDATE": "20201030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

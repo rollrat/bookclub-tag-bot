@@ -1,0 +1,67 @@
+{
+    "otitle": "써드 씽킹",
+    "oauthor": "가게야마 테쓰야 저/이정현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "써드 씽킹 (직관과 논리를 뛰어넘는 제3의 사고법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465504111",
+                "image": "https://shopping-phinf.pstatic.net/main_3246550/32465504111.20221019123732.jpg",
+                "author": "가게야마 테쓰야",
+                "discount": "13500",
+                "publisher": "21세기북스",
+                "pubdate": "20210804",
+                "isbn": "9788950996819",
+                "description": "“써드 씽킹을 알고 난 후 나는 불가능했던 모든 일을 해낼 수 있었다!”\n지금의 나를 넘어 즉각적이고 강력한 변화를 이끄는 써드 씽킹의 힘!\n\n인생은 하나하나의 의사결정으로 이루어진다. 그렇다면 우리는 매일 어떤 의사결정을 하고 있을까? 노벨경제학상을 수상자 대니얼 카너먼을 비롯해 지금까지의 연구에 의하면 인간은 직관(제1의 사고)과 논리(제2의 사고)라는 두 가지 뇌 작용으로 사고한다고 알려져왔다. 그런데 최근 뇌과학과 심리학 연구결과, 인간의 사고에는 직관과 논리를 뛰어넘는 제3의 사고, 바로 ‘써드 씽킹(THIRD THINGKING)’이 존재한다는 것이 밝혀졌다. 써드 씽킹을 인식하고, 스스로 활용할 수 있게 되면 빠른 의사결정이 가능해지고, 매 순간 최고의 선택을 하게 되며, 창의력이 극대화되고, 복잡한 문제를 즉시 해결하고, 잠재된 가능성이 발현되는 등 이전과는 비교할 수 없는 차이를 만들어낸다. 전 세계에서 가장 앞서 써드 씽킹을 연구해온 세계적 선구자인 저자는 이와 같은 써드 씽킹의 놀라운 효과뿐만 아니라 이를 실생활과 비즈니스에 활용하는 방법까지 이 책에 모두 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20210930",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "가게야마 테쓰야 지음 ;이정현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "190 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950996819",
+                "INPUT_DATE": "20210709",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "써드 씽킹",
+                "PUBLISH_PREDATE": "20210804",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

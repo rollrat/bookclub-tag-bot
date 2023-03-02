@@ -1,0 +1,89 @@
+{
+    "otitle": "정원을 가꿔요",
+    "oauthor": "커스틴 브래들리 글/에이치 그림/이순영 역/박원순 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:45 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "정원을 가꿔요 (어린이를 위한 쉬운 가드닝)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436127638",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436127638.20221228073133.jpg",
+                "author": "커스틴 브래들리",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20200528",
+                "isbn": "9791190300988",
+                "description": "정원을 가꾸면서 배우는 자연의 신비\n\n“누구나 쉽게 자기만의 정원을 가꿀 수 있어요!”\n\n\n\n정원을 가꾸는 일은 무척 쉽고 재밌습니다. 이 책은 어린이들이 생활 속에서 쉽게 실천할 수 있는 가드닝 활동으로 가득 차 있습니다. 호주에서 밀크우드 농장을 운영하는 커스틴 브래들리가 자신의 오랜 경험과 노하우를 바탕으로 자기만의 정원을 가꾸는 방법을 친절하게 설명해줍니다. 루마니아의 그림 작가 에이치의 신비롭고 아름다운 그림은 각각의 활동을 쉽게 따라 하도록 도와줍니다. 호기심 많은 어린 정원사들에게 영감을 주고, 자연과 세상을 탐험하도록 도와주는 아름다운 가드닝 그림책입니다."
+            },
+            {
+                "title": "추피가 정원을 가꿔요 (추피생활동화 4)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493030900",
+                "image": "https://shopping-phinf.pstatic.net/main_3249303/32493030900.20221019101210.jpg",
+                "author": "티에리 쿠르텡",
+                "discount": "8100",
+                "publisher": "무지개",
+                "pubdate": "20220401",
+                "isbn": "9791159426261",
+                "description": "오늘 추피는 정원을 가꾸고 싶어요. 빨간 무 씨앗을 심을 거예요."
+            },
+            {
+                "title": "추피가 정원을 가꿔요",
+                "link": "https://search.shopping.naver.com/book/catalog/34830705653",
+                "image": "https://shopping-phinf.pstatic.net/main_3483070/34830705653.20221019141717.jpg",
+                "author": "티에리 쿠르텡",
+                "discount": "8100",
+                "publisher": "무지개",
+                "pubdate": "20200801",
+                "isbn": "9791159421587",
+                "description": "오늘 추피는 정원을 가꾸고 싶어요. 빨간 무 씨앗을 심을 거예요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20200713",
+                "EA_ADD_CODE": "77400",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글: 커스틴 브래들리 ;그림: 에이치 ;옮김: 이순영",
+                "SERIES_TITLE": "북극곰 궁금해 시리즈",
+                "KDC": "525",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791189164607",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/05/08/9791190300988.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*260",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "49 p.",
+                "CONTROL_NO": "CIP2020019086",
+                "SERIES_NO": "6",
+                "EA_ISBN": "9791190300988",
+                "INPUT_DATE": "20200508",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "정원을 가꿔요",
+                "PUBLISH_PREDATE": "20200528",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "77400 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

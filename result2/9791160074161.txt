@@ -1,0 +1,67 @@
+{
+    "otitle": "2020 빅 체인지",
+    "oauthor": "KT경제경영연구소 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "2020 빅 체인지 (새로운 10년을 지배하는 20가지 ICT 트렌드)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436141546",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436141546.20221229073328.jpg",
+                "author": "KT경제경영연구소",
+                "discount": "16650",
+                "publisher": "한스미디어",
+                "pubdate": "20191120",
+                "isbn": "9791160074161",
+                "description": "모든 것이 연결되는 초연결 사회는 미래에 우리가 맞을 가장 큰 변화다. 스마트폰의 등장으로 모바일 인터넷 환경이 마련됐고, 사물인터넷의 대두로 모든 사물이 연결될 수 있는 토대가 갖춰졌다. 여기에 초고속, 초저지연, 초연결의 속성을 지닌 5G와 방대한 데이터를 처리해 스스로 움직이게 하는 AI가 결합하면 초연결 사회 실현은 더욱 빨라질 것이다. \n\n\n\nICT 트렌드 연구의 리더 KT경제경영연구소는 이 거대한 변화를 ‘빅 체인지’라는 키워드로 아울렀다. 나아가 2020년에 의미를 부여하는 측면에서 20개의 ICT 트렌드를 고심 끝에 선정했다. 이 키워드의 중심에는 빅 체인지를 불러일으킬 핵심 동력인 5G와 AI가 있고, 이 2대 기반기술을 활용해 다용한 가치를 만들어내는 융합 기술 18개가 뻗어 나간다.\n\n\n\nICT 트렌드를 파악하는 데 있어 가장 유용한 방법은 국내외 기업들의 투자 동향을 살피는 것이다. 기본적으로 트렌드는 투자 흐름에 가장 큰 영향을 받는다. 특히 기술 개발에 막대한 투자가 수반되어야 하는 ICT 산업 특성상 ICT 기업의 투자 동향을 살펴보면 산업의 큰 흐름이 어디로 가는지 알 수 있다.\n\n\n\nKT경제경영연구소는 로아컨설팅과 함께 아마존, 구글, 마이크로소프트, 알리바바 등 글로벌 ICT 기업 및 미국 통신 3사, 주요 스타트업의 최근 1~2년 사이의 투자 동향을 면밀히 조사 분석했다. 어떤 기업을 인수하고 어느 분야에 투자했는지를 카테고리별로 분류하고, 이를 토대로 세부 키워드를 도출해 이 기업들이 주목하고 있는 미래 기술이 무엇인지 정확하게 파악하고자 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한즈미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20191128",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "KT경제경영연구소 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "594 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160074161",
+                "INPUT_DATE": "20190917",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "2020 빅 체인지 ",
+                "PUBLISH_PREDATE": "20191122",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

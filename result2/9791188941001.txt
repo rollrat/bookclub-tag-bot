@@ -1,0 +1,67 @@
+{
+    "otitle": "세계 종교의 역사",
+    "oauthor": "리처드 할러웨이 저/이용주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계 종교의 역사 (인간이 묻고 신이 답하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463364644",
+                "image": "https://shopping-phinf.pstatic.net/main_3246336/32463364644.20221019131633.jpg",
+                "author": "리처드 할러웨이",
+                "discount": "20700",
+                "publisher": "소소의책",
+                "pubdate": "20180327",
+                "isbn": "9791188941001",
+                "description": "종교에 대해, 종교와 관련된 세상의 일에 대해, 우리가 미처 생각하지 못했던 새로운 관점을 제시하다!\n\n특정한 주제나 논쟁에서 벗어나 인간의 오랜 역사 속에서 종교적 믿음이 어떻게 태동해 변화해왔으며, 인간의 삶에서 종교는 어떠한 의미로 받아들여지는지 등을 재미있는 이야기를 하듯이 간결하고 명확하게 정리한 『세계 종교의 역사』. 이 책에서 말하는 종교의 역사는 곧 예언자와 현자, 그리고 그들이 시작했던 운동, 그들의 행적에 관한 이야기다.\n\n저자의 종교 여행은 살아 있는 종교들 중에서 가장 오래되고 가장 복잡한 힌두교에서 시작된다. 시간의 바퀴로부터 최종적 해방을 얻으려면 무한히 계속되는 생을 살면서 자기 망각에 빠져야 하는 힌두교, 깨달음을 얻기 위해 궁전을 떠나 걸인으로 45년 동안 여행한 붓다, 다신교에서 일신교로의 변화를 보여준 아브라함, 개종한 뒤 예수의 메시지를 전하는 사도가 된 바울, 그리고 마지막 예언자 무함마드 등의 이야기를 만나볼 수 있다.\n\n인간의 종교사 전체를 다루는 데 그치지 않고 정확한 사실에 따라 써내려가면서, 종교의 미묘한 뜻과 신비에 초점을 맞추고 신앙의 가치를 스스로 느낄 수 있게 해준다. 또한 유대교, 이슬람, 기독교, 불교, 그리고 힌두교 등 세계의 중요 종교 신앙의 기원, 의미 탐구의 역사, 새롭게 태어난 종교들, 종교에 의해 추동되는 폭력, 종교 신자와 비종교인들 사이에서 일어나는 적대감 등 다양한 종교적 주제까지 아우르고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "200.9",
+                "UPDATE_DATE": "20180404",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "리처드 할러웨이 지음 ;이용주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "209",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6542244_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6542244_3.jpg",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6542244_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*218 ",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "414p.",
+                "CONTROL_NO": "CIP2018004177",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188941001",
+                "INPUT_DATE": "20180205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "세계 종교의 역사",
+                "PUBLISH_PREDATE": "20180327",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "눈표범",
+    "oauthor": "실뱅 테송 저/김주경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "눈표범",
+                "link": "https://search.shopping.naver.com/book/catalog/32483306115",
+                "image": "https://shopping-phinf.pstatic.net/main_3248330/32483306115.20221019135205.jpg",
+                "author": "실뱅 테송",
+                "discount": "13500",
+                "publisher": "북레시피",
+                "pubdate": "20200707",
+                "isbn": "9791190489133",
+                "description": "2009년 공쿠르상, 2011년 메디치상, 2015년 위사르상을 수상한 \n여행 작가의 극한 여행기. 2019년 르노도상 수상작!\n\n『눈표범』프랑스 문단을 뒤흔든 극한여행기로 저자 실뱅테송이 동물전문사진작가 뱅상뮈니에와 그의 연인인 다큐멘터리 감독, 그리고 친구이자 조수인 철학가와 함께 티벳에서 식하는멸종동물, '눈표범'을 관찰하기 위해 해발 5,000미터 고지대의 대평원, '창탕'에서 보낸 생생한 기록이다. 이러한 그의 기록은 마침내 눈표범을 보느냐 마느냐를 넘어,죽느냐사느냐에 가까운 극한의 모험담이거나 생존기, 또는 인간에 대한 참회의 기록혹은 인내의시詩가 된다.\n\n오로지 ‘눈표범’에 초점을 맞춘 여행은 인간을 야생동물의 차원으로이끈다.인간에게 쫓겨 고지에서 겨우평온을 찾은 멸종동물의 터전으로... 저자인 실뱅 테송과그의 친구이며 사진작가인 뱅상 뮈니에는단몇 초 만에사라지는 눈표범을 보기 위해 영하30도 이상의 추위속에서 30시간 이상을 꼼짝하지 않는,상상을 초월한 고통을 감내한다. 눈표범의 영역에서인간은 그저 참고 또 참고, 또 참으며 기다려야하는데, 동물의 비밀을 캐려해서는 안 된다.그들이 보여주기 전까지는...!더군다나 그들의 영역에서 인간은 오히려 관찰 대상이 될 뿐이다.그곳에서 인간은 결단 코만물의 영장일 수도,이어서도 안 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북레시피",
+                "DDC": "",
+                "UPDATE_DATE": "20200708",
+                "EA_ADD_CODE": "03860",
+                "PUBLISHER_URL": "www.bookrecipe.co.kr",
+                "AUTHOR": "실뱅 테송 지음 ;김주경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "981.2802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*196",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "242 p.",
+                "CONTROL_NO": "CIP2020024444",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190489133",
+                "INPUT_DATE": "20200612",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "눈표범",
+                "PUBLISH_PREDATE": "20200707",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

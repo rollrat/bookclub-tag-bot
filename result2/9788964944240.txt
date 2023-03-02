@@ -1,0 +1,67 @@
+{
+    "otitle": "정적을 제거하는 비책",
+    "oauthor": "마수취안 저/정주은,이서연,박소정 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정적을 제거하는 비책 (위대한 역사를 만든 권력 투쟁의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485530086",
+                "image": "https://shopping-phinf.pstatic.net/main_3248553/32485530086.20221019152047.jpg",
+                "author": "마수취안",
+                "discount": "16200",
+                "publisher": "보누스",
+                "pubdate": "20200305",
+                "isbn": "9788964944240",
+                "description": "권모술수가 판치는 세상 \n상대를 간파하고 권력을 쟁취하는 법을 담은 전략서!\n\n『정적을 제거하는 비책』은 인류 역사상 최고의 정치 기술을 담은 권모술수의 교과서다. 예나 지금이나 모략이 판치는 혼돈의 시대를 살아가고 있는 우리에게 아수라장 같은 알력 다툼에서 살아남고, 권력을 쟁취해 자신의 이익을 성취하는 방법과 지혜를 알려준다.\n\n권력을 쟁취하고, 성공을 유지하며, 상대를 철저하게 없애는 비책 12가지가 설명돼 있다. 워낙 간교하고 파격적인 내용이기에 이런 책을 왜 읽어야 하냐고 반문하는 사람도 있을 것이다. 사실 우리가 이 책을 읽어야 하는 이유는 분명하다. 21세기조차 권모술수가 난무하는 혼돈의 시대이기 때문이다. 정치뿐만 아니라 여러 사회 영역에서 여전히 모략이 판을 치고 있다. \n\n지피지기면 백전불태라 했다. 역사상 최고의 모략이 《정적을 제거하는 비책》에 있으니 이 책이 말하는 비책을 익힌다면, 어떤 간계와 속임수를 마주하더라고 속아 넘어가는 일이 없을 것이다. 이 책의 저자인 마수취안도 현대를 살아가는 독자들이 이 책을 계기로 삼아 상대방의 계략을 파훼하고, 자신의 이익을 최대로 도모하는 방법과 지혜를 얻을 수 있기를 바란다고 말한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보누스",
+                "DDC": "",
+                "UPDATE_DATE": "20200312",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 마수취안 ;옮긴이: 정주은,이서연,박소정",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/02/14/9788964944240.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "492 p.",
+                "CONTROL_NO": "CIP2020007061",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964944240",
+                "INPUT_DATE": "20200217",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "정적을 제거하는 비책",
+                "PUBLISH_PREDATE": "20200305",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

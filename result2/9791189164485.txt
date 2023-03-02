@@ -1,0 +1,67 @@
+{
+    "otitle": "코튼 캔디 캔디 뿅뿅",
+    "oauthor": "하선정 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "코튼 캔디 캔디 뿅뿅",
+                "link": "https://search.shopping.naver.com/book/catalog/32444875908",
+                "image": "https://shopping-phinf.pstatic.net/main_3244487/32444875908.20221019135109.jpg",
+                "author": "하선정",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20190130",
+                "isbn": "9791189164485",
+                "description": "“코튼 캔디 캔디 뿅뿅!” \n마법사 도치는 세상에서 가장 큰 솜사탕을 만들었어요. 그런데 사진을 찍으려고 카메라를 가져오는 사이에 솜사탕이 사라졌어요. 화가 난 도치는 솜사탕 도둑을 찾기 위해 길을 나섰어요. 친구들은 솜사탕 도둑의 생김새를 조금씩 알려주었어요. 과연 누가 솜사탕을 먹었을까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20190225",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 하선정",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7120475_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7120475_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[44] p.",
+                "CONTROL_NO": "CIP2019002429",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189164485",
+                "INPUT_DATE": "20190121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "코튼 캔디 캔디 뿅뿅",
+                "PUBLISH_PREDATE": "20190130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

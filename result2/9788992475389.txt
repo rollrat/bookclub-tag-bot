@@ -1,0 +1,78 @@
+{
+    "otitle": "오라클DATABASE 11g와 함께하는 SQL과 PL/SQL",
+    "oauthor": "조행남 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:14 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "오라클 DATABASE 11G와 함께하는 SQL과 PL SQL",
+                "link": "https://search.shopping.naver.com/book/catalog/32490505752",
+                "image": "https://shopping-phinf.pstatic.net/main_3249050/32490505752.20220527030832.jpg",
+                "author": "조행남",
+                "discount": "0",
+                "publisher": "컴원미디어",
+                "pubdate": "20110228",
+                "isbn": "9788992475389",
+                "description": "이 책은 오라클 8i 버전에서 작성된『개발자를 위한 ORACLE SQL과 PL/SQL』을 모태로 Oracle Database 11g Edition의 최신 버전에서 SQL-99 표준문법과 함께 전면 수정 보완하여 실무에 응용할 수 있도록 구성하였다. 비교적 이해가 쉬운 학사관리 업무에서 이론에 필요한 예제를 만들고, 연습문제를 통해 응용력을 향상시켰다."
+            },
+            {
+                "title": "오라클 데이터베이스 11g와 함께하는 SQL과 PL/SQL (개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504276188",
+                "image": "https://shopping-phinf.pstatic.net/main_3250427/32504276188.20221228074610.jpg",
+                "author": "조행남",
+                "discount": "23750",
+                "publisher": "컴원미디어",
+                "pubdate": "20180915",
+                "isbn": "9788992475822",
+                "description": "Oracle Database 11g Edition의 최신 버전을실전에 바로 적용할 수 있는 실무 활용서!\n\n컴퓨터 응용기술의 꽃이라 불리는 정보시스템에서 가장 기본적이고 중요한 분야가 데이터베이스이며, SQL과 PL/SQL은 관계형 데이터베이스 언어이다. 이러한 언어의 구사능력과 활용도는 매우 중요하나 초심자가 쉽게 이해하고 실무에 응용할 수 있는 교재는 많지 않은 것 같다. 그동안 SQL과 PL/SQL, JSP 프로그래밍 등을 강의해 오면서 쉽게 이해하고 학습할 수 있는 강의 교재를 집필하려고 노력해 왔다.\n이 책은 오라클 8i 기반에서 집필한 “개발자를 위한 ORACLE SQL과 PL/SQL”을 모태로 Oracle Database 11g 데이터베이스 서버를 기반으로 클라이언트에 설치한 SQL*Plus 오라클 도구로 접속하여 학습하도록 집필한 교재이다. 1판 3쇄의 일부는 삭제하거나 장의 순서를 변경하고, 각 장을 보완하고 1장을 추가, 그리고 SQL의 중요성을 고려하여 5장부터 14장까지 연습문제Ⅱ를 새롭게 추가하여 총19장으로 개정하였다.\n제1부는 SQL에 대한 데이터베이스 개념, 데이터베이스 설계와 DB 서버, SQL*Plus 사용법, 데이터타입과 데이터 무결성, SQL문법, SQL함수, 조인, 서브 쿼리, 시퀀스와 뷰, 인덱스. SQL 최적화 개요의 14장이며, 예제 중심으로 학습하도록 기본 예제 283개, 연습문제Ⅰ 81개, 연습문제Ⅱ 114개로 대폭 개정하였고, 제2부는 PL/SQL에 대한 PL/SQL 기초, 서브 프로그래밍, 고급 프로그래밍, 데이터베이스 트리거의 4장으로 구성하여 예제 55개, 연습문제 11개를 보완하였다.\n제3부는 오라클 서버, 사용자 생성과 권한 등 관리자 기능을 예제 중심으로 편집하였다.\n 계속 발표되는 SQL 표준문법과 소홀했던 문법들을 발췌하여 편집하고, 학습자들의 이해도와 요구사항들을 바탕으로 “초심자 학습서와 프로그래머가 실무에 응용할 수 있는 참고서”를 목표로 개정하였다"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "컴원미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.gcbook.co.kr",
+                "AUTHOR": "조행남 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788992475389",
+                "INPUT_DATE": "20110225",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "오라클 Databade 11g와 함께하는 SQL과 PL/SQL ",
+                "PUBLISH_PREDATE": "20110228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

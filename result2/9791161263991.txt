@@ -1,0 +1,89 @@
+{
+    "otitle": "진로탐색과 취업전략",
+    "oauthor": "정미경,문은식,박선환,우지향 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:03 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "진로 탐색과 취업전략 (4차 산업혁명시대의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472936911",
+                "image": "https://shopping-phinf.pstatic.net/main_3247293/32472936911.20221019133234.jpg",
+                "author": "조성진^황윤성^양승호",
+                "discount": "19000",
+                "publisher": "양성원",
+                "pubdate": "20210830",
+                "isbn": "9791161263991",
+                "description": "이 책은 진로 탐색과 취업전략에 대해 다룬 도서입니다. 진로 탐색과 취업전략에 대한 기초적이고 전반적인 내용을 확인할 수 있도록 구성했습니다."
+            },
+            {
+                "title": "진로탐색과 취업전략",
+                "link": "https://search.shopping.naver.com/book/catalog/32466559335",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466559335.20230111071943.jpg",
+                "author": "정미경^문은식^박선환^우지향",
+                "discount": "18430",
+                "publisher": "공동체",
+                "pubdate": "20160905",
+                "isbn": "9788963529806",
+                "description": "▶ 이 책은 진로탐색과 취업전략에 대해 다룬 개론서입니다. 진로탐색과 취업전략의 기초적이고 전반적인 내용을 학습할 수 있도록 구성했습니다."
+            },
+            {
+                "title": "진로탐색과 취업전략",
+                "link": "https://search.shopping.naver.com/book/catalog/32496889903",
+                "image": "https://shopping-phinf.pstatic.net/main_3249688/32496889903.20220527044609.jpg",
+                "author": "조성진",
+                "discount": "0",
+                "publisher": "양성원",
+                "pubdate": "20170830",
+                "isbn": "9791161260532",
+                "description": "▶ 이 책은 진로탐색과 취업전략을 다룬 이론서입니다. 진로탐색과 취업전략의 기초적이고 전반적인 내용을 학습할 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "양성원",
+                "DDC": "",
+                "UPDATE_DATE": "20210915",
+                "EA_ADD_CODE": "93370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조성진,황윤성,양승호 공저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "192*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "353 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161263991",
+                "INPUT_DATE": "20210825",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(4차 산업혁명시대의) 진로 탐색과 취업전략",
+                "PUBLISH_PREDATE": "20210830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

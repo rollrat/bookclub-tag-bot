@@ -1,0 +1,67 @@
+{
+    "otitle": "베트남 한 접시",
+    "oauthor": "응우옌김빈,이민희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "베트남 한 접시",
+                "link": "https://search.shopping.naver.com/book/catalog/32488995175",
+                "image": "https://shopping-phinf.pstatic.net/main_3248899/32488995175.20221230074940.jpg",
+                "author": "응우옌김빈^이민희",
+                "discount": "13500",
+                "publisher": "산디",
+                "pubdate": "20181130",
+                "isbn": "9791196201340",
+                "description": "분짜 ㆍ퍼 ㆍ분팃느엉 ㆍ반세오 ㆍ반미 ㆍ체 ㆍ분보훼\n우리가 베트남에서 만나게 될 맛있는 음식들\n\n“월남쌈과 쌀국수가 전부일까ㆍ 베트남에 간다면 무엇부터 먹어야 할까?ㆍ”\n전 세계 음식을 소개하는 ‘한 접시 시리즈’의 두 번째 책이다. 서울 구로지역 이주여성 단체 미래길의 대표 응우옌김빈이 들려준 베트남 음식 이야기를 이민희가 정리했다. 베트남 친구의 삶이 녹아 있는 음식을 보다 깊게 이해하고자 베트남으로 한 달간 여행을 떠나 쓴 책이기도 하다. 고기 가득 붉은 국수 분보훼, 노릇한 부침개 반세오, 달콤한 디저트 체까지 분짜와 퍼 너머의 다양한 음식이 펼쳐진다.\n\n응우옌김빈은 하롱베이 출신으로, 서울에 정착한 지 10년이 지났다. 그런 김빈은 친구 이민희에게 다채로운 베트남 음식 이야기를 들려주었다. 분짜를 비롯해 분망수언(돼지갈비와 죽순이 들어간 국수), 분다우맘톰(두부 새우젓 비빔국수) 등 다양한 북부 음식뿐 아니라 베트남 사람들의 아침 식사 반미(샌드위치), 반꾸온(쌀전병), 쏘이(찹쌀밥)도 소개했다.\n\n는 음식을 소재로 한 기행문이기도 하다. 책은 베트남 사람 응우옌김빈이 들려준 고향의 음식 문화로 시작하고, 이어서 베트남을 찾은 한국 사람 이민희의 음식 검증으로 진행된다. 맛있는 음식에 대한 행복한 기억과 함께 음식을 찾기까지 겪은 우여곡절, 음식을 통해 만난 인연에 대한 이야기도 함께 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산디",
+                "DDC": "641.59597",
+                "UPDATE_DATE": "20181211",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 응우옌김빈,이민희",
+                "SERIES_TITLE": "",
+                "KDC": "594.5241",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6996717_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6996717_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "125*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "CIP2018036370",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196201340",
+                "INPUT_DATE": "20181105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "베트남 한 접시",
+                "PUBLISH_PREDATE": "20181130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

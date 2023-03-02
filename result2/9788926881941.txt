@@ -1,0 +1,67 @@
+{
+    "otitle": "런던, 영화처럼 여행하라",
+    "oauthor": "김인 저, 사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "런던, 영화처럼 여행하라 (영화의 감동을 따라 걷는 감성 여행기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504175703",
+                "image": "https://shopping-phinf.pstatic.net/main_3250417/32504175703.20221227203659.jpg",
+                "author": "김인",
+                "discount": "15120",
+                "publisher": "이담북스",
+                "pubdate": "20171201",
+                "isbn": "9788926881941",
+                "description": "가장 완벽히 감성적인 여행 \n‘영화 속 런던’을 거닐다\n\n작가를 수식하기 위해 필요한 키워드는 다음의 몇 가지다. 런던, 영화, 음악 그리고 감성. 2여 년간 런던 현지에서 투어 가이드로 활동하면서 자신만의 테마로 런던을 담아내고 있는 그는, 영화 [어바웃 타임]에서 영감을 받아 이 책을 집필하게 되었다고 한다. 런던이 지루하다면 삶이 지루해진 것이라는 어느 영국 시인의 말처럼, 런던은 지루할 틈 없이 매 순간 새로운 공기로 그를 가득 채운다. 그가 영화의 감동을 따라 여행의 길을 나선 이유도 이 때문일 테다. 런던을 배경으로 한 영화의 촬영지를 여행하며 낯설지만 새로운, 오묘하지만 따듯한 감정을 그만의 방식으로 풀어냈다. 영화 속 그곳, 영화 속 장면 사이사이로 더해지는 음악은 우리의 감성을 더욱 충동한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20180116",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "김인 쓰고 찍다",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "344 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926881941",
+                "INPUT_DATE": "20171117",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "런던, 영화처럼 여행하라",
+                "PUBLISH_PREDATE": "20171201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

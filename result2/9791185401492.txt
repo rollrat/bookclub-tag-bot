@@ -1,0 +1,67 @@
+{
+    "otitle": "통역사의 일",
+    "oauthor": "박소운 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "통역사의 일 (국제회의 한영 통역사의 리얼 단짠 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496963776",
+                "image": "https://shopping-phinf.pstatic.net/main_3249696/32496963776.20221019110510.jpg",
+                "author": "박소운",
+                "discount": "0",
+                "publisher": "채륜서",
+                "pubdate": "20200830",
+                "isbn": "9791185401492",
+                "description": "국제회의 한영 통역사의 리얼 단짠 에세이\n\n교과서에 없는 통역사의 현실 생활을 솔직하고 신랄하게 털어 놓았다. 좋아하는 말과 글을 업으로 삼아 이력서만 A4용지 10장이 넘는 워킹맘이 되기까지 겪은 고군분투기다.\n단순한 이력의 나열이나 신세 한탄이 아니라 직업인으로 가지게 되는 자긍심과 태도, 통역사의 시선으로 풀어낸 언어문화까지 꾹꾹 눌러 담았다. 누군가의 으리으리한 성공담보다는 험난한 사회생활을 함께 열심히 버텨보자는 바람으로 이 책을 썼다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "채륜서",
+                "DDC": "",
+                "UPDATE_DATE": "20201026",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.chaeryun.com",
+                "AUTHOR": "지은이: 박소운",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14400",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "CIP2020033201",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185401492",
+                "INPUT_DATE": "20200807",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "통역사의 일",
+                "PUBLISH_PREDATE": "20200830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

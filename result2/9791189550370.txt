@@ -1,0 +1,67 @@
+{
+    "otitle": "처음 읽는 음식의 세계사",
+    "oauthor": "미야자키 마사카츠 저/한세희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "처음 읽는 음식의 세계사 (식탁 위에 놓인 인류 역사 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487094637",
+                "image": "https://shopping-phinf.pstatic.net/main_3248709/32487094637.20230131162347.jpg",
+                "author": "미야자키 마사카츠",
+                "discount": "13830",
+                "publisher": "탐나는책",
+                "pubdate": "20210329",
+                "isbn": "9791189550370",
+                "description": "전 세계의 식자재로 요리된 음식은\n식탁 위에서 매일 세계사를 재연하고 있다\n\n모든 음식과 재료 속에는 인류의 역사가 담겨 있다. 케첩과 레몬을 곁들인 굴로 만든 오르되브르를 입에 넣는 순간에도 역사 속 여러 장면을 떠올릴 수 있다. 기원전 1세기 로마의 온수지에서 굴을 양식하던 장면이나 굴 요리용 오이스터 포크가 만들어진 이유가 머릿속에 떠오른다. 신대륙에서 온 토마토가 중국이 기원인 발효 소스 케첩과 만나게 되는 과정을 생각할 수도 있고, 인도 북동부가 원산지인 레몬이 유럽에 전해진 경로를 추측해 볼 수도 있다.\n\n오늘날 식탁 위는 전 세계의 식자재가 활약하는 대극장이 되었다. 식탁 위에 올라오는 식재료와 요리는 제각각 맡은 연기를 하며 매일 세계사를 재연하고 있다. 각각의 식자재가 언제, 어떻게 모습을 드러냈는지를 알면 식탁이라는 무대를 통해 인류의 역사를 이해할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "탐나는책",
+                "DDC": "",
+                "UPDATE_DATE": "20220113",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "미야자키 마사카츠 지음 ;한세희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/18/9791189550370.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "234 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189550370",
+                "INPUT_DATE": "20210218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "처음 읽는 음식의 세계사",
+                "PUBLISH_PREDATE": "20210329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

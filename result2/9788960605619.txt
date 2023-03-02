@@ -1,0 +1,67 @@
+{
+    "otitle": "영화 속 심리학 2",
+    "oauthor": "박소진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영화 속 심리학 2 (영화를 통해 정신병리를 쉽게 이해한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441632658",
+                "image": "https://shopping-phinf.pstatic.net/main_3244163/32441632658.20230131164128.jpg",
+                "author": "박소진",
+                "discount": "14400",
+                "publisher": "소울메이트",
+                "pubdate": "20150817",
+                "isbn": "9788960605619",
+                "description": "영화 속 인물들을 통해 인간을 깊이 이해한다!\n\n영화를 보통 ‘2시간짜리 인생’이라고 한다. 그 안에 인생사와 극중 인물들의 심리묘사가 들어있기 때문이다. 그런 의미에서 『영화 속 심리학』은 영화 속 인물들을 통해 정신병리를 알아봄으로써, 정신병리 이론에 흥미롭게 다가갈 수 있도록 했다. 신체 관련 장애를 담은 ‘머시니스트’를 비롯하여, 충동조절 장애를 담은 ‘타짜’, 성적 역기능과 변태성욕을 담은 ‘괜찮아, 사랑이야’까지 영화를 다양하게 수록했다. 해당 병리에 대한 기초적인 그림을 그리는 데 도움이 될 것이며, 실생활에 적용해볼 수 있는 기회를 얻을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)원앤원콘텐츠그룹",
+                "DDC": "616.89",
+                "UPDATE_DATE": "20150831",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "박소진",
+                "SERIES_TITLE": "",
+                "KDC": "184",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4782037_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4782037_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 300페이지",
+                "CONTROL_NO": "CIP2015021315",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960605619",
+                "INPUT_DATE": "20150804",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "영화 속 심리학 2",
+                "PUBLISH_PREDATE": "20150817",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

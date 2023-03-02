@@ -1,0 +1,67 @@
+{
+    "otitle": "아니 요즘 세상에 누가",
+    "oauthor": "곽민지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아니 요즘 세상에 누가 (다양한 선택을 존중하며 더불어 혼자 사는 비혼의 세상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487162036",
+                "image": "https://shopping-phinf.pstatic.net/main_3248716/32487162036.20221019114509.jpg",
+                "author": "곽민지",
+                "discount": "12960",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20211215",
+                "isbn": "9791168121041",
+                "description": "누적 조회수 800만!\n국내 최초, 화제의 비혼 팟캐스트, 비혼세가 이야기하는 더불어 혼자 사는 법!\n\n‘남편은 없지만 최애는 있는데요’, ‘우리가 남편이 없지 술값이 없냐’, ‘망한 연애 올림피아드’, ‘잘 봐, 언니들 운동이다’ 등 비혼이라는 주제로 예능을 사로잡은 화제의 팟캐스트! 본격 비혼 라이프 가시화 방송, 팟캐스트 비혼세의 에세이가 출간되었다. 코어가 예능인 저자의 글답게 무례한 질문에 농담으로 응수하며, 주변 사람들을 뜨겁게 사랑하고, 맥주 1리터를 원샷하는 근력짱 할머니로 늙어가기 위한 해방촌 비혼세, 곽민지의 생각과 하루하루가 담긴 관찰 예능(?) 에세이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20220117",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "곽민지 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/12/07/9791168121041.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168121041",
+                "INPUT_DATE": "20211207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아니 요즘 세상에 누가",
+                "PUBLISH_PREDATE": "20211210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

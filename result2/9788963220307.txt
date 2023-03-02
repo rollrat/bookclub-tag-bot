@@ -1,0 +1,67 @@
+{
+    "otitle": "168시간 일주일 사용법",
+    "oauthor": "케빈 호건 저/이정민 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "168시간 일주일 사용법 (시작만 하고 끝맺음을 못하는 사람들을 위한 시간 계획의 기술!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473421799",
+                "image": "https://shopping-phinf.pstatic.net/main_3247342/32473421799.20221019142053.jpg",
+                "author": "케빈 호건",
+                "discount": "12420",
+                "publisher": "비전코리아",
+                "pubdate": "20110315",
+                "isbn": "9788963220307",
+                "description": "168시간, 일주일이 인생을 바꾼다!\n\n미루는 습관을 고치고, 목표를 달성하고, 꿈을 실현하는 시간 경영법 『The 168 Hour 일주일 사용법』. 단기 목표를 세워 일주일이라는 시간을 관리하면서 조금씩 목표를 이루어나가며 삶을 변화시키고 보다 큰 목표를 성취할 수 있는 방법을 구체적으로 담아낸 책이다. 일을 미루는 것을 결정하는 요소를 심층적으로 살펴보고 미루는 습관을 고치기 위한 ‘하우투’를 제시한다. 그리고 가장 중요한 일의 우선순위를 정하는 방법, 프로젝트 수행 시 시간 관리법 등 시간 관리에 대해 세부적으로 나누어 설명하면서 각 상황에 맞게 시간을 쓰고, 일주일이라는 시간을 효율적으로 보낼 수 있도록 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비전비엔피·비전코리아",
+                "DDC": "",
+                "UPDATE_DATE": "20110322",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "케빈 호건 지음 ;이정민 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963220307",
+                "INPUT_DATE": "20110228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "일주일 사용법",
+                "PUBLISH_PREDATE": "20110315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

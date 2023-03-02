@@ -1,0 +1,67 @@
+{
+    "otitle": "카오스와 프랙털",
+    "oauthor": "야마구치 마사야 저/한명수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "카오스와 프랙털 (비선형의 불가사의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436139319",
+                "image": "https://shopping-phinf.pstatic.net/main_3243613/32436139319.20221230072706.jpg",
+                "author": "야마구치 마사야",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19930601",
+                "isbn": "9788970441283",
+                "description": "본서는 카오스와 프랙털이 어떤 것인가 알기 쉽게 해설하였다. 특징으로는 이 두 가지, 즉 카오스와 프랙털이 별개의 것이 아니고 실은 카오스의 프로세스를 거꾸로 보는 관점에서 프랙털이 나온다는 것을 설명하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19930527",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "야마구치 마사야 저 ; 한명수 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "3000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "897044128X",
+                "INPUT_DATE": "19930527",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "카오스와 프랙털",
+                "PUBLISH_PREDATE": "19930620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

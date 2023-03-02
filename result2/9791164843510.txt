@@ -1,0 +1,67 @@
+{
+    "otitle": "이코노컨스트럭션",
+    "oauthor": "박선구,권주안 저/대한건설정책연구원 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이코노컨스트럭션 (한 권으로 끝내는 건설과 주택)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440991625",
+                "image": "https://shopping-phinf.pstatic.net/main_3244099/32440991625.20221019134652.jpg",
+                "author": "대한건설정책연구원(RICON)^권주안",
+                "discount": "18000",
+                "publisher": "매일경제신문사",
+                "pubdate": "20211125",
+                "isbn": "9791164843510",
+                "description": "경제 전문가가 쉽게 풀어주는\n건설과 주택시장의 어제와 오늘\n한국 경제의 큰 축, 건설업을 들여다보다!\n주택시장의 미래는 어떤 모습일까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사(매경출판)",
+                "DDC": "",
+                "UPDATE_DATE": "20211112",
+                "EA_ADD_CODE": "03540",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "박선구,권주안 ;.대한건설정책연구원",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/11/11/9791164843510.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "170*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "233 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164843510",
+                "INPUT_DATE": "20211110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "이코노컨스트럭션",
+                "PUBLISH_PREDATE": "20211125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

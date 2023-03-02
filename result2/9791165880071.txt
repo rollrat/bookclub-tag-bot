@@ -1,0 +1,67 @@
+{
+    "otitle": "야광 시계의 비밀",
+    "oauthor": "하이진 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "야광 시계의 비밀 (하이진 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462340996",
+                "image": "https://shopping-phinf.pstatic.net/main_3246234/32462340996.20221227205720.jpg",
+                "author": "하이진",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20200724",
+                "isbn": "9791165880071",
+                "description": "밤하늘의 별이 된 ‘라듐 걸스’를 기리며\n이루리 볼로냐 워크숍 기획 그림책\n\n라듀모 시계 공장에서 슈슈와 친구들은 야광 시계를 만들어요. 야광 시계만큼 빛나는 건 세상에 없지요. 밤하늘의 별만 빼고요. 그리고 쉬는 시간이 되면 슈슈와 친구들은 숨바꼭질을 해요. 언제나 술래는 감독관 아저씨고요. 과연 감독관 아저씨는 슈슈와 친구들을 찾을 수 있을까요? 또한 야광 시계의 비밀은 무엇일까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20200820",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 하이진",
+                "SERIES_TITLE": "북극곰 꿈나무 그림책",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/11/9791165880071.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*273",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[44] p.",
+                "CONTROL_NO": "CIP2020024277",
+                "SERIES_NO": "67",
+                "EA_ISBN": "9791165880071",
+                "INPUT_DATE": "20200611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "야광 시계의 비밀",
+                "PUBLISH_PREDATE": "20200724",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "숨만 쉬어도 과학이네?",
+    "oauthor": "예병일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "숨만 쉬어도 과학이네? (몸으로 배우는 생명과학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491820057",
+                "image": "https://shopping-phinf.pstatic.net/main_3249182/32491820057.20221019131236.jpg",
+                "author": "예병일",
+                "discount": "13050",
+                "publisher": "다른",
+                "pubdate": "20190429",
+                "isbn": "9791156332336",
+                "description": "소화부터 호르몬까지 볼 빨간 십 대를 위한 수줍은 과학, 수줍은 실험!\n기지개, 간식 배, 피딱지에 과학이? 온몸으로 배우는 수줍은 과학\n\n왜 피는 물보다 진하다고 할까? 지구의 중력이 키를 작게 만든다고? 한번 생긴 튼살은 왜 사라지지 않을까? 청소년이 겪는 우울증은 성인과 다를까? 대변으로 건강 상태를 알 수 있다고? 살아 숨 쉬는 몸을 가진 우리의 하루는 생명과학으로 가득하다. 심지어 우리가 방바닥에 떨어뜨린 먼지 하나에도 생명과학의 원리가 담겨 있다. 피부세포가 수명을 다해 몸 밖으로 떨어져 나가면 먼지처럼 보이기 때문이다. 우리 몸에서 매일매일 일어나는 생명 현상은 상상 이상으로 다채롭고 흥미롭다. 생명 현상은 생명과학뿐만 아니라 화학, 물리 등 온갖 과학 원리가 한데 모여 이뤄지며, 이를 제대로 이해하려면 사람이라는 생명체 안에서 일어나는 갖가지 과학 현상을 알아야 한다.\n\n《숨만 쉬어도 과학이네?》는 청소년의 몸에 일어나는 현상에 의문을 갖고 다가가 과학적으로 풀어내는 책이다. 성장기에 많이 분비되는 호르몬이 무엇이며 어떤 기능을 하는지, 청소년기에 주의해야 할 질병은 무엇인지 알려 준다. 성관계와 자위, 우울증과 불면증에 대해서도 과학적으로 명확하게 풀어낸다. 또한 일상적으로 겪는 안면홍조와 여드름, 생리통 등에 어떻게 대처해야 하는지에 대해서도 구체적으로 짚는다. 이로써 독자는 생명과학 교과에 대한 탐구심을 키워나갈 수 있을뿐더러 자신의 몸을 소중히 가꿔 나갈 수 있게 돕는 지식과 지혜를 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른",
+                "DDC": "",
+                "UPDATE_DATE": "20190516",
+                "EA_ADD_CODE": "44400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "예병일 지음",
+                "SERIES_TITLE": "과학이네?",
+                "KDC": "470",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791156332305",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/12/9791156332336.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "CIP2019014421",
+                "SERIES_NO": "3",
+                "EA_ISBN": "9791156332336",
+                "INPUT_DATE": "20190412",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "숨만 쉬어도 과학이네?",
+                "PUBLISH_PREDATE": "20190429",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44400 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

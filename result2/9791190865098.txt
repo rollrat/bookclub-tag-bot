@@ -1,0 +1,67 @@
+{
+    "otitle": "마케팅 첫 키스",
+    "oauthor": "안혜빈,김민정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마케팅 첫 키스 (하루 3시간 투자로 브랜드의 진정한 팬, 1,000명을 만들기 위한 마케팅 실전 공략집!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456479857",
+                "image": "https://shopping-phinf.pstatic.net/main_3245647/32456479857.20221228073508.jpg",
+                "author": "안혜빈^김민정",
+                "discount": "12960",
+                "publisher": "나비의활주로",
+                "pubdate": "20200918",
+                "isbn": "9791190865098",
+                "description": "불과 1년도 안 되는 시간 사이에, 코로나19 사태는 전 세계 모든 사람들의 일상을 뒤바꿔 놓았다. 많은 전문가들은 이전의 세상으로 돌아가지 못할 거라고까지 말한다. 이제는 ‘접촉이 없는, 비대면(Untact)’ 활동이 인간관계를 포함한 일상 전반에서 큰 틀로 자리매김하고 있으며, 코로나19 사태가 끝난 후에도 그러한 현상은 계속 이어질 것이라고 많은 이들이 예상하고 있다. 이미 ‘변화와 속도’가 핵심 키워드라 할 수 있는 21세기를 살아가는 이들에게 또 하나의 도전 과제가 주어진 것이다. \n\n\n\n이 책은 더없이 치열한 현대사회에서 살아남기 위한 생존도구이자, 성공을 위한 필수사항, ‘SNS마케팅’의 모든 것을 담고 있다. 마케팅을 담당하고 있지만 막막하기만 한 회사원부터 매출 때문에 고민이 많은 사업가들까지, 이제는 소비자가 아닌 판매자의 입장에서 SNS를 적극 활용하고자 하는 회사원, 주부, 학생 등 모든 초보&예비 사장님까지! 그 누구나 쉽게 이해하고 바로 실전에 응용할 수 있는 ‘SNS마케팅’ 기법을 상세히 소개해 나간다. ‘유튜브에서 블로그까지, 인스타그램에서 페이스북까지’ 저자들이 몸소 체득한 ‘성공 노하우’들이 다양한 사례를 통해 곳곳에서 빛을 발하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나비의활주로",
+                "DDC": "",
+                "UPDATE_DATE": "20201103",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "안혜빈,김민정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "245 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190865098",
+                "INPUT_DATE": "20200828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마케팅 첫 키스",
+                "PUBLISH_PREDATE": "20200918",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

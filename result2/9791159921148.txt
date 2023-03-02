@@ -1,0 +1,67 @@
+{
+    "otitle": "우리는 고독할 기회가 적기 때문에 외롭다",
+    "oauthor": "김규항 저/변정수 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리는 고독할 기회가 적기 때문에 외롭다 (김규항 아포리즘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493692201",
+                "image": "https://shopping-phinf.pstatic.net/main_3249369/32493692201.20221019142250.jpg",
+                "author": "김규항",
+                "discount": "11700",
+                "publisher": "알마",
+                "pubdate": "20170619",
+                "isbn": "9791159921148",
+                "description": "한층 기품 있는 독서의 즐거움을 주는 김규항 아포리즘!\n\n절제와 문장에 대한 엄격한 태도를 거친, 그야말로 김규항만이 쓸 수 있는 글을 모아 엮은 『우리는 고독할 기회가 적기 때문에 외롭다』. 일상에서 비롯된 소재와 시시각각 변하는 우리 현실을 깊이 응시하는 직관력, 직접적이면서도 명료한 어법이 돋보이는 글을 통해 꾸준히 독자들의 공감을 얻어 온 김규항이 공개적인 글쓰기를 시작한 1998년부터 2016년까지 그의 홈페이지를 통해 공개된 글을 토대로 출판평론가 변정수가 일 년 여의 기간 동안 꼼꼼히 정독하여 가려 뽑은 글들을 담았다.\n\n함축미가 돋보이는 아포리즘으로 분류할 수 있는 문장들로 구성된 이 책은 길지 않은 분량이지만 존재감이 상당하다. 책을 엮은 변정수는 김규항 특유의 절제되고 함축된 문장이 독자에게 최대한 전달될 수 있도록 가장 자연스러운 호흡으로 배열하는데 신경 썼고, 김규항은 아포리즘으로서 함축미가 좀 덜한 대신 산문성이 좀 더 강하게 드러나는 문장을 서브텍스트로 곁들여 자칫 모호하게 읽힐 수 있는 본문의 배경을 이해하는데 도움이 될 수 있도록 배려했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)알마",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20170628",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김규항",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6239975_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6239975_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "160",
+                "CONTROL_NO": "CIP2017013384",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159921148",
+                "INPUT_DATE": "20170602",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우리는 고독할 기회가 적기 때문에 외롭다 ",
+                "PUBLISH_PREDATE": "20170619",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

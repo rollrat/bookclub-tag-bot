@@ -1,0 +1,67 @@
+{
+    "otitle": "외국어 공부의 감각",
+    "oauthor": "아키야마 요헤이 저/황국영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "외국어 공부의 감각 (나는 어떻게 10개 국어를 말하게 되었나?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32459260410",
+                "image": "https://shopping-phinf.pstatic.net/main_3245926/32459260410.20221230072831.jpg",
+                "author": "아키야마 요헤이",
+                "discount": "10370",
+                "publisher": "윌북",
+                "pubdate": "20190610",
+                "isbn": "9791155812235",
+                "description": "외국에 나가지 않고 혼자 공부해 10개 국어를 말하게 된 비법을 공개한다. 평범한 대학생은 어떻게 10개 국어를 구사하게 되었을까? 출발은, 믿었던 공부가 자신을 배신했다는 것. 단어를 수없이 암기하고 문법을 달달 익히며 회화 책을 닳도록 읽었다. 하지만 실전에서는 한마디도 할 수 없었던 현실. 절망을 느낀 저자는 공부의 프레임을 180도 바꿨고 지금은 결국 10개 국어를 구사한다.\n\n\n\n그가 제안하는 방법은 학원이나 교재에 의존하지 않고 ‘한 권의 노트와 구글 번역기’만을 이용한 자기 주도적 학습법이다. 그에 따르면 언어는 수영과 같아서, 감각으로 익혀야 한다고 말한다. 공부량이 많은 성인보다 아이들의 언어 습득력이 빠른 것과 같은 이치다.\n\n\n\n책에는 그의 성공 경험을 토대로 즉시 실천해볼 수 있는 방법들을 순차적이고 체계적으로 정리해놓았다. 놀라울 정도로 간단하지만 언어 공부의 본질을 담은 노하우가 여기 있다. 이제 외국어 공부의 방법을 바꾸자. 하나의 외국어를 말하는 데 3개월이면 충분하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "",
+                "UPDATE_DATE": "20190613",
+                "EA_ADD_CODE": "03700",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 아키야마 요헤이 ;옮긴이: 황국영",
+                "SERIES_TITLE": "",
+                "KDC": "707",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/16/9791155812235.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "167 p.",
+                "CONTROL_NO": "CIP2019018841",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155812235",
+                "INPUT_DATE": "20190513",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "외국어 공부의 감각",
+                "PUBLISH_PREDATE": "20190610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

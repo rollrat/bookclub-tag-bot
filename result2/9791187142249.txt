@@ -1,0 +1,78 @@
+{
+    "otitle": "메디치 가문 이야기",
+    "oauthor": "G.F. 영 저/이길상 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:45 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "메디치 가문 이야기 (르네상스의 주역)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491901882",
+                "image": "https://shopping-phinf.pstatic.net/main_3249190/32491901882.20221227210225.jpg",
+                "author": "G.F. 영",
+                "discount": "24300",
+                "publisher": "현대지성",
+                "pubdate": "20171020",
+                "isbn": "9791187142249",
+                "description": "인류 역사상 가장 위대한 문화운동인 르네상스의 발원지 피렌체!\n\n모나리자, 비너스의 탄생, 천지창조… 다 빈치, 보티첼리, 미켈란젤로 등 수많은 인물을 키워낸 메디치 가문 350년간의 흥미로운 이야기! 이 책은 메디치 가문의 역사와 업적을 통해 중세 시대를 마감하고 르네상스 시대를 열 수 있었던 기반과 그들의 성공 비밀을 보여준다. 르네상스를 피렌체에서 일으킨 역사상 가장 위대한 가문의 발흥부터 몰락까지 350년간 13세대에 걸친 이야기를 자세하고 흥미롭게 기록하였다. 어떤 왕가도 메디치 가문이 르네상스와 예술에 이바지한 공적에 필적하지 못한다. 그 비밀은 무엇일까?\n\n역사 속에서 장수한 가문(기업)들을 살펴보면 그만의 비결이 있기 마련이다. 단지 재력과 권모술수만으로 명가의 자리에 오르기는 불가능한 일이다. 메디치 가문은 탁월한 국정 수행 능력을 보였고, 시민들을 귀족의 압제에서 보호하며, 노블레스 오블리주를 몸소 실천하면서 피렌체 시민들의 마음을 사로잡을 수 있었다. 이러한 모습을 살펴보면서 시대가 바뀌어도 변치 않는 지도력의 본질이 무엇인지 깨닫게 될 것이다. 메디치 가문이 어떻게 명문가가 될 수 있었는지, 그리고 수많은 천재 예술가들의 재능이 어떻게 메디치 가문을 토대로 꽃피울 수 있었는지 다양한 에피소드와 비결을 이 책에서 만나보자."
+            },
+            {
+                "title": "메디치의 영광 (노블레스 오블리주로 빛나는 가문의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503504785",
+                "image": "https://shopping-phinf.pstatic.net/main_3250350/32503504785.20220527024012.jpg",
+                "author": "김성진",
+                "discount": "13500",
+                "publisher": "북향",
+                "pubdate": "20150720",
+                "isbn": "9791195202874",
+                "description": "르네상스를 후원한 메디치 가문의 역사를 따라가는 『메디치의 영광』. 메디치 가문이 남긴 위대한 작품의 발자취와 르네상스에 끼친 영향력을 살펴본 책이다. 재미있는 에피소드와 메디치 가문이 탄생시킨 다양한 예술작품을 통하여 흥미와 지식을 높여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20171102",
+                "EA_ADD_CODE": "03920",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "G.F. 영 지음 ;이길상 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20171020",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "33,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "766 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187142249",
+                "INPUT_DATE": "20170828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(르네상스의 주역) 메디치 가문 이야기",
+                "PUBLISH_PREDATE": "20171020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

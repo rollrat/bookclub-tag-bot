@@ -1,0 +1,67 @@
+{
+    "otitle": "나쁜 사람에게 지지 않으려고 쓴다",
+    "oauthor": "정희진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나쁜 사람에게 지지 않으려고 쓴다",
+                "link": "https://search.shopping.naver.com/book/catalog/32438201753",
+                "image": "https://shopping-phinf.pstatic.net/main_3243820/32438201753.20221019134909.jpg",
+                "author": "정희진",
+                "discount": "12600",
+                "publisher": "교양인",
+                "pubdate": "20200208",
+                "isbn": "9791187064442",
+                "description": "사회적 약자가 이 세상과\n‘품위 있게’ 싸우는 방법, 글쓰기\n\n죄의식 없이 누가 더 뻔뻔한가를 경쟁하고, ‘가해자’의 마음이 평화로운 사회. 여성, 장애인, 성소수자 등 사회적 약자에게 “왜 그렇게 분노가 많냐.”고 말하는 사회. 자녀를 잃은 슬픔을 국가 체제의 위협으로 간주하는 사회. 이런 시대에 약자가 지닐 수 있는 무기는 무엇인가? 정희진에게 무기는 바로 ‘글쓰기’다. 그에게 글쓰기는 약자의 시선으로 타인과 사회를 탐구하고 새로운 세계를 모색하는 과정이다. 내 안의 소수자성을 자원으로 삼아 ‘저들’에게는 보이지 않는 새로운 세계를 드러내는 것, 나보다 더 억울한 이들의 목소리를 듣고 그들과 연대하면서 세상을 배우는 일이다. 이것이 정희진이 말하는 시대에 맞서 ‘품위 있게’ 싸우는 방법으로서 글쓰기다.\n\n품위는 약자의 어쩔 수 없는 선택이다. 약자에게는 폭력이라는 자원이 없다. 이런 세상에서 나의 무기는 나에겐 ‘있되’, ‘적’에겐 없는 것. 바로 글쓰기다. ‘적들은’ 절대로 가질 수 없는 사고방식. 사회적 약자만 접근 가능한 대안적 사고, 새로운 글쓰기 방식, 저들에게는 보이지 않지만 내게만 보이는 세계를 드러내는 것. 내 비록 능력이 부족하고 소심해서 주어진 지면조차 감당 못하는 일이 다반사이지만, 내 억울함을 한 번 더 생각하고 나보다 더 억울한 이들의 목소리를 듣고, 그러면서 세상을 배워야 한다. - 머리말·14쪽"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "교양인",
+                "DDC": "",
+                "UPDATE_DATE": "20200225",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정희진 지음",
+                "SERIES_TITLE": "정희진의 글쓰기",
+                "KDC": "802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791187064435",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "136*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "253 p.",
+                "CONTROL_NO": "CIP2020003323",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791187064442",
+                "INPUT_DATE": "20200122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나쁜 사람에게 지지 않으려고 쓴다",
+                "PUBLISH_PREDATE": "20200208",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

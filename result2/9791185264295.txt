@@ -1,0 +1,67 @@
+{
+    "otitle": "순수꼰대비판",
+    "oauthor": "민이언 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "순수꼰대 비판 (너나 잘하세요!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455377630",
+                "image": "https://shopping-phinf.pstatic.net/main_3245537/32455377630.20221229072815.jpg",
+                "author": "민이언",
+                "discount": "11700",
+                "publisher": "다반",
+                "pubdate": "20181225",
+                "isbn": "9791185264295",
+                "description": "직장생활을 포함한 모든 인간관계를 어긋나게 하는,\n충고와 조언이라고 착각하는 꼰대짓을 향한 통쾌한 일침!\n \n우리는 직장상사, 선배, 친척 등 나의 위에서 지위가 확보된 사람들에게 ‘내가 왕년에는’, ‘내가 네 나이 때는’, ‘기분 나쁘게 듣지 말고’ 등등의 말로 시작되는 충고 아닌 충고를 들으며 내가 하고자 하는 일과 가고자 하는 길에 훼방을 놓는 많은 사람들을 만나게 된다. 대부분 이런 사람을 가리켜 꼰대라고 하지만 우리가 아는 것과 달리 꼰대는 결코 나이만의 문제는 아니다. 나이 든 꼰대는 했던 말을 또 하고, 젊은 꼰대는 했던 말을 또 하게 하면서 어떠한 지적에도 자신이 지닌 애착과 열정의 명분으로 저 스스로를 정당화하며, 타인의 삶에 꾸준히 간섭하는 행위를 일삼는다. 《순수꼰대비판》은 저자가 인간관계를 어렵게 만드는 이러한 꼰대적 행위에 통쾌한 일침을 가함과 동시에 한창 꼰대화가 되어 가는 스스로에 대한 자기반성의 글을 담아낸 책이기도 하다. 어린 시절에는 그렇게 싫어했던 어른들의 가치를, 삶의 어느 순간부터 ‘그런 게 삶이라는’ 긍정의 체념으로 살아갈 뿐, 기성의 담론에 저항했던 시절이 있었다는 사실을 기억하지 못하는, 바로 당신과 나에 관한 이야기이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다반",
+                "DDC": "",
+                "UPDATE_DATE": "20190104",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "민이언 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "245 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185264295",
+                "INPUT_DATE": "20181126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "순수꼰대비판",
+                "PUBLISH_PREDATE": "20181225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

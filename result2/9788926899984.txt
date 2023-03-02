@@ -1,0 +1,67 @@
+{
+    "otitle": "이제 출발합니다",
+    "oauthor": "김정희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이제 출발합니다 (26년 항공사 지상직을 마치며)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455609641",
+                "image": "https://shopping-phinf.pstatic.net/main_3245560/32455609641.20221227205303.jpg",
+                "author": "김정희",
+                "discount": "12420",
+                "publisher": "이담북스",
+                "pubdate": "20200630",
+                "isbn": "9788926899984",
+                "description": "공항서비스 직원으로 26년간 사람을 이해하기 위해 노력하고 최고의 서비스를 제공하는 데 힘을 쏟았다. 이제 저자는 미래의 후배들을 위해 스스로의 경험과 성찰이 담긴 인생 이야기를 이 책에 풀어놓았다. 공항서비스직에 지원하는 이들에게는 직업에 대한 이해를, 여성으로서 오랜 기간 현직에 몸 담아온 이들에게는 공감을 불러일으킬 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books(한국학술정보)",
+                "DDC": "",
+                "UPDATE_DATE": "20200806",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "김정희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "260 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926899984",
+                "INPUT_DATE": "20200702",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이제 출발합니다",
+                "PUBLISH_PREDATE": "20200630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

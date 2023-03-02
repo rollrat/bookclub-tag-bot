@@ -1,0 +1,67 @@
+{
+    "otitle": "일년만 닥치고 독서",
+    "oauthor": "김경태 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일년만 닥치고 독서 (세상이 달라질 거야!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436120204",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436120204.20221227210015.jpg",
+                "author": "김경태",
+                "discount": "13500",
+                "publisher": "미다스북스",
+                "pubdate": "20180625",
+                "isbn": "9788966375776",
+                "description": "평범한 당신도 비범한 1%로 바뀐다\n\n“나를 바꾼 혁명은 독서에서 시작되었다” \n\n1년만 닥치고 독서하라!\n당신의 의식이 뒤집히고 세상이 바뀐다!\n\n매일 똑같이 돌아가는 일상, 연이은 야근과 특근. 나름 열심히 살았는데 정신을 차려보니 적당히 시간을 보내면서 퇴근을 기다리는 평범한 사람이 되어 있다. 직장인이라면 누구나 느껴보았을 절망감이다. 무기력함과 허무함, 겨우 조직사회의 톱니바퀴 역할인 나 자신에 대한 환멸이 느껴진다. 하지만 결국 회사를 박차고 나갈 용기는 없는 그저 ‘평범한’ 사람이다. \n하지만 기회는 있다. 누구나 변하고 싶어 한다. 누구나 ‘비범한 나’를 꿈꾼다. 더 탁월해지고 싶고, 열정적으로 행동하고 싶다. 좋은 습관을 쌓고 싶다. 자신감을 가지고 꿈에 도전해보고 싶다. 관건은 계기, 즉 티핑포인트다. \n\n『1년만 닥치고 독서』는 평범한 나를 비범한 나로 변하게 하는 티핑포인트로서 ‘1년간 독서에 미칠 것’을 권한다. 저자 역시 무력감에 휩싸였던 직장인이었다. 그러나 1년 동안 독서에 집중하면서 삶의 보물을 얻었다. 그리고 지금은 1%의 비범한 사람이 되어 새로운 인생을 맞이했다. 1년간의 독서는 평범한 사람에게 변화의 기회를 주는 인생 혁명의 티핑포인트다. \n\n1장과 2장에서는 독서와 자기혁명의 관계에 대해서 이야기한다. 3장에서는 ‘1년만 닥치고 독서’하는 8가지 실행법, 이어 4장에서는 독서 훈련을 설명한다. 5장에서는 1년간의 독서로 얻을 수 있는 8가지 보물을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "028",
+                "UPDATE_DATE": "20180928",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김경태 지음",
+                "SERIES_TITLE": "",
+                "KDC": "029",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6706439_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6706439_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6706439_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "335 p.",
+                "CONTROL_NO": "CIP2018018580",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966375776",
+                "INPUT_DATE": "20180614",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "일년만 닥치고 독서",
+                "PUBLISH_PREDATE": "20180625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

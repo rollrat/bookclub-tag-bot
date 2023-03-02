@@ -1,0 +1,67 @@
+{
+    "otitle": "검은 고양이 카페",
+    "oauthor": "다카하시 유타 저/안소현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "검은 고양이 카페 (손님은 고양이입니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467072798",
+                "image": "https://shopping-phinf.pstatic.net/main_3246707/32467072798.20221227204556.jpg",
+                "author": "다카하시 유타",
+                "discount": "12420",
+                "publisher": "태일소담",
+                "pubdate": "20191217",
+                "isbn": "9791160271621",
+                "description": "2009년 제8회 〈이 미스터리가 대단해!〉의 최종심에 오른 『원령 소굴 후카가와 사건 수첩?오사키 에도에 가다』로 데뷔하여 단숨에 50만부를 판매하며 인기 작가로 떠오른 다카하시 유타가 신작 소설 『검은 고양이 카페』로 한국에 첫 상륙했다. 다카하시 유타는 고양이를 소재로 한 작품들을 꾸준히 발표해 애묘인들의 사랑을 듬뿍 받아왔다. 『검은 고양이 카페』또한 해가 지면 사람으로 둔갑하는 검은 고양이 포와 그런 검은 고양이에게 집사로 간택된 취준생 마시타 구루미가 우연히 고풍스러운 커피숍 〈커피 구로키〉를 함께 운영하게 되면서 벌어지는 사건들을 유쾌하게 그려낸 소설이다. 다카하시 유타가 새롭게 그려낸 이 고양이들의 거부할 수 없는 매력이 궁금하다면 어서 『검은 고양이 카페』에 방문해보자. 향긋한 커피 한 잔과 각양각색의 고양이들이 당신을 기다리고 있다. \n\n아는 사람은 다 알고 있을 정도로 고양이란 생명체는 참으로 귀엽고 사랑스러운 존재입니다. 고양이의 매력을 알고 있는 분은 이미 행운아입니다. 하지만 아직 늦지 않았습니다. 이 소설을 읽으면서 어느새 당신은 고양이에게 매력을 느끼며 사랑에 빠지게 될 테니까요. 고양이의 세계로 어서 들어오세요. 이제 당신에게는 행복한 나날만이 기다리고 있을 것입니다. _〈옮긴이의 말〉 중에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소담출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20191230",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "다카하시 유타 지음 ;안소현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*187",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "320 p.",
+                "CONTROL_NO": "CIP2019027723",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160271621",
+                "INPUT_DATE": "20190715",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "검은 고양이 카페",
+                "PUBLISH_PREDATE": "20191217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "삶이 허기질 때 나는 교양을 읽는다",
+    "oauthor": "지식 브런치 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "삶이 허기질 때 나는 교양을 읽는다 (하루 5분 지적인 나를 만드는 최고의 인문학 만찬)",
+                "link": "https://search.shopping.naver.com/book/catalog/32812363620",
+                "image": "https://shopping-phinf.pstatic.net/main_3281236/32812363620.20230131165155.jpg",
+                "author": "지식브런치",
+                "discount": "15120",
+                "publisher": "서스테인",
+                "pubdate": "20220607",
+                "isbn": "9791197825903",
+                "description": "“한번 읽기 시작하면 멈출 수 없다!” \n3,000만 조회수가 입증한 읽을수록 빠져드는 인문학 완벽 교양서!\n\n궁금했지만 어디서도 알 수 없었던 이야기, 이제껏 없던 신선한 접근으로 우리를 둘러싼 모든 것을 지식으로 만들어주는 국내 최고의 지식 채널 ‘지식 브런치’를 책으로 만난다! ‘인도에서 불교가 사라진 이유’, ‘로마인들은 왜 그토록 불편하게 누워서 음식을 먹었을까?’, ‘영국은 어떻게 신사의 나라가 되었을까?’, ‘세계에서 유일하게 한국에서만 여우가 사라진 이유’, ‘일본의 와和 사상이 만들어낸 노포 문화’ 등 어디서든 있어 보이게 만드는 교양 상식부터 식탁 위 대화를 풍성하게 만드는 식문화 속 세계사, 충격과 반전을 넘나드는 뜻밖의 역사까지! 읽는 것만으로 세상을 보는 감각이 달라지고, 어제보다 지적이고 세련된 나를 만들어주는 가장 맛있고 품격 있는 인문학 만찬이 펼쳐진다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "서스테인",
+                "DDC": "",
+                "UPDATE_DATE": "20220706",
+                "EA_ADD_CODE": "03030",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지식 브런치 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "359 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791197825903",
+                "INPUT_DATE": "20220321",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "삶이 허기질 때 나는 교양을 읽는다",
+                "PUBLISH_PREDATE": "20220607",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

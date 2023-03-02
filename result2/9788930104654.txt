@@ -1,0 +1,67 @@
+{
+    "otitle": "킹 : 거리의 이야기",
+    "oauthor": "존 버거 저/김현우 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "킹: 거리의 이야기 (거리의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496597033",
+                "image": "https://shopping-phinf.pstatic.net/main_3249659/32496597033.20230207165810.jpg",
+                "author": "존 버거",
+                "discount": "11700",
+                "publisher": "열화당",
+                "pubdate": "20230120",
+                "isbn": "9788930104654",
+                "description": "존 버거의 소설 『킹: 거리의 이야기』. 이 소설은 킹이라는 이름의 개가 바라본, 유럽의 어느 도시 근교 노숙인들의 이야기다. 번영하고 있는 것처럼 보이는 멋진 신세계를 관통하는 고속도로 옆. 버려진 트럭과 고장난 세탁기만 가득한 쓰레기 하치장에는 모두 한때 희망을 품고 있었지만 결국 이십세기에 의해 버려진 사람들이 무리지어 살고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열화당",
+                "DDC": "823.914",
+                "UPDATE_DATE": "20140822",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.youlhwadang.co.kr",
+                "AUTHOR": "존 버거, 김현우 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3623849_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3623849_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014016296",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788930104654",
+                "INPUT_DATE": "20140522",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "킹",
+                "PUBLISH_PREDATE": "20140620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

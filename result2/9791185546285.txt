@@ -1,0 +1,67 @@
+{
+    "otitle": "아르센 뤼팽 전집 03",
+    "oauthor": "모리스 르블랑 저/바른번역 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기암성 (최신 원전 완역본-아르센 뤼팽 전집 03)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506864703",
+                "image": "https://shopping-phinf.pstatic.net/main_3250686/32506864703.20230226071251.jpg",
+                "author": "모리스 르블랑",
+                "discount": "6210",
+                "publisher": "코너스톤",
+                "pubdate": "20150301",
+                "isbn": "9791185546285",
+                "description": "추리 소설 역사상 가장 매력적인 도둑, 아르센 뤼팽!\n\n「아르센 뤼팽 전집」 제3권 『기암성』. 100년 넘게 칭송받아온 추리 문학의 고전을 최신 원전 완역본으로 만나본다. 1905년 첫 선을 보인 이래로 추리 소설 마니아들의 열렬한 사랑과 아낌없는 응원을 받아온 도둑 ‘아르센 뤼팽’. 피비린내 가득한 범행 현장에서도 아름다운 여인과의 로맨스를 꽃피우고 수만 가지 얼굴을 가진 변장술의 대가이자 언제나 유머를 잃지 않는 기묘한 캐릭터, 선과 악이 공존하는 ‘아르센 뤼팽’ 시리즈는 애거서 크리스티, S. S 반 다인, G. K. 체스터턴 등 최고의 추리문학가들에게 활발히 애용되며 추리문학계의 지평을 넓혔다. \n\n제3권 『기암성』은 탄탄한 이야기 전개와 뛰어난 상상력이 돋보이는 장편이다. 제스브르 백작의 앙브뤼메지 저택에서 비서 장 다발이 의문의 살인을 당하고 백작의 조카인 레이몽드가 저 멀리 도망치고 있는, 범인일 게 분명한 남자에게 총을 쏜다. 총상을 입은 남자가 잡히는 건 시간문제라고 생각했지만 어찌 된 일인지, 남자는 홀연히 사라지고 만다. 경찰이 사건 현장을 조사하는 자리에 우연히 천재 소년 이지도르 보트를레가 참석하고 살인 사건을 낱낱이 파헤친 그는 뤼팽과 전면전을 선포한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "코너스톤",
+                "DDC": "",
+                "UPDATE_DATE": "20150330",
+                "EA_ADD_CODE": "04860",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "모리스 르블랑",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185546254",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "6900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185546285",
+                "INPUT_DATE": "20150203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "03 기암성",
+                "PUBLISH_PREDATE": "20150301",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04860 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

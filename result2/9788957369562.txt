@@ -1,0 +1,67 @@
+{
+    "otitle": "하하호호 우리 집 가족 대장 나행복이 간다!",
+    "oauthor": "안선모 글/김준영 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하하호호 우리 집 가족 대장 나행복이 간다! (가족과 이웃)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466546536",
+                "image": "https://shopping-phinf.pstatic.net/main_3246654/32466546536.20221019131420.jpg",
+                "author": "안선모",
+                "discount": "9900",
+                "publisher": "가나출판사",
+                "pubdate": "20180430",
+                "isbn": "9788957369562",
+                "description": "세상을 이해하는 능력이 한 뼘 더 자라는\n초등학생을 위한 눈높이 ‘가족 체험 그림책’\n\n가족이 나를 힘들고 귀찮게 한다고!\n가족은 서로서로 이해하고 도와야 잘 굴러갈 수 있다구! \n친척들을 어떻게 부르는 거지? 돌잔치를 왜 하는 거야?\n우리 이웃은 무슨 일을 할까? 가족, 이웃과 사이좋게 지내려면 어떻게 해야 할까? \n딱 “우리 아이” 같은 가족 대장 행복이를 통해 배우는 가족 체험 그림책!\n이제 외우는 대신 이해하고 워크북으로 확인하며 사회교과와 가족의 핵심을 이해해 보아요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가나문화콘텐츠 :가나",
+                "DDC": "",
+                "UPDATE_DATE": "20180430",
+                "EA_ADD_CODE": "74300",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "글: 안선모 ;그림: 김준영",
+                "SERIES_TITLE": "교과서 개념 잡는 초등 사회그림책",
+                "KDC": "332",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6623173_6.txt",
+                "SET_ISBN": "9788957367445",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6623173_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "61 p.",
+                "CONTROL_NO": "CIP2018011263",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957369562",
+                "INPUT_DATE": "20180409",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(하하호호 우리집) 가족대장 나행복이 간다!",
+                "PUBLISH_PREDATE": "20180430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

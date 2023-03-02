@@ -1,0 +1,67 @@
+{
+    "otitle": "음식 경제사",
+    "oauthor": "권은중 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "음식 경제사 (음식이 만든 인류의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489213721",
+                "image": "https://shopping-phinf.pstatic.net/main_3248921/32489213721.20221229074206.jpg",
+                "author": "권은중",
+                "discount": "13500",
+                "publisher": "인물과사상사",
+                "pubdate": "20190925",
+                "isbn": "9788959065417",
+                "description": "밥 한 공기, 빵 한 조각에 깃든 역사\n\n역사의 최전선에서 인류 경제를 이끌어온 11가지 음식 이야기. 쌀과 밀 같은 곡식부터 맥도날드와 코카콜라를 거쳐 GMO까지 세계사와 경제에 중요 요소가 되어 인류사를 견인해온 음식을 다룬다. 인간의 역사는 음식을 확보하려는 투쟁의 역사, 음식을 주고받으며 이룬 교류의 역사였다. 인류 역사는 음식을 따라 움직였다. 경제사는 밀, 쌀, 옥수수, 보리 같은 곡식을 재배하던 시점부터 시작되었다. 멸치, 청어, 후추, 설탕은 칼로리 열등 지역인 서구가 어떻게 칼로리가 넉넉했던 동양이나 아메리카보다 앞설 수 있었는지 알려준다. 쇠고기는 현대자본주의를 만들었고, 코카콜라와 맥도날드는 미국 중심의 세계 질서가 어떻게 이루어졌는지 보여준다. 투기자본과 규제완화로 대변되는 우리 시대의 위기는 GMO에 압축되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과사상사",
+                "DDC": "",
+                "UPDATE_DATE": "20191007",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "권은중 지음",
+                "SERIES_TITLE": "",
+                "KDC": "381.75",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/06/9788959065417.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "309 p.",
+                "CONTROL_NO": "CIP2019035531",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959065417",
+                "INPUT_DATE": "20190906",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "음식 경제사",
+                "PUBLISH_PREDATE": "20190925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

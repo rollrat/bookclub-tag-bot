@@ -1,0 +1,78 @@
+{
+    "otitle": "AI 최강의 수업",
+    "oauthor": "김진형 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:26 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "AI 최강의 수업 (초지능시대, 보통 사람들을 위한 최소한의 지식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464885305",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464885305.20230220081716.jpg",
+                "author": "김진형",
+                "discount": "14690",
+                "publisher": "매일경제신문사",
+                "pubdate": "20201120",
+                "isbn": "9791164841905",
+                "description": "“사람보다 똑똑한 기계를 꿈꾸는 AI”\n무엇이 이런 혁명적 변화를 가능케 하는가!\n\n한 수 위! 지금까지 나온 AI 관련 서적은 잊어라\n기본 원리, 핵심 기술, 구현 방식, 최신 이슈를 한 권으로 읽다!\n\nAI에 대한 책은 많다. 하지만 현상에 대한 책들이 대부분이다. 요즘 어떤 놀라운 일들이 벌어지고, 앞으로 더욱 놀랄 어떤 일들이 벌어질 것이라는 현실 진단과 예측만 담아내고 있다. 〈AI 최강의 수업〉은 한 발 더 나아간다. 그 현상들을 작동시키는 기저에는 어떤 기술이 있고, 그 기술은 어떻게 이뤄지는지, 그 원리부터 차근히 설명한다. 즉, 기계가 글짓기하는 것을 보여주며 단순히 놀랍다는 이야기를 하는 것이 아니다. 어떤 기술이 어떻게 이뤄져서 기계가 작동을 하고, 어떤 방식으로 기술이 구현되는지, 그래서 기계가 어떻게 우리 앞에 글짓기를 내놓는지 설명하는 것이다. 그렇게 AI를 하나하나 뜯어보면 이제껏 놀라기만 했던 감정에 변화가 생긴다. 결국은 인간이 만드는 것이고, 그래서 AI가 갖는 한계가 어디까지이고, 하지만 더욱 발전할 수 있는 부분은 어디인지 예측이 가능해진다."
+            },
+            {
+                "title": "청소년을 위한 AI 최강의 수업 (인공지능으로 바라보는 미래 세상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436001872",
+                "image": "https://shopping-phinf.pstatic.net/main_3243600/32436001872.20221019132110.jpg",
+                "author": "김진형^김태년",
+                "discount": "14400",
+                "publisher": "매경주니어북스",
+                "pubdate": "20211030",
+                "isbn": "9791164843299",
+                "description": "국영수보다 이제는 AI가 더 중요하다!\nA부터 Z가지 우리가 몰랐던 인공지능의 모든 것\n\nAI에 대한 책은 많다. 하지만 현상에 대한 책들이 대부분이다. 요즘 어떤 놀라운 일들이 벌어지고, 앞으로 더욱 놀랄 어떤 일들이 벌어질 것이라는 현실 진단과 예측만 담아내고 있다. 『청소년을 위한 AI 최강의 수업』은 한 발 더 나아간다. 대한민국 대표 과학자가 막연하게 설명하던 인공지능의 명확한 실체를 알려주고 다가올 미래의 변화를 생생하게 이야기해준다. 이 책을 통해 인공지능이 무엇인지 정확히 배우고 앞으로 그것과 어떻게 공존해나갈지 넓은 시각으로 생각해볼 수 있다. 인공지능 시대에 적합한 자신의 강점을 발견하고 키워나갈 수 있을 것이다. 또한 청소년들이 궁금해하는 ‘인공지능 시대의 일자리’에 대한 이야기와, AI 수업 중 가장 궁금해하는 질문을 모아 부록으로 함께 담았다. 인공지능 관련 진로 선택으로 고민이 많은 청소년에게 큰 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20201124",
+                "EA_ADD_CODE": "03550",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "김진형 지음",
+                "SERIES_TITLE": "",
+                "KDC": "004.73",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/03/9791164841905.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "374 p.",
+                "CONTROL_NO": "CIP2020044181",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164841905",
+                "INPUT_DATE": "20201019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(KAIST 김진형 교수에게 듣는) AI 최강의 수업",
+                "PUBLISH_PREDATE": "20201120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "너도 작가가 될 수 있어",
+    "oauthor": "이동영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "너도 작가가 될 수 있어 (30일 완성 글쓰기 습관 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490949979",
+                "image": "https://shopping-phinf.pstatic.net/main_3249094/32490949979.20221019132759.jpg",
+                "author": "이동영",
+                "discount": "12420",
+                "publisher": "경향BP",
+                "pubdate": "20190627",
+                "isbn": "9788969523389",
+                "description": "글쓰기는 취미가 아니라 일상이다!\n「퇴사학교」 글쓰기 전문강사에게 배우는 글쓰기 노하우\n\n“딱 30일만 따라 해 보자! 그리고 꾸준히 반복해 보자.\n숨 쉬듯 밥 먹듯 글쓰기도 그렇게 쉽게 되는 순간이 온다.”\n\n30일 완성 글쓰기 습관 프로젝트\n누구나 글쓰기 능력을 어느 정도는 타고난다. 자기를 표현하고자 하는 욕구와 행위는 인간의 본성이기 때문이다. 글쓰기라는 ‘도구’가 익숙하지 않을 뿐 기본적인 창의성은 모두의 마음속에 있다. 저자는 가장 중요한 글쓰기 노하우로 ‘매일 쓰는 것’을 꼽는다. 글쓰는 습관을 들이면 자기도 모르게 “숨 쉬듯 밥 먹듯 글쓰기도 그렇게 쉽게 되는 순간이 온다.”고 한다. 이 책에서는 저자가 직접 시도하며 터득한 글쓰기 노하우를 30일 과정으로 정리했다. 글쓰기 준비 단계부터 글쓰기 실전에서 도움이 되는 기술 등 저자가 제안하는 방법을 따라 해 보라. 매일 글쓰기를 실천한 1년 후에 과거의 글과 비교해 보면 달라진 자신의 글쓰기 실력을 두 눈으로 확인할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "경향BP(경향비피)",
+                "DDC": "",
+                "UPDATE_DATE": "20190806",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이동영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788969523389",
+                "INPUT_DATE": "20190806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "너도 작가가 될 수 있어",
+                "PUBLISH_PREDATE": "20190627",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

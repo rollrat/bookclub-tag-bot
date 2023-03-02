@@ -1,0 +1,78 @@
+{
+    "otitle": "노골적인 낭만 여행",
+    "oauthor": "김산환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:37 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "노골적인 낭만 여행",
+                "link": "https://search.shopping.naver.com/book/catalog/32455622757",
+                "image": "https://shopping-phinf.pstatic.net/main_3245562/32455622757.20221019144947.jpg",
+                "author": "김산환",
+                "discount": "12600",
+                "publisher": "꿈의지도",
+                "pubdate": "20191215",
+                "isbn": "9791189469665",
+                "description": "여행생활자 꿈의지도 김산환 대표의 삶과 여행, 그리고 음악이 녹아 있는 여행 에세이. 30여 년간 세상을 여행하며 만난 잊을 수 없는 스물두 곳! 생의 기쁨과 슬픔을 추억하게 했던 그날의 기억을 글과 사진에 담았다. 풍경 속으로 더욱 깊게 빠져들게 했던, 낯선 여행지에서 따뜻한 동행이 되었던 노래도 함께 들려준다. 풍경 위에 음악을 얹고, 여행과 삶을 포개놓는 일! 여행자가 꿈꾸는 ‘노골적인’ 낭만 여행은 바로 이런 것이다."
+            },
+            {
+                "title": "노골적인 낭만 여행(큰글자책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32453199691",
+                "image": "https://shopping-phinf.pstatic.net/main_3245319/32453199691.20221019124928.jpg",
+                "author": "김산환",
+                "discount": "25200",
+                "publisher": "꿈의지도",
+                "pubdate": "20211015",
+                "isbn": "9791167620064",
+                "description": "여행생활자 꿈의지도 김산환 대표의 삶과 여행, 그리고 음악이 녹아 있는 여행 에세이. 30여 년간 세상을 여행하며 만난 잊을 수 없는 스물두 곳! 생의 기쁨과 슬픔을 추억하게 했던 그날의 기억을 글과 사진에 담았다. 풍경 속으로 더욱 깊게 빠져들게 했던, 낯선 여행지에서 따뜻한 동행이 되었던 노래도 함께 들려준다. 풍경 위에 음악을 얹고, 여행과 삶을 포개놓는 일! 여행자가 꿈꾸는 ‘노골적인’ 낭만 여행은 바로 이런 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20191231",
+                "EA_ADD_CODE": "13810",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "김산환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "313 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189469665",
+                "INPUT_DATE": "20191028",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "노골적인 낭만 여행",
+                "PUBLISH_PREDATE": "20191215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

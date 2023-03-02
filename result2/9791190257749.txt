@@ -1,0 +1,67 @@
+{
+    "otitle": "인간은 왜 아픈 걸까?",
+    "oauthor": "쓰보이 다카시 저/곽범신 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인간은 왜 아픈 걸까? (알기 쉽게 설명한 인간의 몸과 질병의 메커니즘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481395798",
+                "image": "https://shopping-phinf.pstatic.net/main_3248139/32481395798.20221228073250.jpg",
+                "author": "쓰보이 다카시",
+                "discount": "14400",
+                "publisher": "시그마북스",
+                "pubdate": "20200911",
+                "isbn": "9791190257749",
+                "description": "생물학 지식부터 여러 가지 질병을\n알기 쉽게 설명한다!\n\n인간은 태어나서 죽을 때까지 여러 질병에 시달린다. 또한 평균수명이 늘어나는 만큼 우리가 평생 동안 걸릴 질병도 많아질 수밖에 없다. 그렇다면 인간은 왜 병에 걸리는 걸까? 이 책에서는 알레르기, 독감, 암, 당뇨병, 우울증, 치매 등 현대에 사는 우리 모두가 걸릴 수 있는 질병이 왜 생기는지 과학적으로 설명하고 있다. 이 책을 통해 인간의 생명현상이 얼마나 신비한지 깨달을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20201013",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "쓰보이 다카시 지음 ;곽범신 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "511",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "308 p.",
+                "CONTROL_NO": "CIP2020033772",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257749",
+                "INPUT_DATE": "20200812",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "인간은 왜 아픈 걸까?",
+                "PUBLISH_PREDATE": "20200911",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

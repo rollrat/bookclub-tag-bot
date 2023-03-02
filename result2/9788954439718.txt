@@ -1,0 +1,67 @@
+{
+    "otitle": "수수께끼가 있는 아침 식사",
+    "oauthor": "도모이 히츠지 저/김선숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수수께끼가 있는 아침 식사 (수프 가게 시즈쿠)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443822665",
+                "image": "https://shopping-phinf.pstatic.net/main_3244382/32443822665.20221229074311.jpg",
+                "author": "토모이 히츠지",
+                "discount": "11700",
+                "publisher": "꼼지락",
+                "pubdate": "20190315",
+                "isbn": "9788954439718",
+                "description": "도모이 히츠지의 맛있는 음식 X 일상 미스터리 소설. 신비로움이 가득한 수프 맛집 시즈쿠를 배경으로 한 '요리와 추리가 결합된 다섯 가지 소설'을 담고 있다. 시바견을 닮은 매력적인 주인공 아사노의 통찰력과 요리 솜씨가 만나, 어떻게 사건을 해결하고 음식으로 사람을 위로하는지를 흥미롭게 보여준다. \n\n\n\n직접 만든 수프가 특기인 가게 '시즈쿠'에는 작은 비밀이 하나 있다. 이곳은 주인이자 요리사인 아사노의 방침에 따라 이른 아침 시간에 잠깐 동안 조용히 영업을 한다. 입소문을 통해 전해 들은 일부 손님만 드나드는 이 시간은 하루의 장사를 위한 재료 준비를 겸하는 때이기도 하다. \n\n\n\n회사에서의 불미스러운 일로 스트레스를 받고, 일찌감치 깨 출근을 하다 우연히 시즈쿠를 발견한 직장인 리에는 이곳의 수프에 완전히 팬이 되어버린다. 리에는 최근 직장 내 인간관계가 전처럼 매끄럽지 않고, 심지어 잠시 책상 위에 둔 파우치를 잃어버린 후 동료를 의심해야 하는 상황에 처하기도 했다. 이해할 수 없는 일로 가득한 회사에서의 일로 고민하던 리에는 위 건강이 상하기까지 한다. 추리력이 좋은 아사노는 상담만으로 사건의 진상을 해명하며, 상황에 걸맞은 요리를 내놓아 리에를 위로한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꼼지락",
+                "DDC": "895.636",
+                "UPDATE_DATE": "20190409",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "도모이 히츠지 지음 ;김선숙 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7139295_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "306 p.",
+                "CONTROL_NO": "CIP2019003465",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954439718",
+                "INPUT_DATE": "20190129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "수수께끼가 있는 아침 식사",
+                "PUBLISH_PREDATE": "20190315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

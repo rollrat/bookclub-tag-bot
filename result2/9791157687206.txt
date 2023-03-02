@@ -1,0 +1,67 @@
+{
+    "otitle": "저는 왼손잡이도 AB형도 아니지만",
+    "oauthor": "카라타치 하지메 저/고망쥐 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "저는 왼손잡이도 AB형도 아니지만",
+                "link": "https://search.shopping.naver.com/book/catalog/32466672602",
+                "image": "https://shopping-phinf.pstatic.net/main_3246667/32466672602.20221230072816.jpg",
+                "author": "카라타치 하지메",
+                "discount": "10350",
+                "publisher": "동양북스",
+                "pubdate": "20210715",
+                "isbn": "9791157687206",
+                "description": "왜 성별은 ‘남’과 ‘여’로만 나뉘어야 해?\n성별에 대한 고민을 솔직하게 그려낸 본격 젠더 성장 만화\n\n〈저는 왼손잡이도 AB형도 아니지만〉은 성별이 둘로만 나뉜 세상에서 애매한 경계선에 서 있는 사람들에 관한 이야기입니다. 저자 트위터에 연재된 만화가 인기를 얻으면서 2020년 단행본으로 출간되었고, 2021년 한국어판이 출간되었습니다.\n\n저자는 여자로 태어난 것에 위화감을 느끼고 “남자가 되고 싶다!”고 생각하며 살아왔습니다. 그런데 곰곰이 생각해보니 수술해서 성별을 바꾸고 싶지도 않고, 남자가 되어 무언가를 하고 싶은 것도 아니라는데...\n“남자도 아니고 여자도 아니라면… 저는 대체 누구일까요?”\n\n저자의 외침은 언젠가 다른 일로 내가 소수의 입장이 되었을 때 하고 싶은 말과 똑같다는 생각이 듭니다.\n‘별것 아닌 특징 중 하나. 개성 중 하나. 딱 그만큼의 일.’"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210811",
+                "EA_ADD_CODE": "07830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자: 카라타치 하지메 ;역자: 고망쥐",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*182",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "139 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157687206",
+                "INPUT_DATE": "20210615",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "저는 왼손잡이도 AB형도 아니지만",
+                "PUBLISH_PREDATE": "20210715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

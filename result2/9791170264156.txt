@@ -1,0 +1,78 @@
+{
+    "otitle": "해달 쌤 수영장",
+    "oauthor": "봄느루 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:32 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "해달 쌤 수영장",
+                "link": "https://search.shopping.naver.com/book/catalog/32436237824",
+                "image": "https://shopping-phinf.pstatic.net/main_3243623/32436237824.20221019114941.jpg",
+                "author": "봄느루",
+                "discount": "11700",
+                "publisher": "팜파스",
+                "pubdate": "20210710",
+                "isbn": "9791170264156",
+                "description": "“어서 와요! 여기는 해달 쌤 수영장입니다.”\n두근두근, 물을 무서워하는 어린이가 처음 수영을 배우면서 느끼는 다채로운 감정들!\n\n처음 수영을 배우는 어린이들에게 수영장은 온통 새롭고 낯선 공간입니다. 친구들과 튜브를 타고 신 나게 놀던 물놀이장과는 다른 곳이지요. 널찍한 수영장에 들어서면 어쩐지 무섭기도 하고 두렵기도 해요. 처음 운동을 배운다는 것, 나 홀로 수영을 배운다는 것은 이전과는 다른 다양한 감정을 느끼게 합니다. 긴장감, 부끄러움, 두려움, 지루함 등등. 다채로운 감정을 경험하며 물속에서 시간이 쌓여갑니다. 때로는 생각처럼 쑥쑥 늘어나지 않는 실력에 지루해지고, 때로는 나보다 더 잘하는 친구를 보며 자신감이 없어질 수도 있어요. 하지만 그 시간을 보내며 차츰 알게 될 거예요. 물속에서 하나씩 차근차근 쌓아올린 시간만큼 나는 더 성장해 간다는 것을요. 나만의 속도로, 차근차근 배우는 기쁨을 느끼는 이곳은 ‘해달 쌤 수영장’이랍니다."
+            },
+            {
+                "title": "쟤는 누구야? (구름이 나에게/할머니와 봄의 정원/빨간모자 요정 이야기/해달 쌤 수영장/안녕, 내 친구 루디/빨간공/우리 오빠는 바보 히어로/내 동생은 얄미운 지니어스/쟤는 누구야?/바다의 색)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465588981",
+                "image": "https://shopping-phinf.pstatic.net/main_3246558/32465588981.20221019105610.jpg",
+                "author": "김연주",
+                "discount": "12600",
+                "publisher": "팜파스",
+                "pubdate": "20220510",
+                "isbn": "9791170264835",
+                "description": "숲속 마을이 들썩들썩!\n우리 마을에 난생처음 보는 동물이 이사 왔어요\n\n부르릉~ 조용한 숲속 마을이 시끌시끌해요. 머나먼 남쪽 마을에서 누군가 이사를 왔거든요. 환영 파티를 준비해야 할까? 사나운 이웃이면 어쩌지? 숲속 마을 동물들은 걱정이 많아요. 카피바라라고 하는데, 도무지 어떤 모습인지 상상하기 힘들어요. 하지만 새로 이사 온 가족들도 걱정이 많죠. 그중에서도 바바는 친한 친구들과 헤어져 낯선 곳에 뚝 떨어진 것만 같은 느낌에 하루하루가 외롭고 힘들답니다. 학교도 가기 싫고, 이전 마을로 다시 돌아가겠다고 매일매일 ‘엉엉’ 울고만 있어요. 바바는 이 숲속 마을에서 잘 지낼 수 있을까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20210907",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "봄느루 글·그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "220*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[42] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170264156",
+                "INPUT_DATE": "20210607",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "해달 쌤 수영장",
+                "PUBLISH_PREDATE": "20210710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

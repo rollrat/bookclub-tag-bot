@@ -1,0 +1,67 @@
+{
+    "otitle": "헛어른",
+    "oauthor": "BOTA 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "헛어른 (어른이라고 하기엔 아직은 서툰 우리들의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444414704",
+                "image": "https://shopping-phinf.pstatic.net/main_3244441/32444414704.20221230074742.jpg",
+                "author": "BOTA",
+                "discount": "13050",
+                "publisher": "가나출판사",
+                "pubdate": "20191209",
+                "isbn": "9788957360262",
+                "description": "★ 네이버 웹툰 350만 뷰\n★ 네이버 독자 평점 9.8\n★ 불안한 서른의 마음을 어루만져준 네이버 공감 웹툰, 단행본 출간!\n★ 미공개 특별 일러스트와 에피소드 수록!\n네이버, 다음, 페이스북, 인스타그램을 통해 2년 간 연재했던 공감 웹툰 〈헛어른〉이 단행본으로 출간됐다. 〈헛어른〉은 외모도 성격도 이 정도면 괜찮다고 생각하는데 남친이 안 생겨 고민인 싱글 여성 ‘혜선’과 혼술, 혼행 등 혼자 하는 것을 좋아하면서도 외로움을 많이 타는 싱글 남성 ‘상규’라는 두 주인공을 통해 서른 전후 남녀의 일상과 고민을 네 컷 만화를 통해 담아낸 작품이다. 30대 남녀가 할 법한 직장생활, 연애, 인간관계, 나이, 진로, 인생에 대한 고민과 깨달음을 네 컷의 소박한 그림과 짧은 대사를 통해 담담하면서도 위트 있게 풀어냄으로써 구독자들로부터 “만화로 쓴 시 같다”는 평을 들었다. 자극적인 소재가 넘쳐나는 웹툰 코너에서 두 남녀의 일상과 고민을 소박하고 담담하게 풀어내는 맛으로 승부한 이 작품은 연재를 시작한 즉시 독자들의 폭풍 공감을 이끌어내며 베스트 웹툰의 자리에 오르기도 했다. \n그간 웹툰 연재를 통해 공개했던 에피소드 200편 외에 네 컷 만화로는 다 표현하기 어려웠던 주인공들의 내밀한 이야기를 별도의 일러스트와 글로 담아낸 이번 단행본은 이 작품을 즐겨 읽던 독자들에게 특별한 선물이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가나출판사 :가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20191224",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "글·그림: Bota",
+                "SERIES_TITLE": "",
+                "KDC": "810",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "136*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "269 p.",
+                "CONTROL_NO": "CIP2019044147",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957360262",
+                "INPUT_DATE": "20191031",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "헛어른",
+                "PUBLISH_PREDATE": "20191209",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

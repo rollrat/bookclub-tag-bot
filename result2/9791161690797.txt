@@ -1,0 +1,67 @@
+{
+    "otitle": "호구지책",
+    "oauthor": "수잔 뉴먼 저/안지은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "싫어도 싫다고 말 못 하는 이 구역의 호구들을 위해 쓴 호구지책",
+                "link": "https://search.shopping.naver.com/book/catalog/32504754941",
+                "image": "https://shopping-phinf.pstatic.net/main_3250475/32504754941.20220527053728.jpg",
+                "author": "수잔뉴먼",
+                "discount": "12870",
+                "publisher": "팬덤북스",
+                "pubdate": "20190425",
+                "isbn": "9791161690797",
+                "description": "싫어도 싫다고 말 못 하는 이 구역의 호구들을 위해 쓴 ’호구지책‘  \n“오늘부터 호구짓은 그만두도록 하겠습니다”\n \n 무리한 부탁에도 일단 ‘OK’를 외치고 보는, 거절이 세상에서 제일 어려운 이들을 위한 책이다. 편의점 심부름 등의 자잘한 요청부터 보증 등의 무리한 부탁에 이르기까지, 각 상황에 대응하는 ‘실전 언어’가 담겨 있어 자타 공인 호구라면 꼭 봐야 할 필독서이다. \n 일상에서 한 번쯤 마주하게 되는 상황들을 일러스트로 재치 있게 표현하여 실전처럼 꾸몄다. 상황별 거절 멘트, 대처 능력, 실전에 적용 가능한 팁까지 거절에 관한 모든 노하우를 세세하게 전달한다. 폭넓은 인간관계부터 친구, 가족, 직장 그 외 기타 상황 등을 포괄적으로 아우른다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190404",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "수잔 뉴먼 지음 ;안지은 옮김 ;안언정 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "261 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161690797",
+                "INPUT_DATE": "20190312",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(싫어도 싫다고 말 못 하는 이 구역의 호구들을 위해 쓴) 호구지책",
+                "PUBLISH_PREDATE": "20190425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

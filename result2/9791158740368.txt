@@ -1,0 +1,67 @@
+{
+    "otitle": "디지털콘텐츠는 처음입니다만",
+    "oauthor": "애덤 워터스 저/윤동준 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "디지털 콘텐츠는 처음입니다만",
+                "link": "https://search.shopping.naver.com/book/catalog/32506508624",
+                "image": "https://shopping-phinf.pstatic.net/main_3250650/32506508624.20221229072343.jpg",
+                "author": "애덤 워터스",
+                "discount": "14220",
+                "publisher": "미디어숲",
+                "pubdate": "20180615",
+                "isbn": "9791158740368",
+                "description": "디지털 시대에 가장 강력한 스펙은\n디지털 콘텐츠 제작 및 관리하는 기술!\n\n하루가 다르게 변화하는 디지털 부문의 급성장은 디지털 콘텐츠 기술에 대한 큰 수요로 이어지고 있다. 그 수요는 실질적으로 모든 산업과 조직에 걸쳐 있다. 당신이 어떤 직종에 종사하든 콘텐츠 관련 기술이 있다면 다양한 기회를 만들어 낼 수 있을 것이다. 일단 자신의 관심 분야를 정하고 거기서 콘텐츠 기술을 전문화시키는 것이 최고의 방법이다. \n\n예를 들어 일하고 싶은 식품 브랜드와 관련된 요리에 관심이 있다면, 레시피 영상을 만들고 빵 굽는 법에 대한 글을 써본다. 국립공원에서 일하고 싶은 활동적인 사람이라면, 인스타그램 채널을 통해 멋진 풍경을 홍보해 보자. 저널리즘과 같은 보다 진지한 일이나 심지어 경찰들이 하는 준법 캠페인을 도울 수도 있다. 이런 목록은 무궁무진하다. 분명한 것은 디지털 콘텐츠에 익숙하고 능숙해지면 재미뿐만 아니라 창조적이 될 수 있고 본인의 관심사에 부합하는 직업을 찾을 수도 있다. \n\n이 책은 당신이 직업을 구하고 있든, 어느 직종에 종사하든 상관없이 이력서 경쟁에서 우위를 확보하고 업무 성과를 올리는 데 유용한 디지털 콘텐츠 관련 제반 지식과 기술을 담고 있다. 영상 콘텐츠, 그래픽 디자인, 사진을 제작하고 올리는 방법과 커뮤니티 관리, 디지털 전략과 평가 방법 등 디지털 콘텐츠의 전반적인 지식을 친절하게 알려줌과 동시에 매 챕터마다 나오는 실전 연습을 통해 실력을 쌓고 자신만의 포트폴리오를 준비하게 돕는다. 또한 디지털 콘텐츠로 무엇을 이룰 수 있는지를 유명인사의 실제 사례를 통해 생생히 들려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미디어숲 :다빈치하우스",
+                "DDC": "303.483",
+                "UPDATE_DATE": "20180531",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mfbook.co.kr",
+                "AUTHOR": "애덤 워터스 지음 ;윤동준 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "331.5412",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6664906_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "306 p.",
+                "CONTROL_NO": "CIP2018014919",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158740368",
+                "INPUT_DATE": "20180514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "디지털 콘텐츠는 처음입니다만",
+                "PUBLISH_PREDATE": "20180615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "모두의 연애",
+    "oauthor": "민조킹 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모두의 연애",
+                "link": "https://search.shopping.naver.com/book/catalog/32455458788",
+                "image": "https://shopping-phinf.pstatic.net/main_3245545/32455458788.20230223071114.jpg",
+                "author": "민조킹",
+                "discount": "13500",
+                "publisher": "팬덤북스",
+                "pubdate": "20161219",
+                "isbn": "9791186404805",
+                "description": "SNS 3만 독자가 공감한 연애의 민낯 \n지금 사랑하는 모든 이들을 위한 \n민조킹표 ‘현실 연애’\n\n지금 사랑하는 모든 이들을 위한 민조킹표 ‘현실 연애’\n\n인스타그램에서 야한 그림을 그리는 일러스트레이터로 핫한 민조킹의 그림 에세이 『모두의 연애』가 출간되었다. 그동안 저자는 사랑에 관한 주제에서 파생되는 남녀 간의 다양한 소재를 그림으로 그려 왔다. 이제 막 시작한 연인들의 설렘부터 소소한 데이트 풍경, 서로에게 길들여지는 순간들, 미묘한 신경전과 감정싸움 등의 모습을 두고 세심한 관찰을 통해 섬세하게 표현한다.\n\n『모두의 연애』에는 사랑에 빠진 우리들의 솔직한 모습이 담겨 있다. 답도 없는 연애를 하면서 매 순간 고민하는 우리의 모습이 초상화처럼 그려져 있다. 짓궂은 농담 같기도 하고, 둘만 아는 암호 같기도 한 이야기는 나의 이야기를 넘어 우리의 이야기로 다가온다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20161216",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "민조킹",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "276",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186404805",
+                "INPUT_DATE": "20161124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "모두의 연애",
+                "PUBLISH_PREDATE": "20161219",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

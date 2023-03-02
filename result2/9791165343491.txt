@@ -1,0 +1,67 @@
+{
+    "otitle": "가진 돈은 몽땅 써라",
+    "oauthor": "호리에 다카후미 저/윤지나 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가진 돈은 몽땅 써라 (먹고 놀고 마시는 데 목숨 걸어라. 다시 살 수 없는 것들에 투자하라.)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458162987",
+                "image": "https://shopping-phinf.pstatic.net/main_3245816/32458162987.20230207164043.jpg",
+                "author": "호리에 다카후미",
+                "discount": "12100",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20210625",
+                "isbn": "9791165343491",
+                "description": "닥치지도 않은 미래를 대비한다며 한두 푼에 집착하며 살 것인가?\n지금이 아니면 살 수 없는 것에 투자하고, 새로운 기회를 잡을 것인가?\n\n‘가진 돈은 몽땅 써라’니, 코로나, AI 혁명, 비트코인 등으로 도무지 앞날을 예측할 수 없는 불안의 시대에 현실감각이 떨어지는 소리가 아닌가? 이 불안을 조금이라도 꺼뜨리기 위해서 모두 돈을 모으기에 급급한데 말이다. 국내 주식은 물론 해외 주식과 코인판까지 기웃거리며 몇 푼 잃거나 따며 일희일비하는 데에는 나름의 이유가 있는 법이다. 그런데, 정말 이걸로 괜찮을까. 이렇게 한푼 두푼 모으고 불린 통장의 잔고가 미래의 불안을 막는 방책이 되어줄 수 있을까?\n\n《가진 돈은 몽땅 써라》는 이런 질문을 마주해 명쾌한 답을 준다. 위기를 기회로 만들고 싶다면 정말 하고 싶은 일에 시간과 열정, 돈을 모두 쏟아붓는 게 유일한 답이라고. 저자의 말처럼 가만히 있어서는 아무런 일도 생기지 않는다. 통장에 돈을 넣어두면 돈을 잃을 일이야 없겠지만, 돈이 불어날 일도 없다는 것이다. 그렇다고 주식이나 부동산, 코인처럼 ‘돈을 위한 투자’가 제대로 된 투자도 아니라 한다. 대신 그는 색다른 경험과 새로운 기회를 사기 위해 시간과 열정과 돈을 쓰라고 한다. 로켓 벤처의 불모지 일본에서 제 손으로 ‘가진 돈을 몽땅 써서’ 시장을 개척하고 우주에 로켓을 쏘아 올리는 데 성공하고, 이제는 ‘일본의 일론 머스크’로 불리는 저자, 호리에 다카후미의 성공은 이런 철학에 기반하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20210728",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "호리에 다카후미 지음 ;윤지나 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "136*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "213 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165343491",
+                "INPUT_DATE": "20210426",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "가진 돈은 몽땅 써라",
+                "PUBLISH_PREDATE": "20210625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

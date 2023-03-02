@@ -1,0 +1,67 @@
+{
+    "otitle": "칼의 기본",
+    "oauthor": "주부의벗사 편저/최강록 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "칼의 기본 (일식칼의 종류부터 올바른 관리법까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491902082",
+                "image": "https://shopping-phinf.pstatic.net/main_3249190/32491902082.20221229071725.jpg",
+                "author": "주부의벗사",
+                "discount": "30600",
+                "publisher": "클",
+                "pubdate": "20211110",
+                "isbn": "9791190555715",
+                "description": "해산물 40종의 단계별 손질 방법 포함 \n전문가가 알려주는 쉽고 정확한 칼 사용법\n\n요리는 ‘재료를 자르는 것’부터 시작한다. 생선을 손질하는 것도, 고기를 자르는 것도, 채소의 껍질을 벗기는 것도 칼이 없으면 시작하기 어렵다. 칼만 제대로 사용해도 조리 과정의 효율이 올라가며, 요리의 맛도 향상된다. 이 책 《칼의 기본》은 칼 다루기에 대한 이해부터 재료 손질법, 손질한 재료를 활용한 레시피까지 체계적으로 담아낸 ‘칼 교과서’이다. \n제1장에서는 칼의 부위별 명칭과 종류, 특징, 칼 손질법 등을 먼저 알아본다. 제2장에서는 방어, 연어, 게, 전복 등 약 40종 해산물을 소개하고 대표 요리와 단계별 손질 방법을 세분화한 사진과 일러스트로 함께 다루고 있어 초보자도 쉽고 정확하게 따라할 수 있다. 제3장에서는 양파, 감자, 대파 등 채소를 써는 법부터 장식용으로 써는 방법까지, 마지막 장에서는 닭고기, 소고기, 돼지고기를 자르는 테크닉을 소개한다. \n또한 앞서 손질한 재료의 본연의 맛을 살려 만들 수 있는 110가지의 제철 요리 레시피와 일본 지역별 생선 제철 달력까지 담겨 있어 해산물을 주로 다루는 일식업자에게는 더욱 실용적이고 전문적인 참고서가 되어줄 것이다. 〈마스터셰프 코리아 2〉의 우승자이자 일본 츠지요리사전문학교에서 유학하고 현재 요리 유튜버로 활동 중인 최강록 셰프의 번역과 감수로 전문성을 더한 훌륭한 칼 교과서인 이 책 한 권이면 누구나 칼 전문가가 될 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "",
+                "UPDATE_DATE": "20211126",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "주부의벗사 엮음 ;최강록 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "34000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "182*255",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190555715",
+                "INPUT_DATE": "20210916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "칼의 기본",
+                "PUBLISH_PREDATE": "20211110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

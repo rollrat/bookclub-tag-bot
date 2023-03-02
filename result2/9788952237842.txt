@@ -1,0 +1,67 @@
+{
+    "otitle": "살아가는 것을 사랑한다는 것",
+    "oauthor": "구로사와 이츠키 저/박진희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "살아가는 것을 사랑한다는 것 (노자 &lt;도덕경&gt; 나를 살리는 마음공부)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436282185",
+                "image": "https://shopping-phinf.pstatic.net/main_3243628/32436282185.20221228073843.jpg",
+                "author": "구로사와 이츠키",
+                "discount": "11700",
+                "publisher": "살림",
+                "pubdate": "20170926",
+                "isbn": "9788952237842",
+                "description": "랜선 친구의 SNS ‘좋아요’ 숫자에 주눅 든 당신에게, 취업과 결혼의 문턱에서 좌절하는 당신에게, 매일 지름신 유혹에 무너지는 당신에게, 노자 『도덕경』이 전하는 지금, 있는 그대로 나를 사랑하는 법!  노자 『도덕경』은 전 세계에서 성경 다음으로 가장 많이 번역될 정도로 중요한 고전 중 하나이며 니체와 프로이트부터 빌 게이츠와 마윈까지 전 세계 대가들은 『도덕경』을 인생의 책으로 삼고 있다.\n\n이 책의 저자 구로사와 이츠키는 광고크리에이터로 성공을 좇다 과부하로 우울증을 앓은 뒤 『도덕경』을 만나 인생의 전환점을 맞게 된다. 그 과정에서 기록된 이 책은 『도덕경』으로 인생의 길을 찾은 저자가 청춘에게 보내는 편지 형식으로 쓰였다. 저자는 『도덕경』의 본뜻은 그대로 살려냄과 동시에 현대적인 언어로 『도덕경』을 재해석한다. 책의 ‘1부-있는 그대로 살아간다는 것’과 ‘2부-본연의 나를 사랑한다는 것’에는 남과 비교하지 않고 행복을 찾아가는 법, 소유하지 않아도 만족하는 법, 세상이 주는 압박에서 벗어나 자신을 사랑하는 법이 담겨 있다. 평소 『도덕경』을 어렵게 느꼈던 사람들이라면 이 책을 통해 일상에 적용해볼 수 있는 ‘내 인생의 인문학’으로 도덕경을 만날 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림",
+                "DDC": "181.114",
+                "UPDATE_DATE": "20171026",
+                "EA_ADD_CODE": "03150",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "구로사와 이츠키 지음 ;박진희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "152.222",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6322861_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6322861_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6322861_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "294 p.",
+                "CONTROL_NO": "CIP2017020842",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952237842",
+                "INPUT_DATE": "20170817",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "살아가는 것을 사랑한다는 것",
+                "PUBLISH_PREDATE": "20170926",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

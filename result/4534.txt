@@ -1,0 +1,34 @@
+{
+    "otitle": "머리가 좋아지는 영양학",
+    "oauthor": "나카가와 하치로 저/안용근 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:40 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "머리가 좋아지는 영양학",
+                "link": "https://search.shopping.naver.com/book/catalog/33435898680",
+                "image": "https://shopping-phinf.pstatic.net/main_3343589/33435898680.20221227205729.jpg",
+                "author": "나카가와 하치로",
+                "discount": "9000",
+                "publisher": "아카데미서적",
+                "pubdate": "20081015",
+                "isbn": "9788976164407",
+                "description": "이 책은 뇌와 음식의 관계를 통해 어떤 음식이 머리를 좋아지게 하고 나빠지게 하는지를 과학적 사실을 들어 소개하고 있다."
+            },
+            {
+                "title": "머리가 좋아지는 영양학:정보 영양학의 진보 (정보 영양학의 진보)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493293457",
+                "image": "https://shopping-phinf.pstatic.net/main_3249329/32493293457.20221229071327.jpg",
+                "author": "나카가와 하치로",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19900601",
+                "isbn": "9788970440897",
+                "description": "머리가 좋고 나쁨, 즉 뇌기능의 활성화 정도에는 일상의 식사 내용이나 섭취 방법에 의해 크게 좌우된다. 이 책은 일상 생활을 중심으로 발육과 상황에 따른 뇌중심의 영양학을 구체적으로 알기 쉽게 소개했으며 종래의 일반 영양학과는 구분되는 두뇌 영양식의 지침서가 될 것이다."
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "곰곰아, 괜찮아?",
+    "oauthor": "김정민 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "곰곰아, 괜찮아?",
+                "link": "https://search.shopping.naver.com/book/catalog/32473025099",
+                "image": "https://shopping-phinf.pstatic.net/main_3247302/32473025099.20221019120148.jpg",
+                "author": "김정민",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20151215",
+                "isbn": "9791186797020",
+                "description": "『곰곰아, 괜찮아?』는 어린이들에게 책의 즐거움을 알려줍니다. 곰곰이는 어떤 상황에서도 손에서 책을 놓지 않습니다. 친구들은 넘어져서 아무 말도 못하고 울다가 찡그리다가 웃기도 하는 곰곰이가 걱정됩니다. 분명 같은 공간에 있는데 서로의 생각이 다릅니다. 김정민 작가는 그 생각의 차이에서 나오는 웃음에 주목해서 한 편의 멋진 그림책을 완성했습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20160215",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "김정민",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5035628_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5035628_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "222x224",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5035628_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "44",
+                "CONTROL_NO": "CIP2015031814",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186797020",
+                "INPUT_DATE": "20151119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "곰곰아, 괜찮아?",
+                "PUBLISH_PREDATE": "20151215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

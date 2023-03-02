@@ -1,0 +1,67 @@
+{
+    "otitle": "방사선으로 치료할 수 있는 7가지 암",
+    "oauthor": "임채홍 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "방사선으로 치료할 수 있는 7가지 암 (방사선종양학과 의사가 쉽게 알려주는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464882762",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464882762.20221230074849.jpg",
+                "author": "임채홍",
+                "discount": "13500",
+                "publisher": "중앙생활사",
+                "pubdate": "20190123",
+                "isbn": "9788961412292",
+                "description": "* 방사선 암 치료! 이것이 궁금하다!\n* 우리가 몰랐던 방사선치료에 관한 오해와 진실, 생생한 완치 사례!\n\n우리나라의 방사선치료 기술은 지난 세기 동안 꾸준히 발전해 방사선치료만으로 최소 7가지 암에서 수술적으로 암을 도려낸 것과 유사한 수준의 완치율을 보여준다. 이 책에서 방사선종양학과 의사인 저자는 최첨단 항암치료 기술인 방사선치료의 효용은 물론 암 전반에 관한 지식을 비전공자들도 쉽게 이해할 수 있도록 다루었다. 이 책에서 소개하는 과학적인 자료와 풍부한 사례를 통해 독자들은 방사선치료에 대한 불필요한 오해를 덜어내고 방사선치료를 제대로 인식하는 계기가 될 것이다. 암 환자나 가족들은 물론 의료업에 종사하는 많은 이들 또한 이 분야에 대한 궁금증을 해소하는 데 큰 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙생활사",
+                "DDC": "616.994",
+                "UPDATE_DATE": "20190328",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "임채홍 지음",
+                "SERIES_TITLE": "",
+                "KDC": "513.994",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7094446_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7094446_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "209 p.",
+                "CONTROL_NO": "CIP2019000223",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961412292",
+                "INPUT_DATE": "20190102",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(방사선종양학과 의사가 쉽게 알려주는) 방사선으로 치료할 수 있는 7가지 암",
+                "PUBLISH_PREDATE": "20190123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

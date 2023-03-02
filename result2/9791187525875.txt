@@ -1,0 +1,78 @@
+{
+    "otitle": "그 사람은 왜 나를 아프게 할까",
+    "oauthor": "크리스티안 노스럽 저/이은경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:16 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "그 사람은 왜 나를 아프게 할까 (상처받는 나와 상처주는 너를 위한 심리학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464768630",
+                "image": "https://shopping-phinf.pstatic.net/main_3246476/32464768630.20221019145902.jpg",
+                "author": "크리스티안 노스럽",
+                "discount": "12600",
+                "publisher": "행성B",
+                "pubdate": "20181120",
+                "isbn": "9791187525875",
+                "description": "▶ 교양심리에 관한 내용을 담은 전문서적입니다."
+            },
+            {
+                "title": "[큰글씨책] 그 사람은 왜 나를 아프게 할까 (상처받는 나와 상처주는 너를 위한 심리학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493285367",
+                "image": "https://shopping-phinf.pstatic.net/main_3249328/32493285367.20220521012313.jpg",
+                "author": "크리스티안 노스럽",
+                "discount": "21600",
+                "publisher": "행성B(행성비)",
+                "pubdate": "20200625",
+                "isbn": "9791164710225",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "행성B(행성비)",
+                "DDC": "155.232",
+                "UPDATE_DATE": "20181119",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "크리스티안 노스럽 지음 ;이은경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "182.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6978094_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6978094_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6978094_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "CIP2018034950",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187525875",
+                "INPUT_DATE": "20181030",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "그 사람은 왜 나를 아프게 할까",
+                "PUBLISH_PREDATE": "20181120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

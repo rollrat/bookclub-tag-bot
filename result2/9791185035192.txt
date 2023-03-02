@@ -1,0 +1,67 @@
+{
+    "otitle": "고전의 시작 : 서양철학",
+    "oauthor": "황광우,홍승기 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고전의 시작: 서양철학 (원문과 해제를 함께 읽는 내 인생 첫 고전 교과서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438310875",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438310875.20221019150836.jpg",
+                "author": "황광우",
+                "discount": "10800",
+                "publisher": "생각학교",
+                "pubdate": "20150102",
+                "isbn": "9791185035192",
+                "description": "학생들이 고전 읽기를 어려워 해 원문과 해제를 함께 읽어 흥미롭고 재미있게 구성한 시리즈이다. 『고전의 시작』 시리즈는 ‘생각 플러스’라는 팁을 두어서 동서양 사상가들이 핵심 가치를 서로 비교하고 넓게 이해하고자 했다. 공자와 소크라테스의 이야기를 통해 ‘참된 진리’란 무엇인가를 이야기하는가 하면, 맹자와 아큐의 이야기를 전하면서 우리시대의 ‘정의’란 무엇인가를 이야기한다. 『고전의 시작』 ‘서양철학’ 편은 ‘철학과 나’, ‘철학자의 인간탐구’, ‘세계를 읽는 눈’, ‘국가의 탄생’, ‘인간 삶의 지혜’의 다섯 주제로 서양철학 고전을 이해하고자 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정원",
+                "DDC": "",
+                "UPDATE_DATE": "20150223",
+                "EA_ADD_CODE": "44100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황광우 홍승기",
+                "SERIES_TITLE": "",
+                "KDC": "160",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185035178",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4225343_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4225343_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014037602",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185035192",
+                "INPUT_DATE": "20141222",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "고전의 시작 서양철학",
+                "PUBLISH_PREDATE": "20150102",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44100 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

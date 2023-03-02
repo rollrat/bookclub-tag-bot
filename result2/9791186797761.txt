@@ -1,0 +1,67 @@
+{
+    "otitle": "아이코 내 코",
+    "oauthor": "주윤희 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아이코 내 코 (주윤희 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492225161",
+                "image": "https://shopping-phinf.pstatic.net/main_3249222/32492225161.20230214163718.jpg",
+                "author": "주윤희",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20170619",
+                "isbn": "9791186797761",
+                "description": "재미있는 말놀이 글놀이의 세계!\n\n놀라운 반전이 숨겨진 이야기와 숲속 곳곳에 숨어 있는 동물을 찾는 재미가 있는, 아주 신기한 그림책 『아이코 내 코』. 보름달이 환하게 뜬 밤, 숲속에 코끼리 내코의 울음소리가 울려 퍼졌습니다. 내코가 코를 잃어버렸거든요. 그러자 똘똘한 참새 아이코는 내코의 코를 찾으러 나섰습니다. 하지만 내코의 코인 줄 알고 찾은 건 뱀의 꼬리, 개미핥기의 코였어요. 한밤중에 일어난 소동 때문에 숲속 친구들이 깜짝 놀랐습니다. 과연 내코와 아이코는 코를 찾을 수 있을까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20170714",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 주윤희",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6242969_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6242969_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "215X305mm",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6242969_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "[42] p.",
+                "CONTROL_NO": "CIP2017013653",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186797761",
+                "INPUT_DATE": "20170608",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아이코 내 코",
+                "PUBLISH_PREDATE": "20170619",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

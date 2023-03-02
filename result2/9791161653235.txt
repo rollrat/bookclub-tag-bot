@@ -1,0 +1,67 @@
+{
+    "otitle": "영문법 100일의 기적",
+    "oauthor": "이보영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영문법 100일의 기적 (이보영 선생님과 함께 왕초보 탈출!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442727668",
+                "image": "https://shopping-phinf.pstatic.net/main_3244272/32442727668.20230131162805.jpg",
+                "author": "이보영",
+                "discount": "11700",
+                "publisher": "넥서스",
+                "pubdate": "20180420",
+                "isbn": "9791161653235",
+                "description": "이보영 선생님과 함께 왕초보 탈출!\n\n[영문법 100일의 기적]은 단순히 문법 규칙을 제시하는 것에서 벗어나 각각의 문법들이 실제 회화에서 어떤 맥락으로, 어떤 모양으로 쓰이는지를 알 수 있게 하는 것을 목표로 했기 때문에 어려운 문법 용어나 실생활에서 쓰이지 않는 예문은 다루지 않았습니다. 매일매일 배운 내용을 복습할 수 있는 Review Quiz에서는 실생활에서 쓰일 만한, 지나치게 단순하거나 억지스럽지 않은 맥락과 내용의 문장들이 나옵니다. 문제를 풀면서 앞서 나온 문법 사항의 실제 쓰임을 확실하게 이해하는 것과 동시에 그 안에서 새로운 어휘들을 익혀서 전체적인 언어 실력을 확장할 수 있습니다.\n\n[무료제공]\n-이보영 선생님의 명품 해설강의\n-원어민 MP3 파일"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "425",
+                "UPDATE_DATE": "20180516",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "이보영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "745",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6608900_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "CIP2018009825",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161653235",
+                "INPUT_DATE": "20180327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "영문법 100일의 기적",
+                "PUBLISH_PREDATE": "20180415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

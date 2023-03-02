@@ -1,0 +1,78 @@
+{
+    "otitle": "나만의 실내정원",
+    "oauthor": "오하나 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:24 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나만의 실내 정원 (공기정화 식물부터 미니 정원 가꾸기까지 그린 인테리어의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496659954",
+                "image": "https://shopping-phinf.pstatic.net/main_3249665/32496659954.20220527054626.jpg",
+                "author": "오하나",
+                "discount": "0",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20170420",
+                "isbn": "9791157529384",
+                "description": "초보 가드너를 위한 작은 공간 100배 활용 가이드북『나만의 실내 정원』. 네이버 파워블로거 ‘퀘럼’ 오하나는 베란다뿐 아니라 사무실, 화장실, 현관, 방 등 내가 생활하는 한 평 남짓의 좁은 실내 공간을 하나의 ‘작은 정원’으로 만들어 줄 방법을 알려 준다. 화려한 화초보다 실제 일상에서 구하기 쉽고, 또는 사무실 등에서 키우기 적합하거나 건강을 위한 식물 등 실제 키우는 사람의 편의를 그대로 반영했다."
+            },
+            {
+                "title": "초록으로 물들다, 나만의 실내 정원 (초록으로 물들다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467059686",
+                "image": "https://shopping-phinf.pstatic.net/main_3246705/32467059686.20221228072313.jpg",
+                "author": "오하나",
+                "discount": "18000",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20200625",
+                "isbn": "9791161657769",
+                "description": "네이버 파워블로거 ‘퀘럼’이 알려 주는\n초보 가드너를 위한 작은 공간 100배 활용 가이드북\n\n한 평 공간에 만드는 나만의 정원\nㆍ식물 키우기의 기본 알기\nㆍ주방, 화장실, 현관에서 식물 키우기\nㆍ침실, 공부방, 서재에서 식물 키우기\nㆍ거실, 사무실에서 식물 키우기\nㆍ베란다, 창가에서 식용 식물 키우기\nㆍ베란다, 창가에서 관상용 식물 키우기\n\n코로나19로 집에 있는 시간이 길어지면서 베란다를 비롯한 소소한 공간을 활용한 ‘나만의 실내 정원’ 만들기에 대한 관심이 높아지고 있다. 또한 거기에 웰빙으로 자신이 먹을 채소나 과일, 허브 등을 직접 길러 먹는다는 점이 ‘소소한 재밋거리’가 되어 더 큰 인기를 얻고 있다. 이 책은 베란다뿐 아니라 사무실, 화장실, 현관, 방 등 내가 생활하는 한 평 남짓의 좁은 실내 공간을 하나의 ‘정원’으로 만들어 줄 방법을 알려 준다. 화려한 화초보다 실제 일상에서 구하기 쉽고, 또는 사무실 등에서 키우기 적합하거나 건강을 위한 식물 등 실제 키우는 사람의 편의를 그대로 반영했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20200623",
+                "EA_ADD_CODE": "13520",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "오하나",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "184 * 252",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "388",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157529384",
+                "INPUT_DATE": "20170406",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "N",
+                "TITLE": "한 평 공간에 만드는 나만의 미니 정원",
+                "PUBLISH_PREDATE": "20170415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

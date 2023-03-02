@@ -1,0 +1,67 @@
+{
+    "otitle": "아이와 함께 여행하는 6가지 방법",
+    "oauthor": "김춘희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아이와 함께 여행하는 6가지 방법 (엄마여행자를 위한 친절한 여행지침서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466857719",
+                "image": "https://shopping-phinf.pstatic.net/main_3246685/32466857719.20221019132338.jpg",
+                "author": "김춘희",
+                "discount": "12600",
+                "publisher": "더블엔",
+                "pubdate": "20170112",
+                "isbn": "9788998294298",
+                "description": "엄마여행자를 위한 친절한 여행지침서. 아이를 ‘데리고’ 떠나는 여행이 아닌, ‘함께’ 하는 여행\n\n낯선 타지에서 아이들을 책임져야 한다는 부담감, 익숙치 않은 언어에 대한 두려움, 안전한 숙소를 찾아야 하는 막막함….아이들과 여행을 떠나려는 엄마들의 걱정과 불안을 이겨낼 꼼꼼하고 야무진 준비방법과 안전하고 똑똑한 여행 이야기를 담았다. 아이는 즐겁고 엄마는 행복한 여행 만들기, 지금 시작된다! 아빠없이 ‘우리끼리 여행’을 다녀온 여러 번의 경험에서 추려낸 에피소드와 여행 중 그리고 여행 후 절절하게 깨달은 엄마여행자로서의 지침을 정리했다.\n\n맛집, 쇼핑몰, 관광지 소개는 없다. 이 책 《아이와 함께 여행하는 6가지 방법》은 여행 준비, 짐 꾸리기, 아이가 즐거운 여행, 엄마도 즐거운 여행 등 꼭 챙길 것과 챙기면 좋을 것들을 6개의 카테고리로 나누어 꾸몄다. 여행을 준비하며 대략 난감한, 그래서 아이들과 여행하는 엄마여행자들에게 여행의 갈피를 잡을 수 있게 도움을 주는 내용들이다. 아이들이 몇 살쯤 여행하면 좋은지, 어느 계절에 가면 좋을지, 캐리어와 배낭 중 어떤 걸 가져가는 게 좋을지 등등 사소한 이런저런 궁금증들은 친절하게 부록으로 다시 정리했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더블엔",
+                "DDC": "910.41",
+                "UPDATE_DATE": "20170328",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김춘희",
+                "SERIES_TITLE": "",
+                "KDC": "980.24",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5948373_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5948373_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "262",
+                "CONTROL_NO": "CIP2016029329",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998294298",
+                "INPUT_DATE": "20161129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "아이와 함께 여행하는 6가지 방법",
+                "PUBLISH_PREDATE": "20170112",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

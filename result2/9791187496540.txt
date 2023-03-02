@@ -1,0 +1,67 @@
+{
+    "otitle": "지나간 날들에 안부를",
+    "oauthor": "하람 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지나간 날들에 안부를",
+                "link": "https://search.shopping.naver.com/book/catalog/32484502383",
+                "image": "https://shopping-phinf.pstatic.net/main_3248450/32484502383.20221019132047.jpg",
+                "author": "하람",
+                "discount": "11700",
+                "publisher": "꿈의지도",
+                "pubdate": "20170927",
+                "isbn": "9791187496540",
+                "description": "불안한 청춘, 흔들리는 어른에게 다정한 위로를 건네는 공감 에세이. 우리는 불안한 청춘의 시기를 지나 여전히 흔들리는 어른으로 산다. 더 괜찮은 삶, 더 큰 행복이 무엇인지 떠올리면 정답을 찾지 못하고 여전히 헷갈리는 마음뿐이다. 저자는 평범한 일상에 행복의 단서가 있을 거라 믿는다. 그래서 흘러간 시간을 돌이켜, 스스로에게 위로가 된 순간들을 기록했다. 곁에 있는 사람들, 떠나온 여행지, 사소한 일상에 관한 이야기는 다정하고 편안한 공감으로 다가온다. 지나간 날들에 안부를 물을 때, 우리는 행복에 조금 더 가까이 가닿을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20171012",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "하람 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187496540",
+                "INPUT_DATE": "20170901",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "지나간 날들에 안부를",
+                "PUBLISH_PREDATE": "20170927",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

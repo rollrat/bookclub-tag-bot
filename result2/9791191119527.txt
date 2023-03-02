@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘의 위로가 도착했습니다",
+    "oauthor": "멘탈케어,마디 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘의 위로가 도착했습니다 (아파도 아픈 줄 몰랐던 나의 마음에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436248862",
+                "image": "https://shopping-phinf.pstatic.net/main_3243624/32436248862.20221229074301.jpg",
+                "author": "멘탈케어^마디",
+                "discount": "12420",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20201116",
+                "isbn": "9791191119527",
+                "description": "“상처 받고 힘든 사람은 나인데, 왜 항상 나는 나만 탓할까?”\n유튜브 ‘멘탈케어’의 1:1 마음 상담소\n\n오늘도 타인의 기준에 맞춰 살아가느라 자신의 마음을 외면한 채 살아가는 이들을 위한 1:1 마음 돌봄 메시지. 유튜브 16만 구독자들의 사랑을 받고 있는 힐링 심리학 채널 ‘멘탈케어’의 첫 에세이로 낮은 자존감과 서툰 인간관계, 내 맘처럼 쉽지 않은 취업과 사회생활 고민 등 유난히 어둡고 힘든 시기를 보내고 있는 독자들에게 오로지 ‘나다운 행복’에 더 집중할 수 있는 방법을 전한다. 그동안 아파도 아픈 줄 몰랐던 나의 마음에게, 더 이상 타인에게 휘둘리고 싶지 않은 나에게, 그리고 사랑하는 가족, 친구, 연인에게 따뜻한 응원과 위로가 되어줄 책이다.\n\n이 책 『오늘의 위로가 도착했습니다』는 총 3가지 코너로 이루어져 있다. 첫 번째 ‘카운슬링 코너’는 우리 모두가 흔히 겪을 수 있는 마음의 고민들과 사연들을 재구성하여 상담 대화로 수록했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20201118",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "멘탈케어,마디 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/22/9791191119527.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "219 p.",
+                "CONTROL_NO": "CIP2020045066",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191119527",
+                "INPUT_DATE": "20201022",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘의 위로가 도착했습니다",
+                "PUBLISH_PREDATE": "20201116",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

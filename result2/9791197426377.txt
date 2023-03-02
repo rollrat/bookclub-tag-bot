@@ -1,0 +1,67 @@
+{
+    "otitle": "당신의 가격은 틀렸습니다",
+    "oauthor": "김유진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신의 가격은 틀렸습니다 (최고의 이윤을 남기는 가격의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474581087",
+                "image": "https://shopping-phinf.pstatic.net/main_3247458/32474581087.20230214164056.jpg",
+                "author": "김유진",
+                "discount": "20140",
+                "publisher": "도서담",
+                "pubdate": "20210501",
+                "isbn": "9791197426377",
+                "description": "최고의 이윤을 남기는 가격의 비밀\n당신의 가격은 틀렸습니다\n\n『당신의 가격은 틀렸습니다』는 무언가를 팔아야 하는 분들을 위한 책이다. 가치와 격을 동시에 갖춘 것이 가격이라고 말하며, 팔아야하는 무언가에 대해 남들과 비교될 수 없는 특별한 가치를 생산해내고 그에 따라 자신있게 가격을 책정하고, 소비자에게 당당하게 가격을 요구하라고 말한다. 좁게는 외식업을 운영하는 사람부터 넓게는 무형의 서비스, 자기 자신을 브랜딩하는 모든 사람들에게 폭넓게 도움이 되리라 기대한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "도서담",
+                "DDC": "",
+                "UPDATE_DATE": "20210622",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김유진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "363 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197426377",
+                "INPUT_DATE": "20210330",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "당신의 가격은 틀렸습니다",
+                "PUBLISH_PREDATE": "20210501",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

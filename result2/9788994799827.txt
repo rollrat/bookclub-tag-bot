@@ -1,0 +1,67 @@
+{
+    "otitle": "SOUL OF AFRICA 소울 오브 아프리카",
+    "oauthor": "함길수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "SOUL OF AFRICA 소울 오브 아프리카 (낯선 곳에서의 자유, 힐링여행 아프리카)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438286944",
+                "image": "https://shopping-phinf.pstatic.net/main_3243828/32438286944.20221227205544.jpg",
+                "author": "함길수",
+                "discount": "14310",
+                "publisher": "상상출판",
+                "pubdate": "20140717",
+                "isbn": "9788994799827",
+                "description": "아프리카 대자연이 인간에게 전해 주는 진정한 위로\n10년 동안 아프리카 전역 17개국 46개의 도시를 종단하고 횡단하며 몸으로 축적해 온 작가 함길수. 그 10년의 시간이 담긴 한 권의 책이 나왔다. 『SOUL OF AFRICA』는 아프리카의 다양성과 독특한 아름다움을 인상적으로 보여주는 매력적인 포토 컬렉션이다. 마다가스카르, 우간다, 모로코, 사하라, 남아공, 모잠비크, 보츠와나 등 좀처럼 접할 수 없던 광경들이 펼쳐진다.\n\n작가의 열정이 탄생시킨 이 책 속엔 광활한 자연과 인간의 자유가 넘친다. 한 장 한 장 넘겨보는 사이 왜 떠나야 하는지, 그리고 왜 돌아와야 하는지 알게 된다. 지난 20년간 자동차 탐험가로, 사진작가로 길 위에서 바람처럼 살아온 함길수. 삶에서 가장 중요한 것은 ‘자유’라고 생각하며 살아가는 그는 지금도 지구의 길 위를 걸으며 삶의 소중한 지혜를 만나고, 그곳에서 전해오는 잔잔한 감동과 ‘진정한 자유’를 꿈꾸며 살아가고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "916.04",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "함길수",
+                "SERIES_TITLE": "",
+                "KDC": "983.02",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3763089_3.jpg",
+                "PRE_PRICE": "15900",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3763089_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014020539",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994799827",
+                "INPUT_DATE": "20140704",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "소울 오브 아프리카",
+                "PUBLISH_PREDATE": "20140717",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

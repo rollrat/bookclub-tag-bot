@@ -1,0 +1,23 @@
+{
+    "otitle": "속산 100의 테크닉",
+    "oauthor": "나카무라 기사쿠 저/김현숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "속산 100의 테크닉 (이것으로 당신도 계산의 명인)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466596726",
+                "image": "https://shopping-phinf.pstatic.net/main_3246659/32466596726.20221019123425.jpg",
+                "author": "나카무라 기사쿠",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20170724",
+                "isbn": "9788970441672",
+                "description": "이 책에서는 속산 문제를 모두 100문제 준비하여 각 문제마다 간단한 설명을 붙여서, 속산의 기법을 발견하는 단서가 되도록 했다."
+            }
+        ]
+    }
+}

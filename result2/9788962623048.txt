@@ -1,0 +1,67 @@
+{
+    "otitle": "생각의 싸움",
+    "oauthor": "김재인 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "생각의 싸움 (인류의 진보를 이끈 15가지 철학의 멋진 장면들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473361012",
+                "image": "https://shopping-phinf.pstatic.net/main_3247336/32473361012.20221230074654.jpg",
+                "author": "김재인",
+                "discount": "16200",
+                "publisher": "동아시아",
+                "pubdate": "20190924",
+                "isbn": "9788962623048",
+                "description": "깊이 있고 정확하면서도 친절한 철학 개론서!\n\n《안티 오이디푸스》, 《천 개의 고원》을 번역한 철학자 김재인이 중요하다고 생각한 15가지 철학이 탄생한 순간을 살펴보면서 서양 철학사 전반을 꿰뚫는 『생각의 싸움』. 시대의 필요에 따라 치열하게 묻고 답하며, 당시 주도적인 통념에 맞서 생각의 싸움을 전개한 결과가 철학 이론이고 개념이다. 그래서 어떤 철학을 이해하기 위해서는 시대적 상황과 그 철학자가 놓여 있던 맥락을 파악하는 것이 중요하다.\n\n저자는 철학과 철학 이론을 렌즈에 비유한다. 우리 앞에 놓인 문제를 명확하게 파악하기 위해서는 개념의 렌즈가 필요한데, 그 렌즈를 제공하는 역할을 철학이 해왔다는 것이다. 철학자마다 시대마다 잘 들여다봐야 한 구체적인 문제가 있었다. 그 문제가 부각된 맥락을 읽어야 철학의 진정한 의미를 알 수 있다고 강조한다. \n\n이 책에서 주요하게 다루어지는 철학자는 플라톤, 아리스토텔레스, 데카르트, 칸트처럼 많은 사람에게 잘 알려진 철학자를 포함해, 파르메니데스, 아우구스티누스, 에피쿠로스, 베르그손같이 조금은 덜 알려진 철학자들의 철학도 다룬다. 특정한 철학자의 철학 전반을 다루지 않고, 시대 순서가 아닌 문제 중심으로 철학사를 읽어보며, 철학이 혼자서 하는 활동이 아니라 시대와 상황에 영향을 받으며 이전 사고와 싸워서 끊임없이 스스로를 극복하는 과정임을 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "",
+                "UPDATE_DATE": "20191001",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김재인 지음",
+                "SERIES_TITLE": "",
+                "KDC": "160",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "407 p.",
+                "CONTROL_NO": "CIP2019035282",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962623048",
+                "INPUT_DATE": "20190905",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "생각의 싸움",
+                "PUBLISH_PREDATE": "20190924",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "발도르프 공부법 강의",
+    "oauthor": "르네 퀘리도 저/김훈태 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "발도르프 공부법 강의 (유네스코 선정 21세기 개혁교육 모델, 발도르프 학교에서 배운다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492896792",
+                "image": "https://shopping-phinf.pstatic.net/main_3249289/32492896792.20221227205839.jpg",
+                "author": "르네 퀘리도",
+                "discount": "9000",
+                "publisher": "유유",
+                "pubdate": "20170913",
+                "isbn": "9791185152691",
+                "description": "발도르프 교육은 유네스코에서 21세기 개혁교육 모델로 선정했을 정도로 전 세계적으로 그 권위와 교육 효과를 인정받고 있다. 한국 교육부에서 요즘 추진하고 있고 융합적 사고력과 창의적 문제 해결력을 배양하는 융합교육(STEAM)과 그 본질에 있어 크게 다르지 않은 교육 이념이다.\n\n\n\n한국에도 발도르프 교육에 관한 책이 꽤 출간되었지만 대개 실질적인 교육 방법론을 다루거나 창시자의 루돌프 슈타이너의 교육 사상을 담은 난해한 책인 경우가 대부분이다. 청계자유발도르프 학교에서 교사를 하다가 지금은 발도르프 사상을 연구하고 있는 저자도 이런 아쉬움을 해소하기 위해 오랫동안 좋은 책을 찾아 헤매다가 이 책을 발견했고 기쁜 마음으로 번역했다.\n\n\n\n아이를 온전히 사랑하고 건강하게 키우고 싶은 분이라면 누구나 흥미로워할 내용으로 가득하다. 아이들에게 리듬 있는 생활이 왜 필요한지, 아이를 가르칠 때 기질을 정확하게 파악하는 게 왜 중요한지, 한치 앞을 알 수 없는 미래의 삶을 위해 아이에게 어떤 준비를 시켜야 할지, 아이에게 키워 주어야 할 소중한 가치가 무엇인지를 단순하지만 명확한 언어로 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유유",
+                "DDC": "370.1",
+                "UPDATE_DATE": "20171012",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "르네 퀘리도 지음 ;김훈태 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "370.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6333585_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6333585_3.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "165 p.",
+                "CONTROL_NO": "CIP2017021687",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185152691",
+                "INPUT_DATE": "20170823",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "발도르프 공부법 강의",
+                "PUBLISH_PREDATE": "20170914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

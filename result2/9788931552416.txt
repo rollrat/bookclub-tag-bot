@@ -1,0 +1,67 @@
+{
+    "otitle": "0년차 게임 개발",
+    "oauthor": "김다훈,박소현,이재호,주진영 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "0년차 게임 개발 (아마추어들의 게임 프로젝트 관리와 기획, 게임 디자인 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444236685",
+                "image": "https://shopping-phinf.pstatic.net/main_3244423/32444236685.20221227210118.jpg",
+                "author": "김다훈^박소현^이재호^주진영",
+                "discount": "17100",
+                "publisher": "성안당",
+                "pubdate": "20210830",
+                "isbn": "9788931552416",
+                "description": "팀 빌딩부터 프로토타이핑을 거쳐 출시까지!\n아마추어 게임 개발자들은 어떻게 자신들의 프로젝트를 관리하고 진행했을까?\n게임 개발자 지망생들에게 꼭 필요한 생생한 사례와 실질적인 조언들!\n\n많은 게임 개발자 지망생들은 취업을 위해 직접 게임을 만들어보고 싶어 한다. 게임 개발 경험은 개발 과정 중에 실무자로서 무엇을 해야 하는지 업무 내용에 대한 이해를 할 수 있게 해주지만, 그에 못지않게 중요한 것은 협업의 경험이다. 팀으로서 게임을 개발하기 위해서는 팀의 목표를 이해하고 팀원을 배려하면서, 우리가 함께 게임을 개발하기 위해 개개인이 무엇을 노력해야 하고 고민해야 하는지 이해할 수 있어야 한다. \n\n대부분 공개되는 개발 과정은 잘 짜인 조직체계에서 서로의 역할을 명확히 인지하고 권한이 주어진 팀의 경험들이다. 하지만 아마추어들의 개발 과정은 그렇지 않기에 더 많은 난관이 존재한다. 저자는 이 책을 통해 학생들의 개발 과정을 공유함으로써 현업 개발자들의 조언을 들을 수 있는 기회를 마련하고, 지망생들이 실수에 미리 대비할 수 있는 기회가 되기를 희망한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20211005",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "김다훈,박소현,이재호,주진영 저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/19/9788931552416.jpg",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931552416",
+                "INPUT_DATE": "20210819",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "0년차 게임 개발",
+                "PUBLISH_PREDATE": "20210830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

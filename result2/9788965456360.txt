@@ -1,0 +1,67 @@
+{
+    "otitle": "저는 비정규직 초단시간 근로자입니다",
+    "oauthor": "석정연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "저는 비정규직 초단시간 근로자입니다 (2020 한국출판산업진흥원 책나눔위원회 2월의 추천도서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506898701",
+                "image": "https://shopping-phinf.pstatic.net/main_3250689/32506898701.20221229071133.jpg",
+                "author": "석정연",
+                "discount": "13500",
+                "publisher": "산지니",
+                "pubdate": "20191220",
+                "isbn": "9788965456360",
+                "description": "비정규직 초단시간 근로자 사서!\n불안한 고용과 과도한 업무 등 도서관 노동 현장을 이야기하다\n비정규직 고용계약이 반복되는 도서관 노동 현장을 기록하다\n\n이 책은 초등학교 도서관의 계약직 사서로 근무한 저자가 6년 동안 경험한 도서관의 노동 현장과 학교와의 불공정한 계약 조건을 적은 에세이집이다. 저자는 초등학교에서 학부모 재능기부로 독서지도 수업을 하다 학교 측으로부터 도서관 사서 도우미를 권유받았다. 그리고 열정적으로 일한 노력을 인정받아 학교 관리자로부터 사서 자격증을 취득하면 정규직으로 채용하겠다는 제안을 받는다. 그녀는 2년 동안 주경야독하며 사서교육원을 졸업해 준사서 자격증을 취득하고 정규직으로 채용될 것이라는 사실에 기뻐한다. 그러나 바뀐 학교 관리자는 정규직 채용이 어렵다고 말하고 오히려 저자의 급여를 월급제에서 시급제로 전환했다. 저자는 지금까지 같은 일을 해왔음에도 더 좋지 않은 고용계약을 해야 했다.\n\n실제로 2019년 서울지역 기준으로 공공도서관에서 일하는 사서 노동자 3명 중 1명은 비정규직이고 시간제, 기간제, 무기계약직으로 고용불안에 시달리고 있다. 저자가 궁극적으로 이 글을 쓴 이유는, 도서관에서 일하는 노동자들이 안정된 고용조건에서 일하며, 도서관 노동 현장이 지금보다 더 건강해지길 바라는 마음에서다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20191231",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "석정연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "321.546",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/27/9788965456360.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "CIP2019048102",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965456360",
+                "INPUT_DATE": "20191125",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "저는 비정규직 초단시간 근로자입니다",
+                "PUBLISH_PREDATE": "20191220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

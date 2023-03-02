@@ -1,0 +1,67 @@
+{
+    "otitle": "마흔 식사법",
+    "oauthor": "모리 다쿠로 저/박재현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마흔 식사법 (영양은 올리고 체중은 줄이는 식사의 10가지 법칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472057891",
+                "image": "https://shopping-phinf.pstatic.net/main_3247205/32472057891.20221229072448.jpg",
+                "author": "모리 다쿠로",
+                "discount": "12150",
+                "publisher": "반니라이프",
+                "pubdate": "20161130",
+                "isbn": "9791185435930",
+                "description": "나이가 들어서는 ‘물질대사를 높여 주는 식사’를 하는 데 초점을 맞출 필요가 있다. 근육의 재료가 되는 단백질과 지방의 연소를 촉진하는 양질의 지방, 물질대사에 사용되는 비타민과 미네랄이 풍부하게 들어 있는 식품을 충분히 잘 먹는 것이다. 그리고 영양소가 적고 대사이상의 원인이 되는 당을 과다 섭취하거나 식물성 지방 같은 조악한 기름을 사용한 식품을 먹지 않는 것이다.\n\n\n\n마흔이 넘어서 체중조절을 할 때 가장 염두에 두어야 할 것은 ‘제대로 된 영양 섭취’다. 나이를 먹으면 필연적으로 소화흡수 능력이 떨어지기 때문에 20대와 같은 양의 단백질을 섭취해도 동일한 양의 근육이 생기지 않는다. 게다가 생명유지와 관련된 지방의 흡수력은 쇠퇴하지 않고 오히려 더 쉽게 축적된다. 그래서 40대에는 20대 시절과 똑같이 먹어도 살이 찌고, 남녀를 가리지 않고 모두 몸매가 둥글둥글해지는 것이다.\n\n\n\n그렇다면 어떻게 체중조절을 하면서 건강도 해치지 않을 수 있을까? ‘닥치고 단백질 섭취’다. 단백질은 근육을 비롯해 피부, 머리카락, 뼈, 혈액, 내장 등 우리 몸의 모든 구성요소를 만드는 데 필요한 기본 영양소이므로 열량을 줄이는 방편으로 단백질 섭취를 줄여서는 절대로 안 된다. 또 날렵한 몸매에 필요한 근육을 증가시키기 위해서도 운동보다 충분한 단백질 섭취가 훨씬 효율적이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판) 반니",
+                "DDC": "613.2",
+                "UPDATE_DATE": "20170418",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "모리 다쿠로",
+                "SERIES_TITLE": "",
+                "KDC": "517.52",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5889867_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5889867_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "204",
+                "CONTROL_NO": "CIP2016027172",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185435930",
+                "INPUT_DATE": "20161109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "마흔 식사법",
+                "PUBLISH_PREDATE": "20161130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

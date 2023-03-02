@@ -1,0 +1,67 @@
+{
+    "otitle": "나를 쳐다보지 마",
+    "oauthor": "마이클 로보텀 저/김지선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나를 쳐다보지 마 (마이클 로보텀 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486514654",
+                "image": "https://shopping-phinf.pstatic.net/main_3248651/32486514654.20230117163328.jpg",
+                "author": "마이클 로보텀",
+                "discount": "13320",
+                "publisher": "북로드",
+                "pubdate": "20180917",
+                "isbn": "9791158790967",
+                "description": "상처의 씨앗은 어떻게 범죄의 동력으로 변해가는가?\n\n파킨슨병을 앓고 있어 범인을 뒤쫓기엔 치명적인 약점을 지니고 있지만 한계를 극복하고 인간 심리의 근원을 파헤쳐 사건을 해결하는 맹활약으로 정의 실현을 위해 애써온 심리학자 조 올로클린. 10년이 넘도록 전 세계적인 인기를 이어가고 있는 「조 올로클린 시리즈」 중에서도 가장 좋은 평가를 받았던 요소들이 집대성되어 있는 『나를 쳐다보지 마』는 최상의 조화를 이룬 작품으로 평가되고 있다.\n\n줄리안이 시골집에서 두 딸과 함께 여름을 보내자고 제안한 기분 좋은 날, 달갑지 않은 프로파일링 요청이 들어온다. '마인드헌터'라는 심리학자가 조의 이름을 팔아 언론에 등장해 살인사건의 세부 내용을 공개하고 경찰 조사를 어렵게 만드는 바람에 어쩔 수 없이 수사에 가담하게 된 것이다. \n\n한 집 안에서 두 모녀가 살해됐다. 어머니는 서른여섯 차례 난도질당했고, 딸은 잠자는 숲속의 공주처럼 침대에 고이 누워 죽은 채로 발견됐다. 큰 온도 차를 보이는 모녀의 살인사건 외에도 이마에 상징이 새겨진 피해자들이 줄줄이 발견되고, 조는 사건들에서 일련의 공통점을 발견한다. 그러던 중 딸들과 아내 모두 위험에 처하고, 조는 사랑하는 모든 이들을 동시에 지켜낼 수 없음에 좌절하는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로드 :더난콘텐츠그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20181121",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "지은이: 마이클 로보텀 ;옮긴이: 김지선",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "535 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158790967",
+                "INPUT_DATE": "20180810",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나를 쳐다보지 마",
+                "PUBLISH_PREDATE": "20180917",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

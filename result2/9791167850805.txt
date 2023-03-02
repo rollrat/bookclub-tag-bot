@@ -1,0 +1,67 @@
+{
+    "otitle": "청소일로 돈 벌고 있습니다",
+    "oauthor": "박주혜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "청소일로 돈 벌고 있습니다 (‘청소를 제일 잘한다’는 업체로 거듭나기까지 청소업의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/33590529618",
+                "image": "https://shopping-phinf.pstatic.net/main_3359052/33590529618.20221019135636.jpg",
+                "author": "박주혜",
+                "discount": "14400",
+                "publisher": "설렘(SEOLREM)",
+                "pubdate": "20220801",
+                "isbn": "9791167850805",
+                "description": "제2의 직업은 청소부로 정했습니다\n소자본 고수익 창업 아이템, 청소업의 세계\n\n청소업은 다른 직업 선택지가 없는 사람들이 선택하는 것으로 생각하는 사람들이 많습니다. 제가 청소일을 시작할 때도 그런 편견 어린 시선은 지배적이었습니다. 하지만 저에게는 다른 선택지도 있었고, 청소업은 많은 직업 중 저 스스로 ‘선택’한 직업이었습니다.\n이 책은 청소하는 사람들의 일상과 마음가짐, 그리고 청소일의 가능성과 매력, 현장에서 마주한 여러 에피소드를 엮어 일기를 쓰듯 회상하며 적은 글입니다. 한 줄 한 줄 읽어 내려가며 청소업의 현장을 글로나마 생생히 느껴볼 수 있기를 바랍니다. 마지막 장을 읽었을 때는 지금 당신이 가진 청소에 대한 생각들이 조금은 변화되어 있다면 좋겠습니다. 그리고 청소업, 혹은 소자본 창업을 하려고 마음먹은 분들께도 작은 용기가 되길 바랍니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "설렘 :슬로디미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20220907",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박주혜 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/07/f20220708XLAL.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "180 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167850805",
+                "INPUT_DATE": "20220708",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "청소일로 돈 벌고 있습니다",
+                "PUBLISH_PREDATE": "20220801",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

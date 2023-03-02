@@ -1,0 +1,78 @@
+{
+    "otitle": "완월동 여자들",
+    "oauthor": "정경숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:33 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "완월동 여자들 (살아남아 사람을 살리는 여성 연대의 기록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487788520",
+                "image": "https://shopping-phinf.pstatic.net/main_3248778/32487788520.20221019143345.jpg",
+                "author": "쓰담",
+                "discount": "14400",
+                "publisher": "산지니",
+                "pubdate": "20200828",
+                "isbn": "9788965456681",
+                "description": "정경숙의 『완월동 여자들』은 〈살림: 살아남아, 사람을 살리다〉, 〈완월동과 마주하다〉, 〈낙인: 편견에 맞서다〉 등 살아남아 사람을 살리는 여성 연대의 기록이 수록된 책이다."
+            },
+            {
+                "title": "완월동 여자들(큰글씨책) (살아남아 사람을 살리는 여성 연대의 기록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436281558",
+                "image": "https://shopping-phinf.pstatic.net/main_3243628/32436281558.20221019151005.jpg",
+                "author": "쓰담",
+                "discount": "22500",
+                "publisher": "산지니",
+                "pubdate": "20220224",
+                "isbn": "9791168610088",
+                "description": "전국 최초이자 부산 마지막 성매매 집결지 완월동의 폐쇄,\n그 속에 숨겨진 활동가들의 땀과 눈물\n★\n생존을 위한 치열함만이 가득한 그곳에서 ‘살아남아 사람을 살리고’, ‘언니들의 일상을 살리고자’ 직진했던 기록\n★\n세상의 낙인에 울고, 서로를 향한 위로에 웃었던 \n완월동 여자들 18년의 이야기"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20201013",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "정경숙 지음",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/18/9788965456681.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "256 p.",
+                "CONTROL_NO": "CIP2020034717",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965456681",
+                "INPUT_DATE": "20200818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "완월동 여자들",
+                "PUBLISH_PREDATE": "20200828",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

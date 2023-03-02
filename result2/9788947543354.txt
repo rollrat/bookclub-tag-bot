@@ -1,0 +1,67 @@
+{
+    "otitle": "일만 하지 않습니다",
+    "oauthor": "알렉스 수정 김 방 저/박여진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일만 하지 않습니다 (완벽하게 쉬고 집중적으로 일하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493620299",
+                "image": "https://shopping-phinf.pstatic.net/main_3249362/32493620299.20220527022811.jpg",
+                "author": "알렉스 수정 김 방",
+                "discount": "13500",
+                "publisher": "한국경제신문",
+                "pubdate": "20180420",
+                "isbn": "9788947543354",
+                "description": "휴식의 중요성을 깨달으면 삶의 모든 분야에서 성과를 얻을 수 있다!\n\n우리가 일과 휴식의 관계를 완전히 오해하고 있음을 일깨워주는 『일만 하지 않습니다』. 휴식은 일의 동반자라는 것, 그리고 일과 휴식은 상호보완적이며 서로를 완벽하게 만들어주는 긴밀한 관계임을 알려주는 책이다. 역사상 가장 창의적인 작가, 과학자, 사상가 등이 휴식에 대해 얼마나 엄격하고 진지했는지 밝혀내며 완벽하게 쉬고 집중적으로 일하고자 하는 사람들을 위해 낮잠, 산책, 의도적인 멈춤 등의 방법을 제안한다. \n\n많은 사람이 해야 할 일들의 목록을 전부 마치고 나서야 겨우 쉴 생각을 하지만, 중간 중간 휴식 시간을 끼어 넣고 목록도 교체해가면서 일을 실행하는 편이 훨씬 효과적이다. 자신의 분야에서 탁월한 성취를 이루고 창의성으로 가득한 사람들은 공통적으로 충분한 휴식을 취했고, 진지하게 휴식에 임했다.\n\n휴식을 단순히 일의 반대 개념으로만 생각할 때, 휴식은 진지한 고려의 대상이 되지 못하고 기피의 대상이 되고 만다. 바쁘게 일해야 성과와 연결될 거라고 막연히 생각하며 휴식을 소극적인 행동으로 여기는 것은 가치 있고 의미 있는 삶으로의 변화를 막는 것으로, 저자는 이 책을 통해 휴식이 삶에 미치는 긍정적인 영향을 파악하고 의도적 휴식을 취함으로써 탁월한 성과를 얻고 균형 잡힌 삶을 살아갈 수 있도록 이끌어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20180510",
+                "EA_ADD_CODE": "",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "알렉스 수정 김 방 지음 ;박여진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947543354",
+                "INPUT_DATE": "20180510",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "일만 하지 않습니다",
+                "PUBLISH_PREDATE": "20180420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

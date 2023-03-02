@@ -1,0 +1,67 @@
+{
+    "otitle": "영혼들의 시간",
+    "oauthor": "마이클 뉴턴 저/박윤정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영혼들의 시간 (삶과 삶 사이로 떠나는 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467071641",
+                "image": "https://shopping-phinf.pstatic.net/main_3246707/32467071641.20221228073428.jpg",
+                "author": "마이클 뉴턴",
+                "discount": "13500",
+                "publisher": "나무생각",
+                "pubdate": "20141015",
+                "isbn": "9788959373642",
+                "description": "삶과 삶 사이 영혼의 세계를 기억해 내는 LBL 최면요법의 대가 마이클 뉴턴이 40년 넘게 진행해 온 연구의 내용과 내세에 대한 영혼의 기억에 다가가도록 돕는 실제적 최면기법들을 모두 담아냈다. 이 책은 특히 최면치료 전문가는 물론 LBL에 관심을 가진 일반 독자에게 최초로 마이클 뉴턴 고유의 LBL 시술 과정과 방법을 고스란히 공개했다는 점에서 의의가 크다.\n\n\n\n전작들 《영혼들의 여행Journey of Souls》(1994), 《영혼들의 운명Destiny of Souls》(2000)에는 소개되지 않은 새로운 사례들도 실려 있다. 각기 다른 삶의 문제들을 안고 괴로워하다가 최면요법가를 찾은 피술자들은 LBL 세션을 마친 다음, 과거에서 비롯된 갈등들을 이해하고, 여기서 벗어나 자신의 본질을 새로이 인식하며 앞으로 나아간다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무생각",
+                "DDC": "154.7",
+                "UPDATE_DATE": "20150115",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "namu@namubook.co.kr",
+                "AUTHOR": "마이클 뉴턴",
+                "SERIES_TITLE": "",
+                "KDC": "184.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3976113_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3976113_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014026601",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959373642",
+                "INPUT_DATE": "20140911",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "영혼들의 시간",
+                "PUBLISH_PREDATE": "20141015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

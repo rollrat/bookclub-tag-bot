@@ -1,0 +1,67 @@
+{
+    "otitle": "마음에 사심은 없다",
+    "oauthor": "기타 야스토시 저/양준호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마음에 사심은 없다 (이나모리 가즈오)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462539626",
+                "image": "https://shopping-phinf.pstatic.net/main_3246253/32462539626.20221019131425.jpg",
+                "author": "기타 야스토시",
+                "discount": "18000",
+                "publisher": "한국경제신문",
+                "pubdate": "20190429",
+                "isbn": "9788947544719",
+                "description": "이 책은 지금까지 유명 기업인들과 정치인들의 평전을 다수 집필해온 저자가 직접 이나모리 가즈오와의 심층 인터뷰는 물론 그의 가족, 형제, 주변 지인들과의 심도 깊은 만남과 취재를 토대로 이루어졌다. 일생동안 올곧은 가치관을 온몸으로 실행하며 살아온 그를 통해, 불확실성의 시대 갈팡질팡할 수밖에 없는 인생을 어떻게 살아가야 할지 배우고자 하는 사람들이라면 누구에게나 추천한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20190509",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "지은이: 기타 야스토시 ;옮긴이: 양준호",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947544719",
+                "INPUT_DATE": "20190509",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "마음에 사심은 없다",
+                "PUBLISH_PREDATE": "20190429",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

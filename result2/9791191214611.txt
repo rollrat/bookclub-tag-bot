@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 물리로 세상을 읽는다",
+    "oauthor": "크리스 우드포드 저/이재경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 물리로 세상을 읽는다 (소소한 일상에서 우주의 원리가 보이는 난생처음 물리책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466559279",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466559279.20221019105246.jpg",
+                "author": "크리스 우드포드",
+                "discount": "13320",
+                "publisher": "반니",
+                "pubdate": "20210506",
+                "isbn": "9791191214611",
+                "description": "롯데월드타워 기둥과 내 발목이 받는 압력이 비슷하다고?\n냉장고와 에어컨은 엔트로피 법칙을 거스른다?\n온종일 돌아가는 선풍기 날개에 먼지가 쌓이는 이유는?\n\n물리를 알면 일상과 경험 너머의 세상이 보인다!\n\n중력과 빛, 엔트로피에서 E=MC²까지\n과학이 궁금한 ‘과알못’을 위한, 가장 쉬운 물리 이야기"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "20210622",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "크리스 우드포드 지음 ;이재경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "137*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191214611",
+                "INPUT_DATE": "20210419",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "나는 물리로 세상을 읽는다",
+                "PUBLISH_PREDATE": "20210506",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

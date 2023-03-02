@@ -1,0 +1,78 @@
+{
+    "otitle": "할머니와 봄의 정원",
+    "oauthor": "강혜영 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:29 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "할머니와 봄의 정원",
+                "link": "https://search.shopping.naver.com/book/catalog/32473341716",
+                "image": "https://shopping-phinf.pstatic.net/main_3247334/32473341716.20230110163709.jpg",
+                "author": "강혜영",
+                "discount": "11240",
+                "publisher": "팜파스",
+                "pubdate": "20210430",
+                "isbn": "9791170264026",
+                "description": "할머니의 정원에는 마법 같은 일들이 일어납니다!\n\n설아는 봄이 정말정말 좋아요. 특히 할머니의 정원에서 봄맞이를 하는 걸 무척 좋아한답니다. 따뜻한 햇빛, 살랑살랑 부는 봄바람을 맞으며 설아는 할머니를 만나러 가요. 오늘은 어떤 즐거운 일들이 일어날지 너무 설렌답니다. \n\n할머니의 정원에는 어느새 봄꽃들로 가득합니다. 봄 햇살을 닮은 민들레와 설아가 좋아하는 진달래꽃 위로 노란 나비들이 팔랑팔랑 날고 있어요. 오늘은 할머니와 특별히 가을에 만나게 될 꽃들의 씨앗을 심을 거예요. 봄을 지나 가을이 되면 또 어떤 꽃들이 할머니의 정원에 피어날까요? 한 가지 더! 설아와 할머니는 진달래꽃으로 맛있는 요리를 만들 거예요. 어떤 요리일지 궁금하죠?"
+            },
+            {
+                "title": "쟤는 누구야? (구름이 나에게/할머니와 봄의 정원/빨간모자 요정 이야기/해달 쌤 수영장/안녕, 내 친구 루디/빨간공/우리 오빠는 바보 히어로/내 동생은 얄미운 지니어스/쟤는 누구야?/바다의 색)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465588981",
+                "image": "https://shopping-phinf.pstatic.net/main_3246558/32465588981.20221019105610.jpg",
+                "author": "김연주",
+                "discount": "12600",
+                "publisher": "팜파스",
+                "pubdate": "20220510",
+                "isbn": "9791170264835",
+                "description": "숲속 마을이 들썩들썩!\n우리 마을에 난생처음 보는 동물이 이사 왔어요\n\n부르릉~ 조용한 숲속 마을이 시끌시끌해요. 머나먼 남쪽 마을에서 누군가 이사를 왔거든요. 환영 파티를 준비해야 할까? 사나운 이웃이면 어쩌지? 숲속 마을 동물들은 걱정이 많아요. 카피바라라고 하는데, 도무지 어떤 모습인지 상상하기 힘들어요. 하지만 새로 이사 온 가족들도 걱정이 많죠. 그중에서도 바바는 친한 친구들과 헤어져 낯선 곳에 뚝 떨어진 것만 같은 느낌에 하루하루가 외롭고 힘들답니다. 학교도 가기 싫고, 이전 마을로 다시 돌아가겠다고 매일매일 ‘엉엉’ 울고만 있어요. 바바는 이 숲속 마을에서 잘 지낼 수 있을까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20210713",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "글·그림: 강혜영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*270",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[28] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170264026",
+                "INPUT_DATE": "20210402",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "할머니와 봄의 정원",
+                "PUBLISH_PREDATE": "20210430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

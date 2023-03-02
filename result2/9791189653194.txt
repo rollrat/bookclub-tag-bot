@@ -1,0 +1,67 @@
+{
+    "otitle": "걸작과 졸작 사이",
+    "oauthor": "김이산 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "걸작과 졸작 사이",
+                "link": "https://search.shopping.naver.com/book/catalog/32480521903",
+                "image": "https://shopping-phinf.pstatic.net/main_3248052/32480521903.20221228072732.jpg",
+                "author": "김이산",
+                "discount": "28800",
+                "publisher": "반니",
+                "pubdate": "20201012",
+                "isbn": "9791189653194",
+                "description": "졸작은 예술가의 진정성, 실험정신, 도전, 의도, 단점, 성격 등 걸작이 미처 다 보여주지 못한 면을 표출한다. 졸작은 요즘처럼 결과만 중시하는 세상에서 얼마나 많은 절망, 고뇌, 실패와 치열한 투지의 과정으로 걸작이 탄생하는지 말하고 있다.\n\n\n\n이 책에서는 걸작의 기본조건을 26개로 집약하여 제시한다. 생명력, 자유, 상상력, 독창성, 회화성, 항상성, 보편성, 고유성, 균형, 조화 등의 조건은 단지 미술뿐만 아니라 모든 예술에도 적용될 수 있다. 이러한 조건을 바탕으로 일반적인 감상자도 예술적 핵심을 이해하고 그림 감상을 위한 기초 체력을 키울 수 있게 돕는다.\n\n\n\n물론 그 누구도 걸작과 졸작의 정의를 완벽하게 규정하는 것은 어렵다. 더구나 불변할 것 같은 미(美)의 기준도 시대와 장소에 따라 크게 변화를 거듭한다. 지금은 우리가 잘 알고 있는 유명한 걸작도 오랫동안 묻혀 있거나 잊혀 있다가 재조명을 받게 된 경우가 허다한 이유다. 이러한 한계를 인정하면서 이 책은 걸작의 조건들을 조심스레 제안한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "20201027",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김이산 지음",
+                "SERIES_TITLE": "",
+                "KDC": "609",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "24000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "507 p.",
+                "CONTROL_NO": "CIP2019015435",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189653194",
+                "INPUT_DATE": "20190418",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "걸작과 졸작 사이",
+                "PUBLISH_PREDATE": "20201012",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

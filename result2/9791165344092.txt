@@ -1,0 +1,67 @@
+{
+    "otitle": "기괴한 레스토랑 1",
+    "oauthor": "김민정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기괴한 레스토랑 1: 정원사의 선물 (김민정 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485836648",
+                "image": "https://shopping-phinf.pstatic.net/main_3248583/32485836648.20230131165220.jpg",
+                "author": "김민정",
+                "discount": "12100",
+                "publisher": "팩토리나인",
+                "pubdate": "20210917",
+                "isbn": "9791165344092",
+                "description": "《달러구트 꿈 백화점》을 이을 한국형 판타지가 돌아왔다! \n기괴한 요괴 레스토랑에서 벌어지는 시아의 신비한 모험\n\n우연히 발견한 고양이에게 이끌려 기괴한 레스토랑에 들어가게 된 주인공 시아. 레스토랑 주인인 해돈에게 자신의 심장이 먹힐 위기에 처한다. 그가 걸린 병은 인간의 심장만이 유일한 치료 약이라고 하는데! 한 달 동안 레스토랑 일을 도우면서 새로운 치료 약을 찾아올 것을 약속하고 시아는 가까스로 죽음을 모면한다. 그렇게 해돈의 치료 약을 찾기 위한 시아의 모험이 펼쳐지고…. 과연 그녀는 치료 약을 구하고 무사히 그곳을 빠져나올 수 있을까？\n\n눈물로 술을 만드는 주정뱅이, 자신의 몸을 희생해가며 정원을 가꾸는 정원사, 발을 잃은 무용수, 잘린 손 대신 가위와 집게로 피아노를 연주하는 웨이터, 사랑을 갈망하기 때문에 타인을 괴롭히는 악마…. 기괴한 레스토랑에서 만난 요괴들과 함께 주인공 시아는 꿈에 대한 열정, 자신만의 신념, 비애, 인생의 희로애락과 같이 삶의 보편적인 가치들을 배워나간다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팩토리나인",
+                "DDC": "",
+                "UPDATE_DATE": "20211007",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "지은이: 김민정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "134*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "411 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165344092",
+                "INPUT_DATE": "20210901",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "기괴한 레스토랑",
+                "PUBLISH_PREDATE": "20210917",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

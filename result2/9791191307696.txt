@@ -1,0 +1,67 @@
+{
+    "otitle": "달콤한 코바늘",
+    "oauthor": "레티시아 달비스 저/구영옥 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "달콤한 코바늘 (코바늘로 뜨는 과일·채소·디저트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441654329",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441654329.20221019143131.jpg",
+                "author": "레티시아 달비스",
+                "discount": "14400",
+                "publisher": "시그마북스",
+                "pubdate": "20211015",
+                "isbn": "9791191307696",
+                "description": "손뜨개로 처음 만나는 과일 채소 디저트 소품 -\n내 손으로 직접 만든 아기자기한 소품으로 \n달콤한 우리 집 인테리어를 완성해 보세요!\n\n이 책에서는 독창적이면서도 놀라울 정도로 실물과 같은 음식 소품을 만드는 뜨개질 기법을 소개한다. 포도송이, 무화과, 수박, 옥수수, 아티초크, 방울양배추, 파프리카, 프레첼, 와플, 레몬 파이 등 뜨개실로 완성한 귀여운 먹거리는 아이 방을 꾸미거나 테이블을 장식하는 멋진 인테리어 소품이 된다. 책의 앞부분에는 코바늘의 기본이 되는 뜨개법을 비롯하여 이 책에 나오는 소품을 뜰 때 필요한 특별한 뜨개법에 대한 설명이 담겨 있고, 본격적인 뜨개법을 소개하기 전, 각 소품별로 필요한 실 색상과 난이도를 표시하고 있어 이를 참고하여 나만의 소품을 완성할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211026",
+                "EA_ADD_CODE": "13630",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "레티시아 달비스 지음 ;구영옥 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "119 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191307696",
+                "INPUT_DATE": "20210909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "달콤한 코바늘",
+                "PUBLISH_PREDATE": "20211015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

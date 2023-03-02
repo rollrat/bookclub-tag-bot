@@ -1,0 +1,67 @@
+{
+    "otitle": "우리 집에 식물을 들여도 괜찮을까요?",
+    "oauthor": "AYANAS Botanical Works 저/윤은혜 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리 집에 식물을 들여도 괜찮을까요? (나에게 맞는 반려식물 찾는 법부터 실내 인테리어까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492066137",
+                "image": "https://shopping-phinf.pstatic.net/main_3249206/32492066137.20221230074738.jpg",
+                "author": "사카이노 류스케 (AYANAS)",
+                "discount": "14400",
+                "publisher": "시그마북스",
+                "pubdate": "20210305",
+                "isbn": "9791191307108",
+                "description": "나에게 맞는 반려식물 찾는 법부터 \n실내 인테리어까지\n\n식물을 키우고 싶다는 생각이 있지만, 잘 키울 수 있을지 걱정이 된다면 이 책을 참고해보자! 자신의 라이프스타일과 집 환경에 적합한 식물이 무엇인지 찾을 수 있을 것이다. 식물을 키울 때 필요한 기초적인 지식뿐만 아니라 어디에 어떻게 둘지 집안 인테리어적인 면까지 짚어주고 있다. 또한 박쥐란과 에어플랜트 등 그린인테리어에 중심이 될 만한 식물 64종을 엄선해 소개하고, 키우는 데 적당한 환경과 관리법을 유형별로 일러주고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210412",
+                "EA_ADD_CODE": "13520",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "Ryusuke Sakaino 지음 ;윤은혜 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*182",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "227 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191307108",
+                "INPUT_DATE": "20210125",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "우리 집에 식물을 들여도 괜찮을까요?",
+                "PUBLISH_PREDATE": "20210305",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

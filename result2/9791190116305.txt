@@ -1,0 +1,67 @@
+{
+    "otitle": "과학자의 종교노트 : 기독교 편",
+    "oauthor": "곽영직 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학자의 종교노트: 기독교편 (과학자의 시선으로 본 기독교 역사 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492763286",
+                "image": "https://shopping-phinf.pstatic.net/main_3249276/32492763286.20230207165744.jpg",
+                "author": "곽영직",
+                "discount": "16200",
+                "publisher": "MID",
+                "pubdate": "20201022",
+                "isbn": "9791190116305",
+                "description": "서구 문명과 현대사회의 뿌리가 된 기독교\n‘과학자의 눈’으로 정리한 2,000년 기독교의 역사\n\n예수의 탄생을 기점으로 2천 년을 이어온 기독교 역사에는 긴 시간만큼이나 수많은 인물과 사건이 등장한다. 특히 기독교를 중심으로 일어난 ‘밀라노 칙령, 십자군전쟁, 종교개혁’ 등의 사건은 기독교를 넘어 세계 역사의 분기점이 되기도 했다. 따라서 기독교를 이해하는 것은 우리 사회의 체제와 문화에 대한 통찰로 연결된다.\n 이 책은 자칫 방대하고 복잡할 수 있는 기독교 역사를 ‘과학자의 눈’으로 일목요연하고 흥미롭게 정리했다. 저자는 과학자다운 객관적이고 중립적인 태도로, 비기독교인이나 기독교인 모두가 동의할 수 있는 기독교 역사를 펼쳐낸다. 동시에 저자는 예수의 본성에 대한 논쟁 등 기독교 사상의 핵심이 되는 내용 역시 충실히 다루고 있다. 저자의 친절한 논의를 따라가다 보면, 인류 문명의 한 획을 그어 온 기독교의 본질과 핵심이 자연스레 파악될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "MID(엠아이디미디어)",
+                "DDC": "",
+                "UPDATE_DATE": "20201111",
+                "EA_ADD_CODE": "93200",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "곽영직 지음",
+                "SERIES_TITLE": "",
+                "KDC": "230.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "415 p.",
+                "CONTROL_NO": "CIP2020043276",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190116305",
+                "INPUT_DATE": "20201012",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "과학자의 종교노트",
+                "PUBLISH_PREDATE": "20201022",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

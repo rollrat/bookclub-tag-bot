@@ -1,0 +1,67 @@
+{
+    "otitle": "전기차 첨단기술 교과서",
+    "oauthor": "톰 덴튼 저/김종명 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "전기차 첨단기술 교과서 (테슬라에서 아이오닉까지 전고체 배터리 · 인휠모터 · 컨트롤 유닛의 최신 EV 기술 메커니즘 해설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463205920",
+                "image": "https://shopping-phinf.pstatic.net/main_3246320/32463205920.20221227205425.jpg",
+                "author": "톰 덴튼",
+                "discount": "19880",
+                "publisher": "보누스",
+                "pubdate": "20210910",
+                "isbn": "9788964945131",
+                "description": "전기 자동차에 관한 모든 것을 담은 기술 교양서다. 전기 자동차의 역사와 종류는 물론이고, 구조와 작동원리를 해설한다. 전기 자동차는 분명히 자동차 산업의 미래이지만, 전기 자동차를 둘러싼 오해와 소문은 여전히 만연하다. 전기 자동차와 관련한 기술적 이해도가 낮기 때문이다.\n\n\n\n이 책은 초보부터 전문가까지 전기 자동차를 기술적으로 올바르게 이해하길 원하는 사람을 위해 모터와 배터리, 기타 제어 시스템과 구성품을 구조와 원리 측면에서 상세하게 설명한다. 폭스바겐, 볼보, 테슬라 등 제조업체 80여 곳이 제공한 데이터와 사진 자료가 풍부하게 들어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보누스",
+                "DDC": "",
+                "UPDATE_DATE": "20210924",
+                "EA_ADD_CODE": "03550",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "톰 덴튼 지음 ;김종명 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "172*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "382 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964945131",
+                "INPUT_DATE": "20210728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "전기차 첨단기술 교과서",
+                "PUBLISH_PREDATE": "20210910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

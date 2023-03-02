@@ -1,0 +1,67 @@
+{
+    "otitle": "바그너 읽기",
+    "oauthor": "김윤미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바그너 읽기 (트리스탄, 장인가수, 파르지팔)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436360699",
+                "image": "https://shopping-phinf.pstatic.net/main_3243636/32436360699.20221019133022.jpg",
+                "author": "김윤미",
+                "discount": "16200",
+                "publisher": "산지니",
+                "pubdate": "20210310",
+                "isbn": "9788965457121",
+                "description": "바그너의 작품들을 ‘일단 이해할 만한 것’으로 만들어 주기 위해 쓰인 책이다. 특히 바그너가 마흔 이후에 완성한 '트리스탄과 이졸데', '뉘른베르크의 장인가수', '파르지팔' 주요 세 작품에 집중한다. 이 작품들은 '탄호이저', '로엔그린' 등과 같은 바그너 초기작들에 비하면 확실히 가사의 내용이 낯설고 음률도 예측이 어려워, 나름의 ‘감상 준비’가 필요하다.\n\n그래서 저자가 시도한 것이 바그너 ‘읽기’작업이다. 리브레토를 직접 번역하고 관련 도서를 찾아 읽으며 저자는 서서히 바그너와의 심적 거리를 좁혀갔다. 이 책은 광활한 바그너 작품세계에 먼저 발을 디딘 저자가 바그너를 만나보고자 하는 독자들에게 내미는 친절한 손이다. 저자는 서문에서 다음과 같이 말한다.\n\n바그너의 두툼한 작품 하나라도 편히 감상해볼 수 있게 된다면 그 이름이 주는 막연한 부담감도 곧 사라지지 않을까 한다. 철학자이든 작가이든 화가이든 우리가 그 이름에 압도되는 이유는 많은 경우 작품을 들여다본 적이 없기 때문이다. 작품을 하나라도 제대로 들여다보면 우리는 더 이상 그 이름에 압도되지 않을 수 있다.\n\n바그너라는 이름이 주는 위용 앞에 용감히 선 사람들에게 이 책은 든든한 초행길 파트너가 된다. 각 장은 앞서 언급한 작품들을 독립적으로 다룬 세 편의 에세이로 꾸며져 있다. 작품의 흐름에 따라 줄거리 순으로 이야기를 풀어가고 있는 에피소드들을 읽다보면, 독자들은 천천히 산책하듯 바그너의 세계를 즐기게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20210504",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "김윤미 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/23/9788965457121.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "402 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965457121",
+                "INPUT_DATE": "20210223",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "바그너 읽기",
+                "PUBLISH_PREDATE": "20210310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

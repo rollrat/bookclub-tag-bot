@@ -1,0 +1,67 @@
+{
+    "otitle": "내게 남은 삶이 한 시간뿐이라면",
+    "oauthor": "로제 폴 드루아 저/최린 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내게 남은 삶이 한 시간뿐이라면 (프랑스 노철학자가 전하는 삶의 가치와 본질에 대한 철학적 질문들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463726679",
+                "image": "https://shopping-phinf.pstatic.net/main_3246372/32463726679.20230131165319.jpg",
+                "author": "로제 폴 드루아",
+                "discount": "11520",
+                "publisher": "센시오",
+                "pubdate": "20211209",
+                "isbn": "9791166570445",
+                "description": "‘내게 남은 삶이 한 시간뿐이라면’\n프랑스 노철학자가 던지는 삶의 가치와 본질에 대한 철학적 질문\n\n한평생 세상의 가치와 삶의 본질에 대한 질문을 던져온 프랑스 노철학자 로제 폴 드루아의 신작 〈내게 남은 삶이 한 시간뿐이라면〉이 출간됐다. 누구나 한 번쯤 떠올려본 적이 있을 법한 이 질문에서 저자는 삶과 죽음의 의미, 세상과 자신의 존재에 대하여 함축적이고 시적 언어로 메시지를 전달한다.\n\n우리는 왜 죽음에 대해 생각해야 할까? 죽음을 생각한다는 것은 곧 삶을 생각하는 것과 같기 때문이다. 삶이 한 시간밖에 남아 있지 않다고 생각해보자. 세상에 대한 시각은 완전히 달라진다. 그동안 집착하던 모든 욕망, 불안, 근심은 무의미해진다. \n\n노철학자는 비록 삶이 한 시간밖에 남지 않았더라도, 죽음이 바로 눈앞에 다가와 있더라도 어떤 마음가짐으로 그 시간을 보낼 것인지에 대해 우리에게 질문을 던진다. 우리가 왜 삶을 선택해야 하며, 삶이라는 것이 과연 어떤 의미인지를 생각하게 한다. 숨 가쁜 일상을 살아가는 우리에게 인생에 대해, 행복에 대해, 사랑에 대해 한 번쯤 생각하는 것이 왜 중요한지를 깨닫게 한다.\n오랜 사색과 성찰의 깊이를 느낄 수 있는 그의 글은, 사색이나 성찰의 시간 없이 무심하게 습관적으로 하루하루를 살아가는 사람들에게 깊은 울림을 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "센시오",
+                "DDC": "",
+                "UPDATE_DATE": "20211228",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "로제 폴 드루아 지음 ;최린 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "195 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166570445",
+                "INPUT_DATE": "20210915",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "내게 남은 삶이 한 시간뿐이라면",
+                "PUBLISH_PREDATE": "20211115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

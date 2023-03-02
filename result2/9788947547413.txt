@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 101세, 현역 의사입니다",
+    "oauthor": "다나카 요시오 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 101세, 현역 의사입니다 (은퇴를 모르는 장수 의사의 45가지 건강 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441621395",
+                "image": "https://shopping-phinf.pstatic.net/main_3244162/32441621395.20230216071051.jpg",
+                "author": "다나카 요시오",
+                "discount": "12600",
+                "publisher": "한국경제신문",
+                "pubdate": "20210825",
+                "isbn": "9788947547413",
+                "description": "“어떻게 하면 백 살이 넘도록 건강하게 현역으로 일할 수 있나요?”\n\n건강한 장수가 가능함을 몸소 증명한 \n101세 현역 의사의 아프지 않고 오래 사는 비결\n\n이 책의 저자는 백 살이 넘은 나이에도 의사 가운을 입고 환자들을 진료하고 있는 현역 의사다. 올해 104세가 된 그는 79년차 내과 의사로 아직도 매일 오전 환자들을 만난다. 진료가 끝나면 귀가하여 직접 준비한 음식으로 식사를 하고, 정해진 코스대로 산책을 한 후 스마트폰으로 지인들과 대화하며 즐거운 시간을 보낸다. 자기 손으로 먹거리를 준비하고 자기 발로 걸어 일터로 나가는 그는 젊은 시절과 크게 다르지 않은 일상을 누리고 있다. 진료실에서 컴퓨터를 두드리며 환자와 대화하거나 웃는 얼굴로 병원을 활보하는 저자의 모습을 보면 백 살 넘은 노인이라는 사실이 믿기지 않는다.\n인류 수명 120세를 논하는 지금, 백 살이 넘어도 이렇게 나다운 생활을 지속할 수 있다면 얼마나 좋을까? 101세를 기념하여 자신의 활동법, 식사법, 질병 대처법, 마음 관리법을 45가지로 정리한 이 책에서 저자는 누구나 지금 당장 실천할 수 있는 근본적인 건강 습관을 알려준다. 또한 본격적으로 노년기에 대비해야 하는 4050을 위해 잘못 알려진 다이어트 및 운동 방법도 짚어준다. 이 책에서 소개하는 건강법은 전부 간단하고 돈이 들지 않는다. 따라서 그대로 따라 하면 누구나 건강하게 장수할 수 있다. 꾸준한 실천으로 이 습관들을 자기 것으로 만든다면 우리 모두 101세 현역 의사처럼 두려움 없는 말년을 보낼 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20210914",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "다나카 요시오 지음 ;홍성민 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947547413",
+                "INPUT_DATE": "20210914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "나는 101세, 현역 의사입니다",
+                "PUBLISH_PREDATE": "20210825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "잊혀진 소년",
+    "oauthor": "오타 아이 저/김난주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잊혀진 소년 (오타 아이 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476075659",
+                "image": "https://shopping-phinf.pstatic.net/main_3247607/32476075659.20221230072329.jpg",
+                "author": "오타 아이",
+                "discount": "13320",
+                "publisher": "예문아카이브",
+                "pubdate": "20180210",
+                "isbn": "9791187749622",
+                "description": "일본 형사드라마 [파트너] 작가 오타 아이의 본격 사회파 추리소설. 23년이란 세월을 사이에 두고 벌어진 아동 실종 사건과 유괴 사건 현장에 동일하게 남겨진 표시, '슬래시, 슬래시, 이퀄, 버티컬 바(/ / = |)'를 둘러싼 수수께끼 풀이에 도전하는 경찰과 탐정의 콤비, 그리고 그들의 매력적인 사이드킥(조수)의 활약을 중심으로 펼쳐진다.\n\n\n\n사건이 전개될수록 늘어만 가는 의문들, 결말을 짐작할 수 없는 반전의 연속, '열 명의 진범을 놓치는 한이 있더라도 한 명의 무고한 피해자를 만들지 말라'는 형사재판 대원칙의 모순과 오남용 되는 국가 권력에 대한 비판적 시각 등 오타 아이는 일본 최고 형사드라마의 작가답게 시종일관 범죄에 대한 날카로운 감각을 발휘하고 있다.\n\n\n\n\"우리 아빠는 살인자야.\" 하루하루가 찬란했던 13살 여름의 어느 날, 순직한 아버지의 영정 앞에서 처음 사귄 친구로부터 충격적인 고백을 들은 소마는 아버지의 뒤를 이어 형사가 된 지금까지도 그날의 기억을 잊지 못한다. 동갑내기 친구였던 나오가 그로부터 며칠 뒤 강가에 버려진 나뭇가지에 알 수 없는 표시를 남긴 채 갑자기 모습을 감췄기 때문이다. \n\n\n\n23년 후, 형사 소마는 여아 실종 사건 현장에서 어릴 적 친구 나오의 실종 현장에 남겨졌던 똑같은 표시를 발견하고, 두 사건의 해결을 위해 정체불명 표시의 비밀을 쫓기 시작한다. 한편, 작은 흥신소를 운영하는 야리미즈 역시 23년 전 사라진 아들 나오를 찾아달라는 어머니 가나에의 의뢰를 받게 된다. 야리미즈는 아르바이트 직원 슈지와 함께 조사를 진행하면 할수록 거대한 벽에 부딪히는 기분에 휩싸이는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문아카이브",
+                "DDC": "895.636",
+                "UPDATE_DATE": "20180425",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 오타 아이 ;옮긴이: 김난주",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6517929_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6517929_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6517929_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6517929_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "583 p.",
+                "CONTROL_NO": "CIP2018001813",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187749622",
+                "INPUT_DATE": "20180116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "잊혀진 소년",
+                "PUBLISH_PREDATE": "20180310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

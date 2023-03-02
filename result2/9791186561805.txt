@@ -1,0 +1,67 @@
+{
+    "otitle": "독립은 여행",
+    "oauthor": "정혜윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "독립은 여행 (삶이 흔들릴 때, 나를 다시 찾기 위해 독립을 선택했다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466399858",
+                "image": "https://shopping-phinf.pstatic.net/main_3246639/32466399858.20221019110322.jpg",
+                "author": "정혜윤",
+                "discount": "14260",
+                "publisher": "북노마드",
+                "pubdate": "20210525",
+                "isbn": "9791186561805",
+                "description": "모든 것이 흔들리는 팬데믹 시대. 『퇴사는 여행』으로 ‘무슨 일을 하며 살 것인가’를 고민하며 자발적인 백수 상태로 세계를 유랑했던 정혜윤 작가가 일상, 공간, 일에 집중하며 ‘내가 원하는 나’를 찾은 『독립은 여행』으로 돌아왔다. \n책을 읽고, 공부하고, 글을 쓰고, 운동하고, 건강한 음식을 먹고, 나의 공간을 나답게 꾸미는 리추얼. 어디에도, 누구에게도 묶이지 않은 채로 혼자서 자유롭게 행복한 시간, 스스로 용기를 심어주고 믿어주고 사랑한 형형색색의 이야기. 작가의 신박한 ‘독립’ 선언이 홀로서기를 앞둔 당신에게 작은 힘이 되어줄 것이다. 관계-집-회사로부터의 독립 3종 세트! 지나간 나날이여 안녕~ 설레는 마음으로 다가올 당신의 ‘독립’을 힘껏 응원해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북노마드",
+                "DDC": "",
+                "UPDATE_DATE": "20210723",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.booknomad.co.kr",
+                "AUTHOR": "정혜윤 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "270 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186561805",
+                "INPUT_DATE": "20210427",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "독립은 여행",
+                "PUBLISH_PREDATE": "20210525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

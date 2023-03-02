@@ -1,0 +1,67 @@
+{
+    "otitle": "90일 밤의 미술관 : 이탈리아",
+    "oauthor": "김덕선,김성희,유재선,이영은 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "90일 밤의 미술관: 이탈리아 (내 방에서 즐기는 이탈리아 미술 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436436669",
+                "image": "https://shopping-phinf.pstatic.net/main_3243643/32436436669.20221019133056.jpg",
+                "author": "김덕선^남정현^유재선^이영은",
+                "discount": "19010",
+                "publisher": "동양북스",
+                "pubdate": "20220103",
+                "isbn": "9791157687725",
+                "description": "서양 미술사의 중심, 이탈리아로 떠나는 미술 여행\n10년 넘게 수많은 여행객이 감동한\n이탈리아 국가 공인 가이드들의 현지 미술관 투어\n\n신간이 출간될 때마다 사랑받는 ‘90일 밤’ 시리즈, 이번에는 서양 미술사의 중심부 이탈리아로 떠난다. 이탈리아의 미술관에서 10년 이상 활동한 4명의 이탈리아 국가 공인 가이드를 따라 로마, 피렌체, 밀라노, 베네치아 등 9개 도시의 미술관과 성당에 소장된 작품들을 차근차근 감상해보자. 100여 점의 아름다운 예술 작품을 담은 선명한 도판만으로도 소장 가치가 충분하며, 오랜 기간 다양한 관람객과 소통해온 가이드들의 해설은 생동감 있고 명료하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220214",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김덕선,김성희,유재선,이영은 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "515 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157687725",
+                "INPUT_DATE": "20211202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "90일 밤의 미술관",
+                "PUBLISH_PREDATE": "20220103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

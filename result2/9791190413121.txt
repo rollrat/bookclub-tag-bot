@@ -1,0 +1,67 @@
+{
+    "otitle": "박경리의 말",
+    "oauthor": "김연숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "박경리의 말 (이 말이 내게로 스며들었다, 살아갈 힘을 얻었다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494104019",
+                "image": "https://shopping-phinf.pstatic.net/main_3249410/32494104019.20221019142131.jpg",
+                "author": "김연숙",
+                "discount": "13770",
+                "publisher": "천년의상상",
+                "pubdate": "20200625",
+                "isbn": "9791190413121",
+                "description": "2018년 『토지』 읽기의 진수를 선보여 독자들 사이에서 은근한 입소문이 퍼진 『나, 참 쓸모 있는 인간』의 저자 김연숙(후마니타스 칼리지 교수)이 새로운 인문 에세이 『박경리의 말』을 들고 다시 우리 곁을 찾았다. 경희대 후마니타스 칼리지 출범 직후인 2012년부터 현재까지 〈고전 읽기〉 강의를 통해 학부 학생들과 함께 『토지』를 읽어온 저자는, 개인적으로는 스물다섯 살 때 처음 박경리와 『토지』를 만났다. 그 후 수십 년간 수많은 제자, 이웃, 친구와 이 책을 읽었고, 강의도 해왔다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "천년의상상",
+                "DDC": "",
+                "UPDATE_DATE": "20200703",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김연숙 지음",
+                "SERIES_TITLE": "",
+                "KDC": "813.6209",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "283 p.",
+                "CONTROL_NO": "CIP2020023491",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190413121",
+                "INPUT_DATE": "20200608",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "박경리의 말",
+                "PUBLISH_PREDATE": "20200625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

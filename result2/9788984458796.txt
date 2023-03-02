@@ -1,0 +1,67 @@
+{
+    "otitle": "니체라면 어떻게 할까?",
+    "oauthor": "마커스 윅스 저/임소연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "니체라면 어떻게 할까? (위대한 심리학자들에게서 듣는 일상 속 고민 해결법!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436448761",
+                "image": "https://shopping-phinf.pstatic.net/main_3243644/32436448761.20221228074334.jpg",
+                "author": "마커스 윅스",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20171010",
+                "isbn": "9788984458796",
+                "description": "현대를 사는 우리가 겪게 되는 관계, 일, 라이프스타일, 여가, 정치에 관련한 현실적인 문제에 대해 소크라테스, 니체, 쇼펜하우어, 공자, 부처 등 위대한 철학자들에게 질문을 던지고 철학자들이 해주었을 법한 조언을 다룬다.\n\n\n\n하나의 상황에 하나의 결론이 나오는 경우는 거의 없다. 종종 모순되는 주장을 하는 철학 자체의 특성상, 철학자들은 서로 모순되는 조언을 하지만 철학자들이 세상을 바라보는 다양한 태도는 의사결정에 관한 여러 선택의 갈래를 보여주는 한편, 철학적 문제에 다양하게 접근하는 통찰력을 제시한다.\n\n\n\n위대한 철학자들의 다양한 의견을 듣고 그들의 활기찬 토론을 즐길 수 있다. 몇몇 철학자들이 주요 철학 학파를 대표하며 자주 등장하지만, 이 책은 철학 교과서가 아닌 일상적인 문제에 철학을 적용함으로써 몇 가지 의견을 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "102",
+                "UPDATE_DATE": "20171117",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "마커스 윅스 지음 ;임소연 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "104",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6225016_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6225016_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "192 p.",
+                "CONTROL_NO": "CIP2017011862",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984458796",
+                "INPUT_DATE": "20170517",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "니체라면 어떻게 할까?",
+                "PUBLISH_PREDATE": "20171010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

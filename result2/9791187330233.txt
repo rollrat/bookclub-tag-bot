@@ -1,0 +1,67 @@
+{
+    "otitle": "사라진 암",
+    "oauthor": "한상도 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사라진 암 (수술도 없이, 약물도 없이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487789659",
+                "image": "https://shopping-phinf.pstatic.net/main_3248778/32487789659.20230223071156.jpg",
+                "author": "한상도",
+                "discount": "13540",
+                "publisher": "사이몬북스",
+                "pubdate": "20211025",
+                "isbn": "9791187330233",
+                "description": "“수술도 없었고 약물도 없었다.\n그런데도 암이 저절로 사라졌다.\n무슨 일이 있었던 것일까?”\n\n이 책은 암을 선고받은 한 남자가 병원과 의사에게 의지하지 않고 스스로 자연치유하는 과정을 엮은 책이다. 그는 수많은 건강관련 책들을 독파한 결과, 암은 나쁜 음식과 나쁜 습관의 결과라는 사실을 깨달았다. 그는 수술과 약물을 택하지 않고 음식을 바꾸었다. \n\n먼저 육류와 생선, 우유, 계란, 밀가루, 술, 가공식품을 완전히 끊었다. 과일과 채소, 현미잡곡밥에 채소반찬을 먹었다. 채식(자연식물식)을 시작한 것이다. 그는 또한 아침저녁으로 매일 1만 보 이상 걸었고 주말에는 산을 찾았다. 아침에 일어나면 명상으로 하루를 시작했고, 어떤 상황에서도 밝고 긍정적인 생각을 유지했다. 그렇게 그는 자연치유의 길을 묵묵히 실천했을 뿐이다.\n\n맨 처음 나타난 결과는 몸무게였다. 그렇게 안 빠지던 살이 70kg에서 57kg으로 빠져 총각몸매가 되었다. 피부가 몰라보게 좋아졌으며 고혈압과 통풍도 사라졌다. 탈모가 멈추면서 머리카락이 돋아나고 시력도 좋아졌다. 수시로 찾아오던 설사와 변비도 없어졌다. 1년 3개월이 지났다. PSA 수치 0.006! 마침내 암이 사라졌다. 급했던 성격도 온화하고 차분한 성격으로 바뀌었다. 암이 재앙으로 와서 축복이 된 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사이몬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211112",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "한상도 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187330233",
+                "INPUT_DATE": "20210929",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(수술도 없이, 약물도 없이) 사라진 암",
+                "PUBLISH_PREDATE": "20211025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "요리를 멈추다",
+    "oauthor": "강하라,심채윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "요리를 멈추다 (어느 채식 부부의 고백)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436318142",
+                "image": "https://shopping-phinf.pstatic.net/main_3243631/32436318142.20230219103335.jpg",
+                "author": "강하라^심채윤",
+                "discount": "16200",
+                "publisher": "사이몬북스",
+                "pubdate": "20190315",
+                "isbn": "9791187330097",
+                "description": "욕망을 내려놓자 진짜 인생이 찾아왔다!\n\n화려한 음식을 좋아했고 세상의 욕망을 꿈꾸던 한 쌍의 부부가 있다. 만찬의 즐거움을 나누고 싶어 요리사가 됐고, 의사와 메스컴의 처방에 따라 약도 먹고 영양제도 골고루 먹었다. 그러나 살은 찌고 몸도 아팠다. 원인을 알고 싶어 책을 읽기 시작한 두 사람은 음식에 문제가 있음을 깨달았고, 요리를 멈추었다.\n\n고기와 생선 등도 골고루 먹는 잡식에서 과일과 채소와 통곡물을 먹는 자연식물식인 채식으로 음식을 바꾸면서 놀라운 변화가 시작되었다. 살이 빠졌고 변비가 사라졌고 큰 아이의 틱과 ADHD가 사라졌다. 아이들의 짜증 많고 거칠던 성격이 놀랍게 차분해졌고, 이 변화를 옆에서 지켜본 노부모님들도 약병을 버리고 음식을 바꾼 후 쑤시고 아프던 몸이 펄펄 날기 시작했다. \n\n『요리를 멈추다』에서 아무거나 골고루 흡입하는 습관에서 맑고 깨끗한 음식으로 편식하는 습관으로 방향을 튼 이들이 들려주는 생생한 이야기를 만나볼 수 있다. 요리를 멈추면서 남에게 보여주는 소유론적 삶에서 존재론적 삶으로 방향을 바꾸고 미니멀리즘으로 삶이 통째로 바뀌게 된 부부의 3년 동안의 여정, 그 변화를 담고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사이몬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200729",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강하라,심채윤 지음",
+                "SERIES_TITLE": "",
+                "KDC": "517.548",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/21/9791187330097.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "350 p.",
+                "CONTROL_NO": "CIP2019006822",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187330097",
+                "INPUT_DATE": "20190222",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "요리를 멈추다",
+                "PUBLISH_PREDATE": "20190315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

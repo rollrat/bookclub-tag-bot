@@ -1,0 +1,67 @@
+{
+    "otitle": "나의 사적인 그림",
+    "oauthor": "우지현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나의 사적인 그림 (그림 속에 담겨 있는 나와 당신의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476088642",
+                "image": "https://shopping-phinf.pstatic.net/main_3247608/32476088642.20230207165432.jpg",
+                "author": "우지현",
+                "discount": "13500",
+                "publisher": "책이있는풍경",
+                "pubdate": "20180822",
+                "isbn": "9791188041152",
+                "description": "무심코 흘러가던 나를 돌아보는 ‘따뜻한 그림 읽기’\n“그림은 화가의 내면에서 시작되어 누군가의 마음으로 향한다. 그림은 한 개인의 이야기를 넘어 결국 무한의 세계로 확장된다. 그래서 우리는 한 점의 그림 안에서 문득 나의 모습을 발견한다.”\n\n여러 화가의 잘 알려지지 않은 다양한 그림을 소개하고 글을 써온 우지현 작가의 ‘일상을 다독이는 따뜻한 그림 읽기’. 이 책에서는 특히 화가의 사적인 순간에서 비롯된 그림이 어떻게 우리의 사적인 영역으로 들어와 마음을 흔드는지를 보여준다. 책에 담긴 80여 점의 그림이 무심코 흘러가던 우리 일상에  나지막이 말을 걸며 삶을 긍정하는 마음을 일깨워줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책이있는풍경",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20180824",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://chaekpung.com",
+                "AUTHOR": "우지현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6813354_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6813354_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "286 p.",
+                "CONTROL_NO": "CIP2018022548",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188041152",
+                "INPUT_DATE": "20180717",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나의 사적인 그림",
+                "PUBLISH_PREDATE": "20180822",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

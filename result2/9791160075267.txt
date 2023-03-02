@@ -1,0 +1,67 @@
+{
+    "otitle": "더 사이트 오브 유",
+    "oauthor": "홀리 밀러 저/이성옥 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "더 사이트 오브 유",
+                "link": "https://search.shopping.naver.com/book/catalog/32466939767",
+                "image": "https://shopping-phinf.pstatic.net/main_3246693/32466939767.20221019145117.jpg",
+                "author": "홀리 밀러",
+                "discount": "14220",
+                "publisher": "한스미디어",
+                "pubdate": "20201113",
+                "isbn": "9791160075267",
+                "description": "[줄거리]\n조엘에게는 아무도 모르는 비밀이 하나 있다. 거의 매주 사랑하는 사람들에 대한 예지몽을 꾼다는 것. 막을 수 있는 사소한 사고에서부터 도저히 바꿀 수 없는 죽음까지도. 과거에 막지 못한 일들에 대한 죄책감과 자꾸만 꿈으로 찾아오는 미래에 지친 그는 더 이상 상처받지 않기 위해 깊은 관계를 피해왔다. 하지만 친구의 교통사고를 꿈에서 본 뒤 그의 차 타이어를 펑크 낸 날, 조엘에게 일생의 사랑이 들이닥치고 마는데……. 이윽고 그토록 피하고 싶었던 연인 캘리의 미래가 그를 찾아든다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20201124",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "홀리 밀러 지음 ;이성옥 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "478 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160075267",
+                "INPUT_DATE": "20200904",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "더 사이트 오브 유",
+                "PUBLISH_PREDATE": "20201113",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

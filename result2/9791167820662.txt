@@ -1,0 +1,67 @@
+{
+    "otitle": "제주는 잘 있습니다",
+    "oauthor": "엄지사진관 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "제주는 잘 있습니다 (엄지사진관이 기록한 일상의 순간들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441654744",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441654744.20221019115922.jpg",
+                "author": "엄지사진관",
+                "discount": "13500",
+                "publisher": "상상출판",
+                "pubdate": "20220324",
+                "isbn": "9791167820662",
+                "description": "“그렇게 좋으면 제주에서 살아”\n그래서 시작된 삶의 이야기\n모두가 사랑하는 섬 제주의 모든 순간을 담다\n\n시절을 기록하는 작가 엄지사진관\n제주의 모든 순간을 당신에게 건네다\n\n한국인이 사랑하는 섬, 그리하여 언제나 그리워하게 되는 섬 제주에 엄지사진관이 닿았다. 그러나 여행이 아닌 생활자로서 떠나지 않고 머물기로 했다. 엄지사진관은 감성적이고 감각적인 사진으로 대중들의 마음을 사로잡아온 작가다. 저자만이 가지고 있는 따스하고 평화로운 시선을 따라가면 여행으로는 발견할 수 없는 제주의 일상과 구석구석에 닿을 수 있다. 또한 사람들이 왜 제주를 애정하고, 언제고 닿고 싶어 하는지를 더욱 잘 이해할 수 있어진다. \n일상은 여행 같고 여행은 일상 같다. 누군가가 여행으로 오는 곳에서 일상을 살아가는 사람이 있다. 그래서인지 제주에서의 삶은 유독 여행과 일상이 밀접하게 연결되어 있다는 생각도 든다. 따라서 《제주는 잘 있습니다》는 일상과 여행 사이의 삶 속에서 자신답게 살아가는 것이 얼마나 중요한지를 알려줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20220422",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글·사진: 엄지사진관",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "236 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167820662",
+                "INPUT_DATE": "20220228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "제주는 잘 있습니다",
+                "PUBLISH_PREDATE": "20220324",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

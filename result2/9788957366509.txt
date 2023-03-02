@@ -1,0 +1,67 @@
+{
+    "otitle": "재미있는 미생물과 감염병 이야기",
+    "oauthor": "천명선 글/박재현 그림/강희철 추천",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재미있는 미생물과 감염병 이야기 (교과학습 시사상식 논술대비까지 해결하는 초등학교 통합교과서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481231638",
+                "image": "https://shopping-phinf.pstatic.net/main_3248123/32481231638.20221230074733.jpg",
+                "author": "천명선",
+                "discount": "10800",
+                "publisher": "가나출판사",
+                "pubdate": "20140110",
+                "isbn": "9788957366509",
+                "description": "신문이 보이고 뉴스가 들리는 재미있는 이야기 시리즈 35권. 우리의 건강과 직결되어 있으면서도 오랫동안 베일에 싸여 있었던 미생물의 세계를 쉽고 재미있게 접해 볼 수 있는 안내서이다. 서울대학교에서 수의학과 보건학을 공부하고, 2014년 현재 서울대학교에서 강의하고 있는 전문 저자가 정확한 정보를 바탕으로 아이들의 눈높이에 맞게 서술하였다.\n\n\n\n미생물학의 역사, 과학과 의학의 발전사, 인류 역사를 바꾼 감염병, 최신 감염병 뉴스, 질병의 예방과 관리 등 다양한 이슈를 총 일곱 개의 장으로 나누어 체계적으로 알차게 구성하였다. 그리하여 미생물이라는 주제를 역사, 사회, 문화, 과학, 경제 등의 광범위한 분야와 연관지어 생각해 볼 수 있는 기회를 제공하고 있다.\n\n\n\n또한 ‘무균박사’라는 생쥐 캐릭터를 등장시켜 이야기를 풀어 나가는 방식은 아이들이 보다 흥미롭게 이야기에 빠져들 수 있도록 하며 정보의 흡인력을 높여 준다. 본문과 함께 구성된 ‘호기심이 번쩍!’ 코너에서는 주제와 관련한 궁금증을 해소해 주고, 각 장의 끝에는 특별 페이지 ‘무균박사 특강’을 구성하여 해당 장의 주제와 관련된 심도 있는 정보를 재미있게 전달한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20140103",
+                "EA_ADD_CODE": "74470",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "천명선, 박재현",
+                "SERIES_TITLE": "",
+                "KDC": "511",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3183963_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3183963_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013027958",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957366509",
+                "INPUT_DATE": "20131217",
+                "SET_EXPRESSION": "",
+                "VOL": "35",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "신문이 보이고 뉴스가 들리는 재미있는 미생물과 감염병 이야기",
+                "PUBLISH_PREDATE": "20140110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

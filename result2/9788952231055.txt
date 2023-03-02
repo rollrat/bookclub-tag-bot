@@ -1,0 +1,67 @@
+{
+    "otitle": "카시탄카",
+    "oauthor": "안톤 체호프 글/타티야나 코르메르 그림/이수경 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "카시탄카",
+                "link": "https://search.shopping.naver.com/book/catalog/32441655096",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441655096.20221019150517.jpg",
+                "author": "안톤 체호프",
+                "discount": "9000",
+                "publisher": "살림어린이",
+                "pubdate": "20150825",
+                "isbn": "9788952231055",
+                "description": "도스토예프스키, 톨스토이와 함께 러시아 3대 문호로 손꼽히는 작가, 안톤 체호프의 단편 『카시탄카』. 타티야나 코르메르의 그림으로,  ‘제2회 CJ PICTURE BOOK AWARDS 일러스트레이션 50’에 선정되어 작품성을 인정받은 그림책이다. 원작에서 묘사된 맛깔나고 개성 있는 등장인물들을 그림에서 그대로 재현하며, 러시아의 독특한 분위기와 정서를 고스란히 담은 명품 그림책으로 재탄생했습니다. 어른에게도 가슴에 깊은 울림을 선사한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20150831",
+                "EA_ADD_CODE": "77890",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "안톤 체홉",
+                "SERIES_TITLE": "",
+                "KDC": "892.83",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4728621_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4728621_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015019224",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952231055",
+                "INPUT_DATE": "20150713",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "까쉬딴까",
+                "PUBLISH_PREDATE": "20150825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

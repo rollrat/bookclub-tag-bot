@@ -1,0 +1,78 @@
+{
+    "otitle": "서른다섯의 사춘기",
+    "oauthor": "한기연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:08 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "서른다섯의 사춘기 (일, 사랑, 결혼, 인간관계, 내인생에 다시 입맞추고싶은 서른너머의 성장통)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436143004",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436143004.20221019143011.jpg",
+                "author": "한기연",
+                "discount": "12600",
+                "publisher": "팜파스",
+                "pubdate": "20171025",
+                "isbn": "9791170261773",
+                "description": "모든 것이 어정쩡한 채 서른다섯이 되었다.\n\n삶의 방향성을 잃어버린 채 나아갈 길을 모르겠어 혼란스러운 삼십대들을 위한 이야기 『서른다섯의 사춘기』. 일도 사랑도 결혼도 사회생활도 그리고 나 자신에게 더더욱 혹독해지는 시기, 서른다섯. 시도 때도 없이 인생에 발목 잡히는 기분이 들며 더없이 외로워지고 불안해지는 이 시기를 어떻게 보내면 좋을까. 오랜 기간 심리 상담을 한 저자는 이 나이대가 현실의 나와 어릴 적 꿈꾸던 내가 가장 격렬하게 충돌하는 시기라고 이야기하면서 서른다섯에 찾아오는 사춘기와도 같은 질풍노도의 현실에 대해 차근차근 살펴보고 이 시기에 겪는 방황과 고통, 갈등에 대한 지지와 현실적이면서도 따뜻한 조언을 들려준다 \n\n사랑과 결혼 앞에서 이제 쿨해질 수 없는 이들의 현실적인 부담감에 대해 살펴보고 이에 대해 해결점을 찾는다. 자신감 하락, 승진 문제와 후배들에게 밀려남, 번아웃 같이 직장 생활에서의 갈등과 힘겨움에도 공감하며 더 나은 선택을 위한 대처를 일러주고, 가장 어려운 나라는 존재에 대한 성찰을 권한다. 더 이상 타인처럼 살지 않고, 내 인생의 주인공으로 자리 매김하도록 나의 삶에 대한 질문과 답을 찾아가며 아프고 힘든 서른 너머의 청춘들에게 위로와 용기를 전하고, 인생의 답을 찾아갈 수 있도록 이끌어준다."
+            },
+            {
+                "title": "서른다섯의 사춘기 (사랑 일 결혼 자신까지 외면하고픈 30대의 마음 심리학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466686655",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466686655.20220527073633.jpg",
+                "author": "한기연",
+                "discount": "0",
+                "publisher": "팜파스",
+                "pubdate": "20100203",
+                "isbn": "9788993195439",
+                "description": "서른다섯의 고민을 위한 심리치유서!\n\n방황하는 서른다섯을 위한 심리치유 에세이『서른다섯의 사춘기』. 삼십대 중반은 자신이 주체가 되는 삶을 어느 정도 살았고, 경제적으로도 독립을 이룰 나이이다. 또한 자신의 능력을 확인하고 한계를 경험하면서, 앞으로의 인생을 고민하게 되는 마지막 연령대이기도 하다. 이 책은 서른다섯이 두려운 삼십대의 마음을 심리학적인 관점에서 살펴본다. 임상심리학자인 저자를 찾아온 내담자들의 진솔한 이야기가 담겨 있다. 서른두셋에서 서른대여섯까지의 삼십대 중반, 특히 여성들의 솔직담백한 이야기가 중심을 이룬다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "155.333",
+                "UPDATE_DATE": "20171026",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "한기연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "182.233",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6364364_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6364364_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "298 p.",
+                "CONTROL_NO": "CIP2017024370",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170261773",
+                "INPUT_DATE": "20170915",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "서른다섯의 사춘기",
+                "PUBLISH_PREDATE": "20171025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

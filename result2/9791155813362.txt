@@ -1,0 +1,67 @@
+{
+    "otitle": "딱 하나만 선택하라면, 책",
+    "oauthor": "데비 텅 저/최세희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "딱 하나만 선택하라면, 책 (책덕후가 책을 사랑하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466979818",
+                "image": "https://shopping-phinf.pstatic.net/main_3246697/32466979818.20221019134603.jpg",
+                "author": "데비 텅",
+                "discount": "11060",
+                "publisher": "윌북",
+                "pubdate": "20210130",
+                "isbn": "9791155813362",
+                "description": "굿리즈 어워즈 2019 최고의 그래픽 노블 후보작 \n책 없이는 살 수 없다는 사람들에게, \n당신은 혼자가 아닙니다\n\n그림 그리는 애서가의 독서 생활과 속마음을 담은 카툰 에세이. 짧지만 긴 여운을 남기는 글과 보통의 우리 모습을 포착한 그림이 어우러져 읽는 내내 마음이 편안해진다. 마치 다정한 친구의 이야기를 듣는 듯 감미롭고 따스하다. 책만 있으면 감히 삶의 어떤 어려움도 이겨낼 수 있다는 ‘책만 읽는 바보’ 같은 주인공. 어딜 가든 책을 들고 다니고, 책에 빠져 밤에 지새우고, 무엇보다 책 이야기가 가장 하고 싶은 책덕후다. ‘아니, 이렇게 심한 책벌레라니!’ 하다가도 어느 지점에서는 ‘나도 그렇긴 해!’ 맞장구를 치게 되는 일상 공감 카툰들이 빼곡히 이어진다.\n\n책과 함께하는 삶이 얼마나 풍요로운지 아는 사람, 책으로 인생이 바뀐다는 사실을 아는 사람, 세상에서 가장 재미있는 것은 바로 ‘책’임을 아는 사람들에게 보내는 우정의 책이다. 대표적 서평 사이트 ‘굿리즈’에서 2019년 최고의 그래픽 노블에 노미네이트되었고, ‘애서가의 삶을 담은 사랑스러운 만화’라는 평가를 받았다. ‘삶에서 가장 소중한 것을 선택하라면 무엇을 택하겠는가?’라는 질문에 자신 있게 ‘책’이라고 답하는 사람이라면 시작부터 끝까지 자기 이야기라고 착각하게 되는 책이다. 작고 귀여운 일러스트와 만듦새가 인상적이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "",
+                "UPDATE_DATE": "20210302",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "데비 텅 지음 ;최세희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "140 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155813362",
+                "INPUT_DATE": "20201228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "딱 하나만 선택하라면, 책",
+                "PUBLISH_PREDATE": "20210130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

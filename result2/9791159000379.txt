@@ -1,0 +1,67 @@
+{
+    "otitle": "에머슨의 위대한 연설",
+    "oauthor": "랄프 왈도 에머슨 저/지소철 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "에머슨의 위대한 연설",
+                "link": "https://search.shopping.naver.com/book/catalog/32466601664",
+                "image": "https://shopping-phinf.pstatic.net/main_3246660/32466601664.20221019134711.jpg",
+                "author": "랄프 왈도 에머슨",
+                "discount": "12420",
+                "publisher": "포북(forbook)",
+                "pubdate": "20170705",
+                "isbn": "9791159000379",
+                "description": "‘오버소울’의 울림, 에머슨에게 듣는 삶의 지혜와 통찰\n\n19세기 미국을 대표하는 문인이자 사상가, 철학자인 동시에 대중 강연가이기도 했던 에머슨은 강연을 통해 인생을 조화롭게 살아가는 삶의 통찰과 혜안을 제시하여 미국인들에게 깊은 울림을 주었다. 『에머슨의 위대한 연설』은 그의 강연 중에서 가장 유명한 네 개의 강연을 모은 것으로, 그의 사상이 투영된 삶의 철학을 집약적으로 보여준다. 미국의 학자와 기독교 성직자, 문인과 지식인, 일반인을 대상으로 각자의 역할과 책무, 삶의 방향에 대해 강연한 그의 연설은 한 세기가 지난 오늘날까지 깊은 울림으로 다가온다. 실용적인 동시에 영적인 에머슨의 철학은 오늘을 사는 우리들에게 삶에 대한 열정과 변화의 원동력이 되어 준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "for book",
+                "DDC": "",
+                "UPDATE_DATE": "20170719",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "랄프 왈도 에머슨 지음 ;지소철 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145mm*215mm",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "194 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159000379",
+                "INPUT_DATE": "20170622",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "에머슨의 위대한 연설",
+                "PUBLISH_PREDATE": "20170705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

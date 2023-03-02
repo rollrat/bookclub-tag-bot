@@ -1,0 +1,67 @@
+{
+    "otitle": "별일 없어도 내일은 기분이 좋을 것 같아",
+    "oauthor": "여이지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "별일 없어도 내일은 기분이 좋을 것 같아 (다행이지 내가 좋아하는 많은 것들이 여전해서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494089241",
+                "image": "https://shopping-phinf.pstatic.net/main_3249408/32494089241.20230218110615.jpg",
+                "author": "여이지",
+                "discount": "14260",
+                "publisher": "미다스북스",
+                "pubdate": "20220217",
+                "isbn": "9788966373390",
+                "description": "“천천히 오는 거야, 우리 밝은 날은!” \n행복은 결국 우리 안에 있음을 속삭이는 작고 소중한 메시지들\n\n먼 훗날, 언젠가가 아닌 지금, 바로, 여기서의 행복을 위해!\n아무 일 없는 날에도 행복해질 수 있는 마법 같은 글들이 펼쳐진다!\n\n저자는 어릴 적 나무에 걸린 무지개를 잡고 싶었다. 하지만 그 무지개는 어린 저자에겐 너무 높은 나무에 걸려 있었다. 저자는 어른이 되고 키가 더 크면 꼭 잡아야지 하고 다짐했다. 하지만 웬일인지 키가 한 뼘씩 커질수록 무지개도 한 뼘씩 멀어져만 갔다.\n\n저자는 이제 행복이란 도달해야만 하는 목적지가 아니라는 것을 깨달았다. 천천히 주위를 둘러보면 여태 우리가 행복이라 느끼지 못했던 작은 것들이 당신을 부르고 있을 것이다. ‘여기 좀 봐. 나 쭉 여기 있었는데 왜 먼 데서 행복을 찾는 거야.’라고 말을 건네면서.\n\n저자는 이제 아무리 손을 뻗어도 닿지 않는 무지개 대신 지금 이 순간의 행복을 찾기 위한 여정을 시작한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220603",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "여이지 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*206",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966373390",
+                "INPUT_DATE": "20220204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "별일 없어도 내일은 기분이 좋을 것 같아",
+                "PUBLISH_PREDATE": "20200217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

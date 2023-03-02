@@ -1,0 +1,89 @@
+{
+    "otitle": "가족상담 및 치료 (2판)",
+    "oauthor": "최규련 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:17 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "가족상담 및 치료 (제2판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436151764",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436151764.20221230072714.jpg",
+                "author": "최규련",
+                "discount": "16200",
+                "publisher": "공동체",
+                "pubdate": "20120710",
+                "isbn": "9788963523569",
+                "description": "가족 심리, 상담부터 치료까지!\n\n수원대학교 아동가족복지학과 교수 최규련의 『가족상담 및 치료』. 가족상담 및 치료를 대학과 대학원에서 20여 년간 강의하면서 가족상담 임상ㆍ연구, 지도ㆍ감독을 계속해온 저자가 자신의 경험을 바탕으로 저술한 가족상담 및 치료 교재다. 가족상담 및 치료이론 적용사례 등을 포함함으로써 가족상담 및 치료에 대해 구체적으로 그리고 이해하도록 구성되어 있다.\n\n강의자료와 임상경험들을 토대로 가족 상담 및 치료와 이론과 기법만이 아닌 가족상담 및 치료의 특성, 가족체계 이해, 가족상담 및 치료이론 적용사례, 실제 가족상담 및 치료의 과정과 문제유형별 적용, 가족상담자 역할 등을 포함하여 가족상담 및 치료를 깊이 있으면서 구체적으로 이해할 수 있다."
+            },
+            {
+                "title": "가족상담 및 심리치료 (제2판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467250978",
+                "image": "https://shopping-phinf.pstatic.net/main_3246725/32467250978.20221019142138.jpg",
+                "author": "김혜련",
+                "discount": "18050",
+                "publisher": "도서출판 신정",
+                "pubdate": "20110910",
+                "isbn": "9788959122028",
+                "description": "『가족상담 및 심리치료』제2판. 이 책은 가족치료에 대한 새로운 정보와 이론적 설명을 추가하고, 가족치료의 실제와 관련된 영역을 충분히 보완하려고 노력하였다. 특히 고령화 사회에 접어들면서 대두되는 노인문제에 대한 가족 상담, 가정폭력 문제와 관련된 가족상담 등을 대상자의 특성에 따라 실제 사례를 중심으로 상담과 심리치료의 방법과 기법들을 세분화하여 기술하였다. 문제 상황에 있는 가족들을 돕기 위한 절차에서 필수적인 가족평가의 방법들도 소개하였다."
+            },
+            {
+                "title": "가족치료 및 상담 치료계획서 (개정된 DSM-5 포함, 제2판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438312747",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438312747.20220527081209.jpg",
+                "author": "Arthur E. Jongsma",
+                "discount": "0",
+                "publisher": "신정",
+                "pubdate": "20170910",
+                "isbn": "9788959124411",
+                "description": "▶ 이 책은 가족치료 및 상담 치료계획서를 다룬 이론서입니다. 가족치료의 기초적이고 전반적인 내용을 학습할 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "공동체",
+                "DDC": "",
+                "UPDATE_DATE": "20121121",
+                "EA_ADD_CODE": "93330",
+                "PUBLISHER_URL": "http//www.compub.co.kr",
+                "AUTHOR": "저자: 최규련",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963523569",
+                "INPUT_DATE": "20121121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "가족상담 및 치료 ",
+                "PUBLISH_PREDATE": "20120710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

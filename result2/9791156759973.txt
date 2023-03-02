@@ -1,0 +1,67 @@
+{
+    "otitle": "돈까스를 쫓는 모험",
+    "oauthor": "이건우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "돈까스를 쫓는 모험",
+                "link": "https://search.shopping.naver.com/book/catalog/35439276638",
+                "image": "https://shopping-phinf.pstatic.net/main_3543927/35439276638.20221228073704.jpg",
+                "author": "이건우",
+                "discount": "15480",
+                "publisher": "푸른숲",
+                "pubdate": "20221025",
+                "isbn": "9791156759973",
+                "description": "‘돈까스’에 진심인 일본어 번역가가 들려주는 돈까스 탐방기이자 예찬. 저자 이건우는 ‘친숙하고, 다양하고, 재미있으며, 무엇보다 맛있는’ 음식인 돈까스에 빠져 2017년부터 블로그 ‘돈까스를 쫓는 모험’에 돈까스 품평을 써오고 있다. 이 책은 저자가 방문한 수백 곳의 돈까스집 중 엄선한 서울·경기 지역 돈까스집 29곳을 소개한다. 추억의 경양식 돈까스부터 일본식 프리미엄 카츠까지, 소문난 돈까스집부터 이제 막 떠오르는 신흥 강자 맛집까지, 맛깔나는 돈까스의 향연이 저자 특유의 진지하고도 위트 넘치는 문체로 펼쳐진다. 그렇다고 이 책을 단순히 ‘돈까스집 품평기’라 특정하기는 어렵다. 돈까스를 향한 무한한 애정과 확고한 철학, 해박한 인문학적 지식까지 한 스푼 더한, 그야말로 ‘돈까스학(學)’ 에세이가 여기 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20221221",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "이건우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221025",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17200",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "290 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156759973",
+                "INPUT_DATE": "20221013",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "돈까스를 쫓는 모험",
+                "PUBLISH_PREDATE": "20221025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

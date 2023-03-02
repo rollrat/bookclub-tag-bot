@@ -1,0 +1,67 @@
+{
+    "otitle": "타오, 나를 찾아가는 깨달음의 여행",
+    "oauthor": "이승헌 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "타오, 나를 찾아가는 깨달음의 여행 (일상의 깨달음을 위한 불변의 법칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481485962",
+                "image": "https://shopping-phinf.pstatic.net/main_3248148/32481485962.20221019113941.jpg",
+                "author": "이승헌",
+                "discount": "14400",
+                "publisher": "한문화",
+                "pubdate": "20170224",
+                "isbn": "9788956992914",
+                "description": "이 책은 《리빙 타오LIVING TAO》의 한국어판이다. 이 책의 미덕은 자칫 관념적으로 흐르기 쉬운 타오(TAO: 도道, 궁극의 진리, 생명의 실체)를 말로 설명하는 데 그치지 않고 누구나 쉽게 이해하고, 느끼며, 자신의 삶에 적용할 수 있도록 실천적인 지침을 담고 있다는 데 있다. 누가 어떤 인생의 길을 걷고 있든, 어떤 수준의 교육을 받았든, 어떤 연령이든 관계없이 이 책을 통해 무언가를 배울 수 있으며 자기 내면의 성장을 향해 나아갈 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한문화",
+                "DDC": "",
+                "UPDATE_DATE": "20170803",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이승헌 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "318 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788956992914",
+                "INPUT_DATE": "20170308",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "타오, 나를 찾아가는 깨달음의 여행",
+                "PUBLISH_PREDATE": "20170224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

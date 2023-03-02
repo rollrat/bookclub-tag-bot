@@ -1,0 +1,67 @@
+{
+    "otitle": "눈치가 없어 고민입니다",
+    "oauthor": "구로카와 이호코 저/김윤경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "눈치가 없어 고민입니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32466644420",
+                "image": "https://shopping-phinf.pstatic.net/main_3246664/32466644420.20221019132647.jpg",
+                "author": "구로카와 이호코",
+                "discount": "12150",
+                "publisher": "넥서스BIZ",
+                "pubdate": "20200330",
+                "isbn": "9791161659350",
+                "description": "왜 그와는 말이 통하지 않을까?\n피할 수도 없고 버릴 수도 없는 답답한 관계, 처방해 드립니다!\n자폐아에서 커뮤니케이션 전문가가 된 작가의 ‘감성적 소통’ 연구\n\n‘눈치가 없다’ ‘배려가 없다’ ‘무신경하다’ ‘시큰둥하다’ 직장이나 가정에서 나를 힘들게 했던 사람들을 이렇게 단정 지으면 문제의 본질을 놓치고 만다. 처해진 상황을 뇌가 제대로 인식하지 못하기 때문에 그들은 행동으로 옮기지 못하고, 행동을 봐도 배우지 못한다. 이는 내가 ‘공감장애’라고 부르는 뇌의 문제 중 하나다. \n\n뉴스와 기사를 통해서 혹은 속해 있는 조직사회의 젊은 친구들과 접하면서 내가 꼰대가 되어가나 의구심이 들 때가 있습니다. 동년배 또는 연세 많은 어르신과 대화를 나눌 때 유독 힘이 들 때가 있습니다. 서로 지내온 환경이 다르니 생각도 다를 거라고 머리로는 이해가 되는 것 같지만, 심적으로는 도무지 납득이 안 되는 상황이 종종 발생하곤 합니다. 세대 차이라고만 느꼈던 거리감이 어쩌면 공감장애일 수도 있다는 사실을 이 책을 통해 알게 되었습니다. 나 또한 누군가에게는 에너지 뱀파이어일 수도 있다는 사실과 함께.\n_「옮긴이의 글」 중에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스biz :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20200406",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "구로카와 이호코 ;옮긴이: 김윤경",
+                "SERIES_TITLE": "",
+                "KDC": "511.1813",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/03/11/9791161659350.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "248 p.",
+                "CONTROL_NO": "CIP2020010715",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161659350",
+                "INPUT_DATE": "20200311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "눈치가 없어 고민입니다",
+                "PUBLISH_PREDATE": "20200330",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

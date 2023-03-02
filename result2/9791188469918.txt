@@ -1,0 +1,67 @@
+{
+    "otitle": "굿 멘토(GOOD MENTOR)",
+    "oauthor": "데이비드 코트렐 저/박은지 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "굿 멘토(Good Mentor) (당신이 성공하기로 결정한 순간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491418049",
+                "image": "https://shopping-phinf.pstatic.net/main_3249141/32491418049.20230110163733.jpg",
+                "author": "데이비드 코트렐",
+                "discount": "12960",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20211220",
+                "isbn": "9791188469918",
+                "description": "시행착오를 줄이고 가장 빠르게 앞서나가는 9가지 인생 전략\n\n미국 최대의 자기계발, 리더십, 경영 철학을 제공하는 코너스톤 연구소의 CEO이자 파산 직전의 11개의 기업을 성공적으로 회생시킨 데이비드 코트렐은 수백 명의 성공한 사람들을 만나 그 비밀을 알아내고 연구해 왔다. 40만 명의 선택을 받으며 현재 최고의 성과를 이끄는 방법을 강의하는 그가 인생을 성공으로 바꾸는 9가지 전략을 완벽하게 정리해 이 책에 담았다.\n혹시 목표 주변만 떠돌고 있지 않은가? 어떻게 하면 더 나아질 수 있는지 모른 채 고민만 끝도 없이 이어지고 있지 않은가? 스스로 원하는 사람이 될 수 있도록 용기와 지혜를 주는 성공 지침서가 바로 여기에 있다. 다음 결정은 당신 손에 달렸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름(필름 출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20220124",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "데이비드 코트렐 지음 ;박은지 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188469918",
+                "INPUT_DATE": "20211202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "굿 멘토",
+                "PUBLISH_PREDATE": "20211220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

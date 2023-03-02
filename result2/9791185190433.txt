@@ -1,0 +1,67 @@
+{
+    "otitle": "아름다운 수수께끼",
+    "oauthor": "루이즈 페니 저/김예진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아름다운 수수께끼 (매커비티상, 앤서니상, 애거서상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441613000",
+                "image": "https://shopping-phinf.pstatic.net/main_3244161/32441613000.20221019133001.jpg",
+                "author": "루이즈 페니",
+                "discount": "12960",
+                "publisher": "피니스아프리카에",
+                "pubdate": "20200801",
+                "isbn": "9791185190433",
+                "description": "성직자 같은 경찰이 성직자를 수사하는 미스터리\n\n퀘벡의 야생 깊은 곳에 숨어 있는 생질베르앙트르레루 수도원에 방문을 허락받은 외부인은 일찍이 없었다. 그곳에서 기도 생활을 하며 평화로운 삶을 영위하는 스물네 명의 수도사. 그들은 작물을 재배하고 닭을 키우며 초콜릿을 만든다. 그리고 노래를 부른다. 아이러니하게도 침묵의 서약을 지키며 사는 수도사들은 영광스러운 목소리 덕에 세계적으로 유명해진다. \n유명한 지휘자 수도사가 살해되었을 때, 굳게 걸린 수도원의 거대한 나무 문은 퀘벡 경찰청의 아르망 가마슈와 장 기 보부아르에게 입장을 허락한다. 거기서 그들은 침묵 아래의 불안과 명료한 하모니 속의 불협화음을 감지한다. 기도와 사색의 삶을 사는 수도사들 중 한 명은 살인을 고려하고 있었다. 수도원의 평화가 붕괴됨과 동시에 가마슈 역시 수도원의 외딴 복도를 배회하며 자신의 내면에 있는 악마를 맞닥뜨린다. 살인자를 찾기 전, 평화를 회복하기 전 경감은 우선 신과 인간 사이의 갈라진 금에 대해 심사숙고해야 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "피니스 아프리카에",
+                "DDC": "",
+                "UPDATE_DATE": "20200902",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "루이즈 페니 지음 ;김예진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "139*197",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "587 p.",
+                "CONTROL_NO": "CIP2020028487",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185190433",
+                "INPUT_DATE": "20200707",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아름다운 수수께끼",
+                "PUBLISH_PREDATE": "20200801",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "하버드 비즈니스 리뷰 멘탈 수업",
+    "oauthor": "마틴 셀리그만 등저/이영래 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하버드 비즈니스 리뷰 멘탈 수업 (상대의 마음을 얻고 자신의 의견을 관철시키는 HBR식 리더십)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484110226",
+                "image": "https://shopping-phinf.pstatic.net/main_3248411/32484110226.20230131162453.jpg",
+                "author": "마틴 셀리그만",
+                "discount": "13500",
+                "publisher": "매일경제신문사",
+                "pubdate": "20191111",
+                "isbn": "9791164840427",
+                "description": "어떤 상황도 도약대로 만드는 멘탈이 중요하다\n성공하는 비즈니스를 위한 하버드 리더십 특강\n\n사회초년생도 최고경영자도 각자의 영역에서 한 번씩 무너질 때가 있다. 위기를 겪지 않도록 조심하기보다 무슨 일이 닥쳐도 한 단계 도약할 수 있는 강하고 유연한 멘탈이 필요하다. 세상의 내로라하는 리더들이 하나씩 가지고 있는 좌절의 순간을 성공의 순간으로 뒤바꾼 경험담은 식상하지만 사실이다. 구체적이고 다양한 사례와 함께 사람을 끌어당기고 원활한 협상을 이끌어내는 마법 같은 성공비법을 담았다. 확실한 비전을 제시하는 하버드식 조언을 통해 뛰어난 리더가 되기 위해 실질적으로 갖추어야 할 것이 무엇인지 살펴보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20191113",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "마틴 셀리그만,론 애시케너스,워런 베니스,앨리아 크럼,토마스 크럼,애럼 도기니언,로드릭 길키,조너선 휴스,그레이엄 존스,클린트 킬츠,짐 로허,글렌 맹구리언,조슈아 마르골리스,미첼 리 막스,필립 머비스,토니 슈와르츠,폴 스톨츠,로버트 토마스,제프 와이스 지음 ;이영래 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.24",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/22/9791164840427.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "CIP2019042497",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164840427",
+                "INPUT_DATE": "20191023",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "하버드 비즈니스 리뷰 멘탈 수업",
+                "PUBLISH_PREDATE": "20191111",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

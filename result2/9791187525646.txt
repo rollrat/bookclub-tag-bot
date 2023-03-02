@@ -1,0 +1,67 @@
+{
+    "otitle": "물리학은 처음인데요",
+    "oauthor": "마쓰바라 다카히코 저/이인호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "물리학은 처음인데요 (수식과 도표 없이 들여다보는 물리학의 세계)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445389996",
+                "image": "https://shopping-phinf.pstatic.net/main_3244538/32445389996.20230217105539.jpg",
+                "author": "마쓰바라 다카히코",
+                "discount": "14400",
+                "publisher": "행성B",
+                "pubdate": "20180130",
+                "isbn": "9791187525646",
+                "description": "수식과 도표 없이 오직 글로만 쓰인, 보통 사람들을 위한 물리학 입문서다. 물리학 지식이 백지에 가까운, 물리학과 특별한 인연이 없던 사람들도 쉽게 읽어 내려갈 수 있는 책이다. 이 책을 읽은 김상욱 교수는 “완전히 어깨에 힘을 빼고 물리 철학의 핵심만 이야기”한 책이라며 “물리 책에 대한 상식”에 도전한 책이라고 추천했다. \n\n\n\n이 책은 고전물리학의 탄생 배경과 물리학 분야에 혁명을 일으킨 상대성이론과 양자론이 성립되는 과정까지 흥미롭게 들려준다. 그렇다고 해서 물리학 역사를 개괄한 책으로 보면 오산이다. 저자는 “우리 눈에 보이는 세계가 진짜”냐는 도발적인 질문을 던진다. 사실 이것은 물리학의 궁극적인 질문이기도 하다. 물리학은 아주 오랜 시간, 보이는 것 너머에 있는 진실을 알아내기 위해 고군분투해 왔다. 그 과정에서, 물리적 세계에서 인간이 어느 위치에 있는지 돌아보게 했다. 이런 점에서 물리학은 인문학적이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "행성B(행성비)",
+                "DDC": "530",
+                "UPDATE_DATE": "20180206",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "마쓰바라 다카히코 지음 ;이인호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "420",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6463150_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6463150_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "CIP2017033128",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187525646",
+                "INPUT_DATE": "20171206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "물리학은 처음인데요",
+                "PUBLISH_PREDATE": "20180130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

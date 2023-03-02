@@ -1,0 +1,67 @@
+{
+    "otitle": "구운몽 - 한국문학읽다",
+    "oauthor": "김만중 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "구운몽(큰글씨책) (한국 문학 읽다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492749626",
+                "image": "https://shopping-phinf.pstatic.net/main_3249274/32492749626.20221019131858.jpg",
+                "author": "김만중",
+                "discount": "24300",
+                "publisher": "정씨책방",
+                "pubdate": "20190926",
+                "isbn": "9791189604639",
+                "description": "“인생의 부귀공명은 일장춘몽이다”\n\n조선조 숙종 때 폐비를 반대하다 남해로 유배되어 가서 한양에 있는 노모를 위로하기 위해 썼다는 김만중의 작품이다. 작품에 비현실적인 요소가 많지만, 구성이나 문체에 있어서는 흠잡을 데 없는 고대 소설의 전형이라고 할 수 있으며, 또한 “구운몽”은 몽자류 소설의 효시이기도 하다.\n\n이 작품은 유교적인 현실적 공리주의와 불교적 정관인 공의 사상, 그리고 도교의 향락주의가 융합되어 당시의 정신 생활을 총체적으로 반영하고 있다. 유학자인 김만중이 불교적인 주제와 시각에서 인간의 문제를 형상화한 점과 조리 있는 구성과 간결한 문체로 인간의 욕망을 어떤 구속도 받지 않고 대담하게 표현한 것은 주목할 만 하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "정씨책방",
+                "DDC": "",
+                "UPDATE_DATE": "20191030",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김만중",
+                "SERIES_TITLE": "",
+                "KDC": "813.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/16/9791189604639.jpg",
+                "PRE_PRICE": "27000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "228 p.",
+                "CONTROL_NO": "CIP2019036497",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189604639",
+                "INPUT_DATE": "20190916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "구운몽",
+                "PUBLISH_PREDATE": "20190925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

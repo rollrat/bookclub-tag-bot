@@ -1,0 +1,67 @@
+{
+    "otitle": "민감한 사람을 위한 감정 수업",
+    "oauthor": "캐린 홀 저/신솔잎 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "민감한 사람을 위한 감정 수업 (왜 나는 사람들 반응에 신경 쓰고 상처받을까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504334888",
+                "image": "https://shopping-phinf.pstatic.net/main_3250433/32504334888.20221229072847.jpg",
+                "author": "캐린 홀",
+                "discount": "14400",
+                "publisher": "빌리버튼",
+                "pubdate": "20200207",
+                "isbn": "9791188545773",
+                "description": "30년 경력의 임상심리사가 말하는 감정에 압도당하지 않는 8가지 방법\n삶에서 불필요한 감정기복으로 힘들어하는 이들을 위한 책\n\n남들보다 민감하다는 것은 삶의 선물이기도 하고, 또 때론 짐이 되기도 한다. 민감한 사람들이 갖기 마련인 타인에 대한 높은 공감력과 깊은 유대감, 강렬한 기쁨, 뛰어난 직관과 창의력 등은 삶의 질을 높여준다. 그러나 한편, 지나치게 감정적이 된 나머지 잘못된 선택을 하거나 부정적인 생각에 사로잡혀 힘들 때면 민감한 성격이 무거운 숙제처럼 느껴질 것이다. 따라서 민감성을 삶의 선물로 느끼고 활용하기 위해 우리는 격렬한 감정을 잘 다스리는 방법을 배워야 한다. 이 책에서 소개하는 마음을 평온하게 해줄 다양한 방법들의 핵심은 ‘꾸준한 연습’이다. 생각이나 행동을 하루아침에 바꾸는 게 쉽지만은 않을 것이다. 하지만 시간과 노력을 들일 만한 충분한 가치가 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "",
+                "UPDATE_DATE": "20200217",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "캐린 홀 지음 ;신솔잎 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/01/14/9791188545773.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "348 p.",
+                "CONTROL_NO": "CIP2020001201",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188545773",
+                "INPUT_DATE": "20200108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "민감한 사람을 위한 감정 수업",
+                "PUBLISH_PREDATE": "20200207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

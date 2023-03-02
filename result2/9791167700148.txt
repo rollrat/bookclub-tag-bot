@@ -1,0 +1,78 @@
+{
+    "otitle": "끝내주는 맞춤법",
+    "oauthor": "김정선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:27 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "끝내주는 맞춤법(큰글자도서) (쓰는 사람을 위한 반복의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503745061",
+                "image": "https://shopping-phinf.pstatic.net/main_3250374/32503745061.20230207165530.jpg",
+                "author": "김정선",
+                "discount": "39600",
+                "publisher": "유유",
+                "pubdate": "20220104",
+                "isbn": "9791167700148",
+                "description": "리더스원의 큰글자도서는 글자가 작아 독서에 어려움을 겪는 모든 분들에게 편안한 독서 환경을 제공함으로써 책 읽기의 즐거움을 되찾아 드리고자 합니다.\n\n새로운 형식의 맞춤법 공부책\n\n삼십 년 가까이 다른 사람이 쓴 글을 읽고 다듬어 온 교정 교열 전문가 김정선이 사람들이 가장 많이 틀리는 맞춤법 실수를 수집해 ‘맞춤법 끝내기 책’을 내놓았다. 어문 규범의 이해를 돕는 책이 아니라 필요한 부분만 반복해서 보고 쓰도록 해서 이미 가진 지식을 ‘체득’할 수 있게 돕는 책이다. 우리는 맞춤법을 몰라서 틀리는 게 아니며, 알거나 공부하는 것만으로는 맞춤법을 끝낼 수 없다.\n\n총 20단계로 구성된 이 책에는 저자가 직접 만든 3,000개의 예문이 수록되어 있다. 독자는 이 예문을 문제 삼아 앞에서부터 차근차근 풀어 나가기만 하면 된다. 공부책이자 참고서로, 문제집이자 연습장으로 활용할 수 있는 이 책이 우리 모두를 ‘맞춤법의 늪’에서 벗어날 수 있게 도울 것이다."
+            },
+            {
+                "title": "끝내주는 맞춤법: 쓰는 사람을 위한 반복의 힘 (쓰는 사람을 위한 반복의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474277082",
+                "image": "https://shopping-phinf.pstatic.net/main_3247427/32474277082.20221019134908.jpg",
+                "author": "김정선",
+                "discount": "13830",
+                "publisher": "유유",
+                "pubdate": "20210304",
+                "isbn": "9791189683832",
+                "description": "새로운 형식의 맞춤법 공부책\n\n삼십 년 가까이 다른 사람이 쓴 글을 읽고 다듬어 온 교정 교열 전문가 김정선이 사람들이 가장 많이 틀리는 맞춤법 실수를 수집해 ‘맞춤법 끝내기 책’을 내놓았다. 어문 규범의 이해를 돕는 책이 아니라 필요한 부분만 반복해서 보고 쓰도록 해서 이미 가진 지식을 ‘체득’할 수 있게 돕는 책이다. 우리는 맞춤법을 몰라서 틀리는 게 아니며, 알거나 공부하는 것만으로는 맞춤법을 끝낼 수 없다. \n\n총 20단계로 구성된 이 책에는 저자가 직접 만든 3,000개의 예문이 수록되어 있다. 독자는 이 예문을 문제 삼아 앞에서부터 차근차근 풀어 나가기만 하면 된다. 공부책이자 참고서로, 문제집이자 연습장으로 활용할 수 있는 이 책이 우리 모두를 ‘맞춤법의 늪’에서 벗어날 수 있게 도울 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유유",
+                "DDC": "",
+                "UPDATE_DATE": "20220304",
+                "EA_ADD_CODE": "03700",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "김정선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "40000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*297",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "460 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167700148",
+                "INPUT_DATE": "20211021",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "끝내주는 맞춤법",
+                "PUBLISH_PREDATE": "20220104",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "유리천장 아래 여자들",
+    "oauthor": "아이린 파드빅, 바버라 레스킨 저/황성원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "유리천장 아래 여자들 (여성의 노동은 왜 차별받는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438172825",
+                "image": "https://shopping-phinf.pstatic.net/main_3243817/32438172825.20221019120748.jpg",
+                "author": "아아린 파드빅",
+                "discount": "14400",
+                "publisher": "아날로그(글담)",
+                "pubdate": "20210205",
+                "isbn": "9791187147688",
+                "description": "왜 여성의 임금은 더 낮고 승진은 어려울까?\n전 세계 노동 성차별의 원인을 밝히고 그 해법을 찾다!\n\n현대의 노동시장은 20세기에 비하면 남녀 노동자를 평등하게 대하는 것처럼 보인다. 그러나 이는 어디까지나 상대적인 비교일 뿐, 노동시장의 성차별은 지금도 여전히 존재한다. 이 책에서는 노동 환경에서 나타나는 성차별의 원인과 그 현상을 구체적인 통계와 다양한 사례를 바탕으로 살펴보고, 해결 방안을 소개한다.\n\n현대에는 여성과 남성이 같은 수준의 교육을 받고 실제 업무 현장에서도 동등한 능력을 보이지만, 현실의 사례를 살펴보면 여성 노동자는 남성 노동자에게 미치지 못하는 수준의 임금을 받는 것은 물론 유리천장에 직면해 승진에 어려움을 겪으며, 심지어 가정에서는 가사 노동의 주된 책임을 떠맡는다. 아이린 파드빅과 바버라 레스킨은 오늘날 우리가 노동시장에서 직면하는 성차별 현상이 이 역사적으로 어떻게 형성되고 고착화되었는지 그 기원을 쫓는다. 그리고 이러한 사회적 통념이 만들어낸 현대 여성 노동자에 대한 승진과 권한의 제한, 그리고 임금격차 문제의 원인과 해결책을 찾는다. 마지막으로 노동자들이 가정과 일을 동시에 꾸려나가야 하는 노동자들이 어떻게 가정과 일터 사이의 갈등을 조율할 수 있을지 그 방안을 모색한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아날로그",
+                "DDC": "",
+                "UPDATE_DATE": "20210226",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "아이린 파드빅,바버라 레스킨 [지음] ;황성원 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "336 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187147688",
+                "INPUT_DATE": "20210105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "유리천장 아래 여자들",
+                "PUBLISH_PREDATE": "20210205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

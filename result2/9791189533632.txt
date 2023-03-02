@@ -1,0 +1,67 @@
+{
+    "otitle": "이탈리아에 살고 있습니다",
+    "oauthor": "김혜지 글,사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이탈리아에 살고 있습니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32440908676",
+                "image": "https://shopping-phinf.pstatic.net/main_3244090/32440908676.20230214163754.jpg",
+                "author": "김혜지",
+                "discount": "15300",
+                "publisher": "SISO",
+                "pubdate": "20210510",
+                "isbn": "9791189533632",
+                "description": "“이곳에서 나는 조금 더 행복해졌고, 가끔 외로워졌다. \n 이제 이 나라는 내게 오래도록 살고 싶은 나라가 되었다”\n이탈리아에 살며 보고 듣고 느낀 생활 기록,\n유튜브로 팬데믹을 이겨내며 찾은 기회와 희망에 대한 이야기\n\n『이탈리아에 살고 있습니다』에는 ‘인터넷 설치에 3개월, 의사를 만나기는 하늘의 별 따기, 200분 연착이 대수롭지 않은 대중교통, 아침 일찍 가서 몇 시간을 기다려야 처리할 수 있는 행정 업무, 24시간 편의점은커녕 배달조차 되지 않는’ 이탈리아에서의 리얼 라이프와 2020년 한 해 코로나로 전 세계 감염자 수 1위를 찍은 이탈리아에서 이뤄낸 한 부부의 기적 같은 재기 스토리가 담겨 있다.\n코로나 팬데믹으로 그동안 생계를 유지하게 해주었던 일자리를 잃고, 유튜브를 통해 현지 상황을 전하며 ‘랜선 여행, 월간답사 프로젝트’ 등 자신만의 콘텐츠를 만들어 천천히 그러나 꾸준히 구독자 수를 늘려온 채널 ‘이태리부부’의 성장 스토리가 힘들고 어려운 시대에 좌절하고 기운을 잃은 독자들에게 작은 위안과 희망을 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Siso",
+                "DDC": "",
+                "UPDATE_DATE": "20210622",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김혜지",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "298 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189533632",
+                "INPUT_DATE": "20210419",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이탈리아에 살고 있습니다",
+                "PUBLISH_PREDATE": "20210510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

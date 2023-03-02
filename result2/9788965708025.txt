@@ -1,0 +1,67 @@
+{
+    "otitle": "최소한의 밥벌이",
+    "oauthor": "곤도 고타로 저/권일영 역/하완 그림/우석훈 해제",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "최소한의 밥벌이 (하루 한 시간이면 충분한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466676633",
+                "image": "https://shopping-phinf.pstatic.net/main_3246667/32466676633.20220527052509.jpg",
+                "author": "곤도 고타로",
+                "discount": "14400",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20190601",
+                "isbn": "9788965708025",
+                "description": "★『88만원 세대』 우석훈 박사 강력 추천 ★『하마터면 열심히 살 뻔했다』 하완 작가 만화 수록\n\n1인 생활자의 1년치 식량을 위한 \n1일 1시간 밥벌이 프로젝트\n\n배고픈 글쓰기에 인생을 건 남자의 생계형 벼농사가 시작된다!\n\n대도시에서 오십 평생을 살아온 기자가 어느 날 지방 발령 신청을 낸다. ‘더는 회사와 사회에 휘둘리는 삶을 살기 싫다. 내가 원하는 글만 쓰면서 살고 싶다. 최소한 밥만 굶지 않으면 가능할 것 같은데…. 그렇다면, 벼농사를 직접 지어보자!’ 일본 아사히신문 기자 곤도 고타로, 초짜 농부의 무모한 도전은 과연 성공할 수 있을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20190607",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "지은이: 곤도 고타로 ;옮긴이: 권일영",
+                "SERIES_TITLE": "",
+                "KDC": "520.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/24/9788965708025.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "353 p.",
+                "CONTROL_NO": "CIP2019016265",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965708025",
+                "INPUT_DATE": "20190419",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(하루 한 시간이면 충분한) 최소한의 밥벌이",
+                "PUBLISH_PREDATE": "20190601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "2시간에 끝나는 부가가치세 셀프 신고",
+    "oauthor": "최용규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "2시간에 끝나는 부가가치세 셀프 신고",
+                "link": "https://search.shopping.naver.com/book/catalog/32506654486",
+                "image": "https://shopping-phinf.pstatic.net/main_3250665/32506654486.20221019110207.jpg",
+                "author": "최용규",
+                "discount": "12600",
+                "publisher": "헤리티지",
+                "pubdate": "20181130",
+                "isbn": "9791186615362",
+                "description": "‘기승전-어려우니까 세무사 쓰세요’라는 책은 인제 그만!\n2시간 안에 알게 될 기막히고 코 막히는 세무 까짓것! \n그리고 진짜 절세법\n\n2시간이면 부가가치세 계산부터 신고까지 할 수 있다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "헤리티지 :왕의서재",
+                "DDC": "336.2714",
+                "UPDATE_DATE": "20181212",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최용규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "329.441",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7004907_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7004907_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7004907_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "CIP2018037025",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186615362",
+                "INPUT_DATE": "20181114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "2시간에 끝나는 부가가치세 셀프 신고",
+                "PUBLISH_PREDATE": "20181130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

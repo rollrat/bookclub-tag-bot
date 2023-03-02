@@ -1,0 +1,67 @@
+{
+    "otitle": "결혼식 가는 길",
+    "oauthor": "존 버거 저/김현우 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "결혼식 가는 길(To the Wedding) (존 버거 소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474620890",
+                "image": "https://shopping-phinf.pstatic.net/main_3247462/32474620890.20230110165812.jpg",
+                "author": "존 버거",
+                "discount": "13500",
+                "publisher": "열화당",
+                "pubdate": "20200925",
+                "isbn": "9788930106887",
+                "description": "존 버거가 1995년 발표한 소설 『결혼식 가는 길(To the Wedding)』이 새롭게 번역 출간되었다. 그는 자신이 글을 쓰는 목적은 ‘사람들을 에워싼 게토에서 그 사람들을 내보내는 것’이라고 했다. 이 소설은 에이치아이브이(HIV)에 감염된 젊은 여인이 사람들의 혐오와 스스로의 절망 속에서 어떻게 빠져나오게 되는지를 독특한 화법으로 그린다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열화당",
+                "DDC": "",
+                "UPDATE_DATE": "20201201",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.youlhwadang.co.kr",
+                "AUTHOR": "존 버거 [지음] ;김현우 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "CIP2020038412",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788930106887",
+                "INPUT_DATE": "20200908",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "결혼식 가는 길",
+                "PUBLISH_PREDATE": "20200925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

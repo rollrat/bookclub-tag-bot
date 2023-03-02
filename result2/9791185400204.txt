@@ -1,0 +1,67 @@
+{
+    "otitle": "로맨스 -웹소설 작가를 위한 장르 가이드1",
+    "oauthor": "이주라,진산 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "웹소설 작가를 위한 장르 가이드 1: 로맨스",
+                "link": "https://search.shopping.naver.com/book/catalog/32478457075",
+                "image": "https://shopping-phinf.pstatic.net/main_3247845/32478457075.20230110163711.jpg",
+                "author": "이주라",
+                "discount": "8820",
+                "publisher": "북바이북",
+                "pubdate": "20151220",
+                "isbn": "9791185400204",
+                "description": "『웹소설 작가를 위한 장르 가이드』는 창작자를 위한 장르 개론서다. 로맨스 장르의 공식과 하위 장르의 특징, 『오만과 편견』에서 『그레이의 50가지 그림자』까지 로맨스 장르의 고전으로 꼽히는 작품들을 다룬다. 또 국내 작가들이 들려주는 작법 노하우와 부록으로 추천도서를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "808.3",
+                "UPDATE_DATE": "20160122",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이주라, 진산",
+                "SERIES_TITLE": "",
+                "KDC": "802.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185400198",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5076751_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5076751_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 120페이지 내외",
+                "CONTROL_NO": "CIP2015033528",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400204",
+                "INPUT_DATE": "20151204",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "웹소설 작가를 위한 장르 가이드 - 로맨스",
+                "PUBLISH_PREDATE": "20151220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

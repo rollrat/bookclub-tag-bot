@@ -1,0 +1,67 @@
+{
+    "otitle": "세상 모든 쌩쌩 기차",
+    "oauthor": "탈것발전소 기획/안명철 글",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상 모든 쌩쌩 기차",
+                "link": "https://search.shopping.naver.com/book/catalog/32484569090",
+                "image": "https://shopping-phinf.pstatic.net/main_3248456/32484569090.20221230075106.jpg",
+                "author": "안명철",
+                "discount": "12420",
+                "publisher": "주니어골든벨",
+                "pubdate": "20220110",
+                "isbn": "9791158065379",
+                "description": "철로 위를 달리는 기다란 기차는 아이들의 눈을 사로잡습니다.\n이 기차는 어디로 가며, 무엇을 태우고, 어떻게 움직이는 걸까요?\n수많은 도시와 시골을 이어주고, 승객을 태우거나 화물을 싣기도 하며, 다양한 동력 기관에 의해 움직이는 기차!\n기차의 안은 어떻게 생겼는지 궁금하지 않나요?\n또 미래에는 어떤 기차가 등장할지 알고 싶기도 합니다.\n여러분을 색다른 기차의 세계로 안내할게요.\n우리가 접할 수 있는 여러 가지 기차에 대해 모두 알려드립니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "주니어골든벨",
+                "DDC": "",
+                "UPDATE_DATE": "20220331",
+                "EA_ADD_CODE": "76550",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 안명철",
+                "SERIES_TITLE": "탈것박물관",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "23",
+                "EA_ISBN": "9791158065379",
+                "INPUT_DATE": "20220331",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "세상 모든 쌩쌩 기차",
+                "PUBLISH_PREDATE": "20220110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "과학의 향기",
+    "oauthor": "강석기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학의 향기",
+                "link": "https://search.shopping.naver.com/book/catalog/32444767653",
+                "image": "https://shopping-phinf.pstatic.net/main_3244476/32444767653.20221019151437.jpg",
+                "author": "강석기",
+                "discount": "15300",
+                "publisher": "MID",
+                "pubdate": "20210507",
+                "isbn": "9791190116428",
+                "description": "세상 곳곳으로 전파되는 ‘과학의 향기’\n당신이 궁금했던 오늘의 과학과 세상을 만나다\n\n세상은 처음 마주하는 코로나19의 심각한 위기 속에서 사상 최초로 ‘RNA백신’을 상용화해냈다. 전대미문의 위기가 아니었다면 이처럼 전혀 다른 방식의 백신 개발은 급속도로 추진되지 않거나 큰 규모로 투자되지 않았을 것이다. 이처럼 코로나19로 회생 불가능한 퇴행을 겪을 뻔했던 인류는 과학을 통해 새로운 국면을 만들어냈다. 경계를 가리지 않고 사방으로 퍼지는 향기처럼, 과학의 발견은 사람과 국경을 가리지 않고 세상으로 확장되며 희망을 전파한다. 21세기 인류에게 ‘과학의 향기’는 절실한 구원이자 위안이다.\n 2021년 출간되는 『과학의 향기』는 지금까지 10년째 매년 출간한 “강석기의 과학카페” 시리즈의 10번째 책이다. 첫 책으로 출간된 『과학 한잔 하실래요?』에 이어  『과학의 구원』, 『과학을 기다리는 시간』 등 1년마다 굵직굵직한 과학계 핫 이슈를 첨예하게 다뤄온 저자는 이번 10번째 책에서도 『과학의 향기』를 통해 코로나바이러스, 생태 위기 등 우리 삶에서 커다란 지분을 차지하는 과학의 최신 현안과 전망에 자신의 통찰을 담아 깊이 있고 흥미롭게 전달하고 있다. ‘트로트 열풍’에서 뇌과학의 이야기를 짚어내고 파스타집의 기름장에서 생명현상을 이해하는 상분리를 이야기하는 저자의 필력은 오늘날 가장 중요한 과학 이야기를 카페에서 읽는 한 편의 에세이처럼 독자들이 손쉽게 읽을 수 있도록 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "엠아이디미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20210623",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강석기 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/19/9791190116428.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "335 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190116428",
+                "INPUT_DATE": "20210420",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학의 향기",
+                "PUBLISH_PREDATE": "20210507",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

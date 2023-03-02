@@ -1,0 +1,67 @@
+{
+    "otitle": "자존감의 여섯 기둥",
+    "oauthor": "너새니얼 브랜든 저/김세진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "자존감의 여섯 기둥 (어떻게 나를 사랑할 것인가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473661634",
+                "image": "https://shopping-phinf.pstatic.net/main_3247366/32473661634.20230117165415.jpg",
+                "author": "너새니얼 브랜든",
+                "discount": "16200",
+                "publisher": "교양인",
+                "pubdate": "20150626",
+                "isbn": "9788991799073",
+                "description": "나를 상처 입히는 것은 나 자신이다.\n\n지금은 그야말로 ‘자존감의 시대’이다. 누구나 자연스럽게 자존감을 이야기하지만, 위로의 힐링도, 긍정의 힘을 준다는 자기 계발도 우리의 자존감을 구해주지 못하는 것 같아 숨이 막히곤 한다. 자존감의 근원과 작동 원리를 처음으로 명확히 밝힌 학자라는 평가를 받으며 ‘자존감이라는 개념의 아버지’라고 불린 미국의 심리학자 너새니얼 브랜든의 생각은 어떠할까?\n\n그는 자존감을 정신 건강의 척도라고 할 때, 이보다 더 긴급한 주제는 없다고 단언한다. ‘자존감이란 무엇인가?’, ‘자존감은 왜 중요한가?’, ‘자존감을 높이려면 어떻게 해야 하는가?’, ‘자존감에 영향을 끼치는 요인에는 어떤 것들이 있을까?’의 질문에 대한 답으로 구성된 이 책 『자존감의 여섯 기둥』에서 자존감에 가장 중요한 영향을 끼치는 요인을 깊이 있고 폭넓게 다룬다.\n\n‘의식적으로 살기’, ‘자기 받아들이기’, ‘자기 책임지기’, ‘자기 주장하기’, ‘목적에 집중하기’, ‘자아 통합하기’라는 행동에 기반을 둔 6가지 실천이 바로 자존감을 지탱하는 여섯 기둥이자 건강한 자존감을 결정짓는 요인들이다. 결국 자존감은 오직 나만이 느낄 수 있으며, 자존감의 수준을 결정하는 것도 나 자신이다. 그 누구도 아닌, 내가 ‘내 편’이 되어줄 때이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "교양인",
+                "DDC": "155.2",
+                "UPDATE_DATE": "20150709",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "너새니얼 브랜든 ",
+                "SERIES_TITLE": "",
+                "KDC": "182.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4647008_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4647008_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015015816",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991799073",
+                "INPUT_DATE": "20150608",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "자존감의 여섯 기둥 ",
+                "PUBLISH_PREDATE": "20150626",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

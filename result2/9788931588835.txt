@@ -1,0 +1,67 @@
+{
+    "otitle": "물리로 보는 스포츠",
+    "oauthor": "모치즈키 오사무 저/이영란 역/이재우 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잠 못들 정도로 재미있는 이야기: 물리로 보는 스포츠",
+                "link": "https://search.shopping.naver.com/book/catalog/32461367877",
+                "image": "https://shopping-phinf.pstatic.net/main_3246136/32461367877.20221230071738.jpg",
+                "author": "모치즈키 오사무",
+                "discount": "8820",
+                "publisher": "성안당",
+                "pubdate": "20200630",
+                "isbn": "9788931588835",
+                "description": "스포츠를 보는 눈이 달라진다!\n기록이 경신된다! 강해진다!\n스포츠 관전이 100배 즐거워진다!\n총 44개 경기를 물리로 풀어본다.\n\n〈100m 달리기에서 인간의 한계는 9.21초?〉, 〈축구에서 코너킥의 공과 헤딩 각도는?〉, 〈멀리뛰기에서 관객의 박수는 과연 플러스로 적용될까?〉, 〈농구에서 3점 슛을 결정하는 방법은?〉 등 총 44개 스포츠 운동을 물리적으로 풀어보면 스포츠를 보는 눈이 바뀝니다.\n이 책은 물리와 스포츠의 관계를 접목시켜 어떻게 하면 기록 경신이 되는지를 다각도로 풀어 정리해 놓았습니다. 따라서 이 책이 스포츠와 물리가 밀접하게 연결되어 있다는 것을 깨닫고 실제로 스포츠에 활용할 수 있으면 좋겠습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20221201",
+                "EA_ADD_CODE": "04080",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "저자 : 모치즈키 오사무;감수자 : 이재우;역자 : 이영란;",
+                "SERIES_TITLE": "잠 못들 정도로 재미있는 이야기",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788931588897",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "136",
+                "CONTROL_NO": "",
+                "SERIES_NO": "5",
+                "EA_ISBN": "9788931588835",
+                "INPUT_DATE": "20200624",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "물리로 보는 스포츠",
+                "PUBLISH_PREDATE": "20200630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

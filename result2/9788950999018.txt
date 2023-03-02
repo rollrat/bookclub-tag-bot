@@ -1,0 +1,67 @@
+{
+    "otitle": "AI는 차별을 인간에게서 배운다",
+    "oauthor": "고학수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "AI는 차별을 인간에게서 배운다 (인간과 기술의 공존을 위해 다시 세우는 정의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445707707",
+                "image": "https://shopping-phinf.pstatic.net/main_3244570/32445707707.20221019152134.jpg",
+                "author": "고학수",
+                "discount": "14400",
+                "publisher": "21세기북스",
+                "pubdate": "20220126",
+                "isbn": "9788950999018",
+                "description": "서울대 가지 않아도 들을 수 있는 명강의, ‘서가명강’\n인간과 기술의 공존을 위해 던지는 가장 뜨거운 쟁점들\n\n대한민국 최고의 명품 강의를 책으로 만난다! 현직 서울대 교수진의 강의를 엄선한 ‘서가명강(서울대 가지 않아도 들을 수 있는 명강의)’ 시리즈의 스물두 번째 책이 출간됐다. 역사, 철학, 과학, 의학, 예술 등 각 분야 최고의 서울대 교수진들의 명강의를 책으로 옮긴 서가명강 시리즈는 독자들에게 지식의 확장과 배움의 기쁨을 선사하고 있다.\n『AI는 차별을 인간에게서 배운다』는 한국인공지능법학회장과 서울대 인공지능정책 이니셔티브 공동디렉터를 맡고 있는 서울대학교 법학전문대학원 고학수 교수가 쓴 책으로, 새로운 기술이 우리 사회에 미치는 영향은 무엇인지, 제도와 정책은 어떻게 대응하고 변화해야 하는지에 대한 고민을 담고 있다. 이 책에서는 인공지능이 어디까지 왔는지 진단하고, 인공지능의 활용으로 파생한 문제와 논란을 짚어보며, 우리 사회가 어떤 준비를 해야 할지 알아본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20220328",
+                "EA_ADD_CODE": "04300",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "고학수 지음",
+                "SERIES_TITLE": "서가명강 세트",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788950979423",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "265 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "22",
+                "EA_ISBN": "9788950999018",
+                "INPUT_DATE": "20220107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "AI는 차별을 인간에게서 배운다",
+                "PUBLISH_PREDATE": "20220126",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

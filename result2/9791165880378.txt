@@ -1,0 +1,67 @@
+{
+    "otitle": "만돌이",
+    "oauthor": "윤동주 글/김정민 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "만돌이",
+                "link": "https://search.shopping.naver.com/book/catalog/32489564717",
+                "image": "https://shopping-phinf.pstatic.net/main_3248956/32489564717.20230218110351.jpg",
+                "author": "윤동주",
+                "discount": "11700",
+                "publisher": "북극곰",
+                "pubdate": "20200928",
+                "isbn": "9791165880378",
+                "description": "순수하고 맑은 윤동주의 동시가\n『행복한 가방』 김정민 작가의 개구지고 정겨운 그림을 만나 새롭게 태어나다!\n\n만돌이가 학교에서 돌아오다가 전봇대 있는 데서 돌재기 다섯 개를 주웠습니다. 전봇대를 겨누고 돌재기 한 개를 뿌렸습니다. 딱! 두 개째 뿌렸습니다. 아뿔싸! 과연 만돌이는 돌재기로 뭘 하려는 걸까요? 『만돌이』는 시험에 대한 걱정을 재미있는 장난으로 해결하는 어린이의 천진난만함이 돋보이는 윤동주의 동시를 김정민 작가의 개구지고 정겨운 상상력으로 빚어낸, 놀라운 그림책입니다. 친구들과 마냥 놀고 싶은 아이의 순수한 마음이 담겨 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20201111",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "윤동주 동시 ;김정민 그림",
+                "SERIES_TITLE": "북극곰 꿈나무 그림책",
+                "KDC": "811.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/06/9791165880378.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "180*243",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[35] p.",
+                "CONTROL_NO": "CIP2020032856",
+                "SERIES_NO": "71",
+                "EA_ISBN": "9791165880378",
+                "INPUT_DATE": "20200806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "만돌이",
+                "PUBLISH_PREDATE": "20200928",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

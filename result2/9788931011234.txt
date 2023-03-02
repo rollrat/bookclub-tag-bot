@@ -1,0 +1,67 @@
+{
+    "otitle": "분열된 자기",
+    "oauthor": "로널드 랭 저/신장근 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "분열된 자기 (온전한 정신과 조현병에 대한 연구)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466679978",
+                "image": "https://shopping-phinf.pstatic.net/main_3246667/32466679978.20221227205451.jpg",
+                "author": "로널드 랭",
+                "discount": "16200",
+                "publisher": "문예출판사",
+                "pubdate": "20181120",
+                "isbn": "9788931011234",
+                "description": "조현성 성격장애와 조현병에 대한 연구사에서 기념비적인 연구서!\n\n심리학 분야의 세계적 연구자인 로널드 데이비드 랭의 대표작 『분열된 자기』. 1960년 첫 출간 이후 조현병 연구는 물론 정신분석학 연구에 있어 코페르니쿠스적 전환을 가져왔다고 평가받고, 정신분석학 연구에 있어 중요한 저작으로 인정받는 책이다. 저자는 이 책에서 정신의학적 도움을 구하려고 찾아온 사람들을 단순히 어쩔 수 없는 환자로만 볼 것이 아니라 자신의 세계와의 관계에서 불화를 경험하고 자신과의 관계에서 분열을 경험한 사람으로 이해하자고 제안한다. \n\n1950년대까지 정신병 환자란 단지 정신이 불안정한 사람이 무의미한 환상과 강박관념에 사로잡혀 있다고 생각했다. 그리고 이에 대한 치료는 환자가 증상을 의사에게 말하고 그에 따른 특정한 행동을 강요하거나 약물치료를 강제로 행하는 것이었다. 저자는 당시 이런 정신병 치료 과정에 이의를 제기했고, 실존주의 철학과 현상학에 대한 깊은 이해를 바탕으로 정신증 환자에게 정신증이 무엇을 의미하는지, 그리고 어떤 역할을 하는지에 초점을 맞추어 설명한다. \n\n저자는 조현병 환자를 색안경을 낀 시선으로 바라보는 것에 반대했다. ‘우리와 같은’ 사람이기 때문에 우리는 조현병 환자를 이해하고 공감할 수 있다고 이야기한 저자는 조현병에 걸린 개인들을 만나면서 그 한 사람, 한 사람을 증상의 덩어리로 보는 대신, 실제로 그 사람들에게 말을 건네고, 그들이 해야만 하는 이야기에 귀를 기울여주었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문예출판사",
+                "DDC": "616.89",
+                "UPDATE_DATE": "20181128",
+                "EA_ADD_CODE": "93180",
+                "PUBLISHER_URL": "http://www.moonye.com",
+                "AUTHOR": "로널드 랭 지음 ;신장근 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "513.89",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6977757_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6977757_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "359 p.",
+                "CONTROL_NO": "CIP2018035030",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931011234",
+                "INPUT_DATE": "20181030",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "분열된 자기",
+                "PUBLISH_PREDATE": "20181120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

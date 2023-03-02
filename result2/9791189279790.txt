@@ -1,0 +1,67 @@
+{
+    "otitle": "모든 대화는 심리다",
+    "oauthor": "오수향 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모든 대화는 심리다 (오해를 피하고 마음을 여는 심리 대화법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485537986",
+                "image": "https://shopping-phinf.pstatic.net/main_3248553/32485537986.20221019152413.jpg",
+                "author": "오수향",
+                "discount": "12600",
+                "publisher": "유노북스",
+                "pubdate": "20191030",
+                "isbn": "9791189279790",
+                "description": "사람 사이에 작용하는 심리를 알면 대화도, 관계도 바꿀 수 있다!\n\n심리 대화 전문가 오수향이 48가지 심리 법칙과 풍성한 사례를 통해 오해가 생기는 심리적 이유와 다양한 상황에서 상대방의 마음을 열고 소통할 수 있는 심리 대화법을 세세하게 안내하는 『모든 대화는 심리다』. 인간관계에 어려움을 호소하는 사람들에게 심리와 대화의 상관관계부터 마음 상태가 대화와 관계에 미치는 영향을 이해하고 말 때문에 어긋났던 가족, 친구, 연인, 직장 동료와의 관계를 바로잡을 수 있도록 도와준다.\n\n오해가 생기고 급기야 관계까지 틀어지는 이유의 대부분은 잘못된 언어와 행동 습관 때문이다. 많은 사람이 오해를 일으키는 원인을 무심코 일으키고, 많은 오해가 나만의 관점으로 말을 전하기 때문에 일어난다. 저자는 상대방의 직종, 연령, 성별 등에 따라 전달 방법을 달리 해야 한다고 이야기하면서 이 책을 통해 그동안 성급한 추측과 불확실한 판단으로 어렵기만 했던 대화와 관계에서 벗어나 나 자신과 상대방을 이해하고 흔들리지 않는 관계에 가까워질 수 있도록 이끌어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200410",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 오수향",
+                "SERIES_TITLE": "",
+                "KDC": "802.56",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "224",
+                "CONTROL_NO": "CIP2019041835",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189279790",
+                "INPUT_DATE": "20191020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "모든 대화는 심리다",
+                "PUBLISH_PREDATE": "20191030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

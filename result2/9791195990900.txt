@@ -1,0 +1,78 @@
+{
+    "otitle": "달의 조각",
+    "oauthor": "하현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:31 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "달의 조각 (불완전해서 소중한 것들을 위한 기록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441031562",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441031562.20220527023912.jpg",
+                "author": "하현",
+                "discount": "0",
+                "publisher": "빌리버튼",
+                "pubdate": "20170125",
+                "isbn": "9791195990900",
+                "description": "『달의 조각』은 수많은 사람들의 마음을 사로잡은 독립출판물《달의 조각》을 새로운 글과 디자인으로 리뉴얼하여 출간한 책이다. 자꾸만 읽고 싶고 마음에 담고 싶은, 수많은 사람들의 마음을 사로잡은 문장들이 담겨 있다. 글을 쓰며 살고 싶은 작가 하현은 자신의 생각과 일상이 담긴 글을 인스타그램에 올리기 시작했고 사람들의 공감을 얻었다."
+            },
+            {
+                "title": "달의 조각(겨울 한정 스페셜 에디션) (불완전해서 소중한 것들을 위한 기록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445182402",
+                "image": "https://shopping-phinf.pstatic.net/main_3244518/32445182402.20230103165126.jpg",
+                "author": "하현",
+                "discount": "13320",
+                "publisher": "빌리버튼",
+                "pubdate": "20181030",
+                "isbn": "9791188545339",
+                "description": "온 마음을 다하여 읽고 싶은 책, 《달의 조각》‘겨울 한정 스페셜 에디션’\n《언어의 온도》 작가 이기주, 싱어송라이터 안녕하신가영,  대표 정지혜, \n워너원·뉴이스트 황민현, 연기자 정소민이 선택한 책!\n\n지난해 많은 독자들에게 사랑을 받은 책,《달의 조각》이 ‘겨울 한정 스페셜 에디션’으로 출간되었다. 감성적이지만 단호한 작가의 글은 겨울과 제법 잘 어울린다. 독자들도 겨울을 떠올리게 하는 책이라고 말하기도 한다. 작가가 사랑하는 계절, 겨울의 느낌을 한껏 묻혀 다시 탄생했다. 독자에게 전하는 진심이 담긴 작가의 인사를 비롯하여 지난 책에 담지 못한 50페이지 정도의 원고가 ‘속삭이는 비밀’이라는 제목으로 추가되었다. 새 옷을 입은《달의 조각》은 불완전한 시기를 살아가는 우링에게 따뜻한 말 한마디를 건넬 것이다. ‘우리는 모두 미완성이라고, 불완전하지만 우리의 존재는 더 없이 소중하다고.’\n\n밖의 공기에서 겨울 냄새가 느껴지면 어쩔 수 없이 조금 설레고 맙니다. 편애하는 계절이 다가오는 기척이기 때문이겠지요. 사람은 결국 태어난 계절을 가장 좋아하게 된다는 말은 사실일까요. 그 말의 기준이 되는 사람으로 오래 살아왔습니다. 겨울이었습니다. … 여전히 그 혹독한 계절을 사랑합니다. 가장 추운 날 가장 큰 힘이 되었던 서로의 온기 덕분입니다. 서툰 글에 마음을 내어 주신 당신께 그때 말하지 못한 몇 장의 비밀을 속삭입니다.\n받은 온기에 대한 조그만 보답이 되었으면 좋겠습니다.” _스페셜 프롤로그 중에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20170306",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하현",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6035846_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6035846_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "288",
+                "CONTROL_NO": "CIP2016032651",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195990900",
+                "INPUT_DATE": "20161229",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "달의 조각",
+                "PUBLISH_PREDATE": "20170125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

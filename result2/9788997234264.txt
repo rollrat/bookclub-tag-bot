@@ -1,0 +1,67 @@
+{
+    "otitle": "발표의 정석",
+    "oauthor": "박승주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "발표의 정석 (두려움 없이 떨림 없이 성과를 내는 발표기술의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503869828",
+                "image": "https://shopping-phinf.pstatic.net/main_3250386/32503869828.20220527051420.jpg",
+                "author": "박승주",
+                "discount": "0",
+                "publisher": "나비의활주로",
+                "pubdate": "20140805",
+                "isbn": "9788997234264",
+                "description": "[발표의 정석]은 10여 년 동안 발표기술에 대해 강의와 클리닉을 하고 있는 저자의 노하우를 소개하고 발표의 스킬을 익힐 수 있도록 도와주는 책이다. 일을 추진하기 위한 직장인들, 강사, 취업준비생 등 퍼스널 브랜딩의 개념에서 중요한 부분을 차지하는 발표에 대해 알아보고, 발표하는 방법을 익혀 성과를 낼 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나비의 활주로",
+                "DDC": "",
+                "UPDATE_DATE": "20211025",
+                "EA_ADD_CODE": "15320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김세준, 홍자윤",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "7000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "Y",
+                "REAL_PRICE": "",
+                "FORM": "전자책",
+                "FORM_DETAIL": "EPUB",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997234264",
+                "INPUT_DATE": "20150428",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "N",
+                "TITLE": "슈퍼신입사원",
+                "PUBLISH_PREDATE": "20150428",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "돈되는 실전 라이브 커머스",
+    "oauthor": "황윤정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "돈되는 실전 라이브 커머스",
+                "link": "https://search.shopping.naver.com/book/catalog/32445467728",
+                "image": "https://shopping-phinf.pstatic.net/main_3244546/32445467728.20221019142023.jpg",
+                "author": "황윤정",
+                "discount": "19800",
+                "publisher": "성안당",
+                "pubdate": "20211014",
+                "isbn": "9788931557763",
+                "description": "위드 코로나 시대, 소상공인을 위한\n돈되는 실전 라이브 커머스\n\n스마트폰에서 TV홈쇼핑을 그대로 옮겨온 듯한 라이브 커머스는 코로나19로 인해 어려움에 처한 소상공인을 위한 제품 홍보 및 판매 방법으로 인기를 얻고 있다. \n생생한 정보 전달은 물론 소상공인 개인이 직접 쇼호스트가 되어 상세한 설명과 라방만의 혜택이 많은 소비자를 라이브 커머스의 세계로 이끌 수 있기 떄문이다. 그동안 TV홈쇼핑은 입점하기만 하면 대박이 가능한 판매 채널이었지만 중소제조업체나 개인에게는 메인 TV채널의 시청 시간 확보와 높은 수수료 부담 등으로 인해 선뜻 진입하기 어려운 매체였다. 반면 라이브 커머스는 셀러 누구나에게 활짝 열린 시장으로 소규모 쇼핑몰을 운영하는 개인도 쇼호스트가 되어 소비자와 직접 소통하며 마음껏 도전할 수 있는 시장이다. \n[돈되는 실전 라이브 커머스]는 처음 시작하는 소상공인을 위한 라이브 커머스 입점 방법부터 라이브 방송을 하기 위한 준비와 장비, 라이브 커머스 플랫폼별 진행 방법을 설명하고 있다. 또한 라이브 방송을 위한 쇼호스트로서 필요한 준비 방법 등을 친절하게 소개하고 있다. 모든 내용은 저자가 직접 쇼호스트가 되어 생각해보고 발로 뛰면서 취재하고 정리하여 생생한 현장의 목소리를 들을 수 있다. 저자는 쇼핑몰을 직접 운영해 보고 강의해본 전문가로서의 경험을 살려 라이브 커머스를 활용할 때 소비자에게 제품을 잘 팔 수 있는 노하우에 대해서도 이 책에서 상세하게 설명하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20211111",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "지은이: 황윤정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/10/01/9788931557763.jpg",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931557763",
+                "INPUT_DATE": "20211001",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "돈되는 실전 라이브 커머스",
+                "PUBLISH_PREDATE": "20211014",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

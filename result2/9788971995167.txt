@@ -1,0 +1,67 @@
+{
+    "otitle": "마스크가 말해주는 것들",
+    "oauthor": "추지현 편/공성식 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마스크가 말해주는 것들 (코로나19와 일상의 사회학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436320015",
+                "image": "https://shopping-phinf.pstatic.net/main_3243632/32436320015.20221230071742.jpg",
+                "author": "공성식^김미선^김재형^김정환^박해남^백영경^오하나^유현미^장진범",
+                "discount": "12690",
+                "publisher": "돌베개",
+                "pubdate": "20200807",
+                "isbn": "9788971995167",
+                "description": "거리두기, 동선 공개, 돌봄, 가족, 노동…\n코로나가 만든 일상, 코로나를 만든 일상에 관한\n10편의 사회학적 에세이 \n\n‘포스트 코로나 시대’, ‘뉴노멀’ 등 코로나19를 둘러싼 거대담론이 놓치고 있는 것은 없을까? 이러한 문제의식을 바탕으로 문화·의료·젠더·정치·노동·종교 등 다양한 영역의 사회학 연구자와 활동가들이 모여, 코로나19 이후를 살아가는 사람들의 구체적인 생활, 즉 우리의 일상으로부터 근본적인 이야기를 시작한다. 비대면과 재택근무, 동선 공개, 신천지, 돌봄노동과 여성, 가족, 노동, 민주주의와 모더니티의 문제까지 폭넓은 논의가 펼쳐진다. 하지만 이 책이 말하는 일상은 코로나19가 바꾼 일상인 동시에 코로나19를 만들어낸 일상이기도 하다. 코로나19로 불거진 문제들은 지금껏 살아왔던 삶의 방식과 무관하지 않으며, “사람들의 일상으로부터 불평등과 부정의를 이해하는 작업은 코로나19가 증폭시킨 과제”다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "돌베개",
+                "DDC": "",
+                "UPDATE_DATE": "20200902",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "www.dolbegae.com",
+                "AUTHOR": "추지현 엮음 ;공성식,김미선,김재형,김정환,박해남,백영경,오하나,유현미,장진범,추지현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "304",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2020030418",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788971995167",
+                "INPUT_DATE": "20200721",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마스크가 말해주는 것들",
+                "PUBLISH_PREDATE": "20200807",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

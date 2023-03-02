@@ -1,0 +1,67 @@
+{
+    "otitle": "저 청소일 하는데요?",
+    "oauthor": "김예지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "저 청소일 하는데요? (조금 다르게 살아보니, 생각보다 행복합니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439440740",
+                "image": "https://shopping-phinf.pstatic.net/main_3243944/32439440740.20230110163702.jpg",
+                "author": "김예지",
+                "discount": "12600",
+                "publisher": "21세기북스",
+                "pubdate": "20190207",
+                "isbn": "9788950979591",
+                "description": "다르기에 더 행복할 수 있었다!\n\n27살. 스스로를 책임져야 하는 어른이기에, 꿈만 쫓고 있을 수 없었고, 그래서 꿈과 생계를 모두 가능하게 해줄 직업으로 청소 일을 시작한 저자가 지난 4년간 저자가 경험하고, 느꼈던 삶의 여러 순간들을 담은 『저 청소일 하는데요?』. 생계와 꿈 사이에서 고민하다 직업으로 꿈을 이룰 수는 없다고 생각해 내린 결정이었지만 청소 일은 저자에게도 낯선 직업이었다. \n\n타인이 만든 편견뿐 아니라 스스로 만든 편견과도 싸워야 했다. 그러나 힘들 것 같고, 괴롭기만 할 것 같은 낯선 직업이 오히려 새로운 삶을 선물해 주었다. 남과 다른 경험들 속에서 생각이 자랐고, 익숙하지 않은 상황들은 특별한 이야기가 되었다. 꿈꾸던 그림 그리는 일도 계속할 수 있었다. 결국 꿈에도 한발 더 가까워 진 셈이다. 피하고 싶은 상황처럼 보이지만 저자는 그 시간들을 돌아보며 이렇게 이야기 한다. \"조금 다르게 살아보니, 생각보다 행복합니다.\""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일)",
+                "DDC": "",
+                "UPDATE_DATE": "20190410",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "글·그림: 김예지",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20190207",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "17,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950979591",
+                "INPUT_DATE": "20190208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "저 청소일 하는데요? ",
+                "PUBLISH_PREDATE": "20190207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

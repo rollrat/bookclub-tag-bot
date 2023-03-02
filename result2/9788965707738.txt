@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 오늘 모리셔스의 바닷가를 달린다",
+    "oauthor": "안정은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 오늘 모리셔스의 바닷가를 달린다 (하루 30분 달리기로 인생을 바꾼 기적 같은 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440264158",
+                "image": "https://shopping-phinf.pstatic.net/main_3244026/32440264158.20230219103428.jpg",
+                "author": "안정은",
+                "discount": "13500",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20190327",
+                "isbn": "9788965707738",
+                "description": "“힘껏 달리고 나면 그날을 버틸 힘이 생겼다.\n이것이 내가 달리기를 시작한 진짜 이유다.”\n\n러닝 영상 100만 뷰 돌파! 국내 최고의 ‘런스타(Run Star)’ 안정은 \n“직장도, 미래도 없던 나는 달리기를 통해 새로운 꿈을 찾았다.”\n\n‘러닝계의 연예인’이라고 불리는 핫한 러너 안정은. 운동선수나 전공자도 아닌 그녀가 뉴발란스, 아식스 등 스포츠브랜드와 지프, 폭스바겐 등 자동차업계, 금융, 화장품브랜드 등 세계적 기업의 메인모델로 활동 중이다. ≪나는 오늘 모리셔스의 바닷가를 달린다≫는 평범한 20대 백수였던 저자가 하루 30분 달리기로 인생을 바꾼 기적 같은 이야기를 담고 있다. 삶의 무게에 짓눌려 있거나 의기소침해진 마음에 변화가 필요하다면, 삶의 장애물을 통과한 그녀의 레이스에 귀 기울이자!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20190402",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "안정은 지음",
+                "SERIES_TITLE": "",
+                "KDC": "694.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "246 p.",
+                "CONTROL_NO": "CIP2019007835",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965707738",
+                "INPUT_DATE": "20190228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 오늘 모리셔스의 바닷가를 달린다",
+                "PUBLISH_PREDATE": "20190327",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

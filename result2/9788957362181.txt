@@ -1,0 +1,67 @@
+{
+    "otitle": "사소한 건강 법칙",
+    "oauthor": "김영철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사소한 건강 법칙 (아픈 사람은 무시하고 건강한 사람은 따르는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445095792",
+                "image": "https://shopping-phinf.pstatic.net/main_3244509/32445095792.20221227204321.jpg",
+                "author": "김영철",
+                "discount": "13500",
+                "publisher": "가나출판사",
+                "pubdate": "20210427",
+                "isbn": "9788957362181",
+                "description": "너무 사소해서 무심코 넘기는 우리 몸의 신호,\n사소한 신호에 귀를 기울여야 평생 건강하게 살 수 있다!\n\n다정하고 섬세한 동네 주치의인 저자는 자신의 진료실에서 늘 잔소리꾼이 된다. 많은 환자가 사소하다고 무시하고 있다가 병을 키워오기 때문이다. 그의 주장에 따르면 나만 아는 사소한 건강 변화를 알아채는 것이 큰 병을 막고 평생 건강하게 사는 비법이다. 이런 저자의 주장은 예방적 측면에서 사람들이 ‘쉽게 무시하고 지나치는 건강 신호’와 ‘건강한 사람들이 따르는 건강 법칙’을, 또 관리 측면에서 ‘생활 속에서 지켜나가야 할 건강 습관’ 등 3개의 주제로 나눠 설명한다. 각 주제에는 증세에 따라 예측되는 주요 질병, 식사, 생활 등에서 환자가 유의할 점, 실제 병원에서 행해지는 치료 방법, 현장에서 주로 사용하는 치료 약명, 후유증세 등을 명료하게 소개한다.\n\n이 책은 우리가 아는 것 같지만 제대로 몰랐던 건강 지식을 그 원인을 파헤치고, 이로 인한 초기 사소한 징후 소개함으로써 독자 스스로 건강을 체크할 수 있도록 돕는 책이다. 독자들은 지금 내 몸에서 일어나고 있는 의학적 변화에 대해 더 자세히 알고, 자신의 몸을, 건강을 어떤 눈으로 바라봐야 할지 그래서 큰 질병으로 진행되는 것을 어떻게 막을 수 있을지 기준을 세울 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가나 :가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20210727",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "김영철 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "248 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957362181",
+                "INPUT_DATE": "20210203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(아픈 사람은 무시하고 건강한 사람은 따르는) 사소한 건강 법칙",
+                "PUBLISH_PREDATE": "20210427",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "평양에서 걸려온 전화",
+    "oauthor": "고호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "평양에서 걸려온 전화",
+                "link": "https://search.shopping.naver.com/book/catalog/32461502039",
+                "image": "https://shopping-phinf.pstatic.net/main_3246150/32461502039.20230207165415.jpg",
+                "author": "고호",
+                "discount": "12600",
+                "publisher": "델피노",
+                "pubdate": "20191125",
+                "isbn": "9791196757335",
+                "description": "평양에서 걸려온 전화로 펼쳐지는 기상천외한 이야기\n\n만약 평양에서 전화가 온다면? 어느 날, 낯선 번호로 걸려온 전화. 발신지는 다름 아닌 북한의 평양. 나는 어떻게 할 것인가? 어쩐지 오싹해서 끊어 버릴 것인가, 호기심에 통화를 이어 나갈 것인가. 〈평양에서 걸려온 전화〉는 만날 수 없어 애달픈 마음에 한 번쯤 상상했던, 또 일어나길 고대했던 일들이 과감하게 펼쳐지는 소설이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "델피노",
+                "DDC": "",
+                "UPDATE_DATE": "20200115",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.delpinobooks.com",
+                "AUTHOR": "지은이: 고호",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/04/9791196757335.jpeg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "360 p.",
+                "CONTROL_NO": "CIP2019044633",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196757335",
+                "INPUT_DATE": "20191104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "평양에서 걸려온 전화",
+                "PUBLISH_PREDATE": "20191125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

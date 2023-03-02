@@ -1,0 +1,67 @@
+{
+    "otitle": "기억이 머무는 밤",
+    "oauthor": "현동경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기억이 머무는 밤 (현동경 여행에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497181647",
+                "image": "https://shopping-phinf.pstatic.net/main_3249718/32497181647.20221228073540.jpg",
+                "author": "현동경",
+                "discount": "12420",
+                "publisher": "상상출판",
+                "pubdate": "20180102",
+                "isbn": "9791187795490",
+                "description": "여행길 위에서 만나고 보고 듣고 겪은 순간들을 오래도록 잊지 않고 기억하기 위해 차곡차곡 빼곡히 담아냈다. 작가는 여행에세이가 흔히 말하는 ‘용기’를 이야기하지 않는다. 용기를 갖고 떠나라고 강요하지도, 여행은 좋은 것이라고 무턱대고 꾸미지도 않는다. ‘나 이만큼 여행했다’ 자랑하지도 않으며 ‘내 여행은 이랬다’고 구구절절 이야기를 늘어놓지도 않는다. \n\n\n\n작가 역시 수없이 길 위를 떠도는 여행자이지만, 여행이 유행처럼 번지기 시작하면서 떠나는 것마저도 경쟁을 하게 된 요즘의 현실에, 너무나도 쉽게 “용기를 갖고 떠나라”고 등 떠미는 사람들에 과감히 불편한 시선을 던진다. “돈 없고 집 없이 숱한 밤을 보냈지만 그럼에도 나는 여행이 좋다”고 말하면서도 나와 너의 다름을 인정하고 각자의 취향을 존중하며 쉽게 ‘그러니까 너도 좋을 거야’ ‘그러니까 떠나야 해’ 같은 말을 내뱉지 않는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "895.765",
+                "UPDATE_DATE": "20180108",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 현동경",
+                "SERIES_TITLE": "",
+                "KDC": "816.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6470539_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "CIP2017033794",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187795490",
+                "INPUT_DATE": "20171212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "기억이 머무는 밤",
+                "PUBLISH_PREDATE": "20180102",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

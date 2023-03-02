@@ -1,0 +1,67 @@
+{
+    "otitle": "주식투자 마법의 공식",
+    "oauthor": "정광옥 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마법의 주식투자 공식 (차트박사 성경호의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503831735",
+                "image": "https://shopping-phinf.pstatic.net/main_3250383/32503831735.20220527070440.jpg",
+                "author": "성경호",
+                "discount": "0",
+                "publisher": "매일경제신문사",
+                "pubdate": "20110912",
+                "isbn": "9788974427528",
+                "description": "돈이 되는 주식은 차트에 답이 있다!\n\n『마법의 주식투자 공식』은 차트박사 성경호가 오직 단기투자, 그것도 승률 80% 이상의 기법만 말한다. 이 책은 소수의 사람들만 얻을 수 있는 정보, 수익이 큰 만큼 한 번에 모든 것을 무너뜨릴 수 있을만큼 리스크가 큰 방법은 다루지 않는다. 주식의 기본만 알고 있으면 누구든지 돈을 벌 수 있는 가장 확실하고 쉬운 방법만을 이야기한다. 총 4장의 파트에 차트, 기법, 계좌관리, 마인드컨트롤을 수록하고 있으며 백상아리, 번지, 이격선, 엔벨로프, 이동평균선 등 그동안 차트박사를 최고의 주식고수로 만들고 3,500만 명의 사람들이 검증한 기법을 상세하게 풀어냈다. 기법의 설명 뿐 아니라 제대로 차트를 읽는 법, 수십 개의 실제 사례를 통해 차근하고 확실하게 기법을 자신의 것으로 만들 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20111005",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "성경호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788974427528",
+                "INPUT_DATE": "20111005",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(차트박사 성경호의) 마법의 주식투자 공식 ",
+                "PUBLISH_PREDATE": "20111004",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

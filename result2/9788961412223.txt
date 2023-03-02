@@ -1,0 +1,67 @@
+{
+    "otitle": "정지천 교수의 약이 되는 음식 상식사전",
+    "oauthor": "정지천 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정지천 교수의 약이 되는 음식 상식사전 (음식이 건강을 만든다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436359658",
+                "image": "https://shopping-phinf.pstatic.net/main_3243635/32436359658.20221019125036.jpg",
+                "author": "정지천",
+                "discount": "14400",
+                "publisher": "중앙생활사",
+                "pubdate": "20181023",
+                "isbn": "9788961412223",
+                "description": "* 체질에 맞지 않는 음식은 독이 된다!\n* 건강을 유지시키며 질병을 예방하고 치료하는 음식의 힘!\n\n이 책은 한의대 교수로서 각종 라디오와 TV의 건강 관련 프로그램에 출연하여 음식 요법 및 한방 건강을 알려주는 정지천 교수가 평소 먹는 음식의 효능을 비롯하여 언제, 어떻게 먹어야 하는지 그 활용법을 알려주는 지침서다. 허준은 《동의보감》에서 “약식동원(藥食同源)”, 즉 음식이 곧 약이라고 했다. 약이 되는 음식의 효능을 설명하고, 각종 장수 음식과 건강식품, 슈퍼푸드 등도 자세히 소개하며, 여러 음식에 대한 이해를 넓혀 어떤 음식이 내 몸에 적합한지 판단하게 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙생활사",
+                "DDC": "615.854",
+                "UPDATE_DATE": "20181017",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "정지천 지음",
+                "SERIES_TITLE": "",
+                "KDC": "512.54",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6921151_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6921151_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "426 p.",
+                "CONTROL_NO": "CIP2018030653",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961412223",
+                "INPUT_DATE": "20180919",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(정지천 교수의) 약이 되는 음식 상식사전",
+                "PUBLISH_PREDATE": "20181023",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

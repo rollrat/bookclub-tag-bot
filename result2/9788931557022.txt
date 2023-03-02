@@ -1,0 +1,67 @@
+{
+    "otitle": "줌Zoom으로 강의하라!",
+    "oauthor": "홍영일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "줌(Zoom)으로 강의하라! (성공적인 찐 줌 수업 워크숍)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436150746",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436150746.20221229072015.jpg",
+                "author": "홍영일",
+                "discount": "18150",
+                "publisher": "성안당",
+                "pubdate": "20210527",
+                "isbn": "9788931557022",
+                "description": "국내 최고의 줌 연수 강사, 교수들의 줌 멘토인 홍박사의 \n강의자를 위한 수업 유형별 줌 활용 노하우! \n성공적인 찐 줌 수업 워크숍\n줌Zoom으로 강의하라!\n\n코로나 팬데믹으로 인한 원격수업화로 대학가에서 초·중·고등학교에서 시급하게 수업 방식으로 선택된 줌(Zoom)은 이제 그 자체로 하나의 수업 방식이 되었다. \n교육적 목적으로 강의자적 관점에서 줌을 어떻게 잘 활용할 것인가에 초점을 맞춘 이 책은  교수님들이나 선생님들이 입소문으로 찾던 줌 일등 연수 강사 홍영일 박사의 70만 조회수 유튜브 ‘홍영일어린왕자’의 내용을 저자 표현대로 ‘세상 쉽게’ 설명한 책이다. 부록으로 홍박사 유튜브의 목록과 QR코드를 제공하므로 책 내용으로 이해가 안 가면 바로 설명을 실시간으로 들을 수 있다.  \n줌과 같이 수업하면 좋은 앱인 패들릿, 멘티미터, 소크라티브, 카훗과 줌을 어떻게 적절하게 활용하면 좋은지도 설명한다. 또 인하대의 요가 수업, 서울대의 등산 수업 등 실제 수업 사례와 다른 교수의 줌 수업 팁, 수업을 들은 수강자들의 수업 후기 등도 수록되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210721",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "홍영일 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/05/20/9788931557022.jpg",
+                "PRE_PRICE": "21000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "180*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931557022",
+                "INPUT_DATE": "20210518",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "줌으로 강의하라!",
+                "PUBLISH_PREDATE": "20210527",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

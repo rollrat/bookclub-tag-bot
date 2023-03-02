@@ -1,0 +1,67 @@
+{
+    "otitle": "라캉은 정신분석에 대해 이렇게 말했습니다",
+    "oauthor": "가타오카 이치타케 저/임창석 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "라캉은 정신분석에 대해 이렇게 말했습니다 (나를 찾아가는 라캉의 정신분석)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456299772",
+                "image": "https://shopping-phinf.pstatic.net/main_3245629/32456299772.20221227210223.jpg",
+                "author": "가타오카 이치타케",
+                "discount": "16200",
+                "publisher": "이학사",
+                "pubdate": "20191015",
+                "isbn": "9788961473460",
+                "description": "라캉의 정신분석을 알기 쉽게 써내려간 최고의 라캉 입문서\n\n정신분석이란 무엇인가? 이 책 『라캉은 정신분석에 대해 이렇게 말했습니다』는 정신분석을 창시하고 그 이론을 확립시킨 프로이트를 발판 삼아 정신분석을 재해석하고 현대적으로 부활시킨 라캉의 이론을 중심으로 정신분석을 살펴본다. 만 24세의 나이로 와세다대학에서 현대 철학과 정신분석을 공부하고 있는 일본의 주목받는 젊은 학자 가타오카 이치타케는 이 책에서 다양한 사례와 도식을 바탕으로 라캉의 정신분석 이론과 정신분석의 임상적 측면을 해설한다. 어렵고 난해하기로 정평이 난 라캉을 ‘누구라도 알기 쉽게 써내려간 라캉 입문서’, ‘뛰어난 수완과 압도적인 필력’이라는 일본 평단의 찬사를 받으며 이 책은 출간과 함께 현지 독자들을 매료시켰다. 『라캉 대 라캉』의 저자 무카이 마사아키 역시 이 책의 서문에서 지은이를 젊은 나이에 라캉의 세미나에 참석하여 수준 높은 질문으로 자신의 존재를 드러냈던 자크알랭 밀레에 비유하면서 이 책을 높이 평가하고 있다. 무의식, 욕동, 거울 단계 등의 다양한 키워드를 따라 글을 읽어나가다 보면 라캉의 정신분석이 임상실천에서 괴리된 철학적인 사변이라는 오해를 말끔히 해소하게 될 것이며, “어떻게 살아야 하는가?”라는 정신분석의 근간을 이루는 문제와 대면해 자신의 욕망이 그리는 윤곽을 파악하고 자신만의 ‘사는 방식’을 찾는 여행을 시작하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이학사",
+                "DDC": "",
+                "UPDATE_DATE": "20191018",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "가타오카 이치타케 지음 ;임창석 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "185.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/23/9788961473460.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "318 p.",
+                "CONTROL_NO": "CIP2019037655",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961473460",
+                "INPUT_DATE": "20190923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "라캉은 정신분석에 대해 이렇게 말했습니다",
+                "PUBLISH_PREDATE": "20191015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

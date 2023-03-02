@@ -1,0 +1,67 @@
+{
+    "otitle": "화학, 인문과 첨단을 품다",
+    "oauthor": "전창림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "화학, 인문과 첨단을 품다 (과학기술정보통신부 인증 우수과학도서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480656080",
+                "image": "https://shopping-phinf.pstatic.net/main_3248065/32480656080.20221019152256.jpg",
+                "author": "전창림",
+                "discount": "15120",
+                "publisher": "한국문학사",
+                "pubdate": "20191220",
+                "isbn": "9788987527819",
+                "description": "인문학과 최첨단 과학의 절묘한 ‘케미’,\n그 마법 같은 화학의 세계를 만나다!\n\n인문학과 경제학·건축·수학·의학·과학·통계학의 만남에 이어, 화학과 다른 학문과의 만남을 다룬 ‘융합과 통섭의 지식 콘서트’ 시리즈 제7권 ?화학, 인문과 첨단을 품다?가 출간된다. \n세상의 모든 것은 변하기 마련이다. 인간과 인간의 삶, 그리고 인간이 누리는 모든 것은 끊임없이 변화하는 속성을 지녔으며, 그 유구한 변화의 중심에서 변화의 실상을 탐구하고 새로운 변화를 이끌어내는 것이 화학이다. 이로 볼 때 화학은 실로 인문학의 정수라 할 만하다. 하지만 그간 전공자가 아니면 이해하기 힘든 영역으로 치부되어 왔는데, 이 책은 우리의 삶 자체가 화학이라는 사실을 적나라하게 드러냄으로써 독자들에게 매우 신선한 ‘화학의 세례’를 받게 할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국문학사",
+                "DDC": "",
+                "UPDATE_DATE": "20191231",
+                "EA_ADD_CODE": "03430",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전창림 지음",
+                "SERIES_TITLE": "",
+                "KDC": "430",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/02/9788987527819.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "407 p.",
+                "CONTROL_NO": "CIP2019049247",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788987527819",
+                "INPUT_DATE": "20191202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "화학, 인문과 첨단을 품다",
+                "PUBLISH_PREDATE": "20191220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

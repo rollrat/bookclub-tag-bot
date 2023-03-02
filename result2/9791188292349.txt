@@ -1,0 +1,67 @@
+{
+    "otitle": "동사의 삶",
+    "oauthor": "최준영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "동사의 삶 (책고집 최준영이 전하는 매일아침 인문단상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504628641",
+                "image": "https://shopping-phinf.pstatic.net/main_3250462/32504628641.20221019133117.jpg",
+                "author": "최준영",
+                "discount": "13320",
+                "publisher": "푸른영토",
+                "pubdate": "20171025",
+                "isbn": "9791188292349",
+                "description": "가장 낮은 곳에서 가장 가난한 사람들과 함께하는 실천인문학!\n\n노숙자 인문학의 창시자이자 거리의 인문학자로 활발하게 활동하며 바쁜 나날 속에서도 책과 펜을 놓지 않고 ‘매일 쓰기의 힘’을 이야기하고 있는 ‘책고집’ 최준영의 인문학 단상 『동사의 삶』. 어렵고 딱딱한 학문, 혹은 멋들어진 쇼맨십으로 꾸며진 인문학 강의가 아닌 저자의 일상이 고스란히 녹아있는, 뚜벅뚜벅 담담한 세상살이의 인문학을 말한다.\n\n1부에서는 단순히 학문적인 의미에서의 독서와 인문학이 아닌, 생활에서 접할 수 있는 인문학을 이야기한다. 능동적인 책읽기를 통해 떠오른 여러 단상을 이야기함으로서 독자를 더 깊은 사색의 길로 인도한다. 2부에서는 저자의 인생이야기를 들려준다. 솔직하고 감성적인 문장으로 자신의 삶을 이야기하며 독자의 삶까지 환기시킨다. 가족과 친구, 감정에 대한 단상을 소박하고 솔직하게 서술했다. \n\n3부는 글쓰기에 관한 이야기를 담고 있다. 글쓰기의 본질적인 이야기부터 어색한 문장을 고치는 법, 문장력을 기르는 방법론까지 총망라했다. 저자의 경험이 녹아있어 쉽고 재미있게 읽을 수 있다. 4부에서는 정치, 사회, 역사를 다루었다. 뼈 있는 문장들은 담담하지만 부조리한 사회의 일면을 날카롭게 비판한다. 낮은 곳의 가난한 이들을 위한 온기어린 시선은 사회의 시선이 미치지 못했던 세상을 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른영토",
+                "DDC": "",
+                "UPDATE_DATE": "20180111",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.blueto.co.kr",
+                "AUTHOR": "최준영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188292349",
+                "INPUT_DATE": "20180111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "동사의 삶",
+                "PUBLISH_PREDATE": "20171105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

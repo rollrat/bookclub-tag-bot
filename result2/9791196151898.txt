@@ -1,0 +1,67 @@
+{
+    "otitle": "뱀의 눈물",
+    "oauthor": "이윤희 글/이덕미 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뱀의 눈물",
+                "link": "https://search.shopping.naver.com/book/catalog/32436316965",
+                "image": "https://shopping-phinf.pstatic.net/main_3243631/32436316965.20221019140155.jpg",
+                "author": "이윤희",
+                "discount": "10800",
+                "publisher": "하마",
+                "pubdate": "20200304",
+                "isbn": "9791196151898",
+                "description": "보이는 겉모습이 중요한 게 아니에요.\n틀림이 아닌 다름일 뿐이에요.\n\n태어날 때부터 징그럽다는 소리를 듣게 된다면 어떤 기분일까요?\n뱀은 알에서 깨어나자마자 청설모에게 징그럽다는 소리를 듣고 마음이 아팠어요. 엄마 곰도 때까치도 갈라진 혀와 미끄러운 몸. 다리가 없는 모습의 뱀을 향해 징그럽다 했죠. 이런 뱀의 곁에 친구는 없었어요. 뱀의 겉모습이 나와 다르기 때문이었을까요? 뱀도 이유를 알지 못했어요. 자신의 잘못도 아닌 데 숨어다니 게 되고 상처 받는 말을 듣고 싶지 않았지요. 허물을 벗으면 달라질 것이란 생각에 하루하루를 기대와 희망으로 보냈지만 달라진 것이 없었던 뱀은 슬프고 억울한 눈물을 흘렸어요. 가슴 깊숙이에서 눈물을 흘리며 오랫동안 움직이지 않던 뱀은 달라져 있었어요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20200402",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이윤희 글 ;이덕미 그림",
+                "SERIES_TITLE": "하마랜드 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791196151881",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "59 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791196151898",
+                "INPUT_DATE": "20191128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "뱀의 눈물",
+                "PUBLISH_PREDATE": "20200205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

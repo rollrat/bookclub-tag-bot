@@ -1,0 +1,67 @@
+{
+    "otitle": "사실은 괜찮지 않았어",
+    "oauthor": "앵그리 애나 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사실은 괜찮지 않았어",
+                "link": "https://search.shopping.naver.com/book/catalog/32445098542",
+                "image": "https://shopping-phinf.pstatic.net/main_3244509/32445098542.20221228072319.jpg",
+                "author": "앵그리 애나",
+                "discount": "11970",
+                "publisher": "채륜서",
+                "pubdate": "20190210",
+                "isbn": "9791185401416",
+                "description": "공황발작부터 마지막 우울증 상담까지 250일간의 이야기\n\n“더 이상 미루지 않고 용기를 낸 나를 좋아한다.” 인기 작가 앵그리 애나의 에세이. 우울증을 인정하고 극복하기까지의 기록을 담았다. 자신의 감정을 무슨 말로 설명해야 할지 몰라 답답하지만 병원에 가는 것은 무서워 그냥 괜찮다고만 하는 당신을 위해 꼭 필요한 이야기다.\n이 책은 아픔마저 다른 사람과 비교하는 세상 속에서 자신의 고통을 감추고 애써 외면하는 데 익숙한 사람들에게 공감과 위로를 전한다. 자연스럽게 내 감정을 느끼고 어떤 부분은 나에게 상처였다고 받아들이는 계기가 될 것이다. 내가 정말 행복한 것인지 더 이상 의심하고 싶지 않은 이들에게 가닿기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "채륜서",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20190402",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.chaeryun.com",
+                "AUTHOR": "지은이: 앵그리 애나",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7109275_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7109275_3.jpg",
+                "PRE_PRICE": "13300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "224 p.",
+                "CONTROL_NO": "CIP2019001355",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185401416",
+                "INPUT_DATE": "20190111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사실은 괜찮지 않았어",
+                "PUBLISH_PREDATE": "20190210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

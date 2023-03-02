@@ -1,0 +1,67 @@
+{
+    "otitle": "탄탄한 논리력",
+    "oauthor": "브랜던 로열 저/정미화 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "탄탄한 논리력 (말과 글과 생각이 업그레이드되는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489584033",
+                "image": "https://shopping-phinf.pstatic.net/main_3248958/32489584033.20221019105626.jpg",
+                "author": "브랜던 로열",
+                "discount": "13320",
+                "publisher": "카시오페아",
+                "pubdate": "20151230",
+                "isbn": "9791185952284",
+                "description": "『탄탄한 논리력』은 학교에서뿐 아니라 일상생활에서도 유용하게 사용할 수 있는 논리의 핵심을 담고 있다. 비판적 사고와 창의적 사고, 논증과 명제를 꿰뚫는 가장 방법으로 가장 기본적이면서도 실용적인 내용을 담았다. 왜 같은 말을 해도 내 말은 먹히지 않는지 고민하거나, ‘논리’가 필요할 때마다 작아짐을 느끼는 이들, 더해서 자신의 말과 글과 생각이 좀 더 스마트하게 되기를 원하는 모든 이에게 권한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "카시오페아",
+                "DDC": "160",
+                "UPDATE_DATE": "20160122",
+                "EA_ADD_CODE": "03170",
+                "PUBLISHER_URL": "http://blog.naver.com/cassiopeiabo",
+                "AUTHOR": "브랜던 로열 ",
+                "SERIES_TITLE": "",
+                "KDC": "170",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5078869_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5078869_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5078869_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "324",
+                "CONTROL_NO": "CIP2015033727",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185952284",
+                "INPUT_DATE": "20151206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "탄탄한 논리력 : 말과 글과 생각이 업그레이드되는 ",
+                "PUBLISH_PREDATE": "20151230",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

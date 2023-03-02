@@ -1,0 +1,67 @@
+{
+    "otitle": "교과서 밖 국어 공부",
+    "oauthor": "오은주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "교과서 밖 국어 공부 (세상의 가치를 일깨워주는 국어로 인문적 사고하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441030614",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441030614.20221019120015.jpg",
+                "author": "오은주",
+                "discount": "10800",
+                "publisher": "팜파스",
+                "pubdate": "20160820",
+                "isbn": "9791170261094",
+                "description": "[교과서 밖 국어 공부]는 세상 어느 곳에도 국어가 없는 곳은 없다고. 저자는 일상 속에 자리 잡고 있는 국어 이야기들을 찾아내는 법을 알려주며 우리의 인생을 더 풍부하게 만들어주는 국어의 매력을 찾아 소개한다. 청소년들이 제대로 된 국어 공부를 통해 인문적 사고법을 키우는 방법을 알고, 주체적으로 자신의 인생을 설계해 보는 기회를 갖도록 도와주는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20160818",
+                "EA_ADD_CODE": "43190",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "오은주",
+                "SERIES_TITLE": "",
+                "KDC": "199",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5622666_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5622666_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "216",
+                "CONTROL_NO": "CIP2016017798",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170261094",
+                "INPUT_DATE": "20160720",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "교과서 밖 국어 공부",
+                "PUBLISH_PREDATE": "20160820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

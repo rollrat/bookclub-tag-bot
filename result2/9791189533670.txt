@@ -1,0 +1,67 @@
+{
+    "otitle": "지금 이 순간, 여기, 내 안",
+    "oauthor": "진세희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 이 순간, 여기, 내 안 (평온함이 나를 채울 때까지 마음을 봅니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444441023",
+                "image": "https://shopping-phinf.pstatic.net/main_3244444/32444441023.20221230073701.jpg",
+                "author": "진세희",
+                "discount": "13500",
+                "publisher": "SISO",
+                "pubdate": "20210615",
+                "isbn": "9791189533670",
+                "description": "당장 눈앞의 일상 때문에 본질적인 질문을 안고서도\n자신을 찾아 떠나는 여행을 계속 미루고만 있는 당신에게\n\n‘내가 지금 맡고 있는 ‘나’라는 캐릭터는 도대체 어디서 어떻게 온 것일까? 이게 진짜 내 모습의 다인 걸까? 이렇게 내가 맡은 이 역할을 꼭두각시처럼 연기하다가 죽는 게 삶의 전부인 것일까? 이 몸도 내가 아니고, 내 이름도 내가 아니고, 내 직업이나 역할도 내가 아닌 것은 분명 알겠는데, 그렇다면 진짜 나는 누구일까?’ 이 책은 이러한 본질적인 질문을 마주하며, 나름대로 그 답을 찾아간 여정의 기록이다. \n저자는 어느 날, 아이 셋을 차에 태우고 가다가 차가 그 자리에서 폐차될 정도의 큰 사고를 겪은 후 죽음이 먼 곳의 딴 나라 이야기가 아닌, 바로 내 옆에서 가까이 동행하고 있음을 온몸으로 경험했다. 매일 우리에게 주어지는 하루가 너무나 당연한 것이고, 지금 이 순간이 마치 영원한 것처럼 착각에 빠져 살고 있었는데, 그것이 산산조각 깨어지는 경험 이후에 그동안 마음에만 묻어두었던 질문들이 드러나기 시작한 것이다.\n누구나 자신의 존재에 대한, 이 세상과 현실에 대한 적잖은 의문점과 해답을 구하고자 하는 욕구가 있다. 하지만 바쁜 일상에 치여 그런 본질적인 질문에서 점점 멀어져간다. 이 책은 진정한 자신을 만나고자 하는 사람들에게 다시 한번 용기를 주고 내 안의 해답을 얻을 기회를 만나게 해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Siso",
+                "DDC": "",
+                "UPDATE_DATE": "20210730",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "진세희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189533670",
+                "INPUT_DATE": "20210510",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "지금 이 순간, 여기, 내 안",
+                "PUBLISH_PREDATE": "20210615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

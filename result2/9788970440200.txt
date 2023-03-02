@@ -1,0 +1,67 @@
+{
+    "otitle": "기상학 입문",
+    "oauthor": "이이다 무쓰지로 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기상학 입문 (내일의 날씨를 알기 위하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472020619",
+                "image": "https://shopping-phinf.pstatic.net/main_3247202/32472020619.20221227205045.jpg",
+                "author": "이이다 무쓰지로",
+                "discount": "13500",
+                "publisher": "전파과학사",
+                "pubdate": "20061125",
+                "isbn": "9788970440200",
+                "description": "꼬리에 꼬리를 잇는 과학 궁금증을 해결하자\n\n삼면이 바다로 싸여 있고, 유라시아 대륙과 태평양을 가까이 두고 있는 우리나라는 4계절을 가지고 있다. 일 년을 사계절로 나눠 생각하면 기상에 대한 대략적인 정보를 요약할 수 있다. 그러나 각 계절마다 부는 계절풍도 다르고, 인근에 있는 대륙과 바다에 의해 크게 영향을 받고 있어 기상청에서 발표하는 일기예보 예측이 빗나갈 때도 많다. \n이 책에서는 기상을 좌우하는 요인들을 살펴보고 기상 현상에 대해 일반적인 의문점이 있음에도 쉽게 이해할지 못했던 과학 상식들을 상세히 다루고 있다. 바람은 왜 부는지, 구름은 왜 생기는지, 비는 왜 내리는지. 이런 질문들은 초등학생들이나 할 질문 같지만, 따지고 답을 해보려고 하면 어른들도 쉽게 설명하지 못하는 경우가 많다. 그것은 우리의 생활과 밀접한 날씨에 대한 기본 상식이 부족하기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19960426",
+                "EA_ADD_CODE": "03450",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "이이다 무쓰지로 지음 ; 임승원 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "19960510",
+                "TITLE_URL": "",
+                "PRE_PRICE": "7000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "15000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970440208",
+                "INPUT_DATE": "19960426",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "기상학 입문",
+                "PUBLISH_PREDATE": "19960510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

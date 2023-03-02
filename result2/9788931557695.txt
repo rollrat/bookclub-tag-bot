@@ -1,0 +1,67 @@
+{
+    "otitle": "괴물도감 : 동양편",
+    "oauthor": "고고학자 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "괴물도감: 동양편 (동양 문화 속 괴물들의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494112634",
+                "image": "https://shopping-phinf.pstatic.net/main_3249411/32494112634.20221019145155.jpg",
+                "author": "고고학자",
+                "discount": "20700",
+                "publisher": "성안당",
+                "pubdate": "20210914",
+                "isbn": "9788931557695",
+                "description": "전설 속 괴물을 섬세하고 리얼한 터치로 그려낸 그림과 함께 감상한다!\n알 듯 말 듯 궁금한 동양의 괴물 132선!\n\n남자를 잘 홀리는 매혹적인 여성의 외모를 하고 간을 빼먹는 구미호(九尾狐)는 드라마, 웹툰, 게임 등 다양한 분야에서 우리나라를 대표하는 요괴로 자주 표현되는데, 이런 구미호는 일본과 중국에도 색깔만 다른 비슷한 설정으로 등장한다. 또한 수백 년을 거쳐 현대에까지 이어지며 사람들의 입에 오고 간다는 것은 실로 위대한 일이 아닐 수 없다. 시대는 달라도 사람들에게 ‘꼬리 아홉 달린 여우’는 여전히 신비하고 놀라운 존재로 여겨지고 있다. 우리나라는 이웃나라인 중국과 일본에 비해 상대적으로 요화로써 꾸준히 자리매김해오고 있으며 문화생활의 비중이 커짐에 따라 요괴에 대한 연구가 늦게 이루어지고 있다. \n이 책은 동양의 괴물을 일러스트와 함께 알기 쉽게 소개하고, 평소 익숙했던 괴물들은 물론 신비한 괴물들까지 총망라하여 탄생 배경과 일화 등 흥미로운 이야기로 가득하다. 예부터 전해지는 이야기를 토대로 작가의 주관적인 표현이 덧대어져 섬세하고 리얼한 터치감이 돋보이는 괴물 그림이 이 책을 즐기는 또 하나의 볼거리라고 할 수 있다. 누군가에겐 무섭기만 한 괴물일지라도 당대의 사람들이 만들었던 상상력의 결정체라는 점을 생각하며 접한다면 시간을 아우르는 새로운 콘텐츠로 다가올 것이다. 또한 이 책을 통해서 조금이나마 조상들의 아름다운 상상력을 엿보고 신비하고 흥미로운 이야기를 가진 다양한 요괴들에 관심을 가질 수 있는 계기가 되기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20211110",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "고고학자 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/08/9788931557695.jpg",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931557695",
+                "INPUT_DATE": "20210908",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "괴물 도감",
+                "PUBLISH_PREDATE": "20210914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

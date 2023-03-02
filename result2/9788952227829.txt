@@ -1,0 +1,67 @@
+{
+    "otitle": "미 비포 유 Me Before You",
+    "oauthor": "조조 모예스 저/김선형 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미 비포 유(Me Before You)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444993582",
+                "image": "https://shopping-phinf.pstatic.net/main_3244499/32444993582.20221019133032.jpg",
+                "author": "조조 모예스",
+                "discount": "13500",
+                "publisher": "살림",
+                "pubdate": "20140101",
+                "isbn": "9788952227829",
+                "description": "맞닿을 것 하나 없이 다른 둘이 만나 하나의 꿈을 꾸다!\n\n조조 모예스의 소설 『미 비포 유(Me Before You)』. 꿈같은 삶을 산 남자와 꿈을 선물 받은 여자의 이야기를 담은 작품이다. 오만하리만큼 잘났지만 불의의 사고로 사지마비환자가 된 젊은 사업가 윌 트레이너, 괴팍하리만큼 독특한 패션 감각을 지닌 엉뚱하고 순진한 여자 루이자 클라크. 환자와 간병인의 관계로 만난 두 사람이 들려주는 이야기를 통해 삶과 인간의 본질, 세상에 대해 진지하게 생각해볼 수 있다.\n\n영국의 작은 시골마을에 하나밖에 없는 카페에서 6년째 웨이트리스로 일하던 루이자는 어느 날 갑자기 카페 문을 닫는다는 일방적인 통보를 받고 백수가 된다. 그러던 그녀에게 ‘사지마비환자의 6개월 임시 간병인’이라는 기회가 주어지고 그녀는 최저임금을 훨씬 웃도는 시급을 받기 위해 울며 겨자 먹기로 간병인으로서의 삶을 시작한다. 끊임없이 까칠한 남자 윌 트레이너에게 익숙해질 무렵 루이자는 그의 무섭고도 감당할 수 없는 비밀을 알게 되는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "823.92",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "조조 모예스",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3183183_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3183183_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013027929",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952227829",
+                "INPUT_DATE": "20131216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "미 비포 유",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "누구나 5년 만에 노후 월급 500만원 만들 수 있다",
+    "oauthor": "서명수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "누구나 5년 만에 노후 월급 500만 원 만들 수 있다 (지금 준비해도 돈 걱정 없는 속성 특강)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505131921",
+                "image": "https://shopping-phinf.pstatic.net/main_3250513/32505131921.20221227203834.jpg",
+                "author": "서명수",
+                "discount": "13500",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20180214",
+                "isbn": "9791162202371",
+                "description": "노후 준비 이론은 물론이고 실전 감각까지 완비하며 반퇴·은퇴 세대의 고질적 불안감을 해소할 방편을 천착해온 은퇴 설계 전문가인 저자가 이 책을 통해 ‘노후 월급 500만 원 만들기’ 속성 플랜을 낱낱이 공개한다. 퇴직 5년 전부터 퇴직 시까지, 5년이라는 이 ‘골든타임’을 노려야 함을 강조하면서 연령, 인출 기간, 운용수익률, 물가 상승률, 은퇴 자금, 현재 생활비 등 퇴직 전후 변수들을 종합적으로 따져 누구나 탄탄한 노후 안전망을 구축할 수 있도록 로드맵을 제시한다.\n\n\n\n노후 설계 전문가들이 제시하는 노후 생활비 계산법에 문제가 있다고 지적한 저자는, 은퇴 전체 기간에 매월 일정하게 얼마가 필요하다는 식으로 생활비를 산출하는 것이 아니라, 은퇴 기간을 초기·중기·말기로 3등분해 기간별로 돈 소비에 차등을 두면 ‘노후 월급 500만 원’은 결코 꿈같은 액수가 아니라고 강조한다. 특히 48세 직장인의 사례를 들어 은퇴 직후 10년간 월 500만 원을 마련할 방책들을 상세히 실었다.\n\n\n\n이 밖에도 은퇴 후 1~5년, 은퇴 후 6~15년, 은퇴 후 16년 이후 세 기간별로 자산배분을 달리하는 과정과 ‘자금 인출 4%룰 적용법’을 소개함으로써 노후 자산을 더 오래, 더 효율적으로 관리할 수 있게 도와준다. 또 미국을 비롯한 선진국의 제도적 성패와 은퇴 시장 추이를 분석하면서 국내 은퇴 시장의 변화 포인트를 짚어내고, 해외 투자시 환율 리스트 피하는 법과 펀드로 실질수익을 올리는 법 등 투자의 필살기도 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "332.024014",
+                "UPDATE_DATE": "20180223",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "서명수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6523532_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6523532_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "264 p.",
+                "CONTROL_NO": "CIP2018002457",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162202371",
+                "INPUT_DATE": "20180122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "누구나 5년 만에 노후 월급 500만 원 만들 수 있다",
+                "PUBLISH_PREDATE": "20180214",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

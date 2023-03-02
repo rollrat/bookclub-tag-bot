@@ -1,0 +1,67 @@
+{
+    "otitle": "방구석 심리학 실험실",
+    "oauthor": "마이클 A. 브릿 저/류초롱 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "방구석 심리학 실험실 (집에서도 할 수 있는 50가지 초간단 심리실험)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490779095",
+                "image": "https://shopping-phinf.pstatic.net/main_3249077/32490779095.20230207165739.jpg",
+                "author": "마이클 A. 브릿",
+                "discount": "16200",
+                "publisher": "한빛비즈",
+                "pubdate": "20210825",
+                "isbn": "9791157845323",
+                "description": "재미있는 게임처럼, 간단한 심리테스트처럼\n직접 해보면서 익히는 흥미로운 심리학 실험 50가지!\n\n‘파블로프의 개’에서 ‘스키너의 상자’에 이르기까지, 유명한 심리 실험들은 인간의 행동을 이전과 다르게 바라보도록 우리를 변화시켰다. 과연 이 실험들은 어떻게 작동하는 걸까? 이론으로만 머릿속에 남아 있는 실험들, 내가 직접 구현해볼 수는 없을까? 가족이나 친구와 게임처럼 테스트해볼 수는 없을까? \n《방구석 심리학 실험실》은 흥미로운 심리학 실험 50가지를 선정해 각 심리 이론의 핵심과 키워드를 설명하고, 독자가 직접 구현하는 방법을 안내하는 책이다. 재미있는 게임처럼, 흥미로운 심리테스트처럼 그냥 따라 하다 보면 심리학 연구의 개념과 의미가 몸과 머리에 착착 쌓이는 놀라운 책이다. \n기술과 학습의 접목을 고민해온 심리학 박사가 고안해낸 초간단 심리실험! 전문지식이 없어도 OK! 필기구 같은 간단한 소품만 있으면 OK! 서너 명의 가족이나 친구만 있으면 OK! 소규모 그룹의 스터디가 일상화된 시대에 최적화된 심리학 실험 가이드! 직접 해보는 것만큼 확실한 것은 없다! 청소년 학습교재로, 심리학 입문서로 이보다 더 유용할 수 없다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20211026",
+                "EA_ADD_CODE": "13180",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "마이클 A. 브릿 지음 ;류초롱 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "388 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157845323",
+                "INPUT_DATE": "20210805",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "방구석 심리학 실험실",
+                "PUBLISH_PREDATE": "20210825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

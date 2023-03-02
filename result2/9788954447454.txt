@@ -1,0 +1,67 @@
+{
+    "otitle": "일광유년",
+    "oauthor": "옌롄커 저/김태성 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일광유년 (옌롄커 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485700709",
+                "image": "https://shopping-phinf.pstatic.net/main_3248570/32485700709.20230131165145.jpg",
+                "author": "옌롄커",
+                "discount": "16200",
+                "publisher": "자음과모음",
+                "pubdate": "20210816",
+                "isbn": "9788954447454",
+                "description": "“이 작품은 평생에 걸친 저의 글쓰기 가운데 \n가장 큰 전환점이자 가장 기념할 만한 글쓰기 프로젝트의 구축이었습니다.”\n\n가장 유력한 노벨문학상 후보 옌롄커의 대표작\n\n『일광유년』은 옌롄커가 온몸으로 쓴 역작이다. 작가는 심각한 요추 부상을 겪는 고통스러운 상황에서도 특별 제작한 특수 선반 위에서 4년여의 시간을 보낸 끝에 이 소설을 완성해냈다. 몸을 제대로 가눌 수 없는 시간 속에서도 작가는 쓰지 않으면 견딜 수 없어 자신의 생명과 영혼을 담아냈는데, 결과물인 『일광유년』은 ‘발분지작(發憤之作)’의 글쓰기이며, 그 빼어난 성취이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "자음과모음",
+                "DDC": "",
+                "UPDATE_DATE": "20210910",
+                "EA_ADD_CODE": "03820",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "옌롄커 [지음] ;김태성 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/07/05/9788954447454.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "959 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954447454",
+                "INPUT_DATE": "20210705",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "일광유년",
+                "PUBLISH_PREDATE": "20210816",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

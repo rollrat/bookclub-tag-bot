@@ -1,0 +1,67 @@
+{
+    "otitle": "임사체험의 불가사의",
+    "oauthor": "다카다 아키카즈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "임사체험의 불가사의 (죽었다 살아난 사람들의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485510883",
+                "image": "https://shopping-phinf.pstatic.net/main_3248551/32485510883.20220527053934.jpg",
+                "author": "다카다 아키카즈",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "19970520",
+                "isbn": "9788970444802",
+                "description": "『임사체험의 불가사의』는 임사체험에 대해서 국제적으로 일류의 과학잡지에 발표된 보고를 다루고 있다. 또한 환각 때의 뇌의 작용, 생리 등에 대해서도 설명을 가하여 만일 임사체험이 환각이라면 사람은 어떠한 때에 환각상태가 되는지 생각하여 정리하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19970509",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "다카다 아키카즈 지음 ; [전파과학사]편집부 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "7000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970444807",
+                "INPUT_DATE": "19970509",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "임사체험의 불가사의",
+                "PUBLISH_PREDATE": "19970520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

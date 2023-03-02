@@ -1,0 +1,78 @@
+{
+    "otitle": "팍스 1",
+    "oauthor": "사라 페니패커 저/존 클라센 그림/김선희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:47 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "팍스 음악이론 1",
+                "link": "https://search.shopping.naver.com/book/catalog/32445107774",
+                "image": "https://shopping-phinf.pstatic.net/main_3244510/32445107774.20221019120200.jpg",
+                "author": "일신음악연구회",
+                "discount": "3600",
+                "publisher": "일신서적출판사",
+                "pubdate": "20190610",
+                "isbn": "9788936627218",
+                "description": "● 가장 쉽게 그리고 복잡하지 않고 간결하게 배울 수 있는 어린이용 이론교재입니다.\n    또한 스티커 붙이기를 통하여 재미를 더해줍니다.\n\n● [팍스 피아노 스쿨], [키즈키즈 피아노 레슨] 등 기초 레슨교재의 교육과정을 따르면서 차근차근 진행합니다.\n\n● 내용 - 음표(4분, 2분, 온음표)|왼손과 오른손|검은건반과 흰건반  \n             셈여림표(p, f, mp, mf)|건반의 계이름\n\n● [부록]으로 오선노트와 ‘잘 풀리는 음악이론 총정리’ 배운 내용을 좀더 발전적으로 응용한 ‘평가문제’를 수록하여 실력을 확실하게 다져줍니다."
+            },
+            {
+                "title": "쉬운포인트 팍스 피아노스쿨 1 (기초교본)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486526544",
+                "image": "https://shopping-phinf.pstatic.net/main_3248652/32486526544.20230131162820.jpg",
+                "author": "일신음악연구회",
+                "discount": "5400",
+                "publisher": "일신서적출판사",
+                "pubdate": "20190510",
+                "isbn": "9788936626815",
+                "description": "IQ 스마트 \n쉬운 포인트"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "일신서적출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20191106",
+                "EA_ADD_CODE": "94670",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "편저자: 일신음악연구회",
+                "SERIES_TITLE": "힐링포인트 스마트 팍스 음악이론",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788936627201",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "4000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "227*305",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "80 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788936627218",
+                "INPUT_DATE": "20190327",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "(스마트+) 팍스 음악이론",
+                "PUBLISH_PREDATE": "20190610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "94670 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

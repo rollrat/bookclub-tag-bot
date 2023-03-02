@@ -1,0 +1,67 @@
+{
+    "otitle": "후보단일화 게임",
+    "oauthor": "황두영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "후보단일화 게임 (대통령이 되기 위한 절체절명의 협상 테이블)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436278113",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436278113.20230218110324.jpg",
+                "author": "황두영",
+                "discount": "13500",
+                "publisher": "클",
+                "pubdate": "20210930",
+                "isbn": "9791190555708",
+                "description": "대한민국 정치사의 흐름을 바꿔온\n아주 오래되고 효과적인 선거 전략 ‘후보단일화’\n\n김대중, 김영삼, 노무현, 문재인, 안철수, 홍준표 …\n대통령이 되려는 자들의 눈치싸움, 기싸움, 두뇌싸움\n\n후보단일화는 선거 과정에서 둘 이상의 후보가 벌이는 협상이다. 이들은 그중 한 후보에게 표를 몰아주기 위해 나머지는 사퇴하는 것을 상정하고 치열한 수 싸움을 한다. 이 책 『후보단일화 게임』의 저자 황두영은 이 모든 과정을 하나의 게임으로 설명한다. 어떤 후보가 후보단일화를 원하면 상대 후보를 설득해 해당 게임에 참가시켜야 하고, 구체적인 룰을 협상해야 하며, 때로는 상대에게 줄 보상도 마련해야 한다. 그리고 정해진 룰에 따라 상대를 이겨야 후보단일화 게임의 승자가 된다.\n이 책은 한국의 정치 지형에서 이 후보단일화 게임이 계속 이어지는 이유는 무엇인지, 그리고 직선제 개헌 후 첫 선거를 치른 1987년부터 2017년까지의 대통령 선거 사례를 통해 후보단일화는 어떤 조건에서 성공하고 또 실패하는지 등을 분석하고 살펴본다. 특히 각 장의 부록에는 하나의 게임으로 ‘후보단일화’를 이해할 수 있는 규칙들을 이론적으로 쉽고 친절하게 설명했다. 한국 현대사에서 후보단일화를 중심으로 한 선거의 역사를 쭉 따라 읽은 후, 각 사례에 해당하는 후보단일화의 유형을 부록에서 찾아 비교하며 읽는 것도 재미를 더하는 하나의 방법이다.\n저자 황두영은 국회 보좌관으로 일하며 전작 『외롭지 않을 권리』를 통해 ‘생활동반자법’이라는 신선한 화두를 던진 바 있다. 이 책에서는 지난 국회에서의 활동과 경험을 바탕으로 후보단일화라는 렌즈를 통해 한국 정치의 과거와 현재를 분석, 전망한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "",
+                "UPDATE_DATE": "20211020",
+                "EA_ADD_CODE": "03340",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황두영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/08/9791190555708.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190555708",
+                "INPUT_DATE": "20210908",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "후보단일화 게임",
+                "PUBLISH_PREDATE": "20210930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

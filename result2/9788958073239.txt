@@ -1,0 +1,67 @@
+{
+    "otitle": "너의 의무를 묻는다",
+    "oauthor": "이한 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "너의 의무를 묻는다 (살아가면서 읽는 사회 교과서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466600682",
+                "image": "https://shopping-phinf.pstatic.net/main_3246660/32466600682.20221019131921.jpg",
+                "author": "이한",
+                "discount": "9900",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20101030",
+                "isbn": "9788958073239",
+                "description": "지금 우리가 배워야 할 진짜 가치, 인간다움!\n\n국민을 넘어 '사람'으로서 살아가는 의무를 다룬 책『너의 의무를 묻는다』. 청소년 인문ㆍ사회 분야의 베스트셀러인『나의 권리를 말한다』의 연작으로 권리와 사회, 권리의 사람의 관계를 흥미롭게 살펴본다. 국민이라면 반드시 지켜야 한다고 알고 있는 4대 의무에 대해 언급하지 않고, 그러한 의무를 깨뜨리는 데에서 이야기를 시작한다. 의무를 의무적으로 따르기 전에 왜 의무를 지켜야 하고 우리에게 어떤 영향을 끼치는지에 대해 스스로 생각하고 판단해야 한다고 말한다. '어떻게 살아갈 것인가'에 대한 고민을 바탕으로, 사람이 기본적으로 지녀야 할 '인간다움의 도리'를 다루고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌출판사",
+                "DDC": "300.2",
+                "UPDATE_DATE": "20101028",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "이한 지음",
+                "SERIES_TITLE": "",
+                "KDC": "304",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2432835_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2432835_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2010003608",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958073239",
+                "INPUT_DATE": "20101008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "너의 의무를 묻는다",
+                "PUBLISH_PREDATE": "20101030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

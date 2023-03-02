@@ -1,0 +1,67 @@
+{
+    "otitle": 1030,
+    "oauthor": "리 차일드 저/정경호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "101살 할아버지의 마지막 인사",
+                "link": "https://search.shopping.naver.com/book/catalog/32436040647",
+                "image": "https://shopping-phinf.pstatic.net/main_3243604/32436040647.20221019143059.jpg",
+                "author": "벤자민 페렌츠",
+                "discount": "11700",
+                "publisher": "양철북",
+                "pubdate": "20220113",
+                "isbn": "9788963723884",
+                "description": "뉘른베르크 전범 재판의 마지막 생존 검사 벤자민 페렌츠가 우리 삶에 보내는 유쾌하고도 따뜻한 격려.\n\"삶을 긍정하게 만드는 한 시대의 지혜\""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "양철북",
+                "DDC": "",
+                "UPDATE_DATE": "20220215",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글쓴이: 벤자민 페렌츠 ;옮긴이: 조연주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "124*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "149 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963723884",
+                "INPUT_DATE": "20211227",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "101살 할아버지의 마지막 인사",
+                "PUBLISH_PREDATE": "20220114",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

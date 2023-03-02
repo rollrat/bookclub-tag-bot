@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 클림트를 보면 베토벤이 들린다",
+    "oauthor": "권순훤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 클림트를 보면 베토벤이 들린다 (‘미술관에 간 피아니스트’ 권순훤의 명화 속 클래식 산책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32498048664",
+                "image": "https://shopping-phinf.pstatic.net/main_3249804/32498048664.20230207163900.jpg",
+                "author": "권순훤",
+                "discount": "14400",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20140124",
+                "isbn": "9788965701873",
+                "description": "‘미술관으로 간 피아니스트’의 권순훤이 들려주는 인류 최고의 화가와 음악가의 흥미진진한 스토리!\n\n명화 속 클래식 산책『나는 클림트를 보면 베토벤이 들린다』. 현대 클래식 공연인 ‘권순훤의 이지 클래식, 미술관에 간 피아니스트’를 책으로 펴내었다. 가수 보아의 큰오빠로도 유명한 피아니스트 권순훤 교수는 연주와 편곡, 해설까지 혼자 도맡아 수년 간 진행해 온 자신의 공연 중 흥미진진하고 재미있는 핵심 내용을 모았다. 인류가 가장 사랑한 음악가와 화가들을 환상의 짝꿍으로 엮어 62점의 명화와 67곡의 클래식 음악을 보여주고 들려준다.\n\n미켈란젤로와 모차르트, 보티첼리와 베르디, 렘브란트와 바흐, 모네와 슈베르트 등 ‘환상의 짝꿍’이 된 이들 사이에 무슨 일이 일어난 것일까? 25쌍의 최고의 화가와 음악가들이 명화와 클래식음악으로 우리의 눈과 귀를 황홀하게 해준다. 저자는 음악사와 미술사, 서양사를 쉽게 한눈에 펼쳐 보이며 쉬운 설명과 깊이 있는 통찰로 클래식이 어렵다는 편견을 깨버린다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)쌤앤파커스",
+                "DDC": "709",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "권순훤",
+                "SERIES_TITLE": "",
+                "KDC": "600.92",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3238450_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3238450_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3238450_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014000861",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965701873",
+                "INPUT_DATE": "20140108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "나는 클림트를 보면 베토벤이 들린다",
+                "PUBLISH_PREDATE": "20140205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "파란하늘 빨간지구",
+    "oauthor": "조천호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "파란하늘 빨간지구 (기후변화와 인류세, 지구시스템에 관한 통합적 논의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491437056",
+                "image": "https://shopping-phinf.pstatic.net/main_3249143/32491437056.20230219103412.jpg",
+                "author": "조천호",
+                "discount": "14400",
+                "publisher": "동아시아",
+                "pubdate": "20190329",
+                "isbn": "9788962622713",
+                "description": "먼 미래가 아닌 바로 지금 이 순간 직면한 위험, 기후변화를 말하다!\n\n조천호 전 국립기상과학원 원장은 일반인의 눈높이에서 기후변화 시대의 본질을 설명하는 『파란하늘 빨간지구』. 우리가 누리고 있는 문명은 인간의 능력으로 이룩한 것 같지만, 사실 특정한 기후 조건에서 가능했던 우연의 산물이다. 현대 문명도 마찬가지다. 기술이 발달하면서 인간이 모든 것을 통제하고 있는 것처럼 보이지만, 해수면 상승이나 생태계 파괴 같은 대규모 환경 재앙이 일어나면 인간이 할 수 있는 일은 그리 많지 않을 것이다. \n\n우리는 기후변화 문제를 생태 문제로 인식하지만 기후변화는 모든 곳에서 치명적인 문제를 일으킨다. 2018년 다보스 포럼에서 전문가 745명을 대상으로 한 설문조사를 실시했는데, 여기서 극한(재해성) 날씨는 대량살상 무기 다음으로 인류가 직면할 가장 영향력이 큰 위험에 뽑혔다. 그렇다면 기후변화는 우리 삶을 어떻게 바꾸는가?\n\n저자는 이 책에서 과학적 데이터를 제시하며 기후변화가 일어난 원리를 설명하고, 앞으로는 어떻게 될 것이며, 기후변화가 일상이 된 지구에서 살아갈 수 있는지, 새로운 시대에 적응하기 위해 우리는 어떤 일을 해야 하는지 기후변화와 관련된 여러 사안을 알기 쉽게 풀어놓고, 과학적으로 지금 어떤 일이 일어나는지 설명하면서 그 일에 담긴 의미와 파급 효과에 대해 고민할 수 있는 기회를 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "",
+                "UPDATE_DATE": "20190405",
+                "EA_ADD_CODE": "03450",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조천호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "453.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/13/9788962622713.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "292 p.",
+                "CONTROL_NO": "CIP2019009820",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962622713",
+                "INPUT_DATE": "20190313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "파란 하늘 빨간 지구",
+                "PUBLISH_PREDATE": "20190329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "1.5도, 생존을 위한 멈춤",
+    "oauthor": "박재용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "1.5도, 생존을 위한 멈춤 (기후위기 비상행동 핸드북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466684711",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466684711.20230110162835.jpg",
+                "author": "박재용",
+                "discount": "10800",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20191213",
+                "isbn": "9788964621332",
+                "description": "점점 뜨거워지는 지구에서 미래 세대는 더욱 큰 피해를 입을 것이기에, 과학 커뮤니케이터 박재용은 기성세대로서의 미안함을 담아 『1.5도, 생존을 위한 멈춤』을 썼다. 이 책은 기후위기의 원인부터 해결 방안까지 증거와 통계치를 가지고 포괄적으로 살펴본 과학 교양서다. 또한 위기의 대응책에 관해 작은 부분부터 세계적 의제에 이르기까지 같이 토론할 밑바탕이 될 자료들이 담겨 있는 토론 실용서이기도 하다. 저자는 우리 모두의 더 나은 미래를 위해 기후위기에 관심을 갖고 행동하자고 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "",
+                "UPDATE_DATE": "20191231",
+                "EA_ADD_CODE": "03450",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "박재용 지음",
+                "SERIES_TITLE": "",
+                "KDC": "539.92",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "218 p.",
+                "CONTROL_NO": "CIP2019049882",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964621332",
+                "INPUT_DATE": "20191205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "1.5도 생존을 위한 멈춤",
+                "PUBLISH_PREDATE": "20191213",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

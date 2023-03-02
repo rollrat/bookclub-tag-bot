@@ -1,0 +1,67 @@
+{
+    "otitle": "안전운전 생활백서",
+    "oauthor": "듀자미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "안전운전 생활백서",
+                "link": "https://search.shopping.naver.com/book/catalog/32493595813",
+                "image": "https://shopping-phinf.pstatic.net/main_3249359/32493595813.20220527053336.jpg",
+                "author": "듀자미",
+                "discount": "0",
+                "publisher": "렛츠북",
+                "pubdate": "20181105",
+                "isbn": "9791160542080",
+                "description": "안전 운전을 위해 꼭 알아야 할\n모두를 위한 운전책!\n\n운전대 높이는 어느 정도가 적당한가요?\n비 오는 추운 날에 성에가 끼면 어떡하죠?\n오랜만에 운전하는데 걱정됩니다.\n면허가 있어도 운전이 낯선 당신에게,\n안전을 위한 운전책!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "렛츠book(렛츠북)",
+                "DDC": "629.283",
+                "UPDATE_DATE": "20190108",
+                "EA_ADD_CODE": "13550",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 듀자미",
+                "SERIES_TITLE": "",
+                "KDC": "556.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6978467_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6978467_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "149 p.",
+                "CONTROL_NO": "CIP2018034922",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160542080",
+                "INPUT_DATE": "20181030",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "안전운전 생활백서",
+                "PUBLISH_PREDATE": "20181105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

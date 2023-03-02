@@ -1,0 +1,78 @@
+{
+    "otitle": "노화는 왜 일어나는가",
+    "oauthor": "후지모토 다이사부로 저/고인석 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:43 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "노화는 왜 일어나는가 (젊음을 잃게 하는 메커니즘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467260729",
+                "image": "https://shopping-phinf.pstatic.net/main_3246726/32467260729.20230223071220.jpg",
+                "author": "후지모토 다이사브로",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190607",
+                "isbn": "9788970448879",
+                "description": "과학자가 들려주는 노화와 수명 이야기!\n\n아무리 위대한 사람이건, 미인이건, 갑부라도 모두 나이를 먹고 이윽고 죽게 된다. 나이를 먹어 자기 자신에게 불편한 일이 나타나는 현상을 노화(老化)라 한다. 언젠가는 죽게 된다는 것은 수명이 있다는 뜻이다. 그렇다. 인간이라면 누구나 노화와 수명이라는 굴레에서 벗어날 수 없다. 인간은 예로부터 불로불사, 불로장수의 묘법을 추구해 왔다. 지금도 나이를 먹지 않는 건강법이라든가, 노화하지 않는 식사라든가, 강장강정이니 하는 제목의 책들이 서점의 책꽂이에 즐비하다. 많은 과학자들은 노화와 수명 문제에 열심을 쏟고 있다. 노화는 어떤 메커니즘으로서 일어나는 것일까? 수명은 어떻게 결정되는 것일까? 노화와 수명은 어떻게 떼어 놓을 수 없는 것일까? 노화를 방지하고 수명을 연장하는 방법을 발견하는 데는 어떻게 하면 될 것인가? 현대의 과학은 그 굉장한 진보에도 불구하고, 이들 문제에 대한 명쾌한 해답을 얻어내지는 못하고 있지만 이 책을 통해서라면 ‘노화’라는 복잡하고 어려운 문제에 과학자들이 어떻게 도전하고 있는지 살펴볼 수 있을 것이다. 노화와 수명, 어떻게 바라볼 것인가? 과학자가 들려주는 ‘노화와 수명’ 이야기를 어서 따라가 보자."
+            },
+            {
+                "title": "노화는 왜 일어나는가 (젊음을 잃게 하는 메카니즘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485539086",
+                "image": "https://shopping-phinf.pstatic.net/main_3248553/32485539086.20220527081225.jpg",
+                "author": "후지모토 다이사부로",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19870501",
+                "isbn": "9788970440590",
+                "description": "이 책에서는 미시적인 관점에서부터 나이를 먹으면 인간이 신체에 어떤 변화가 일어나며, 특히 결합조직이 어떻게 하여 노화되어 가는가를 탐구하여, 언제까지고 젊고 싱싱한 신체를 유지할 수 있는 가능성을 탐구하고 있다. 결합조직, 콜라겐, 크로스링크등 구에 익숙하지 않은 용어도 경묘한 문장으로써 알기 쉽게 해설하여 화학이 질색인 사람에게도 저항감 없이 읽혀질 수 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190617",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "후지모토 다이사부로 지음 ;고인석 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "152 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448879",
+                "INPUT_DATE": "20190603",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "노화는 왜 일어나는가",
+                "PUBLISH_PREDATE": "20190607",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

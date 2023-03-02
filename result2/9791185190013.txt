@@ -1,0 +1,67 @@
+{
+    "otitle": "노상강도",
+    "oauthor": "에드 맥베인 저/박진세 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "노상강도",
+                "link": "https://search.shopping.naver.com/book/catalog/32506376682",
+                "image": "https://shopping-phinf.pstatic.net/main_3250637/32506376682.20221019150425.jpg",
+                "author": "에드 멕베인",
+                "discount": "10620",
+                "publisher": "피니스 아프리카에",
+                "pubdate": "20131228",
+                "isbn": "9791185190013",
+                "description": "에드 맥베인이 확립한 경찰 소설의 세계!\n\n「87분서 시리즈」의 첫 작품인 《경찰 혐오자》에 이은 두 번째 소설 『노상강도』. 거리의 강도 행각은 계속 이어지는 가운데 살인 사건까지 발생한다. 87분서 형사들은 강도와 살인의 연관 관계를 유추하려고 고군분투한다. 이야기는 어두운 골목에서 여자들의 지갑을 노리는 강도에 피해를 당한 한 여성에게 핼 윌리스와 로저 하빌랜드 형사가 범인의 인상착의와 행각 등을 묻는 대목에서부터 시작된다. 두 형사가 피해 여성으로부터 얻은 소득은 범인이 자신의 이름을 클리퍼드라고 말했다고 하는 미덥지 않은 증언뿐인데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "피니스 아프리카에",
+                "DDC": "813.54",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "에드 맥베인",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3164232_3.jpg",
+                "PRE_PRICE": "11800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3164232_5_1.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013027080",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185190013",
+                "INPUT_DATE": "20131210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "노상강도",
+                "PUBLISH_PREDATE": "20131228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

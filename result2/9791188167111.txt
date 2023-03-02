@@ -1,0 +1,67 @@
+{
+    "otitle": "기커렐라",
+    "oauthor": "애슐리 포스턴 저/유혜인 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기커렐라 (애슐리 포스턴 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439499334",
+                "image": "https://shopping-phinf.pstatic.net/main_3243949/32439499334.20221230072039.jpg",
+                "author": "애슐리 포스턴",
+                "discount": "13320",
+                "publisher": "북펌",
+                "pubdate": "20180103",
+                "isbn": "9791188167111",
+                "description": "신데렐라 이야기와 캐릭터들을 변주해 덕후들의 세상과 할리우드 연예계를 배경으로 두근거리는 로맨스를 보여준 소설. 기커렐라(덕후를 뜻하는 'geek'과 신데렐라를 합성한 'Geekerella')로 불리는 엘과 십대들의 스타 배우 대리엔, 두 주인공이 각각 화자가 되어 이야기를 전개해간다. \n\n\n\n데뷔작이었던 [시사이드 코브]라는 시트콤 드라마 한편으로 전국적인 스타가 된 '대리엔 프리먼'. 그는 시트콤의 높은 인기와 열광적인 소녀팬들 덕분에 할리우드까지 진출했으며 인기 SF 드라마를 처음으로 영화화 작품에 주연으로 캐스팅됐다. 십수 년에 걸쳐 형성된 강력한 팬덤을 가진 [스타필드]의 주인공 '카민도어'가 바로 그 배역이었다. 그러나 [스타필드] 극성팬들은 그가 겉만 번지르르한 아이돌에 불과하다고 무시한다. \n\n\n\n이런 상황에 대리엔은 영화 홍보를 위해 스타거너들의 성지인 SF박람회 '엑셀시콘'에 참석해야 한다는 통보를 받는다. 덕후들 앞에 나설 용기가 없었던 대리엔은 불참하기 위해 직접 '엑셀시콘 홈페이지'에 있는 연락처로 문자 메시지를 보낸다. 그런데 그 연락처는 이미 사망한 엑셀시콘의 창립자 '로빈 위티머'의 전화번호였고, 대리엔의 문자는 죽은 아빠의 번호를 쓰고 있던 엘에게 전송되는데…"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북펌",
+                "DDC": "",
+                "UPDATE_DATE": "20171228",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 애슐리 포스턴 ;옮긴이: 유혜인",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "526 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188167111",
+                "INPUT_DATE": "20171129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "기커렐라 ",
+                "PUBLISH_PREDATE": "20180103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

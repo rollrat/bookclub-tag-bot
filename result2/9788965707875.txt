@@ -1,0 +1,67 @@
+{
+    "otitle": "일터의 현자",
+    "oauthor": "칩 콘리 저/박선령 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일터의 현자 (왜 세계 최고의 핫한 기업들은 시니어를 모셔오는가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466684425",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466684425.20221019151054.jpg",
+                "author": "칩 콘리",
+                "discount": "14400",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20190415",
+                "isbn": "9788965707875",
+                "description": "에어비앤비의 성공 뒤에는 IT를 1도 모르는 시니어 ‘인턴’이 있었다?\n지금 세계 최고의 핫한 기업들은 시니어 모셔오기 전쟁 중!\n\n4차 산업혁명 시대 공유경제의 총아 ‘에어비앤비’는 지난해 우버, 위워크와 함께 ‘데카콘’(기업가치 100억 달러 이상의 스타트업)으로 등극했다. 샌프란시스코의 한 아파트에서 시작된 이 회사는 전 세계 200여 개국에서 5억 명(누적 사용자)이 사용하는 플랫폼으로 성장했고, 기업가치는 무려 34조다. \n이처럼 1년에 수백 퍼센트씩 성장하는 회사에서 28세의 관리자가 24세의 부하직원들을 데리고 일해야 할 때 가장 두렵고 답답한 것은 뭘까? 50명을 관리하던 관리자가 갑자기 3,000명을 관리해야 할 때, 그에게 가장 필요한 것은 뭘까? 에어비앤비의 창업자 브라이언 체스키는 2013년에 부티크 호텔 업계의 대부 칩 콘리에게 전화를 걸어 도움을 요청했다. 그리고 얼마 후 칩 콘리는 에어비앤비에서 ‘멘턴’(멘토+인턴)으로 일하기 시작했다. 그리고 2017년까지 칩 콘리는 에어비앤비의 드라마틱한 성장을 견인하는 주역이 되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20190417",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "칩 콘리 지음 ;박선령 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "322 p.",
+                "CONTROL_NO": "CIP2019011064",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965707875",
+                "INPUT_DATE": "20190321",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "일터의 현자",
+                "PUBLISH_PREDATE": "20190415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

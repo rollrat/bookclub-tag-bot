@@ -1,0 +1,89 @@
+{
+    "otitle": "한강 1 (개정판)",
+    "oauthor": "조정래 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:08 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "한강 1: 제1부 격랑시대 (조정래 대하소설 | 등단 50주년 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474581086",
+                "image": "https://shopping-phinf.pstatic.net/main_3247458/32474581086.20221019151510.jpg",
+                "author": "조정래",
+                "discount": "15750",
+                "publisher": "해냄출판사",
+                "pubdate": "20201130",
+                "isbn": "9788965743910",
+                "description": "『한강. 1: 제1부 격랑시대』 는 〈산비탈 까치집〉, 〈분노와 비애〉, 〈움막촌 사람들〉, 〈서러운 우정〉, 〈하늘이여, 하늘이여〉, 〈나라 아닌 나라〉 등을 수록하고 있는 책이다."
+            },
+            {
+                "title": "한강 2: 제1부 격랑시대 (조정래 대하소설 | 등단 50주년 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466529802",
+                "image": "https://shopping-phinf.pstatic.net/main_3246652/32466529802.20221019105718.jpg",
+                "author": "조정래",
+                "discount": "15750",
+                "publisher": "해냄출판사",
+                "pubdate": "20201130",
+                "isbn": "9788965743927",
+                "description": "『한강. 2: 제1부 격랑시대』 는 〈희생이 남긴 것〉, 〈그냥 그리움이게〉, 〈북풍이 부는 계절〉, 〈겨울 밤벌이〉, 〈먼 불빛을 향하여〉, 〈아버지, 그 사슬〉 등을 수록하고 있는 책이다."
+            },
+            {
+                "title": "한강 3: 제1부 격랑시대 (조정래 대하소설 | 등단 50주년 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436001905",
+                "image": "https://shopping-phinf.pstatic.net/main_3243600/32436001905.20221019114853.jpg",
+                "author": "조정래",
+                "discount": "15750",
+                "publisher": "해냄출판사",
+                "pubdate": "20201130",
+                "isbn": "9788965743934",
+                "description": "『한강. 3: 제1부 격랑시대』 는 〈가을빛은 오는데〉, 〈 빛과 그림자〉, 〈눈보라의 세월〉, 〈산 넘고 강 건너〉, 〈정치를 아시나요〉, 〈새로 넘기는 세월의 책장〉 등을 수록하고 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄(해냄출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210114",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "저자: 조정래",
+                "SERIES_TITLE": "한강 세트",
+                "KDC": "813.62",
+                "EDITION_STMT": "제3판, 등단 50주년 개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788965744665",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "139*204",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "411 p.",
+                "CONTROL_NO": "CIP2020040173",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788965743910",
+                "INPUT_DATE": "20200918",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "한강",
+                "PUBLISH_PREDATE": "20201130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "그림으로 이해하는 RPA의 구조",
+    "oauthor": "니시무라 야스히로 저/김기태 역/송철오 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그림으로 이해하는 RPA의 구조",
+                "link": "https://search.shopping.naver.com/book/catalog/32457183295",
+                "image": "https://shopping-phinf.pstatic.net/main_3245718/32457183295.20221019140233.jpg",
+                "author": "니시무라 야스히로",
+                "discount": "17100",
+                "publisher": "성안당",
+                "pubdate": "20201209",
+                "isbn": "9788931589962",
+                "description": "『그림으로 이해하는 RPA의 구조』 는 〈처리와 자동화를 나누어서 생각한다〉, 〈실제 사례를 2가지 시점에서 본다〉, 〈비용 절감과 자원 이행〉, 〈생산성을 높인다〉, 〈업무를 표준화한다〉, 〈소프트웨어의 집합체〉 등을 수록하고 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210319",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "니시무라 야스히로 지음 ;김기태 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "005.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/03/9788931589962.jpg",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "250 p.",
+                "CONTROL_NO": "CIP2020046865",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931589962",
+                "INPUT_DATE": "20201103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(그림으로 이해하는) RPA의 구조",
+                "PUBLISH_PREDATE": "20201209",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

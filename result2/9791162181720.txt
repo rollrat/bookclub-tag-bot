@@ -1,0 +1,67 @@
+{
+    "otitle": "사소하지만 강력한 말의 기술",
+    "oauthor": "시부야 쇼조 저/이정환 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사소하지만 강력한 말의 기술 (절대 손해 보지 않는 말하기 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465490922",
+                "image": "https://shopping-phinf.pstatic.net/main_3246549/32465490922.20230226071300.jpg",
+                "author": "시부야 쇼조",
+                "discount": "13320",
+                "publisher": "나무생각",
+                "pubdate": "20211029",
+                "isbn": "9791162181720",
+                "description": "말만 하면 손해 보는 사람과 \n말 한마디로 이득 보는 사람을 가르는 사소한 차이\n“말은 기술보다 마음의 문제다”\n\n지난 40여 년간 실용적이고 대중적인 호기심을 부르는 심리학을 주제로 300여 권의 책을 쓴 사회심리학자 시부야 쇼조의 화술 매뉴얼. 그는 오늘날 많은 이들이 외모나 스펙 같은 객관적 판단 지표는 관리하는 반면, 한번 내뱉고 나면 주워 담을 수 없는 말 한마디는 의외로 신경을 쓰지 않는다고 말한다. 누군가는 말 한마디로 사업에서도, 인간관계에서도 승승장구하고, 누군가는 말 한마디로 모두 잃고 마는 이유는 무엇일까? 회의, 협상, 발표의 기술은 물론 첫인상, 말버릇, 말실수까지 철저하게 점검하고 연습할 수 있는 구체적인 상황 예시들을 통해 절대 손해 보지 않는 말의 기술을 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20211112",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "시부야 쇼조 지음 ;이정환 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162181720",
+                "INPUT_DATE": "20211006",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(사소하지만 강력한) 말의 기술",
+                "PUBLISH_PREDATE": "20211029",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

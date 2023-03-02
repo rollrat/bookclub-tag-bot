@@ -1,0 +1,67 @@
+{
+    "otitle": "왁투",
+    "oauthor": "이미성 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왁투 (이미성 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464076432",
+                "image": "https://shopping-phinf.pstatic.net/main_3246407/32464076432.20221019132938.jpg",
+                "author": "이미성",
+                "discount": "15300",
+                "publisher": "북극곰",
+                "pubdate": "20180628",
+                "isbn": "9791189164102",
+                "description": "네이버 그라폴리오와 와우책예술센터가 공동 주최한 \n2017 창작 그림책 챌린지 당선작 『왁투』\n『왁투』는 특별한 능력을 가진 인디언 이야기입니다. 왁투의 특별한 능력 덕분에 마을 사람들은 전쟁에서 승리하지요. 하지만 전쟁이 끝나자, 마을 사람들은 마을을 재건하느라 왁투에게 그다지 관심이 없습니다. \n이제 왁투는 어떻게 사람들의 관심을 끌 수 있을까요? 『왁투』는 아주 특별한 재능을 지닌 인디언 왁투의 진짜 영웅담을 담은 그림책입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20180830",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 이미성",
+                "SERIES_TITLE": "북극곰 꿈나무 그림책",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6695159_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6695159_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "270*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[54] p.",
+                "CONTROL_NO": "CIP2018017598",
+                "SERIES_NO": "48",
+                "EA_ISBN": "9791189164102",
+                "INPUT_DATE": "20180607",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "왁투",
+                "PUBLISH_PREDATE": "20180628",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

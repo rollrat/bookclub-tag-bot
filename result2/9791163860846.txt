@@ -1,0 +1,67 @@
+{
+    "otitle": "기묘한 나라의 여행기",
+    "oauthor": "애덤 플레처 저/남명성 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기묘한 나라의 여행기 (어느 괴짜 작가가 사상 최악의 여행지에서 발견한 것들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473347071",
+                "image": "https://shopping-phinf.pstatic.net/main_3247334/32473347071.20230207163838.jpg",
+                "author": "애덤 플레처",
+                "discount": "13500",
+                "publisher": "예문아카이브",
+                "pubdate": "20211119",
+                "isbn": "9791163860846",
+                "description": "“믿기지 않겠지만, 이건 전부 실화랍니다.”\n지구의 끝에서 끝까지 걸어 나간 한 남자의 농담 같은 모험담\n아무도 찾지 않는 나라들을 헤매는 동안, 무의미한 여행에서 발견한 인생의 진짜 의미들\n\n지구상에서 가장 관광객이 적은 여행지들만 골라내어 탐험한 한 괴짜 영국인 작가의 유일무이한 여행 에세이 『기묘한 나라의 여행기(원제: Don’t Go There)』가 출간됐다. 일반적으로 관광지 또는 휴양지라 부르기 애매한 총 십 개국의 목록은 그의 고군분투기가 자연히 그려질 만큼 화려하기 그지없다. 터키, 중국, 가나, 이스라엘, 팔레스타인, 아르헨티나, 체르노빌, 트란스니스트리아, 몰도바, 그리고 여전히 베일에 싸여 있는 ‘그 나라’ 북한까지. 저자 애덤 플레처는 여행하는 동안 마주친 모든 이들이 “거기 가지 마세요!(Don’t Go There!)”라고 외치는 ‘세계의 끝’으로 단 한 순간도 고유의 유머러스함을 잃지 않은 채 자신만의 속도로 걸어 나간다. \n\n무수한 여행객들이 지금, 이 순간에도 비행기에 올라타 국경을 넘어가는 원동력은 대체 무엇일까? 휴식과 평화? 즐거움과 낭만? 내면의 자아를 찾기 위해서? 또는 현실 도피? 저자는 이 모든 여행의 목적과 방향을 달리한다. 마치 이 세상에 없는 듯한 나라들, 존재하지 않는 듯한 사람들을 전부 만나기 위해 길을 잃고 헤매는 동안, 그는 인생이라는 여행에 있어서의 진짜 의미를 기어이 찾아내고야 만다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문아카이브",
+                "DDC": "",
+                "UPDATE_DATE": "20211207",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "애덤 플레처 지음 ;남명성 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "478 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163860846",
+                "INPUT_DATE": "20211104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "기묘한 나라의 여행기",
+                "PUBLISH_PREDATE": "20211119",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

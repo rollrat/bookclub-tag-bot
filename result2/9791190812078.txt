@@ -1,0 +1,78 @@
+{
+    "otitle": "종이약국",
+    "oauthor": "니나 게오르게 저/김인순 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:10 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "종이약국 (마음이 아픈 당신을 위한 한 권의 처방전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476119386",
+                "image": "https://shopping-phinf.pstatic.net/main_3247611/32476119386.20221228073641.jpg",
+                "author": "한국서점인협의회",
+                "discount": "13500",
+                "publisher": "북바이북",
+                "pubdate": "20200915",
+                "isbn": "9791190812078",
+                "description": "지역 주민의 고민과 일상을 함께하기 위한 한국서점인협의회의 ‘종이약국’ 프로젝트 결과물. 전국 40여 개 중형 서점 연합인 한국서점인협의회는 서점마다 우체통을 설치하고 고민이 담긴 엽서를 모아, 사람들이 가장 힘들어하는 인생의 고민 20가지를 추렸다. \n\n\n\n그 고민들의 실마리를 다독가로 유명한 작가, 기자, 출판평론가 들에게 311권의 책으로 추천받아 짧은 글과 함께 엮었다. 『종이약국』은 주변 사람들의 고민을 함께 공감하고 해결할 수 있는 주요한 처방책이 될 것이다."
+            },
+            {
+                "title": "종이약국 (니나 게오르게 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32670936621",
+                "image": "https://shopping-phinf.pstatic.net/main_3267093/32670936621.20230214163745.jpg",
+                "author": "니나 게오르게",
+                "discount": "12150",
+                "publisher": "박하",
+                "pubdate": "20151126",
+                "isbn": "9788965702894",
+                "description": "한 남자의 인생을 망가뜨린 여자, 슬픔과 절망에 영혼이 산산조각 난 남자, 그리고 그들의 애달픈 사랑을 구원하는『종이약국』. 이 소설은 세기의 명작이라 손꼽히는 조지 오웰의《1984》, 주제 사라마구의 《눈먼 자들의 도시》, 로베르토 무질의《특성 없는 남자》등의 실제 책으로 인간 내면의 상처를 진단하고 치료한다는 독특한 설정부터 주목을 끈다. 또한 누구나 꿈꾸는 지적이면서 에로티시즘이 빛을 발하는 러브 스토리, 인생에서 겪는 수많은 감정 변화를 섬세하게 그려내는 표현력, 작고 사소한 사건들을 통해 삶과 사랑에 대한 깊은 통찰을 담은 작품으로 책을 출간한 전 세계 33개국의 주요 언론 매체뿐 아니라 소설가, 서평가 들에게 뜨거운 호평을 받았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "",
+                "UPDATE_DATE": "20201014",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "엮은이: 한국서점인협의회 ;지은이: 강창래,김동국,김민섭,박상률,박승민,안정희,연지원,이슬기,이영미,이용주,이유리,이유진,임윤희,장동석,전은경,최종규,한기호",
+                "SERIES_TITLE": "",
+                "KDC": "029.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/27/9791190812078.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "123*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "367 p.",
+                "CONTROL_NO": "CIP2020036646",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190812078",
+                "INPUT_DATE": "20200828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "종이약국",
+                "PUBLISH_PREDATE": "20200915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

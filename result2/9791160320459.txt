@@ -1,0 +1,67 @@
+{
+    "otitle": "완벽한 식사법",
+    "oauthor": "수전 퍼스 톰슨 저/엄성수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "완벽한 식사법 (과학으로 증명된 평생 유지 다이어트 솔루션)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455928031",
+                "image": "https://shopping-phinf.pstatic.net/main_3245592/32455928031.20221019152458.jpg",
+                "author": "수전 퍼스 톰슨",
+                "discount": "15300",
+                "publisher": "싸이프레스",
+                "pubdate": "20180705",
+                "isbn": "9791160320459",
+                "description": "절대원칙 식사법으로 체중으로 인한 자괴감에서 벗어나자!\n\n전 세계적으로 약 20억 명이 과체중이고 그중 약 6억 명이 비만이다. 그리고 다이어트를 하는 사람들의 99%가 체중을 줄이는 데 실패한다. 무수히 많은 다이어트 방법들은 계속해서 쏟아져 나오지만 사람들은 철저하게 실패한다. 사람들은 살빼기를 계속 시도하고 실패하기를 반복하지만 ‘왜 다이어트에 실패하는지’에 대해 단순히 자신의 의지력을 탓할 뿐 어떤 의문도 제기하지 않는다. \n우등생이고 모든 일에 자신만만했었지만 몸매에 관해서 만큼은 열등감 덩어리였던 저자는 뚱뚱했던 시절 수많은 다이어트 방법을 시도했고, 약물 중독의 늪에 빠져 허우적거리기를 여러 번이었다. 그녀는 음식에 의한 식단 조절, 칼로리 소모를 위한 운동 등 쏟아져 나오는 다이어트 방법들이 왜 성공하지 못하는지, 설사 성공하더라도 유지할 수 없는지 의문을 가지게 되었고 많은 연구 논문과 실험 결과 등을 조사하며 마침내 한 가지 답에 이르렀다. 바로 우리 뇌가 체중감량을 방해한다는 사실이다. 왜 우리 뇌가 건강을 해치고 있는지 뇌 과학자인 그녀는 하나씩 파헤쳐갔고 그 결과 우리 뇌의 특성에 따른 ‘절대원칙’을 밝혀냈다. \n무엇이 문제인지 원인을 파악하고 나면 해결방안에 접근하기가 쉬워진다. 절대원칙 식사법은 천편일률적으로 동일한 방법을 제안하는 다이어트법이 아니다. 사람마다 다른 성향을 인지하고 음식에 대한 반응을 우선적으로 알고 그에 맞는 식사법을 스스로 설계하는 것이다. 따라서 무리 없이 자신에게 꼭 맞는 설계가 가능한 것이다. 또 중독성 강한 음식으로부터 우리 뇌를 치유하고 치유된 뇌를 통해 자동화된 시스템으로 우리 몸에 새롭게 적용할 수 있게 하기 때문에 완벽한 다이어트가 가능한 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Cypress(싸이프레스)",
+                "DDC": "613.25",
+                "UPDATE_DATE": "20180628",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "www.cypressbook.co.kr",
+                "AUTHOR": "수전 퍼스 톰슨 지음 ;엄성수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "517.52",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6692324_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "379 p.",
+                "CONTROL_NO": "CIP2018017510",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160320459",
+                "INPUT_DATE": "20180605",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "완벽한 식사법",
+                "PUBLISH_PREDATE": "20180705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

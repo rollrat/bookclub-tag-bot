@@ -1,0 +1,67 @@
+{
+    "otitle": "시장 조사 잘하는 습관",
+    "oauthor": "김윤태 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "시장 조사 잘하는 습관 (시장 조사를 어려워하는 사람들을 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464067371",
+                "image": "https://shopping-phinf.pstatic.net/main_3246406/32464067371.20221229071747.jpg",
+                "author": "김윤태",
+                "discount": "13770",
+                "publisher": "좋은습관연구소",
+                "pubdate": "20201123",
+                "isbn": "9791197176920",
+                "description": "대기업에서 시장 조사를 한다면 큰 비용을 들여 리서치 회사에 맡긴 후 조사 결과 보고서를 받아보면 그만이다. 하지만 작은 기업이라면? 시시각각 변하는 트렌드를 재빨리 읽고 신제품 출시에 마케팅 활동까지 해야 하는데, 매번 공들여 시장 조사를 하는 게 가능할까? 그리고 그 비용은 누가 감당을 하고? 이 책은 바로 그런 문제의식에서 출발했다. \n\n\n\n아주 작업 기업부터 중견 기업까지 다양한 목적과 범위로 우리는 시장 조사를 필요로 한다. 그렇다면 좀 더 적은 비용으로 좀 더 빠르게 시장 조사를 할 수 있는 방법은 없을까? 있다!! 이 책은 바로 현업에서 바로 써먹을 수 있는 가장 효과적이고 핵심을 찌르는 시장 조사 방법을 안내하고 있다. \n\n\n\n전문 조사 기간이 아닌 기업 자체적으로 진행할 때 유의해야 할 점과 꼭 알아 두어야 할 점 등을 상세히 담았다. 그리고 상시적인 시장 조사가 이뤄지기 위해 시장 인사이트를 어떻게 기를 수 있는지, 어떤 자세로 조사 결과를 해석해야 하는지도 담았다. 마케팅 담당자나 상품 기획자가 평소 갖고 있어야 할 시장에 대한 태도와 분석 기법까지 모두 다루고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "좋은습관연구소",
+                "DDC": "",
+                "UPDATE_DATE": "20210114",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김윤태 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.58",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "195 p.",
+                "CONTROL_NO": "CIP2020047018",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197176920",
+                "INPUT_DATE": "20201104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(시장 조사를 어려워하는 사람들을 위한) 시장 조사를 잘하는 습관",
+                "PUBLISH_PREDATE": "20201123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "글로스터의 홈가드닝 이야기",
+    "oauthor": "글로스터(박상태) 저/아피스토(신주현) 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "글로스터의 홈가드닝 이야기 (초보 식물 집사를 위한 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32733666623",
+                "image": "https://shopping-phinf.pstatic.net/main_3273366/32733666623.20230225070944.jpg",
+                "author": "글로스터",
+                "discount": "17820",
+                "publisher": "미디어샘",
+                "pubdate": "20220617",
+                "isbn": "9788968572135",
+                "description": "네이버 식물 인플루언서 ‘글로스터’\n10년 홈가드닝 노하우를 한 권에 담은 책\n\n네이버 식물 인플루언서 ‘글로스터’의 식물 잘 키우는 법을 담은 책 《글로스터의 홈가드닝 이야기》가 출간되었다. 네이버 이웃 1만 2천여 명과 소통하고 있는 그는, 15년간 하루도 빠짐없이 식물과 관련된 포스팅을 해오고 있다. 이 책은 그동안 식물을 키우면서 터득한 노하우를 아낌없이 담아냈다. \n이 책은 열대 관엽식물을 중심으로 식물 키우기의 기본 원리와 식물 번식법에 중점을 두었다. 식물의 품종을 중심으로 키우는 법을 소개하는 기존에 식물실용서들과는 달리, 모든 식물에게 적용할 수 있는 기본 원리에 충실했다. 계절에 따른 식물관리법, 흙 배합법, 물 주기, 습도, 환기, 빛 등 식물에게 꼭 필요한 요소다. 하지만 실제로 식물 키우는 데 적용하기에는 식물 키우는 환경이 모두 다르다. 저자는 이 책에서 왜 습도가 중요한지, 물주기는 어떤 기준으로 주어야 하는지 등 다양한 관점에서 환경과 상관없이 모든 식물집사들이 적용할 수 있는 원리를 알기 쉽게 설명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미디어샘",
+                "DDC": "",
+                "UPDATE_DATE": "20220704",
+                "EA_ADD_CODE": "13520",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글로스터 글 ;아피스토 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788968572135",
+                "INPUT_DATE": "20220704",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "글로스터의 홈가드닝 이야기",
+                "PUBLISH_PREDATE": "20220617",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "특허로 말하라",
+    "oauthor": "신무연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:40 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "특허로 말하라 (기업과 개인의 경쟁력을 높이는 세상 쉬운 특허 설명서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485530559",
+                "image": "https://shopping-phinf.pstatic.net/main_3248553/32485530559.20230214163951.jpg",
+                "author": "신무연",
+                "discount": "16200",
+                "publisher": "이담북스",
+                "pubdate": "20201130",
+                "isbn": "9791166031809",
+                "description": "변리사로 활동 중인 저자의 현장 경험을 토대로 개념부터 적용까지 모두를 위한 특허 사용법을 담았다. 국내외 특허 침해 사례와 함께 설명해 이해를 도우며 특허의 속성부터 취득 방법, 활용 전략, 해외출원 노하우까지 놓치지 않고 기술했다. 이제 특허를 모르면 성공할 수 없다. 개인의 발명과 기업의 사업 아이템을 보호하는 가장 건실한 방법을 소개한다."
+            },
+            {
+                "title": "특허로 말하라(큰글자도서) (기업과 개인의 경쟁력을 높이는 세상 쉬운 특허 설명서)",
+                "link": "https://search.shopping.naver.com/book/catalog/37774124628",
+                "image": "https://shopping-phinf.pstatic.net/main_3777412/37774124628.20230214163915.jpg",
+                "author": "신무연",
+                "discount": "34200",
+                "publisher": "이담북스",
+                "pubdate": "20230131",
+                "isbn": "9791169830676",
+                "description": "변리사로 활동 중인 저자의 현장 경험을 토대로 개념부터 적용까지 모두를 위한 특허 사용법을 담았다. 국내외 특허 침해 사례와 함께 설명해 이해를 도우며 특허의 속성부터 취득 방법, 활용 전략, 해외출원 노하우까지 놓치지 않고 기술했다. 이제 특허를 모르면 성공할 수 없다. 개인의 발명과 기업의 사업 아이템을 보호하는 가장 건실한 방법을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20210115",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "신무연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "282 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166031809",
+                "INPUT_DATE": "20201015",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "특허로 말하라",
+                "PUBLISH_PREDATE": "20201130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

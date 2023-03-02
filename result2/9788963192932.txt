@@ -1,0 +1,67 @@
+{
+    "otitle": "최무영 교수의 물리학 이야기",
+    "oauthor": "최무영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "최무영 교수의 물리학 이야기 (찾아가는 강의실)",
+                "link": "https://search.shopping.naver.com/book/catalog/32469074640",
+                "image": "https://shopping-phinf.pstatic.net/main_3246907/32469074640.20221019101728.jpg",
+                "author": "최무영",
+                "discount": "14400",
+                "publisher": "북멘토",
+                "pubdate": "20190307",
+                "isbn": "9788963192932",
+                "description": "▶ 물리학에 관한 내용을 담은 전문서적입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20190311",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "http://www.bookmentorbooks.co.kr",
+                "AUTHOR": "최무영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "420.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/15/9788963192932.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272 p.",
+                "CONTROL_NO": "CIP2019005782",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963192932",
+                "INPUT_DATE": "20190215",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(찾아가는 강의실) 최무영 교수의 물리학 이야기",
+                "PUBLISH_PREDATE": "20190307",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

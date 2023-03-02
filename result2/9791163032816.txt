@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 자바 완전 정복",
+    "oauthor": "김동형 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 자바 완전 정복",
+                "link": "https://search.shopping.naver.com/book/catalog/32455536636",
+                "image": "https://shopping-phinf.pstatic.net/main_3245553/32455536636.20230218110533.jpg",
+                "author": "김동형",
+                "discount": "24300",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20210901",
+                "isbn": "9791163032816",
+                "description": "국내 최다 도해 & 그림, 1년치 영상 강의까지! 자바 입문서 끝판왕 등장!\n“컴퓨터공학과 대학 교재로 안성맞춤!”\n\n진짜 개발자가 되려는 사람들을 위한 자바 프로그래밍 입문서가 나왔다! 이 책은 ‘이제 막 프로그래밍에 입문한 사람’에게 꼭 필요한 기본기부터 ‘찐개발자’라면 꼭 알아야 할 내용까지 국내 집필서 중 가장 많은 도해와 그림을 이용해 설명한다. 특히 프로그래밍 초심자들이 어려워하는 프로그램의 동작을 컴퓨터의 두뇌를 사진 찍듯 그림과 함께 설명한 구성이 눈에 띈다. 단기 코딩 학원에서는 다루지 않는 원리와 배경지식까지 배우며 정통 프로그래머로 거듭나는 뿌듯함을 느껴 보자. 여기에 400여 개의 프로그래밍 문제가 들어 있어 시험과 취업 면접도 대비할 수 있다. 컴퓨터공학과 1학년생부터 실무에서 자바를 쓰는 현직 개발자까지, 자바로 코딩하는 사람이라면 반드시 갖춰야 할 기본기를 이 책과 함께 ‘완전 정복’ 해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20210929",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "김동형 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "853 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163032816",
+                "INPUT_DATE": "20210805",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(Do it!) 자바 완전 정복",
+                "PUBLISH_PREDATE": "20210901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

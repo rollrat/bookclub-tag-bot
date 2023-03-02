@@ -1,0 +1,67 @@
+{
+    "otitle": "방방곡곡 세계 지리 여행",
+    "oauthor": "김은하 글/이로운 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "방방곡곡 세계 지리 여행 (지구, 어디까지 가 봤니?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491932768",
+                "image": "https://shopping-phinf.pstatic.net/main_3249193/32491932768.20221228073626.jpg",
+                "author": "김은하",
+                "discount": "11700",
+                "publisher": "봄나무",
+                "pubdate": "20190917",
+                "isbn": "9791156131328",
+                "description": "아시아·유럽·아프리카·아메리카·오세아니아를 넘나들며\n펼쳐지는 환상의 세계 지리 탐험!\n아름다운 우리 지구, 어디까지 가 봤니ㆍ\n\n《방방곡곡 한국 지리 여행》의 후속작, 이번에는 세계 여행이다!\nㆍ위도와 경도가 뭘까? ㆍ표준시란 뭘까? ㆍ그린란드는 지도에서 왜 커 보일까?\nㆍ세계에서 가장 큰 폭포는? ㆍ올림픽기가 동그라미 다섯 개인 이유는?\n\n《방방곡곡 세계 지리 여행》에서는 초등학교 사회 시간에 배우는 다양한 사회 개념들을 소개합니다. 소개하는 사회 개념들은 세계·기후·지형·산·강(호수)·바다의 여섯 장에 나누어 실었습니다. 개정 사회 교과서와 연계되는 내용으로 엄선한 사회 지리 개념들은 사회 학습에 많은 도움을 줄 것입니다. 풍부한 사진과 이해를 돕는 아기자기한 그림들을 통해 사회 지리를 친숙하게 느낄 수 있도록 구성했습니다.\n이 책에서는 필수 사회 개념과 연관 지어 함께 보면 좋을 다양한 지형들도 소개합니다. 드넓은 지구에 펼쳐져 사람들에게 관심을 받는 지형들을 통해 전 세계를 여행하는 느낌이 들 거예요.\n사회 지리와 지형 이야기 외에 어린이가 알아두면 좋을 신기하고 놀라운 사회 지리 상식도 알려 줍니다. 호기심이 생길 만한 주제의 상식들을 가려 뽑아 지루하지 않도록 핵심 내용으로만 꾸몄습니다. 신기하고 놀라운 세계 지리 상식들은 어린이들의 사회 지리 견문이 늘어날 수 있도록 밑거름이 되어 줄 것입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "봄나무",
+                "DDC": "",
+                "UPDATE_DATE": "20191024",
+                "EA_ADD_CODE": "73980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김은하 지음 ;이로운 그림",
+                "SERIES_TITLE": "",
+                "KDC": "980",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/13/9791156131328.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "200 p.",
+                "CONTROL_NO": "CIP2019031781",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156131328",
+                "INPUT_DATE": "20190813",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "방방곡곡 세계 지리 여행",
+                "PUBLISH_PREDATE": "20190917",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

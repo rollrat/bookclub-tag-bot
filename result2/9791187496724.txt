@@ -1,0 +1,67 @@
+{
+    "otitle": "일단 멈춤, 교토",
+    "oauthor": "송은정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일단 멈춤, 교토 (서두르지 않고, 느긋하게 교토 골목 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436155542",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436155542.20230207163758.jpg",
+                "author": "송은정",
+                "discount": "12600",
+                "publisher": "꿈의지도",
+                "pubdate": "20180219",
+                "isbn": "9791187496724",
+                "description": "카페 문화가 발달한 트렌디한 도시이면서 동시에 오랜 전통을 바탕으로 한 유서 깊은 브랜드가 풍부한 도시 교토. 에서는 기존 가이드북에서 볼 수 없었던 교토의 로컬 상점, 감각적인 카페와 베이커리, 숨겨진 식당 등을 소개함으로써 교토 여행의 새로운 방식을 제안한다. 전통가옥이 늘어선 고즈넉한 골목, 교토 사람들의 안식처 가모강, 전차가 오가는 기찻길을 따라 걸으며 바쁜 일상에 작은 쉼표를 찍어 보는 여행. 카페 문화와 개인이 운영하는 소규모 상점에 관심이 많고, 관광지보다는 골목 구석구석을 거닐고 싶은 일상 여행자에게 추천하고 싶은 특별한 교토 가이드북."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20180504",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "송은정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "221 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187496724",
+                "INPUT_DATE": "20180123",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "일단 멈춤, 교토",
+                "PUBLISH_PREDATE": "20180219",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

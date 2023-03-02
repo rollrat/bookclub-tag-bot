@@ -1,0 +1,67 @@
+{
+    "otitle": "CSS 수퍼파워 Sass로 디자인하라",
+    "oauthor": "양용석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "CSS 수퍼파워 Sass로 디자인하라 (실전 예제로 배우는 Sass 웹 디자인의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494121976",
+                "image": "https://shopping-phinf.pstatic.net/main_3249412/32494121976.20220527031227.jpg",
+                "author": "양용석",
+                "discount": "0",
+                "publisher": "로드북",
+                "pubdate": "20160822",
+                "isbn": "9788997924233",
+                "description": "『CSS 수퍼파워 Sass로 디자인하라』는 저자가 직접 Sass로 CSS 디자인을 해보면서 익힌 실무 경험을 녹여낸 책이다. “Sass가 이런 것이다”가 아니라 “Sass로 이렇게 쉽게 웹 디자인을 할 수 있다”를 말하고 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20160830",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "양용석",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "228",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924233",
+                "INPUT_DATE": "20160803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "CSS 수퍼파워 Sass로 디자인하라",
+                "PUBLISH_PREDATE": "20160822",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

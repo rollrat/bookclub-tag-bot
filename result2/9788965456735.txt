@@ -1,0 +1,67 @@
+{
+    "otitle": "좋은 문장을 쓰고 싶다면",
+    "oauthor": "이진원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋은 문장을 쓰고 싶다면 (소소하지만 굉장한 우리말 맞춤법 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497503789",
+                "image": "https://shopping-phinf.pstatic.net/main_3249750/32497503789.20221229072024.jpg",
+                "author": "이진원",
+                "discount": "16200",
+                "publisher": "산지니",
+                "pubdate": "20201009",
+                "isbn": "9788965456735",
+                "description": "개인적으로, 글을 판단하는 두 가지 기준이 있다.\n\n지금이야말로 ‘좋은’ 문장이 필요한 시대다\n★\n교열 전문기자가 아낌없이 공개하는\n문장의 품격을 높이는 비밀!\n★\n당신의 문장은 지금보다 \n더 좋아질 수 있다!\n\n▶ 어제보다 더 ‘좋은 문장을 쓰고 싶은’ 당신을 위한,\n   알아두면 쓸모 있는 교열 전문기자의 우리말 맞춤법 이야기\n누구나 작가가 될 수 있는 시대, 하루 종일 무언가를 읽고 쓰는 시대, 지금이야말로 ‘좋은’ 문장이 필요한 때다. 이 책은 조금 더 나은 문장을 쓰고 싶은 당신에게 전하는 우리말 맞춤법 이야기이다. \n이 책을 쓴 교열기자 이진원은 2010년부터 11년째 부산일보 교열부 데스크(교열팀장, 교열부장)를 맡고 있고, 2003년부터 맞춤법 칼럼 ‘바른말 광’을 매주 연재하고 있다. 이번 책에서는 그간 연재한 칼럼 870여 편 중에서도 ‘좋은 문장’을 쓰는 방법에 주목하여 원고를 선별해 엮었다. 교열기자 일을 하며 만났던 문장들을 예시로 들며 일상에서 틀리기 쉬운 맞춤법을 설명한다. \n많은 사람은 생각한다. ‘‘한글 맞춤법’은 왜 이렇게 복잡하고 어려운 걸까?’ 이에 〈좋은 문장을 쓰고 싶다면〉의 저자는 ‘한국말은 어렵다’는 생각은 ‘잘 모르기 때문에’ 생기는 선입견이라고 답한다. 원리를 깨친다면 높게만 느껴지는 맞춤법의 벽도 이전에 비해 편하게 넘을 수 있다며, 올바른 글쓰기의 세계로 독자들을 인도한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20201103",
+                "EA_ADD_CODE": "03700",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "이진원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "711.25",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/09/21/9788965456735.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "CIP2020040573",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965456735",
+                "INPUT_DATE": "20200921",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "좋은 문장을 쓰고 싶다면",
+                "PUBLISH_PREDATE": "20201009",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

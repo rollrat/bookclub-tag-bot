@@ -1,0 +1,67 @@
+{
+    "otitle": "초콜릿 우체국",
+    "oauthor": "황경신 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초콜릿 우체국 (38 True stories & Innocent Lies)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492910881",
+                "image": "https://shopping-phinf.pstatic.net/main_3249291/32492910881.20221019115341.jpg",
+                "author": "황경신",
+                "discount": "12420",
+                "publisher": "소담출판사",
+                "pubdate": "20160201",
+                "isbn": "9788973815500",
+                "description": "『초콜릿 우체국』은 1990~2000년대 사이, 잡지 [페이퍼]에 한 편씩 연재되었던 글을 묶은 것이다. ’아주 먼 곳에서 온 듯한’, 그러나 ‘완벽한 룸메이트’처럼 내 마음을 꼭 지탱해주는 서른여덟 편의 짧은 이야기들은 세월이 무색할 만큼 여전히 감각적이고 따뜻하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소담출판사",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20160217",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황경신",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5159926_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5159926_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "227",
+                "CONTROL_NO": "CIP2016000787",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788973815500",
+                "INPUT_DATE": "20160111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "초콜릿 우체국",
+                "PUBLISH_PREDATE": "20160201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

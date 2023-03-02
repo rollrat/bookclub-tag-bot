@@ -1,0 +1,67 @@
+{
+    "otitle": "좋은 집 구하는 기술",
+    "oauthor": "김인만,아임해피(정지영),월천대사(이주현),새벽하늘(김태훈) 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋은 집 구하는 기술 (누구나 갖고 싶은 집은 어디든 있다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461175653",
+                "image": "https://shopping-phinf.pstatic.net/main_3246117/32461175653.20221019104447.jpg",
+                "author": "김인만",
+                "discount": "16200",
+                "publisher": "위너스북",
+                "pubdate": "20190310",
+                "isbn": "9791189352097",
+                "description": "No. 1 부동산 정보 플랫폼 직방과 국내 최고의 부동산 전문가들이 만났다\n입지 전문가 빠숑(김학렬) 등 8인이 강력 추천하는 탄탄한 부동산 입문서!\n\n불안한 부동산시장에서 흔들리지 않으려면 확실한 정보에 집중해야 한다. 약 2,000만 다운로드 수를 기록하며, 대한민국 No. 1 부동산 정보 플랫폼으로 자리 잡은 직방이 내 집 마련에 어려움을 겪는 사람들을 위해 국내 최고의 전문가들을 모았다. ‘부동산, 어떻게 살 것인가’ 시리즈를 기획하여, 부동산 지식이 없어 막막한 사람에게 실용적인 가이드를 제시한다. 전문가들의 오랜 경험과 현장에서 얻은 노하우가 담긴 이 칼럼은 다음과 네이버 등 포털사이트에서 2.000만 조회 수를 기록하며 많은 관심을 받았다. 내 집 마련에 도움 되는 칼럼을 모아 출간한 《좋은 집 구하는 기술》에는 새로운 내용뿐만 아니라, 다양한 사례와 데이터를 담아 부동산시장을 폭넓게 이해하도록 구성했다. 집을 구하는 사람이라면 꼭 읽어야 할 필독서로, 많은 독자에게 해법을 제공하고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Winners Book(위너스북)",
+                "DDC": "332.6324",
+                "UPDATE_DATE": "20190513",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김인만,정지영,이주현,김태훈",
+                "SERIES_TITLE": "",
+                "KDC": "327.87",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7147879_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7147879_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "366 p.",
+                "CONTROL_NO": "CIP2019004259",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189352097",
+                "INPUT_DATE": "20190207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "좋은 집 구하는 기술",
+                "PUBLISH_PREDATE": "20180310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

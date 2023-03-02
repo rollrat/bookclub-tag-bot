@@ -1,0 +1,67 @@
+{
+    "otitle": "우리가 아는 모든 언어",
+    "oauthor": "존 버거 저/김현우 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리가 아는 모든 언어",
+                "link": "https://search.shopping.naver.com/book/catalog/32441429054",
+                "image": "https://shopping-phinf.pstatic.net/main_3244142/32441429054.20221019150546.jpg",
+                "author": "존 버거",
+                "discount": "13500",
+                "publisher": "열화당",
+                "pubdate": "20190210",
+                "isbn": "9788930105835",
+                "description": "존 버거 에세이 『우리가 아는 모든 언어』. 이 책에 담긴 11편의 짧거나 긴 에세이들에는 그의 드로잉과 메모, 회상은 물론, 알베르 카뮈부터 전 세계적 자본주의에 이르기까지 모든 것에 대한 그의 사려 깊은 생각이 담겨 있다. 마지막 순간까지도 놓지 않고 소리내어 부르려 했던 이름 없는 대상들은 그가 피워 놓은 모닥불 곁으로 하나둘 모여들었다. 마른자리와 따뜻한 담요가 있는 그곳에는 어디에도 기록되지 않은 이들의 노래와 춤과 눈물이 뒤섞여 있다. 그리고 오늘처럼 바람이 짙어진 계절, 그는 한 걸음 앞선 시공간에서 여전히 우리를 기다리고 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열화당",
+                "DDC": "824.914",
+                "UPDATE_DATE": "20170918",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.youlhwadang.co.kr",
+                "AUTHOR": "존 버거 [지음] ;김현우 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "844",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6138298_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6138298_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "111 p.",
+                "CONTROL_NO": "CIP2017004394",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788930105835",
+                "INPUT_DATE": "20170216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "(존 버거) 우리가 아는 모든 언어",
+                "PUBLISH_PREDATE": "20170305",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

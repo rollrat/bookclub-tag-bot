@@ -1,0 +1,67 @@
+{
+    "otitle": "선생님, 내 부하해",
+    "oauthor": "하이타니 겐지로 저/햇살과 나무꾼 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "선생님 내 부하 해 (하이타니 겐지로 선생님과 함께 어린이 시 쓰기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506167752",
+                "image": "https://shopping-phinf.pstatic.net/main_3250616/32506167752.20221019150520.jpg",
+                "author": "하이타니 겐지로",
+                "discount": "8100",
+                "publisher": "양철북",
+                "pubdate": "20091207",
+                "isbn": "9788963720111",
+                "description": "아이들이라는 우주 속에서 ‘시’를 배운다!\n하이타니 겐지로가 아이들과 주고받은 첫 마음을 담은 책\n\n『선생님 내 부하 해』는 17년 동안 아이들에게 글쓰기를 가르쳤던 하이타니 겐지로가 쓴 어린이 시 쓰기 지도서입니다. 아이들이 시를 생활 속에서 즐기며 쓸 수 있도록 가르쳐 주는 책으로, 하이타니 겐지로 선생님이 아이들에게서 배운 것, 아이들과 주고받은 마음이 담겨 있습니다. \n\n시 속에는 아이들의 눈에 비친 세상, 아이들의 솔직한 마음이 특유의 상상력으로 표현되어 있으며, 하이타니 겐지로는 그것들을 아이들의 입장에서 재치 있게 엮어 냈습니다. 이 책을 통해 어른들은 아이들이라는 우주를 이해할 수 있을 것이며, 어린이들은 시 쓰기 방법을 쉽고 재미있게 익힐 수 있을 것입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "양철북",
+                "DDC": "",
+                "UPDATE_DATE": "20091215",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하이타니 겐지로 지음 ;햇살과 나무꾼 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963720111",
+                "INPUT_DATE": "20091214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "선생님, 내 부하 해",
+                "PUBLISH_PREDATE": "20091207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

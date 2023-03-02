@@ -1,0 +1,67 @@
+{
+    "otitle": "부트스트랩으로 디자인하라",
+    "oauthor": "양용석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부트스트랩으로 디자인하라 (싱글 웹 페이지 & 반응형 웹사이트 쾌속 개발)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489538127",
+                "image": "https://shopping-phinf.pstatic.net/main_3248953/32489538127.20221227202740.jpg",
+                "author": "양용석",
+                "discount": "19800",
+                "publisher": "로드북",
+                "pubdate": "20141120",
+                "isbn": "9788997924134",
+                "description": "부트스트랩을 이용해서 요즘 유행하는 싱글 페이지 웹사이트를 디자인해 보고 부트스트랩의 여러 기능을 이용해서 기존에 있던 사이트들을 부트스트랩을 이용하여 재코딩하여 디자인해 봄으로써, 부트스트랩이 얼마나 편리하게 사용될 수 있는지를 깨닫고 배울 수 있는 실무형 책이다. 부트스트랩의 기초지식도 전반부에 자세하게 다루기 때문에 HTML5와 CSS3에 익숙한 독자라면 웹 디자이너로서 한 단계 성장할 수 있는 계기가 될 것이다.\n\n_대상 독자\n“CSS 스타일링이 너무 번거롭고 어렵고 오래 걸려요?”\n“반응형 웹사이트까지 고려해야 하니 죽을 맛입니다.”\n“창의적 디자인요? 그럴 시간이 어디 있어요?”\n“담당자가 바뀌면 웹 디자인 고치기도 힘들어요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20141210",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "양용석",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924134",
+                "INPUT_DATE": "20141103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "부트스트랩으로 디자인하라: 싱글 웹 페이지&반응형 웹사이트 쾌속 개발",
+                "PUBLISH_PREDATE": "20141118",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

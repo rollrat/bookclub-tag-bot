@@ -1,0 +1,67 @@
+{
+    "otitle": "신화 리더십을 말하다",
+    "oauthor": "고운기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "신화 리더십을 말하다",
+                "link": "https://search.shopping.naver.com/book/catalog/32466551171",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466551171.20221019104545.jpg",
+                "author": "고운기",
+                "discount": "13500",
+                "publisher": "현암사",
+                "pubdate": "20120625",
+                "isbn": "9788932316291",
+                "description": "건국신화의 주인공을 통해 바라본 9가지 리더십의 덕목!\n\n삼국유사 전문가 고운기가 전하는「스토리텔링 삼국유사」시리즈 제4권『신화 리더십을 말하다』. 우리 건국신화 주인공들은 어떤 리더십을 가졌는지 살펴보고, 그들이 가진 리더십을 통해 우리가 바라는 진정한 리더의 상을 찾아볼 수 있도록 한 책이다. 웅녀부터 해부루와 금와, 고주몽, 온조, 박혁거세, 석탈해와 김알지, 김수로, 견훤, 왕건 등 우리 건국신화에 등장하는 열한 명의 신화적인 인물을 대상으로 하였다. 특히 김수로는 눈높이가 같은 소통을 하여 ‘눈높이 리더십’, 고주몽은 물지게꾼과 같은 전문성을 지녀 ‘물지게 리더십’, 온조는 집토끼 같은 현실 감각을 지녀 ‘집토끼 리더십’ 등 우리 주변에서 흔히 쓰는 말로 리더십을 표현하여 보다 쉽고 친근하게 접근하였다. 이들의 아홉 가지 리더십 덕목을 통해 우리의 작고 평범한 일상에서 활용할 만한 영감(inspiration)을 찾아볼 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "951.901",
+                "UPDATE_DATE": "20120712",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "고운기 지음",
+                "SERIES_TITLE": "스토리텔링 삼국유사 ",
+                "KDC": "911.03",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2561304_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2561304_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2561304_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012002788",
+                "SERIES_NO": "4",
+                "EA_ISBN": "9788932316291",
+                "INPUT_DATE": "20120618",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "신화 리더십을 말하다 ",
+                "PUBLISH_PREDATE": "20120625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

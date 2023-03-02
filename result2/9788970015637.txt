@@ -1,0 +1,67 @@
+{
+    "otitle": "진짜 식품첨가물 이야기",
+    "oauthor": "최낙언 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "진짜 식품첨가물 이야기 (아무도 알려주지 않는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492645587",
+                "image": "https://shopping-phinf.pstatic.net/main_3249264/32492645587.20220527063803.jpg",
+                "author": "최낙언",
+                "discount": "0",
+                "publisher": "예문당",
+                "pubdate": "20131008",
+                "isbn": "9788970015637",
+                "description": "『진짜 식품첨가물 이야기』는 온갖 오해와 편견에 둘러싸인 식품첨가물에 대한 고정관념을 버리고, 식품첨가물을 제대로 이해하여 식품에 대한 불안함을 덜어준다. 20년 이상 첨가물을 다루고 분석한 저자의 경험을 통해 우리가 몰랐던 진짜 식품첨가물의 모습에 대해 알아본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문당",
+                "DDC": "664.06",
+                "UPDATE_DATE": "20131004",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "www.yemundang.com",
+                "AUTHOR": "최낙언",
+                "SERIES_TITLE": "",
+                "KDC": "574.06",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2962611_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2962611_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2962611_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013017490",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970015637",
+                "INPUT_DATE": "20130905",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "아무도 알려주지 않는 진짜 식품첨가물 이야기",
+                "PUBLISH_PREDATE": "20131008",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

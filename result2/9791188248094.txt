@@ -1,0 +1,67 @@
+{
+    "otitle": "가까운 날들의 사회학",
+    "oauthor": "정인호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가까운 날들의 사회학 (가장 익숙한 곳에서 발견하는 새로운 생각들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457431904",
+                "image": "https://shopping-phinf.pstatic.net/main_3245743/32457431904.20221019132800.jpg",
+                "author": "정인호",
+                "discount": "10800",
+                "publisher": "웨일북(whalebooks)",
+                "pubdate": "20171011",
+                "isbn": "9791188248094",
+                "description": "우리가 바라는 미래는 지금 살고 있는 일상에서 시작된다!\n\n당신은 원시적인가, 근시적인가? 보고 싶은 곳에 목을 빼느라 가까운 곳에 있는 기회를 까먹는 원시적 시각을 가진 이들에게 봐야 할 것들을 먼저 살피는 근시안적 관찰을 제안하는 『가까운 날들의 사회학』. 다른 사람보다 먼저 전망을 읽어내길 원하면서도 발 앞에 놓인 기회들을 의식하지 못하고 지나치는 사람들에게 우리 사회에서 성패를 경험한 다양한 기업과 인물들을 통해 관찰의 중요성을 역설한다. \n\n미래를 정확하게 읽는 사람, 나아가 미래를 만드는 사람은 자신의 주변을 세세하게 솎아내 탐구하는 일상 관찰자들이다. 일상에서의 관찰은 생각보다 쉽지 않다. 우리 모두는 대체로 보고 싶은 것을 먼저 보고, 보이는 것을 그 다음에 인식하며, 보이지 않는 것에는 관심을 두지 않기 때문이다. 이보다 더 문제인 것은 이미 스스로 모든 것을 보고 있다는 착각이다. \n\n저자는 세상 모든 일을 다 볼 수는 없고 보이지 않는 것까지 챙기기는 어렵지만, 눈앞에 펼쳐진 것들을 자세히 보려는 노력은 스스로의 의지만 있다면 가능하다고 이야기하면서 일상 속에서 흔히 볼 수 있는 모습들에 물음표를 하나씩 붙여 놓는다. SNS로 읽는 기사와 종이신문에는 무슨 차이가 있는지, 대한민국 카페를 점령한 코피스족과 카공족은 누군지, 강남에 사는 사람들이 스스로를 가난하다고 말하는 이유 등 작고 사소해 보이는 의문과 관찰들로 빚어진 상상 이상의 결과들을 살피며 변화를 일궈내는 방법을 우리에게 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Whale Books(웨일북)",
+                "DDC": "300.2",
+                "UPDATE_DATE": "20171027",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "정인호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "330.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6373914_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6373914_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215 p.",
+                "CONTROL_NO": "CIP2017025215",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188248094",
+                "INPUT_DATE": "20170925",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "가까운 날들의 사회학",
+                "PUBLISH_PREDATE": "20171011",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

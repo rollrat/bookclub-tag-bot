@@ -1,0 +1,67 @@
+{
+    "otitle": "쉽게 읽는 기독교 강요",
+    "oauthor": "존 칼빈 저/스데반 황 역/B. R. 우드 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쉽게 읽는 기독교 강요",
+                "link": "https://search.shopping.naver.com/book/catalog/32474249163",
+                "image": "https://shopping-phinf.pstatic.net/main_3247424/32474249163.20221019143355.jpg",
+                "author": "존 칼빈",
+                "discount": "10800",
+                "publisher": "생명의말씀사",
+                "pubdate": "20171011",
+                "isbn": "9788904020898",
+                "description": "참된 신앙, 기독교의 핵심 교리와 개혁 정신를 배우다\n\n《기독교 강요》의 핵심을 현대화된 언어로 쉽고 빠르게 파악하는 『쉽게 읽는 기독교 강요』. 종교개혁 이후 유럽 사회와 개신교 역사에 가장 많은 영향을 끼친 책, 오직 성경으로 돌아가자는 종교개혁 정신을 대표하는 최고의 책, 크리스천이라면 한 번은 읽어야 할 필독서를 만나본다. 정리되지 않은 신학으로 혼란에 빠진 신자들에게 바른 성경 해석과 바른 구원과 경건한 삶이 무엇인지 명쾌하고 확실하게 제시해주는 이 책을 통해 성경적 기독교의 정수를 만나볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20171019",
+                "EA_ADD_CODE": "04230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "존 칼빈 지음 ;스데반 황 옮김 ;B.R. 우드 엮음",
+                "SERIES_TITLE": "리폼드 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788904001613",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "0*0",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904020898",
+                "INPUT_DATE": "20171011",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "쉽게 읽는 기독교 강요",
+                "PUBLISH_PREDATE": "20171011",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04230 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

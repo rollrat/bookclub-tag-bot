@@ -1,0 +1,67 @@
+{
+    "otitle": "수수하지만 위대한 흙 이야기",
+    "oauthor": "후지이 가즈미치 저/홍주영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수수하지만 위대한 흙 이야기 (발밑의 우주, 흙의 신비를 풀다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445697627",
+                "image": "https://shopping-phinf.pstatic.net/main_3244569/32445697627.20221230074504.jpg",
+                "author": "후지이 가즈미치",
+                "discount": "15300",
+                "publisher": "끌레마",
+                "pubdate": "20190813",
+                "isbn": "9791189497262",
+                "description": "학교에서 아이들이 그림을 그릴 때 우리나라에서는 흙을 갈색으로 칠하고, 아프리카에서는 붉게 칠하고, 스웨덴에서는 하얗게 칠한다고 한다. 각자 자기 눈으로 보는 흙의 색이 다르기 때문이다. 비단 색뿐만 아니다. 세계 각지의 흙은 형성 과정과 성분, 특징, 재배 가능 작물 등이 모두 다르다. \n\n\n\n흙은 그 자체로 수수께끼를 품은 소우주이다. 또한 ‘흙’은 우리의 식탁을 떠받치며 인류의 생존을 책임지는 위대한 역할을 담당하고 있다. 이런 흙의 기본 원리와 지식을 알아가면서 생태, 식량과 환경, 토지를 둘러싼 국제관계, 인류의 미래에 대해서까지 생각해볼 수 있는 책이다.\n\n\n\n저자가 세계 각지로 토양을 찾아다니는 여행기 속에 흙에 관한 기본 지식을 설명하는데, 전문적인 설명 틈틈이 토양 연구에 대한 열정과 경험을 유머러스하게 서술한다. 세계 토양 관련 위원회의 일원이 되어 부족한 영어로 일본의 데이터를 토양지도에 반영한 일화, 직접 식물재배에 도전하지만 실패하고 농부의 도움을 받은 일화 등에서 저자의 뜨거운 열정을 엿볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "끌레마 :타커스",
+                "DDC": "",
+                "UPDATE_DATE": "20190820",
+                "EA_ADD_CODE": "03450",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "후지이 가즈미치 지음 ;홍주영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "521.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "CIP2019028029",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189497262",
+                "INPUT_DATE": "20190717",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "수수하지만 위대한 흙 이야기",
+                "PUBLISH_PREDATE": "20190813",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

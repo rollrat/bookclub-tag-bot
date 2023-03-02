@@ -1,0 +1,23 @@
+{
+    "otitle": "CentOS 7로 이해하는 리눅스 관리 및 시스템 보안",
+    "oauthor": "정성재,배유미,이광용 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "CentOS 7로 이해하는 리눅스 관리 및 시스템 보안",
+                "link": "https://search.shopping.naver.com/book/catalog/32485547091",
+                "image": "https://shopping-phinf.pstatic.net/main_3248554/32485547091.20221019114808.jpg",
+                "author": "정성재",
+                "discount": "22500",
+                "publisher": "북스홀릭퍼블리싱",
+                "pubdate": "20210201",
+                "isbn": "9791162890325",
+                "description": "본 도서는 CentOS 7 리눅스를 기준으로 리눅스 관리 및 시스템 보안에 필요한 기초적인 내용 위주로 구성되어 있다. 운영체제 및 리눅스의 기초적인 내용, 암호화 알고리즘을 비롯하여 보안과 관련된 사례 및 실습도 추가하였고, 관련 보안 도구의 사용법도 설명되어 있다. 마지막으로 리눅스 방화벽에 대한 내용이 수록되어 있으며 특히 기존의 \"리눅스 관리 및 시스템 보안\"에 없었던 firewalld에 대한 내용을 추가하였다. 리눅스 서버 관리 및 시스템 보안에 대한 이해도를 향상시키는데 도움이 될 것으로 판단된다."
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "투자공부 365",
+    "oauthor": "한국비즈니스정보 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "투자공부 365 (주린이를 위한 1일 1페이지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445236991",
+                "image": "https://shopping-phinf.pstatic.net/main_3244523/32445236991.20230218110651.jpg",
+                "author": "한국비즈니스정보",
+                "discount": "16200",
+                "publisher": "어바웃어북",
+                "pubdate": "20210430",
+                "isbn": "9791187150862",
+                "description": "주식투자로 돈을 벌고 싶다면 \n월화수목금토일 단 하루도 허투루 보낼 날이 없다!  \n1일 1페이지 꾸준한 공부로\n주식투자에 필요한 기본지식과 핵심 투자처를 움켜쥔다!\n\n주식투자에 앞서 반드시 알아야 할 365개의 열쇳말(키워드)을 [월]주식용어, [화]국내외 경제이슈, [수]업종전망, [목]회계와 공시, [금]유망종목 발굴, [토]언택트와 바이오, [일]K-뉴딜로 구성한 뒤, 매일 다양한 투자 이슈와 핵심 투자처를 쉽고 명쾌하게 이해할 수 있도록 풀어냈다. 무엇보다도 단순히 개념을 설명하는 데 그치지 않고 실전 투자에 바로 적용할 수 있도록 다뤘다. 이를테면 반도체와 배터리, 바이오 등 핵심 투자처 안에 숨어있는 소부장(소재·부품·장비) 우량주들을 낱낱이 밝힌 다음, 해당 종목의 주가와 실적을 분석했다. 아울러 국내 거의 모든 업종을 52개로 나눠 업종별 투자포인트를 집어낸 뒤 대장주와 유망종목을 선별하여 목표주가까지 제시했다. \n외계어만큼 난해한 주식용어와 회계·공시 개념은 실제 사례를 들어 바로 실전에 써먹을 수 있게 설명했다. 공모주와 배당 등 기초지식에서 차트 보는 법은 물론, 액면분할(병합) 같은 어려운 개념들까지 이해하는데 하루 1페이지면 충분하다. 이 모든 게 1페이지 안에 일목요연하게 정리되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "어바웃어북",
+                "DDC": "",
+                "UPDATE_DATE": "20210630",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "한국비즈니스정보 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "403 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187150862",
+                "INPUT_DATE": "20210406",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "투자공부 365",
+                "PUBLISH_PREDATE": "20210430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

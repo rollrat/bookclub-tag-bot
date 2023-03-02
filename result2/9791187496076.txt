@@ -1,0 +1,67 @@
+{
+    "otitle": "당신은 선물이에요",
+    "oauthor": "김서영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신은 선물이에요 (영화로 기억하는 여행의 순간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505808834",
+                "image": "https://shopping-phinf.pstatic.net/main_3250580/32505808834.20221229071125.jpg",
+                "author": "김서영",
+                "discount": "12420",
+                "publisher": "꿈의지도",
+                "pubdate": "20161026",
+                "isbn": "9791187496076",
+                "description": "여행이 우리에게 건네는 한 마디, ‘당신은 선물이에요’. ‘나’라는 존재는 특별하다. 누군가에게 나는 선물 같은 존재다. 세상에 이유 없이 존재하는 것은 없다. 다만 우리가 그것을 느끼지 못하고 있을 뿐이다. 자신이 특별한 존재라는 것은 스스로 깨달을 때 비로소 알게 된다. &lt;당신은 선물이에요&gt;는 여행이 주는 기쁨과 위로를 담은 ‘따뜻한’ 여행 에세이다. \n\n\n\n저자가 여행지에서 마주했던 특별한 순간을 사진과 영화 속 명대사로 잔잔하게 들려준다. 책을 펼칠 때마다 마주하는 사진은 필름 카메라 특유의 레트로한 분위기로 감성을 한껏 자극한다. 사진과 함께 수록한 글귀, 영화를 빛냈던 감동의 멘트는 위로에 목마른 우리들의 어깨를 토닥토닥 두드려준다. 그리고 말한다. 당신은 누군가에게 선물 같은 존재라는 것을."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20161025",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "김서영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187496076",
+                "INPUT_DATE": "20160919",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "당신은 선물이에요",
+                "PUBLISH_PREDATE": "20161026",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

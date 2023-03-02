@@ -1,0 +1,67 @@
+{
+    "otitle": "함께 있으면 즐거운 사람 함께 있으면 피곤한 사람",
+    "oauthor": "아리카와 마유미 저/김정환 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "함께 있으면 즐거운 사람 함께 있으면 피곤한 사람 (함께 있을 때 즐거운 사람에게는 없던 운도 생긴다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32469089657",
+                "image": "https://shopping-phinf.pstatic.net/main_3246908/32469089657.20221019114254.jpg",
+                "author": "아리카와 마유미",
+                "discount": "13320",
+                "publisher": "센시오",
+                "pubdate": "20190722",
+                "isbn": "9791196727192",
+                "description": "타인과 건강한 관계를 맺으며 살아가기 위한 가볍고도 손쉬운 요령들!\n\n『함께 있으면 즐거운 사람 함께 있으면 피곤한 사람』은 함께 있기만 해도 남들을 피곤하게 하는 사람이 되지 않기 위한 포인트와 피곤한 사람을 대처하는 방법을 소개하는 책이다. 함께 있으면 즐거워지는 사람의 대화법, 행동 습관, 사고방심의 핵심을 소개해 편안한 마음으로 좋은 인간관계를 맺을 수 있도록 도와준다.\n\n저자는 그동안 자신이 살아오면서 겪었던 상황들 가운데 누구나 쉽게 맞닥뜨릴 수 있는 사례를 중심으로 97가지를 추려 상황을 제시하고 그에 따른 맞춤형 솔루션을 제공한다. 몸소 체험하고 극복하는 가운데 터득한 원칙들은 소심하고 숫기 없던 저자를 직장인의 멘토로 성장시킨 밑거름이기도 했다. 이와 더불어 26가지 유형의 나를 피곤하게 만드는 존재에 대해 설명하면서 그들을 배척하기보다는 포용하는 성숙한 대처법을 알려주며 나를 피곤하게 하는 사람을 둥글게 대처하고, 내가 주변 사람에게 좋은 기운을 주며 즐겁게 살아갈 수 있도록 이끌어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "센시오",
+                "DDC": "",
+                "UPDATE_DATE": "20190805",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "아리카와 마유미 지음 ;김정환 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "189.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "299 p.",
+                "CONTROL_NO": "CIP2019024850",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196727192",
+                "INPUT_DATE": "20190625",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "함께 있으면 즐거운 사람 함께 있으면 피곤한 사람",
+                "PUBLISH_PREDATE": "20190722",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

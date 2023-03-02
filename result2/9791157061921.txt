@@ -1,0 +1,67 @@
+{
+    "otitle": "기울어진 교육",
+    "oauthor": "마티아스 도프케,파브리지오 질리보티 저/김승진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기울어진 교육 (부모의 합리적 선택은 어떻게 불평등을 심화시키는가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506337651",
+                "image": "https://shopping-phinf.pstatic.net/main_3250633/32506337651.20221228072555.jpg",
+                "author": "마티아스 도프케^파브리지오 질리보티",
+                "discount": "16200",
+                "publisher": "메디치미디어",
+                "pubdate": "20200319",
+                "isbn": "9791157061921",
+                "description": "우리는 어쩌다 헬리콥터 부모가 되었을까? 오늘날 교육은 더 완벽한 ‘스펙’을 만들기 위한 끝없는 경쟁이 되었다. 부모는 다섯 살 난 아이의 커리어를 걱정하며 학교생활뿐 아니라 과외 활동, 놀이 친구 맺어주기까지 아이의 일상을 촘촘히 계획하고 관리한다. 한국만의 문제가 아니다. 미국과 유럽에서 확산되는 양육 전환의 현실은 아이를 느긋하게 키우던 시대는 이제 지났다고 말한다. 대체 무슨 일이 벌어지고 있는 것일까? 《기울어진 교육》은 자녀에 대한 개별적인 욕망과 애정의 영역으로 치부되던 양육의 문제를 경제적 변화에 대한 부모의 합리적 반응으로 설명하며, 불평등한 세상에서 사랑과 돈, 그리고 자녀 교육의 관계를 새롭게 구성한다. \n\n“… 부모라면 못할 것이 없다는 망상에 빠져 사회구조의 중요성을 망각한 사람들의 필독서다.”_오찬호, 《결혼과 육아의 사회학》 저자\n“… 멀쩡한 사람들도 자녀의 교육 문제에서만큼은 맹목적이 되는 현실이 못마땅한 이들에게 이 책을 권한다.”_조귀동, 《세습 중산층 사회》 저자"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20200330",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마티아스 도프케,파브리지오 질리보티 지음 ;김승진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "332.24",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/02/28/9791157061921.jpg",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "511 p.",
+                "CONTROL_NO": "CIP2020009008",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157061921",
+                "INPUT_DATE": "20200228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "기울어진 교육",
+                "PUBLISH_PREDATE": "20200319",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

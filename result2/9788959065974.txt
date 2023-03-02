@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 옳고 너는 틀렸다",
+    "oauthor": "유창선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 옳고 너는 틀렸다 (민주주의를 무너뜨리는 극단과 광기의 정치)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485437622",
+                "image": "https://shopping-phinf.pstatic.net/main_3248543/32485437622.20221019134847.jpg",
+                "author": "유창선",
+                "discount": "14400",
+                "publisher": "인물과사상사",
+                "pubdate": "20210319",
+                "isbn": "9788959065974",
+                "description": "『나는 옳고 너는 틀렸다』는 〈문재인 시대의 극단과 광기〉, 〈정치의 두 얼굴〉, 〈조국과 추미애의 늪에 빠지다〉, 〈진영의 정치, 분열의 나라〉, 〈7080년대생의 정치를 기다린다〉등을 수록하고 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과사상사",
+                "DDC": "",
+                "UPDATE_DATE": "20210408",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "유창선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/03/9788959065974.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "316 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959065974",
+                "INPUT_DATE": "20210303",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 옳고 너는 틀렸다",
+                "PUBLISH_PREDATE": "20210319",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

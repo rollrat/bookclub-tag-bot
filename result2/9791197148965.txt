@@ -1,0 +1,67 @@
+{
+    "otitle": "영감의 글쓰기",
+    "oauthor": "김다은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영감의 글쓰기 (프로처럼 배우고 예술가처럼 무너뜨려라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455538817",
+                "image": "https://shopping-phinf.pstatic.net/main_3245553/32455538817.20230103162755.jpg",
+                "author": "김다은",
+                "discount": "14400",
+                "publisher": "무블출판사",
+                "pubdate": "20210126",
+                "isbn": "9791197148965",
+                "description": "소설가 김다은(추계예술대 교수)가 『영감의 글쓰기』(무블 출판사)라는 새 책으로 영감의 전도사가 되어서 돌아왔다. 김다은 씨는 『이상한 연애편지』로 우리나라 서간체 소설의 장을 활발하게 열었고, 섬세한 필치로 『손의 왕관』 『훈민정음의 비밀』 『금지된 정원』등 통 큰 역사소설을 써왔으며, 작가들의 연애편지를 엮거나 외국에 소설을 발표하는 등 20 여권의 책을 활발하게 발표해온 작가이다. 하지만 대학교에서 문예창작과 교수로 20년간 소설창작을 가르치면서도 글쓰기 이론서를 한 권도 쓰지 않은 특이한 이력을 가지고 있는데, 그 이유를 서문에 밝혀 놓았다. 국내외 많은 글쓰기 서적들이 창작의 기본 개념을 다루고 있긴 하지만, 진작 글쓰기 창작에서 가장 중요한 영감의 문제를 찾아볼 수 없었다는 것이다. 작품의 숨결이나 다름없는 영감을 다루지 않은 이론서는 세상에 나와 있는 책으로 충분하다고 느꼈다. 영감의 문제를 해결하지 않으면 글쓰기 이론서를 내지 않겠다고 마음먹은 20년 만에, 드디어 김다은 교수가 상식을 파괴하는 책 한 권을 세상에 내놓은 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "무블(무블출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210302",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김다은 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "291 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197148965",
+                "INPUT_DATE": "20210108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "영감의 글쓰기",
+                "PUBLISH_PREDATE": "20210126",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

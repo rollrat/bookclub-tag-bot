@@ -1,0 +1,67 @@
+{
+    "otitle": "한 권으로 읽는 빠알리 경전",
+    "oauthor": "일아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한 권으로 읽는 빠알리 경전",
+                "link": "https://search.shopping.naver.com/book/catalog/32486005159",
+                "image": "https://shopping-phinf.pstatic.net/main_3248600/32486005159.20221230072703.jpg",
+                "author": "편집부",
+                "discount": "26820",
+                "publisher": "민족사",
+                "pubdate": "20081225",
+                "isbn": "9788970095141",
+                "description": "빠알리 경전, 한 권으로 이해하라!\n\n일아 스님이 역편한 『한 권으로 읽는 빠알리 경전』. 부처님의 직계 제자들의 암송을 총망라한 것으로, '삼법인(三法印)', '사성제(四聖諦)', '팔정도(八正道)' 등 불교의 기본적 교리의 바탕이 되는 빠알리 경전을 역편한 것이다. 초기 불교에 대한 한국불교의 부정적인 관념을 깨뜨리고 있다. \n\n이 책은 다른 어느 경전에서도 볼 수 없는 심오하고 중요한 교리만을 담고 있는 빠알리 경전에 대한 이해를 도와준다. 빠아리 경전에 있는 다섯 종류의 니까야와 율장에서 핵심적인 내용만을 선별하여 엮었다. 아울러 부처님의 생애와 가르침에 대한 관련 경전을 교리적으로 뽑아 공부할 수 있도록 안내한다. \n\n또한 우리가 빠알리 경전을 통해 위대한 영적인 힘을 지닌 부처님을 만남으로써, 마음을 뒤흔드는 빼어나고 훌륭한가르침을 들을 수 있도록 인도하고 있다. 아울러 중생에 대한 한없는 자비와 연민을 부처님의 인간적인 모습은 물론, 인격, 성품, 수행 등을 엿봄으로써, 마음에 평화와 행복을 얻을 수 있도록 이끈다. 양장본."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "민족사",
+                "DDC": "",
+                "UPDATE_DATE": "20090129",
+                "EA_ADD_CODE": "03220",
+                "PUBLISHER_URL": "www.minjoksa.org",
+                "AUTHOR": "일아 엮편",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20081225",
+                "TITLE_URL": "",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "29800",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970095141",
+                "INPUT_DATE": "20090129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "(한 권으로 읽는)빠알리 경전 ",
+                "PUBLISH_PREDATE": "20081230",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

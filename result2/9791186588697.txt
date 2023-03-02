@@ -1,0 +1,67 @@
+{
+    "otitle": "거장들의 투자공식",
+    "oauthor": "고이즈미 히데키 저/김하경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "거장들의 투자공식 (12인의 투자자에게 배우는 투자원칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464889676",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464889676.20221229070827.jpg",
+                "author": "고이즈미 히데키",
+                "discount": "13050",
+                "publisher": "이레미디어",
+                "pubdate": "20170705",
+                "isbn": "9791186588697",
+                "description": "『거장들의 투자공식』은 벤저민 그레이엄, 필립 피셔, 워런 버핏, 피터 린치, 윌리엄 오닐, 짐 로저스, 존 케인스, 존 템플턴, 존 네프, 고레카와 긴조, 마틴 츠바이크, 조지 소로스 등 저명한 투자자 12명의 투자법과 투자 스토리를 정리한 책이다. 간단하면서도 읽기 쉽게 잘 요약되어 있다. 단순히 유명 투자가를 피상적으로 다룬 것이 아니라, 방대한 내용을 객관적이면서 핵심적으로 잘 정리해놓고 있다. 무엇보다 가장 큰 장점은 주식투자에 접근하는 다양한 방식과 투자철학을 한 권으로 일목요연하게 정리할 수 있다는 점이다. 내용에 나오는 투자가들의 수많은 책들을 읽지 않아도, 이 책 한 권만으로 투자 대가들의 투자법 및 투자이론의 핵심을 간단하게 마스터할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)이레미디어",
+                "DDC": "332.6322",
+                "UPDATE_DATE": "20180430",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고이즈미 히데키",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4806157_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4806157_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "280",
+                "CONTROL_NO": "CIP2015022181",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186588697",
+                "INPUT_DATE": "20150812",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "거장들의 투자공식 ",
+                "PUBLISH_PREDATE": "20170705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "우리를 지키는 더러운 것들",
+    "oauthor": "김철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리를 지키는 더러운 것들 (’정체성’이라는 질병에 대하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492206920",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492206920.20221229072115.jpg",
+                "author": "김철",
+                "discount": "14400",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20181210",
+                "isbn": "9788964621042",
+                "description": "내 안에 있지만 내 눈에 보이지 않는/보고 싶지 않은 이 비천한 육체들은 어디에 있는가? 그들은 누구인가? 나는 그들의 말을 들을 수 있는가? 일제 식민지에서 종군위안부와 강제노동의 주요 동원 대상이 되었던, 인구의 80% 이상을 점하는 농민과 문맹자와 빈민들, 그 밖에 일상적 범죄자, 매춘부, 정신병자, 장애인….\n\n\n\n존재하되 존재하지 않았던 이들은 정체성-정치의 상상력, 즉 역사 서술의 목표를 ‘국가의 신체’와 국민적 정체성의 확립에 두는 국사-민족사의 시야, 혹은 식민지의 삶을 오직 영웅적 독립투사와 비열한 친일파의 대립으로만 그리는 멜로드라마의 편집증적 시각으로는 결코 보이지 않는다. \n\n\n\n해방 이후, 미군 기지촌의 ‘위안부’ ‘양공주’, ‘혼혈아’, 간첩조작 사건의 ‘간첩’, ‘광주대단지’의 ‘폭도’, ‘막걸리반공법’의 ‘빨갱이’, 삼청교육대의 ‘부랑배’, 수용소의 장애인과 부랑자, 매춘부, 탈영병, 성소수자, 외국인노동자, 불법체류자, 난민…. 이들의 비천한 육체 역시 ‘국가의 신체’에서는 보이지 않는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "300.2",
+                "UPDATE_DATE": "20181214",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "김철 지음",
+                "SERIES_TITLE": "",
+                "KDC": "304",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6970122_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "147*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2018034330",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964621042",
+                "INPUT_DATE": "20181024",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우리를 지키는 더러운 것들",
+                "PUBLISH_PREDATE": "20181210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

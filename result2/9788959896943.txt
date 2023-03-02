@@ -1,0 +1,67 @@
+{
+    "otitle": "카카오와 네이버는 어떻게 은행이 되었나",
+    "oauthor": "김강원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "카카오와 네이버는 어떻게 은행이 되었나 (핀테크 트렌드로 보는 밀레니얼이 원하는 미래 금융)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455865644",
+                "image": "https://shopping-phinf.pstatic.net/main_3245586/32455865644.20221228074412.jpg",
+                "author": "김강원",
+                "discount": "13830",
+                "publisher": "미래의창",
+                "pubdate": "20201210",
+                "isbn": "9788959896943",
+                "description": "금융의 판을 뒤엎은 핀테크 유니콘들의 성장 전략\n그들은 어떻게 미래 산업의 지형을 바꾸는 게임체인저가 되었나?\n수십 년 동안 시중은행들은 그들이 구축한 견고한 시스템 속에서 그들을 찾아올 수밖에 없는 고객들을 그들이 정해놓은 방식으로 응대해왔다. 이렇게 해서 그들이 1년 동안 유치한 신규 고객은 모두 합쳐 15만 5천 명 정도였다. 그러던 어느 날 카카오뱅크가 등장하더니, 출시 12시간 만에 온라인으로 이보다 많은 18만 7천 명의 고객을 유치했다. 게다가 이들 중 65%는 밀레니얼 세대였다. \n새로운 금융이란 무엇인가? 단지 비대면, 온라인, 공인인증서가 없는 그런 금융이 아니다. 우리나라뿐만 아니라 전 세계에서 새로운 금융 서비스가 탄생하고 있다. 우리나라에 카카오뱅크와 네이버페이가 있다면 동남아시아에는 택시에서 시작해 이미 우버를 따라잡은 ‘그랩’이 은행을 대체하고 있고, 중국은 ‘알리페이’가 그런 역할을 한다. 증권거래 수수료의 벽을 획기적으로 낮춘 미국의 ‘로빈후드’, 학자금 대출로 시작해 전방위 금융 서비스로 도약하고 있는 ‘소피아’, 보험의 정의를 다시 내리고 있는 ‘레모네이드’ 등 핀테크는 단지 새로운, 혁신적인 금융 서비스에 그치지 않는다. 산업 전반에 걸쳐 게임의 룰을 다시 쓰며, 밀레니얼이 원하는 금융의 모든 것을 알고 있는 그들을 만나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미래의창",
+                "DDC": "",
+                "UPDATE_DATE": "20210201",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.miraebook.co.kr",
+                "AUTHOR": "김강원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2020047769",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959896943",
+                "INPUT_DATE": "20201110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "카카오와 네이버는 어떻게 은행이 되었나",
+                "PUBLISH_PREDATE": "20201221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

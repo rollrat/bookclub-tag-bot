@@ -1,0 +1,67 @@
+{
+    "otitle": "캥거루가 간다",
+    "oauthor": "이윤희 글/김가영 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "캥거루가 간다",
+                "link": "https://search.shopping.naver.com/book/catalog/32492065948",
+                "image": "https://shopping-phinf.pstatic.net/main_3249206/32492065948.20221019105834.jpg",
+                "author": "이윤희",
+                "discount": "10800",
+                "publisher": "하마",
+                "pubdate": "20210225",
+                "isbn": "9791190521321",
+                "description": "‘전진만이 살길이다.’를 신념으로 앞으로만 전진하는 어린이 캥거루. 어린이 캥거루의 이런 행동을 다른 동물들은 이해할 수 없었어요. 그냥 ‘내버려’ 두기만 할 뿐이었죠. 그러던 어느 날, 전진만 하던 어린이 캥거루는 시퍼런 바다로 방향을 잡았어요. 차가운 바닷물이 마음에 걸렸지만, 스스로 격려하고 앞으로 나아가려 할 때, 갈매기가 참견하듯 물었어요. 어린이 캥거루가 나쁜 생각을 하고 있다고 생각한 갈매기는 도움을 받고 인사도 없이 앞으로 전진하는 어린이 캥거루가 못마땅해요. 어린이 캥거루의 ‘전진만이 살길이다.’라는 신념은 어떻게 갖게 된 걸까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20210708",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 이윤희 ;그림: 김가영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "230*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "59 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190521321",
+                "INPUT_DATE": "20210107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "캥거루가 간다",
+                "PUBLISH_PREDATE": "20210225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "하루 클래식 공부",
+    "oauthor": "글릿 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:44 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "하루 클래식 공부 (1일 1곡, 나의 취향을 찾는 음악 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444891744",
+                "image": "https://shopping-phinf.pstatic.net/main_3244489/32444891744.20221019101213.jpg",
+                "author": "글릿",
+                "discount": "16200",
+                "publisher": "유유",
+                "pubdate": "20220224",
+                "isbn": "9791167700223",
+                "description": "당신의 ‘최애’ 클래식 음악은 무엇인가요? 『하루 클래식 공부』를 읽으며 내 취향에 꼭 맞는 클래식 음악을 찾아볼 것을 제안합니다. 한국예술종합학교에서 음악학을 공부하고 클래식 콘텐츠 플랫폼 ‘글릿(GLIT)’을 운영하는 두 저자가 하루에 하나의 곡을 소개합니다. 매일 QR코드를 통해 음악을 한 곡씩 들으며 저자들의 이야기를 듣다 보면 내 취향과 꼭 닮은 최애 클래식 음악을 발견할 수 있습니다. 나의 클래식 음악 취향을 찾도록 감상을 도와주는 공부책인 셈이지요. 두 저자는 클래식을 둘러싼 견고한 보수주의를 깨기 위해 글릿을 시작했습니다. 잘 알려진 작곡가의 잘 알려지지 않은 작품을 소개하기도 하고, 발굴되지 않았던 여성이나 유색인종 작곡가의 곡도 새로이 조명합니다. 하루 한 곡의 클래식 음악, 그리고 작품에 깃든 작곡가와 저자 들의 이야기가 당신의 하루를 더욱 풍부하게 만들 것입니다."
+            },
+            {
+                "title": "하루 클래식 공부(큰글자도서) (1일 1곡, 나의 취향을 찾는 음악 감상 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/33891838619",
+                "image": "https://shopping-phinf.pstatic.net/main_3389183/33891838619.20230117163600.jpg",
+                "author": "글릿",
+                "discount": "34200",
+                "publisher": "유유",
+                "pubdate": "20220725",
+                "isbn": "9791167700353",
+                "description": "당신의 ‘최애’ 클래식 음악은 무엇인가요? 『하루 클래식 공부』를 읽으며 내 취향에 꼭 맞는 클래식 음악을 찾아볼 것을 제안합니다. 한국예술종합학교에서 음악학을 공부하고 클래식 콘텐츠 플랫폼 ‘글릿(GLIT)’을 운영하는 두 저자가 하루에 하나의 곡을 소개합니다. 매일 QR코드를 통해 음악을 한 곡씩 들으며 저자들의 이야기를 듣다 보면 내 취향과 꼭 닮은 최애 클래식 음악을 발견할 수 있습니다. 나의 클래식 음악 취향을 찾도록 감상을 도와주는 공부책인 셈이지요. 두 저자는 클래식을 둘러싼 견고한 보수주의를 깨기 위해 글릿을 시작했습니다. 잘 알려진 작곡가의 잘 알려지지 않은 작품을 소개하기도 하고, 발굴되지 않았던 여성이나 유색인종 작곡가의 곡도 새로이 조명합니다. 하루 한 곡의 클래식 음악, 그리고 작품에 깃든 작곡가와 저자 들의 이야기가 당신의 하루를 더욱 풍부하게 만들 것입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유유",
+                "DDC": "",
+                "UPDATE_DATE": "20220321",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "글릿 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "366 p. (쪽수복잡)",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167700223",
+                "INPUT_DATE": "20220112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "하루 클래식 공부",
+                "PUBLISH_PREDATE": "20220224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

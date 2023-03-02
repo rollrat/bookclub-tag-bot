@@ -1,0 +1,67 @@
+{
+    "otitle": "박미정의 깃&깃허브 입문",
+    "oauthor": "박미정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "박미정의 깃&깃허브 입문 (프로젝트 협업 시나리오로 익히는 Git&GitHub 반복 학습서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454320204",
+                "image": "https://shopping-phinf.pstatic.net/main_3245432/32454320204.20230117165151.jpg",
+                "author": "오수나",
+                "discount": "14400",
+                "publisher": "골든래빗(주)",
+                "pubdate": "20210913",
+                "isbn": "9791191905014",
+                "description": "★ ‘서비스/프로덕트 만드는 엔지니어’ 박미정과 함께\n★ 손으로 익히는 깃&깃허브\n\n깃&깃허브는 현존 최고의 분산형 버전 관리 시스템 및 협업 도구입니다. 많은 프로젝트에서 채택하고 있어 개발자라면 능숙하게 사용할 줄 알아야 합니다. 이 책은 독자가 깃&깃허브를 체득할 수 있게 반복 실습을 제공하고, 시나리오로 간접 경험을 제공합니다. 1단계에서는 초보자를 위한, 2단계에서는 팀을 위한, 3단계에서는 실전 프로젝트를 위한 깃&깃허브 명령어와 기능을 알려줍니다. 초보자도 쉽고 명확하게 이해할 수 있도록 학습 목표를 일목요연하게 제시하고 핵심 내용을 정리해 보여줍니다.\n\n★ Must Have 시리즈 안내\nMust Have 시리즈는 내 것으로 만드는 시간을 드립니다. 명확한 학습 목표와 핵심 정리를 제공하고, 간단명료한 설명과 다양한 그림으로 학습 효과를 극대화합니다. 예제를 제공해 응용력을 키워줍니다. 할 수 있습니다. 포기는 없습니다. 지금 당장 밑줄 긋고 메모하고 타이핑하세요! Must Have가 여러분의 성장을 돕겠습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Golden Rabbit(골든래빗)",
+                "DDC": "",
+                "UPDATE_DATE": "20210923",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.goldenrabbit.co.kr/",
+                "AUTHOR": "지은이: 박미정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/03/9791191905014.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "183*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191905014",
+                "INPUT_DATE": "20210903",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(박미정의) 깃&깃허브 입문",
+                "PUBLISH_PREDATE": "20210913",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

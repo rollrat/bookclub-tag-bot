@@ -1,0 +1,67 @@
+{
+    "otitle": "쉬어도 피곤한 사람들",
+    "oauthor": "이시형 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쉬어도 피곤한 사람들 (피로 사회를 뛰어넘는 과학적 휴식법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466581689",
+                "image": "https://shopping-phinf.pstatic.net/main_3246658/32466581689.20221019114034.jpg",
+                "author": "이시형",
+                "discount": "13320",
+                "publisher": "비타북스",
+                "pubdate": "20180320",
+                "isbn": "9791158462239",
+                "description": "피로에 찌든 뇌를 깊숙이 힐링할 수 있는 궁극의 비결!\n\n정신적·육체적으로 완전한 쉼을 지향하는 웰니스 센터 힐리언스 선마을을 11년 동안 이끌면서 깨달은 ‘휴식’에 대한 통찰을 담은 『쉬어도 피곤한 사람들』. 올해로 85세를 맞은 이시형 박사는 이 책에서 쉬어도 피로할 수밖에 없는 원인과 한국인이 유독 뇌 피로에 취약한 이유를 알려주고, 현대인이 뇌 피로를 풀고 진정한 휴식의 길로 나아갈 수 있도록 돕는다. \n\n또한 ‘뇌 피로도 측정법’으로 자신의 현재 피로 상태를 파악할 수 있는 것은 물론, 수면과 식사, 운동, 피로 컨트롤력 등 인간 전체를 아우르는 과학적 휴식 설계를 통해 지치지 않는 몸과 뇌를 만들 수 있다고 이야기하면서 더 멀리, 더 오래 갈 수 있는 삶의 비결을 일깨워주며 우리를 진정한 휴식의 세계로 인도한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비타북스 :헬스조선",
+                "DDC": "616.89",
+                "UPDATE_DATE": "20180413",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "이시형 지음",
+                "SERIES_TITLE": "",
+                "KDC": "517.34",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6582779_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6582779_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6582779_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "CIP2018007604",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158462239",
+                "INPUT_DATE": "20180306",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "쉬어도 피곤한 사람들",
+                "PUBLISH_PREDATE": "20180320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

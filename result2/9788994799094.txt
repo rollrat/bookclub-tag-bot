@@ -1,0 +1,67 @@
+{
+    "otitle": "풍경이 있는 감동여행 50",
+    "oauthor": "남윤중 글,사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "풍경이 있는 감동여행 50 (나를 위한 인생의 심표 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497859623",
+                "image": "https://shopping-phinf.pstatic.net/main_3249785/32497859623.20221019132850.jpg",
+                "author": "남윤중",
+                "discount": "13500",
+                "publisher": "상상출판",
+                "pubdate": "20110701",
+                "isbn": "9788994799094",
+                "description": "풍경으로부터 마음의 평안을 되찾는 자유 여행\n\n나를 위한 인생의 쉼표 여행『풍경이 있는 감동여행 50』. 전문 사진가로 활동해온 저자가 2004년부터 간이역ㆍ오지마을ㆍ소읍ㆍ옛길을 여행해온 지난 7년간의 시간을 모아 기록했다. 눈이 번쩍 뜨일 만큼 화려한 경관이나 역사유적을 자랑하는 곳은 아니지만, 자연 속에 녹아있는 풍경과 그 안에서 오순도순 살아가는 사람들의 모습은 마음의 평안과 위로를 가져다준다. 비수구미 마을, 아침가리 마을, 높은벼루마을 등 이름도 생소한 오지마을과 장항선 임피역, 태백선 추전역, 중앙선 죽령역 등의 고즈넉한 간이역을 소개하고, 해당 지역을 찾아가기 위한 교통편을 자세히 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글과 사진: 남윤중",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994799094",
+                "INPUT_DATE": "20110608",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "풍경이 있는 감동 여행 50",
+                "PUBLISH_PREDATE": "20110701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

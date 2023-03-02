@@ -1,0 +1,67 @@
+{
+    "otitle": "마법의 돈 굴리기",
+    "oauthor": "김성일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마법의 돈 굴리기 (개인 투자자를 위한 자산배분 전략에서 로보어드바이저까지!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457181038",
+                "image": "https://shopping-phinf.pstatic.net/main_3245718/32457181038.20221019141724.jpg",
+                "author": "김성일",
+                "discount": "14400",
+                "publisher": "에이지21",
+                "pubdate": "20170331",
+                "isbn": "9788998342296",
+                "description": "『마법의 돈 굴리기』는 초보 투자자를 위한 투자 안내서다. 우리가 왜 투자를 해야 하는지, 투자에 실패하지 않기 위해 어떤 위험 관리를 해야 하는지, 투자의 시점과 매매 타이밍까지 다양한 관점의 사례와 데이터를 근거로 알려준다. 또한 바쁜 직장인을 위해 누구나 쉽게 따라해볼 수 있는 자산배분 모델을 제시한다. 투자에 관심을 가지고 있지만 머리로만 생각하고 있던 초보 투자자에게는 최적의 책이다. 문제도 투자, 답도 투자다. 투자에 있어서 무엇보다 중요한 첫 번째 원칙은 내 돈을 잃지 않는 것이다. 두 번째는 첫 번째 원칙을 잊지 않는 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)에이지이십일",
+                "DDC": "",
+                "UPDATE_DATE": "20170406",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김성일",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "400",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998342296",
+                "INPUT_DATE": "20170314",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마법의 돈 굴리기",
+                "PUBLISH_PREDATE": "20170331",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

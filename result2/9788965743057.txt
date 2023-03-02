@@ -1,0 +1,78 @@
+{
+    "otitle": "정의공주",
+    "oauthor": "한소진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:46 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "정의공주",
+                "link": "https://search.shopping.naver.com/book/catalog/32436275464",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436275464.20220527055809.jpg",
+                "author": "한소진",
+                "discount": "0",
+                "publisher": "해냄출판사",
+                "pubdate": "20110315",
+                "isbn": "9788965743057",
+                "description": "훈민정음 창제 뒤에 감춰진 세종대왕의 둘째딸!\n\n세종대왕의 딸 정의공주의 활약을 그린 소설 『정의공주』. 으로 많은 사랑을 받았던 작가 한소진이 이번에는 훈민정음 창제의 비화를 다루었다. 세종대왕의 둘째딸 정의공주의 열정적이고 지성적인 삶과 그에 얽힌 훈민정음 창제의 진실을 조명한다. 사랑하는 첫째딸 정소공주를 갑작스럽게 잃은 세종은 유약한 아들에게도 온전히 마음을 주지 못하고 총명하고 활달한 둘째딸 정의공주에게 학문적 기대를 건다. 아버지를 닮아 백성을 아끼고 사랑하는 마음이 지극한 정의공주는 고조선의 정신과 가르침을 이으려는 큰 뜻에 의지를 불태우는데…."
+            },
+            {
+                "title": "세종대왕 둘째 딸 정의공주가 알려주는 나랏말싸미 우리말: 여성어휘 편",
+                "link": "https://search.shopping.naver.com/book/catalog/32436351627",
+                "image": "https://shopping-phinf.pstatic.net/main_3243635/32436351627.20221019115816.jpg",
+                "author": "김루시",
+                "discount": "9000",
+                "publisher": "출판사마저",
+                "pubdate": "20201111",
+                "isbn": "9791196749330",
+                "description": "정의공주의 '나랏말싸미' 〈여성어휘 편〉은\n조선시대 때부터 쓰인 한글어휘들 중 여성에 관련된 어휘들을 모았습니다. 정의공주 캐릭터와 함께 가볍게 읽을 수 있는 미니 사전입니다.\n\n정의공주는 동화 '도봉구 방학동 정의공주 묘지앞(가제) 집필을 앞두고 조사하게 된 인물로, 이번 사전에서는 귀여운 캐릭터로 먼저 선보이게 되었습니다. 동화책 버전 정의공주도 많이 기대해주세요!\n\n우리 역사 속 캐릭터 '정의공주'를 널리 알리고, 여성 관련 어휘를 통해 조선시대 당시 생활상이나 언어, 사회의 문제점(차별과 혐오)등을 이야기하고 싶었습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20110323",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "지은이: 한소진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965743057",
+                "INPUT_DATE": "20110323",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "정의공주 ",
+                "PUBLISH_PREDATE": "20110315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "내일의 부 1 알파편",
+    "oauthor": "조던 김장섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내일의 부 1: 알파편 (세상에서 가장 빨리 99.9% 부자 되는 법!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32475030231",
+                "image": "https://shopping-phinf.pstatic.net/main_3247503/32475030231.20230103165047.jpg",
+                "author": "김장섭",
+                "discount": "14400",
+                "publisher": "트러스트북스",
+                "pubdate": "20200116",
+                "isbn": "9791187993681",
+                "description": "역대 최강을 자부하며, 부자 될 확률 99.9%에 도전한다!\n\n이 책의 저자 조던 김장섭의 진면목은 상식을 뒤집는 새로운 해석과 끝모를 깊이를 자랑하는 통찰력에 있다. 그가 낸 책은 언제나 곧바로 베스트셀러에 오르고, 독자들은 그의 열렬한 팬이 된다. 그런 그가 누구나 ‘실천’만 하면 부자 되기가 가능한 역대 최강의 부자 매뉴얼을 공개한다. 피와 땀으로 완성한 부의 제국으로 들어가는 티켓 그 자체다. \n\n이 책은 이론만 그럴싸한 책이 아니라, 저자가 직접 지난 수십년 간을 하루도 빼놓지 않고 분석하고, 그 자신이 직접 이 방법으로 투자하고 있는 내용들로 채워져 있다. 그가 운영하는 다음 카페 ‘JD 부자연구소’에서 회원들이 투자에 활용하고 있고, 큰 효과를 보고 있는 세상에 단 하나뿐인 완벽한 부자 되기 비법인 것.\n\n이미 부동산 전문가로 명성을 날린 그이기에 부동산을 포함해 주식, 환율, 채권을 아우르는 그의 비법은 더욱 신뢰감을 준다. 그는 무엇보다 주식에 그것도 세계 1등 주식인 미국 주식에 투자의 방점을 찍으며, 글로벌 경제상황에 따라 환율과 채권 투자를 병행한다. 한국 부동산과 주식에 대한 그의 솔직한 생각도 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "트러스트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200221",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김장섭 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187993681",
+                "INPUT_DATE": "20200106",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "내일의 부",
+                "PUBLISH_PREDATE": "20200220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

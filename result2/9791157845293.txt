@@ -1,0 +1,67 @@
+{
+    "otitle": "인문학 거저보기 : 서양철학 편",
+    "oauthor": "지하늘 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인문학 거저보기: 서양철학 편",
+                "link": "https://search.shopping.naver.com/book/catalog/32482006329",
+                "image": "https://shopping-phinf.pstatic.net/main_3248200/32482006329.20221019152711.jpg",
+                "author": "지하늘",
+                "discount": "12600",
+                "publisher": "한빛비즈",
+                "pubdate": "20210830",
+                "isbn": "9791157845293",
+                "description": "누적 조회 수 200만 명 돌파!\n네이버 베스트도전만화 최고 평점!\n수험생과 학부모, 선생님이 인정한 철학툰! \n\n\"엄마, 이거 공부야! 웹툰 아니야!\"\n\"아이 덕에 입문해서 정말 재밌게 보고 있습니다.\"\n\"학생들 가르치면서 참고하라고 알려주고 있어요.\""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20211026",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "지하늘 글·그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "380 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157845293",
+                "INPUT_DATE": "20210826",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "인문학 거저보기",
+                "PUBLISH_PREDATE": "20210830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

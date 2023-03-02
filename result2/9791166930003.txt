@@ -1,0 +1,67 @@
+{
+    "otitle": "가벼운 스페인어",
+    "oauthor": "가벼운학습지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가벼운 스페인어 (가볍게 읽고 평생 기억하는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492773231",
+                "image": "https://shopping-phinf.pstatic.net/main_3249277/32492773231.20230117163333.jpg",
+                "author": "가벼운학습지",
+                "discount": "13500",
+                "publisher": "패스트캠퍼스랭귀지",
+                "pubdate": "20210305",
+                "isbn": "9791166930003",
+                "description": "“출시 1년 만에 10만 회원이 선택한 나의 가벼운 학습지”\n가벼운 학습지의 베스트 셀러 나의 가벼운 스페인어를 단행본으로 만나보세요.\n\n누구나 가볍고 쉽게 스페인어를 배울 수 있습니다.\n항상 바쁘고, 여유가 없는 당신을 위한 기초 스페인어책\n알파벳부터 필수 문법까지 한 권에"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "패스트캠퍼스(주)",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03770",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 가벼운학습지",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/08/9791166930003.jpg",
+                "PRE_PRICE": "15,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "230",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166930003",
+                "INPUT_DATE": "20210208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "N",
+                "TITLE": "가벼운 스페인어",
+                "PUBLISH_PREDATE": "20210224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

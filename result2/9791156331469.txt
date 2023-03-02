@@ -1,0 +1,67 @@
+{
+    "otitle": "학교에서 애니 하자",
+    "oauthor": "박유신,박형동 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "학교에서 애니 하자 (상상을 현실로 만드는 애니메이션 도전기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492747703",
+                "image": "https://shopping-phinf.pstatic.net/main_3249274/32492747703.20221229074621.jpg",
+                "author": "박유신^박형동",
+                "discount": "13500",
+                "publisher": "다른",
+                "pubdate": "20170220",
+                "isbn": "9791156331469",
+                "description": "학교 애니메이터를 위한 애니메이션 개론서 겸 실전서이다. 박유신 작가는 &lt;고등학교 인정 교과서 만화.애니메이션&gt;을 집필하였으며 애니메이션을 교육 이론과 실제에 적용하기 위한 다양한 학술 활동과 교육 활동을 진행하고 있다. 박형동 작가는 텔레비전 시리즈 '내 친구 우비 소년'(총감독), 장편 애니메이션 '천년여우 여우비'(캐릭터)를 작업한 경력이 있는 비주얼 콘텐츠 작가이다. 두 사람이 의기투합하여 청소년을 위한 애니메이션 교양서를 만들었다.\n\n\n\n두 사람의 조합으로 이론과 실전이 한 권 안에서 모두 해결되는 알찬 애니메이션 교양서가 만들어졌음을 알 수 있다. 특히 ‘바로바로 실습’은 실제로 애니메이션을 직접 만들어 보는 코너인데, 초등학교와 중등학교는 물론 대학 수업 현장까지 망라하며 다양한 학생에게 애니메이션을 지도해 온 저자들의 경험과 노하우가 고스란히 녹아 있다.\n\n\n\n이 책의 핵심은 ‘진짜로’ 학생들이 만들 수 있는 애니메이션을 알려 준다는 것이다. 저자들은 각종 도구를 보관하기 위해서는 안이 보이는 투명한 플라스틱 공구함이 편리하다든지, 테이프는 어떤 종류가 좋은지까지 친절하게 알려 준다. 그런데 문제는 캐릭터와 배경을 만들고, 실제로 촬영에 들어가면 고가의 생소한 도구가 필요할 때가 있는데, 이때에도 저자들은 고가의 도구를 대체할 만한 방법을 알려 준다.\n\n\n\n그리고 마지막 장 ‘애니메이션 감독으로 데뷔하기’에서는 다양한 실습을 해 보고 좀 더 긴 작품을 준비하는 학생들에게 시행착오를 줄일 수 있도록 아이디어 구상부터 공모전 출품까지 애니메이션 제작의 모든 것을 정리하여 알려 준다. 실용적인 노하우로 가득한 이 책은 학교 애니메이터를 꿈꾸는 청소년뿐만 아니라 학생들을 지도하는 교사들에게도 유익한 책이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)다른",
+                "DDC": "",
+                "UPDATE_DATE": "20170310",
+                "EA_ADD_CODE": "43680",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박유신, 박형동",
+                "SERIES_TITLE": "",
+                "KDC": "688",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6122550_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6122550_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "236",
+                "CONTROL_NO": "CIP2017003311",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156331469",
+                "INPUT_DATE": "20170207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "학교에서 애니 하자",
+                "PUBLISH_PREDATE": "20170220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

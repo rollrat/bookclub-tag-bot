@@ -1,0 +1,67 @@
+{
+    "otitle": "봉준호 코드",
+    "oauthor": "이용철,이현경,정민아 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "봉준호 코드 (12개의 테마로 읽는 봉준호 영화의 세계)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467108870",
+                "image": "https://shopping-phinf.pstatic.net/main_3246710/32467108870.20230207163745.jpg",
+                "author": "이용철^이현경^정민아",
+                "discount": "14850",
+                "publisher": "미다스북스",
+                "pubdate": "20220228",
+                "isbn": "9788966373468",
+                "description": "12개의 코드로 읽는 봉준호 월드!\n\n세계 영화계는 장르라는 틀 안에서 관객 친화적이면서도 자신만의 예술적 스타일이 확고하고, 그 안에 사회적, 정치적인 메시지를 포함하며, 분석에 따라 다양한 의미가 산출되는 감독을 발견하고 그를 추앙한다. 세계는 〈기생충〉과 그 감독을 주목했고 그로 인해 한국문화는 주류로 올라왔다. 〈기생충〉과 봉준호는 한국적 자부심이면서 새로운 글로벌 문화 아이콘으로 떠올랐다. 이제 우리는 그의 영화 유니버스를 꼼꼼히 들여다볼 차례다.\n\n이 책은 이전에 발표된 글들과 접근 방식을 달리하였다. 7편의 작품을 하나의 일관된 전집으로 보면서 작품 한 편마다가 아닌 ‘봉준호 월드’ 안에서 몇 가지 핵심 테마를 선정했다. 그리고 이것이 영화 안에서 어떤 방식으로 코드화되어 있고, 관객은 그 코드를 어떻게 받아들이고 있는지 조목조목 살펴본다. 12개의 코드 이외에도 봉준호 영화에 꼭 포함되어 해석되어야 할 여지가 있는 단어도 많다. 하지만 이 12개 코드는 봉준호 월드를 이해하기 위해 한걸음 바싹 다가갈 수 있는 필수 요소다. 『봉준호 코드』는 이전에는 시도하지 않았던 한 작가감독의 영화 세계를 이해하는 새로운 방식을 제시한다. 봉준호 영화로 시작된 〈코드〉 시리즈는 이후로도 계속될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220603",
+                "EA_ADD_CODE": "03680",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이용철,이현경,정민아",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "304 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966373468",
+                "INPUT_DATE": "20220217",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "봉준호 코드",
+                "PUBLISH_PREDATE": "20220225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

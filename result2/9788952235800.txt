@@ -1,0 +1,67 @@
+{
+    "otitle": "스탠퍼드 스타트업 바이블",
+    "oauthor": "리샤오라이 저/나진희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스탠퍼드 스타트업 바이블 (세계 최고의 투자자가 전하는 성공하는 창업가의 조건)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436266643",
+                "image": "https://shopping-phinf.pstatic.net/main_3243626/32436266643.20221229071714.jpg",
+                "author": "리샤오라이",
+                "discount": "16200",
+                "publisher": "살림",
+                "pubdate": "20170125",
+                "isbn": "9788952235800",
+                "description": "『스탠퍼드 스타트업 바이블』은 스타트업을 준비하는 사람들이나 전개 중인 사람들에게는 고전으로 여겨지는 스탠퍼드 대학의 ‘어떻게 창업할 것인가(How to Start a Startup)' 강의를 기반으로 한 책이다. \n\n중국 최고의 비트코인 갑부인 저자 리샤오라이는 탁월한 투자 감각으로 평범한 토플 강사에서 ‘중국에서 가장 비트코인을 많이 보유한 부자’가 된 후 창업가와 투자자로 변신하여 성공한 특이한 이력을 갖고 있다. 그는 스탠퍼드 대학에서 와이 콤비네이터가 스탠퍼드대학 학부생들을 대상으로 진행한 ‘어떻게 창업할 것인가(How to Start a Startup)' 강의를 들은 후 뒤늦게 이 강의를 접한 소회와 자신의 성공담과 실패담을 담아 이 책을 집필하게 되었다. \n\n스트라이프, 드롭박스, 에어비앤비의 조력자인 와이 콤비네이터 창업가들의 진솔한 경험담과 대륙을 상대로 성공을 거듭하고 있는 저자의 관점이 어우러져 한국 스타트업 창업가들에게 실질적인 조언을 던진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "658.11",
+                "UPDATE_DATE": "20170213",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "리샤오라이 지음/나진희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.21",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6062405_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6062405_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6062405_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "372",
+                "CONTROL_NO": "CIP2017000917",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952235800",
+                "INPUT_DATE": "20170110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "스탠퍼드 스타트업 바이블",
+                "PUBLISH_PREDATE": "20170125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

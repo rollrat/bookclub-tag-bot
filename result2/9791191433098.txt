@@ -1,0 +1,67 @@
+{
+    "otitle": "모빌리티 미래권력",
+    "oauthor": "권용주,오아름 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모빌리티 미래권력 (앞으로 10년, 이동 수단의 모든 질서가 바뀐다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458958166",
+                "image": "https://shopping-phinf.pstatic.net/main_3245895/32458958166.20230207165345.jpg",
+                "author": "권용주^오아름",
+                "discount": "11700",
+                "publisher": "무블출판사",
+                "pubdate": "20210914",
+                "isbn": "9791191433098",
+                "description": "GM, BMW, 벤츠, 현대차, 애플, 화웨이, 삼성전자…\n지금 이들이 주목하는 것은 과연 무엇인가\n\n본격적인 궤도에 오른 모빌리티 시장, 그 미래 사회를 그려본다!\n\n“2050년, 내연기관차는 사라질 것이다.”\n“다가올 수소사회를 대비하라.”\nBMW는 글로벌 내연기관차의 종말 시점은 늦어도 2050년이 될 것이라고 선언했다. 디젤은 20년, 가솔린은 30년 정도를 내다봤다. 그리고 몇몇 국가에서는 10년 안에 오직 전기차만이 살아남을 것이라고도 전망했다. BMW뿐만이 아니다. GM은 2025년까지 자율주행과 전기차에 20조 원을 투자하겠다고 발표했고, 폭스바겐은 전기차 제품을 연간 30만 대 생산하며 공격적으로 시장에 진출하고 있다. 현대차기아도 수소사회 비전을 내놓으며 수소차 연구에 박차를 가하고 있다.\n세계적 기업들이 이러한 혁신을 단행하고 있는 이유는 이 변화가 미래 일자리를 동반하고, 막대한 자본을 끌어당기기 때문이다. 4차 산업혁명을 주도하고 있는 모빌리티 산업을 이해하고 미래를 점쳐보는 것만으로도 앞으로 달라질 세상을 대비하는 경쟁력이 될 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "MBL Books(무블출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20211007",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "권용주,오아름 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "227 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191433098",
+                "INPUT_DATE": "20210828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "모빌리티 미래권력",
+                "PUBLISH_PREDATE": "20210914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

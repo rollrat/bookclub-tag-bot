@@ -1,0 +1,23 @@
+{
+    "otitle": "벤투의 스케치북",
+    "oauthor": "존 버거 저/김현우,진태원 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "벤투의 스케치북",
+                "link": "https://search.shopping.naver.com/book/catalog/32466674628",
+                "image": "https://shopping-phinf.pstatic.net/main_3246667/32466674628.20221019145137.jpg",
+                "author": "존 버거",
+                "discount": "16200",
+                "publisher": "열화당",
+                "pubdate": "20220301",
+                "isbn": "9788930104357",
+                "description": "『벤투의 스케치북』은 저자 존 버거가 17세기 철학자 바루흐 스피노자의 드로잉 스케치북을 찾는 상상을 하며 스피노자의 시선으로 그림을 그려나간 것이다. 드로잉이라는 행위에 대한 탐구이면서 세상을 바라보는 우리의 시선을 인도하는 예술의 역할에 대한 명상이다."
+            }
+        ]
+    }
+}

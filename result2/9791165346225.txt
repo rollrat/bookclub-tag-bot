@@ -1,0 +1,67 @@
+{
+    "otitle": "회사원도 초능력이 필요해",
+    "oauthor": "민제이 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "회사원도 초능력이 필요해",
+                "link": "https://search.shopping.naver.com/book/catalog/34441091627",
+                "image": "https://shopping-phinf.pstatic.net/main_3444109/34441091627.20221019143022.jpg",
+                "author": "민제이",
+                "discount": "13050",
+                "publisher": "팩토리나인",
+                "pubdate": "20220912",
+                "isbn": "9791165346225",
+                "description": "특별한 힘이 생기면, 나도 ‘갓생’ 살 수 있을까?\n★텀블벅×리디북스 ‘에디션 제로’ 선정작★\n\n늘 혼만 나는 신입 사원, 대기업의 파견 계약직 주임, 직장 내 빌런 때문에 고통받는 과장, 자금난과 직원 관리로 쉴 틈 없는 대표. 어느 날 그들에게 초능력이 생긴다. \n실수를 돌이킬 수 있는 명함, 단 3초면 출퇴근이 가능한 순간이동, 속내를 읽을 수 있는 독심술, 자본금이 샘솟는 비밀 사이트까지. 남들에게 없는 초능력이 생겼으니 직장 생활이 좀 편해질까? 바람이 있다면 오늘도 무사히 하루를 보내는 것뿐인 회사원들의 하이퍼리얼리즘 직장 분투기!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팩토리나인",
+                "DDC": "",
+                "UPDATE_DATE": "20221014",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "지은이: 민제이",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "134*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "294 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165346225",
+                "INPUT_DATE": "20220819",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "회사원도 초능력이 필요해",
+                "PUBLISH_PREDATE": "20220912",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

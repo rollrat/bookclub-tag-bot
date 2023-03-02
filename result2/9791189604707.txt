@@ -1,0 +1,67 @@
+{
+    "otitle": "홍길동전 - 한국문학읽다",
+    "oauthor": "허균 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "홍길동전(큰글씨책)(대활자본) (한국 문학 읽다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32498171650",
+                "image": "https://shopping-phinf.pstatic.net/main_3249817/32498171650.20221019124246.jpg",
+                "author": "허균",
+                "discount": "24300",
+                "publisher": "정씨책방",
+                "pubdate": "20191010",
+                "isbn": "9791189604707",
+                "description": "“우리나라 최초의 국문 소설”\n\n조선 세종 때 판서의 서자로 태어난 홍길동이 자신에 대한 가족들의 살해 기도를 피해 의적 생활을 하자 나라에서 그의 체포에 나선다. 홍길동이 다양한 도술로 이를 모면하자, 나라에서는 그에게 병조판서 벼슬을 내리고 홍길동은 이를 받아들인다.\n\n홍길동은 후에 조선을 떠나 자연이 아름다운 율도국을 발견하고 그 곳의 왕이 되어 잘 다스렸다는 내용이다. 적서차별을 비롯한 사회적 불평등에 대한 비판적인 문제의식이 돋보이는 작품으로 둔갑술을 비롯한 주인공 홍길동의 다양한 도술이 독자의 흥미를 더한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "정씨책방",
+                "DDC": "",
+                "UPDATE_DATE": "20191030",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 허균",
+                "SERIES_TITLE": "",
+                "KDC": "813.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/02/9791189604707.jpg",
+                "PRE_PRICE": "27000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "161 p.",
+                "CONTROL_NO": "CIP2019039264",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189604707",
+                "INPUT_DATE": "20191002",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "홍길동전",
+                "PUBLISH_PREDATE": "20191010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "말을 잘하고 싶습니다",
+    "oauthor": "김성태,정은희,성시온,장은영,오희승,정은하,김일균 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "말을 잘하고 싶습니다 (어떤 상황에서도 주눅들지 않고 말하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466691809",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466691809.20220527034024.jpg",
+                "author": "김성태",
+                "discount": "13500",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20170915",
+                "isbn": "9791161651101",
+                "description": "상대방의 마음을 움직이는 말하기!\n\n저자들은 대학 토론 동아리 출신 친구들로 현재는 카카오, KT&G 등에서 활약 중인 어엿한 직장인이다. 대학 시절 전국대학생토론대회에서 몇 차례 우승을 차지한 바 있는 8명의 저자가 말하기를 두려워하고 소통에 애를 먹는 사람들을 위해 ‘말하기 방법’을 소개한다. 대학 시절 다양한 토론 현장에서 겪은 이야기들, 사회에 나와서 각자의 직업 전선에서 만난 다양한 상황을 통해 말하기에 관해 이야기한다. 단순히 말하기의 전략적인 비법을 알려 주는 것에 그치지 않고 여러 사례에서 몸소 느낀 말하기와 소통의 핵심을 전해 준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스books :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20171023",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "지은이: 김성태,정은희,성시온,장은영,오희승,정은하,김일균,김태엽",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "282 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161651101",
+                "INPUT_DATE": "20170918",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "말을 잘하고 싶습니다",
+                "PUBLISH_PREDATE": "20170910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

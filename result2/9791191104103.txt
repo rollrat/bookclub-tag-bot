@@ -1,0 +1,67 @@
+{
+    "otitle": "초등 영어는 듣기가 전부다",
+    "oauthor": "이진희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초등 영어는 듣기가 전부다 (영어를 모국어처럼 말하는 아이의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492684728",
+                "image": "https://shopping-phinf.pstatic.net/main_3249268/32492684728.20221019145651.jpg",
+                "author": "이진희",
+                "discount": "12960",
+                "publisher": "유노라이프",
+                "pubdate": "20210325",
+                "isbn": "9791191104103",
+                "description": "원어민처럼 영어로 말하는 아이의 비밀은 ‘듣기’\n초등 입학 전부터 초등 저학년까지 \n말하는 영어의 바탕을 만드는 책!\n\n이 책은 다른 엄마표 영어 학습책에서 강조하는 ‘읽기’가 아니라 ‘듣기’가 우선이라고 강조하는 점이 차별화 된다. 파닉스를 모르는 아이들도 시작할 수 있는 이 ‘영어 듣기 학습법’은 모국어 습득 방식을 따라, 아이가 원어민처럼 말할 수 있게 하는 ‘진짜 영어 학습법’이다.  \n\n저자는 영어를 아무리 공부해도 입 한 번 못 떼는 아이가 아니라, 영어를 유창하게 말할 수 있는 아이가 되는 법에 대해 소개한다. 초등학생 때부터 ‘스피킹이 되는 아이’로 만들려면 우선 ‘리스닝이 되는 아이’이어야 한다는 것이 이 책의 핵심 원리다. 왜 영어 듣기가 우선인지, 영어 듣기 환경을 만들기 위해서 무엇을 준비해야 하는지, 일상에서 영어를 활용하려면 어떻게 해야 하는지, 궁극적으로는 아이 스스로 영어를 즐기게 하려면 어떤 습관을 들여야 하는지 상세히 제시되어 있다. \n\n엄마표 영어는 엄마가 얼마나 아이와 상호작용하는지가 중요하다. 집에서 아이와 영어 듣기 생활을 할 때 명심할 점은, 학습이 아니라 재미있는 놀이로 익혀야 한다. 이 책은 듣기, 놀이를 기반으로 한 저자의 특별한 영어 공부법으로 초등학생 자녀의 영어 실력을 향상을 위해 쓰여 졌다. 저자가 두 자녀를 어떻게 원어민처럼 말하도록 키웠는지에 대한 방법과 ‘영알못’ 엄마도 아이에게 쉽게 영어를 알려줄 수 있는 구체적인 노하우가 담겼다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노라이프",
+                "DDC": "",
+                "UPDATE_DATE": "20210510",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이진희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191104103",
+                "INPUT_DATE": "20210311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "초등 영어는 듣기가 전부다",
+                "PUBLISH_PREDATE": "20210325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

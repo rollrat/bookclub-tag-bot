@@ -1,0 +1,67 @@
+{
+    "otitle": "어원으로 풀어본 프랑스 문화",
+    "oauthor": "최연구 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "샴페인에서 바게트, 빅토르 위고에서 사르트르 (어원으로 풀어본 프랑스 문화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436268796",
+                "image": "https://shopping-phinf.pstatic.net/main_3243626/32436268796.20230131162512.jpg",
+                "author": "최연구",
+                "discount": "16200",
+                "publisher": "살림",
+                "pubdate": "20200120",
+                "isbn": "9788952241610",
+                "description": "에펠탑에 가기 전, 이 책부터 읽어라!\n어디서도 배울 수 없는 프랑스 상식!\n\n지.대.넓.얕 프랑스판, 교양과 상식으로서의 프랑스 가이드로 안성맞춤. “프랑스에 관심 있는 당신, 어디서부터 찾아봐야 할지 막막하다면 이 책을 보라. 프랑스 핵심 키워드 111개에 담긴 에피소드와 에스프리가, 당신을 프랑스통으로 만들어줄 것이다.” 아는 만큼 보인다! 멀지만 가까운 나라 프랑스를 이해하는 새로운 길라잡이!\n\n프랑스 핵심 키워드 111개와 함께, 그에 얽힌 에피소드를 풀어본 책. 언어는 모름지기 그 나라의 문화를 접할 수 있는 창(窓)의 역할을 한다. 역사 속에서 생성되고 발전하고 소멸하면서 역사성을 띠는 언어를 통해 그 사회의 문화와 역사를 엿볼 수 있다. 우리는 알게 모르게 일상생활에서 프랑스어를 사용하고 있다. 우리가 잘 모르고 쓰는 프랑스어의 정확한 뜻과 그 문화적 의미를 되새겨보면서 프랑스라는 나라를 이해해보고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20200207",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "최연구 지음",
+                "SERIES_TITLE": "",
+                "KDC": "309.126",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/18/9788952241610.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "342 p.",
+                "CONTROL_NO": "CIP2019052414",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952241610",
+                "INPUT_DATE": "20191220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "샴페인에서 바게트, 빅토르 위고에서 사르트르..",
+                "PUBLISH_PREDATE": "20200120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

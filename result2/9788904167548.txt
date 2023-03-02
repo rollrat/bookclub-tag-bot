@@ -1,0 +1,67 @@
+{
+    "otitle": "알리스터 맥그래스의 지성적 회심",
+    "oauthor": "알리스터 맥그래스 저/홍병룡 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "알리스터 맥그래스의 지성적 회심 (과학, 신앙, 의심의 길을 걷다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457244109",
+                "image": "https://shopping-phinf.pstatic.net/main_3245724/32457244109.20221019151548.jpg",
+                "author": "알리스터 맥그라스",
+                "discount": "15560",
+                "publisher": "생명의말씀사",
+                "pubdate": "20210416",
+                "isbn": "9788904167548",
+                "description": "“이 책은 한때 과학을 사랑하는 불안정한 자유사상가이자 무신론자였던 내가, 세상을 이해하는 새로운 방식을 발견하게 된 여정을 다룬 책이다.”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20210629",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "알리스터 맥그래스 지음 ;홍병룡 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/07/9788904167548.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904167548",
+                "INPUT_DATE": "20210407",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "(알리스터 맥그래스의) 지성적 회심",
+                "PUBLISH_PREDATE": "20210416",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

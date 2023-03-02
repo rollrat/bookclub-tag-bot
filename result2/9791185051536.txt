@@ -1,0 +1,67 @@
+{
+    "otitle": "조선직업실록",
+    "oauthor": "정명섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조선직업실록 (역사 속에 잊힌 조선시대 별난 직업들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491900094",
+                "image": "https://shopping-phinf.pstatic.net/main_3249190/32491900094.20221019110745.jpg",
+                "author": "정명섭",
+                "discount": "12600",
+                "publisher": "북로드",
+                "pubdate": "20140421",
+                "isbn": "9791185051536",
+                "description": "《조선직업실록》은 오늘날에는 존재하지 않거나 다른 모습으로 이어지고 있는 조선시대 일반 백성들의 특이한 직업들을 소개한다. 일하는 방식은 바뀌었지만 오늘날에도 명맥을 이어가는 직업으로는 소방수 멸화군, 신문 발행인 기인, 변호사 외지부, 얼음 판매상 장빙업자 등이 있고, 사라진 직업으로는 매 잡는 공무원 시파치, 상가에서 대신 울어주는 곡비, 과거시험에서 자리를 잡아주고 글도 대신 써주는 거벽과 사수와 선접꾼 등이 있다. 이 책은 《조선왕조실록》을 비롯한 당대의 여러 문헌 속에서 발견한 21개의 직업들의 탄생과 소멸, 우여곡절의 역사와 에피소드를 통해 조선시대의 생활상뿐 아니라 시대적 필요와 욕망 그리고 한계를 실감나게 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로드 :더난콘텐츠그룹,",
+                "DDC": "",
+                "UPDATE_DATE": "20140520",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "정명섭 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185051536",
+                "INPUT_DATE": "20140520",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "조선직업실록 ",
+                "PUBLISH_PREDATE": "20140421",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

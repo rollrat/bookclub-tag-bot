@@ -1,0 +1,67 @@
+{
+    "otitle": "현대물리학사전",
+    "oauthor": "편집부 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "현대물리학사전",
+                "link": "https://search.shopping.naver.com/book/catalog/32496161405",
+                "image": "https://shopping-phinf.pstatic.net/main_3249616/32496161405.20221229073410.jpg",
+                "author": "편집부 편",
+                "discount": "18000",
+                "publisher": "전파과학사",
+                "pubdate": "19951101",
+                "isbn": "9788970445014",
+                "description": "물리학 핵심이론과 20세기 물리학을 구성하는 분야를 항목별로 밀도있게 서술한 물리학사전."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19951026",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "\"[전파과학사 편저]\"",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970445013",
+                "INPUT_DATE": "19951026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "現代物理學事典",
+                "PUBLISH_PREDATE": "19951110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "취업하려고 이력서 1,000번 써봤니?",
+    "oauthor": "정성원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "취업하려고 이력서 1000번 써봤니 (시행착오를 단축시키는 취업의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492655940",
+                "image": "https://shopping-phinf.pstatic.net/main_3249265/32492655940.20221019134329.jpg",
+                "author": "정성원",
+                "discount": "13320",
+                "publisher": "슬로디미디어",
+                "pubdate": "20171001",
+                "isbn": "9791196129644",
+                "description": "할 수 있는 믿음과 정확한 취업전략만 있다면 누구라도 취업에 성공할 수 있다!\n\n취업준비생들을 괴롭히는 여러 가지 이유들 중 가장 힘든 점은 취업이 언제 끝날지 모른다는 점일 것이다. 기약 없는 취업준비 기간은 우리를 불안하고 초조하게 만든다. 그 결과 질보다 양으로 승부하는 취업활동을 하는 큰 실수를 범하고 만다. 이 실수는 시간과 노력은 많이 들지만 결과가 좋을 수 없기에 결국은 자존감마저 추락하고 만다. 하지만 제대로 된 전략만 있다면 이런 실수는 충분히 피할 수 있다. \n\n『취업하려고 이력서 1000번 써봤니』는 대한민국 청년들이 합격의 관문에 조금이라도 쉽게 다가갈 수 있도록 진심을 담아 펴낸 책이다. 이 책에는 실전에 활용 가능한 노하우들을 거짓 없이 털어 넣었고, 저자가 취업준비생 시절 궁금했던 이야기들로 채웠다. 책의 후반부에서는 최종 합격만이 전부라고 생각하며 살아가는 취업준비생들을 위해 취업 후 필요한 자세에 대해서도 짚어줌으로써 인생의 후반전을 준비하는 청년들에게 큰 도움과 용기를 선사할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어",
+                "DDC": "658.311",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정성원",
+                "SERIES_TITLE": "",
+                "KDC": "325.33",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6360746_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6360746_5.txt",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p. ",
+                "CONTROL_NO": "CIP2017024051",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196129644",
+                "INPUT_DATE": "20170913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "취업하려고 이력서 1,000번 써봤니? ",
+                "PUBLISH_PREDATE": "20171001",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

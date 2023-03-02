@@ -1,0 +1,67 @@
+{
+    "otitle": "빛의 눈속임",
+    "oauthor": "루이즈 페니 저/유혜경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빛의 눈속임 (앤서니상 수상작)",
+                "link": "https://search.shopping.naver.com/book/catalog/32502382286",
+                "image": "https://shopping-phinf.pstatic.net/main_3250238/32502382286.20221019135039.jpg",
+                "author": "루이즈 페니",
+                "discount": "12420",
+                "publisher": "피니스아프리카에",
+                "pubdate": "20181010",
+                "isbn": "9791185190341",
+                "description": "사람들 가슴이 찢어진다. 다정한 인간관계도 죽어 버린다.\n\n릴리언 다이슨은 책의 이 문장에 밑줄을 쳐 놓았다. 그러나 이제 릴리언은 죽었다. 그녀는 스리 파인스 마을, 라일락이 만발한 클라라 모로의 정원에서 동정심이 가득한 사람들에게 발견되었고, 몬트리올 현대 미술관에서 열린 클라라의 개인전을 축하하는 파티 분위기를 망쳐 놓았다. 퀘벡 경찰청 살인 수사반 반장 가마슈 경감이 그 작은 마을로 호출된다. 그는 마을에 모인 미술계 사람들, 빛과 그림자의 미묘한 명암의 세계를 감지한다. 겉으로 보기엔 아무 이상 없는 세계. 사람들의 미소 이면에는 조롱이 숨어 있다. 다정한 인간관계 이면에는 찢긴 가슴이 숨어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "피니스 아프리카에",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20181017",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "루이즈 페니 지음 ;유혜영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6908098_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6908098_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "139*197",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "535 p.",
+                "CONTROL_NO": "CIP2018029745",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185190341",
+                "INPUT_DATE": "20180911",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "빛의 눈속임",
+                "PUBLISH_PREDATE": "20181010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "의식의 수수께끼를 풀다",
+    "oauthor": "대니얼 데닛 저/유자화 역/장대익 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "의식의 수수께끼를 풀다",
+                "link": "https://search.shopping.naver.com/book/catalog/32497522723",
+                "image": "https://shopping-phinf.pstatic.net/main_3249752/32497522723.20221019143039.jpg",
+                "author": "대니얼 데닛",
+                "discount": "27000",
+                "publisher": "옥당",
+                "pubdate": "20131007",
+                "isbn": "9788993952506",
+                "description": "뇌는 어떻게 정신과 육체를 연결하는가?\n\n세계적인 과학철학자 대니얼 데닛의 『의식의 수수께끼를 풀다』. ‘근대철학의 아버지’ 르네 데카르트에 따르면, 인간은 정신과 육체라는 두 가지 실체로 되어 있고, 정신은 뇌에 있는 송과선을 통해 육체와 상호작용한다. 데카르트는 그곳을 이해와 의식이 일어나는 뇌의 중추로 보았는데, 이것이 바로 ‘데카르트 극장’ 모형이다. 이 책은 데카르트 극장 모형이 잘못된 이원론을 전제하고 있다고 비판하며, 의식에 대한 과학적인 접근을 제시한다.\n\n크게 3부로 구성되어, 1부에서는 의식의 문제를 조사하고, 몇 가지 방법론을 수립한다. 2부에서는 의식의 새로운 모형인 ‘다중원고’ 모형을 소개하고, 기존의 데카르트 극장 모형이 아니라 이 모형을 선택해야 하는 이유를 살펴본다. 마지막으로 3부에서는 새로운 대안 모형에 대한 반대 의견에 답하며, 해당 모형이 함의하는 것을 샅샅이 파헤친다. 이는 지금껏 믿어왔던 의식에 관한 전통적 시각과는 완전히 다른 시각으로, 의식을 구성하는 다양한 현상을 체계화하도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)옥당",
+                "DDC": "126",
+                "UPDATE_DATE": "20131007",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "대니얼 데닛",
+                "SERIES_TITLE": "",
+                "KDC": "126.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2900010_3.jpg",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2900010_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013014459",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993952506",
+                "INPUT_DATE": "20130807",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "의식의 수수께끼를 풀다",
+                "PUBLISH_PREDATE": "20131007",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

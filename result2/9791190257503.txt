@@ -1,0 +1,67 @@
+{
+    "otitle": "혼자이거나, 외롭거나, 고독하거나",
+    "oauthor": "소리타 가쓰히코 저/이유라 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "혼자이거나, 외롭거나, 고독하거나 (어느 날 찾아온 외로움에 대처하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492184894",
+                "image": "https://shopping-phinf.pstatic.net/main_3249218/32492184894.20221230073417.jpg",
+                "author": "소리타 가쓰히코",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20200615",
+                "isbn": "9791190257503",
+                "description": "아직 혼자가 어색한 당신에게 전하는 위로\n인간관계에서 비롯된 고독ㆍ상처ㆍ불안 가볍게 이겨내기\n\n‘사람들 속에서 나 혼자 고립되는 경향이 있다’, ‘인생에서 의지가 될 만한 인간관계가 없다’, ‘다른 사람과 있으면 진짜 내 모습을 드러내지 못한다’ 등 일상과 사회생활에서 고독을 마주한 사람들에 공감하고 극복해나가는 방법을 소개한다. 고독은 어느 날 문득 예상치 못한 곳에서 우리 곁으로 스며든다. 언제, 어디서, 어떻게 찾아올지 모르는 이 고독이란 감정을 마주했을 때 당황하지 않고 대처할 수 있도록 준비가 필요하다.\n\n사회생활을 하는 사람이라면 인간관계에서 누구나 한 번은 느꼈을 법한 고독ㆍ상처ㆍ불안의 감정과 그 사례를 들려주고 세심한 처방을 알려준다. 생각을 바꿔 행동함으로써 몸과 마음의 변화를 가져오는 인지행동요법을 통해 누구나 실천할 수 있는 쉽고 간단한 것들이다. 고독을 불필요하게 두려워하지 않고 가볍게 이겨내며, 나아가 혼자 있는 시간을 즐김으로써 자기다움을 찾기 바라는 이들에게 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200720",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "소리타 가쓰히코 지음 ;이유라 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "189.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "183 p.",
+                "CONTROL_NO": "CIP2020017774",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257503",
+                "INPUT_DATE": "20200428",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "혼자이거나, 외롭거나, 고독하거나",
+                "PUBLISH_PREDATE": "20200615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

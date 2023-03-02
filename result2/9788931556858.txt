@@ -1,0 +1,67 @@
+{
+    "otitle": "AI 플레이그라운드",
+    "oauthor": "한선관,류미영,정유진 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "AI 플레이그라운드",
+                "link": "https://search.shopping.naver.com/book/catalog/32436332752",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436332752.20221019110148.jpg",
+                "author": "서정원",
+                "discount": "17100",
+                "publisher": "성안당",
+                "pubdate": "20201204",
+                "isbn": "9788931556858",
+                "description": "미래의 주역을 기다리는 인공지능 놀이터!\nAI 플레이그라운드\n\n인공지능을 체험할 수 있는 사이트 모음에 각 사이트별 기능을 소개하는 책, 인공지능이라는 놀이터에서 마음껏 놀아볼 수 있는 책이 나왔다. 특히 온라인 수업으로도 인공지능을 체험할 수 있도록 인공지능 사이트 소개와 기능, 이용법, 실습하는 방법을 알려주고 AI를 주제로 실습할 수 있는 순서와 실습 방법 안내는 물론 실습으로 다양하게 즐길 수 있는 놀이를 안내한다. AI 알기에서는 인공지능의 기초 이론과 연구되고 있는 주제를 다룬다.\n\n저자는 서문을 통해 “이 책에서는 어려운 인공지능의 이론, 알고리즘 그리고 이를 구현하는 코딩 방법을 설명하지 않고 AI와 직접 놀아보고 실행하며 기계가 학습할 수 있도록 만드는 과정을 통해 쉽게 인공지능을 안내하고 있습니다. 인공지능으로 구현된 게임, 음악, 연주, 그림, 예술, 학습, 언어와 관련된 AI 도구를 다양하게 소개하고 놀이터를 구성하여 초보자들도 쉽게 인공지능을 이해할 수 있습니다. 또한 구글에서 최근 공개한 인공지능 실험실을 하나씩 탐험하면서 AI가 어디까지 개발되어 왔고, 앞으로 어떻게 발전하는지 그 미래를 소개하고 있습니다.”라고 밝히고 있다. \n\n1부 게임/음악 게임과 함께 하는 인공지능, 2부 형태 인식/형태를 알아보는 인공지능, 3부 예술과 창의성/창의성 넘치는 인공지능, 4부 기계와 머신러닝/학습하는 인공지능, 5부 챗봇과 언어/말하는 인공지능, 6부 인공지능과 윤리/예절 바른 인공지능 등 요즘 화두가 되는 다양한 주제들을 다룬다. \n부록으로 구글 AI 실험실 랩 주제 14가지를 제공한다. \n\n★ 사이트 북마크 다운로드! - ㈜성안당 홈페이지(www.cyber.co.kr)=회원가입-로그인 상태에서 [자료실]-[자료실 바로가기]-‘AI’ [검색]-(도서 제목명 클릭)-[자료 다운로드 바로가기]"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210115",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "한선관,류미영,정유진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "004.73",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/23/9788931556858.jpg",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2020049978",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931556858",
+                "INPUT_DATE": "20201123",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "AI 플레이그라운드",
+                "PUBLISH_PREDATE": "20201204",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

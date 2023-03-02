@@ -1,0 +1,67 @@
+{
+    "otitle": "무인양품은 90%가 구조다",
+    "oauthor": "마쓰이 타다미쓰 저/민경욱 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "무인양품은 90%가 구조다 (노력을 성과로 직결시키는 구조의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483620893",
+                "image": "https://shopping-phinf.pstatic.net/main_3248362/32483620893.20230117163653.jpg",
+                "author": "마쓰이 타다미쓰",
+                "discount": "11520",
+                "publisher": "모멘텀",
+                "pubdate": "20141010",
+                "isbn": "9791156755258",
+                "description": "이 책은 무인양품의 본사인 양품계획 회장 마쓰이 타다미쓰가 무인양품의 경영 비밀을 직접 밝힌 최초의 책으로, 그가 사장에 취임한 2001년부터 지금까지 조직의 구조와 풍토를 바꾸면서 어떻게 성장해왔는지 소개한다. 또한 무인양품의 성장 발판이 담긴 '무지그램'을 처음으로 공개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)푸른숲",
+                "DDC": "658.401",
+                "UPDATE_DATE": "20141022",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "마쓰이 타다미쓰 지음/ 민경욱 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3984748_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3984748_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014027096",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156755258",
+                "INPUT_DATE": "20140916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "무인양품은 90%가 구조다",
+                "PUBLISH_PREDATE": "20141008",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

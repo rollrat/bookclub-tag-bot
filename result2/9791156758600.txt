@@ -1,0 +1,67 @@
+{
+    "otitle": "필요의 탄생",
+    "oauthor": "헬렌 피빗 저/서종기 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "필요의 탄생 (냉장고의 역사를 통해 살펴보는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491818378",
+                "image": "https://shopping-phinf.pstatic.net/main_3249181/32491818378.20221229074230.jpg",
+                "author": "헬렌 피빗",
+                "discount": "17820",
+                "publisher": "푸른숲",
+                "pubdate": "20210122",
+                "isbn": "9791156758600",
+                "description": "런던과학박물관의 최고 인기 도서! \n한 시대의 소망과 욕망, 사회문화적 맥락이 얽힌 냉장고의 쿨한 역사\n\n가전은 늘 시대상을 반영한다. 1인 가구가 전체 가구의 40퍼센트에 육박하는 오늘날 가정용 전화기는 거의 사라졌고, 육아나 활용도를 이유로 텔레비전을 없애는 집도 늘어나고 있다. 심지어 코인세탁방이 일상화된 도심에선 세탁기 없는 가구도 생겨나는 추세다. 그러나 여전히 냉장고가 없는 집은 찾아보기 힘들다.\n\n2012년 영국 왕립학회는 “식품학 역사에서 가장 중요한 발명은 냉장 기술”이라고 밝혔다. 냉장 기술이 현대 사회의 식량 공급, 식량 안보, 식품 안전에 필수라는 이유에서였다. 지난 100년간 냉장 기술 발달과 콜드체인(저온 유통 체계)은 인류의 유구한 음식 저장법과 1년에 걸친 수확 과정을 매일, 매주 음식을 사고 저장하는 방식으로 대체했다. 이제는 공기처럼 우리 삶의 필수 요소가 된 가정용 냉장고는 이 100년의 역사와 콜드체인의 최종기점이다. 누구도 필요성에 의문을 제기하지 않는 가전이며, 음식을 신선하게 보존하고 건강을 유지하는 데 꼭 필요한 생필품이다. \n\n이 책은 런던과학박물관 큐레이터인 저자가 해박한 지식과 입담으로 런던과학박물관에 소장 중인 100여 장의 진귀한 사진과 삽화를 통해 가정용 냉장고를 새로운 관점에서 바라본다. 콜드체인의 발전에 얽힌 과학, 기술, 문화, 경제, 사회적 요소 등을 두루 들여다본다. 한때 사치품이었던 냉장고가 어떻게 필요를 넘어 필수품이 되었는지 역사적 과정과 기술적 진보를 통해 살펴본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20210224",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "헬렌 피빗 지음 ;서종기 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156758600",
+                "INPUT_DATE": "20210106",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(냉장고의 역사를 통해 살펴보는) 필요의 탄생",
+                "PUBLISH_PREDATE": "20210122",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

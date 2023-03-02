@@ -1,0 +1,67 @@
+{
+    "otitle": "세상을 바꾼 음식 이야기",
+    "oauthor": "홍익희 저이영미 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상을 바꾼 음식 이야기 (소금에서 피자까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466910184",
+                "image": "https://shopping-phinf.pstatic.net/main_3246691/32466910184.20221230072018.jpg",
+                "author": "홍익희",
+                "discount": "12600",
+                "publisher": "세종서적",
+                "pubdate": "20170106",
+                "isbn": "9788984076037",
+                "description": "음식의 역사는 인류의 역사이다!\n\n의식주는 인간이 생활하는 데 꼭 필요한 기본 요소이다. 그중 먹는 것은 인간의 가장 기본적인 욕구이자 큰 즐거움이다. 그러나 음식을 먹는 것은 맛과 영양을 얻는 것 이상의 의미를 지닌다. 음식은 시대의 상징이자 문화의 핵심이며 사람살이의 모습을 담고 있다.인류는 먹을거리를 찾는 과정에서 진화가 일어났다. 농작물을 재배하면서 국가가 생겨나고, 원산지가 아닌 곳에 식물을 옮겨 심으면서 생태계가 변화하고, 맛있는 음식을 차지하기 위해 전쟁을 일으켰다. 현대에 이르러서는 먹을거리가 넘쳐나는 대신 유전자 변형 식품, 화학 첨가물 식품 등이 우리의 건강을 위협하기 시작했다. 그야말로 음식은 태곳적부터 인간의 역사를 지배해 온 것이다. 그러므로 우리의 삶에서 떼어 놓을 수 없는 먹거리의 역사를 살펴보면 인류의 역사가 어떻게 발전하고 있는지를 한눈에 파악할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세종서적(주)",
+                "DDC": "",
+                "UPDATE_DATE": "20170201",
+                "EA_ADD_CODE": "43900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "홍익희",
+                "SERIES_TITLE": "",
+                "KDC": "594",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20170106",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6004275_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6004275_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "16,000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 230페이지 내외",
+                "CONTROL_NO": "CIP2016031457",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984076037",
+                "INPUT_DATE": "20161219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "세상을 바꾼 음식 이야기",
+                "PUBLISH_PREDATE": "20170106",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

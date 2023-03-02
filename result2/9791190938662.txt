@@ -1,0 +1,67 @@
+{
+    "otitle": "잠깐 선 좀 넘겠습니다",
+    "oauthor": "최원석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잠깐 선 좀 넘겠습니다 (오지랖인 거 압니다만)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456302743",
+                "image": "https://shopping-phinf.pstatic.net/main_3245630/32456302743.20221227204313.jpg",
+                "author": "최원석",
+                "discount": "12270",
+                "publisher": "상상출판",
+                "pubdate": "20210525",
+                "isbn": "9791190938662",
+                "description": "자타공인 인싸 출판 마케터이자 유명 북스타그래머 ‘최초딩’\n그가 지난 2년간 기록해 온 연재 에세이 〈초딩시선〉 \n시즌 1-10까지의 기록들이 책으로 나왔다!\n\n팔로워 1.8만 명에 많은 팬을 보유한 유명 북스타그래머 ‘최초딩’. 그는 북스타그래머인 동시에 파주에서 일하고 있는 ‘인싸 출판 마케터’이기도 하다. 그 타이틀에 걸맞게 지난 몇 년간 책과 사람 사이를 부지런히 넘나들며 〈초딩시선〉이라는 연재 에세이를 써 왔다. 2019년, 시즌1을 시작으로 2020년을 함께 마무리한 시즌10까지의 과정들을 구독자들과 함께하면서 힘들면 힘든 대로, 기쁘면 기쁜 대로 나아가 슬프면 슬픈 대로 자신의 감정과 생각들을 솔직하게 공유해 왔다. 『잠깐 선 좀 넘겠습니다』는 그 기록들을 한데 묶은 책이다. 더한 것도, 덜한 것도 없는 그의 삶 자체에 관한 이야기이다.\n저자에 따르자면 우리는 하루가 멀다 하고 다양한 감정들을 마주하며 산다. 그리고 그 중심에는 다름 아닌 ‘사람’이 있다. 사람 때문에 울기도 하고, 힘들기도 하지만 결국에는 또 사람 때문에 웃고, 다시 일어난다. 그래서 우리는 온갖 감정의 선을 서로 공유하고 넘으면서 관계를 의미 있게 변화시켜 나가야 한다. 그 속에서 때론 방황하지 않는 날보다 방황하는 날이 더 많지만 그것 또한 우리의 일상이고 인생이라고 저자는 말한다. 아무리 좋은 사람이라도 매번 좋을 수 없고, 아무리 싫은 사람이라도 매번 싫을 수만은 없기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210722",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최원석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14200",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190938662",
+                "INPUT_DATE": "20210506",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "잠깐 선 좀 넘겠습니다",
+                "PUBLISH_PREDATE": "20210525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

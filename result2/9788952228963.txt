@@ -1,0 +1,67 @@
+{
+    "otitle": "매일매일 아침밥 먹으리",
+    "oauthor": "박현숙 글/이현주 그림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "매일매일 아침밥 먹으리",
+                "link": "https://search.shopping.naver.com/book/catalog/32436389646",
+                "image": "https://shopping-phinf.pstatic.net/main_3243638/32436389646.20221019151113.jpg",
+                "author": "박현숙",
+                "discount": "8100",
+                "publisher": "살림어린이",
+                "pubdate": "20140825",
+                "isbn": "9788952228963",
+                "description": "우리 가족 식생활 건강과 정신 건강을 위한 아침밥 함께 먹기 운동『매일매일 아침밥 먹으리』. 할아버지의 유언장이라는 소재로 온가족이 아침밥상에 모두 앉아 밥을 먹기까지의 좌충우돌 이야기를 재밌게 보여준다. 2012년 볼로냐 라가치상 오페라프리마 상을 수상한 주목받는 신인 일러스트레이터 이현주의 사랑스럽고 맛깔스런 그림이 어우러진 이 책은 다이어트, 바쁜 일과, 공부 등 모든 근심 걱정들을 잊고 맛있는 밥 한 끼를 통해 가족의 화목과 사랑이 함께 하는 따뜻한 감동을 선사한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20140822",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "박현숙 글, 이현주 그림",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3690566_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3690566_3.jpg",
+                "PRE_PRICE": "9000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014018234",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952228963",
+                "INPUT_DATE": "20140613",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "매일매일 아침밥 먹으리",
+                "PUBLISH_PREDATE": "20140825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "영유아 발달을 위한 놀이지도",
+    "oauthor": "진명희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영유아 발달을 위한 놀이지도",
+                "link": "https://search.shopping.naver.com/book/catalog/32484773648",
+                "image": "https://shopping-phinf.pstatic.net/main_3248477/32484773648.20221229072515.jpg",
+                "author": "진명희",
+                "discount": "0",
+                "publisher": "공동체",
+                "pubdate": "20151231",
+                "isbn": "9788963528786",
+                "description": "▶ 이 책은 유아놀이교육에 대해 다룬 개론서입니다. 유아놀이교육의 기초적이고 전반적인 내용을 학습할 수 있도록 구성했습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)공동체",
+                "DDC": "",
+                "UPDATE_DATE": "20160922",
+                "EA_ADD_CODE": "93370",
+                "PUBLISHER_URL": "http//www.compub.co.kr",
+                "AUTHOR": "진명희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*230mm",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "336",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963528786",
+                "INPUT_DATE": "20160919",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "영유아 발달을 위한 놀이지도",
+                "PUBLISH_PREDATE": "20151231",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

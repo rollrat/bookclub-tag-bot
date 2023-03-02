@@ -1,0 +1,67 @@
+{
+    "otitle": "내가 너의 첫문장이었을 때",
+    "oauthor": "김민섭,김혼비,남궁인,문보영,오은,이은정,정지우 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내가 너의 첫문장이었을 때 (7인 7색 연작 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466638820",
+                "image": "https://shopping-phinf.pstatic.net/main_3246663/32466638820.20221019152333.jpg",
+                "author": "김민섭^김혼비^남궁인^문보영^오은",
+                "discount": "13500",
+                "publisher": "웅진지식하우스",
+                "pubdate": "20200701",
+                "isbn": "9788901243283",
+                "description": "당신의 무료한 여름밤을 시원하게 위로할, 한순간의 기쁨과 슬픔, 두려움과 그리움\n좋아서 시작한 7인 7색 에세이 연작집!\n\n김민섭, 김혼비, 남궁인, 문보영, 오은, 이은정, 정지우… 일곱 명의 에세이스트가 에세이 연작집 『내가너의 첫문장이었을 때』로 올여름 독자를 찾아왔다. 찬란했던 순간들은 절대 사라지지 않고 기억의 한 조각이 되어 우리 안에 오롯이 남는다. 언젠가 고양이를 구하지 못했던 그 안타깝고 돌이키고 싶은 순간부터, 친구가 되기로 한 설레는 순간, 나의 세상이 딱 캐리어 하나만큼 넓어졌던 순간까지. 계절처럼 이따금씩 돌아오는 기억 속 ‘언젠가’의 이야기를 담아냈다.\n\n이 책은 2020년 3월부터 5월까지 3개월간 ‘작가 초대 플랫폼 북크루’에서 진행한 ‘에세이 새벽 배송 서비스 〈책장위고양이〉’를 통해 주 7일 새벽 6시마다 구독자들의 메일함을 두드렸던 총 63편의 글을 모은 연작 에세이집이다. 화려한 라인업으로 화제가 되었던 에세이 연재는 작가들의 찬란했던 과거의 한 순간으로 우리를 데리고 가 언젠가 느꼈을 기쁨과 슬픔, 두려움과 그리움을 다시금 느끼게 해준다. 지친 일상을 위로해주던 라디오 DJ의 클로징 멘트처럼, 할머니가 한 알씩 꺼내주던 ‘사랑방 알사탕’처럼 독자들이 이 책을 읽으며 일곱 명의 작가들과 소곤소곤 수다를 나누는 독서의 시간을 가지길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진지식하우스 :웅진씽크빅",
+                "DDC": "",
+                "UPDATE_DATE": "20200720",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김민섭,김혼비,남궁인,문보영,오은,이은정,정지우",
+                "SERIES_TITLE": "책장 위의 고양이",
+                "KDC": "814.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788901243276",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/16/9788901243283.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*202",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "363 p.",
+                "CONTROL_NO": "CIP2020021299",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788901243283",
+                "INPUT_DATE": "20200525",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "내가 너의 첫문장이었을 때",
+                "PUBLISH_PREDATE": "20200701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

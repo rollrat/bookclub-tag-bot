@@ -1,0 +1,78 @@
+{
+    "otitle": "현대 영화이론의 모든 것",
+    "oauthor": "위르겐 펠릭스 저/이준서 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:53 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "현대 영화이론의 모든 것 (작가주의부터 상호매체성까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467112027",
+                "image": "https://shopping-phinf.pstatic.net/main_3246711/32467112027.20221229073916.jpg",
+                "author": "위르겐 펠릭스",
+                "discount": "18000",
+                "publisher": "앨피",
+                "pubdate": "20180228",
+                "isbn": "9791187430223",
+                "description": "11명의 독일 연구자들이 기획 집필한, 영화를 바라보는 9가지 이론적 틀을 소개한 영화이론 개론서이자 본격적인 현대 영화이론서. 미국과 프랑스 문헌을 중심으로 국내에 소개된 영화이론의 한계를 극복할 균형 잡힌 분류와 진지한 고찰, 이론적 실천을 두루 담고 있다.\n\n\n\n‘할리우드’라는 이름으로 미국이 주도하는 세계 영화계에서 영화이론 또한 유사한 형세가 굳어진 지 오래다. 이 책은 이러한 상황을 제3의 시선에서 바라보면서 자국의 학문적 기여들을 반영하고 있다. 그 과정에서 전에는 보이지 않던 현대 영화이론의 새로운 지형도가 드러난다는 점이 이 책의 가장 큰 미덕이다."
+            },
+            {
+                "title": "현대사회이론의 모든 것 (프랑크푸르트 학파부터 지구화론까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466962105",
+                "image": "https://shopping-phinf.pstatic.net/main_3246696/32466962105.20221227205228.jpg",
+                "author": "앤서니 엘리엇",
+                "discount": "22500",
+                "publisher": "앨피",
+                "pubdate": "20200229",
+                "isbn": "9791187430872",
+                "description": "앤서니 엘리엇이 작정하고 쓴 ‘사회이론 교과서’\n\n사회이론만큼 넓고 다학제적이며 정치적으로 중요한 학문 영역도 없을 것이다. 저자는 이 책을 쓰면서 현대사회이론 분야에 대한 읽기 쉽고 포괄적이며 비판적인 개설서를 만들고자 했다. 사회이론은 현재 자아 정체성과 섹슈얼리티, 기표부터 젠더, 지구화, 거버넌스에 이르기까지 모든 것을 다루는 고난이도의 작업이다. \n\n현대사회이론에 관한 적절한 설명을 제공하고자 프랑크푸르트학파, 포스트모더니즘, 구조주의, 포스트페미니즘 등 주된 사상적 전통 대부분을 다루고자 애썼다. 뿐만 아니라 최근에 일어난 최신 발전 흐름을 개괄하려 했다. 그러다 보니 지구화 및 전지구적 전자경제, 포스트모더니즘, 네트워크 사회, 기후변화 등에 관한 세세한 논의도 포함하게 되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "앨피",
+                "DDC": "",
+                "UPDATE_DATE": "20180404",
+                "EA_ADD_CODE": "93680",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 위르겐 펠릭스,크누트 히케티어,프랑크 E. 케슬러,헤어만 카펠호프,하이케 클립펠,브리타 하르트만,한스 J. 불프,로렌츠 엥엘,올리버 팔레,드렐리 로브닉,요아힘 패히",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "435 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187430223",
+                "INPUT_DATE": "20180205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "현대 영화이론의 모든 것",
+                "PUBLISH_PREDATE": "20180228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

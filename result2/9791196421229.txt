@@ -1,0 +1,67 @@
+{
+    "otitle": "백 번째 여왕",
+    "oauthor": "에밀리 킹 저/윤동준 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "백 번째 여왕",
+                "link": "https://search.shopping.naver.com/book/catalog/32436000695",
+                "image": "https://shopping-phinf.pstatic.net/main_3243600/32436000695.20230131164247.jpg",
+                "author": "에밀리 킹",
+                "discount": "13320",
+                "publisher": "에이치",
+                "pubdate": "20180730",
+                "isbn": "9791196421229",
+                "description": "미국 아마존 로맨스 판타지 분야 1위\n카카오페이지 문학 분야 1위\n2,000개가 넘는 독자 리뷰, 만점에 가까운 극찬의 별점\n페이지를 멈출 수 없는 황홀한 중독성\n\n죽음의 토너먼트에 던져진 고아 소녀, \n자신에게 주어진 가혹한 운명을 뒤집을 수 있을까?\n\n폭군의 여자들이 벌이는 치열한 결투와 연대 그리고 은밀한 사랑\n   \n“로맨스 판타지의 여왕은 수메르 신화에서 영감을 얻은 자신의 첫 번째 이야기에서 숨 막히는 긴장감을 단 한 번도 놓치지 않는다.” 〈퍼블리셔스 위클리〉의 평가처럼 데뷔작으로 로맨스 판타지의 여왕으로 등극한 에밀리 킹은 《백 번째 여왕》으로 아마존 베스트셀러를 차지하며 만 점에 가까운 별점과 함께 2,000여 건이 훌쩍 넘는 독자 리뷰를 받았다.  \n 《백 번째 여왕》은 〈백 번째 여왕〉 시리즈의 첫 번째 책으로, 고대 왕국 타라칸드 제국의 아름답지만 야만적인 문화를 생생하게 보여 준다. 수많은 아내와 첩을 거느릴 수 있는 ‘라자 타렉’이, 신이 허용한 마지막 백 번째 아내를 찾아 나서면서 이야기는 시작된다. 여자들은 절대 복종해야 하는 남성 중심 문화에서 고아 소녀 칼린다는 스스로 선택한 은밀한 사랑과 친구 자야와의 자매애를 지켜 내기 위해 자신에게 주어진 가혹한 운명에 맞선다.  \n신화를 바탕으로 라자가 지배하는 왕국에 대한 탄탄한 구성, 저절로 페이지가 넘어가는 액션 장면과 음모들, 자기주도적인 강렬한 여성 캐릭터는 현대 여성들이 맞닥뜨린 현실과도 연관되어 이 책을 더욱 돋보이게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "h",
+                "DDC": "813.6",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "에밀리 킹 ;윤동준",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6733522_6.txt",
+                "SET_ISBN": "9791196421212",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6733522_5.txt",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "418 p. ",
+                "CONTROL_NO": "CIP2018021150",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196421229",
+                "INPUT_DATE": "20180705",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "백 번째 여왕 ",
+                "PUBLISH_PREDATE": "20180730",
+                "RELATED_ISBN": "9791196421205",
+                "SET_ADD_CODE": "04840 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "블로그의 신",
+    "oauthor": "장두현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "블로그의 신 (천만 방문자를 부르는 콘텐츠의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492762686",
+                "image": "https://shopping-phinf.pstatic.net/main_3249276/32492762686.20221228074455.jpg",
+                "author": "장두현",
+                "discount": "14400",
+                "publisher": "책비",
+                "pubdate": "20150810",
+                "isbn": "9788997263943",
+                "description": "블로그 운영에 관심 있는 사람들이 즐겨 찾는 블로그가 있다. 5년 연속 티스토리(TISTORY) Best of Best 블로그로 선정된 바 있는 ‘블로거팁닷컴(bloggertip.com)’이 그것이다. 이 블로그 운영자인 Zet의 12년 블로그 운영 노하우가 담긴 책 『블로그의 신』이 출간되었다. 이 책은 블로그 주제 선택에서부터 천만 방문자를 부르는 콘텐츠 만드는 방법, 6개월 만에 파워블로거가 되는 노하우는 물론 SNS를 활용해 블로그를 홍보하는 방법들을 생생히 담아냈다. 블로그로 억대 연봉 부럽지 않은 투잡을 가질 수 있는 블로그 활용법은 덤이다.\n\n페이스북, 카카오스토리, 밴드, 인스타그램 등이 인기 SNS로 떠오르고 있지만 이 책의 저자 Zet는 그중 블로그가 가장 기본이자 핵심이라고 강조한다. ‘블로그가 글과 사진으로 구성된 콘텐츠를 만들고 공유하기에 가장 좋은 콘텐츠 허브’이기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책비",
+                "DDC": "",
+                "UPDATE_DATE": "20150819",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "장두현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997263943",
+                "INPUT_DATE": "20150819",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "블로그의 신 ",
+                "PUBLISH_PREDATE": "20150810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

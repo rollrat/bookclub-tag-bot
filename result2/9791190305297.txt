@@ -1,0 +1,67 @@
+{
+    "otitle": "그렇게 물어보면 원하는 답을 들을 수 없습니다",
+    "oauthor": "김호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그렇게 물어보면 원하는 답을 들을 수 없습니다 (상대의 마음을 움직이는 센스 있는 질문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445258559",
+                "image": "https://shopping-phinf.pstatic.net/main_3244525/32445258559.20230224102259.jpg",
+                "author": "김호",
+                "discount": "12600",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20190910",
+                "isbn": "9791190305297",
+                "description": "“그때 그 질문을 했어야 했는데….”\n그동안 간과해온 질문의 막강한 힘을 다시 한 번 생각하게 해주는 책!\n\n안 될 것 같은 상황에서도 질문 하나가 흐름을 바꾼다는 사실을 아는가. 흔히 ‘질문’이라고 하면 궁금한 것을 묻는 것으로 단순하게 생각한다. 그러나 소통을 잘하고 원하는 것을 얻기 위해서 가장 중요한 것은 ‘질문에서 질문으로 이어가는 힘’이다. 상대는 내가 자신에게 얼마나 관심 있는지를 확인하고 나서야 내 말에 관심을 기울인다. 기존의 대화에서 ‘좋은 질문’의 비중을 늘려야 하는 이유가 여기에 있다. 『그렇게 물어보면 원하는 답을 들을 수 없습니다』는 ‘질문의 근력을 키우는 법’을 알려준다. 그동안 자신이 왜 묻고 듣는 데 취약했는지 그 원인을 파악할 수 있고, 직장 혹은 일상생활에서 조금만 활용해도 효과가 큰 여러 가지 질문법들을 체득할 수 있다. 독자들은 이 책을 통해 질문의 주인이 될 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스 :위즈덤하우스 미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20190919",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "802.56",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/27/9791190305297.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2019033708",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190305297",
+                "INPUT_DATE": "20190827",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "그렇게 물어보면 원하는 답을 들을 수 없습니다",
+                "PUBLISH_PREDATE": "20190910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "교과서 읽기의 힘",
+    "oauthor": "고갑주 저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "교과서 읽기의 힘 (우리 아이 공부그릇 키우는 기적의 교과서 공부법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436124215",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436124215.20221227204810.jpg",
+                "author": "고갑주",
+                "discount": "12600",
+                "publisher": "살림",
+                "pubdate": "20160325",
+                "isbn": "9788952233462",
+                "description": "저자는 이 ‘교과서 공부법’으로 자신의 두 아이를 실제로 교육시켰고, 그 덕에 이른바 ‘명문대’에 보냈다. 그것도 20년간 워킹맘으로 일하면서 말이다. 『교과서 읽기의 힘』에는 저자 자신이 두 아이와 함께 교과서와 책을 읽으면서 쌓은 ‘디테일하고 생생한 노하우’가 담겨 있다. \n\n\n\n또한 20년간 독서 교육 현장에서 수많은 시행착오 끝에 만들어낸 ‘체계적인 교과서 공부법’이 차곡차곡 쌓여 있다. 책 속에 담긴 자녀 교육에 대한 부모들의 현실적인 고민과 해결 가이드는 ‘나만 이런 건 아니구나’ 하는 공감과 ‘나도 할 수 있다’는 자신감을 불러일으키기에 충분하다.\n\n\n\n또 한 가지 중요한 것은 이 과정에서 부모 또한 아이 학습에 대한 개념과 신념이 세워진다는 것이다. 더 이상 학습지로, 학원으로 성적을 올리는 다른 집 아이의 공부법에 휘둘리지 않고 내 아이에게 꼭 알맞은 학습법을 찾을 수 있도록 이정표를 제공해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "371.30281",
+                "UPDATE_DATE": "20160405",
+                "EA_ADD_CODE": "13370",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "고갑주",
+                "SERIES_TITLE": "",
+                "KDC": "373.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5270432_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5270432_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "276",
+                "CONTROL_NO": "CIP2016005703",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952233462",
+                "INPUT_DATE": "20160229",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "교과서 읽기의 힘",
+                "PUBLISH_PREDATE": "20160325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

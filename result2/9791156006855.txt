@@ -1,0 +1,67 @@
+{
+    "otitle": "파이썬 예제와 함께하는 강화학습 입문",
+    "oauthor": "김승현,김태우,이정원,이주행 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "파이썬 예제와 함께하는 강화학습 입문 (OpenAI GYM과 TensorFlow 실습 가이드)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436254095",
+                "image": "https://shopping-phinf.pstatic.net/main_3243625/32436254095.20221228074524.jpg",
+                "author": "수다르산 라비찬디란",
+                "discount": "21780",
+                "publisher": "홍릉과학출판사",
+                "pubdate": "20190620",
+                "isbn": "9791156006855",
+                "description": "▶ 파이썬에 관한 내용을 담은 전문서적입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "홍릉과학출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20191105",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "Sudharsan Ravichandiran 지음 ;김승현,김태우,이정원,이주행 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "xiv, 296 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156006855",
+                "INPUT_DATE": "20190617",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "강화학습 입문",
+                "PUBLISH_PREDATE": "20190620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

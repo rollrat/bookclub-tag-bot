@@ -1,0 +1,67 @@
+{
+    "otitle": "거절하고 싶은데 말은 못 하겠고",
+    "oauthor": "수잔 뉴먼 저/안지은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "거절하고 싶은데말은 못 하겠고 (불편한 부탁에 단호하고 똑똑하게 거절하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455925822",
+                "image": "https://shopping-phinf.pstatic.net/main_3245592/32455925822.20221019132039.jpg",
+                "author": "수잔뉴먼",
+                "discount": "11520",
+                "publisher": "팬덤북스",
+                "pubdate": "20191230",
+                "isbn": "9791161691022",
+                "description": "죄책감을 느끼지 않고 관계를 망가뜨리지 않으면서 거절하는 방법을 크게 5가지 거절 상황을 통해 알려준다. 그 상황은 일상의 모든 관계에 적용할 만한 것들이어서 실생활에 유용하다. 특히 우리와 가까운 친구, 이웃, 부모님, 형제자매, 친척부터 사회에서 만나는 직장동료, 상사, 낯선 이들에게까지 거절하는 방법을 담고 있어 다양한 상황에서 우리가 단호하게 똑똑하게 거절할 수 있도록 돕는다. 누구나 한 번쯤 겪었던 상황을 대화 형식으로 구성해 거절이 힘들고 어려운 사람들이 거절할 용기를 갖게 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200110",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "수잔 뉴먼 지음 ;안지은 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "195 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161691022",
+                "INPUT_DATE": "20191218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "거절하고 싶은데 말은 못 하겠고",
+                "PUBLISH_PREDATE": "20191230",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

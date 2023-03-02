@@ -1,0 +1,67 @@
+{
+    "otitle": "여행일본어 100일의 기적",
+    "oauthor": "황미진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여행일본어 100일의 기적 (일본여행 준비 D-100 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473095880",
+                "image": "https://shopping-phinf.pstatic.net/main_3247309/32473095880.20230110164920.jpg",
+                "author": "황미진",
+                "discount": "10080",
+                "publisher": "넥서스",
+                "pubdate": "20171120",
+                "isbn": "9791161651675",
+                "description": "일본 여행 준비 D-100 프로젝트. 일본 여행을 준비하면서 또는 여행지에서 만날 수 있는 100가지 상황별 표현들을 정리하였다. 여행 일본어 필수 단어 및 표현 그리고 여행 도우미 꿀팁도 알려 준다. 무료 제공 MP3 파일을 넥서스 홈페이지(nexusbook.com), 콜롬북스 어플을 통해 들을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "495.68",
+                "UPDATE_DATE": "20171128",
+                "EA_ADD_CODE": "13730",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "황미진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "737.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6405868_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6405868_3.jpg",
+                "PRE_PRICE": "11200",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6405868_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "CIP2017027857",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161651675",
+                "INPUT_DATE": "20171025",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "여행일본어 100일의 기적",
+                "PUBLISH_PREDATE": "20171115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

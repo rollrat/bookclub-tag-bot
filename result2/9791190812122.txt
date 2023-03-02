@@ -1,0 +1,67 @@
+{
+    "otitle": "사기, 정치와 권력을 말하다",
+    "oauthor": "김영수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사기, 정치와 권력을 말하다 (죽음이 아닌 궁형을 택하면서까지, 사마천이 세상에 전하고 싶었던 삶의 지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436282616",
+                "image": "https://shopping-phinf.pstatic.net/main_3243628/32436282616.20221019143153.jpg",
+                "author": "김영수",
+                "discount": "15300",
+                "publisher": "북바이북",
+                "pubdate": "20210210",
+                "isbn": "9791190812122",
+                "description": "사마천이 2000년 전 『사기』에 새겨 넣은 52만 6,500자의 지혜 중에서, 지금의 정치와 권력을 돌아보게 하는 일화를 골라 대화체로 읽기 쉽게 엮었다. 공직자와 리더의 덕목, 충신의 조건, 간신의 최후, 말의 위력, 성공 법칙 등에 관한 이야기를 따라가다 보면, ‘역사는 영원히 되풀이’되고 ‘역사는 현대와의 대화’임이 절로 와닿는다. 중국 역사가 사마천과 그가 남긴 역사서 『사기』를 평생 연구해온 저자 김영수가 들려주는 역사 이야기를 통해 우리의 삶에서 만나게 되는 권력과 정치의 부조리를 비판하고, 이를 이겨낼 힘을 기를 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "",
+                "UPDATE_DATE": "20210309",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김영수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/01/9791190812122.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "339 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190812122",
+                "INPUT_DATE": "20210119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "사기, 정치와 권력을 말하다",
+                "PUBLISH_PREDATE": "20210210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

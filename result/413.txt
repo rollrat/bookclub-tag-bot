@@ -1,0 +1,23 @@
+{
+    "otitle": "CSS 수퍼파워 Sass로 디자인하라",
+    "oauthor": "양용석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "CSS 수퍼파워 Sass로 디자인하라 (실전 예제로 배우는 Sass 웹 디자인의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494121976",
+                "image": "https://shopping-phinf.pstatic.net/main_3249412/32494121976.20220527031227.jpg",
+                "author": "양용석",
+                "discount": "0",
+                "publisher": "로드북",
+                "pubdate": "20160822",
+                "isbn": "9788997924233",
+                "description": "『CSS 수퍼파워 Sass로 디자인하라』는 저자가 직접 Sass로 CSS 디자인을 해보면서 익힌 실무 경험을 녹여낸 책이다. “Sass가 이런 것이다”가 아니라 “Sass로 이렇게 쉽게 웹 디자인을 할 수 있다”를 말하고 있는 책이다."
+            }
+        ]
+    }
+}

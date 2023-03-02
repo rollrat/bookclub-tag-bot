@@ -1,0 +1,67 @@
+{
+    "otitle": "구체적 소년",
+    "oauthor": "서윤후 글, 노키드 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "구체적 소년",
+                "link": "https://search.shopping.naver.com/book/catalog/32440934155",
+                "image": "https://shopping-phinf.pstatic.net/main_3244093/32440934155.20221019115155.jpg",
+                "author": "서윤후",
+                "discount": "9900",
+                "publisher": "네오카툰",
+                "pubdate": "20170424",
+                "isbn": "9788954437325",
+                "description": "만화가와 시인, 시인과 만화가가 만나 탄생 한 ‘만화시편’\n\n“시가 만화로 그려지는 일을 상상했지만 상상이 되지 않았습니다. 머릿속에 막연하게나마 그려본 일은 있었지만요. 구체적인 장면으로 시를 읽어가는 일을 해보게 되어 기쁩니다. 이 소년들을 영영 보내줄 수 있을 것 같습니다.”\n\n만화가와 시인, 시인과 만화가. 두 재능이 만나면 어떻게 될까? 그간 시를 소재로 한 만화가 없었던 것은 아니지만, 시를 그 자체로 만화에 녹여냈다는 아쉬움을 달랠 수 있는 책 『구체적 소년』이 출간되었다. 이 책에는 서윤후 시인의 첫 시집에 수록된 시 10편과 미수록 10편이 담겨있으며 각 편은 ‘만화’, ‘시 전문’, ‘시인의 코멘터리’로 구성되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)자음과모음",
+                "DDC": "895.715",
+                "UPDATE_DATE": "20170524",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "서윤후, 노키드",
+                "SERIES_TITLE": "",
+                "KDC": "811.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6203365_6.txt",
+                "SET_ISBN": "9788954437318",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6203365_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 208페이지 내외",
+                "CONTROL_NO": "CIP2017009683",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954437325",
+                "INPUT_DATE": "20170413",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "만화시편 구체적 소년",
+                "PUBLISH_PREDATE": "20170424",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

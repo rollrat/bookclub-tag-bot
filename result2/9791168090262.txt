@@ -1,0 +1,67 @@
+{
+    "otitle": "척 피니",
+    "oauthor": "코너 오클레어리 저/ 김정아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "척 피니 (무일푼 청년 사업가에서  재산 9.4조를 기부한 진짜 부자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473356197",
+                "image": "https://shopping-phinf.pstatic.net/main_3247335/32473356197.20221019115605.jpg",
+                "author": "코너 오클레어리",
+                "discount": "22500",
+                "publisher": "가나출판사",
+                "pubdate": "20220310",
+                "isbn": "9791168090262",
+                "description": "“진정한 부(富)란 무엇인가?”\n어느 때보다 ‘돈’에 대한 열망으로 가득 차 있는 지금,\n돈의 가치에 대해 근본적인 질문을 던진 단 한 권의 책!\n\n본적인 질문을 던지는 책이다. 무일푼에서 성공한 면세사업가가 되기까지 어떻게 부를 쫓고 성공하였는지 ‘성공한 사업가’로서의 그를 생생하게 보여주며, 그랬던 그가 전재산을 기부하기까지 부를 벗어던진 ‘진짜 부자’가 되는 그의 행보를 통해 돈의 진정한 가치를 어떻게 바라봐야 하는지 답을 찾게 될 것이다. 빌 게이츠의 롤모델이자 워런 버핏의 롤모델인 척 피니가 허락한 단 한 권의 자서전인 이 책은 〈비즈니스위크〉, 〈이코노미스트〉에서 올해의 책으로 선정되기도 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가나 :가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20220408",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "코너 오클레어리 지음 ;김정아 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "503 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168090262",
+                "INPUT_DATE": "20220125",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "척 피니",
+                "PUBLISH_PREDATE": "20220310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

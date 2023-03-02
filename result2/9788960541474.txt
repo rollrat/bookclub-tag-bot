@@ -1,0 +1,67 @@
+{
+    "otitle": "인생을 바꾼 시간관리 자아실현",
+    "oauthor": "유성은,유미현 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 인생을 바꾸는 시간관리 자아실현",
+                "link": "https://search.shopping.naver.com/book/catalog/32490269621",
+                "image": "https://shopping-phinf.pstatic.net/main_3249026/32490269621.20220527044347.jpg",
+                "author": "유성은",
+                "discount": "0",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20160628",
+                "isbn": "9788960541474",
+                "description": "『내 인생을 바꾸는 시간관리 자아실현』은 30여 년 넘게 독자들의 사랑을 받아온 저자의 노하우를 집대성한 시간관리 & 자기계발의 바이블이다. 시간관리의 중요성은 알고 있으면서도 실천 방법을 모르는 사람들을 위해서 시간관리 노하우를 알기 쉽게 설명한다. ‘학생’, ‘주부’, ‘직장인’은 물론, 언제나 바쁜 사람과 라이프스타일이 불규칙한 사람, 독신생활자, 그리고 자신의 분야에서 ‘리더’인 사람에 이르기까지 폭넓게 소화할 수 있는 내용이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)중앙경제평론사",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20160718",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "유성은",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4647763_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4647763_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015015866",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960541474",
+                "INPUT_DATE": "20150609",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "내 인생을 바꾸는 시간관리 자아실현 ",
+                "PUBLISH_PREDATE": "20160628",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "현대인의 자유와 소외",
+    "oauthor": "황갑진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "현대인의 자유와 소외 (분절되어가는 현대 사회와 인간 소외 현상의 기원과 특징)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504443947",
+                "image": "https://shopping-phinf.pstatic.net/main_3250444/32504443947.20221230072434.jpg",
+                "author": "황갑진",
+                "discount": "18000",
+                "publisher": "산지니",
+                "pubdate": "20200731",
+                "isbn": "9788965456636",
+                "description": "▶ 분절되어가는 현대 사회와 인간 소외 현상의 기원과 특징을 논하다\n\n『현대인의 자유와 소외』는 근대 시기 급속한 발전과 함께 자본의 도구로 전락한 인간의 모습과 그로 인해 발생한 소외 문제를 다룬다. 소외는 인간이 만든 구성물이 인간을 억압하고 그로 인해 자유가 침해될 때 발생한다. 오늘날 현대인이 일상생활에서 직면하는 다양한 형태의 소외 현상은 이윤 추구의 자본주의에 경도된 사회의 특성에서 비롯됐다. 책은 현대 사회의 비인간화(소외)를 극복하기 위해서, 인권을 우선시하는 민주주의 가치에 방점을 두고 사회 성원 개개인의 자유를 보장하는 다문화사회로 나아가야 한다고 주장한다.\n오늘날과 같이 조직화된 사회에서 자유와 소외는 보편적인 문제다. 이 책에는 산업사회의 특성을 다루는 사회사상, 현대사회론에 대한 학술활동으로 쌓아온 연구 결과물이 담겨 있다. 독자는 현대 사회 문제의 기원과 특징을 알기 쉽게 설명한 이 책을 통해서 사회를 보는 명징한 시각을 가질 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20200902",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "황갑진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "331.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/24/9788965456636.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "304 p.",
+                "CONTROL_NO": "CIP2020030951",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965456636",
+                "INPUT_DATE": "20200720",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "현대인의 자유와 소외",
+                "PUBLISH_PREDATE": "20200731",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

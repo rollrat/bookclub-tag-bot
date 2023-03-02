@@ -1,0 +1,67 @@
+{
+    "otitle": "내일의 내가 하겠지",
+    "oauthor": "차희연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내일의 내가 하겠지 (무기력한 직장인을 위한 심리 보고서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441631754",
+                "image": "https://shopping-phinf.pstatic.net/main_3244163/32441631754.20221019131927.jpg",
+                "author": "차희연",
+                "discount": "11520",
+                "publisher": "팜파스",
+                "pubdate": "20181025",
+                "isbn": "9791170262220",
+                "description": "오늘 할 일을 내일로 미루고, 내일 할 일도 모레로 미룰 것이라는 사실을 알면서, 미루는 사람의 심리는 도대체 무엇일까? ‘귀찮아서요.’ 이런 성의 없는 대답이 있나 싶다가도 너무 잘 알 것 같은 마음에 반박하지 못한다. 듣는 이를 묘하게 납득시키는 ‘귀찮다’는 말 속에는 다양한 심리가 숨어있다. 일을 실패할지 모른다는 불안, 대충하는 것처럼 보여주다가 성공했을 때 만끽할 선망의 시선, 선택할 것이 많아 선택하지 못하는 상태, 하루 이틀 쉬어서는 도저히 회복불가능한 몸 상태 등 자신도 몰라서, 혹은 알지만 구구절절 설명할 수 없는 마음을 우리는 ‘귀찮다’고 표현한다. 이 책은 ‘귀찮다’는 말에 숨겨진 우리의 마음을 살펴보고, 귀차니즘, 무기력을 극복할 수 있는 가이드를 제시한다. 귀찮음을 느끼는 사람이 바로 나 자신이니만큼 극복의 출발점도 결국 나 자신이다. 끊임없이 지켜보고 돌봐야 하는 이런 나라도 사랑할 수 있다면, 자신에게 꼭 맞는 행복을 찾을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "158.7",
+                "UPDATE_DATE": "20181025",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "차희연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6931684_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6931684_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6931684_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "204 p.",
+                "CONTROL_NO": "CIP2018031505",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170262220",
+                "INPUT_DATE": "20181001",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "내일의 내가 하겠지",
+                "PUBLISH_PREDATE": "20181025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

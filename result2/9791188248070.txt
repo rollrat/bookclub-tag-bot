@@ -1,0 +1,67 @@
+{
+    "otitle": "불안이라는 위안",
+    "oauthor": "김혜령 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "불안이라는 위안 (마음이 요동칠 때 되뇌는 다정한 주문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455053004",
+                "image": "https://shopping-phinf.pstatic.net/main_3245505/32455053004.20221230074426.jpg",
+                "author": "김혜령",
+                "discount": "12600",
+                "publisher": "웨일북",
+                "pubdate": "20170907",
+                "isbn": "9791188248070",
+                "description": "영원히 도망갈 수 없는 불안, 한 번쯤은 똑바로 마주할 기회가 필요하다!\n\n『불안이라는 위안』은 살면서 우리가 마주하는 불안의 영역을 폭넓게 다룬 책이다. 자아의 근본적인 불안에서부터 한국사회라는 공동체의 불안, 직장생활의 불안, 연애 상대와의 불안, 가족관계에서 느끼는 불안까지 언제 어디서나 우리는 불안과 함께 살아간다. 불안은 생존을 위한 반응이기 때문이다. 그렇기에 불안을 무조건 외면하거나 덮어두는 방식으로는 삶의 균형을 유지하기 어렵다. \n\n‘평화쿤데라’라는 필명으로 수많은 온라인 독자의 마음을 위로하며 브런치북 프로젝트 은상을 수상한 저자 김혜령은 특유의 소박하고 따뜻한 시선으로, 일상 곳곳에 엉켜 있는 불안한 심리의 비밀을 한 꺼풀씩 벗겨낸다. 사람마다 각기 다른 불안이 각기 다른 강도로 존재하는데 내가 어떤 종류의 불안에 자주 노출되는지 이해하고 나면 불안이 나를 위협하는 감정이 아닌, 내가 보살펴야 할 감정이라는 것을 알게 될 것이라 이야기한다. 불안이 찾아올 때 피하지 말고, 그렇다고 그냥 내버려두지도 말고, 불안에게 가만히 말을 건다면 그때 불안은 비로소 위안이 된다고 조언한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Whale book(웨일북)",
+                "DDC": "152.46",
+                "UPDATE_DATE": "20170918",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "김혜령 지음",
+                "SERIES_TITLE": "",
+                "KDC": "181.71",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6322069_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6322069_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "303 p.",
+                "CONTROL_NO": "CIP2017020629",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188248070",
+                "INPUT_DATE": "20170811",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "불안이라는 위안",
+                "PUBLISH_PREDATE": "20170907",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

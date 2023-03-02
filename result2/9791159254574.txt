@@ -1,0 +1,67 @@
+{
+    "otitle": "공익제보 하지 마세요",
+    "oauthor": "인지니어스,코코아,챙타쿠,죽지않는돌고래 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공익제보 하지 마세요 (딴지일보가 만난, 그 이후의 삶)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492733662",
+                "image": "https://shopping-phinf.pstatic.net/main_3249273/32492733662.20221231084316.jpg",
+                "author": "인지니어스^코코아^챙타쿠^죽지않는돌고래",
+                "discount": "11700",
+                "publisher": "들녘",
+                "pubdate": "20190923",
+                "isbn": "9791159254574",
+                "description": "권력과 부조리에 맞서 먼저 용기를 낸 사람들\n그들은 지금 어떻게 살고 있는가\n\n땅콩회항으로부터 삶이 바뀌어버린 박창진, 하나고등학교의 개국공신에서 왕따가 된 전경원, 고부갈등이 아니라 가부장제의 모순과 싸워온 ‘B급 며느리’, 그리고 군납비리와 맞짱 뜬 해군의 양심 김영수…. 『공익제보 하지 마세요』는 사회 여러 분야에서 권력과 부조리에 맞서 공익을 위해 목소리를 낸 사람들을, 『딴지일보』 기자들이 만나 사건의 배경부터 경과, 그리고 세간의 관심이 꺼진 지금의 이야기를 담은 책이다. \n\n제보자의 용기는 사회에 득이 되고, 조직과 사회의 큰 변화를 가져온다. 많은 이가 여기에 혜택을 입으나 그 변화에서 제보 당사자는 제외된다. 그 변화는 대개 이들이 배제된 뒤에 일어나기 마련이다. 여러 계기로 발언했다가 지금은 후회한다고 말하는 이도 물론, 있다. 언론의 관심이 사그라든 지금도 이들은 삶을 이어오고 있다. 지금 우리에게 이들 ‘공익제보자’의 증언은 어떤 의미를 지니는가."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20191008",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "지은이: 인지니어스,코코아,챙타쿠,죽지않는돌고래",
+                "SERIES_TITLE": "",
+                "KDC": "334.13",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "208 p.",
+                "CONTROL_NO": "CIP2019035172",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159254574",
+                "INPUT_DATE": "20190905",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "공익제보 하지 마세요",
+                "PUBLISH_PREDATE": "20190923",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

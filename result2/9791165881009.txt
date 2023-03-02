@@ -1,0 +1,78 @@
+{
+    "otitle": "달님, 왜 따라와요?",
+    "oauthor": "이루리 글/송은실 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:29 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "달님, 왜 따라와요?",
+                "link": "https://search.shopping.naver.com/book/catalog/32498148892",
+                "image": "https://shopping-phinf.pstatic.net/main_3249814/32498148892.20230131164626.jpg",
+                "author": "이루리",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20210601",
+                "isbn": "9791165881009",
+                "description": "그림책 『달님, 왜 따라와요?』의 단짝친구 두두와 코코는 이탈리아의 베네치아에 살고 있습니다. 두두는 코코와 노는 게 너무 좋아서 좀처럼 집에 가고 싶지 않습니다. 늦은 밤이 되어서야 집으로 발길을 돌리는 두두! 그런데 두두의 뒤를 누군가 따라옵니다. 바로 달님입니다. 달님은 두두를 따라오는 게 아니라고 합니다. 하지만 달님은 언제나 두두의 머리 위에 있습니다. 도대체 왜 달님은 두두를 따라올까요? 코로나 시대를 사는 모든 이의 마음을 따뜻하게 위로하는, 우주 최강 코믹 판타지! 바로 이루리 작가와 송은실 작가의 『달님, 왜 따라와요?』입니다."
+            },
+            {
+                "title": "[빅북] 달님, 왜 따라와요?",
+                "link": "https://search.shopping.naver.com/book/catalog/32566535624",
+                "image": "https://shopping-phinf.pstatic.net/main_3256653/32566535624.20230223071206.jpg",
+                "author": "이루리",
+                "discount": "54000",
+                "publisher": "북극곰",
+                "pubdate": "20220505",
+                "isbn": "9791165881733",
+                "description": "*그리운 온 세상 친구들에게\n특히 아름다운 이탈리아 친구들에게- 이루리\n\n*달님은 왜 나를 따라올까?\n*『까만 코다』의 이루리 작가가 쓰고 『어머니의 이슬털이』의 송은실이 그리다!\n*『천사 안젤라』와 『펑』에 이은, 이루리와 송은실의 세 번째 컬래버!\n*그림책 『펑』의 단짝친구 두두와 코코가 달님과 함께 돌아왔어요!\n*코로나 시대를 사는 모든 이에게 바치는, 우주 최강 코믹 판타지!\n\n그림책 『달님, 왜 따라와요?』의 단짝친구 두두와 코코는 이탈리아의 베네치아에 살고 있습니다. 두두는 코코와 노는 게 너무 좋아서 좀처럼 집에 가고 싶지 않습니다. 늦은 밤이 되어서야 집으로 발길을 돌리는 두두! 그런데 두두의 뒤를 누군가 따라옵니다. 바로 달님입니다. 달님은 두두를 따라오는 게 아니라고 합니다. 하지만 달님은 언제나 두두의 머리 위에 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20210830",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "이루리 글 ;송은실 그림",
+                "SERIES_TITLE": "북극곰 꿈나무 그림책",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "228*269",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[38] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "75",
+                "EA_ISBN": "9791165881009",
+                "INPUT_DATE": "20210421",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "달님, 왜 따라와요?",
+                "PUBLISH_PREDATE": "20210601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

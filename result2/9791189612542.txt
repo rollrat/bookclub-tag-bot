@@ -1,0 +1,67 @@
+{
+    "otitle": "일상을 바꾼 이야기의 순간",
+    "oauthor": "이현민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일상을 바꾼 이야기의 순간 (우리 삶 깊숙이 스며든 상식과 만나는 시간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466523121",
+                "image": "https://shopping-phinf.pstatic.net/main_3246652/32466523121.20221229073110.jpg",
+                "author": "이현민",
+                "discount": "10800",
+                "publisher": "북스고",
+                "pubdate": "20200228",
+                "isbn": "9791189612542",
+                "description": "복잡한 세상은 늘 사건과 사고가 일어난다. 그럼에도 우리는 어제와 비슷한 오늘을 살아가고 비슷한 내일을 살아갈 것이다. 우리는 많은 사람들과 만나고 관계를 만들어 간다. 그럴 때마다 어떤 이야기를 주고받는가? 쉽게는 어제 뭐 봤니 부터 잘 나가는 연예인 이야기를 거쳐 상사 뒷담화로 이어지는 대화의 패턴을 반복하다 보면, 어느 순간 대화에 재미를 잃고 갑자기 시시해지면서 허무해질 때가 있다. 가끔 한 차원 높은 대화를 하다보면 어느새 상식의 샘이 밑바닥이 보이면서 입을 다물게 만든다. \n\n《일상을 바꾼 이야기의 순간》은 쉽고 재미있게 읽을 수 있는 상식사전과 같은 책이다. 상식과 지식의 한계를 느끼는 사람을 위해 경제, 역사, 철학 등을 다루면서도 전문적이지 않고 한번쯤을 흥미를 가졌을 법한 내용을 가볍게 담았다. 알아두면 언젠가는 도움이 되는 내용을 중심으로 다양한 분야의 이슈를 정리하고 정확한 사실을 알려주는 한편 역사적 배경을 함께 제공하고 있다. 그래서 이 책을 읽다보면 상식에 상식을 더하며 자신도 모르게 인문학적 소양까지 쌓을 수 있으며 상식과 재미, 두 마리 토끼를 모두 잡을 수 있도록 하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "",
+                "UPDATE_DATE": "20200407",
+                "EA_ADD_CODE": "03030",
+                "PUBLISHER_URL": "http://www.booksgo.co.kr",
+                "AUTHOR": "이현민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "031",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "303 p.",
+                "CONTROL_NO": "CIP2020007704",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189612542",
+                "INPUT_DATE": "20200220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "일상을 바꾼 이야기의 순간",
+                "PUBLISH_PREDATE": "20200228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

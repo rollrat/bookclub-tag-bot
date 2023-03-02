@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 어떻게 너를 잃었는가",
+    "oauthor": "제니 블랙허스트 저/박지선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 어떻게 너를 잃었는가",
+                "link": "https://search.shopping.naver.com/book/catalog/32436257223",
+                "image": "https://shopping-phinf.pstatic.net/main_3243625/32436257223.20221227205828.jpg",
+                "author": "제니 블랙허스트",
+                "discount": "13320",
+                "publisher": "나무의철학",
+                "pubdate": "20170601",
+                "isbn": "9791158510664",
+                "description": "영국을 비롯한 유럽과 미국에서 스릴러 신예이자 베스트셀러 작가로 자리를 굳히고 있는 제니 블랙허스트의 첫 번째 소설이다. 작가는 어릴 때부터 꾸준히 지속해온 독서와 인간에 대한 폭넓은 이해, 여러 단서들을 짜 맞춰 하나의 그림으로 만드는 습관을 바탕으로 누구의 삶에나 존재하는 커다란 구멍에 빠진 한 여성의 이야기를 어떤 소설보다 촘촘하고 현실적으로 그려냈다.\n\n\n\n수전 웹스터는 생후 12주 된 아들을 죽였다는 이유로 치료 감호소에서 3년을 보낸 뒤 거주지와 이름까지 바꾸고 인생을 새롭게 시작하려고 한다. 작은 커뮤니티지만 저마다의 삶에 충실할 뿐 다른 사람에게 필요 이상으로 관심을 갖지 않는 동네에서 수전은 자신의 혼란스러운 과거를 정돈하려고 하지만 몇 주간의 노력은 어느 일요일 아침 현관 앞에 배달된 봉투 하나에 영점으로 돌아간다. \n\n\n\n소인도 없이 매트 아래 놓인 그 안에는 처음 보는 남자아이 사진이 들어 있고 뒷면에는 '딜런'이라고 적혀 있다. 그것은 그녀의 죽은 아들 이름이다. 그때부터 그녀의 삶은 다시 걷잡을 수 없이 표류한다. 그리고 거센 노도 속에서 아들의 죽음 뒤에 자리한, 아주 오래전부터 뿌리 내려온 사건을 뒤밟기 시작한다. \n\n\n\n생각지도 못한 순간에 벌어진 한 사건으로 소중하게 지켜온 평범한 생활이 으스러진 인물의 모습과 갑자기 일어난 것처럼 보이지만 과거부터 켜켜이 쌓이다가 한순간 터져버린 사건의 경로를 잘 보여주는 작품이다. 미드나잇 스릴러 시리즈."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "토네이도미디어그룹(주)",
+                "DDC": "823.92",
+                "UPDATE_DATE": "20170605",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.tornadobook.com",
+                "AUTHOR": "제니 블랙허스트",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6210094_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6210094_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6210094_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "440",
+                "CONTROL_NO": "CIP2017010278",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158510664",
+                "INPUT_DATE": "20170425",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 어떻게 너를 잃었는가",
+                "PUBLISH_PREDATE": "20170601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

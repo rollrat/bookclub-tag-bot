@@ -1,0 +1,67 @@
+{
+    "otitle": "아파트와 바꾼 집",
+    "oauthor": "박인석,박철수 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아파트와 바꾼 집 (아파트 전문가 교수 둘이 살구나무집 지은 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454971837",
+                "image": "https://shopping-phinf.pstatic.net/main_3245497/32454971837.20220527083714.jpg",
+                "author": "박철수^박인석",
+                "discount": "0",
+                "publisher": "동녘",
+                "pubdate": "20111220",
+                "isbn": "9788972976691",
+                "description": "보통 수준의 비용으로 집짓기를 실현한 두 건축학과 교수의 도전기!\n\n아파트 전문가 교수 둘이 살구나무집 지은 이야기『아파트와 바꾼 집』. 이 책은 대학에서 주거건축을 가르치면서 문화센터를 비롯한 전문가 혹은 비전문가 대상의 크고 작은 강좌에서 아파트 관련 강의를 하고 있는 두 교수, 박철수와 박인석의 단독주택 이주기와 이주 후 1년 동안 지내면서 겪은 생활을 기록한 책이다. 두 저자의 경험을 토대로 아파트를 떠나 단독주택으로의 이주가 갖는 의미를 주거건축 전문가의 시각으로 쉽게 풀어냈다. 저자들이 왜  아파트단지를 떠날 결심을 하게 되었는지, 집지을 땅을 어떻게 보러 다니고 구하게 되었는지부터 어떤 연유로 건축가 조남호에게 건축설계를 의뢰하고 가족들의 바람을 설계도에 어떤 과정을 거쳐 녹여 내었는지 보여준다. 더불어 건축가의 시공회사와의 거듭되는 공사비 산정 협의 과정에서부터 공사 계약, 착공에서부터 준공 조경에 이르기까지의 현장 기록을 생생하게 담아내고, 새집에서의 생활 풍경과 주거비 문제를 통해 단독주택의 유지관리 노력과 소요 비용의 실제를 살펴본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20120117",
+                "EA_ADD_CODE": "13800",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "박철수,박인석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2525552_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2525552_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2011005374",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972976691",
+                "INPUT_DATE": "20111208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아파트와 바꾼 집 ",
+                "PUBLISH_PREDATE": "20111220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

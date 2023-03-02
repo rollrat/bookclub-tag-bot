@@ -1,0 +1,67 @@
+{
+    "otitle": "쉽게 행복해지는 사람",
+    "oauthor": "댄싱스네일 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쉽게 행복해지는 사람 (작고 소중한 오늘을 위한 to do list)",
+                "link": "https://search.shopping.naver.com/book/catalog/32475988516",
+                "image": "https://shopping-phinf.pstatic.net/main_3247598/32475988516.20230131165221.jpg",
+                "author": "댄싱스네일",
+                "discount": "12960",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20220307",
+                "isbn": "9791168122338",
+                "description": "“오늘도 이만하면 되었습니다. \n나머지는 내일의 나에게 맡겨요.”\n열심히만 말고, 행복하게 살기 위한 58가지 방법\n\n내 마음을 지키는 ‘관계 디톡스’로 인간관계에 지친 현대인들에게 센세이션을 일으킨 『적당히 가까운 사이』를 집필한 댄싱스네일 작가의 신작이 위즈덤하우스에서 출간됐다. 이번 책에서는 쉽게 행복해지기 위한 소소한 to do list를 제시하며 열심히만 말고 행복하게 살기 위한 구체적 방법론을 제시한다. \n요즘의 일상을 지배하고 있는 정서는 불안과 무력감이다. 보통날의 소중함이 그 어느 때보다 절실하게 와닿는 이때에, 독자들은 책 속의 58가지 현실적인 체크리스트를 통해 막연하고 멀게만 느껴졌던 행복이 쉬워지는 일을 경험할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20220408",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "글·그림: 댄싱스네일",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*185",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "273 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168122338",
+                "INPUT_DATE": "20220207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "쉽게 행복해지는 사람",
+                "PUBLISH_PREDATE": "20220307",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

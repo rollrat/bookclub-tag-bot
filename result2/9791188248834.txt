@@ -1,0 +1,67 @@
+{
+    "otitle": "당신은 왜 인간입니까",
+    "oauthor": "송은주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신은 왜 인간입니까 (AI 시대, 우리를 기다리는 섬뜩한 질문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442749618",
+                "image": "https://shopping-phinf.pstatic.net/main_3244274/32442749618.20221019131353.jpg",
+                "author": "송은주",
+                "discount": "13500",
+                "publisher": "웨일북(whalebooks)",
+                "pubdate": "20190410",
+                "isbn": "9791188248834",
+                "description": "미래를 먼저 ‘공감’하는 자만이 살아남는다!\n사이보그, 복제 인간, 인공 장기, 유전자 쇼핑… SF 문학을 통해 체험해보는 미래 시뮬레이션\n\n‘인간으로’ 살기 위해 무엇을 해야 하는가?\n두려움에 미래를 등진 사람들에게 던지는 과학이 못다 한 인문학적 질문들\n\n지금 인간은 실재하는 공간과 가상의 공간, 두 개의 환경 속에 살고 있다. 가족과 식탁에서 밥을 먹는 와중에도 손에서 휴대전화를 놓지 못하는 아이는 식탁이라는 현실 공간과, 친구들과 소통하는 온라인상의 공간 두 곳에 동시에 존재한다. 이렇듯 정보화 시대의 중요한 특징 중 하나는 초연결성이다. 휴대전화를 켜고 접속하는 순간부터 거대한 네트워크가 연결된 하나의 노드(node)가 된다. 인간을 이야기할 때 인간만을 떼어서 이야기할 수 없게 된 것이다.\n\n이 책의 저자는 “이렇듯 모든 것이 네트워크의 일부가 되는 세계에서는 인간의 윤리나 도덕, 책임의 문제를 다시 생각할 필요가 있다”고 강조한다. 이제 우리는 우리의 인지와 의사결정을 외부 네트워크 시스템에 분산시키고 있고, 기계들은 이를 떠맡으며 점점 더 자율적인 존재가 되어간다. 이러한 상황은 인간이라는 존재의 정의와, 세계에서 인간이 차지하는 위치를 다시 생각하게 한다. 우리는 점점 더 타고난 생물학적 경계를 넘어 기계들과 뒤섞이고, 우리의 존재를 우리가 만들어낸 기계에 빚지게 된다.\n\n이 변화의 속도로 볼 때, 언젠가는 ‘인간적으로 사는 삶’에 대한 고민이 ‘인간으로 사는 삶’을 고민으로 바뀌는 시대가 올지도 모른다. 그때 우리는 무엇을 손에 쥐고 우리의 존재 가치를 증명할 수 있을까? 미래 예측을 오로지 과학과 기술에만 맡겼을 때, 인간이 놓치는 것은 없을까? 저자는 그 답을 SF 문학에서 찾았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Whale books(웨일북)",
+                "DDC": "",
+                "UPDATE_DATE": "20190417",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "송은주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "331.5412",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/27/9791188248834.JPG",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "347 p.",
+                "CONTROL_NO": "CIP2019011967",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188248834",
+                "INPUT_DATE": "20190327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "당신은 왜 인간입니까",
+                "PUBLISH_PREDATE": "20190410",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "조리인을 위한 식재료 관리",
+    "oauthor": "오혁수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조리인을 위한 식재료 관리",
+                "link": "https://search.shopping.naver.com/book/catalog/32497547301",
+                "image": "https://shopping-phinf.pstatic.net/main_3249754/32497547301.20220527040319.jpg",
+                "author": "오혁수",
+                "discount": "0",
+                "publisher": "백산출판사",
+                "pubdate": "20190715",
+                "isbn": "9791189740030",
+                "description": "▶ 이 책은 식재료 관리를 다룬 이론서입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "백산출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20190806",
+                "EA_ADD_CODE": "93590",
+                "PUBLISHER_URL": "http://www.ibaeksan.kr",
+                "AUTHOR": "오혁수 저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "29000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189740030",
+                "INPUT_DATE": "20190806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "(조리인을 위한) 식재료관리",
+                "PUBLISH_PREDATE": "20190715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

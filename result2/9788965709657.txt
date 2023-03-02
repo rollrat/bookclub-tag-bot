@@ -1,0 +1,67 @@
+{
+    "otitle": "재미있게 살다가 의미 있게 죽자",
+    "oauthor": "주철환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재미있게 살다가 의미 있게 죽자 (주철환의 일상 철학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436241595",
+                "image": "https://shopping-phinf.pstatic.net/main_3243624/32436241595.20221019150642.jpg",
+                "author": "주철환",
+                "discount": "12600",
+                "publisher": "마음서재",
+                "pubdate": "20200303",
+                "isbn": "9788965709657",
+                "description": "〈일요일 일요일 밤에〉〈우정의 무대〉〈대학가요제〉등을 연출한 \n전설의 ‘스타 PD’ 주철환의 일상 철학\n\n〈일요일 일요일 밤에〉,〈우정의 무대〉,〈대학가요제〉,〈퀴즈아카데미〉 등 1980~90년대를 대표하는 인기 프로그램의 연출자이자 대학 강단에서 수많은 학생들의 꿈을 이끌어준 교수 주철환이 5년 만에 신간 에세이를 출간했다. 《재미있게 살다가 의미 있게 죽자》는 그가 살아온 세월의 면면을 담은 기록인 동시에 그의 인생 전체를 이끌어온 신념의 총합이다. \n\n이 책은 ‘모범생’이 아닌 ‘모험생’으로 살아온 그가 인생이라는 자신만의 무대를 연출하며 관찰, 통찰, 성찰한 모든 것을 아우른다. 더불어 결국 삶이란 소중한 인연, 사소하지만 감동적인 일상의 순간들, 고단함을 달래주는 시와 노래로 이루어져 있음을 깨닫는 과정을 담고 있기도 하다. 주철환은 자신과 마찬가지로 인생의 어느 모퉁이에 서 있는 모든 이들에게 인생의 대차대조표를 만들어보라고, 그리고 그 안에서 사랑, 희망, 낙관의 비중이 더 크다는 사실을 발견해보라고 다정한 어투로 조언을 건넨다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마음서재",
+                "DDC": "",
+                "UPDATE_DATE": "20200312",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "주철환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/26/9788965709657.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "126*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "278 p.",
+                "CONTROL_NO": "CIP2019048386",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965709657",
+                "INPUT_DATE": "20191126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "재미있게 살다가 의미 있게 죽자",
+                "PUBLISH_PREDATE": "20200303",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

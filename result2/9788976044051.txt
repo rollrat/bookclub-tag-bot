@@ -1,0 +1,67 @@
+{
+    "otitle": "최강의 야채수프 2 실천편",
+    "oauthor": "마에다 히로시,후루사와 야스코 저/정지영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "최강의 야채수프 2: 실천편 (항암 치료의 전문가가 전수하는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483780824",
+                "image": "https://shopping-phinf.pstatic.net/main_3248378/32483780824.20230214164126.jpg",
+                "author": "마에다 히로시",
+                "discount": "11700",
+                "publisher": "문예춘추사",
+                "pubdate": "20200320",
+                "isbn": "9788976044051",
+                "description": "우리 몸의 문제는 활성산소!\n활성산소에서 몸을 지키려면 채소수프가 최고!\n\n항암 치료의 세계적 연구자인 저자는 어째서 ‘채소수프’를 권하는가? 이 책은 일본 아마존에서 독자들의 열광적인 성원을 받았던 〈최강의 야채수프〉의 2탄으로 누적 판매 부수 20만 부를 돌파하며 지금도 건강분야 최장기 베스트셀러로 사랑받고 있다.  저자는 후속작인 이 책에서 야채수프의 효능을 항암원리로 쉽게 설명해주면서 손쉽게 직접 할 수 있는 다양한 상황별 계절별 ‘채소수프 레시피’를 소개하고 있다. 저자는 오랫동안 항암제를 연구하고 개발하고 연구를 진행하는 동안 암 발생과 바이러스 감염에 전부 활성산소가 관여한다는 것을 알게 됐다. 이를 통해 활성산소를 우리 몸에서 제거하는 가장 좋은 방법이 무엇일까 찾다가 ‘식물은 암에 걸리지 않는다’라는 명제에 주목하여 채소수프의 영향력을 확인했다. \n\n항산화 물질의 대표 격은 식물의 색이나 향기, 쓴맛 등의 기본이 되는 피토케미컬(phytochemical)이라는 기능성 성분은 그 대다수가 플라보노이드(flavonoid)라고도 불리지만, 토마토의 리코펜(lycopene), 시금치의 루테인(lutein), 당근의 카로틴(carotene) 등 우리에게 친숙한 채소에 듬뿍 함유되어 있다. 피토케미컬은 비타민이나 미네랄 등 몇 종류의 성분과 협력해서 활성산소의 공격을 억제한다. 이 책은 평범한 책이 아니라 50년 이상의 연구 실적을 근거로 쓰인 보석 같은 내용이 담겨 있는 책이다. 이 책을 읽는 독자들도 하나하나 읽고 실천하면서 건강하고 활기찬 삶을 지속하길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문예춘추사",
+                "DDC": "",
+                "UPDATE_DATE": "20200311",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마에다 히로시,후루사와 야스코 지음 ;정지영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "157 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788976044051",
+                "INPUT_DATE": "20200128",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(항암 치료의 전문가가 전수하는) 최강의 야채수프",
+                "PUBLISH_PREDATE": "20200320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "김밀란 파스타",
+    "oauthor": "김밀란 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "김밀란 파스타 (이탈리아에서 요리하는 셰프의 정통 파스타 레시피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463138711",
+                "image": "https://shopping-phinf.pstatic.net/main_3246313/32463138711.20230225071005.jpg",
+                "author": "김밀란",
+                "discount": "15230",
+                "publisher": "다산라이프",
+                "pubdate": "20211217",
+                "isbn": "9791130679051",
+                "description": "★★★ 수만 팔로워의 요청 쇄도 ★★★ \n# 내 파스타 인생에서 가장 완벽한 레시피였다!\n\n이탈리아 현지 미슐랭 2스타★★ 레스토랑에서 요리하는\n김밀란의 26가지 정통 파스타 레시피 대공개!\n\n“와! 이 파스타 미쳤다!” 감탄이 절로 나오는 파스타 레시피로 수만 팔로워의 눈과 혀를 사로잡은 갓밀란, 김밀란의 파스타가 드디어 한 권의 책으로 돌아왔다. 이탈리아를 가야만 맛볼 수 있다는 무려 26가지 이탈리아 정통 파스타를 이제 대한민국에서도 맛볼 수 있는 소중한 기회!\n‘지금까지 내가 먹었던 까르보나라는 대체 뭐였지?’ ‘알리오 올리오는 마늘 맛으로 먹는 거 아니었어?’ 당신의 미각에 깊게 새겨진 고정관념을 깨고, 이제 진짜 정통 파스타의 맛으로 코팅할 차례다. 정통을 익혀야 응용도 가능하다는 것을 이번 책을 통해 확실히 깨달을 수 있도록 12년 셰프 내공을 모조리 쏟아 부었다. \n책에는 지금의 김밀란을 있게 한 ‘만테까레’ 노하우를 시작으로 그간 어떤 책에서도 설명하지 않았던 파스타의 재료에 관한 너무나 자세한 설명과 조리 과정에서 갸우뚱했지만 알려주는 사람이 없어 묻어두었던 소소한 궁금증까지 전부 해결할 수 있도록 했다. \n세상에서 가장 쉬운 파스타 ‘맛있게’ 만드는 법, 〈김밀란 파스타〉와 함께라면 적어도 파스타만큼은 실패 없이 한 번에 만들 수 있을 것이다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다산라이프 :다산북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220120",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.dasanbooks.com",
+                "AUTHOR": "지은이: 김밀란 ;사진: 리사 안",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791130679051",
+                "INPUT_DATE": "20211202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "김밀란 파스타",
+                "PUBLISH_PREDATE": "20211217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

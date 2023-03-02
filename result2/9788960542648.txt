@@ -1,0 +1,67 @@
+{
+    "otitle": "쉽게 배우는 이기찬 최신 무역실무",
+    "oauthor": "이기찬 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쉽게 배우는 이기찬 최신 무역실무 (현장에서 꼭 필요한 국제무역 지침서 | 인코텀즈 2020 핵심 내용 수록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482688682",
+                "image": "https://shopping-phinf.pstatic.net/main_3248268/32482688682.20221230073956.jpg",
+                "author": "이기찬",
+                "discount": "22500",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20210110",
+                "isbn": "9788960542648",
+                "description": "* 풍부한 실전·강의 경험을 집대성한 정통 무역실무서!\n* 무역현장 전문가가 쉽게 풀어쓴 무역의 정석!\n* ‘인코텀즈 2020 핵심 내용’과 ‘주제별 무역용어’ 수록!\n\n이 책은 무역현장 전문가인 저자가 풍부한 실전경험과 학교, 기업체 등에서 강의한 경험을 토대로 무역실무의 전체적인 내용을 체계적이면서도 알기 쉽게 풀어쓴 정통 무역실무서다. 그래서 형식이나 내용면에서 기존에 출간된 무역실무서와는 확실한 차별성을 가지고 있다. \n특히 ‘인코텀즈 2020 핵심 내용’을 수록했는데 10년 만에 개정한 인코텀즈가 어떻게 바뀌었는지 그 주요 내용과 궁금증 등을 무역 초보자도 알기 쉽게 설명하여 실무적 활용도가 매우 높다. 이 책이 무역을 공부하는 학생이나 업무상 무역실무 지식이 필요한 직장인들이 효율적인 무역실무를 익히는 데 많은 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙경제평론사",
+                "DDC": "",
+                "UPDATE_DATE": "20210204",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "이기찬 지음",
+                "SERIES_TITLE": "",
+                "KDC": "326.23",
+                "EDITION_STMT": "개정3판, 최신개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/30/9788960542648.jpg",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "390 p.",
+                "CONTROL_NO": "CIP2020051101",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960542648",
+                "INPUT_DATE": "20201201",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(쉽게 배우는) 이기찬 최신 무역실무",
+                "PUBLISH_PREDATE": "20210110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "여행, 작품이 되다",
+    "oauthor": "밥장 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:28 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "여행, 작품이 되다 (밥장의 실크로드 예술 기행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466611073",
+                "image": "https://shopping-phinf.pstatic.net/main_3246661/32466611073.20221019135023.jpg",
+                "author": "밥장",
+                "discount": "14400",
+                "publisher": "시루",
+                "pubdate": "20190916",
+                "isbn": "9788998480059",
+                "description": "밥장의 작품으로 되살아난 실크로드 위 문화와 예술!\n\n일러스트레이터 밥장이 실크로드 위의 문화와 예술을 기록한 여행 아트북 『여행, 작품이 되다』. 2018년 10월부터 실크로드 위 춤과 음악, 기예와 같은 무형의 예술을 다룬 KBS 다큐멘터리 《매혹의 실크로드》에 참여해 기예 파트를 맡게 된 저자가 여행지에서 마주한 매 순간들을 담은 책이다. 소박한 연주와 화려한 공연, 길거리에서 만난 사람들이 저자의 손끝에서 새로운 예술 작품으로 탄생했다.\n\n저자의 여행지는 실크로드 위의 중국과 이란, 인도다. 중국의 일부 지역은 공무원의 온갖 감시와 제재를 받는 곳이고, 이란은 위험한 중동 국가 중 하나이며 비자를 발급받기도 쉽지 않은 곳이고, 인도는 호불호가 아주 강하게 갈리는 여행지이다. 모두 관광으로 유명한 국가들에 비해 알려진 여행 정보가 부족하다. 이렇게 사람들이 쉽게 가서 경험할 수 없는 곳에서 춤과 음악, 기예 같은 무형문화를 잔뜩 구경하고 온 저자는 꼼꼼하게 그리고 칠한 그림으로 우리에게 평범하지 않은 여행의 경험을 전달한다."
+            },
+            {
+                "title": "소설, 여행이 되다: 작품이 내게 찾아올 때",
+                "link": "https://search.shopping.naver.com/book/catalog/32504312899",
+                "image": "https://shopping-phinf.pstatic.net/main_3250431/32504312899.20220527025250.jpg",
+                "author": "이시목",
+                "discount": "0",
+                "publisher": "글누림",
+                "pubdate": "20170522",
+                "isbn": "9788963274232",
+                "description": "『소설, 여행이 되다』는 국내 구석구석 숨겨진 보물 같은 장소들로 다시금 눈 돌리고 걸음 하게 한다. 이 책에서는 근현대 대표 작가와 작품들을 깊이 있게 사유하는 한편, 새롭게 조명하고 있는데, 새로운 조명 방식은 ‘여행’이다. 이 책은 책 속에 담긴 작가와 작품 그리고 작품의 배경 또는 작가의 삶과 관련된 ‘장소’로의 여행을 안내하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시루",
+                "DDC": "",
+                "UPDATE_DATE": "20191217",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 밥장",
+                "SERIES_TITLE": "",
+                "KDC": "981.02",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/16/9788998480059.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272",
+                "CONTROL_NO": "CIP2019033099",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998480059",
+                "INPUT_DATE": "20190822",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여행, 작품이 되다",
+                "PUBLISH_PREDATE": "20190916",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

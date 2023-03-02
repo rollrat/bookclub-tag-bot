@@ -1,0 +1,67 @@
+{
+    "otitle": "로봇과 인공지능 이야기",
+    "oauthor": "윤실 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "로봇과 인공지능 이야기 (교실밖에서 배우는 과학상식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497232619",
+                "image": "https://shopping-phinf.pstatic.net/main_3249723/32497232619.20221019141641.jpg",
+                "author": "윤실",
+                "discount": "10800",
+                "publisher": "전파과학사",
+                "pubdate": "20070131",
+                "isbn": "9788970442556",
+                "description": "교양과학 입문서. 이 책은 로봇이 인간을 대신해 어떤 일을 하는가부터 로봇의 역사, 미래 로봇의 발전 등의 내용을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20070226",
+                "EA_ADD_CODE": "43400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "지은이: 윤실",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970442556",
+                "INPUT_DATE": "20070112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(교실 밖에서 배우는 과학상식) 로봇과 인공지능 이야기",
+                "PUBLISH_PREDATE": "20070131",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 매일 책 읽어주는 엄마입니다",
+    "oauthor": "이혜진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 매일 책 읽어주는 엄마입니다 (매일 도서관 가는 엄마의 똑똑한 북큐레이션)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483316063",
+                "image": "https://shopping-phinf.pstatic.net/main_3248331/32483316063.20221227205027.jpg",
+                "author": "이혜진",
+                "discount": "14400",
+                "publisher": "로그인",
+                "pubdate": "20201215",
+                "isbn": "9791166370489",
+                "description": "불확실한 시대를 사는 가장 현명한 방법 \n책으로 아이를 키우고 싶어 하는 엄마들을 위한 실전 가이드\n\n이 책 《나는 매일 책 읽어주는 엄마입니다》는 달력 형식을 빌려 매달 5권씩 일 년 간 총 60권의 책과 ‘함께 읽으면 좋은 책’ 200여 권을 소개하는 책 육아 실전 가이드다. 미취학에서 초등 저학년 아이를 둔 엄마와 아이가 같이 읽으면 유익한 책들만 엄선했다. 첫 책 《나는 매일 도서관에 가는 엄마입니다》를 통해 책으로 아이를 키우고 싶어 하는 엄마들에게 꼭 필요한 지침을 제시한 이혜진 작가의 두 번째 책으로, ‘꾸준히 읽는 삶’을 실천하기 위한 실질적인 방법을 알려준다.   \n늘어난 시간, 무기력한 아이들에게 책을 권하는 일은 ‘코로나 시대’를 사는 부모님들에게 새롭게 부여된 중요한 임무다. 그 새로운 임무를 수행하는 데 이 책 《나는 매일 책 읽어주는 엄마입니다》가 함께할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로그인 :이퍼블릭",
+                "DDC": "",
+                "UPDATE_DATE": "20210325",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.epublic.co.kr",
+                "AUTHOR": "이혜진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "598.48",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/19/9791166370489.JPG",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "CIP2020049582",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166370489",
+                "INPUT_DATE": "20201119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "나는 매일 책 읽어주는 엄마입니다",
+                "PUBLISH_PREDATE": "20201215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

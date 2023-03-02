@@ -1,0 +1,67 @@
+{
+    "otitle": "불안에 서툰, 당신에게",
+    "oauthor": "트로이 듀프레인,켈리 G.윌슨 공저/임현경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "불안에 서툰, 당신에게 (불안으로부터 어떻게 나를 지키고 사랑할 것인가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493257654",
+                "image": "https://shopping-phinf.pstatic.net/main_3249325/32493257654.20221229072447.jpg",
+                "author": "트로이 듀프레인^켈리 G. 윌슨",
+                "discount": "13500",
+                "publisher": "슬로디미디어",
+                "pubdate": "20170630",
+                "isbn": "9791196129606",
+                "description": "불안으로부터 나를 지키고 평온하게 살아가는 방법!\n\nACT 심리 전문가가 전하는 불안으로부터 자유로워지는 방법 『불안에 서툰 당신에게』. 걱정, 두려움, 부끄러움과 싸우고 있는 수많은 사람들이 그러한 감정을 보다 폭넓게 바라보고 그러한 감정이 삶에서 무엇을 원하는지 쉽게 파악할 수 있도록 도와주는 책이다. ACT(Acceptance & Commitment Therapy:수용전념치료)라는 학술적 연구에 바탕을 둔 심리 요법을 사용해 질문에 대한 답을 찾아가며 삶에 쉽고 효과적으로 적용할 수 있는 다양한 게임과 생각할 거리를 제공한다.\n\n이 책은 특별히 전문적이거나 단계적이지 않다. 모든 인간이 불안을 느끼는 이유와 불안이 삶에서 어떤 역할을 하는지에 대한 가벼운 이야기로 시작해 ACT의 여섯 가지 영역에 대해 다양한 게임과 문학작품 등을 통해 쉽게 설명하고, 이를 통해 심리적 유연성을 키움으로써 불안으로부터 자유로워지는 방법을 제시해 준다. 불안은 인간이라면 누구나 피할 수 없는 근본적인 고통이다. 이 책을 통해 독자들은 전혀 예상치 못했던 새로운 방법으로 불안이 삶에서 차지하는 역할을 바꿔 나갈 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어",
+                "DDC": "152.46",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "로이 듀프레인,켈리 G. 윌슨 지음 ;임현경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.71",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6255685_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6255685_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "CIP2017014830",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196129606",
+                "INPUT_DATE": "20170621",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "불안에 서툰, 당신에게",
+                "PUBLISH_PREDATE": "20170630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "미라클 파이브",
+    "oauthor": "데이브 신 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미라클 파이브 (환경, 재능, 실패를 이겨낸 세계 최고 인재들의 5가지 태도)",
+                "link": "https://search.shopping.naver.com/book/catalog/33066131620",
+                "image": "https://shopping-phinf.pstatic.net/main_3306613/33066131620.20221019141729.jpg",
+                "author": "데이브 신",
+                "discount": "15300",
+                "publisher": "리더북스",
+                "pubdate": "20220622",
+                "isbn": "9791190616652",
+                "description": "“적자생존의 게임에서 이기는 창조적 소수자(Creative minority)가 \n기업을 일으키고 혁신을 추구하며 생태계를 만들어 간다.” \n“유능한 인재 1명이 1만 명을 먹여 살린다.”\n“결국 해내는 사람은 경영자처럼 생각하고 일한다.”\n\n서울대 경제학박사, 와튼스쿨 경영학박사, 미국 IBM·삼성 중역이 \n글로벌시장에서 경험한 초일류기업의 생태계와 \n세계 최고 인재들이 일하는 5가지 태도\n\n돈을 벌어주는 사업인 미래의 캐시카우(Cash cow)가 될 차세대 성장산업을 선점하기 위해 글로벌기업들이 치열한 경쟁을 벌이고 있다. 기업마다 ‘질 경영’에서 ‘인재 경영’으로 전환하여 1,000명, 1만 명, 10만 명을 먹여 살릴 인재를 늘 찾고 있다.\n미국 IBM과 삼성그룹에서 임원으로 근무하면서 초일류기업의 생태계를 경험한 데이브 신 박사는 환경, 재능, 실패를 이겨낸 인재들에게는 자본전쟁에서 살아남는 5가지 태도가 있음을 발견했다. 글로벌시장에서는 ‘1%의 기술혁신’이 승자의 독식을 가져오는 특징이 있으므로 트렌드를 따라가는 추격자로는 답이 없고 혁신을 리딩하는 창의적 선도자가 되어야 한다고 강조한다.\n기업 컨설팅과 멤버십 중심 자문, 강연에서 뜨거운 지지와 관심을 받았던 내용과 저자가 세계 최고 인재들과 함께 일하면서 얻은 통찰과 일상의 경험을 망라해 《미라클 파이브》 이 한 권의 책에 담았다. 시대를 이끌어가는 혁신기업과 창업가, 자기 분야에서 정상에 오른 사람들의 독창적인 성공 노하우에서 미라클 파이브의 핵심을 짚어낼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리더북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220719",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "데이브 신 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190616652",
+                "INPUT_DATE": "20220616",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "미라클 파이브",
+                "PUBLISH_PREDATE": "20220622",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

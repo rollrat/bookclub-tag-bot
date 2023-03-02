@@ -1,0 +1,67 @@
+{
+    "otitle": "마윈, 역발상의 지혜",
+    "oauthor": "콰이따오훙치,펑위린 공저/김신디 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "알리바바(전자상거래) 마윈, 역발상의 지혜 (알리바바(전자상거래))",
+                "link": "https://search.shopping.naver.com/book/catalog/32467105620",
+                "image": "https://shopping-phinf.pstatic.net/main_3246710/32467105620.20221227203346.jpg",
+                "author": "콰이따오훙치",
+                "discount": "9000",
+                "publisher": "린",
+                "pubdate": "20160630",
+                "isbn": "9791187265047",
+                "description": "마윈, 알리바바 꿈의 실현, 중국 비즈니스 리더 스토리 시리즈!\n그는 어떻게 꿈을 실현하고, 중국을 움직이는 거상으로서 세계적인 기업의 비즈니스 리더가 되었는가!\n\n‘발상의 전환’이란 무엇인가? 생각을 반대로 하는 것을 의미한다. 일반적인 생각과는 반대로 뒤집어 생각해 보는 것이 바로 발상의 전환이다. 그러나 이러한 발상의 전환은 말이나 생각처럼 쉽지 않다. 사람들은 자신이 늘 해오던 대로 생각하는 방식에 익숙하기 때문이다. 이러한 방식마저 가볍게 뒤집는 인물이 바로 마윈이다. 마윈은 모든 사물은 뒤집으면 새로운 모습을 보여 준다고 말하며 가볍게 생각을 뒤집는다. \n\n키는 약 162㎝, 몸무게는 약 45㎏. 이 수치는 마윈의 신체 사이즈이다. 이 왜소한 몸집의 남자, 마윈은 컴퓨터에 대해 잘 모르고 인터넷도 잘 다룰 줄 모르는 인터넷 문외한이었다. 경영학을 배운 적도 없으며 세상의 일반적인 순리에 따르지도 않는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)린",
+                "DDC": "658.4092",
+                "UPDATE_DATE": "20160707",
+                "EA_ADD_CODE": "04300",
+                "PUBLISHER_URL": "http://www.bookdaega.com",
+                "AUTHOR": "콰이따오훙치, 펑위린 지음; 김신디 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.24",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791187265030",
+                "REAL_PUBLISH_DATE": "20160630",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5535870_3.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5535870_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "10000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "148",
+                "CONTROL_NO": "CIP2016014912",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187265047",
+                "INPUT_DATE": "20160616",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마윈, 역발상의 지혜",
+                "PUBLISH_PREDATE": "20160630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

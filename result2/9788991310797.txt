@@ -1,0 +1,67 @@
+{
+    "otitle": "김민지의 탐나는 집반찬",
+    "oauthor": "김민지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "김민지의 탐나는 집반찬 (한식 셰프의 사계절 반찬 레시피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466787227",
+                "image": "https://shopping-phinf.pstatic.net/main_3246678/32466787227.20221019115830.jpg",
+                "author": "김민지",
+                "discount": "22500",
+                "publisher": "이덴슬리벨",
+                "pubdate": "20151221",
+                "isbn": "9788991310797",
+                "description": "끼니마다 찾아오는 주부들의 ‘오늘은 뭐 해먹지?’ 고민을 말끔히 해결해주는『김민지의 탐나는 집반찬』. 민스키친의 김민지 셰프가 손님들에게 인기 있었던 메뉴 위주로 간단하지만 고급스러운 반찬 요리를 소개한다. 민스키친은 모던한식을 선보이는 퓨전 레스토랑으로 미식가들 사이에 소문이 자자하다. 한 번 찾은 손님은 으레 단골이 되기 일쑤, 그들의 입맛을 사로잡은 반찬 레시피 92가지를 담았다. 요리 초보도 DVD 동영상을 보며 따라 할 수 있으며 맛을 높여주는 팁은 ‘셰프의 요리킥’에 따로 모아 친절히 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이덴슬리벨",
+                "DDC": "641.59519",
+                "UPDATE_DATE": "20160121",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김민지",
+                "SERIES_TITLE": "",
+                "KDC": "594.515",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5056246_3.jpg",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5056246_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240",
+                "CONTROL_NO": "CIP2015032509",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991310797",
+                "INPUT_DATE": "20151126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "김민지의 탐나는 집반찬",
+                "PUBLISH_PREDATE": "20151221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

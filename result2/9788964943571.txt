@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 오십에 영어를 시작했다",
+    "oauthor": "정재환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 오십에 영어를 시작했다 (어른을 위한 공부법은 따로 있다 정재환 교수의 리스타트 영어)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492750261",
+                "image": "https://shopping-phinf.pstatic.net/main_3249275/32492750261.20221019124656.jpg",
+                "author": "정재환",
+                "discount": "12420",
+                "publisher": "보누스",
+                "pubdate": "20181025",
+                "isbn": "9788964943571",
+                "description": "50대의 공부는 달라야 한다!\n\n한때 개그맨으로 눈부시게 활약했던 정재환 교수는 마흔에 공부를 시작해서 대학교, 대학원을 거쳐 박사학위까지 받았다. 늦게 시작한 공부가 너무 재미있고 신난다고 말하는 그의 얼굴에는 언제나 생기가 감돈다. 한국사를 공부해서 박사학위를 따고 박사 논문을 쓰면서 일본어를 공부했으며, 몇 년 전부터는 영어를 공부하고 있는 그는 공부하는 일이 즐겁다고 이야기하면서 5060에게 영어울렁증을 물리치고 인생을 변화시키는 영어 공부를 해나가길 조언한다.\n\n영어가 꼭 필요하지 않았고 쓸 기회도 적었던 시기를 보낸 5060에게 저자는 이제 시대가 달라졌다고 말한다. 퇴직 후를 생각해야 하는 나이, 영어 잘하는 아들딸이 대견하기도 하지만 은근히 부러운 나이, 자꾸 깜박거려서 슬슬 치매가 걱정되는 나이, 아직 몸은 멀쩡한데 아무것도 안 하고 있는 것이 한탄스러운 때가 다가온다. 바로 이 시기의 사람들에게 저자는 공부를 추천한다. \n\n어릴 적 했던 공부가 시험을 잘 보기 위한 공부였다면 50대의 공부는 자발적으로 즐기면서 할 수 있어서 좋다고 이야기하면서 어른을 위한 공부법을 소개한다. 1형식부터 5형식까지 각 형식의 특징을 파악하고 영어라는 언어가 가지고 있는 사고 체계를 이해하면 좀 더 영어와 친해질 수 있다고 이야기하면서 영어의 구조를 먼저 이해하고, 드라마나 영화를 시청하며 연기하듯이 영어를 생동감 있게 접할 것을 권한다. 어른의 공부는 시험을 전제로 하는 것이 아니기에 조급하게 생각하지 말고 매일, 조금씩, 천천히 즐기며 공부하기를 바라고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보누스",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20181025",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정재환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6924777_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "248 p.",
+                "CONTROL_NO": "CIP2018030886",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964943571",
+                "INPUT_DATE": "20180921",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 오십에 영어를 시작했다",
+                "PUBLISH_PREDATE": "20181025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

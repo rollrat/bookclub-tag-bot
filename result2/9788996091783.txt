@@ -1,0 +1,67 @@
+{
+    "otitle": "현미밥 채식",
+    "oauthor": "황성수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "현미밥 채식 (병 안 걸리는 식사법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478501078",
+                "image": "https://shopping-phinf.pstatic.net/main_3247850/32478501078.20221019150639.jpg",
+                "author": "황성수",
+                "discount": "10800",
+                "publisher": "페가수스",
+                "pubdate": "20130710",
+                "isbn": "9788996091783",
+                "description": "밥을 바꿔야 병이 낫는다! 편식으로 병을 고치는 현미밥채식 식단~\n\n현미밥채식의 장점과 섭취법을 알려주는 건강 지침서『현미밥채식』. 먹을거리가 부족했던 옛날과는 달리 요즘은 먹을 것이 너무 많아서 문제를 일으키고 있다.  MBC스페셜 에 소개되어 센세이션을 일으킨 현미밥채식의 섭취 방법과 치유효과를 소개하는 건강서이다. 저자인 황성수 박사는 우리가 건강을 위해서 어떤 식품을 먹고, 무엇을 먹지 말아야 하는지 제시하며, 현미 섭취를 통해 사람의 몸에 어떤 변화가 일어나는지 살펴본다. 또 동물성 식품이 건강을 왜 해치는지 알아보고, 평생 현미밥채식을 즐기며 건강을 지킬 수 있는 방법을 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "페가수스",
+                "DDC": "613.262",
+                "UPDATE_DATE": "20170614",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황성수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "517.548",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2374584_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2374584_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2374584_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2009003887",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788996091783",
+                "INPUT_DATE": "20091204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "현미밥채식 ",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

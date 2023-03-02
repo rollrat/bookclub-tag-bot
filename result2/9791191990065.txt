@@ -1,0 +1,67 @@
+{
+    "otitle": "더 나은 내가 되기로 한 순간",
+    "oauthor": "박미현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "더 나은 내가 되기로 한 순간 (하루 한 뼘 성장 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/35172663622",
+                "image": "https://shopping-phinf.pstatic.net/main_3517266/35172663622.20221027194830.jpg",
+                "author": "박미현",
+                "discount": "13400",
+                "publisher": "든든한 서재",
+                "pubdate": "20221017",
+                "isbn": "9791191990065",
+                "description": "자신의 꿈을 지키고 싶은 엄마들을 위한 하루 한 뼘 에세이\n\n엄마라는 자리를 지키고 있지만 자신의 꿈도 놓치고 싶지 않은 엄마들을 위한 에세이. 이 책은 육아에 지친 일상 속에서 자신도 모르게 놓쳐버린 ‘나’의 가치를 되살릴 수 있는 시간을 마련해준다. 작가는 엄마라는 이름으로 가족을 지켜온 시간이 곧 자신의 성장을 위한 밑거름이었다고 말한다. 작가가 말하는 그 비결의 여정을 따라 가다보면, 어느새 잊고 있던 꿈을 찾아가는 길을 발견할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "든든한 서재",
+                "DDC": "",
+                "UPDATE_DATE": "20221104",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "https://blog.naver.com/reliablestudy",
+                "AUTHOR": "지은이: 박미현",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221017",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191990065",
+                "INPUT_DATE": "20220914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "더 나은 내가 되기로 한 순간",
+                "PUBLISH_PREDATE": "20221017",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

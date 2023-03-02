@@ -1,0 +1,67 @@
+{
+    "otitle": "도망치고 싶을 때마다 책을 펼쳤다",
+    "oauthor": "우혜진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도망치고 싶을 때마다 책을 펼쳤다 (위로가 필요한 모든 순간 곁을 지켜준 문장들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444994210",
+                "image": "https://shopping-phinf.pstatic.net/main_3244499/32444994210.20221228074209.jpg",
+                "author": "우혜진",
+                "discount": "11700",
+                "publisher": "SISO",
+                "pubdate": "20201110",
+                "isbn": "9791189533434",
+                "description": "책 속의 문장들이 일깨워준 삶의 비밀,\n“우리는 모두 연결되어 있습니다”\n\n엄마로 사는 일은 쉽지 않다. 의지할 곳도 기댈 곳도 없이, 아이만 보며 생활하는 일의 고단함을 누가 이해할 수 있을까. 괴롭고 힘든 마음에 자존감이 바닥까지 떨어졌을 때, 저자는 책을 펼쳤다. 책 속의 문장들은 엄마도 꿈꿀 권리가 있다고, 다시 빛나는 사람이 될 수 있다고 수없이 속삭이며 위로해주었다. 내 삶이 내 것이 아닌 것만 같을 때, 세상이 나를 잊은 채 나아가고 있는 것만 같을 때, 이 책을 펼쳐보자. 다정한 위로의 문장이 괴롭고 힘든 마음을 따스하게 어루만져줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Siso",
+                "DDC": "",
+                "UPDATE_DATE": "20201120",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "우혜진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/16/9791189533434.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "195 p.",
+                "CONTROL_NO": "CIP2020043992",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189533434",
+                "INPUT_DATE": "20201016",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "도망치고 싶을 때마다 책을 펼쳤다",
+                "PUBLISH_PREDATE": "20201110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

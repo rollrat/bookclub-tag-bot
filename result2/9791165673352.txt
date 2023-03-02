@@ -1,0 +1,78 @@
+{
+    "otitle": "알기쉬운 제과제빵학",
+    "oauthor": "조병동,김동균,김해룡,이재진 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:05 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "알기 쉬운 제과제빵학 (전문 파티시에가 되기 위한 첫 걸음)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483798010",
+                "image": "https://shopping-phinf.pstatic.net/main_3248379/32483798010.20221228072312.jpg",
+                "author": "조병동",
+                "discount": "26600",
+                "publisher": "백산출판사",
+                "pubdate": "20210520",
+                "isbn": "9791165673352",
+                "description": "▶ 이 책은 제과제빵학에 대해 다룬 도서입니다. 제과제빵학에 대한 기초적이고 전반적인 내용을 확인할 수 있도록 구성했습니다."
+            },
+            {
+                "title": "알기 쉬운 제과제빵학: 이론편 (NCS 교육과정에 기반한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466658681",
+                "image": "https://shopping-phinf.pstatic.net/main_3246665/32466658681.20220527031130.jpg",
+                "author": "조병동",
+                "discount": "0",
+                "publisher": "백산출판사",
+                "pubdate": "20170310",
+                "isbn": "9791157633241",
+                "description": "▶ 이 책은 제과제빵학에 대해 다룬 이론서입니다. 제과제빵학의 기초적이고 전반적인 내용을 학습할 수 있도록 구성했습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "백산출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20210721",
+                "EA_ADD_CODE": "93590",
+                "PUBLISHER_URL": "http://www.ibaeksan.kr",
+                "AUTHOR": "지은이: 조병동,김동균,김해룡,이재진,이준열,정양식,정현철,최익준",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "478 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165673352",
+                "INPUT_DATE": "20210506",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(알기 쉬운) 제과제빵학",
+                "PUBLISH_PREDATE": "20210520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

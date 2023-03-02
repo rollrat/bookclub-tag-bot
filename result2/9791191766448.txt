@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 가끔 내가 싫다가도 애틋해서",
+    "oauthor": "투에고 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 가끔 내가 싫다가도 애틋해서",
+                "link": "https://search.shopping.naver.com/book/catalog/32491001667",
+                "image": "https://shopping-phinf.pstatic.net/main_3249100/32491001667.20221019132507.jpg",
+                "author": "투에고",
+                "discount": "12790",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20210721",
+                "isbn": "9791191766448",
+                "description": "『나는 어른이 되어서도 가끔 울었다』 『그때의 나에게 해주고 싶은 이야기』\n20만 구독자가 사랑하는 작가 투에고의 신간 에세이\n\n나로 사는 것이 외롭고 고달픈 이들에게\n힘내라는 말 대신 들려주고 싶은 말\n\n섬세한 감정 묘사로 20만 구독자의 마음을 위로해온 작가, 투에고가 ‘나로 살아가는 일의 피로와 기쁨’에 대한 솔직하고 내밀한 이야기로 돌아왔다. 전작 『나는 어른이 되어서도 가끔 울었다』에서 그는 사람들이 남에게 쉽게 털어놓지 못하는 아픔과 슬픔을 친근하고 묵묵한 어조로 대신 이야기하며 수많은 독자의 공감을 얻었다. 약해 보이기 싫어서, 어른답지 못하다는 말을 들을까 봐 감추고 억누른 감정들을 마치 거울 비추듯 보여주는 그의 화법은, 같은 아픔을 지닌 이들에게 역설적으로 큰 위로가 되어왔다. 이제 그는 그 아픔에서 한 발짝 떨어져서, 다른 무엇이 아닌 ‘나’를 중심에 두고 그 모든 혼란의 시간을 돌아본다. 이 책은 그 과정에서 느끼고 깨달은 3년간의 기록을 담은 책이다. 기존 작품들에서는 슬퍼하는 사람들의 손을 잡아주었다면, 이번 작품에서는 잡은 손을 잡아당겨 더 편안하고 밝은 길로 이끌어주고자 한다. 걱정 말라고, 울지 말라고, 후회와 자책은 그만 해도 좋다고, 흘러가듯 지내다 보면 다른 아침이 온다고. 그리고, 가장 소중한 건 바로 당신 자신이라고."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20210819",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "투에고 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "124*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191766448",
+                "INPUT_DATE": "20210713",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 가끔 내가 싫다가도 애틋해서",
+                "PUBLISH_PREDATE": "20210721",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

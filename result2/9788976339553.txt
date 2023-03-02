@@ -1,0 +1,67 @@
+{
+    "otitle": "인재경영을 바라보는 두 시선",
+    "oauthor": "정권택 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인재경영을 바라보는 두 시선 (인사의 핵심을 묻는 20문 40답)",
+                "link": "https://search.shopping.naver.com/book/catalog/32495326665",
+                "image": "https://shopping-phinf.pstatic.net/main_3249532/32495326665.20230214163731.jpg",
+                "author": "정권택",
+                "discount": "13500",
+                "publisher": "삼성경제연구소",
+                "pubdate": "20151019",
+                "isbn": "9788976339553",
+                "description": "『인재경영을 바라보는 두 시선』은 오래된 고전 이론부터 최신 이론까지 인재경영을 고민하는 이들이 반드시 알아야 할 핵심 사항들이 망라되어 있으며, 경영학자뿐 아니라 심리학자, 철학자의 주장이 골고루 등장한다. 또 이러한 주장들이 실제 구현된 기업 사례를 들어 알기 쉽게 서술했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "삼성경제연구소",
+                "DDC": "",
+                "UPDATE_DATE": "20151208",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정권택 외 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788976339553",
+                "INPUT_DATE": "20151208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "인재경영을 바라보는 두 시선 ",
+                "PUBLISH_PREDATE": "20151019",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "스케치 글쓰기 특강",
+    "oauthor": "이준삼 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스케치 글쓰기 특강 (KBS 방송문화연구소장이 총정리한 뉴스로 배우는 글쓰기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496968690",
+                "image": "https://shopping-phinf.pstatic.net/main_3249696/32496968690.20221019124909.jpg",
+                "author": "이준삼",
+                "discount": "12420",
+                "publisher": "해냄출판사",
+                "pubdate": "20100530",
+                "isbn": "9788973370719",
+                "description": "가슴을 울리는 글, 마음을 사로잡는 글\n\n『스케치 글쓰기 특강』은 30년 동안 뉴스 현장을 생생하게 보도해 온 KBS방송문화연구소 이준삼 소장이 뉴스를 통해 세련되고 논리적인 글쓰기 방법을 알려주는 책이다. 되풀이되고 있는 상투적인 표현과 이해하기 어려운 단어, 쓸데없이 긴 문장 등 나쁜 기사들을 꼼꼼히 분석하여 어떠한 글쓰기가 ‘좋은 글쓰기’인지 독자들이 깨달을 수 있도록 했다. 또한 기사를 잘 쓰기 위한 세 가지 요건과 의미 부여, 정확한 수식, 토막 문장 추방 등 스케치 글을 쓰기 위해 꼭 지켜야 할 점을 제시한다. 더불어 쉽게 접하고 있는 소재들을 식상하지 않고 신선하게 묘사하는 방법, 교양이나 시사보도 프로그램에서 스케치가 왜 승부처인가를 실례를 들어 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20100831",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "이준삼 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788973370719",
+                "INPUT_DATE": "20100831",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "스케치 글쓰기 특강 ",
+                "PUBLISH_PREDATE": "20100530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

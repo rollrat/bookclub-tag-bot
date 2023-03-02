@@ -1,0 +1,67 @@
+{
+    "otitle": "늙은 소녀들의 기도",
+    "oauthor": "이경희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "늙은 소녀들의 기도 (이경희 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439433572",
+                "image": "https://shopping-phinf.pstatic.net/main_3243943/32439433572.20221019125055.jpg",
+                "author": "이도영",
+                "discount": "12150",
+                "publisher": "폭스코너",
+                "pubdate": "20190830",
+                "isbn": "9791187514268",
+                "description": "“내 이름은 홍순이입니다. \n고향은 천안역에서 가까운 대흥동입니다. \n열일곱에 집을 떠났고 여든아홉인 지금껏 돌아가지 못했습니다. \n나는 홍순이입니다!” \n-제국과 전쟁, 국가와 가부장제가 여성에게 가한 폭력과 \n끊임없이 지속되는 기억의 폭력성에 관한 이야기-"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "폭스코너",
+                "DDC": "",
+                "UPDATE_DATE": "20190919",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이경희",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "305 p.",
+                "CONTROL_NO": "CIP2019032766",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187514268",
+                "INPUT_DATE": "20190820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "늙은 소녀들의 기도",
+                "PUBLISH_PREDATE": "20190830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

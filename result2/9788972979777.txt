@@ -1,0 +1,67 @@
+{
+    "otitle": "누가 내 이름을 이렇게 지었어?",
+    "oauthor": "오스카르 아란다 저/김유경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "누가 내 이름을 이렇게 지었어? (좀벌레부터 범고래까지 우리가 몰랐던 야생의 뒷이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466821420",
+                "image": "https://shopping-phinf.pstatic.net/main_3246682/32466821420.20221019123403.jpg",
+                "author": "오스카르 아란다",
+                "discount": "13500",
+                "publisher": "동녘",
+                "pubdate": "20201125",
+                "isbn": "9788972979777",
+                "description": "CNN과 MBC가 주목한 바다거북 파수꾼, 오스카르 아란다의 좌충우돌 동물 에세이!\n\n“살아있는 존재의 가장 사랑스러운 얼굴을 보여준다” - 《라스 프로빈시아스》(스페인 유력지)\n“단순하고 재미있는 방법으로 자연과의 잃어버린 연결을 복원한다” - 《라 반구아르디아》(스페인 유력지)\n\n열정적인 바다거북 보호 활동가로 널리 알려진 멕시코 생물학자가 책장 깊숙한 곳에 사는 좀벌레부터 잔혹한 킬러로 오해받는 범고래까지 야생의 다양한 동식물을 관찰하고 쓴 엉뚱하고 유쾌한 자연 에세이. 가장 익숙한 공간인 집, 아름다운 멕시코 바다, 스페인의 신비로운 숲을 누비며 마주친 야생의 얼굴을 흥미진진하게 그려내 “살아 있는 존재들의 가장 사랑스러운 얼굴을 보여준다”는 평을 받았다. 흔히 주목받는 포유류뿐 아니라 편견과 혐오에 시달리는 파충류와 곤충에게도 따뜻한 시선을 던지며 우리가 몰랐던 자연의 모습을 보여준다.\n\n이 책에는 지은이가 헌신했던 바다거북 보호 프로젝트의 뒷이야기도 담겨 있다. 이 일에 뛰어들게 된 이유, 가죽이 벗겨지기 직전 바다거북을 구하고 새끼 거북의 탄생을 지켜봤던 이야기, MBC 촬영팀과의 기억과 후일담, 12년의 활동을 뒤로하고 스페인으로 떠날 수밖에 없었던 사연을 들려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20210108",
+                "EA_ADD_CODE": "43400",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "오스카르 아란다 지음 ;김유경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "472",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "317 p.",
+                "CONTROL_NO": "CIP2020043494",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972979777",
+                "INPUT_DATE": "20201013",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "누가 내 이름을 이렇게 지었어?",
+                "PUBLISH_PREDATE": "20201125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

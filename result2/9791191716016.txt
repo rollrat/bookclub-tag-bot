@@ -1,0 +1,67 @@
+{
+    "otitle": "흔한 날",
+    "oauthor": "이장미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "흔한 날 (이장미 그림 일기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440870771",
+                "image": "https://shopping-phinf.pstatic.net/main_3244087/32440870771.20221019145257.jpg",
+                "author": "이장미",
+                "discount": "14400",
+                "publisher": "다다서재",
+                "pubdate": "20210917",
+                "isbn": "9791191716016",
+                "description": "『흔한 날』은 중견 화가 이장미가 17년간 기록한 그림 일기를 엮은 책이다. 2004년부터 2021년 최근까지, 3대가 모여 사는 대가족의 소소하고 따뜻한 일상을 담고 있다. 한 장의 그림에 짧은 글 몇 줄로 이루어진 이 소박한 일기는 17년이라는 긴 세월 동안 어린 조카가 어른이 되고 부모와 형제들이 조금씩 나이 들어가는 과정을 담담하게 그려낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다다서재",
+                "DDC": "",
+                "UPDATE_DATE": "20211006",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이장미",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*170",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "314 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191716016",
+                "INPUT_DATE": "20210826",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "흔한 날",
+                "PUBLISH_PREDATE": "20210917",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

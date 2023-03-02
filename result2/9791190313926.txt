@@ -1,0 +1,67 @@
+{
+    "otitle": "널 위한 문화예술",
+    "oauthor": "널 위한 문화예술 편집부 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "널 위한 문화예술 (미술관에서 길을 잃는 사람들을 위한 가장 친절한 예술 가이드)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473419736",
+                "image": "https://shopping-phinf.pstatic.net/main_3247341/32473419736.20221230073003.jpg",
+                "author": "널 위한 문화예술 편집부",
+                "discount": "15120",
+                "publisher": "웨일북",
+                "pubdate": "20210715",
+                "isbn": "9791190313926",
+                "description": "난해한 미술 작품도 \n즐겁고 유쾌하게 감상하는 법\n\n“당신이 작품을 봐줄 때 비로소 \n예술의 이야기가 시작된다.”\n\n예술에 대한 부채감으로 가까이 다가가지 못한 ‘너’를 위한, 어려운 건 딱 질색인 ‘너’를 위한, 예술적 교류를 원하는 ‘너’를 위한 유쾌하고 빠른 안내서. 미술을 생각하는 방식만 비틀어도 예술에 관심만 살짝 가져도 저절로 예술가의 삶이 머릿속에 들어오고, 감각이 일깨워지며, 예술에 대한 새로운 세계관이 열린다. 우리는 주변에서 미술 작품들을 쉽게 접할 수 있다. 전시회에 간다든지, 소셜 미디어에서 본다든지 또는 작품을 산다든지 등 여러 형태의 예술과 공존한다. 그럼에도 우리는 작품을 한 번도 제대로 본 적이 없다. ‘미술은 어려우니까 봐도 이해할 수 없을 거야’라는 생각으로 작품을 들여다보기 때문이다.\n\n‘널 위한 문화예술’은 감각적인 스토리텔링을 통해 우리가 놓쳤던 그림의 숨겨진 이면들을 친절한 목소리로 설명한다. 바스키아는 왜 왕관을 많이 그렸을까? 뭉크는 왜 〈절규〉를 그렸을까? 로스코 작품을 보면 사람들은 왜 눈물을 흘릴까? 등 명화 속에는 설명해 주지 않으면 알 수 없는 메시지가 가득하다.\n지루할 틈 없이 스피디하게 전개되는 이야기 속에서 우리는 미술을 이해했다는 쾌감에서 쉽게 벗어날 수 없을 것이다. 또한 시대의 각인이 찍힌 작품과 작가의 태도에서 철학과 가치관을 엿볼 수 있을 것이다. 아는 게 없어도, 생각하기가 귀찮아도 우리 삶에 저절로 미술의 세계가 스며드는 일이 벌어진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)웨일북",
+                "DDC": "",
+                "UPDATE_DATE": "20211008",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "저자 : 널위한문화예술 편집부",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "300",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190313926",
+                "INPUT_DATE": "20210623",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "널 위한 문화예술",
+                "PUBLISH_PREDATE": "20210715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

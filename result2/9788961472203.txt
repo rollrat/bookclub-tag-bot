@@ -1,0 +1,67 @@
+{
+    "otitle": "스무 살의 인문학",
+    "oauthor": "강신주,고미숙,김병일,박철홍,박홍규,신정근,안도현,이용주,최재목,홍세화 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스무 살의 인문학 (청춘에게 길을 묻다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490802146",
+                "image": "https://shopping-phinf.pstatic.net/main_3249080/32490802146.20221019104825.jpg",
+                "author": "강신주",
+                "discount": "13500",
+                "publisher": "이학사",
+                "pubdate": "20150925",
+                "isbn": "9788961472203",
+                "description": "인문학을 통해 스무 살, 청춘의 길을 찾는다\n\n‘이태백’, ‘청년 실신’, ‘삼포 세대’를 넘어 이제는 무려 ‘칠포 세대’가 되어버린 20대를 아십니까? 과거 꿈과 희망의 아이콘이었던 20대는 사라지고, 그 자리를 결핍과 좌절, 불안과 우울 같은 부정적인 정조로 점철된 20대가 대신하고 있다. 『스무 살의 인문학』은 이렇듯 불안하고 막막한 20대를 보내고 있는 청춘들에게 우리 시대 대표적 지성들이 보내는 인문학적 조언과 충고, 응원과 독려의 메시지다.\n\n철학자, 고전평론가, 사회운동가, 시인, 동양학자 등 각자 자신의 분야에서 일가를 이룬 저자들은 ‘스무 살을 위한 인문학’ 혹은 ‘스무 살에 필요한 인문학’에 그들의 방식대로 다채롭게 접근한다. ‘20대에는 무엇을 해야 하며, 어떻게 살아야 하는가?’, ‘공부는 왜 해야 하며 무엇을 공부할 것인가?’, ‘절망과 좌절을 어떻게 이겨낼 것인가?’ 등 20대 청춘들이 고민할 법한 절실한 주제들이 릴레이식으로 펼쳐진다.\n\n인문학자 강신주는 “자신의 욕망에 따라 사는 주인의 삶”을, 고전평론가 고미숙은 자기 존재에서 결핍을 찾는 대신 나의 몸을 긍정하며 지성과 지혜로 자신을 무장할 것을 강조한다. 또 시인 안도현은 여러 편의 시를 읽으며 “다르게 생각하고, 말하고, 표현”하는 것의 중요성을 역설한다. 이처럼 10명의 지성들은 다른 목소리로 다른 주제를 이야기한다. 하지만 공통된 메시지가 있다. 바로 “네 자신이 누구인지를 알고 주인으로서 당당하게 살아야 한다”는 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)이학사",
+                "DDC": "001.3",
+                "UPDATE_DATE": "20151021",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강신주, 고미숙, 김병일, 박철홍, 박홍규, 신정근, 안도현, 이용주, 최재목, 홍세화",
+                "SERIES_TITLE": "",
+                "KDC": "001.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4874373_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4874373_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 260페이지 내외",
+                "CONTROL_NO": "CIP2015024567",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961472203",
+                "INPUT_DATE": "20150907",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "스무 살의 인문학",
+                "PUBLISH_PREDATE": "20150925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

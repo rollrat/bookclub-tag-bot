@@ -1,0 +1,67 @@
+{
+    "otitle": "제 마음도 괜찮아질까요?",
+    "oauthor": "강현식(누다심),서늘한여름밤 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "제 마음도 괜찮아 질까요? (나의 첫 번째 심리상담)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483347750",
+                "image": "https://shopping-phinf.pstatic.net/main_3248334/32483347750.20221227203256.jpg",
+                "author": "강현식^서늘한여름밤",
+                "discount": "13500",
+                "publisher": "와이즈베리",
+                "pubdate": "20170920",
+                "isbn": "9788937862083",
+                "description": "『제 마음도 괜찮아 질까요?』는 마음의 그림자를 지닌 세 명의 주인공(은주, 석영, 지선)이 치유와 변화를 위해 심리상담센터를 찾는 과정을 통해서, 심리상담의 방법과 절차, 제대로 된 심리상담가 찾기, 비용의 문제, 세간의 오해와 편견 등 독자들이 그간 궁금하고 불안했던 점들을 말끔히 해소시킨다. \n특히 서늘한여름밤이 그린 열세 편의 그림일기는 ‘심리상담은 정신이 이상한 사람만 받는 게 아닌지’, ‘이런다고 내 삶이 바뀔 수 있을지’ 고민하는 독자들의 마음을 다독이며 ‘누구나 마음이 아플 수 있으니 괜찮다’고, ‘함께 견뎌줄 테니, 당신이 행복을 만나게 되길 바란다’며 위로해준다. 뿐만 아니라, 심리상담의 윤리와 원칙, 내담자를 대하는 마음가짐에 대한 내용도 담겨 있기 때문에 심리상담가를 꿈꾸는 심리학도들에게도 두고두고 참고할 수 있는 든든한 길잡이가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "와이즈베리 :미래엔",
+                "DDC": "158.3",
+                "UPDATE_DATE": "20171012",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.mirae-n.co.kr",
+                "AUTHOR": "강현식 쓰고 ;서늘한여름밤 그리다",
+                "SERIES_TITLE": "",
+                "KDC": "186.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6333237_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6333237_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "CIP2017021575",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788937862083",
+                "INPUT_DATE": "20170823",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "제 마음도 괜찮아질까요?",
+                "PUBLISH_PREDATE": "20170915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

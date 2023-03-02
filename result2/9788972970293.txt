@@ -1,0 +1,67 @@
+{
+    "otitle": "우리는 아름답게 어긋나지",
+    "oauthor": "노지양,홍한별 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리는 아름답게 어긋나지 (언어생활자들이 사랑한 말들의 세계)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491315713",
+                "image": "https://shopping-phinf.pstatic.net/main_3249131/32491315713.20221019115332.jpg",
+                "author": "노지양^홍한별",
+                "discount": "12150",
+                "publisher": "동녘",
+                "pubdate": "20220321",
+                "isbn": "9788972970293",
+                "description": "동녘이 펴내는 편지 시리즈 ‘맞불’\n노지양X홍한별, 안희제X이다울, 이라영X전범선, 이현정X하미나…\n지금 가장 뜨겁고 빛나는 작가들의 편지!\n\n동녘에서 펴내는 편지 시리즈 ‘맞불’은 마주보며 타오르는 불처럼 두 작가가 주고받는 대화가 피워내는 미덥고 빛나는 이야기들입니다. 첫 번째 맞불은 독자와 편집자가 신뢰하는 번역가, 노지양X홍한별이 지핍니다. 번역에 대한 이야기부터 혐오와 비하가 담긴 내용을 옮겨야 할 때의 고민, 가사와 일을 병행하는 고충, 책에 대한 열렬한 사랑까지, 외로움이 깊어지는 코로나19 시대에 다정한 여자 친구들의 편지가 우리를 반짝이는 우정의 세계로 초대합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20220425",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "지은이: 노지양,홍한별",
+                "SERIES_TITLE": "맞불 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788972970279",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788972970293",
+                "INPUT_DATE": "20220303",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우리는 아름답게 어긋나지",
+                "PUBLISH_PREDATE": "20220321",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

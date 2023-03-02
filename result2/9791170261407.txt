@@ -1,0 +1,67 @@
+{
+    "otitle": "호모자취엔스",
+    "oauthor": "노수봉 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "호모 자취엔스 (때론 외롭지만 혼자에 최적화된 1인 가구의 리얼 진화를 담은 자취실용서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456881687",
+                "image": "https://shopping-phinf.pstatic.net/main_3245688/32456881687.20221227203103.jpg",
+                "author": "노수봉",
+                "discount": "13320",
+                "publisher": "팜파스",
+                "pubdate": "20170118",
+                "isbn": "9791170261407",
+                "description": "오늘도 월세 벌러 출근하는 1인들,\n독거하며 매일을 살아내는 자취인이라면 소름끼치게 공감할 이야기들\n\n혼자서도 씩씩하게 살아가는 현 세상의 자취인류, 호모 자취엔스들을\n프로자취인으로 거듭나게 해 줄 ‘전후무후 자취 실용서!’\n\n아직은 1인 가구라는 말이 낯선 자취인들. 하루가 멀다 하고 뉴스로 쏟아져 나오는 1인 가구에 대한 소식들은 희망적이지 만은 않다. 코딱지만한 집의 월세가 헉! 소리 날 정도에, 집주인의 상상초월 횡포에 서러움을 삼킨다는 등의 비극적인 현실들이 보도된다. 하지만 혼자 사는 삶이 마냥 궁상맞고 서글프기만 한 것은 아니다. 부모님 집에서 독립해 ‘진짜 내 집 살림’을 꾸리고 사는 것은 의외로 재미나고 또 보람차다. 자취집의 가장이 되어 내가 나를 먹여 살리고, 또 구석구석 내가 디자인한 대로 만들고 유지해 나가며 ‘진짜 나’에 대해 온전히 생각하고 알게 되는 공간이기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "306.81",
+                "UPDATE_DATE": "20170807",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "노수봉 지음",
+                "SERIES_TITLE": "",
+                "KDC": "332.277",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6035418_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6035418_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "312 p.",
+                "CONTROL_NO": "CIP2016032644",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170261407",
+                "INPUT_DATE": "20161229",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "호모 자취엔스",
+                "PUBLISH_PREDATE": "20170118",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

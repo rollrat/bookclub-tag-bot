@@ -1,0 +1,78 @@
+{
+    "otitle": "실전 스윙 트레이딩 기법",
+    "oauthor": "앨런 S. 팔리 저/김태훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:47 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "실전 스윙 트레이딩 기법 (시장의 변동성을 정복하는 실전 투자법, 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490829793",
+                "image": "https://shopping-phinf.pstatic.net/main_3249082/32490829793.20221229073822.jpg",
+                "author": "앨런 S. 팔리",
+                "discount": "22500",
+                "publisher": "이레미디어",
+                "pubdate": "20180130",
+                "isbn": "9791188279074",
+                "description": "세계적 대가로부터 배우는 스윙 트레이딩 실전 기법 『실전 스윙 트레이딩 기법』. 세계적으로 독보적인 권위를 인정받고 있는 대가(大家), 앨런 S. 팔리로부터 스윙 트레이딩의 모든 기법을 배워보자. 그는 데이 트레이딩, 스캘핑과 함께 단기 매매로 뭉뚱그려 받아들이던 스윙 트레이딩을 다른 것과 구별되는 하나의 기법으로 정립했다. 그의 전작으로 폭발적인 호응을 얻었던 『마스터 스윙 트레이딩』을 더욱 보완하고, 변화된 시장 상황을 반영한 『실전 스윙 트레이딩 기법』을 국내 최초로 소개 한다. \n\n현대의 주식 시장은 과거보다 최근 10년 사이에 급격히 변화했다. 그럼에도 당신은 과거의 수익 모델만을 고집하다가 지속적으로 손실을 입고 좌절하지 않았는가? 만일 그렇다면 당신도 변화된 전략으로 시장과 승부해야 한다. 『실전 스윙 트레이딩 기법』은 이러한 변화된 시장 상황에서 적용할 수 있는 실전적 기법을 총망라한 역작이다. 시장의 흐름과 맥락 속에서 진입 기회를 포착하고, 수익 목표와 손실 목표를 세워 청산하는 정통 스윙 기법을 배우고자 한다면 반드시 이 책을 읽어보자."
+            },
+            {
+                "title": "실전 스윙 트레이딩 기법 (시장의 변동성을 정복하는 실전 투자법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466572654",
+                "image": "https://shopping-phinf.pstatic.net/main_3246657/32466572654.20220527051512.jpg",
+                "author": "앨런 S. 팔리",
+                "discount": "0",
+                "publisher": "이레미디어",
+                "pubdate": "20110120",
+                "isbn": "9788991998506",
+                "description": "시장의 변동성을 정복하여 꾸준한 수익을 올려라!\n\n이 책은 단기 투자자든, 장기 투자자든 지난 금융위기로 손실을 본 투자자들을 위한 책이다. 20년 이상의 트레이딩 경력을 지닌 전문 투자자이자 의 저자인 앨런 s. 팔리가『실전 스윙 트레이딩 기법』을 통해 시장의 변동성이 주는 기회를 파악하고 활용하는 방법을 구체적으로 설명하며, 유리한 포지션을 선점하기 위한 실질적인 전략을 제시한다. 지난 10년간 큰 변화를 겪은 시장에서 저자가 실제 테스트하여 검증한 생존형 투자 전략의 모든 것이 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "332.678",
+                "UPDATE_DATE": "20180131",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "앨런 S. 팔리 지음 ;김태훈 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6466379_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6466379_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "438 p.",
+                "CONTROL_NO": "CIP2017033399",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188279074",
+                "INPUT_DATE": "20171208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "실전 스윙 트레이딩 기법",
+                "PUBLISH_PREDATE": "20180130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

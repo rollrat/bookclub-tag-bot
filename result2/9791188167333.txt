@@ -1,0 +1,67 @@
+{
+    "otitle": "팀 잉골드의 인류학 강의",
+    "oauthor": "팀 잉골드 저/김지윤 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "팀 잉골드의 인류학 강의 (왜 그리고 어떻게 인간을 연구하는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493368042",
+                "image": "https://shopping-phinf.pstatic.net/main_3249336/32493368042.20221229073834.jpg",
+                "author": "팀 잉골드",
+                "discount": "12150",
+                "publisher": "프롬북스",
+                "pubdate": "20200819",
+                "isbn": "9791188167333",
+                "description": "통섭의 학문 인류학은 어떻게 인간과 세상을 읽는가?\n현존하는 가장 독창적이고 급진적인 인류학자의 인류학 특강\n\n“인류학의 전통적 주제에 대한 서론이며 심오한 묵상이다!”\n_비나 다스, 존스 홉킨스 대학 인류학 교수\n\n인류학의 쓸모를 말하다\n인류는 지금 기로에 서 있다. 불평등과 폭력이 점점 심화되고 전 지구적 환경문제가 위태롭다. 어떻게 해야 세상을 모든 이를 위한 공간, 미래 세대를 위한 곳으로 만들 수 있을까? 그리고 그러한 세상에서 인류의 삶 전체가 발전할 수 있는 가능성은 무엇일까? 이런 시급한 질문들에 대답하기 위해 인류학보다 더 좋은 학문은 없다. 인류학은 배경과 지위를 가리지 않고 모든 곳의 모든 사람들의 경험과 지혜를 이용하여 해결책을 제시한다. \n『팀 잉골드의 인류학 강의』에서 현존하는 가장 독창적이고 급진적인 사상가이자 사회인류학자로 평가받는 애버딘 대학교의 팀 잉골드 교수는 인류학이란 무엇이고, 어떤 과정을 거쳐 오늘의 학문적 위치에 이르렀는지, 그리고 어떤 학문이 되어야 하는지에 대해 강의한다. 한때 진보의 이상들에 헌신했던 인류학이라는 학문이 어떻게 전쟁과 식민지주의의 폐허 사이에서 무너졌으며, 그럼에도 어떻게 희망의 학문으로 다시 태어나 우리 시대의 가장 절박한 지적, 윤리적, 정치적 이슈에 대한 논쟁 한가운데를 차지할 운명인지를 설명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "프롬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200902",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "팀 잉골드 지음 ;김지윤 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "389",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/29/9791188167333.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "206 p.",
+                "CONTROL_NO": "CIP2020031728",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188167333",
+                "INPUT_DATE": "20200729",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "팀 잉골드의 인류학 강의",
+                "PUBLISH_PREDATE": "20200819",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

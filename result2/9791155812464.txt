@@ -1,0 +1,67 @@
+{
+    "otitle": "사랑에 대해 내가 아는 모든 것",
+    "oauthor": "돌리 앨더튼 저/김미정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사랑에 대해 내가 아는 모든 것",
+                "link": "https://search.shopping.naver.com/book/catalog/32490258808",
+                "image": "https://shopping-phinf.pstatic.net/main_3249025/32490258808.20221230075009.jpg",
+                "author": "돌리 앨더튼",
+                "discount": "13320",
+                "publisher": "윌북",
+                "pubdate": "20191201",
+                "isbn": "9791155812464",
+                "description": "10대부터 서른까지 모든 걸 걸고 사랑을 탐구한 현실 연애 모험기다. 인생도, 미래도, 직업도 흐릿하기만 한 20대, 드라마틱하고 로맨틱한 사랑을 꿈꾸었지만 남은 건 숙취와 처절한 자기 인식이다.\n놀랍도록 솔직하고 조마조마할 만큼 용감한 돌리 앨더튼. 그녀는 자신의 경험을 날것 그대로 쏟아 부었고 책은 출간과 동시에 무한 공감과 응원을 받으며 베스트셀러에 올랐다. 함께 키득거리고 함께 분노하다 보면 어느새 열성 팬이 되어버리는 그녀의 문장은 뾰족하고 날카롭지만 이상하게 따스하고 포근하다. \n자신의 연애 장르를 로맨틱 코미디로 딱 잘라 말하기 어려운 사람이라면 돌리 앨더튼을 인생 친구로 맞아들이라. 밤새워 마신 술과 지질한 남자와 얼굴 빨개지는 데이트로 가득한 그녀의 이야기를 듣노라면 문득 내 삶도, 사랑도 명료해질 것이다.\n쥐어짜는 감동이나 어설픈 위로나 멋들어진 조언 따위는 없다. 다만, 민낯과 알몸과 속내만 있는 실화일 뿐이다. 영국 아마존 에세이 분야 1위, 2018년 영국 내셔널 북어워즈 자서전 분야 1위, 선데이 타임스 Top 5에 오른 책이며, 앨더튼은 밀레니얼 세대를 대표하는 작가로 평가받고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "",
+                "UPDATE_DATE": "20191206",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "돌리 앨더튼 지음 ;김미정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "848",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/11/9791155812464.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "333 p.",
+                "CONTROL_NO": "CIP2019044392",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155812464",
+                "INPUT_DATE": "20191101",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사랑에 대해 내가 아는 모든 것",
+                "PUBLISH_PREDATE": "20191201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

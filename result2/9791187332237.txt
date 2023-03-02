@@ -1,0 +1,67 @@
+{
+    "otitle": "신사와 선비",
+    "oauthor": "백승종 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "신사와 선비 (오늘의 동양과 서양은 어떻게 만들어졌는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456916791",
+                "image": "https://shopping-phinf.pstatic.net/main_3245691/32456916791.20221019135421.jpg",
+                "author": "백승종",
+                "discount": "15300",
+                "publisher": "사우",
+                "pubdate": "20180710",
+                "isbn": "9791187332237",
+                "description": "신사와 선비의 역사를 치밀하고 풍부하게 되살려내다\n\n동서양 역사에 두루 정통한 독보적인 역사가 백승종 교수의 역작\n신사와 선비의 역사를 치밀하고 풍부하게 되살려내다\n\n“중세 기사도와 신사도는 어떻게 오늘날 시민의 교양으로 계승되었을까?”\n“선비정신은 한국 사회의 미래를 어떻게 변화시킬 수 있는가?”  \n서구 중세에는 기사가 있었고, 조선에는 선비가 있었다. 이 책은 기사도와 신사도의 특징과 역사를 탐구하고, 이를 한국 전통사회의 주역인 선비와 비교·분석한다. 아울러 일본의 부시도(사무라이)의 특징과 역사도 검토한다.\n중세 기사도는 근대의 신사도로, 다시 현대의 시민의식으로 변화 발전한다. 시대에 따라 내용과 형식은 달라졌지만, 본질은 같다. 기사도를 계승한 신사도는 품격 있고 책임감이 강한 교양시민을 기르는 원동력이었다. 서구사회는 전통문화를 폐기하지 않고  계승하면서 사회적 위기를 극복하고 새로운 역사를 열었다. 저자는 이 같은 역사적 변화가 있었기에 서구사회가 다른 문명권보다 정의롭고 자유롭게 진화했다고 해석한다. \n이어서 저자는 조선을 지배한 선비의 공과 과를 입체적으로 조명한다. 조선은 선비로 인해 꽃을 피웠고, 선비로 인해 멸망의 길을 걸었다. 조선왕조가 멸망하면서 선비정신도 쇠락해갔다. \n저자는 조선의 선비들에게는 지금 우리에게 결핍된 많은 미덕이 있었다고 강조한다. 우리가 잊고 있었던 선비정신을 꼼꼼하게 되짚어보고, 거기에서 우리가 다시 되살려야 할 것은 무엇인지 알아본다. 서구의 역사적 경험을 타산지석으로 삼아, 한국사회가 질적으로 발전할 수 있는 실마리를 선비의 전통 위에서 찾아보고자 하는 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사우",
+                "DDC": "909",
+                "UPDATE_DATE": "20180711",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "백승종 지음",
+                "SERIES_TITLE": "",
+                "KDC": "909",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6696791_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "323 p.",
+                "CONTROL_NO": "CIP2018017827",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187332237",
+                "INPUT_DATE": "20180608",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "신사와 선비",
+                "PUBLISH_PREDATE": "20180710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

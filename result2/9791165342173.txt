@@ -1,0 +1,67 @@
+{
+    "otitle": "델리게이션",
+    "oauthor": "류랑도 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "델리게이션 (슬기로운 권한위임의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466550827",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466550827.20230131162319.jpg",
+                "author": "류랑도",
+                "discount": "15300",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20200901",
+                "isbn": "9791165342173",
+                "description": "슬기로운 권한위임의 기술, \n‘델리게이션’이 더욱 중요해진 시대!\n\n최고의 리더는 혼자 잘나서 북 치고 장구 치는 사람이 아니라, 구성원들이 성과를 내도록 ‘환경’을 만들어주는 사람이다. 아무리 뛰어난 리더도 혼자 잘해서는 성과가 나지 않는 시대다. 이 책은 리더를 위한 실전적 권한위임의 기술을 자세히 담았다. 성과목표를 설정해 소통하고, 전략을 코칭하고, 실행자원을 지원하고, 소명의식을 심어주고, 역량을 강화하며, 보상을 통해 도전정신을 고취하는 7단계 로드맵을 생생한 현장사례와 함께 소개한다. \n오늘도 많은 리더들이 급한 마음에 (또는 구성원을 믿지 못해) 직접 팔을 걷어붙이고 실무에 뛰어들지만, 그래봐야 원하는 성과도 나오지 않을뿐더러 구성원만 ‘일 못하는 사람’으로 만들어 사기를 꺾을 뿐이다. 리더는 당장의 성과보다 3년 후를 바라보는 중장기적 안목을 가지고, 구성원들이 성과를 내도록 코칭하는 데 힘써야 한다. 그것이야말로 성과창출과 구성원 육성을 동시에 하는, 즉 ‘조직’과 ‘사람’을 살리는 지름길이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20201006",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "류랑도 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.24",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "355 p.",
+                "CONTROL_NO": "CIP2020032983",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791165342173",
+                "INPUT_DATE": "20200806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "델리게이션",
+                "PUBLISH_PREDATE": "20200901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

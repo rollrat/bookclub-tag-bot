@@ -1,0 +1,67 @@
+{
+    "otitle": "싸가지 없는 점주로 남으리 : 쿨하고 소심한 편의점 사장님",
+    "oauthor": "박규옥 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "싸가지 없는 점주로 남으리: 쿨하고 소심한 편의점 사장님",
+                "link": "https://search.shopping.naver.com/book/catalog/32466970011",
+                "image": "https://shopping-phinf.pstatic.net/main_3246697/32466970011.20221019152008.jpg",
+                "author": "박규옥",
+                "discount": "13660",
+                "publisher": "몽스북",
+                "pubdate": "20220216",
+                "isbn": "9791191401462",
+                "description": "인문학을 전공한 박사 학위 있는 아줌마,\n어릴 때부터 꿈꿔오던 ‘동네 점방’의 주인이 되다. \n \n친절하려고 애쓰진 않지만 양심에 아무 거리낄 것 없이 \n심플하게, 장사하고 산다. \n\n매력 넘치는 장사꾼 규옥 씨의 \n동네 편의점 24시 이야기."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Mons(몽스북)",
+                "DDC": "",
+                "UPDATE_DATE": "20220314",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박규옥 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/02/02/9791191401462.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "285 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191401462",
+                "INPUT_DATE": "20220202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "싸가지 없는 점주로 남으리",
+                "PUBLISH_PREDATE": "20220216",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

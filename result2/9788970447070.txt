@@ -1,0 +1,78 @@
+{
+    "otitle": "소립자론의 세계",
+    "oauthor": "가다야마 야스히사 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:05 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "소립자론의 세계 (물질과 공간의 궁극에 도전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32477588157",
+                "image": "https://shopping-phinf.pstatic.net/main_3247758/32477588157.20221019115449.jpg",
+                "author": "가다야마 야스히사",
+                "discount": "13500",
+                "publisher": "전파과학사",
+                "pubdate": "20220517",
+                "isbn": "9788970447070",
+                "description": "소립자 이론이란 무엇인가? \n\n이 책은 물체의 생성 소멸이론에서부터 소립자 통일로의 움직임으로 현대 과학이 어떻게 하여 새롭게 만들어지는가를 드라마틱하게 묘사한 저서이다.\n\n이 책은 인간이 물질과 그 배후에 있는 공간의 수수께끼에 도전해 어떤 노력을 쌓아 올리고 있다는 것을 많은 사람이 이해해 주었으면 하는 생각에서 시작되었다. 이들의 노력의 결과가 소립자론(素粒子論)이라는 학문으로 정리되어 있으나 그 학문은 결코 완성된 것은 아니다. 그 내용은 인간이 살아 있는 한 계속해서 수정될 것이다. 소립자론은 소립자에 관한 학문으로 그치는 것이 아니라 소립자를 발판으로 삼아 자연의 근원을 찾으려는 인간의 사색과 노력의 결과이기 때문이다."
+            },
+            {
+                "title": "소립자론의 세계 (물질과 공간의 궁극에 도전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441660562",
+                "image": "https://shopping-phinf.pstatic.net/main_3244166/32441660562.20220527033156.jpg",
+                "author": "가다야마 야스히사",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "19850601",
+                "isbn": "9788970440422",
+                "description": "소립자이론이란 무엇인가? 물체의 생성 소멸이론에서부터 소립자 통일로의 움직임으로 현대과학이 어떻게 하여 새롭게 만들어지는가를 드라마틱하게 묘사한 저서이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20220617",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "가다야마 야스히사 지음 ;박정덕 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970447070",
+                "INPUT_DATE": "20220504",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "소립자론의 세계",
+                "PUBLISH_PREDATE": "20220517",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "태초에 빌런이 있었으니",
+    "oauthor": "김동식,김선민,장아미,정명섭,차무진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "태초에 빌런이 있었으니 (히든 히어로 앤솔러지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438274623",
+                "image": "https://shopping-phinf.pstatic.net/main_3243827/32438274623.20221019150709.jpg",
+                "author": "김동식^김선민^장아미^정명섭^차무진",
+                "discount": "12600",
+                "publisher": "요다",
+                "pubdate": "20201125",
+                "isbn": "9791190749091",
+                "description": "불평등과 부조리의 시대, 악당들도 사연 하나쯤은 있잖아요!\n젊은 상상력의 장르 작가 5인이 전하는 선과 악에 대한 근본적인 통찰\n\n선과 악이 극명한 이야기의 주인공은 대부분 선의 편이었다. 그리하여 악의 이야기는 늘 수면 아래 머물러 있다. 반면, 현실 속에서는 온갖 종류의 악당들이 날뛴다. 우리네 삶에서는 영웅보다 악당이 더 많은데, 그렇다면 악당을 주인공으로 한 이야기도 많아야 하지 않을까? 젊은 상상력으로 호평받은 다섯 명의 장르 작가가 『태초에 빌런이 있었으니』를 통해 악당들의 이야기와 그 이면에 숨겨진 부조리한 시스템를 정면으로 드러낸다.\n빌런이 주인공으로 등장하면서부터 이야기의 외연은 끝없이 확장된다. 선과 악은 명확하게 구분될 수 있는 것인가, 빌런은 처음부터 빌런이었을까, 히어로와 빌런은 어떤 관계일까, 세상에 악은 왜 사라지지 않는가 등. 『태초에 빌런이 있었으니』는 여느 ‘히어로물’처럼 무 자르듯 이분법으로 나눌 수 없는 세상사를 다각도로 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "요다",
+                "DDC": "",
+                "UPDATE_DATE": "20210111",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김동식,김선민,장아미,정명섭,차무진",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/09/9791190749091.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "294 p.",
+                "CONTROL_NO": "CIP2020047568",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190749091",
+                "INPUT_DATE": "20201109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "태초에 빌런이 있었으니",
+                "PUBLISH_PREDATE": "20201125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "내내 읽다가 늙었습니다",
+    "oauthor": "박홍규,박지원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내내 읽다가 늙었습니다 (무리 짓지 않는 삶의 아름다움 | 고독한 독서인 박홍규와의 대화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436331679",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436331679.20221019143006.jpg",
+                "author": "박홍규",
+                "discount": "15300",
+                "publisher": "사이드웨이",
+                "pubdate": "20191205",
+                "isbn": "9791196349134",
+                "description": "책과 활자에 파묻혔던 박홍규가 전하는 다채로운 고백들!\n\n지난 40년 동안 대학 강단에서 학생들을 가르쳤던 영남대학교 명예교수, 문학, 철학, 역사, 신화, 사상, 교육학, 사회학, 정치학, 음악, 미술, 무용, 예술 등에 이르기까지 다방면의 지성과 교양을 아우른 저술 활동을 선보였던 번역가이자 저술가, 그리고 언제나 ‘읽는 사람’이었던 박홍규의 『내내 읽다가 늙었습니다』. 책을 너무 사랑해서 한평생 책 속에 파묻혀 살았던 저자의 독서와 고독, 사회와 인간에 관한 이야기를 담은 책이다.\n\n《아이돌을 인문하다》와 《산책하는 마음》을 쓴 박지원 작가가 2018년 겨울부터 2019년 여름까지 경상북도 경산의 영남대학교 도서관과 박홍규의 자택을 총 열 차례 방문하며 함께 나누었던 독서 이야기를 담고 있다. 독서로부터 시작된 이야기는 크게 봐선 고독한 삶의 가치, 한국 사회의 병폐, 그리고 인간의 자유와 평등에 관한 총 네 가지 주제로 파생되었고, 이 대담집은 그 이야기를 독서, 고독, 사회, 인간이라는 네 개의 키워드로 재구성했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Sideways(사이드웨이)",
+                "DDC": "",
+                "UPDATE_DATE": "20200807",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 박홍규,박지원",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20191205",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "125*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "22,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "461 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196349134",
+                "INPUT_DATE": "20191127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "내내 읽다가 늙었습니다",
+                "PUBLISH_PREDATE": "20191205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

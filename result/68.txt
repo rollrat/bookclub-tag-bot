@@ -1,0 +1,23 @@
+{
+    "otitle": "111가지 카페메뉴 레시피",
+    "oauthor": "조영대 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "111가지 카페 메뉴 레시피",
+                "link": "https://search.shopping.naver.com/book/catalog/32485538169",
+                "image": "https://shopping-phinf.pstatic.net/main_3248553/32485538169.20221229073425.jpg",
+                "author": "조영대",
+                "discount": "16630",
+                "publisher": "한올출판사",
+                "pubdate": "20190615",
+                "isbn": "9791156857785",
+                "description": "이 책은 무려 111가지 카페 메뉴 레시피를 수록한 책이다. 카페업 종사자들을 위한 실무 지침서로 적합하며, 다양한 커피 레시피를 익힘으로써 메뉴 확대의 기회를 노릴 수 있다."
+            }
+        ]
+    }
+}

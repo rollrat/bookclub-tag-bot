@@ -1,0 +1,67 @@
+{
+    "otitle": "끌리는 문장은 따로 있다",
+    "oauthor": "멘탈리스트 DaiGo 저/노경아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "끌리는 문장은 따로 있다 (마음을 움직이는 심리적 글쓰기 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32452269462",
+                "image": "https://shopping-phinf.pstatic.net/main_3245226/32452269462.20221228071726.jpg",
+                "author": "멘탈리스트 다이고",
+                "discount": "12600",
+                "publisher": "반니",
+                "pubdate": "20191210",
+                "isbn": "9791190467025",
+                "description": "심리를 꿰뚫는 멘탈리스트가 \n끌리는 문장 속에 숨겨진 글쓰기 비법을 공개한다!\n\n술술 잘 읽히는 글, 강렬한 광고 카피, 쏙쏙 와 닿는 프레젠테이션, \n종일 입에서 맴도는 드라마 대사… 누구나 끌리는 문장, 어떻게 쓸까? 이메일·프레젠테이션·기획안·홍보 카피… 글쓰기가 늘 고민인 당신, \n읽는 이의 마음을 훔치는 ‘멘탈리즘 글쓰기’면 된다!\n\n유독 글쓰기가 어려운 당신, \n멘탈리즘 글쓰기가 답이다! \n\n사회생활을 하다 보면 어떤 형태로든 글을 써서 소통하기 마련인데, 그때마다 우리는 글쓰기로 고민에 빠진다. 내가 쓴 글로 기대한 만큼의 성과가 나지 않을 땐 글쓰기 능력이 더 절실해진다. ‘글을 쓰기는 하는데, 생각이 잘 정리되지 않아요’ ‘내 의도를 상대에게 효과적으로 전달하기 어려워요’ ‘아무리 주장해도 기대한 반응이 돌아오지 않아요’ ‘글을 못 쓰는 건 아니지만 수준을 더 높이고 싶어요’ 이중 하나라도 고개가 끄덕여진다면 ‘멘탈리즘 글쓰기’에 주목해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "20191210",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "DaiGo 지음 ;노경아 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/13/9791190467025.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "CIP2019046221",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190467025",
+                "INPUT_DATE": "20191113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "끌리는 문장은 따로 있다",
+                "PUBLISH_PREDATE": "20191210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

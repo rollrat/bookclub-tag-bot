@@ -1,0 +1,78 @@
+{
+    "otitle": "기억 파단자",
+    "oauthor": "고바야시 야스미 저/주자덕 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:55 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "기억 파단자 (고바야시 야스미 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466543579",
+                "image": "https://shopping-phinf.pstatic.net/main_3246654/32466543579.20220527032028.jpg",
+                "author": "고바야시 야스미",
+                "discount": "12600",
+                "publisher": "아프로스미디어",
+                "pubdate": "20181015",
+                "isbn": "9791195807260",
+                "description": "기억 상실증 환자와 초능력자의 대결, 기억 추적 스릴러\n\n단기 기억 상실증 환자와 기억을 마음대로 조작할 수 있는 살인마의 목숨을 건 대결\n\n어느 날, 낯선 방에서 깨어난 니키치는 머리맡에 놓여 있는 한 권의 노트를 발견, 그 안에서 자신이 단기 기억 상실증에 걸렸다는 청천벽력 같은 사실을 알게 된다.\n설상가상으로 그는 타인의 기억을 개조하는 초능력을 가진 살인마와 대면하게 되는데.\n의지할 수 있는 건 노트와 잃어버린 기억력을 보완하기 위해 발달한 뛰어난 추리력과 판단력을 가진 두뇌뿐.\n니키치는 과연 이 위기를 극복할 수 있을까?\n\n화제의 장편소설『앨리스 죽이기』로 독특한 작품 세계를 각인시킨 작가 고바야시 야스미가 펼치는 논스톱 서스펜스 스릴러『기억 파단자』\n\n독자는 극과 극의 두 등장인물에 빙의되어 시시각각 좁혀 오는 위기감을 체험하게 된다."
+            },
+            {
+                "title": "기억 파단자(리커버) (고바야시 야스미 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497818645",
+                "image": "https://shopping-phinf.pstatic.net/main_3249781/32497818645.20221019124618.jpg",
+                "author": "고바야시 야스미",
+                "discount": "13500",
+                "publisher": "아프로스미디어",
+                "pubdate": "20211123",
+                "isbn": "9791189770198",
+                "description": "기억 조작 살인마와 단기 기억 상실증 환자의 대결을 그린 논스톱 서스펜스 스릴러\n\n어느 날, 낯선 방에서 깨어난 니키치는 머리맡에 놓여 있는 한 권의 노트에서 자신이 단기 기억 상실증 환자라는  충격적인 사실을 알게 된다. \n설상가상으로, 그는 타인의 기억을 개조하는 초능력을 가진 살인마와 대결하게 되는데……. \n니키치는 과연 이 불리한 싸움에서 이길 수 있을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아프로스미디어",
+                "DDC": "895.636",
+                "UPDATE_DATE": "20181025",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.aphrosmedia.com",
+                "AUTHOR": "지은이: 고바야시 야스미 ;옮긴이: 주자덕",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6908115_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6908115_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6908115_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6908115_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "422 p.",
+                "CONTROL_NO": "CIP2018029647",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195807260",
+                "INPUT_DATE": "20180911",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "기억 파단자",
+                "PUBLISH_PREDATE": "20181015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

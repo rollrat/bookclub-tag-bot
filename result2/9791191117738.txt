@@ -1,0 +1,67 @@
+{
+    "otitle": "세계 괴물 백과",
+    "oauthor": "류싱 저/이지희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계 괴물 백과 (신화와 전설 속 110가지 괴물 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32453741834",
+                "image": "https://shopping-phinf.pstatic.net/main_3245374/32453741834.20221230072132.jpg",
+                "author": "류싱",
+                "discount": "16650",
+                "publisher": "현대지성",
+                "pubdate": "20201016",
+                "isbn": "9791191117738",
+                "description": "늑대인간, 스핑크스, 사이렌, 유니콘, 켄타우로스……\n끊임없이 샘솟는 아이디어 창고, \n전 세계 괴물의 탄생과 성장에 관한 흥미진진한 이야기\n\n오래전부터 신화는 훌륭한 문화 콘텐츠의 기반이 되었다. 《반지의 제왕》(게르만 신화), 《해리포터》(켈트 신화), 《신과 함께》(한국 민간 신화), 《센과 치히로의 행방불명》(일본 요괴 신화) 등이 대표적이다.\n‘상상 속의 동물이 탄생한 배경은 무엇일까? 당시 괴물 형상은 어떤 사상이나 관념을 반영하는 걸까?’ 아무 이유 없이 괴물이 출현한 것은 아니었다. 괴이한 천문 현상이나 이상한 생물의 출현 시에는 대부분 성경의 요한계시록처럼 어떤 사회적 전조가 함께 따라다녔다. \n이 책은 고대 근동, 이집트, 그리스, 유럽, 동양의 민족과 종교 전설 속에 등장하는 신기한 괴물 110종의 탄생 배경과 상징적인 의미를 설명하고 있다. 스타벅스의 로고로 사용되어 친숙한 사이렌에서 시작해, 그동안 흔히 접하지 못했던 새롭고 다양한 괴물들에 관해 알려주면서 역사, 신화, 민속자료, 박물학 등의 지식을 완벽하게 결합했다. \n상상력과 스토리가 무엇보다 중요해진 시대에 신화 속 괴물들이 어떤 배경에서 등장했고, 당시 사회에서 어떻게 전파되었는지 제대로 이해할 수만 있다면 우리의 상상력에는 날개가 달릴 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20201027",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "류싱 지음 ;이지희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "372 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191117738",
+                "INPUT_DATE": "20200918",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "세계 괴물 백과 ",
+                "PUBLISH_PREDATE": "20201016",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

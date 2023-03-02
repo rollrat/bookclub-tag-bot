@@ -1,0 +1,67 @@
+{
+    "otitle": "매일 스케치 자동차",
+    "oauthor": "연필이야기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "매일 스케치 자동차",
+                "link": "https://search.shopping.naver.com/book/catalog/32486520137",
+                "image": "https://shopping-phinf.pstatic.net/main_3248652/32486520137.20230117164957.jpg",
+                "author": "연필이야기",
+                "discount": "6120",
+                "publisher": "마이북",
+                "pubdate": "20190102",
+                "isbn": "9791161251486",
+                "description": "연필과 펜 하나로 완성되는 나의 취미 클래스\n초보자를 위한 화실 선생님의 \n\n는 드로잉의 기본 도구인 연필과 펜으로 쉽게 따라 그릴 수 있는 자동차 70여 컷을 담은 드로잉 책이다. 옛날 자동차부터 최신 유행하는 자동차를 종류별로, 그리고 차의 외형과 내부 모습까지 자동차 드로잉을 디테일하게 연습해 볼 수 있도록 구성했다. 특히 자동차를 그릴 때 가장 중요한 전체 형태와 균형미를 중심으로 친절한 화실샘의 코멘트가 매 페이지마다 수록되어 있어 초보자가 드로잉 연습하기에 안성맞춤인 책이다.\n이 책은 저자인 연필이야기가 운영하는 에서 수강생들과 함께 연습했던 ‘자동차 스케치’ 드로잉 노하우를 모아 만들어 초보자들이 따라 그리기에 알맞게 구성되어 있다. 아울러 페이지마다 수록된 짧은 코멘트는 마치 화실 선생님이 뒤에 서서 이야기해 주듯, 드로잉할 때 꼭 필요하지만 자꾸만 놓치는 포인트를 디테일하게 잡아 준다. \n지금 당신 옆에 연필과 종이 한 장 있다면, 당장 그곳을 나만의 취미 클래스 반으로 만들기 바란다. 와 함께라면 가능하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마이북",
+                "DDC": "",
+                "UPDATE_DATE": "20190116",
+                "EA_ADD_CODE": "14650",
+                "PUBLISHER_URL": "http://www.thedifference.co.kr",
+                "AUTHOR": "글·그림: 연필이야기",
+                "SERIES_TITLE": "매일 스케치",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791161251011",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "6800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "125*175",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[161] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161251486",
+                "INPUT_DATE": "20181204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "매일 스케치 자동차",
+                "PUBLISH_PREDATE": "20190102",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14650 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

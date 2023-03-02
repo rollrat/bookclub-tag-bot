@@ -1,0 +1,67 @@
+{
+    "otitle": "걷기만 하면 돼",
+    "oauthor": "강상구 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "걷기만 하면 돼 (새로운 사회를 위한 상상, 녹색기본소득에 관하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445390223",
+                "image": "https://shopping-phinf.pstatic.net/main_3244539/32445390223.20221019145955.jpg",
+                "author": "강상구",
+                "discount": "12150",
+                "publisher": "루아크",
+                "pubdate": "20190501",
+                "isbn": "9791188296286",
+                "description": "녹색기본소득을 통해 즐거운 혁명을 꿈꾸다!\n\n여성이든 남성이든, 도시에 살든 시골에 살든, 20대든 60대든 할 것 없이 사람이라면 기본적으로 누려야 할 것들이 있다. 의식주에 관련된 것들이다. 의식주와 관련해 기본적으로 필요한 것들을 구입하기 위해서는 누구나 최소한의 소득이 있어야 하는데, 이런 생각에서 꽤 오래전부터 존재했던 아이디어가 바로 ‘기본소득제도’이다. 사회구성원이라면 소득이나 재산이 있든 없든, 일을 하든 안 하든, 나이나 성별·지역 등 어떤 차이에도 상관없이 일정 액수의 돈을 국가나 지방자치단체가 조건 없이 지급한다는 개념이다.  \n\n『걷기만 하면 돼』는 기본소득제도의 취지에 찬성하며 그 기본 개념을 알기 쉽게 설명한 것으로, 논의를 여기서 멈추지 않고, 점점 악화되는 환경문제와 기본소득을 연계시켜 ‘녹색기본소득’을 제안하는 책이다. 저자는 녹색기본소득이란 ‘걷기, 자전거 타기, 대중교통 이용하기’를 조건으로 기본소득을 지급하자는 개념이라고 이야기한다. 기본소득과 기후행동을 결합시킨 이 제안이 실현된다면 한국 사회가 화석연료 중독사회에서 벗어나 생태사회로 나아갈 수 있을 것이라 이야기하고, 녹색기본소득제도의 구체적 실현 방안과 그것이 가져올 긍정적 효과들을 상세히 설명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "루아크",
+                "DDC": "",
+                "UPDATE_DATE": "20190502",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강상구 지음",
+                "SERIES_TITLE": "",
+                "KDC": "338.181",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/09/9791188296286.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "CIP2019013791",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188296286",
+                "INPUT_DATE": "20190409",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "걷기만 하면 돼",
+                "PUBLISH_PREDATE": "20190501",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

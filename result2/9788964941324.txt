@@ -1,0 +1,67 @@
+{
+    "otitle": "브랜드 네이밍 백과사전",
+    "oauthor": "류동수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "브랜드 네이밍 백과사전 (최고경영자와 전문가를 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493295983",
+                "image": "https://shopping-phinf.pstatic.net/main_3249329/32493295983.20221019105927.jpg",
+                "author": "류동수",
+                "discount": "19010",
+                "publisher": "보누스",
+                "pubdate": "20140320",
+                "isbn": "9788964941324",
+                "description": "위대한 브랜드는 네이밍에서 탄생한다!\n\n브랜드 경쟁 시대에서 네이밍 전략은 첫 번째 과제이자 가장 중요한 전략이다. 어떤 이름으로 불리느냐에 따라 상품의 운명, 기업의 운명이 갈리기 때문이다. 처음 들어도 친근하게 귀에 감기고, 몇 번 들었는데도 오래 기억되고, 이름만으로도 구매욕을 자극할 수 있는 매력을 갖춘 이름을 찾아내는 것이 중요하다. 『브랜드 네이밍 백과사전』은 언어학자 류동수가 새로운 소리, 신선한 느낌을 찾는 이들을 위해 10개 외국어의 어휘 약 3,700개를 수록했다.\n\n이 책은 크게 자연, 생명, 개인, 사회로 나눠 4개의 영역을 정하고, 각 영역에는 큰 범주에 포함되는 작은 카테고리를 두고 있다. 우선 한국어 표제어에 대응하는 10개 언어, 즉, 영어, 독일어, 프랑스어, 이탈리아어, 스페인어, 라틴어, 러시아어, 그리스어, 일본어, 중국어를 한 번에 펼쳐 볼 수 있도록 구성하였다. 또한 큰 범주에 포함되는 작은 카테고리는 의미와 활용의 연관성에 역점을 두어 원하는 네이밍의 이미지에 맞는 어휘를 찾을 수 있도록 되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)보누스",
+                "DDC": "658.827",
+                "UPDATE_DATE": "20140415",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "류동수",
+                "SERIES_TITLE": "",
+                "KDC": "325.571",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20140320",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3350126_3.jpg",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3350126_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "22000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014005954",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964941324",
+                "INPUT_DATE": "20140220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "브랜드 네이밍 백과사전 : 최고 경영자와 전문가를 위한 ",
+                "PUBLISH_PREDATE": "20140320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

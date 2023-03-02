@@ -1,0 +1,67 @@
+{
+    "otitle": "처음 읽는 논어",
+    "oauthor": "공자 저/홍승직 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "처음 읽는 논어",
+                "link": "https://search.shopping.naver.com/book/catalog/32473517858",
+                "image": "https://shopping-phinf.pstatic.net/main_3247351/32473517858.20221019124726.jpg",
+                "author": "공자",
+                "discount": "12600",
+                "publisher": "행성B",
+                "pubdate": "20160711",
+                "isbn": "9788997132966",
+                "description": "《논어》, 처음이라면 이 책과 함께!\n\n동양고전은 어렵고 재미없다는 선입견을 가진 독자들을 위한 「고전 친숙하게 읽기 시리즈」 제1권 『처음 읽는 논어』. 제목 그대로 《논어》를 처음 접하는 독자들을 위한 책이다. 고전은 고루하고 예스럽다는 편견을 깨고, 현대적인 어투를 사용해 최대한 친근하게 읽을 수 있도록 했다. 한자어에 익숙하지 않은 젊은 세대들이 고리타분하고 복잡하게 느끼지 않게 하는 것에 중점을 두었다. 고전은 긴 시간이 흘러도 언제나 우리 삶에 중요한 메시지를 던져준다. 보다 멀리 인생을 바라보고 싶을 때, 삶에 위로와 통찰이 필요할 때, 이 책이 큰 용기와 지혜의 선물이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)행성비",
+                "DDC": "181.112",
+                "UPDATE_DATE": "20161020",
+                "EA_ADD_CODE": "04150",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "공자",
+                "SERIES_TITLE": "",
+                "KDC": "148.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5550739_6.txt",
+                "SET_ISBN": "9788997132959",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5550739_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "350페이지 내외",
+                "CONTROL_NO": "CIP2016015529",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997132966",
+                "INPUT_DATE": "20160622",
+                "SET_EXPRESSION": "(세트)",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "처음 읽는 논어",
+                "PUBLISH_PREDATE": "20160711",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04150 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

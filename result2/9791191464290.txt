@@ -1,0 +1,67 @@
+{
+    "otitle": "대체로 가난해서",
+    "oauthor": "윤준가 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "대체로 가난해서",
+                "link": "https://search.shopping.naver.com/book/catalog/32439702744",
+                "image": "https://shopping-phinf.pstatic.net/main_3243970/32439702744.20221229074447.jpg",
+                "author": "윤준가",
+                "discount": "12600",
+                "publisher": "미래의창",
+                "pubdate": "20210630",
+                "isbn": "9791191464290",
+                "description": "카카오 브런치, 제8회 브런치북 출판 프로젝트 대상 수상작\n\n에어컨 없이 무더위를 견디고 치과에 갔지만 치료를 망설이고\n카페에선 습관처럼 아메리카노를 시키는,\n익숙하다가도 낯설어지는 가난의 순간들에 대하여\n\n‘가난’이란 사실 그리 대단하고 엄청난 무언가가 아니라 현실 그 자체다. 에어컨 없이 여름을 나고, 치과에 가기가 망설여지고, 메뉴판을 빠르게 훑으며 가장 저렴한 메뉴를 찾고, 다음 달 생활비를 걱정하며 머릿속 계산기를 두드리는 순간들은 누군가에게 아주 자연스러운 일상인 동시에 불현듯 어깨를 짓누르는 삶의 무게다. 저자는 그런 순간들에 대한 자신의 이야기와 생각을 솔직하지만 부담스럽지 않게, 유쾌하지만 가볍지 않게 풀어낸다. \n\n물론 저자가 말하는 것들이 가난의 전부는 아니다. 세상에는 수없이 다양한 형태와 강도의 가난들이 존재하고 어떤 이들은 ‘가난하다’는 말로는 채 표현할 수 없을 만큼 힘든 상황에 놓여 있다. 하지만 우리가 서로를 이해하기 위해서는 각자의 가난에 관해 이야기 나눌 수 있어야 한다. 이 책은 서글픈 현실에 대한 하소연이나 불평이 아니다. 오늘을 기록하고 내일 더 나아가려는 몸부림이고 우리의 삶을 더 쓰고 말하자는 권유이며 우리의 위치를 숨기지 말자는 주장이다. 삶이 버거워 가슴속에서 무언가가 울컥 치밀어 오르는 어느 날, 이 책이 혼자가 아니란 위로와 다시 마음을 다잡을 힘이 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미래의창",
+                "DDC": "",
+                "UPDATE_DATE": "20210803",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윤준가 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191464290",
+                "INPUT_DATE": "20210608",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "대체로 가난해서",
+                "PUBLISH_PREDATE": "20210630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "디지털 경제를 쉽게 읽는 책",
+    "oauthor": "김효정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "디지털 경제를 쉽게 읽는 책 (IT 필수 지식 · 핫 키워드 33)",
+                "link": "https://search.shopping.naver.com/book/catalog/34221175633",
+                "image": "https://shopping-phinf.pstatic.net/main_3422117/34221175633.20221019115319.jpg",
+                "author": "김효정",
+                "discount": "12420",
+                "publisher": "갈라북스",
+                "pubdate": "20220901",
+                "isbn": "9791186518571",
+                "description": "IT 전문기자로 국내외 관련 산업 기술 시장을 오랜 기간 취재해 온 저자가 ‘핫’ 키워드 33개를 엄선해 디지털 경제 상식을 이해하기 쉽도록 설명한 책이다. 특히 빠르게 변화 발전하는 IT 트렌드의 핵심을 이해하고 관련 지식을 넓힐 수 있도록 흥미 있는 주제로 풀어내고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220906",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "지은이: 김효정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2023/01/9791186518571.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "225 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518571",
+                "INPUT_DATE": "20220808",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "디지털 경제를 쉽게 읽는 책",
+                "PUBLISH_PREDATE": "20220901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

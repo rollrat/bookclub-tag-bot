@@ -1,0 +1,67 @@
+{
+    "otitle": "바다로 퇴근하겠습니다",
+    "oauthor": "미아Mia 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바다로 퇴근하겠습니다 (좋아하는 것을 안다는 행운)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490758965",
+                "image": "https://shopping-phinf.pstatic.net/main_3249075/32490758965.20221227204426.jpg",
+                "author": "이미진",
+                "discount": "12600",
+                "publisher": "생각정원",
+                "pubdate": "20190514",
+                "isbn": "9791188388820",
+                "description": "‘행복’이라는 단어에 가두기엔 너무 경이로운\n카피라이터 미아의 춤추듯, 물 흐르듯, 파도 타는 일상\n\n《바다로 퇴근하겠습니다》는 나의 행복을 위해 기꺼이 불안하기로 결심한 카피라이터 미아가 좋아하는 것을 찾아다니며 넓힌 세계가 담겨 있다. 간절히 원했던 직업을 얻었을 때 찾아온 감정은 행복이 아니라 초조였다. 직장과 일상, 양쪽에서 생긴 균열은 결국 마음에 상처를 내고 말았다. 그리고 상처에서 배어나온 우울한 마음은 어느 때보다 절실하게 ‘좋아하는 것’을 찾도록 만들었다.\n미아가 찾아 쥔 것은 ‘서핑’이지만 이 책은 우울증을 앓던 직장인이 서핑을 만나 구원을 받는 드라마틱한 이야기는 아니다. 그는 이 책에서 좋아하는 것을 알기 위해 했던 시도들, 마침내 좋아하는 것을 알게 되었을 때의 설렘, 그리고 좋아하는 것을 계속 해나가며 조금씩 행복해진 과정을 솔직한 문장으로 써내려갔다.\n좋아하는 것으로 채워간 일상이라고 해서 불안과 괴로움이 없는 것은 아니었다. 하지만 암초에 긁히고 거친 물살에 휩쓸려 다쳐도 가끔 잡은 파도에서 손끝까지 짜릿한 희열을 얻을 수 있다면 그 삶은 얼마나 활기차고 생생한가. 저자 미아는 《바다로 퇴근하겠습니다》를 통해 진짜 좋아하는 것을 발견하고 빠져들면서 삶이 얼마나 반짝이게 되었는지 보여준다. 이 책은 일상에서 무료함과 무기력감을 느끼는 많은 독자들에게 시원한 바다 한줌을 선물해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정원",
+                "DDC": "",
+                "UPDATE_DATE": "20190530",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "미아 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/26/9791188388820.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "246 p.",
+                "CONTROL_NO": "CIP2019017006",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188388820",
+                "INPUT_DATE": "20190429",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "바다로 퇴근하겠습니다",
+                "PUBLISH_PREDATE": "20190514",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

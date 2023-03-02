@@ -1,0 +1,67 @@
+{
+    "otitle": "다정한 신뢰",
+    "oauthor": "김지훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다정한 신뢰",
+                "link": "https://search.shopping.naver.com/book/catalog/32474557693",
+                "image": "https://shopping-phinf.pstatic.net/main_3247455/32474557693.20221019110711.jpg",
+                "author": "김지훈",
+                "discount": "19800",
+                "publisher": "진심의꽃한송이",
+                "pubdate": "20210329",
+                "isbn": "9791196484293",
+                "description": "“김지훈 작가의 3년 6개월 만의 신간!”\n\n독자들이 애타게 기다린 김지훈 작가의 신간 『다정한 신뢰』가 드디어 출간이 되었다. 오랜 시간 동안 준비하고 있던 책을 잠시 내려놓고, 만약 작가님이 강연회를 하면 어떤 말을 하게 되었을까,를 주제로 다시 처음부터 책을 쓰기 시작했다고 한다. 수없이 많은 강연회 요청를 반려해야만 했던 것에 대한 죄송한 마음에 강연회를 대신하는 책을 내고 싶었다는 것이 그 이유라고 한다. 그래서 그간 김지훈 작가가 위로와 공감에 중점을 두고 책을 썼다면, 보다 더 깊이 나아가 치유와 해결에 중점을 두고 쓴 책이라고 한다. 해서 이 책 안에는 독자들을 잠깐 위로하는 것에 그치는 글들이 아니라, 안에서부터 완전히 회복되고 행복을 되찾을 수 있게 해주는 것, 바로 그 근본적인 해결이 담겨있을 것이다. 진정한 행복, 성공, 사랑, 그 모든 것들에 대한 지혜로운 해답이 궁금하다면 이 책을 추천한다. 지금 마음을 잃은 채 아파하고 주저하고 있는 모든 이들에게, 이 책을 당당하게 권한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "진심의꽃한송이",
+                "DDC": "",
+                "UPDATE_DATE": "20210526",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김지훈",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/10/9791196484293.jpg",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "665 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196484293",
+                "INPUT_DATE": "20210310",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "다정한 신뢰",
+                "PUBLISH_PREDATE": "20210329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

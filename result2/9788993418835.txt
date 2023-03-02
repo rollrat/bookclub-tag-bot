@@ -1,0 +1,67 @@
+{
+    "otitle": "리폼이 좋아",
+    "oauthor": "김문정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "리폼이 좋아: 재료비 0원-5,000원 (재료비 0원~5,000원)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506095054",
+                "image": "https://shopping-phinf.pstatic.net/main_3250609/32506095054.20221228074950.jpg",
+                "author": "김문정",
+                "discount": "13500",
+                "publisher": "포북(forbook)",
+                "pubdate": "20140730",
+                "isbn": "9788993418835",
+                "description": "슬리퍼, 목걸이 등 세 가지 실물본과 따라하기 쉬운 일러스트까지! \n재료비 0원에 도전! 10분 만에 뚝딱 바꿀 수 있는 참 쉬운 리폼 아이디어 \n\n아이들을 위한 디자이너가 되기: 물려 입혀도 멋지게! 유행 지난 디자인까지 커버하는 다양한 리폼 노하우 \n지금당장 이사 가고 싶은 마음 달래기: 집, 가구, 소품 리폼 노하우 \n주머니, 쿠션, 이불, 커튼, 소파커버링까지: 직선박기로 완성하는 홈 패브릭 만드는 노하우 \n\n블로그가 없던 시절부터 인터넷 사이트에서 알찬 리폼과 정갈한 솜씨의 패브릭 만들기를 선보여 살림 좀 한다하는 주부들의 사랑을 받았던 루나홈 주인장 김문정(www.lunahome.net). 그녀가 조금은 소박하고, 실속 있는 정보로 꽉 찬 리폼 책을 선보인다. 리폼이란 어떻게 보면 소소하고 자질구레한 부분이지만 매일매일 입는 것, 쓰는 것, 살아가는 공간까지 내 손을 거쳐 내게 더 편안한 스타일로 손본다는 것이 매력."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포북",
+                "DDC": "",
+                "UPDATE_DATE": "20141022",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김문정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993418835",
+                "INPUT_DATE": "20140708",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "리폼이 좋아",
+                "PUBLISH_PREDATE": "20140715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

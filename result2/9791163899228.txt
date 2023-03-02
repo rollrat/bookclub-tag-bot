@@ -1,0 +1,67 @@
+{
+    "otitle": "기도의 카르테",
+    "oauthor": "치넨 미키토 저/권남희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기도의 카르테",
+                "link": "https://search.shopping.naver.com/book/catalog/32455468093",
+                "image": "https://shopping-phinf.pstatic.net/main_3245546/32455468093.20220527022746.jpg",
+                "author": "치넨 미키토",
+                "discount": "12420",
+                "publisher": "소미미디어",
+                "pubdate": "20190822",
+                "isbn": "9791163899228",
+                "description": "환자가 숨기고 있는 사연, 그리고 ‘알아주길 바라는 마음’을 진단한다!\n마음을 치유하는 의사가 풀어내는 감동의 메디컬 미스터리\n\n의대를 졸업하고 대학병원에 배정되어 다양한 과에서 임상 수련 중인 레지던트 스와노 료타. \n그의 앞에 각양각색의 사연을 가진 환자들이 나타난다. 매달 수면제를 먹고 실려 오는 여성, 갑자기 예정된 수술을 거부하는 노인, 점점 더 커지는 기묘한 화상을 입은 어머니, 약을 먹었는데도 발작을 일으키는 소녀……. 한결같은 마음으로 그들을 돕기 위해 동분서주하는 스와노. 그가 밝혀낸 환자들의 사연은 과연 무엇일까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20191101",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "치넨 미키토 지음 ;권남희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163899228",
+                "INPUT_DATE": "20190723",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "기도의 카르테",
+                "PUBLISH_PREDATE": "20190915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

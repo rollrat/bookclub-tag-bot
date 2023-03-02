@@ -1,0 +1,67 @@
+{
+    "otitle": "도시락이 좋아",
+    "oauthor": "김수연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도시락이 좋아 (내 가족을 위한 건강 도시락)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436150958",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436150958.20221019150055.jpg",
+                "author": "민병조",
+                "discount": "10800",
+                "publisher": "포북(forbook)",
+                "pubdate": "20120510",
+                "isbn": "9788993418415",
+                "description": "엄마의 마음을 담은 특별한 건강 도시락!\n\n소중한 내 가족을 위한 건강 도시락 요리책 『도시락이 좋아』. 푸드스타일리스트로 활동하고 있는 저자가 도시락이 활성화된 일본에서 생활하면서 얻은 것들을 바탕으로 우리나라 실정에 맞는 도시락 문화를 제안한다. 식탁 위에 올려도 손색없는 메뉴에서부터 담기, 싸기, 밑반찬 등 도시락 관련 정보까지 한 권에 담았다. 쉽고 빠르게 준비하면서 영양도 챙기는 별미 메뉴들은 주말 별식으로 내놓아도 손색없는 레시피이다. 특히 냉장고 속 밑반찬으로 간단하게 만들 수 있는 롤과 미니 김밥 레시피도 알려준다. 각 메뉴에는 저자의 노하우를 덧붙였으며, 도시락 쌀 때 알아두면 유용한 조리법이나 싸기 노하우 등도 엿볼 수 있다. 다양한 소재와 모양의 도시락 용기, 용기 모양별 도시락 담기, 도시락 보자기와 주머니 등 도시락 싸기에 대한 소소한 고민까지 해결해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포북",
+                "DDC": "",
+                "UPDATE_DATE": "20120515",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김수연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993418415",
+                "INPUT_DATE": "20120421",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "도시락이 좋아 ",
+                "PUBLISH_PREDATE": "20120510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

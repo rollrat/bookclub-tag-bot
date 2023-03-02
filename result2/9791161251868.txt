@@ -1,0 +1,67 @@
+{
+    "otitle": "매일 스케치 공룡",
+    "oauthor": "연필이야기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "매일 스케치 공룡",
+                "link": "https://search.shopping.naver.com/book/catalog/32492505205",
+                "image": "https://shopping-phinf.pstatic.net/main_3249250/32492505205.20221019124744.jpg",
+                "author": "연필이야기",
+                "discount": "6120",
+                "publisher": "마이북",
+                "pubdate": "20190401",
+                "isbn": "9791161251868",
+                "description": "연필과 펜 하나로 완성되는 나만의 취미 클래스\n초보자를 위한 화실 선생님의 \n\n은 드로잉의 기본 도구인 연필과 펜으로 쉽게 따라 그릴 수 있는 70여 종의 공룡 모습을 담은 드로잉 책이다. 어린 시절 한 번쯤 호기심을 가져 보았음직한 공룡의 다양한 모습과 그들의 이름 어원, 생김새, 특징 등을 가득 담았다. 6500만 전 년 전 사라진 그들의 모습을 그리면서 다른 동물 그리기와는 또 다른 재미를 느낄 수 있으며, 여러 형태와 선을 연습할 수 있는 충실한 드로잉 연습장이 되어 줄 것이다.  \n이 책은 저자인 연필이야기가 운영하는 에서 수강생들과 함께 연습했던 ‘공룡 스케치’ 드로잉 노하우를 모아 만들어 초보자들이 따라 그리기에 알맞게 구성되어 있다. 아울러 페이지마다 수록된 짧은 코멘트는 마치 화실 선생님이 뒤에 서서 이야기해 주듯, 드로잉할 때 꼭 필요하지만 자꾸만 놓치는 포인트를 디테일하게 잡아 준다. \n지금 당신 옆에 연필과 종이 한 장 있다면, 당장 그곳을 나만의 취미 클래스 반으로 만들기 바란다. 과 함께라면 가능하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마이북",
+                "DDC": "",
+                "UPDATE_DATE": "20190417",
+                "EA_ADD_CODE": "14650",
+                "PUBLISHER_URL": "http://www.thedifference.co.kr",
+                "AUTHOR": "글·그림: 연필이야기",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791161251011",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "6800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[162] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161251868",
+                "INPUT_DATE": "20190318",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "매일 스케치 공룡 ",
+                "PUBLISH_PREDATE": "20190401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14650 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

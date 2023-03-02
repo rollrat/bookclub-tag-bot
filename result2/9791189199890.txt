@@ -1,0 +1,67 @@
+{
+    "otitle": "오븐 없이 프라이팬으로 만드는 뜯어먹는 빵",
+    "oauthor": "타카야마 카즈에 저/임지인 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오븐 없이 프라이팬으로 만드는 뜯어먹는 빵",
+                "link": "https://search.shopping.naver.com/book/catalog/32465739356",
+                "image": "https://shopping-phinf.pstatic.net/main_3246573/32465739356.20221228072901.jpg",
+                "author": "타카야마 카즈에",
+                "discount": "8100",
+                "publisher": "시그마북스",
+                "pubdate": "20190610",
+                "isbn": "9791189199890",
+                "description": "발효도, 굽기도,\n프라이팬 하나로 전부 다 한다!\n\n오븐도 틀도 필요 없다. 발효도 굽기도 프라이팬 하나만 있으면 OK! 보통 발효빵을 만드는 데 두세 시간이 걸린다. 하지만 이 책의 레시피를 따라 하면 시간을 거의 절반 가까이 단축할 수 있다. 반죽에서 완성까지 약 70분 정도면 충분하다. 초보여도 실패하지 않고 맛있게 만들 수 있게끔 반죽 배합과 공정을 철저하게 연구해, 세상에서 가장 만들기 쉬운 특제 레시피를 담았다. 이 책으로 갓 구운 빵을 언제든지 집에서 즐길 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190919",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "타카야마 카즈에 지음 ;임지인 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "594.71",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "66 p.",
+                "CONTROL_NO": "CIP2019018401",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189199890",
+                "INPUT_DATE": "20190509",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(오븐 없이 프라이팬으로 만드는) 뜯어먹는 빵",
+                "PUBLISH_PREDATE": "20190610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

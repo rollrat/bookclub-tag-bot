@@ -1,0 +1,67 @@
+{
+    "otitle": "비잔티움 제국 최후의 날",
+    "oauthor": "로저 크롤리 저/이재황 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비잔티움 제국 최후의 날",
+                "link": "https://search.shopping.naver.com/book/catalog/32484552455",
+                "image": "https://shopping-phinf.pstatic.net/main_3248455/32484552455.20230117164813.jpg",
+                "author": "로저 크롤리",
+                "discount": "20700",
+                "publisher": "산처럼",
+                "pubdate": "20150805",
+                "isbn": "9788990062598",
+                "description": "박진감 넘치게 그려낸 비잔티움 제국 최후의 날\n\n『비잔티움 제국 최후의 날』은 2009년 미국의 외교전문지 《포린폴리시》가 선정한 ‘세계 100대 글로벌 사상가’ 중에 한 명인 영국의 역사가 로저 크롤리가 자신의 대표 도서로 추천한 책이다. 1453년 콘스탄티노플의 함락을 주제로 한 역사책들 중에서 당시의 상황을 가장 세밀하게 그려내며, 과학적으로 접근하여 균형 있는 시각을 제공하고 있다. \n\n600개에 가까운 주석은 모두 이런 ‘현장의 육성’을 그대로 전한 흔적이다. 단순히 사실만 나열한 것이 아니라 난공불락이던 테오도시우스 삼중 성벽이 무너진 원인을 과학기술의 발전에서 찾고, 당시 사회에서 불길한 징조로 여겨졌던 여러 가지 이상한 기상 현상들의 원인을 지구 반대편에서 일어난 대규모 화산 폭발에서 찾는 등 분석도 곁들여 읽는 재미를 더해 준다. 콘스탄티노플 함락의 전모가 가장 알차게 정리된 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산처럼",
+                "DDC": "",
+                "UPDATE_DATE": "20150817",
+                "EA_ADD_CODE": "03920",
+                "PUBLISHER_URL": "https://www.sanbooks.com",
+                "AUTHOR": "로저 크롤리 지음 ;이재황 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990062598",
+                "INPUT_DATE": "20150817",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "비잔티움 제국 최후의 날 ",
+                "PUBLISH_PREDATE": "20150805",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

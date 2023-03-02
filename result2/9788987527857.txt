@@ -1,0 +1,67 @@
+{
+    "otitle": "생명과학, 바이오테크로 날개 달다",
+    "oauthor": "김응빈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "생명과학, 바이오테크로 날개 달다",
+                "link": "https://search.shopping.naver.com/book/catalog/32473966903",
+                "image": "https://shopping-phinf.pstatic.net/main_3247396/32473966903.20221019142011.jpg",
+                "author": "김응빈",
+                "discount": "15120",
+                "publisher": "한국문학사",
+                "pubdate": "20210219",
+                "isbn": "9788987527857",
+                "description": "포스트 코로나 시대를 준비하는 생명과학\n융합의 중심에서 바이오테크로 비상하다!\n\n인문학과 경제학·건축·수학·의학·과학·통계학·화학의 만남에 이어, 생명과학과 다른 학문과의 만남을 다룬 ‘융합과 통섭의 지식 콘서트’ 시리즈 제8권 『생명과학, 바이오테크로 날개 달다』가 출간된다. \n포스트 코로나 시대의 인류는 분명 과거와는 다른 삶을 살게 될 것이다. 무엇보다 생명에 대한 관심과 인식이 좀 더 진지해질 것이다. 코로나19 사태 자체는 생태계 흐름을 거스르는 인간의 욕망이 발생시킨 참극이지만, 그것을 수습하고 다시 인류의 삶을 건강하고 행복하게 지키는 것 역시 인간만이 가진 과학적 무기, 즉 생명과학의 몫이다. \n〈융합과 통섭의 지식 콘서트〉 제8권은 시의성 강한 주제로, 현재 우리 모두의 관심사로 떠오른 생명과학을 다룬다. 바이러스란 무엇인지, 인간과 자연의 관계가 어떠한 것인지, 그리고 모든 학문 간 융합의 선두주자로 떠오른 생명과학, 그 생명 현상에 대한 모든 궁금증이 한 편의 드라마처럼 흥미진진하게 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국문학사",
+                "DDC": "",
+                "UPDATE_DATE": "20210318",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김응빈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/01/20/9788987527857.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "414 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788987527857",
+                "INPUT_DATE": "20210120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "생명과학, 바이오테크로 날개 달다",
+                "PUBLISH_PREDATE": "20210219",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

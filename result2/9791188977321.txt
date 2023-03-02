@@ -1,0 +1,67 @@
+{
+    "otitle": "슈퍼 네트워커",
+    "oauthor": "곽미송 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "슈퍼 네트워커 (네트워크 사업 제대로 알아보기, 시작하기, 해내기!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466694784",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466694784.20221019141711.jpg",
+                "author": "곽미송",
+                "discount": "13320",
+                "publisher": "슬로디미디어",
+                "pubdate": "20190810",
+                "isbn": "9791188977321",
+                "description": "4차 산업혁명 시대에 네트워크 사업의 변화를 주목하라! \n업계 상위 1% 네트워커의 공개되지 않는 사업 비밀!\n네트워크 마케팅을 긍정적으로 보여주는 책!\n\n네트워크 마케팅 사업 안에서 인생의 자유를 누리는 것은 정말 멋진 일이다. 온라인 네트워크 마케팅 사업 안에서 나는 절 대 가난해질 수 없는 환경에서 살고 있는 것이다. 어찌 보면 내가 이 책을 쓰는 이유는 나와 같은 꿈을 꾸는 사람들을 위해서이다. 너무 하기 싫은 일들을 억지로 하나씩 익혀나가며 거절의 상처를 받았던 그때의 나와 같은 누군가를 위한 책이다. 또한 매일 해야 할 일이 무엇인지 몰라 하루를 힘들게 살았던 그때의 나와 같은 당신을 위한 책이다. 그리고 이제 막 시작한 네트워크 마케팅의 새로운 세상에 흥분한 당신을 위한 책이기도 하며 지금의 나처럼 디지털 노마드를 꿈꾸는 네트워커를 꿈꾸는 누군가를 위한 책이기도 하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어 :슬로미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20200416",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "곽미송 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.553",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/02/9791188977321.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "254 p.",
+                "CONTROL_NO": "CIP2019030331",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188977321",
+                "INPUT_DATE": "20190802",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "슈퍼 네트워커",
+                "PUBLISH_PREDATE": "20190810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "연중무휴의 사랑",
+    "oauthor": "임지은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "연중무휴의 사랑 (나와 당신을 감싼 여러 겹의 흔적들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487182656",
+                "image": "https://shopping-phinf.pstatic.net/main_3248718/32487182656.20221019152624.jpg",
+                "author": "임지은",
+                "discount": "12960",
+                "publisher": "사이드웨이",
+                "pubdate": "20210226",
+                "isbn": "9791197320439",
+                "description": "나는 언제나 누군가에게 반하면서 시야를 넓혔고 그래야만 성숙해질 수 있는 유類의 인간이니까\n\n『연중무휴의 사랑』은 1990년생 백말띠 여성 임지은의 산문집이다. 그가 여기에 쓴 33편의 글엔 냉철하면서도 따뜻한 연민이 배어있고, 그 톤은 서늘한 동시에 유쾌하다. 무엇보다도, 터무니없을 만큼 솔직하다. 이 산문집은 어느 딸의 책이며, 어느 장녀의 책이다. 누군가의 언니가 쓴 책이자, 누군가의 연인이 쓴 책이다. 그리고 어느 페미니스트의 책이다. 페미니즘의 언어가 식당에서 새벽까지 일하는 엄마를 와락 껴안아줄 수 있길 바라는, 페미니스트의 책이다. 때때로 엄마가 여성의 편을 들지 않더라도, 그녀를 끊임없이 기다려주고 같이 몸 부딪치며 걸어가려는 페미니스트의 책이다. \n\n임지은은 이 기울어진 남성중심사회에 만연한 개수작들을 밝히며 통렬하게 분노한다. 그는 이 사회에서 여성으로 살아가는 게 얼마나 곤죽이 되기 쉬운 일이었는지를 낱낱이 복기한다. 동시에 그는 거기 살아오며 직면했던 마음속 복잡함과 들쭉날쭉함, 자기 경험의 얼룩진 흔적들도 외면하지 않는다. 그는 자신의 흔적들이 지닌 엉성함과 모호함을 숨기지 않고 모조리 기록해두었다. 지긋지긋한 가난, 부모의 이혼이 남긴 상처, 아름다움에의 탐닉, 남자들과의 관계, 섹스와 결혼과 임신에 관한 고뇌, 내면의 은밀한 상승 욕구, 그리고 그 모든 걸 뛰어넘은 우정과 연대의 가치에 관해 생각하고 또 생각한다. 『연중무휴의 사랑』은 바로 그 길고 긴 성찰의 기록이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Sideways(사이드웨이)",
+                "DDC": "",
+                "UPDATE_DATE": "20210401",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 임지은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*214",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "250 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197320439",
+                "INPUT_DATE": "20210216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "연중무휴의 사랑",
+                "PUBLISH_PREDATE": "20210226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "칵테일탐구생활",
+    "oauthor": "김호 저/정인성 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "칵테일탐구생활",
+                "link": "https://search.shopping.naver.com/book/catalog/32456019650",
+                "image": "https://shopping-phinf.pstatic.net/main_3245601/32456019650.20230110163215.jpg",
+                "author": "김호",
+                "discount": "15120",
+                "publisher": "21세기북스",
+                "pubdate": "20201214",
+                "isbn": "9788950992651",
+                "description": "알고 마시면 더 흥미진진한 칵테일의 세계\n스타일, 재료, 제조 방식, 홈 칵테일 레시피까지 한눈에!\n\n눈을 즐겁게 해주는 알록달록하고 선명한 색감, 다종다양한 리큐르의 화려한 라벨, 마시기 전부터 가슴을 두근거리게 하는 유려한 곡선의 잔과 장식의 아름다움까지. 예쁜 외관과 다양한 맛으로 사랑받는 술, 칵테일은 많이 알려진 것에 비해 쉽게 마실 수 있는 술이 아니다. 집에서 마시려면 필요한 도구와 알아야 하는 재료가 많기 때문이다.\n『칵테일탐구생활』은 초보자도 칵테일을 맛있게 즐길 수 있도록 칵테일의 기본이 되는 술부터 그것을 활용하는 방법까지 다양한 정보를 일러스트와 함께 소개한다. 제조 도구와 기법, 홈 칵테일 레시피 등 집에서 직접 칵테일을 만들 수 있는 방법도 담았다. 이 책을 통해 익숙했던 칵테일의 새로운 얼굴을 마주하는 재미를 발견할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20210218",
+                "EA_ADD_CODE": "14590",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "글과 그림; 김호",
+                "SERIES_TITLE": "맥주 칵테일 탐구생활세트 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788950992675",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "137*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950992651",
+                "INPUT_DATE": "20201207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "칵테일탐구생활",
+                "PUBLISH_PREDATE": "20201214",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14590 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "유럽 문화사 3",
+    "oauthor": "도널드 서순 저/오숙은,이은진,정영목,한경희 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:01 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "유럽 문화사 3: 혁명 1880~1920 (제3부 혁명 1880~1920)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466668473",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466668473.20230117164900.jpg",
+                "author": "도널드 서순",
+                "discount": "25200",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20120731",
+                "isbn": "9788964620212",
+                "description": "200년 동안 유럽인들이 소비해온 문화형식을 폭넓게 조망하다!\n\n『도널드 서순의 유럽 문화사』제3권《혁명(1880~1920)》. 1800년에서 2000년까지 유럽인들이 시간을 즐겁게 보내기 위해 생산하고 유통하고 소비해온 문화형식을 총망라한 책이다. 문화 산물의 가치와 의의를 평가하고 전통적인 고급·저급문화 구분을 강조하는 대신 ‘문화시장의 팽창’이라는 관점에서 ‘상품으로서의 문화’를 이야기하였다. 특히 부유층과 엘리트층이 사치스럽게 즐긴 고급문화뿐만 아니라 싸구려 책, 공포소설, 범죄소설, 연애소설, 풍자화, 만화 등 까막눈 하층민의 고된 삶을 위로해준 저급문화도 범위에 포함하여 당대의 관점에서 균형 있게 서술하였다. 제3권에서는 영국과 프랑스에서 신문과 정기간행물이 대중시장에 나타나고 연재만화와 범죄소설과 같은 새로운 장르가 인기를 끌며, 축음기가 발명되어 음악의 소비와 생산을 완전히 바꾸어 놓는 등 문화의 확산에서 혁명을 일으킨 발전에 초점을 맞추었다."
+            },
+            {
+                "title": "근대문화사 3 (흑사병에서 1차 세계대전에 이르기까지 유럽 영혼이 직면한 위기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466654494",
+                "image": "https://shopping-phinf.pstatic.net/main_3246665/32466654494.20221019114846.jpg",
+                "author": "에곤 프리델",
+                "discount": "24700",
+                "publisher": "한국문화사",
+                "pubdate": "20150720",
+                "isbn": "9788968172472",
+                "description": "600여 년간 서구인이 겪은 문화적 부침의 역사를 섬세한 예술적·철학적 문화프리즘으로 그려낸 『근대문화사』 제3권. 예술과 종교, 정치와 혁명, 과학과 기술, 전쟁과 억압 등속의 거시적 문화 조류뿐만 아니라 음식·놀이·문학·철학·음악·춤·미술·의상·가발 등과 같은 미시적인 일상생활의 문화 조류도 포함된다. 에곤 프리델은 이 책에서 근대를 규정하는 수세기에 걸친 다양한 조류를 추적하며, 가장 중대한 정신적·정치적·사회적 발전 면모를 설명하면서 그때마다 결정적인 인물들을 뚜렷한 초상으로 그려낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "940",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "04920",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "도널드 서순 지음 / 오숙은, 이은진, 정영목, 한경희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "920",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2565374_6.txt",
+                "SET_ISBN": "9788964620182",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2565374_3.jpg",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012003136",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964620212",
+                "INPUT_DATE": "20120706",
+                "SET_EXPRESSION": "",
+                "VOL": "3",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "유럽 문화사 Ⅲ ",
+                "PUBLISH_PREDATE": "20120716",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04920 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

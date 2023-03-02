@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘 조금 더 비건",
+    "oauthor": "초식마녀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘 조금 더 비건 (초식마녀의 쉽고 맛있는 네 컷 비건 요리 만화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485082752",
+                "image": "https://shopping-phinf.pstatic.net/main_3248508/32485082752.20221019150426.jpg",
+                "author": "초식마녀",
+                "discount": "13050",
+                "publisher": "채륜서",
+                "pubdate": "20200430",
+                "isbn": "9791185401478",
+                "description": "가볍고 유쾌한 비건 요리 에세이 만화\n\n작가 초식마녀는 채식하는 일반 직장인으로 집에서 만들어 먹은 비건 요리를 네 컷 만화로 그렸다. 차곡차곡 쌓인 기록들이 쉽고 맛있는 비건 레시피로 입소문이 나면서 큰 인기를 얻었다. 이제 대표적인 비건 유튜버로 꼽히는 그녀의 인스타그램 속 비건 레시피와 일상을 세 끼 식단으로 총정리하여 이 책에 담았다. 지금까지 공개하지 않고 책에서 가장 먼저 만날 수 있는 비밀 요리도 함께 구성했다. 네 컷으로 끝나는 단순한 요리법에 맛 표현까지 담아 ‘이건 꼭 만들어봐야지!’라는 생각이 마구 드는 에세이 만화다. \n아침에는 고구마밥, 점심에는 표고버섯에 애호박을 넣은 잔치국수, 저녁에는 들깻가루 푼 뜨끈한 미역국으로 상황에 따라 펼쳐지는 삼시 세끼 비건 이야기다. 비건 도시락 메뉴는 물론이고 스페셜 요리에 달달한 간식까지 빼놓지 않는다. 책의 끝에는 QnA로 그간 받았던 질문과 비건을 시작하게 된 계기, 비건을 알렸을 때 주변의 반응, 자주 쓰는 제품까지 알뜰하게 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "채륜서",
+                "DDC": "",
+                "UPDATE_DATE": "20201026",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.chaeryun.com",
+                "AUTHOR": "찍고 쓰고 그린이: 초식마녀",
+                "SERIES_TITLE": "",
+                "KDC": "594.677",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "283 p.",
+                "CONTROL_NO": "CIP2020013017",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185401478",
+                "INPUT_DATE": "20200327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘 조금 더 비건",
+                "PUBLISH_PREDATE": "20200430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

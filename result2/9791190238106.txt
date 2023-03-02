@@ -1,0 +1,78 @@
+{
+    "otitle": "멀티팩터",
+    "oauthor": "김영준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:43 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "멀티팩터 (노력으로 성공했다는 거짓말)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462860051",
+                "image": "https://shopping-phinf.pstatic.net/main_3246286/32462860051.20221019141712.jpg",
+                "author": "김영준",
+                "discount": "15120",
+                "publisher": "스마트북스",
+                "pubdate": "20200210",
+                "isbn": "9791190238106",
+                "description": "프리츠 커피 컴퍼니에서 무신사까지, 요즘 핫한 기업의 알려진 성공요인 뒤엔 뭐가 있을까?\n\n‘‘30대 초반 평범한 주부의 340억 대박 신화(공차)’, ‘해직기자가 막걸리 집으로 거둔 대박 신화(월향)’, ‘마포구 도화동 빌딩숲 사이의 단독주택 카페 신화(프리츠 커피 컴퍼니)’, ‘억대 연봉을 버리고 불편을 사업 기회로 만든 30대 초반 맞벌이주부의 신화(마켓컬리)’, ‘재능이 시대를 만났을 때 벌어지는 일(스타일난다)’, ‘남고생이 무지하게 신발 사진 많은 커뮤니티에서 시작한 신화(무신사)’ 등, 요즘 핫한 기업들의 알려진 성공 요인은 과연 진짜 핵심 성공 요인일까? \n\n『골목의 전쟁』의 저자 김영준은 『멀티팩터-노력으로 성공했다는 거짓말』 책을 통해 성공에 대해 잘못 알려진 우리의 통념을 재점검하고, 프리츠 커피 컴퍼니에서 무신사까지, 요즘 핫한 국내 기업의 알려진 성공 요인 뒤에 어떤 맥락이 있는지, 그들이 성공의 멀티팩터(Multi Factor)를 어떻게 획득하고 연결하며 활용하고 통제했는지를 보여준다."
+            },
+            {
+                "title": "3차원 영상과 인간과학 (3D 휴먼팩터를 중심으로)",
+                "link": "https://search.shopping.naver.com/book/catalog/33436184633",
+                "image": "https://shopping-phinf.pstatic.net/main_3343618/33436184633.20221228073339.jpg",
+                "author": "모토끼 토시오^야노 수미오",
+                "discount": "16150",
+                "publisher": "진샘미디어",
+                "pubdate": "20100715",
+                "isbn": "9788992887144",
+                "description": "3D 휴먼팩터를 중심으로 살펴본 『3차원 영상과 인간과학』. 사람에게 부드러운 3차원 디스플레이 시스템의 소요 조건을 명확하게 하는 교재. 최근 디지털 기술의 발전에 따른 차세대 영상 시스템의 유력한 후보로서 3차원 영상 시스템이 주목되어 이미 여러 산업분야에서 이용되기 시작하고 있지만 3차원 영상이 인간에 미치는 영향에 대해서는 알려지지 않은 부분이 많다. 이 책은 안과학, 생리학, 영상공학 등 넓은 분야의 연구자가 협력하여, 3차원 영상 표지에 따른 시각 피로나 인체에 미치는 영향 등을 다각적으로 해설하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스마트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200217",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.smartbooks21.com",
+                "AUTHOR": "김영준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "344 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190238106",
+                "INPUT_DATE": "20200116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "멀티팩터",
+                "PUBLISH_PREDATE": "20200210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

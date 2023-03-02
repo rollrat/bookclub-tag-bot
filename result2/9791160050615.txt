@@ -1,0 +1,67 @@
+{
+    "otitle": "공부는 어떻게 내 삶을 바꾸었나",
+    "oauthor": "이종훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공부는 어떻게 내 삶을 바꾸었나 (전교 꼴찌, 판사 되다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441658891",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441658891.20221227205326.jpg",
+                "author": "이종훈",
+                "discount": "12600",
+                "publisher": "북카라반",
+                "pubdate": "20190222",
+                "isbn": "9791160050615",
+                "description": "야구밖에 모르던 고등학생이 판사가 되기까지\n9회 말 역전 공부법을 공개하다!\n\n고교 2학년 말 성적, 전교 755명 중 750등 야구 포기생\n제51회 사법시험 합격에 이어 판사로 변신하기까지 \n이종훈 씨의 인생 역전 휴먼 스토리\n야구에는 중간이 없다. 능력을 인정받아서 대학에 진학하거나 프로야구 선수가 되는 것. 오직 그것뿐이다. 반면에 공부는 선천적인 요소보다 후천적인 노력이 더 많은 영향을 끼친다. ‘타고난 꼴찌’는 없다는 말이다. 무언가 엄청나고 대단한 노력이 있어야만 하는 것도 아니다. 그러므로 ‘공부 못하는 학생들’도 최소한의 성실성을 갖추고 노력을 기울일 수 있다면 충분히 삶을 바꿀 공부를 해낼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북카라반",
+                "DDC": "",
+                "UPDATE_DATE": "20190314",
+                "EA_ADD_CODE": "13370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이종훈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "373.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/15/9791160050615.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2019005663",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160050615",
+                "INPUT_DATE": "20190215",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "공부는 어떻게 내 삶을 바꾸었나",
+                "PUBLISH_PREDATE": "20190222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

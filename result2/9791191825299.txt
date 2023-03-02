@@ -1,0 +1,67 @@
+{
+    "otitle": "365일 모든 순간의 미술",
+    "oauthor": "김영숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "365일 모든 순간의 미술",
+                "link": "https://search.shopping.naver.com/book/catalog/32483321726",
+                "image": "https://shopping-phinf.pstatic.net/main_3248332/32483321726.20230214164100.jpg",
+                "author": "김영숙",
+                "discount": "19800",
+                "publisher": "빅피시",
+                "pubdate": "20220228",
+                "isbn": "9791191825299",
+                "description": "매일 새로운 아름다움을 발견하는 \n나를 위한 단 한 권의 미술관\n\n예술 분야 스테디셀러 『1페이지 미술 365』의 김영숙 작가가 매일 아름다운 것을 발견하며 수집한 365편의 눈부신 명화를 소개한다. \n작가는 219명의 예술가가 탄생시킨 명화를 요일마다 7가지 테마로 나누어 보여주며 독자들의 삶에 생기를 부여한다. 월요일에는 하루를 기분 좋게 시작하는 그림, 목요일에는 잠시 휴식을 선물하는 명화, 금·토요일에는 설렘과 영감을 불러일으키는 회화를 감상하다 보면 프랑스, 영국, 미국, 독일, 이탈리아 등 총 25개국 125곳의 미술관을 둘러볼 수 있다. \n명쾌하면서도 여운이 남는 해설, 좋은 작품을 더 생생하게 감상할 수 있는 선명한 인쇄, 들춰보기만 해도 기분이 좋아지는 그림이 모여 만들어진 평생 간직하고 싶은 ‘단 한 권의 미술관’. 『365일 모든 순간의 미술』은 일상에 환기가 필요한 나에게, 소중한 사람들에게 매일 아름다움을 선물할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빅피시",
+                "DDC": "",
+                "UPDATE_DATE": "20220426",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김영숙 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "415 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191825299",
+                "INPUT_DATE": "20220127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "365일 모든 순간의 미술",
+                "PUBLISH_PREDATE": "20220228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

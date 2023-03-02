@@ -1,0 +1,67 @@
+{
+    "otitle": "나만 알고 싶은 완벽한 기억법",
+    "oauthor": "도미니크 오브라이언 저/김성준 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나만 알고 싶은 완벽한 기억법 (반복도 필기도 필요 없는 기억력 트레이닝)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466492723",
+                "image": "https://shopping-phinf.pstatic.net/main_3246649/32466492723.20221019145029.jpg",
+                "author": "도미니크 오브라이언",
+                "discount": "13050",
+                "publisher": "팬덤북스",
+                "pubdate": "20210930",
+                "isbn": "9791161691800",
+                "description": "“tvN 〈문제적 남자〉 뇌섹남들을 사로잡은 \n세계 기억력 챔피언십 8회 우승자 \n도미니크 오브라이언의 책!”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211018",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "도미니크 오브라이언 지음 ;김성준 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "281 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161691800",
+                "INPUT_DATE": "20210903",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(나만 알고 싶은) 완벽한 기억법",
+                "PUBLISH_PREDATE": "20210930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "세계문화여행 덴마크",
+    "oauthor": "마크 살몬 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계 문화 여행 : 덴마크 (세계의 풍습과 문화가 궁금한 이들을 위한 필수 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492749522",
+                "image": "https://shopping-phinf.pstatic.net/main_3249274/32492749522.20221228074423.jpg",
+                "author": "마크 살몬",
+                "discount": "10350",
+                "publisher": "시그마북스",
+                "pubdate": "20200210",
+                "isbn": "9791190257220",
+                "description": "진짜 덴마크를 찾아가는 친절한 가이드\n\n‘덴마크’ 하면 흔히 뿔 달린 투구를 쓰고 유럽 전역을 약탈하던 바이킹족을 떠올릴 것이다. 혹은 칼스버그 맥주나 안데르센의 동화가 생각날 수도 있다. 이 책의 미덕은 차갑고 말수 적은 스칸디나비아인답게 덴마크 사람 역시 무뚝뚝할 거라는 고정관념에서 벗어나 유능하고 부지런하며, 솔직한 매력의 덴마크 친구를 만나게 되는 것이다. 작가의 현실감 넘치는 조언들을 통해 외국인으로서 마주치게 될 크고 작은 문제들을 극복하고, 덴마크 사람들을 보다 깊이 알고 이해하게 되기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200313",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "마크 살몬 지음 ;허보미 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "309.1237",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788984459113",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "205 p.",
+                "CONTROL_NO": "CIP2020001383",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257220",
+                "INPUT_DATE": "20200109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "덴마크",
+                "PUBLISH_PREDATE": "20200210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

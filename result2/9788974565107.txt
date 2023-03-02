@@ -1,0 +1,67 @@
+{
+    "otitle": "꿈꾸는 고양이, 푸푸",
+    "oauthor": "이동파 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "꿈꾸는 고양이 푸푸",
+                "link": "https://search.shopping.naver.com/book/catalog/32492067725",
+                "image": "https://shopping-phinf.pstatic.net/main_3249206/32492067725.20221231084206.jpg",
+                "author": "이동파",
+                "discount": "10800",
+                "publisher": "메가트렌드",
+                "pubdate": "20180305",
+                "isbn": "9788974565107",
+                "description": "은빛 물고기 떼를 꿈꾸는 고양이 푸푸의 파란만장 인생 여행기!\n\n꿈을 잃지 않고 있다는 것은 그만큼 자신의 삶을 사랑하고 있다는 뜻이다. 한 시골의 조용한 바닷가 마을. 할머니 혼자 살아가는 집에서 천덕꾸러기 같은 대접을 받던 고양이 푸푸는 빈곤하고 열악한 환경 속에서도 꿈을 꾸는 것을 멈추지 않는다. 바다 한가운데서 은빛 물고기 떼를 만나는 꿈. 그 꿈을 이루기 위해 푸푸는 실제로 고기잡이배에 몰래 타게 되고, 그로부터 빚어지는 숱한 우여곡절을 겪게 되는데…….\n\n삶에 대한 고민이 가득할 때 고양이 푸푸가 태어났다\n\n20대는 어떻게 살 것인가? 하는 삶에 대한 고민이 가득한 때이다. 에너지가 가장 충만한 그 시기, 누구든 같은 고민을 하고 살았을 것이며 또 고민을 했을 것이다. 그 시절 고민의 동행을 위해 고양이 푸푸가 태어났다. 그런데 놀랍게도 그 고양이가 2018년 올해 21살의 20대가 되었다. \n\n세상은 늘 질문하는 사람에게 분명 그 답을 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메가트렌드",
+                "DDC": "",
+                "UPDATE_DATE": "20180509",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이동파 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "143*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "220 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788974565107",
+                "INPUT_DATE": "20180212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "꿈꾸는 고양이, 푸푸",
+                "PUBLISH_PREDATE": "20180310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "교양으로 읽는 서유기",
+    "oauthor": "오승은 저/장순필 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "교양으로 읽는 서유기 (중생 구제를 위해 떠나는 기상천외한 여행기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444965637",
+                "image": "https://shopping-phinf.pstatic.net/main_3244496/32444965637.20221019135649.jpg",
+                "author": "오승은",
+                "discount": "13500",
+                "publisher": "탐나는책",
+                "pubdate": "20210830",
+                "isbn": "9791189550509",
+                "description": "수많은 문학적 상상력의 원천이 된 신마소설神魔小說의 정수!\n\n서유西遊, 서천으로의 모험을 담아낸 『서유기』는 삼장법사 현장이 황제의 칙명으로 제자들과 함께 천축국(지금의 인도)에 가서 중생을 구제할 불경佛經을 구해오는, 취경取經의 과정을 그린 것이다.\n삼장법사와 손오공, 저팔계와 사오정은 불경을 가져오는 여정에서 여든한 가지 어려운 난관을 만나지만 마침내 모든 난관을 극복하고 경전을 얻어 당나라에 전해 준 그 공적으로 부처가 된다. \n신선이나 부처, 마귀, 요괴 등 기이한 존재들이 출현하는 ‘신마소설神魔小說’의 정수이니만큼 『서유기』는 동양적 판타지의 지극한 즐거움을 선사하면서도 절대적인 선과 악이란 없으며, 시공간을 초월한 인간의 본성과 욕망에 대해 성찰하게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "탐나는책",
+                "DDC": "",
+                "UPDATE_DATE": "20220113",
+                "EA_ADD_CODE": "03150",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오승은 지음 ;장순필 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/03/9791189550509.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*213",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "556 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189550509",
+                "INPUT_DATE": "20210803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(교양으로 읽는) 서유기",
+                "PUBLISH_PREDATE": "20210830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

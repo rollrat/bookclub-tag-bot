@@ -1,0 +1,67 @@
+{
+    "otitle": "퇴근 말고 퇴사가 하고 싶다",
+    "oauthor": "윤정은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "퇴근 말고 퇴사가 하고 싶다 (직장인 일과 삶의 균형 잡기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436443205",
+                "image": "https://shopping-phinf.pstatic.net/main_3243644/32436443205.20221019151452.jpg",
+                "author": "윤정은",
+                "discount": "12600",
+                "publisher": "비전코리아",
+                "pubdate": "20180615",
+                "isbn": "9788963221335",
+                "description": "과중한 업무와 보기 싫은 직장상사, 피곤한 인간관계…… \n직장생활에 지쳐버린 나, 이대로 괜찮을까?\n\n오늘도 애써 괜찮은 척 출근길에 오른 \n직장인을 위한 선배들의 마음 다독임!\n\n이 책은 과중한 업무와 피곤한 인간관계 등 일과 사람에 치여 직장생활로 지친 직장인들이 이직 혹은 퇴사를 고민할 때 슬기롭게 극복할 수 있는 구체적인 방법을 제시한다. 무작정 사표를 쓰기 전 반드시 고려해야 할 현실적인 자기인식, 지금 출근하는 회사에서 미래를 준비하는 방법, 이직과 창업을 위해 필요한 경력 관리, 사람 관리, 시간 관리의 방법 등을 배우게 될 것이다.\n\n저자는 삼성, LG, 포스코, 신세계, 인제 백병원 등 대기업 인사담당자들과 중소기업 대표들, 취업컨설턴트 등 현업에 종사하는 선배들의 인터뷰를 통해 그들이 이런 상황에 어떻게 현명하게 대처했는지 생생한 노하우와 조언을 담았다. 또한 다양한 직업을 경험한 저자의 이야기를 바탕으로 직장인이 고민하는 내용을 하나하나 짚어가며 퇴사를 생각할 때 준비해야 할 것과 힘든 직장생활을 이겨나가는 방법을 알려준다. 무엇보다 이 책을 읽으며 응원의 메시지가 담긴 인생 선배들의 따끔하고도 솔직한 조언을 통해 직장인으로서 일과 삶의 균형을 잡기 위한 방법은 무엇인지, 지금 당장 ‘다시’ 새롭게 삶의 계획을 세울 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비전코리아 :비전비엔피",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20180717",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윤정은 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6682084_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6682084_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2018016386",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963221335",
+                "INPUT_DATE": "20180528",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "퇴근 말고 퇴사가 하고 싶다",
+                "PUBLISH_PREDATE": "20180615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

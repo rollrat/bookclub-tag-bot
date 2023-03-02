@@ -1,0 +1,78 @@
+{
+    "otitle": "미니멀 키친",
+    "oauthor": "KBS 과학카페 제작팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:36 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "미니멀 키친 (가볍고 건강하게 먹는 삶을 시작하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490498662",
+                "image": "https://shopping-phinf.pstatic.net/main_3249049/32490498662.20221229070845.jpg",
+                "author": "KBS <과학카페> 냉장고 제작팀",
+                "discount": "12150",
+                "publisher": "애플북스",
+                "pubdate": "20160823",
+                "isbn": "9791186639276",
+                "description": "핵가족화, 저출산, 1인 가족의 비중은 나날이 늘어나는 가운데 냉장고의 용량이 자꾸 커지는 것은 이상한 일이 아닐까? 꽉 찬 냉장고를 보면서도 ‘먹을 것이 없다’고 말하는 모순적인 태도, 대형마트의 숱한 1+1에 이끌린 충동적 소비, 게다가 먼 나라에서 수입되는 유기농 식품의 안전성 논란 등을 통해 독자들은 대량 보관으로 풍족해 보이는 주방이 곧 풍족한 마음으로 이어지지 않는다는 사실까지 깨닫게 될 것이다.\n\n\n\n책에는 냉장고 속에 보관된 음식으로 살아본 가족, 냉장고를 없애고 텃밭에서 직접 채소를 길러 먹는 인디 가수, 자연에서 얻은 채소로 요리하는 식당의 사례가 담겨 있어 비울수록 채워지는 삶을 한층 더 직접적으로 보여준다. 이 책이 말하는 ‘미니멀 키친’은 단어 뜻 그대로 단순하고 심플한 주방만을 의미하는 것이 아니라 가볍고 건강한 삶을 권하고 있다."
+            },
+            {
+                "title": "미니멀 밥상 (식재료, 조리법, 그릇까지 최소한으로 미니멀 키친라이프)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436238923",
+                "image": "https://shopping-phinf.pstatic.net/main_3243623/32436238923.20221229073159.jpg",
+                "author": "누마하타 나오키^시모죠 미오",
+                "discount": "11700",
+                "publisher": "즐거운상상",
+                "pubdate": "20180416",
+                "isbn": "9791155361108",
+                "description": "잔뜩 장을 봤는데도 어떤 음식을 만들어야 할지 모르겠고, 막상 요리를 하려니 피곤해서 라면을 끓이거나 배달음식을 시킨 경험, 누구나 갖고 있을 것이다. 《미니멀 밥상》은 만들기 쉬우면서도 질리지 않고 계속 먹을 수 있는 담백한 레시피를 제안한다. 양파, 무, 당근, 감자, 양배추, 푸른 채소, 버섯 등을 주재료로 한 미니멀 밑반찬 레시피 29가지와 달걀, 고기, 생선, 수프 등 메인 요리 레시피 20가지는 무엇이든 심플한 식탁을 만드는데 유용하다.\n\n\n\n 특히 밑반찬을 미리 만들어두면 미니멀한 식생활을 유지하는데 큰 도움이 된다는 것을 강조한다. 밑반찬을 잘 만들어두면 그 밑반찬을 응용해서 메인요리로 발전시킬 수 있는 효과적인 상차림 팁도 눈에 띈다. 쌀밥과 밑반찬으로 만드는 간단 나물밥, 푸른 채소를 얹은 두유 탄탄면, 구운 주먹밥 리조또, 두부 카페 덮밥, 연어 영양밥, 비빔밥 스타일 돼지고기 생강구이, 반건조 생선 오차츠케, 토마토소스를 뿌린 치킨 등 당장 도전해보고 싶은 반짝반짝 빛나는 레시피가 가득하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "애플북스",
+                "DDC": "641.02",
+                "UPDATE_DATE": "20161129",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "KBS <과학카페> 냉장고 제작팀",
+                "SERIES_TITLE": "",
+                "KDC": "594.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5625275_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5625275_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "256",
+                "CONTROL_NO": "CIP2016017826",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186639276",
+                "INPUT_DATE": "20160721",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "미니멀 키친",
+                "PUBLISH_PREDATE": "20160823",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

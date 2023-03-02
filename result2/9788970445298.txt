@@ -1,0 +1,67 @@
+{
+    "otitle": "금속이란 무엇인가",
+    "oauthor": "E.M. 사비츠키 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "금속이란 무엇인가 (문명을 지탱하는 물질의 챔피언)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503386662",
+                "image": "https://shopping-phinf.pstatic.net/main_3250338/32503386662.20221228072445.jpg",
+                "author": "E.M.사비츠키^B. C. 크라치코",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "20170306",
+                "isbn": "9788970445298",
+                "description": "문명의 기초: 금속 이야기\n\n금속이란 무엇인지와 모든 금속의 발명 경위와 역사, 이와 관련된 재미있는 일화들을 같이 소개하여 흥미 있는 읽을거리로 만든 것이 이 책의 특징이다. 현대 금속학의 이론적 근거, 즉 양자역학, 전자배열 등을 통해 금속의 여러 가지 현상들을 아주 쉽게 설명하고 있다. 특히 어려운 내용들도 수식 하나 쓰지 않고 아주 쉽게 설명하였고, 새로운 금속이 어떻게 발명되었고 그 금속의 획득 방법, 성질, 가격 등이 어떻게 변하여 오늘에 이르게 되었는가를 잘 설명하여 금속이란 무엇인가를 누구나 알 수 있도록 쓴 아주 유익한 내용이다.\n본서는 비전문가를 위하여 쉬운 내용으로 썼으나, 전문가들에게도 전 분야에 대한 정리를 하는 의미에서 일독의 가치가 있는 내용이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20181204",
+                "EA_ADD_CODE": "03580",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "E. M. 사비츠키 ; B. C. 크라치코 [공]저 ; 손운택 역 ",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "19940130",
+                "TITLE_URL": "",
+                "PRE_PRICE": "4500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "13000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본 ",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970445298",
+                "INPUT_DATE": "19940112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "금속이란 무엇인가",
+                "PUBLISH_PREDATE": "19940130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

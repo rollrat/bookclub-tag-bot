@@ -1,0 +1,67 @@
+{
+    "otitle": "일본어 기초잡기",
+    "oauthor": "배진영·이남희 공저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일본어 기초잡기 (기초튼튼 문법, 회화, 한자를 이 한권으로)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466653936",
+                "image": "https://shopping-phinf.pstatic.net/main_3246665/32466653936.20220527033328.jpg",
+                "author": "배진영",
+                "discount": "0",
+                "publisher": "책사랑",
+                "pubdate": "20150310",
+                "isbn": "9791185440149",
+                "description": "『일본어 기초잡기』는 총 14과루 나뉘어져 있으며 각 과는 본문-문법설명-문형연습-연습문제-한자 읽고 쓰기로 구성되어 있어 학습자가 독학으로 공부하고자 하는 경우 1과를 2시간씩 하루에 1시간씩 학습 시에는 한 달에 기초 일본어를 습득할 수 있도록 하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판) 책사랑",
+                "DDC": "495.6",
+                "UPDATE_DATE": "20150601",
+                "EA_ADD_CODE": "13730",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "배진영, 이남희",
+                "SERIES_TITLE": "",
+                "KDC": "730",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4421667_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4421667_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015007026",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185440149",
+                "INPUT_DATE": "20150302",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "일본어 기초잡기",
+                "PUBLISH_PREDATE": "20150310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

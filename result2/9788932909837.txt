@@ -1,0 +1,67 @@
+{
+    "otitle": "드라큘라 (하)",
+    "oauthor": "브램 스토커 저/이세욱 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "드라큘라(하)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463511179",
+                "image": "https://shopping-phinf.pstatic.net/main_3246351/32463511179.20221019125122.jpg",
+                "author": "브램 스토커",
+                "discount": "8820",
+                "publisher": "열린책들",
+                "pubdate": "20091220",
+                "isbn": "9788932909837",
+                "description": "공포와 성(性)을 결합시킨 환상 문학의 고전\n\n고딕 호러 소설의 대명사 브램 스토커의 대표작으로, 어떤 엄청난 악이 기독교적 자신감을 갉아먹는다는 느낌을 드러낸 19세기 후반의 수많은 작품 가운데 하나이다. 드라큘라 백작의 런던 저택 매입과 관련한 법적 문제를 처리하기 위해 트란실바니아로 찾아간 조너선 하커는 백작의 성에서 그의 끔찍한 실체를 목격한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "823.912",
+                "UPDATE_DATE": "20150325",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "브램 스토커",
+                "SERIES_TITLE": "",
+                "KDC": "843",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2368881_6.txt",
+                "SET_ISBN": "9788932914992",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2368881_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2009003505",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932909837",
+                "INPUT_DATE": "20091104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "드라큘라(하)",
+                "PUBLISH_PREDATE": "20091130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

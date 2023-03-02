@@ -1,0 +1,67 @@
+{
+    "otitle": "작렬지",
+    "oauthor": "옌롄커 저/문현선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "작렬지 (옌롄커 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32495349691",
+                "image": "https://shopping-phinf.pstatic.net/main_3249534/32495349691.20230225070944.jpg",
+                "author": "옌롄커",
+                "discount": "14220",
+                "publisher": "자음과모음",
+                "pubdate": "20200228",
+                "isbn": "9788954442213",
+                "description": "해마다 가장 유력한 노벨문학상 후보로 호명되는 옌롄커의 신작 소설. 작가가 직접 역사지리서의 편찬을 맡아 작성한 것이라는 독특한 설정으로 시작된다. ‘자례’라는 허구의 마을이 점차 대도시로 성장해가는 과정을 그려내고 있다. 그 구체적 연대기를 통해 경제 발전을 위해서라면 어떤 수단과 방법을 사용하든 “그 길은 발전과 부귀, 영웅과 승리자로 나아가는 지혜의 계단”으로 받아들여지는 중국 현실에 대한 첨예한 문제의식을 보여준다.\n\n\n\n『딩씨 마을의 꿈』이 에이즈에 점령당한 지독한 현실을 이미 죽어 땅에 묻힌 열두 살 소년의 시선으로 그려낸 리얼리즘과 판타지가 결합된 작품이라면, 『작렬지』는 작가 옌롄커가 자신의 고향 땅인 ‘자례’의 역사지리서를 맡아 쓰게 된다는 독특한 설정의 작품이다. 이처럼 허구를 가장한 사실(중국의 현실)을 통해 작품과 현실을 더욱 단단히 밀착시킨다. \n\n\n\n옌롄커가 써 내려간 이 역사지리서는 화산 폭발로 인해 생겨난 ‘자례’라는 작은 마을이 도시로 급성장하고, 다시 폐허가 되기까지의 빛과 어둠의 연대기라고 할 수 있다. 전작들과 마찬가지로 『작렬지』는 ‘현실에는 존재하지 않는’ 역사리지서 편찬이라는 소설적 상상력과 현실과 비현실의 경계를 넘나들며 견고한 허구의 세계를 구축함으로써 보이지 않는 진실을 드러내고, 가려진 진실을 들추며, 존재하지 않는 진실을 그려낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "자음과모음",
+                "DDC": "",
+                "UPDATE_DATE": "20200319",
+                "EA_ADD_CODE": "03820",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 옌롄커 ;문현선 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "823.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/02/03/9788954442213.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "663 p.",
+                "CONTROL_NO": "CIP2020004699",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954442213",
+                "INPUT_DATE": "20200203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "작렬지",
+                "PUBLISH_PREDATE": "20200228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

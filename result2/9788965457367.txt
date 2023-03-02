@@ -1,0 +1,67 @@
+{
+    "otitle": "사찰 문화유산 답사",
+    "oauthor": "한정갑 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사찰 문화유산 답사 (불교철학을 바탕으로 해설한 한국의 아름다운 사찰 33곳 순례기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474034874",
+                "image": "https://shopping-phinf.pstatic.net/main_3247403/32474034874.20221227205624.jpg",
+                "author": "한정갑",
+                "discount": "25200",
+                "publisher": "산지니",
+                "pubdate": "20210705",
+                "isbn": "9788965457367",
+                "description": "『사찰 문화유산 답사』는 사찰문화재를 불교문화적인 관점에서 재해석한 책으로, 그동안 (사)파라미타를 비롯하여 조계종 중앙신도회, 조계종 포교사단 등 불교단체와 기관에서 직접 사찰을 안내하고 순례하며 체득한 저자의 경험과 지혜가 오롯이 담겨 있다. 저자는 낙산사 홍련암, 남해 보리암, 석모도 보문사 등 3대 관음성지와 통도사, 해인사, 송광사의 삼보사찰 그리고 5대 적멸보궁과 지역별 명찰을 선별하여 모두 33군데 사찰을 뽑았다. \n이 책은 사찰을 문화재의 관점에서 바라본 것이 아니라 철저하게 불교철학과 교리를 바탕으로 설명하고 있다는 점이 특징이다. 자연의 원리를 바탕으로 불교사상을 표현한 각종 상징물들을 집대성해놓은 곳이 명찰이라 할 때, 저자는 바로 그런 건축물이나 상징물들이 어떠한 불교적 바탕을 가지고 어떠한 불교사상을 표현하는지, 하나하나 설명해나간다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20210812",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "한정갑 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/06/18/9788965457367.jpg",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965457367",
+                "INPUT_DATE": "20210618",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "사찰 문화유산 답사",
+                "PUBLISH_PREDATE": "20210705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

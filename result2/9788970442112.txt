@@ -1,0 +1,67 @@
+{
+    "otitle": "은하의 발견",
+    "oauthor": "리처드 베렌젠 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "은하의 발견",
+                "link": "https://search.shopping.naver.com/book/catalog/32492699652",
+                "image": "https://shopping-phinf.pstatic.net/main_3249269/32492699652.20221227204700.jpg",
+                "author": "리처드 베렌젠",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20000330",
+                "isbn": "9788970442112",
+                "description": "20세기 초반에 천문학자들이 은하를 발견하고 우주의 본질을 밝혀내는 과정을 천문학사가 세 명이 상세하게 기술한 책. 이 책은 우리 은하의 구조와 성운의 정체를 조명하고 1929년에 우주가 팽창하고 있다는 것을 발견하는 과정까지를 상세하게 담고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190426",
+                "EA_ADD_CODE": "03440",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "저자 : 리처드 베렌젠;저자 : 리처드 하트;저자 : 대니얼 실리;역자 : 이명균;",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*250",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "246",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970442111",
+                "INPUT_DATE": "20000325",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "은하의 발견",
+                "PUBLISH_PREDATE": "20000215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

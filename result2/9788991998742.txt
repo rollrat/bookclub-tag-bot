@@ -1,0 +1,67 @@
+{
+    "otitle": "실전 캔들 매매법",
+    "oauthor": "캔들마스터 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "실전 캔들 매매법 (캔들 패턴 Top 37, 하이로우, 전환파동으로 최상의 진입과 청산 포인트를 잡는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481447747",
+                "image": "https://shopping-phinf.pstatic.net/main_3248144/32481447747.20230225070913.jpg",
+                "author": "캔들마스터",
+                "discount": "45000",
+                "publisher": "이레미디어",
+                "pubdate": "20121205",
+                "isbn": "9788991998742",
+                "description": "보조지표나 펀더멘털, 거래 종목, 거래 시간, 추세와 상관없이 순수 캔들만으로 차트의 흐름을 읽고 성공적인 매매를 가능하게 하는 강력하고 안전한 실전 기법서. 저자가 내세우는 TIC(This is Candle!) 캔들 매매법은 이전의 캔들 이론과는 차원이 다른, 실전 캔들 매매법이다. 이 책에서는 ‘캔들 패턴’, ‘하이로우’, ‘전환파동’의 3가지 요소로 캔들 매매법을 설명하고 있다. \n\n\n\n예를 들어 캔들에 대해 정의를 내리고 있는 기존 이론에서 보면 고점에서의 저녁별형은 매도 신호, 저점에서의 망치형은 매수 신호 등으로 형태만을 강조하여 단순한 기법만을 정의하고 있다. 하지만 &lt;실전 캔들 매매법&gt;의 핵심은 단순한 캔들의 형태를 보는 것이 아니다. 캔들의 패턴을 통해 목적 달성을 위해 약속된 기준을 세우고 ‘크고 작은 흐름 속에서 유리한 구간을 구별하고 확률 높은 진입 포인트를 찾아내는 것’ 그리고 ‘예상과 달리 반대로 갔을 때 정해진 기준대로 관점을 전환하거나 재정비’하는 것이다. \n\n\n\n캔들 패턴을 공부하다 보면 캔들의 형태는 그리 중요하지 않음을 알 수 있다. 캔들의 연결을 통해 시세와 힘의 균형을 읽음으로써 ‘유리한 구간을 찾아내고 변화된 상황에 따라 자유롭게 관점을 전환하는 기술’을 배우게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "332.67",
+                "UPDATE_DATE": "20121128",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "캔들마스터 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.83",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2587479_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2587479_3.jpg",
+                "PRE_PRICE": "50000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2587479_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2587479_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012005066",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991998742",
+                "INPUT_DATE": "20121019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "실전 캔들 매매법 ",
+                "PUBLISH_PREDATE": "20121205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

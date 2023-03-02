@@ -1,0 +1,67 @@
+{
+    "otitle": "실비아 플라스의 일기",
+    "oauthor": "실비아 플라스 저/김선형 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "실비아 플라스의 일기",
+                "link": "https://search.shopping.naver.com/book/catalog/32486521055",
+                "image": "https://shopping-phinf.pstatic.net/main_3248652/32486521055.20230219103404.jpg",
+                "author": "실비아 플라스",
+                "discount": "23400",
+                "publisher": "문예출판사",
+                "pubdate": "20040315",
+                "isbn": "9788931004465",
+                "description": "영국의 계관시인 테드 휴즈와의 황금빛 로맨스, 그리고 남편의 외도와 자살이라는 극적인 결말로 인해 1960년대 여성 해방운동의 상징적인 인물로 자리 잡아온 여류 시인 '실비아 플라스'. 죽기 직전까지 쓰여진 그녀의 일기를 모았다. 천재 여류 시인의 서른 해 삶의 편린을 통해 1960년대 페미니즘의 시류를 타고 과장 혹은 은폐된 그녀의 진실을 만나본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문예출판사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.moonye.com",
+                "AUTHOR": "저자 : 실비아 플라스;역자 : 김선형;",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "26000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "709",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931004465",
+                "INPUT_DATE": "20220623",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "실비아 플라스의 일기",
+                "PUBLISH_PREDATE": "20040315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

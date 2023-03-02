@@ -1,0 +1,67 @@
+{
+    "otitle": "이런 걸 사는 사람도 있어?",
+    "oauthor": "한권 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이런 걸 사는 사람도 있어? (내 돈으로 산 가치 있는 것들에 관하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466556017",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466556017.20221228071713.jpg",
+                "author": "한권",
+                "discount": "12600",
+                "publisher": "유노북스",
+                "pubdate": "20200113",
+                "isbn": "9791189279875",
+                "description": "사람들은 왜 이 물건을 사고 행복해했을까?\n\n경제 활동을 막 시작한 90년대생들과 이제는 어엿하게 회사에서 한 자리씩 꿰차는 80년대생들은 어떤 방식으로, 어디에 자신의 돈을 쓰고 있을까? 그들은 생각이 없는 듯 보여도 나름대로의 뚜렷한 주관으로, 똑똑하게 자신만의 가치를 위해 투자하기를 주저하지 않는다. 요즘 2030의 생각과 소비 행태를 솔직하고 온전하게 그들의 시선으로 담아낸 『이런 걸 사는 사람도 있어?』에서 그들이 가진 진짜 생각이 무엇인지, 그들이 지갑을 여는 순간이 언제인지, 어떤 요소에 반응해 그들의 욕망이 자극되는지 살펴볼 수 있다.\n\n충동적으로 구매한 물건에 대한 만족과 후회부터 일시불과 할부 사이에서 갈팡질팡한 순간, 자꾸 지갑을 열리게 하는 마법 같은 힘인 허세에 조종당한 에피소드, 절약하지 않는 자는 고뇌할 거라는 공자의 가르침을 마음 깊이 새긴 이의 소비 효율에 대한 이야기, 절대 나만 살 수 없는 물건들을 소개하는 어떤 이의 부추김, 아끼지 않고 돈 좀 써 보겠다고 다짐한 이의 실천, 고민은 미덕이라고 여기며 물건 하나 살 때도 끊임없이 고민하는 마음까지 여과 없이 만나볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200211",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "한권 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/16/9791189279875.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "CIP2019051642",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189279875",
+                "INPUT_DATE": "20191216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이런 걸 사는 사람도 있어?",
+                "PUBLISH_PREDATE": "20200113",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

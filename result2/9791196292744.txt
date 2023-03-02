@@ -1,0 +1,67 @@
+{
+    "otitle": "쉼, 하세요",
+    "oauthor": "김유영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쉼, 하세요 (쉼을 잊은 당신을 위한 마음 처방전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441025984",
+                "image": "https://shopping-phinf.pstatic.net/main_3244102/32441025984.20221019123649.jpg",
+                "author": "김유영",
+                "discount": "11520",
+                "publisher": "북스고",
+                "pubdate": "20180528",
+                "isbn": "9791196292744",
+                "description": "어떤 일을 묵묵하게 꾸준하게 하다 보면 결과는 예상치 못했던 선물처럼 다가오기도 한다. 7년여라는 세월, 저자가 매일 해왔던 일은 글쓰기였고, 그 결과 《쉼, 하세요》로 이어졌으니, 저자 그리고 우리에게 이 책은 하나의 선물과도 같다. 매일 글을 쓰면서 자신을 다시 깨우고 다독이며 돌아보곤 했던 발자취, 그것이 차곡차곡 쌓이고 쌓여 이렇게 한 권의 책으로 태어났다. \n매일의 글쓰기를 통해 저자는 지금, 예전과는 전혀 다른 사람이 되어 있다고 말한다. 글을 쓰기 시작하고부터 세상과 삶, 사람과 마음이 보이기 시작했고 조금 더 이해할 수 있었으며, 어느 정도는 알게 되었다는 것이다. 또한, 한결 여유로움과 느긋함도 지닐 수 있게 되었을 뿐더러 사랑하는 마음도 짙어졌고 깊어졌음을 느낀다. 자신으로 인해 상처받은 이는 없었는지 주변도 돌아볼 수 있는 너그러움의 혜안도 얻었기에, 글쓰기는 자신이 살아 있음을 알려 주었고, 살아가는 데에 있어 방향타 역할도 해준 셈이다.\n그의 삶은 그리 순탄하지만은 않았다. 어린 나이에 시작했던 20여 년의 홀로서기. 어린 시절의 지독한 가난, 그리고 폭풍처럼 지나갔으나 쓰리고 아팠던 방황의 날들, 그런 시간들을 혼자 부딪치며 치열하게 싸우고 버텨왔다. 그러면서 깨우치고 단단해진 그의 마음과 세상에 대한 긍정적인 시선, 그리고 따뜻한 감성을 이 책에 고스란히 담았다. 이 책에 담긴 짧지만 따뜻한 여운이 남는 글들이, 읽는 이들에게 위로와 격려, 긍정의 힘, 잊고 지낸 것들을 기억하게 하길 바란다. 평소 자기 자신과 마주하기를 꺼렸거나 두려워했던 이들이 자신을 좀 더 너그러이 받아들이길, 지치고 힘들 때 때때로 읽어 보면서 쉼, 하시길!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20180718",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.booksgo.co.kr",
+                "AUTHOR": "김유영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6666553_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6666553_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "274 p.",
+                "CONTROL_NO": "CIP2018015010",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196292744",
+                "INPUT_DATE": "20180514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "쉼, 하세요",
+                "PUBLISH_PREDATE": "20180528",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

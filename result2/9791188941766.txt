@@ -1,0 +1,67 @@
+{
+    "otitle": "자본의 역습",
+    "oauthor": "고봉준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "자본의 역습 (경제학적 상상과 비판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466784042",
+                "image": "https://shopping-phinf.pstatic.net/main_3246678/32466784042.20230218110608.jpg",
+                "author": "고봉준",
+                "discount": "14400",
+                "publisher": "소소의책",
+                "pubdate": "20220316",
+                "isbn": "9791188941766",
+                "description": "자본주의, 이대로 정말 괜찮을까?\n다양한 사례로 쉽게 읽고 이해하는 자본주의의 역사\n\n경제적인 측면에서 보면 중세에서 근대로의 이행은 ‘자본주의의 등장’으로 요약할 수 있다. 그렇다면 자본주의는 왜, 언제, 어떻게 시작되었을까? 근ㆍ현대를 설명하는 가장 강력한 키워드 중 하나인 자본주의를 옹호하거나 비판하는 사람은 많지만 의외로 자본주의가 무엇인지를 제대로 이해하는 사람은 많지 않다. 따라서 이 책은 일상생활 속의 사례를 들어 돈과 자본, 물건과 상품, 일과 노동 등과 같이 자본주의를 이해하는 데 반드시 필요한 단어부터 누구나 알기 쉽게 설명한다. 애덤 스미스, 칼 마르크스, 케인스 같은 경제학자들의 논리와 주장을 비롯해 자본주의의 맨얼굴을 드러낸 문학 작품과 영화, 21세기의 세계경제를 지배하는 금융자본주의의 본질, 공유경제로 대표되는 플랫폼 경제, 인공지능 시대의 데이터 자본주의까지 자본주의의 역사를 개괄하면서 현대 자본주의의 성격과 우리가 사는 세계의 경제 원리에 눈뜨게 해주고 그 흐름을 한눈에 살펴보게 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "",
+                "UPDATE_DATE": "20220321",
+                "EA_ADD_CODE": "04300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고봉준 지음",
+                "SERIES_TITLE": "경희대학교 후마니타스 칼리지-우리가 사는 세계",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791188941728",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p., [1]장 (접지)",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188941766",
+                "INPUT_DATE": "20220107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "자본의 역습",
+                "PUBLISH_PREDATE": "20220316",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

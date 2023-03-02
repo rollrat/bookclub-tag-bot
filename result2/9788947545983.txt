@@ -1,0 +1,67 @@
+{
+    "otitle": "부를 부르는 평판",
+    "oauthor": "문성후 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부를 부르는 평판",
+                "link": "https://search.shopping.naver.com/book/catalog/32490363907",
+                "image": "https://shopping-phinf.pstatic.net/main_3249036/32490363907.20221229071258.jpg",
+                "author": "문성후",
+                "discount": "14520",
+                "publisher": "한국경제신문",
+                "pubdate": "20200615",
+                "isbn": "9788947545983",
+                "description": "가장 강력하고 오래가는 부와 명예를 얻고 싶다면 \n 바로 지금, 당신의 평판을 관리하라!\n“평판은 이제 개인과 기업이 스스로, 그리고 능동적으로 챙겨야 하는 자산이다!”\n\n평판에 따라 경제의 흐름은 재편되고 있다. 평판경제라고 부를 만큼 이제 평판은 기업의 재무성과, 국가의 신용, 개인의 취업 등에 큰 영향력을 행사하면서 사회와 경제 흐름을 바꾸어 놓았다. 하지만 우리는 여전히 평판을 어떻게 관리하고 활용해야 하는지 잘 모른다. 이 책 《부를 부르는 평판》은 새로운 생존 전략으로 부상한 평판의 개념에서부터 좋은 평판을 구축하기 위해 필요한 요소, 가장 효율적이고 효과적인 평판 활용법에 이르기까지 평판의 모든 것을 이야기한다. 이제 더 이상 어느 누구도 타인의 눈을 피해 살 수 없는 시대이다. 이런 변화의 흐름 속에서 평판은 새로운 경영의 판이 될 것이며, 평판 관리는 미래의 생존 전략이자 오래 살아남는 승자가 되는 지름길이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20200626",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "문성후 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947545983",
+                "INPUT_DATE": "20200626",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "부를 부르는 평판",
+                "PUBLISH_PREDATE": "20200615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

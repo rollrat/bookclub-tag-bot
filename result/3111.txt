@@ -1,0 +1,23 @@
+{
+    "otitle": "니가 뭔데 아니 내가 뭔데",
+    "oauthor": "사유리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "니가 뭔데 아니...내가 뭔데",
+                "link": "https://search.shopping.naver.com/book/catalog/32492070450",
+                "image": "https://shopping-phinf.pstatic.net/main_3249207/32492070450.20221019151555.jpg",
+                "author": "후지타 사유리",
+                "discount": "11700",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20181205",
+                "isbn": "9791161655109",
+                "description": "니가 뭔데 나한테 이래라 저래라야!\n너나 잘하세요! 아, 물론 나도 잘할게!\n사차원 사유리의 역대급 사이다!"
+            }
+        ]
+    }
+}

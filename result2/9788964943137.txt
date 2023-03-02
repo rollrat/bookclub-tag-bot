@@ -1,0 +1,67 @@
+{
+    "otitle": "서핑 교과서",
+    "oauthor": "이승대 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서핑 교과서 (보드와 패들링, 테이크오프, 노즈라이딩, 그리고 파도 읽기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484552612",
+                "image": "https://shopping-phinf.pstatic.net/main_3248455/32484552612.20221229074311.jpg",
+                "author": "이승대",
+                "discount": "13320",
+                "publisher": "보누스",
+                "pubdate": "20170901",
+                "isbn": "9788964943137",
+                "description": "서핑, 제대로 알고 즐기자!\n\n서핑을 사랑하기 시작한 사람에게는 서핑을 새롭게 알아가는 기쁨을 주고, 서핑을 이미 시작한 사람에게는 서핑을 어떻게 사랑해야 하는지를 알려주는『서핑 교과서』. 서핑을 어떻게 하면 재미있게 할 수 있는지, 어떤 파도를 기다려야 하는지, 어떻게 해야 멋진 서퍼가 될 수 있는지 길잡이가 되어주는 책이다. \n\n서퍼보드와 서핑의 주요 동작은 물론 스피드를 낼 수 있는 기술과 기술 연마를 위해 연습해야 하는 기술, 보드 스타일(롱보드, 숏보드)에 따른 여러 가지 기술 등을 담았고, 서프보드 만들기 및 수리 과정, 서핑에 도움 되는 트레이닝, 서프 레스큐, 서핑 에티켓 등 서핑 전반의 지식까지 담아 서핑을 문화적으로도 잘 느낄 수 있도록 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보누스",
+                "DDC": "797.32",
+                "UPDATE_DATE": "20170913",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이승대 지음",
+                "SERIES_TITLE": "",
+                "KDC": "696.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6318206_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6318206_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "209 p.",
+                "CONTROL_NO": "CIP2017020183",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964943137",
+                "INPUT_DATE": "20170811",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "서핑 교과서",
+                "PUBLISH_PREDATE": "20170901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

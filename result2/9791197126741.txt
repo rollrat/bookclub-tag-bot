@@ -1,0 +1,67 @@
+{
+    "otitle": "에이트 : 씽크",
+    "oauthor": "이지성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "에이트 씽크 (인공지능의 딥러닝을 이기는 동서양 천재들의 생각법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440650601",
+                "image": "https://shopping-phinf.pstatic.net/main_3244065/32440650601.20230207163619.jpg",
+                "author": "이지성",
+                "discount": "15300",
+                "publisher": "차이정원",
+                "pubdate": "20200915",
+                "isbn": "9791197126741",
+                "description": "AI, 포스트 코로나가 만든 뉴노멀의 시대!\n인공지능이 복제할 수 없는 생각, Think 하는 뇌를 만들어라!\n\n2019년, 120쇄를 돌파하며 한국에서《에이트》열풍을 일으킨 저자 이지성. 2020년에 그가 ‘에이트’를 실천할 수 있는 방법을 담은《에이트: 씽크》로 돌아왔다. 그간 《에이트》를 읽고, 인간만이 할 수 있는 것이 무엇인지 물었던 독자들에게 그는 좀더 구체적으로 ‘인공지능의 딥러닝을 이기는 Think의 힘’을 말한다. \n저자는 인공지능에게 대체되지 않는 나를 만들기 위해서 공감 능력과 창조적 상상력이 필요하다고 말한다. 이 공감 능력과 창조적 상상력은 ‘Think’를 통해 얻을 수 있다. 공감 능력은 ‘나’를 넘어 ‘너’와 ‘우리’의 입장에서 ‘Think’ 할 때 발휘되고, 창조적 상상력의 불꽃은 기존에 있던 것에 혁신을 일으키는 ‘Think’를 하거나 기존에 없던 새로운 것을 ‘Think’ 할 때 타오르기 때문이다.\n\n〉〉〉〉〉     이 도서는 『생각하는 인문학』의 개정증보판입니다.   〉〉〉"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정원",
+                "DDC": "",
+                "UPDATE_DATE": "20201016",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이지성 지음",
+                "SERIES_TITLE": "",
+                "KDC": "331.5412",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/27/9791197126741.jpg",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "441 p.",
+                "CONTROL_NO": "CIP2020036325",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197126741",
+                "INPUT_DATE": "20200827",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "에이트 씽크",
+                "PUBLISH_PREDATE": "20200915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

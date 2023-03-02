@@ -1,0 +1,67 @@
+{
+    "otitle": "완벽한 보고서 쓰는 법",
+    "oauthor": "길영로 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "완벽한 보고서 쓰는 법 (보고서·기획서를 한 장으로 요약하고 로지컬하게 완성하는 비결)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464267411",
+                "image": "https://shopping-phinf.pstatic.net/main_3246426/32464267411.20221229071021.jpg",
+                "author": "길영로",
+                "discount": "11700",
+                "publisher": "페가수스",
+                "pubdate": "20191108",
+                "isbn": "9788994651316",
+                "description": "보고서, 한 장으로 요약하고 로지컬하게 완성한다\n삼성전자에서 15년간 진행한 ‘한 장 요약 및 보고서 작성’ 특강!\n\n수집한 자료들을 한 장으로 요약하고, 보고서를 로지컬하게 완성하는 비결을 담은 책. 기획 및 보고서 분야 최고 전문가인 길영로 소장이 25년간 기업과 연구소 등에서 가르쳐온 보고서 작성 노하우를 담았다. 특히 이 책은 삼성전자 직원들을 대상으로 15년간 진행한 ‘한 장으로 요약하는 법(One Page Summary Skill)과 보고서 작성법’ 강의의 내용을 체계적으로 정리한 결과물이다. \n\n회사는 수많은 문서들로 가득한 곳이다. 보고서·기획서·품의서·제안서 등 회사에서 사용하는 대다수 문서들은 윗선에 그 내용을 알리고, 승낙을 받기 위해 존재한다. 보고하는 사람은 수집한 자료와 근거들이 하나라도 빠질까 노심초사하지만, 상사는 제목과 요약본만 보고도 채택 여부를 결정할 수 있는 보고서를 원한다. 어떻게 써야 할까? 그 답이 이 책 속에 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "페가수스",
+                "DDC": "",
+                "UPDATE_DATE": "20191224",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "길영로 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.484",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "189 p.",
+                "CONTROL_NO": "CIP2019042651",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994651316",
+                "INPUT_DATE": "20191023",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "완벽한 보고서 쓰는 법",
+                "PUBLISH_PREDATE": "20191108",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

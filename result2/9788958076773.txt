@@ -1,0 +1,67 @@
+{
+    "otitle": "건축이 우리에게 가르쳐주는 것들",
+    "oauthor": "김광현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "건축이 우리에게 가르쳐주는 것들 (김광현 교수의 건축 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465494768",
+                "image": "https://shopping-phinf.pstatic.net/main_3246549/32465494768.20230103165038.jpg",
+                "author": "김광현",
+                "discount": "31500",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20180228",
+                "isbn": "9788958076773",
+                "description": "건축을 건축 자체로 사유하다!\n\n한국 건축계의 큰 스승으로 꼽혀온 김광현의 『건축이 우리에게 가르쳐주는 것들』. 작가주의가 만연하는 한국 건축계에 종종 날카로운 비판을 던져왔던 저자는 이 책을 통해 건축물을 단지 감상의 대상으로만 여기는 수동적 태도에서 벗어나 짓는 인간으로서의 능동적 본성을 회복하도록 돕고자 한다. ‘건축’이라는 말 속에는 아주 오래된 고정관념이 내포되어 있다. 건축은 건물과 다르다는 것, 건축은 예술작품이자 인문적 사유의 소산이라는 것, 평범한 주택이나 획일적인 아파트나 경박한 쇼핑몰 따위는 건축의 반열에 오를 수 없다는 것이다. \n\n저자는 건축과 건물을 구분하는 것은 인간이냐 사람이냐 구분하는 것과 별반 다를 게 없다고 잘라 말한다. 건축이 특정 전문가들의 전유물로 여겨지면서 내 몸이 거주하는 공간을 제대로 바라보지 못하고, 그것을 통해 세상을 바라보지 못하며, 무엇이 좋은 건축인지 분별해내는 판단력마저 상실해버렸다고 이야기하면서 이 책을 통해 원시주거에서 현대의 첨단건물에 이르는 긴 세월 동안 여전히 변하지 않는 건축의 정신과 가치를 찾아내고, 이를 통해 이 시대의 건축은 어떤 것이어야 하는지를 제시하고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌",
+                "DDC": "720.1",
+                "UPDATE_DATE": "20180316",
+                "EA_ADD_CODE": "03610",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "지은이: 김광현",
+                "SERIES_TITLE": "",
+                "KDC": "540.01",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6560329_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6560329_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "707 p.",
+                "CONTROL_NO": "CIP2018005753",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958076773",
+                "INPUT_DATE": "20180219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "건축이 우리에게 가르쳐주는 것들",
+                "PUBLISH_PREDATE": "20180228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "따뜻한 인간의 탄생",
+    "oauthor": "한스 이저맨 저/이경식 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "따뜻한 인간의 탄생 (체온의 진화사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455857631",
+                "image": "https://shopping-phinf.pstatic.net/main_3245585/32455857631.20221019145635.jpg",
+                "author": "한스 이저맨",
+                "discount": "17820",
+                "publisher": "머스트리드북",
+                "pubdate": "20210930",
+                "isbn": "9791197022784",
+                "description": "인류 진화사는 체온 조절을 위한 기나긴 여정이었다\n진화심리학으로 풀어낸 체온의 진화사\n\n감정, 관계, 건강, 심지어 집을 잘 파는 능력까지\n우리가 관심을 가지는 거의 모든 것은 체온 조절과 관련 있다!\n\n인류는 오랜 진화사를 통해 다양한 기후 환경에 적응해왔다. 어떤 의미에서 인류 진화사는 체온 조절을 위한 기나긴 여정이었다고 해도 과언이 아니다. 직립 보행을 하고, 털이 없어지고, 뇌 크기가 커지는 신체적 진화. 불을 사용하고, 옷을 만들어 입고, 집을 지어 사는 정신적 진화. 다른 사람과 부대끼며 교류하는 사회적 진화… 인류의 수많은 변화가 바로 체온 조절을 위한 선택압에서 유발되었다. \n사회심리학자 한스 이저맨은 인간은 체온을 따뜻하게 유지하기 위해 오랫동안 서로에게 의존해왔으며, 이런 사회적 체온 조절 본능은 사회와 문화를 형성하고 지탱하는 버팀목이 되었다는 해석을 내놓는다. 그는 진화론적 관점에서 체온 조절이 인간에게 미치는 영향을 다각도로 탐색하여 감정, 관계, 건강, 언어, 심지어 집을 잘 파는 능력까지 얼마나 많은 것이 주변 온도에 또 체온에 따라 달라지는지 보여준다. 거의 모든 것이 디지털로 연결되어 물리적 접촉이 사라져가는 시대에 인간이라는 종의 본성에 대한 긍정적이고 놀라운 메시지를 던진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "머스트리드북",
+                "DDC": "",
+                "UPDATE_DATE": "20211018",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "한스 이저맨 지음 ;이경식 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "439 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197022784",
+                "INPUT_DATE": "20210821",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "따뜻한 인간의 탄생",
+                "PUBLISH_PREDATE": "20210930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

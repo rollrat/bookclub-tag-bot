@@ -1,0 +1,67 @@
+{
+    "otitle": "엿보는 마을",
+    "oauthor": "리사 주얼 저/안은주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엿보는 마을",
+                "link": "https://search.shopping.naver.com/book/catalog/32544679601",
+                "image": "https://shopping-phinf.pstatic.net/main_3254467/32544679601.20221019110424.jpg",
+                "author": "리사 주얼",
+                "discount": "14670",
+                "publisher": "한스미디어",
+                "pubdate": "20220530",
+                "isbn": "9791160078091",
+                "description": "《뉴욕 타임스》, 《선데이 타임스》 베스트셀러 1위!\n굿리즈·아마존 리뷰수 10,000개 이상, 별점 4.4/5\n\n“이웃들, 배우자, 심지어 아들까지……\n마을에는 그 사람을 죽일 이유가 있다.\n이유는 사랑.”\n모두가 숨죽여 서로를 지켜보는 마을, 끔찍한 사랑을 받는 남자\n상상치 못한 반전의 후더닛에 스릴러의 합주\n\n《뉴욕 타임스》 베스트셀러 52주 연속 선정의 경이로운 대기록을 세운 작가, 리사 주얼의 대표 스릴러가 국내 출간된다. 리사 주얼은 1999년 발표한 첫 작품 『랄프의 파티』가 당해 가장 많이 팔린 데뷔소설이란 기록을 세우며 화려하게 등장했다. 이후 2022년까지 18편의 소설을 꾸준히 발표했으며, 그녀의 작품들은 통산 천만 부 이상의 판매고를 기록하고 29개 언어로 번역되었다.\n대표작 『엿보는 마을』은 출간 직후 《뉴욕 타임스》, 《선데이 타임스》 베스트셀러에 오른 화제작이다. 해외에서 떠돌다 결혼 후 안정을 찾아 고향으로 돌아온 젊은 여자 조이가, 하필 나이가 두 배는 되는 이웃집 남자에게 속수무책으로 빠져든 후 단 두 달 만에 살인 용의자로 지목되는 이야기를 다룬다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어 :한즈미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20220629",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "지은이: 리사 주얼 ;옮긴이: 안은주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "439 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160078091",
+                "INPUT_DATE": "20220503",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "엿보는 마을",
+                "PUBLISH_PREDATE": "20220527",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

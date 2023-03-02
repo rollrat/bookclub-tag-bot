@@ -1,0 +1,23 @@
+{
+    "otitle": "재미난 화학 이야기",
+    "oauthor": "윤실 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재미난 화학 이야기 (교실밖에서 배우는 과학상식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485697626",
+                "image": "https://shopping-phinf.pstatic.net/main_3248569/32485697626.20221019143140.jpg",
+                "author": "윤실",
+                "discount": "8550",
+                "publisher": "전파과학사",
+                "pubdate": "20080410",
+                "isbn": "9788970442631",
+                "description": "이 책은 우리 생활과 밀접한 화학물질의 성질을 소개하고 이들이 일으키는 화학반응에 대한 이야기를 문답식으로 알기쉽게 소개한다."
+            }
+        ]
+    }
+}

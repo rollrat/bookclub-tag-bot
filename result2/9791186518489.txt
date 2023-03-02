@@ -1,0 +1,67 @@
+{
+    "otitle": "금융투자 완전정복 2.0",
+    "oauthor": "최철식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "금융투자 완전정복 2.0 (아는 만큼 부자 되는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490747503",
+                "image": "https://shopping-phinf.pstatic.net/main_3249074/32490747503.20221228073935.jpg",
+                "author": "최철식",
+                "discount": "12420",
+                "publisher": "갈라북스",
+                "pubdate": "20210801",
+                "isbn": "9791186518489",
+                "description": "미래에셋증권 PB이사로 근무하면서 5,500억 원대 VIP고객들의 자산을 관리하고 있는 저자가 소개하는 최신의 ‘핫’한 금융 투자 정보를 담고 있는 책이다. \n주식, 펀드, 채권 등은 물론 해외주식, 원자재, 연금, 절세 등 다양한 금융 투자 정보에 대한 전문가의 세세한 설명이 담겨 있는 게 이 책의 특징이다. \n투자 초보자는 물론 전문가까지, ‘큰 돈’이든 ‘적은 돈’이든, 자신의 소중한 자산을 투자해 결실을 얻을 수 있는 유용한 ‘금융 투자 팁’도 이 책을 통해 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210811",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "지은이: 최철식",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/06/24/9791186518489.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "342 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518489",
+                "INPUT_DATE": "20210624",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(아는 만큼 부자 되는) 금융투자 완전정복 2.0",
+                "PUBLISH_PREDATE": "20210801",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

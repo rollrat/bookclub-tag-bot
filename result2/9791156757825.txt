@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 정신병에 걸린 뇌 과학자입니다",
+    "oauthor": "바버라 립스카,일레인 맥아들 공저/정지인 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 정신병에 걸린 뇌 과학자입니다 (뇌는 어떻게 우리를 인간답게 만드는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473987055",
+                "image": "https://shopping-phinf.pstatic.net/main_3247398/32473987055.20221230073647.jpg",
+                "author": "바버라 립스카^일레인 맥아들",
+                "discount": "15120",
+                "publisher": "심심",
+                "pubdate": "20190329",
+                "isbn": "9791156757825",
+                "description": "「뉴욕타임스」 화제의 에세이. 불안, 망상, 분노, 기억상실에 빠진 뇌에 대한 가장 생생한 탐구. 30년간 뇌를 연구해온 뇌 과학자가 정신질환에 걸렸다가 극적으로 일상으로 돌아왔다. 미국 국립정신보건원 뇌은행원장 바버라 립스카는 자신이 평생을 바쳐 연구한 정신질환의 양상을 직접 경험하면서 어떻게 뇌가 그 기이하고 당혹스러운 증상을 만들어내는지 비로소 제대로 이해하게 된다. \n\n\n\n\"정신이 이상하고 무시무시하게 변하는\" 경험을 한 저자는 30년간 살던 익숙한 동네에서 길을 잃고 3분 전에 뭘 했는지도 까먹으며 자기가 곧 죽을 수 있다는 사실은 깡그리 무시하면서 아침식사 메뉴 같은 사소한 이슈에 집착한다. 무엇보다 충격적인 것은 정신이 망가져가면서도, 자신이 정신질환에 빠져들고 있음을 알아채지 못한다는 사실이었다. \n\n\n\n우리는 흔히 정신질환에 대해 '마음만 먹으면, 사고방식만 바꾸면 극복할 수 있는 병'이라고 생각한다. 그러나 암이 마음먹는다고 고칠 수 있는 병이 아니듯 정신질환도 마음먹는다고 해결되지 않는다. 뇌 과학자의 전문성과 정신질환자의 실제 경험이 버무려진 이 책은 우리가 그동안 어렴풋이 알고 있었던 정신질환에 대한 오해와 진실을 때로는 과학의 언어로, 때로는 절절한 정신질환 생존자의 이야기로 담아낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20190409",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "바버라 립스카,일레인 맥아들 지음 ;정지인 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "513.8904",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "371 p.",
+                "CONTROL_NO": "CIP2019009769",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156757825",
+                "INPUT_DATE": "20190313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 정신병에걸린 뇌 과학자 입니다",
+                "PUBLISH_PREDATE": "20190329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

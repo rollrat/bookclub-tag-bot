@@ -1,0 +1,67 @@
+{
+    "otitle": "저평가된 알짜 아파트 한 채",
+    "oauthor": "제이크 차 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "저평가된 알짜 아파트 한 채 (빅데이터로 찾아내는 현명한 내 집 마련)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439709728",
+                "image": "https://shopping-phinf.pstatic.net/main_3243970/32439709728.20221019134739.jpg",
+                "author": "제이크 차",
+                "discount": "14260",
+                "publisher": "이레미디어",
+                "pubdate": "20200915",
+                "isbn": "9791188279876",
+                "description": "규제의 시기, 지금은 저평가된 알짜 아파트 한 채가 답이다!\n손쉬운 빅데이터 분석으로 지구에서 숲을 찾고, 나무를 골라내라\n\n계속되는 정부의 규제책 때문에 집값이 천정부지 올라가고 있다. 집값을 잡겠다고 규제를 하는 것인데 왜 반대로 더 올라갈까? 수도권의 주택 가격은 미국과 유럽 등 글로벌 주택 가격과 동조화되어 있기 때문에 정부의 대책만으로는 좌지우지할 수 없다. 국내외의 상황을 확인하고 분석해서 앞으로 발전 가능한 지역을 선택하고, 시세보다 저평가된 알짜 주택을 찾아야 한다. 이 책은 수많은 자료 중에서 가장 필요한 경제지표 10가지를 알기 쉽게 분석하는 방법을 보여준다. 어떤 지역을 선택해야 할지 비교 평가를 통해서 현명하게 저평가된 알짜 아파트를 찾을 수 있다. 특히 내 집 마련을 하지 못한 젊은 신혼부부부터 은퇴 후 안전한 투자처를 찾는 장년층까지 모두에게 필요한 해법을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20200929",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "제이크 차 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.87",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "306 p.",
+                "CONTROL_NO": "CIP2020031468",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188279876",
+                "INPUT_DATE": "20200728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "저평가된 알짜 아파트 한 채",
+                "PUBLISH_PREDATE": "20200915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

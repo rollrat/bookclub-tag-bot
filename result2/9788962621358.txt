@@ -1,0 +1,67 @@
+{
+    "otitle": "김대식의 인간 vs 기계",
+    "oauthor": "김대식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "김대식의 인간 vs 기계 (인공지능이란 무엇인가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485479672",
+                "image": "https://shopping-phinf.pstatic.net/main_3248547/32485479672.20221019101307.jpg",
+                "author": "김대식",
+                "discount": "16200",
+                "publisher": "동아시아",
+                "pubdate": "20160412",
+                "isbn": "9788962621358",
+                "description": "인공지능의 시대, 지배할 것인가 지배당할 것인가!\n\n2016년 3월 9일, 구글 딥마인드에서 만든 DQN 기계 알파고와 프로 기사 이세돌 9단의 첫 대국이 있었다. 알파고는 예상보다 훨씬 강력했고, 많은 사람들이 알파고의 진짜 능력에 등골이 서늘해졌다. 100년은 더 걸릴 것 같았던 인공지능 개발이 딥러닝과 빅데이터로 이제 10년 앞으로 다가왔다. 인류보다 지능적으로 더 완벽한 존재가 등장한 것이다. 인공지능은 앞으로의 미래를 어떻게 바꿔놓을 것인가. \n\n『김대식의 인간 vs 기계』는 인공지능 연구자이자 뇌과학자인 카이스트 김대식 교수의 저서이다. 인간의 지능을 이해하는 것은 인공지능의 능력과 인공지능의 발달을 예측하는 데 필수적이다. 따라서 김대식 교수의 뇌과학 강연이 곁들여진 인공지능 강의는 여타 다른 이야기보다 이해하기 쉽고 명료하면서도 명쾌하다. 인공지능ㆍ딥러닝ㆍ빅데이터 등 미래산업 전반에 대한 인문학적 통찰이 돋보인다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동아시아",
+                "DDC": "006.3",
+                "UPDATE_DATE": "20160420",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김대식",
+                "SERIES_TITLE": "",
+                "KDC": "004.73",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5323879_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5323879_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 350페이지 내외",
+                "CONTROL_NO": "CIP2016007944",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962621358",
+                "INPUT_DATE": "20160324",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "김대식의 인간vs기계",
+                "PUBLISH_PREDATE": "20160412",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

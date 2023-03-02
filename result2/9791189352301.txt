@@ -1,0 +1,67 @@
+{
+    "otitle": "투자의 태도",
+    "oauthor": "곽상준(증시각도기) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "투자의 태도 (돈을 잃지 않고 투자에 성공하는 기본 노하우)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486492731",
+                "image": "https://shopping-phinf.pstatic.net/main_3248649/32486492731.20221019123650.jpg",
+                "author": "곽상준(증시각도기)",
+                "discount": "14220",
+                "publisher": "위너스북",
+                "pubdate": "20200825",
+                "isbn": "9791189352301",
+                "description": "[경제의 신과 함께]하는 증시각도기 곽상준의 투자에 대한 올바른 생각!\n\n주식, 부동산, 채권, 금 등 모든 자산이 오르는 이때, \n우리는 어떤 태도로 투자해야 하는가?\n\n2020년 전 세계가 코로나19로 인해 전례 없는 위기에 놓여 있다. 특히 생산성 향상과 화폐가치 하락 속에서 어떻게 자산을 지키고 키워 나가야 할지는 삶의 중요한 요소로 자리잡을 것이다. 2020년 시작된 일명 ‘동학개미운동’을 현장에서 목격하면서, 어설픈 지도라도 급하게 필요하다는 생각을 하게 되었고, 무엇보다 실전 투자를 해본 사람의 경험이 필요하다는 요청을 받았다. \n\n『투자의 태도』 책은 대한민국 모든 투자자를 위해 어떻게 하면 자산을 지키고 키워 나가야 하는지 초보자들이 갖춰야 할 마음가짐부터, 가장 기초적인 투자의 태도를 담았다. 실제 투자 현장에서는 수많은 사람들이 깨질 것을 각오하고 투자에 뛰어든다. 그러나 성공 투자는 절대 그것이 아니다. 깨지길 각오하고 수익의 바다로 뛰어드는 게임이 아니라, 안 깨지는 길만을 찾아서 걸어가는 길 찾기 게임이다. 그래서 성공한 투자가와 대가들이 입을 모아 하는 말이 ‘투자의 제1원칙은 잃지 않는 것’이라고 이야기하고 제2원칙은 ‘투자의 제1원칙을 잊지 않는 것’이라고 말한다.\n\n증시각도기 곽상준 저자는 『투자의 태도』에서 어떻게 하면 깨지지 않고 장기적으로 성과를 거둘 수 있는지, 그리고 가장 중요한 돈을 잃지 않고 투자에 성공할 수 있는 기본 노하우를 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Winner's Book(위너스북)",
+                "DDC": "",
+                "UPDATE_DATE": "20200908",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "곽상준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/07/9791189352301.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "296 p.",
+                "CONTROL_NO": "CIP2020032954",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189352301",
+                "INPUT_DATE": "20200806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "투자의 태도",
+                "PUBLISH_PREDATE": "20200825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

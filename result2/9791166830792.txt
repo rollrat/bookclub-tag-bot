@@ -1,0 +1,67 @@
+{
+    "otitle": "진짜 쓸모 있는 영어회화",
+    "oauthor": "서메리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "진짜 쓸모 있는 영어회화 (일상생활에서 꼭 필요한 영어 표현)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473096034",
+                "image": "https://shopping-phinf.pstatic.net/main_3247309/32473096034.20221019151908.jpg",
+                "author": "서유라",
+                "discount": "10350",
+                "publisher": "넥서스",
+                "pubdate": "20210621",
+                "isbn": "9791166830792",
+                "description": "우리가 힘들게 배운 영어,\n한 번도 제대로 써먹지 못했다면?\n그래서 진짜 쓸모 있는 회화 표현만 담았다!\n\n1. 35가지 상황별 표현 총정리\n우리가 일상생활에서 접할 수 있는 35가지의 상황으로 현지 영어를 체험해 보세요.\n2. 그림으로 이해하는 다양한 상황 표현\n그림을 통해 다양한 상황에서 어떻게 말해야 하는지 쉽게 이해할 수 있습니다.\n3. 활용도 100% 현지 표현\n꼭 쓰게 되는 100% 활용 가능한 표현만을 모았습니다.\n\n이런 분들에게 강력 추천!\n★ 영어 때문에 해외 가는 것 자체가 두렵다.\n★ 공항에서도 영어로 당당하게 말하고 싶다.\n★ 외국에 가서 내가 마시고 싶은 커피를 제대로 주문하고 싶다.\n★ 외국에 가서도 마음대로 쇼핑을 하고 싶다.\n★ 외국 가서 좀 살아 보고 싶다.\n★ 내가 쓰는 말이 콩글리시인지 아닌지 잘 모르겠다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20210804",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "글·그림: 서메리",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "164 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166830792",
+                "INPUT_DATE": "20210426",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "진짜 쓸모 있는 영어회화",
+                "PUBLISH_PREDATE": "20210621",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

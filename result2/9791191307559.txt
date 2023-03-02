@@ -1,0 +1,67 @@
+{
+    "otitle": "조울병에 대한 거의 모든 것",
+    "oauthor": "바이폴라포럼 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조울병에 대한 거의 모든 것 (37인의 전문가와 함께 하는 조울병 극복 전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/32452263629",
+                "image": "https://shopping-phinf.pstatic.net/main_3245226/32452263629.20221228073816.jpg",
+                "author": "바이폴라포럼",
+                "discount": "14400",
+                "publisher": "시그마북스",
+                "pubdate": "20210805",
+                "isbn": "9791191307559",
+                "description": "조울병을 극복하고자 하는 사람들을 위한 책\n\n이 책은 조울병에 대해 꼭 알아야 될 조울병의 정의, 진단, 치료와 가족들의 대처 등 상세한 지식들을 요약, 정리하였다. 또한 국내 대학과 병원의 조울병 전문가인 저자들이 설문을 통해 조울병에 대한 궁금한 사항들을 수집하여 질문으로 구성하였다. 각 질문에 답을 작성한 뒤, 다른 전문가가 그 답을 검증하는 과정을 논문 집필하듯이 신중하게 진행하였다. 이런 과정을 거쳤으므로 일반인뿐만 아니라 전문가들도 참고할 만한 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210907",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "지은이: 바이폴라포럼 ;대표저자: 박원명,손인기,임은성,홍정완 ;참여 저자: 강한고은비,권영준,김경민,김문두,김원,남범우,민경준,박성용,박영민,서정석,성형모,송민규,송제헌,신영철,심세훈,심인희,양찬모,왕희령,우영섭,윤보현,이광헌,이대보,이상열,이정구,이종훈,이황빈,장세헌,장승호,전덕인,정명훈,정상근,정영은,정종현",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "329 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191307559",
+                "INPUT_DATE": "20210721",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "조울병에 대한 거의 모든 것",
+                "PUBLISH_PREDATE": "20210805",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

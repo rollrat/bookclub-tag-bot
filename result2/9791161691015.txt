@@ -1,0 +1,67 @@
+{
+    "otitle": "하마터면 부동산 상식도 모르고 집 살 뻔했다",
+    "oauthor": "김종선,서영철,진변석 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하마터면 부동산 상식도 모르고 집 살 뻔했다 (청약, 전·월세, 상가, 토지, 경매, 계약, 재건축까지 알면 돈이 되는 부동산 상식사전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441618717",
+                "image": "https://shopping-phinf.pstatic.net/main_3244161/32441618717.20221019142211.jpg",
+                "author": "김종선",
+                "discount": "15120",
+                "publisher": "팬덤북스",
+                "pubdate": "20191129",
+                "isbn": "9791161691015",
+                "description": "알면 득이 되고 모르면 당하는 실생활 부동산 상식!\n\n청약, 전·월세, 상가, 토지, 경매, 계약, 재건축까지 알면 돈이 되는 대한민국 부동산 상식의 모든 것을 담은 『하마터면 부동산 상식도 모르고 집 살 뻔했다』. 전·월세를 구하는 신혼부부나 청년부터, 똘똘한 내 집 한 채를 얻기 위해서 분양과 투자를 하는 부동산 초보자, 상가와 토지 등 부동산 투자를 통해서 노후 안정과 재산을 불리기 위한 부동산 투자자까지 대한민국 국민이라면 반드시 유념해야 할 부동산 상식을 용어의 단순나열식이 아니라, 각자가 처한 사항과 상황에 맞게 조목조목 설명하고 지침을 정리해 보여준다. 모두 10개의 주제를 통해 부동산 상식을 제대로 알아갈 수 있도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191128",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "김종선,서영철,진변석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "692 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161691015",
+                "INPUT_DATE": "20191105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "하마터면 부동산 상식도 모르고 집 살 뻔했다",
+                "PUBLISH_PREDATE": "20191129",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

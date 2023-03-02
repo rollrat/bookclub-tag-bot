@@ -1,0 +1,67 @@
+{
+    "otitle": "레고 어떻게 무너진 블록을 다시 쌓았나",
+    "oauthor": "데이비드 로버트슨,빌 브린 공저/김태훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "레고 어떻게 무너진 블록을 다시 쌓았나",
+                "link": "https://search.shopping.naver.com/book/catalog/32436254539",
+                "image": "https://shopping-phinf.pstatic.net/main_3243625/32436254539.20221229073131.jpg",
+                "author": "데이비드 로버트슨",
+                "discount": "15120",
+                "publisher": "해냄",
+                "pubdate": "20160310",
+                "isbn": "9788965745242",
+                "description": "이 책은 레고의 탄생과 성장, 그들이 겪은 위기의 원인을 분석하고 이를 통해 모든 조직이 직면하는 혁신의 딜레마에 대한 통찰을 제시한 탁월한 케이스 스터디이다. 어떤 혁신이 성공하고 실패하는지, 혁신의 속도와 방향을 어떻게 설정해야 하는지 레고 그룹의 부활의 여정을 통해 풀어냈다. \n\n\n\n이 책의 저자인 와튼 스쿨의 데이비드 로버트슨 교수는 베일에 싸여 있던 레고 그룹의 심장부를 심층 취재하며 ‘레고 교수’라는 별명을 얻기도 했다. 그는 스위스 IMD 재직 시절 5년 동안 레고 본사를 수차례 방문하고 CEO인 외르겐 비그 크누스토르프와 창업주의 손자이자 현재 이사회 부회장으로 있는 키엘드 키르크 크리스티안센을 비롯해 레고의 고위 경영진, 수많은 레고 직원들과 협력 업체들을 인터뷰하며 레고 그룹의 경영전략과 조직의 내부를 생생하게 보여준다.\n\n\n\n책은 조직 내에서 혁신을 일으키는 데 필요한 현실적인 교훈을 풍부하게 제시한다. 레고를 사랑하는 모든 사람들이 블록을 쌓으며 자신의 꿈과 미래를 건설했던 것처럼 레고도 ‘한 블록’씩 자신만의 혁신 전략을 쌓고 이를 실행하며 위기를 극복할 수 있었다. 레고를 뒤흔든 위기와 부활의 스토리를 담은 이 책을 통해 모든 비즈니스맨들은 자신과 조직을 위한 혁신의 블록을 차곡차곡 쌓아갈 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)해냄출판사",
+                "DDC": "658.401",
+                "UPDATE_DATE": "20160328",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "데이비드 로버트슨, 빌 브린 지음, 김태훈 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5265208_3.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5265208_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 400페이지 내외",
+                "CONTROL_NO": "CIP2016005457",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965745242",
+                "INPUT_DATE": "20160225",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "레고: 어떻게 무너진 블록을 다시 쌓았나",
+                "PUBLISH_PREDATE": "20160310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

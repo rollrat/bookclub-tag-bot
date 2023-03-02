@@ -1,0 +1,67 @@
+{
+    "otitle": "소식주의자",
+    "oauthor": "미즈노 남보쿠 저/최진호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "소식주의자 (소식은 어떻게 부와 장수를 불러오는가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455464648",
+                "image": "https://shopping-phinf.pstatic.net/main_3245546/32455464648.20221019123215.jpg",
+                "author": "미즈노 남보쿠",
+                "discount": "13400",
+                "publisher": "사이몬북스",
+                "pubdate": "20220516",
+                "isbn": "9791187330271",
+                "description": "소식은 어떻게 부와 장수를 불러오는가?\n\n일본에 한 가난한 남자가 있었다. 얼굴은 못생겼고 고아였으며 10세부터 술을 마셨다. 당연히 옥살이가 빈번했다. 옥살이 중에 범죄자의 관상이 일반인과 다르다는 사실을 깨달았다. 관상에 흥미를 가지고 관상가를 찾아갔더니 ‘1년 동안 보리와 콩으로 소식을 하라’는 충고를 받고 실천했다. 1년 후 빈상(貧相)이 복상(福相)으로 바뀌었고 다른 사람이 되었다. 이 책의 저자 남보쿠의 이야기다. 그는 매사에 절제하면 부와 장수가 저절로 굴러오는데, 그 절제의 1순위가 소식, 즉 적게 먹는 일이라고 주장한다.\n\n200여 년 전의 이야기임에도 뼈에 사무치는 지혜의 말들이 펼쳐진다. 당신이 과거에도 가난했고 지금도 가난하다면 선생의 가르침에 귀를 기울이시라. 당신이 지금 뚱뚱하고 질병으로 고생하고 있다면 그 이유를 경청하시라. 그는 부와 장수가 어떻게 완성되는지 아주 쉬운 말들로 설명하고 있다. 어설프게 아는 사람은 말이 많고 어렵게 말한다. 그러나 진정으로 깨달은 사람은 쉽게 말한다. 진실은 의외로 단순하기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사이몬북스",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 미즈노 남보쿠",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/04/19/9791187330271.jpg",
+                "PRE_PRICE": "15,500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187330271",
+                "INPUT_DATE": "20220419",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "N",
+                "TITLE": "소식주의자",
+                "PUBLISH_PREDATE": "20220516",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

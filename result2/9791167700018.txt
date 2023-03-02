@@ -1,0 +1,78 @@
+{
+    "otitle": "여행의 말들",
+    "oauthor": "이다혜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:30 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "여행의 말들 (일상을 다시 발명하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466994697",
+                "image": "https://shopping-phinf.pstatic.net/main_3246699/32466994697.20221019114343.jpg",
+                "author": "이다혜",
+                "discount": "11240",
+                "publisher": "유유",
+                "pubdate": "20210714",
+                "isbn": "9791167700018",
+                "description": "『출근길의 주문』, 『내일을 위한 내 일』, 『코넌 도일』 등으로 독자를 활발히 만나 온 에세이스트 이다혜가 여행에 대한 100개의 문장을 모았다. 책에서 길어 올린 단단한 문장과 그에 따른 단상을 통해 작가는 일상을 다시 발명하는 방법으로서의 여행을 제안한다. 또한 코로나19 시대, 지금 우리의 여행에 대해 다시금 생각하는 경험을 선사하며 떠나든 떠나지 않든 쳇바퀴처럼 굴러가는 일상의 바깥을 상상하는 힘을 기를 수 있도록 돕는다."
+            },
+            {
+                "title": "여행의 말들(큰글자도서) (일상을 다시 발명하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/34235533618",
+                "image": "https://shopping-phinf.pstatic.net/main_3423553/34235533618.20221019105947.jpg",
+                "author": "이다혜",
+                "discount": "24300",
+                "publisher": "유유",
+                "pubdate": "20220812",
+                "isbn": "9791167700391",
+                "description": "『출근길의 주문』, 『내일을 위한 내 일』, 『코넌 도일』 등으로 독자를 활발히 만나 온 에세이스트 이다혜가 여행에 대한 100개의 문장을 모았다. 책에서 길어 올린 단단한 문장과 그에 따른 단상을 통해 작가는 일상을 다시 발명하는 방법으로서의 여행을 제안한다. 또한 코로나19 시대, 지금 우리의 여행에 대해 다시금 생각하는 경험을 선사하며 떠나든 떠나지 않든 쳇바퀴처럼 굴러가는 일상의 바깥을 상상하는 힘을 기를 수 있도록 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유유",
+                "DDC": "",
+                "UPDATE_DATE": "20210819",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "이다혜 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167700018",
+                "INPUT_DATE": "20210701",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여행의 말들",
+                "PUBLISH_PREDATE": "20210714",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

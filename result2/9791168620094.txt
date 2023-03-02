@@ -1,0 +1,67 @@
+{
+    "otitle": "해피 샌드위치",
+    "oauthor": "제이슨 골드스타인 저/최경남 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "해피 샌드위치 (우리를 미소 짓게 할 정말 맛있는 샌드위치 레시피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473019554",
+                "image": "https://shopping-phinf.pstatic.net/main_3247301/32473019554.20230117163217.jpg",
+                "author": "제이슨 골드스타인",
+                "discount": "13500",
+                "publisher": "시그마북스",
+                "pubdate": "20220210",
+                "isbn": "9791168620094",
+                "description": "쉽고 재미있으면서도 엄청나게 맛있는 샌드위치\n\n이 책에서 소개하는 레시피는 가볍게 변형을 준 고급 샌드위치들이다. 이 책의 모든 레시피들은 바쁘고 긴 하루를 보낸 후 집으로 돌아와서도 매번 만족스럽고 맛있는 샌드위치를 쉽게 만들 수 있도록 해준다. 맛있게 만들면서도 시간을 절약할 수 있는 방법을 알려주는 것이다. 베이킹 시트를 이용해서 샌드위치를 만들면 접시가 필요 없다. 슬로우 쿠커 샌드위치는 ‘버튼을 누르고 잊어버리게’ 해준다. 그리고 빵을 사용하지 않는 샌드위치는 흥미롭기까지 하다! 다양한 그릴드 치즈 샌드위치에 한 챕터를 오롯이 할애한 이 책은 샌드위치를 사랑하는 모든 사람들에게 필요한 요리책이다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220302",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "제이슨 골드스타인 지음 ;최경남 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "128 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168620094",
+                "INPUT_DATE": "20220110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "해피 샌드위치",
+                "PUBLISH_PREDATE": "20220210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

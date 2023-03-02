@@ -1,0 +1,67 @@
+{
+    "otitle": "맥스웰의 도깨비",
+    "oauthor": "쓰즈키 다쿠지 저/김명수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "맥스웰의 도깨비 (확률에서 물리학으로, 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436331152",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436331152.20221229073116.jpg",
+                "author": "쓰즈키 다쿠지",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20181112",
+                "isbn": "9788970448435",
+                "description": "‘맥스웰의 도깨비’는 인류를 구원할 수 있을까?\n\n제임스 클러크 맥스웰에 의해 제기된 이론인 ‘맥스웰의 도깨비(Maxwell's demon)’를 다루고 있는 이 책은, 이 이론을 통해 자연과학의 본질을 역설적으로 바라보았다.\n예를 들어, 한 곳에서 다른 방향으로 빛이 간다면 반대로도 빛이 통할 것이다. 이러한 대칭성은 전기현상에 대해서도 마찬가지이다. 그러나 열에 관해서는 열적 현상 때문에 대칭성이 성립되지 않는다. 이 진리에 도전하는 것이 바로 가상의 존재인 ‘도깨비’인 것이다. 이 책은 도깨비의 존재가 허무맹랑한 이야기만은 아님을 강조하고 있다.\n한편 이 책은 열현상의 통계역학적인 접근법과 이에 의한 물성론의 이해 방법을 다루어 많은 과학도나 공학도들에게 꼭 필요한 지식이 담겨있다.\n또한 확률과 맥스웰의 도깨비(그리고 나아가서는 통계역학) 사이에 어떤 관계가 있는가에 초점을 맞추었다. 최대한 이해하기 쉽게 썼으며, 학생들은 물론 모든 일반인도 쉽게 읽을 수 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20181126",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "쓰즈키 다쿠지 지음 ;김명수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "224 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448435",
+                "INPUT_DATE": "20181026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "맥스웰의 도깨비",
+                "PUBLISH_PREDATE": "20181112",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

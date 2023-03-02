@@ -1,0 +1,67 @@
+{
+    "otitle": "이야기로 읽는 확률과 통계",
+    "oauthor": "정완상 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이야기로 읽는 확률과 통계 (4차산업혁명시대를 끌어갈 빅 트렌드, 빅데이터 분석의 기초)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466539213",
+                "image": "https://shopping-phinf.pstatic.net/main_3246653/32466539213.20221019113811.jpg",
+                "author": "정완상",
+                "discount": "31500",
+                "publisher": "이지북",
+                "pubdate": "20210203",
+                "isbn": "9788957078891",
+                "description": "4차산업혁명의 근본, 빅데이터를 다루기 위한 필수 교양\n\n확률과 통계를 제대로 이해하기 위해 제일 먼저 읽어야 할 책!\n판타지 스토리로 골치 아픈 확률과 통계를 완벽하게 정복한다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지북",
+                "DDC": "",
+                "UPDATE_DATE": "20210330",
+                "EA_ADD_CODE": "04410",
+                "PUBLISHER_URL": "http://jamobook.com/",
+                "AUTHOR": "정완상 지음",
+                "SERIES_TITLE": "이야기로 읽는 수학",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788957078884",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "463 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788957078891",
+                "INPUT_DATE": "20210115",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(이야기로 읽는) 확률과 통계",
+                "PUBLISH_PREDATE": "20210129",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04410 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

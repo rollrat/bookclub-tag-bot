@@ -1,0 +1,67 @@
+{
+    "otitle": "더미를 위한 디지털 마케팅",
+    "oauthor": "라이언 다이스,러스 헨베리 공저/고동우,박아름 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "더미를 위한 디지털 마케팅",
+                "link": "https://search.shopping.naver.com/book/catalog/32455976714",
+                "image": "https://shopping-phinf.pstatic.net/main_3245597/32455976714.20221230073130.jpg",
+                "author": "라이언 다이스^러스 헨베리",
+                "discount": "22500",
+                "publisher": "시그마북스",
+                "pubdate": "20180620",
+                "isbn": "9788984459908",
+                "description": "기본부터 챙기는 디지털 마케팅의 모든 것!\n\n성공적인 디지털 마케팅을 위해 필요한 것은 무엇일까? 잊지 말아야 할 것은 지나치게 기술적일 필요도, 마술이나 속임수도 필요 없다는 것이다. 디지털 마케팅 교육 업체를 운영하는 저자들은 마케팅, 디지털 또는 기타 최신 기술에 대해 과장하지 않는다. 대신 기업 목표를 달성하기 위한 콘텐츠 마케팅, 소셜 미디어 마케팅, 이메일 마케팅과 같은 디지털 마케팅의 기본 원리를 다루고 있다. \n『더미를 위한 디지털 마케팅』은 마케팅 관련 기업 실무자뿐 아니라 중, 소규모 비즈니스를 운영하고 있거나 새롭게 비즈니스를 시작하려는 사람들을 위한 책이다. 브랜드 홍보용 블로그를 작성해야 하는데 도무지 아이디어가 떠오르지 않거나, 주먹구구식에서 벗어나 홍보 대비 효과가 가장 높을 타깃 독자들을 발견하고 분석하고 싶은데 어떻게 해야 할지 막막하거나, 블로그, 유튜브, 인스타그램 등 다양한 채널로 마케팅하고 있지만 어쩐지 효과가 없어 답답하다면 이 책이 그 답을 제시할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "658.872",
+                "UPDATE_DATE": "20180719",
+                "EA_ADD_CODE": "04320",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "라이언 다이스,러스 헨베리 지음 ;고동우,박아름 옮김",
+                "SERIES_TITLE": "더미를 위한 ",
+                "KDC": "325.555",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788984459625",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6629341_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "380 p.",
+                "CONTROL_NO": "CIP2018011701",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984459908",
+                "INPUT_DATE": "20180412",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(더미를 위한) 디지털 마케팅",
+                "PUBLISH_PREDATE": "20180620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

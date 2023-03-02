@@ -1,0 +1,67 @@
+{
+    "otitle": "FOOD SCIENCE 푸드 사이언스 150",
+    "oauthor": "브라이언 레 저/장혜인 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "FOOD SCIENCE 푸드 사이언스 150 (더 맛있게 더 똑똑하게 요리하기 위한 과학적인 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487152711",
+                "image": "https://shopping-phinf.pstatic.net/main_3248715/32487152711.20221228074140.jpg",
+                "author": "브라이언 레",
+                "discount": "16200",
+                "publisher": "시그마북스",
+                "pubdate": "20210215",
+                "isbn": "9791191307078",
+                "description": "요리를 하다 보면 맞닥뜨리게 되는 다양한 궁금증 150가지와 그에 대한 과학적인 분석을 담은 책이다. 조리도구 선택부터 재료 손질 및 관리, 조리법에 이르기까지 요리 과정에 숨겨진 과학의 원리를 이해하면 보다 맛있게, 보다 똑똑하게 요리할 수 있을 것이다.\n\n\n\n식품과학 전문가인 저자는 원래 요알못인 화학 전공자였다. 저자에게 요리란 그저 무언가를 하기 위해 에너지를 얻는 도구일 뿐이었다. 하지만 삶에 기쁨을 주는 요리의 가치를 깨닫게 되면서, 자신의 전공과 요리를 접목한 식품과학이라는 분야에 빠져들게 되었다. 저자는 과학의 원리를 이용하면 자신의 의도대로 재료를 선택하고 변형하고 조절하여 더 맛있는 요리를 만들 수 있다며, 이 책을 통해 누구나 식품과학의 매력에 빠져들기 바란다고 말한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210315",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "브라이언 레 지음 ;장혜인 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191307078",
+                "INPUT_DATE": "20210125",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "푸드 사이언스 150",
+                "PUBLISH_PREDATE": "20210215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

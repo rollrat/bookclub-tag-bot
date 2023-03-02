@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 정직하게 코딩하며 배우는 딥러닝 입문",
+    "oauthor": "박해선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 정직하게 코딩하며 배우는 딥러닝 입문 (개념, 수식, 코딩 순서대로 정면 돌파!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466968755",
+                "image": "https://shopping-phinf.pstatic.net/main_3246696/32466968755.20230207165445.jpg",
+                "author": "박해선",
+                "discount": "17820",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20190920",
+                "isbn": "9791163031093",
+                "description": "정직하게 코딩하며\n딥러닝을 빠르게 정면 돌파하자!\n\n이 책은 어설픈 지름길을 담지 않았다. 공부는 했는데 남는 게 없으면 안 되니까! 실무에서 제대로 알고 써야 하니까! 국내 6명뿐인 구글 인증 머신러닝 전문가(ML GDE; Machine Learning Google Developer Experts)이자 인공지능 분야 서적, 최다 번역을 진행한 박해선 선생이 이번에는 딥러닝 입문서를 집필했다.\n\n이 책은 개념 한 걸음, 수식 한 걸음 그리고 코딩 한 걸음. 가장 적당한 보폭과 올곧은 방향으로 독자를 딥러닝으로 안내한다. 또한 그래프, 삽화, 도해는 100개가 넘어 추상적인 개념도 쉽고 빠르게 받아들일 수 있다. 프로그램 설치 없이 웹 브라우저에 접속하기만 하면 실습을 바로 시작할 수 있다는 점도 이 책만의 특징이다. \n\n편안하게 이론을 이해한 다음 직접 코딩하며 눈으로 딥러닝 대표 문제 4가지를 정복하니 딥러닝의 교과서로 부족함이 없다. 꼭 짚고 넘어가야 할 개념이나 용어는 본문 중간에 나오는 ‘잠깐! 다음으로 넘어가려면’ 코너와 장 마지막에‘기억 카드’ 코너로 2번 복습하여 학습 효과를 높였다. 《Do it! 딥러닝 입문》과 함께 딥러닝을 빠르게 정면 돌파해 보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20191007",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "박해선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "323 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163031093",
+                "INPUT_DATE": "20190909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(Do it!) 정직하게 코딩하며 배우는 딥러닝 입문",
+                "PUBLISH_PREDATE": "20190920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

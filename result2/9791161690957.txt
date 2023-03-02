@@ -1,0 +1,67 @@
+{
+    "otitle": "내일 고민은 내일 하는 걸로",
+    "oauthor": "스기타 다카시 저/이주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내일 고민은 내일 하는 걸로 (세상 고민 혼자 다하는 당신을 위한 심리 처방)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443013812",
+                "image": "https://shopping-phinf.pstatic.net/main_3244301/32443013812.20221227202846.jpg",
+                "author": "스기타 다카시",
+                "discount": "10800",
+                "publisher": "팬덤북스",
+                "pubdate": "20191011",
+                "isbn": "9791161690957",
+                "description": "누구나 크고 작은 고민을 끌어안고 산다. 살아가면서 고민이 없는 사람은 아마도 없을 것이다. 누군가는 고민을 통해 더 나은 삶을 살기도 하고, 또 다른 누군가는 고민에 짓눌려 더 힘든 삶을 살기도 한다. 안타깝게도 살아가면서 고민의 크기와 횟수는 점점 커지고 늘어간다. 결정해야 할 일도 많아지고 생각해야 할 일도 많아진다.\n\n\n\n그런데 이상하게도 누군가는 고민을 통해서 문제를 극복하고 성장하는데, 또 다른 누군가는 원래의 문제보다 문제를 더 크게 만들어 스스로를 힘들게 한다. 누군가는 고민을 가볍게 넘기는 반면, 또 누군가는 고민에 파묻혀 끊임없이 고민을 찾아내고 만드는 이유 왜 그럴까? 고민에 짓눌려 사는 사람들이 고민에서 벗어나는 방법은 없을까?\n\n\n\n2006년 처음으로 심리 상담을 받고 막연한 괴로움에서 벗어나게 된 저자는 심리 상담을 통해 세상 밖으로 걸어 나오게 된 그는 고민이 있는 사람들의 심리 상태에 관심을 갖기 시작했다. 특히 겉으로 보기에 별문제 없는 듯 보이지만 자신처럼 마음의 병이 깊은 사람들을 격려해주고 싶었다.\n\n\n\n저자는 이들을 위로하기 위해 ‘고민이 없는 사람들의 고민 상담’ 상담소를 열었고, ‘고민이 없는 사람들의 고민 상담’에 찾아온 내담자들과 저자의 체험을 바탕으로 이 책을 썼다. 저자가 실제로 고민의 늪에 빠져 어려움을 겪고 있을 때, ‘이런 책이 있으면 정말 좋겠다’라고 생각했던 내용을 구체화한 결과물이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191014",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "스기타 다카시 지음 ;이주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "183 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161690957",
+                "INPUT_DATE": "20190909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "내일 고민은 내일 하는 걸로",
+                "PUBLISH_PREDATE": "20191018",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

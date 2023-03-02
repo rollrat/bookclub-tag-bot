@@ -1,0 +1,67 @@
+{
+    "otitle": "마르크스 2020",
+    "oauthor": "로날도 뭉크 저/김한슬기 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마르크스 2020 (자본주의 위기에서 마르크스는 여전히 유효한가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503853095",
+                "image": "https://shopping-phinf.pstatic.net/main_3250385/32503853095.20221228072307.jpg",
+                "author": "로날도 뭉크",
+                "discount": "14400",
+                "publisher": "팬덤북스",
+                "pubdate": "20180510",
+                "isbn": "9791161690469",
+                "description": "하나의 유령이 지구를 떠돌고 있다. \n마르크스라는 유령이다!\n현대 자본주의와 자본주의 체제에서 발생하는 문제들을 \n비판적으로 분석하는 마르크스, 부활을 꿈꾸다.\n\n2007년 시작된 금융 위기가 전 세계를 휩쓸자 자본주의 사회의 언론은 정신없이 마르크스가 제시한 자본주의 발전 이론을 소개했다. 경제적 자유주의는 한계에 봉착했으며, 오직 마르크스만이 여기에 합리적인 해설을 내놓는다. 소비에트 연방이 몰락하고 겨우 15년 만에 마르크스주의를 구성하는 정치철학은 ‘역사의 끝’, ‘대안은 없다’는 슬로건을 내세운 경제적 자유주의와 정치적 자유주의 신념이 붕괴한 이유를 이해하는 열쇠로 사용되었다. 그러나 전 세계적으로 카를 마르크스의 사상을 기저에 두고 실행에 옮긴 정치적 세력은 매우 드물었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20180511",
+                "EA_ADD_CODE": "03160",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "로날도 뭉크 지음 ;김한슬기 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "371 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161690469",
+                "INPUT_DATE": "20180416",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "마르크스 2020",
+                "PUBLISH_PREDATE": "20180510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

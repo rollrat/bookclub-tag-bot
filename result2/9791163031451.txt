@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 리액트 프로그래밍 정석",
+    "oauthor": "박호준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 리액트 프로그래밍 정석 (실리콘밸리 개발 방법으로 배우는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461286221",
+                "image": "https://shopping-phinf.pstatic.net/main_3246128/32461286221.20221229072448.jpg",
+                "author": "박호준",
+                "discount": "32400",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20200207",
+                "isbn": "9791163031451",
+                "description": "실리콘밸리 리액트 클래스를 그대로 담았다!\n에어비앤비 프런트엔드 리드에게 배우는 리액트 프로그래밍!\n\n전 세계의 뛰어난 개발자들이 모여 일한다는 실리콘밸리! 실리콘밸리에서도 핫한 기업인 ‘에어비앤비’에서 프런트엔드 리드로 활약하는 저자에게 리액트를 배워 보자. 『Do it! 리액트 프로그래밍 정석』은 저자가 한국 소프트웨어 기술 진흥 협회에서 진행한 리액트 오프라인 강의를 정리하고 보강하여 만든 책이다. \n\n이 책은 리액트에 대한 전반적인 내용은 물론이고 프런트엔드 프로그래밍 기법과 클라우드 데이터베이스 적용, 서비스 배포까지 다뤄 프런트엔드 프로그래밍에 도전하려는 사람이라면 첫 번째 교과서로 삼아도 좋다. 자주 나올 만한 질문은 ‘도와줘요! 저스틴’ 코너에서 소개하고, 추상적인 내용은 그림으로 독자의 이해를 도왔다. 책의 최종 목표인 ‘가상 코인 거래소 만들기’ 프로젝트에는 리팩토링과 같은 실무 과정도 포함해 ‘진짜 에어비앤비 개발자의 실무 감각’도 익힐 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱(주)",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "저자 : 박호준",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "36,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "656",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163031451",
+                "INPUT_DATE": "20200122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "N",
+                "TITLE": "Do it! 리액트 프로그래밍 정석",
+                "PUBLISH_PREDATE": "20200207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

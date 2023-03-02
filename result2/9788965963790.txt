@@ -1,0 +1,67 @@
+{
+    "otitle": "룬샷",
+    "oauthor": "사피 바칼 저/이지연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "룬샷 (전쟁, 질병, 불황의 위기를 승리로 이끄는 설계의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491389734",
+                "image": "https://shopping-phinf.pstatic.net/main_3249138/32491389734.20221019151605.jpg",
+                "author": "사피 바칼",
+                "discount": "16200",
+                "publisher": "흐름출판",
+                "pubdate": "20200427",
+                "isbn": "9788965963790",
+                "description": "전쟁, 질병, 불황의 위기를 승리로 이끄는 설계의 힘\n\n어떻게 미국은 제2차 세계대전을 계기로 세계 패권을 잡았는가? 애플을 세운 스티브 잡스부터  영화〈스타워즈〉시리즈, 바이오테크 산업의 문을 연 제넨테크까지 이들은 무엇이 달랐기에 결정적 순간에 폭발적 성장을 할 수 있었을까? 비슷한 점이 전혀 없어 보이는 이들 국가, 기업, 리더에게는 한 가지 공통점이 있었다. 바로 외면 받던 아이디어를 발 빠르게 육성해 성장의 동력으로 만드는 시스템을 갖추었던 것. 이들은 창의성과 효율성의 선순환 시스템을 통해 세계의 패권을 잡고, 질병과의 전쟁에서 승리했으며, 쟁쟁한 경쟁자들을 물리치고 위대한 기업으로 거듭났다.\n\n물리학자, 바이오테크 기업 창업자이자 최고경영자인 사피 바칼은 《룬샷(Loonshots)》에서 ‘미친’ 아이디어라고 손가락질 받던 ‘룬샷’이 어떻게 전쟁, 질병, 비즈니스의 위기를 승리로 이끌었는지 과학자와 경영자의 눈으로 탐구한다. “성공과 실패에 대해 지금까지와는 전혀 다른 차원의 접근”이라는 로버트 러플린(노벨 경제학상 수상자)의 추천사처럼 기존의 질서와 상식이 무너지는 시대에 이 책이 새로운 돌파구가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판",
+                "DDC": "",
+                "UPDATE_DATE": "20200428",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "사피 바칼 지음 ;이지연 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.24",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "467 p.",
+                "CONTROL_NO": "CIP2020013777",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965963790",
+                "INPUT_DATE": "20200401",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "룬샷",
+                "PUBLISH_PREDATE": "20200427",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

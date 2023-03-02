@@ -1,0 +1,67 @@
+{
+    "otitle": "프로이트라면 어떻게 할까?",
+    "oauthor": "세라 톰리저/황선영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "프로이트라면 어떻게 할까? (위대한 심리학자들에게서 듣는 일상 속 고민 해결법!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496275721",
+                "image": "https://shopping-phinf.pstatic.net/main_3249627/32496275721.20221229070851.jpg",
+                "author": "세라 톰리",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20171010",
+                "isbn": "9788984458789",
+                "description": "나도 모르겠는 나의 속마음, 어떻게 하면 마음이 홀가분해질 수 있을까? 이 책은 질의응답의 형식을 빌려 세계적인 심리치료사, 정신분석학자, 심리학자의 이론으로 일상적인 고민에 대해 대답해준다. 아울러 그 과정에서 인간의 정신이라는 이상한 세계, 우리가 공통적으로 갖춘 지력, 개별적인 정신의 고유함에 관해 다양한 시각을 제시한다.\n\n\n\n인간은 머릿속으로 시간 여행을 할 수 있는 유일한 동물이다. 이 책은 과거를 돌아보고, 미래를 내다보고, 현재를 아주 가까이에서 관찰할 수 있도록 도와주며 우리는 생각보다 많은 것을 알고 있고, 알고 있는 것보다 더 많은 것에 대해 생각하고 있음을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "150.2",
+                "UPDATE_DATE": "20171117",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "세라 톰리 지음 ;황선영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "180.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6236463_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6236463_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "192 p.",
+                "CONTROL_NO": "CIP2017013056",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984458789",
+                "INPUT_DATE": "20170530",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "프로이트라면 어떻게 할까?",
+                "PUBLISH_PREDATE": "20171010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "심리학아니다 심리술이다",
+    "oauthor": "로미오 로드리게스 Jr 저/하진수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "심리학 아니다 심리술이다",
+                "link": "https://search.shopping.naver.com/book/catalog/32496917920",
+                "image": "https://shopping-phinf.pstatic.net/main_3249691/32496917920.20221231084244.jpg",
+                "author": "로미오 로드리게스 주니어",
+                "discount": "12420",
+                "publisher": "마인더브",
+                "pubdate": "20210507",
+                "isbn": "9791189953218",
+                "description": "직장 상사, 경쟁자, 연인, 고객 등 당신을 둘러싼 사람들의 마음을\n원하는 대로 컨트롤할 수 있는 심리기술\n\n세계적인 멘탈리스트가 비즈니스 현장이나 일상생활에서 곧바로 적용 가능한 심리기술 89가지를 소개한다. 심리기술은 유용하게 쓰이기도, 악용되기도 한다. 사실 프로파일러도, 인질협상가도, 사기꾼도 모두 심리기술의 달인이다. 심리기술을 올바르게 사용하면 상대방의 마음을 능숙하게 읽을 수 있어서 인간관계가 수월해진다. 심리기술을 잘 이용하면 인간관계를 개선하고 불리한 상황을 타파하며 상대와의 관계성을 최상으로 끌어올릴 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "경원북스 ",
+                "DDC": "",
+                "UPDATE_DATE": "20210602",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "로미오 로드리게스 Jr. 지음 ;하진수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/19/9791189953218.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "218 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189953218",
+                "INPUT_DATE": "20210406",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "심리학아니다 심리술이다",
+                "PUBLISH_PREDATE": "20210507",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

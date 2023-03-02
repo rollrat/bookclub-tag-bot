@@ -1,0 +1,67 @@
+{
+    "otitle": "여성혐오, 그 후",
+    "oauthor": "이현재 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여성혐오, 그 후 (우리가 만난 비체들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456292886",
+                "image": "https://shopping-phinf.pstatic.net/main_3245629/32456292886.20221019132923.jpg",
+                "author": "이현재",
+                "discount": "10800",
+                "publisher": "들녘",
+                "pubdate": "20161031",
+                "isbn": "9791159252013",
+                "description": "『여성혐오, 그 후』는 그동안 쏟아진 여성혐오에 대한 분석들과 비판적 논의 이후, 소위 '포스트 메갈' 시대에 우리에게 남겨진 과제가 무엇인지 그리고 어떤 전략이 필요한지 고민한다. 여성철학자이자 페미니스트인 이현재는 새롭게 부상하는 페미니즘의 흐름을 지속하고 확장하기 위해서 페미니즘 언어를 다시 점검하고 수정해야 할 때라고 지적한다. 지금의 페미니즘이 어떤 문제에 당면할 수 있는지 설명하며 이러한 곤경을 빠져나가면서도, 여성혐오에 대해 비판하고 내부의 차이를 넘어서서 연대할 수 있는 방향을 모색하고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "305.4",
+                "UPDATE_DATE": "20161116",
+                "EA_ADD_CODE": "93330",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "이현재 ",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5810947_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5810947_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 150페이지 내외 ",
+                "CONTROL_NO": "CIP2016024238",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159252013",
+                "INPUT_DATE": "20161011",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "여성혐오 그 후: 우리가 만난 비체들 ",
+                "PUBLISH_PREDATE": "20161031",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

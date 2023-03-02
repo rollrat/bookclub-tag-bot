@@ -1,0 +1,67 @@
+{
+    "otitle": "좋은 주식에 집중투자하라",
+    "oauthor": "이준혁 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋은 주식에 집중투자하라 (집중투자 가장 효율적인 투자 방법이다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441644077",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441644077.20220527081221.jpg",
+                "author": "이준혁",
+                "discount": "0",
+                "publisher": "원앤원북스",
+                "pubdate": "20120827",
+                "isbn": "9788960602526",
+                "description": "집중투자가 투자의 해답이다!\n\n『좋은 주식에 집중투자하라』는 유리자산운용의 주식운용본부장 이준혁이 주식투자에 있어서 분산투자가 아니라 집중투자를 해야 하는 이유를 설득력 있게 설명하고, 본질 좋은 회사를 고르는 법을 안내한 책이다. 집중투자와 분산투자를 새롭게 조명하고, 경제와 투자의 대가 케인즈, 오마하의 현인이자 투자의 귀재 워런 버핏, 성장주의 진정한 대가 필립 피셔의 투자 철학과 실적을 소개한다. 이어 좋은 회사를 찾는 방법, 좋은 가격을 위한 조건 4가지 등 투자자들에게 실질적인 도움을 줄 수 있는 정보를 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "332.6322",
+                "UPDATE_DATE": "20120828",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "이준혁 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2568953_6_1.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2568953_3_1.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012003472",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960602526",
+                "INPUT_DATE": "20120726",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "좋은 주식에 집중투자하라 ",
+                "PUBLISH_PREDATE": "20120827",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

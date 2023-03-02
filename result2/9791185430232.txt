@@ -1,0 +1,78 @@
+{
+    "otitle": "고종석의 문장",
+    "oauthor": "고종석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:21 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "고종석의 문장 (아름답고 정확한 글쓰기란 무엇일까)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441652739",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441652739.20230222102120.jpg",
+                "author": "고종석",
+                "discount": "15120",
+                "publisher": "알마",
+                "pubdate": "20140602",
+                "isbn": "9791185430232",
+                "description": "기술을 넘어서 기품 있고 우아한 글쓰기로!\n\n당대의 대표적인 문장가 고종석의 글쓰기 직강 『고종석의 문장』. 2013년 9월부터 12월까지 석 달 동안 모두 열두 차례에 걸쳐 숭실대학교에서 진행된 고종석의 글쓰기 강의 중 앞의 여섯 강의를 녹취·정리한 책이다. 여타 글쓰기 책들이 자잘한 작문 테크닉과 실천적 조언에 몰두하는 것에 반해, 고종석은 그것이 글쓰기 기술의 일부임을 분명히 하며 공학적 측면을 넘어선 글쓰기 기술을 흥미진진하게 펼쳐낸다. \n\n책은 크게 ‘인문 교양ㅡ글쓰기 이론ㅡ글쓰기 실전’의 세 부분으로 이루어져 있다. ‘인문 교양’에서는 품격 있는 글쓰기의 배경이 되는 교양 지식을 다루고, ‘글쓰기 이론’에서는 실제 글쓰기 기술과 관련된 원리 및 이론을, ‘글쓰기 실전’에서는 실제 기술의 적용을 정리한다. 특히 그는 ‘교양’과 ‘지식’을 좋은 글쓰기의 중요한 조건으로 내세우는데, 이는 ‘글쓰기 비법’류의 견해들이 간과하는 지점을 정확히 파고들며, 글쓰기의 기본에 대해 정직하게 되묻는다."
+            },
+            {
+                "title": "고종석의 문장 2 (자유롭고 행복한 글쓰기란 무엇일까)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436093622",
+                "image": "https://shopping-phinf.pstatic.net/main_3243609/32436093622.20230224102639.jpg",
+                "author": "고종석",
+                "discount": "15750",
+                "publisher": "알마",
+                "pubdate": "20140929",
+                "isbn": "9791185430324",
+                "description": "기술을 넘어서 기품 있고 우아한 글쓰기로!\n\n당대의 대표적인 문장가 고종석의 글쓰기 직강 『고종석의 문장』. 2013년 9월부터 12월까지 석 달 동안 모두 열두 차례에 걸쳐 숭실대학교에서 진행된 고종석의 글쓰기 강의 중 후반부 여섯 강의를 녹취·정리한 책이다. 여타 글쓰기 책들이 자잘한 작문 테크닉과 실천적 조언에 몰두하는 것에 반해, 고종석은 그것이 글쓰기 기술의 일부임을 분명히 하며 공학적 측면을 넘어선 글쓰기 기술을 흥미진진하게 펼쳐낸다. \n\n책은 크게 ‘인문 교양ㅡ글쓰기 이론ㅡ글쓰기 실전’의 세 부분으로 이루어져 있다. ‘인문 교양’에서는 품격 있는 글쓰기의 배경이 되는 교양 지식을 다루고, ‘글쓰기 이론’에서는 실제 글쓰기 기술과 관련된 원리 및 이론을, ‘글쓰기 실전’에서는 실제 기술의 적용을 정리한다. 특히 그는 ‘교양’과 ‘지식’을 좋은 글쓰기의 중요한 조건으로 내세우는데, 이는 ‘글쓰기 비법’류의 견해들이 간과하는 지점을 정확히 파고들며, 글쓰기의 기본에 대해 정직하게 되묻는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)알마",
+                "DDC": "808",
+                "UPDATE_DATE": "20140523",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고종석",
+                "SERIES_TITLE": "",
+                "KDC": "802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185430225",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3571035_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3571035_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014015202",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185430232",
+                "INPUT_DATE": "20140512",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "고종석의 문장",
+                "PUBLISH_PREDATE": "20140601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

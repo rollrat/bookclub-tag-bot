@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 매진되었습니다",
+    "oauthor": "이미소 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 매진되었습니다 (생각하는 사람이 아닌 행동하는 사람의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473737932",
+                "image": "https://shopping-phinf.pstatic.net/main_3247373/32473737932.20230110162815.jpg",
+                "author": "이미소",
+                "discount": "12100",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20211122",
+                "isbn": "9791188469895",
+                "description": "흙 속 감자가 연 매출 100억의 진주가 되기까지\n춘천 감자밭 이미소 대표의 칠전팔기 창업기\n\n춘천의 명물 ‘감자빵’을 만든 주인공이자, 매년 폭발적인 매출 기록을 경신하고 있는 ‘감자밭’ 이미소 대표의 첫 책이 필름출판사에서 출간되었다. 대학을 졸업하고 평범한 이십 대 직장인으로 살던 저자는 고전을 면치 못하는 아버지의 감자 농사를 돕기 위해 서울의 삶을 과감히 정리하고 춘천으로 향한다. 골칫덩이 감자를 성공의 기회로 바꾸기 위해 끊임없이 도전하고, 실패하고, 다시 일어서길 반복하며 마침내 연간 60만 명이 방문하는 춘천의 명소와 명물을 만들기까지 ‘감자빵 성공 스토리’의 모든 것을 이 책에 담았다. \n《오늘도 매진되었습니다》는 타성에 길들지 않고 자기만의 길을 개척하고자 하는 모든 이를 위한 책이다. 특히 사업체를 운영하고자 하는 예비 창업인, 대도시를 떠나 귀농과 귀촌을 꿈꾸는 이들에게 실용적인 팁과 특별한 영감을 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름(필름 출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20220124",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이미소 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/11/08/9791188469895.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "210 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188469895",
+                "INPUT_DATE": "20211108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "오늘도 매진되었습니다",
+                "PUBLISH_PREDATE": "20211122",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

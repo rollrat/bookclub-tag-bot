@@ -1,0 +1,67 @@
+{
+    "otitle": "다크 데이터",
+    "oauthor": "데이비드 핸드 저/노태복 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다크 데이터 (보이지 않는 데이터가 세상을 지배한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481997166",
+                "image": "https://shopping-phinf.pstatic.net/main_3248199/32481997166.20230226071240.jpg",
+                "author": "데이비드 핸드",
+                "discount": "17100",
+                "publisher": "더퀘스트",
+                "pubdate": "20211013",
+                "isbn": "9791165217099",
+                "description": "우리가 ‘모르는’ 데이터는 \n왜 ‘아는’ 데이터보다 치명적인가?\n\n보이지 않는 데이터의 세계에서 올바른 결정을 내리기 위한 실용적 가이드\n이른바 빅데이터 시대, 우리는 의사결정을 잘하는 데 필요한 정보는 다 가지고 있다고 생각하기 쉽다. 하지만 사실 우리가 가진 데이터가 ‘온전했던’ 적은 없었다. 손에 쥔 데이터는 빙산의 일각일지도 모른다. 우주의 상당 부분이 보이지는 않아도 엄연히 존재하는 암흑물질로 이루어져 있듯이, 정보의 우주 역시 우리가 위험천만하게 간과할 수 있는 ‘다크 데이터’로 가득하다. \n영국 왕립통계학회장을 역임했으며 대영제국 훈장을 수여한 세계적인 통계학자 데이비드 핸드는 신작 《다크 데이터》에서 보이지 않는 데이터의 세계를 향한 흥미진진한 여정으로 우리를 인도한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더퀘스트 :길벗",
+                "DDC": "",
+                "UPDATE_DATE": "20211026",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.gilbut.co.kr",
+                "AUTHOR": "데이비드 핸드 지음 ;노태복 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "396 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165217099",
+                "INPUT_DATE": "20210913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "다크 데이터",
+                "PUBLISH_PREDATE": "20211013",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

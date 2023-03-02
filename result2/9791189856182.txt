@@ -1,0 +1,67 @@
+{
+    "otitle": "이탈리아 셀프트래블 : 2019-2020 최신판",
+    "oauthor": "송윤경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이탈리아 셀프트래블(2019~2020) (믿고 보는 해외여행 가이드 북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466925811",
+                "image": "https://shopping-phinf.pstatic.net/main_3246692/32466925811.20230207163835.jpg",
+                "author": "송윤경",
+                "discount": "15210",
+                "publisher": "상상출판",
+                "pubdate": "20190613",
+                "isbn": "9791189856182",
+                "description": "2019~2020 최신 개정판 이탈리아 가이드북\n★168p 추가! 이탈리아 남부 풀리아주 지역 추가!\n로마·베네치아·피렌체·밀라노·이탈리아 남부 등 핵심 지역 총망라\n이탈리아 지역별 상세지도 & 노선도 수록\n[특별부록] 휴대용 맵북 & 트래블 노트, 와이파이도시락 10% 할인쿠폰"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20190618",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "송윤경 지음",
+                "SERIES_TITLE": "셀프트래블 2015",
+                "KDC": "982.802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186517109",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "493 p.",
+                "CONTROL_NO": "CIP2019019756",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189856182",
+                "INPUT_DATE": "20190520",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(셀프트래블) 이탈리아",
+                "PUBLISH_PREDATE": "20190613",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 아직 너와 헤어지는 법을 모른다",
+    "oauthor": "오휘명 저/김혜리 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 아직 너와 헤어지는 법을 모른다",
+                "link": "https://search.shopping.naver.com/book/catalog/32440680397",
+                "image": "https://shopping-phinf.pstatic.net/main_3244068/32440680397.20230223071138.jpg",
+                "author": "오휘명",
+                "discount": "11700",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20190201",
+                "isbn": "9788965707639",
+                "description": "\"외로워서 사랑했고, 이별해서 그리웠다. 다시 사랑을 꿈꾼다.\" 찬란한 사랑의 기억들, 전하지 못해 후회로 남은 말들에 대한 아름다운 글들을 통해 수많은 독자들의 지지와 사랑을 받아온 오휘명 작가의 에세이. 사랑을 시작할 때의 설렘, 이별의 아픔, 그리움으로 가득 찬 후회와 미련의 감정을 힘겹게 마주하고 서 있는 모든 연인들에게 깊은 공감과 따스한 위로의 메시지를 전해주는 책이다.\n\n\n\n누구나 한 번쯤 겪는 이별이라지만 지금 사랑하는 사람과의 이별은 받아들이기도, 상상하는 것조차도 어렵다. 그러나 이별의 전조를 감지했을 때 그대로 주저앉기보다는 단 한 발자국이라도 \"앞으로 걸어갈 것\"이라는 작가의 메시지는 결국엔 이 아픔들이 우리를 더욱 단단하게 만들어줄 것이라는 희망마저 보여준다. 그럼으로써 이 책은 한때 사랑에 빠져 있었거나 지금 사랑에 빠진 모든 연인들에게 더욱더 따뜻하고 온전한 사랑을 줄 수 있는 사람으로 성장하리라는 믿음과 용기를 함께 선사해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "895.745",
+                "UPDATE_DATE": "20190227",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "오휘명 글 ;김혜리 그림",
+                "SERIES_TITLE": "",
+                "KDC": "814.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7110996_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "CIP2019001423",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965707639",
+                "INPUT_DATE": "20190114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 아직 너와 헤어지는 법을 모른다",
+                "PUBLISH_PREDATE": "20190201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

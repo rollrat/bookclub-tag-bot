@@ -1,0 +1,67 @@
+{
+    "otitle": "식스 해빗",
+    "oauthor": "브렌든 버처드 저/김원호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "식스 해빗 (내 인생에 남겨야 할 6가지 인생 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473949360",
+                "image": "https://shopping-phinf.pstatic.net/main_3247394/32473949360.20221230071723.jpg",
+                "author": "브렌든 버처드",
+                "discount": "17820",
+                "publisher": "웅진지식하우스",
+                "pubdate": "20190615",
+                "isbn": "9788901230993",
+                "description": "래리 킹, 오프라 윈프리, 파울로 코엘료 등 세계적인 구루들이 인정한 세계 최고의 성과 코치이자 《백만장자 메신저》로 수많은 자기계발서 독자에게 사랑받고 있는 브렌든 버처드의 신작. 전 세계 195개국, 160만 명이 넘는 사람들을 코칭하고, 20년간 연구한 끝에, 뛰어난 성공을 이룬 사람들은 어떻게 장기간에 걸쳐 계속해서 정상에 머무르는지 그 비법을 여섯 가지 습관으로 압축해 소개한다.\n\n\n\n브렌든 버처드는, 20년간 195개 국가의 160만 명이 넘는 사람들을 코칭해오면서 성공한 사람들을 수없이 만났다. 성공한 사람들은 남들보다 더 빠르게 앞으로 나아갔으며, 일을 능숙하게 처리하고, 문제가 발생하면 안정적으로 해결했다. 어떤 분야에서건 어떤 상황이건 간에 성공할 것만 같은 사람들이었다.\n\n\n\n대체 그들은 어떤 사람들일까? 비결은 무엇일까? 왜 그렇게 다른 걸까? 여러 가지 의문이 들던 중에, 저자는 크게 세 가지 의문에 기반하여 장기간에 걸쳐 계속해서 뛰어난 성과를 내는 사람들을 연구했다. 그 결과 그들에게는 매일 반복적으로 행하는 체계적인 행동이 있다는 것을 발견했고, 그런 행동이 성공을 이끌어낸다는 것도 알아냈다.\n\n\n\n무언가를 제대로 해내는 사람과 공상만 하다가 끝내는 사람의 차이는 바로 그 행동에 있었다. 자신이 수립한 가정들을 검증하고, 발전을 이뤄내고, 계속해서 뛰어난 성과를 만들어내기 위한 체계적인 행동, 저자는 이것을 ‘습관’이라고 부르고, 160만 명의 습관 빅데이터에서 가장 중요한 6가지 습관을 뽑아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진지식하우스 :웅진씽크빅",
+                "DDC": "",
+                "UPDATE_DATE": "20190702",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "브렌든 버처드 지음 ;김원호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/25/9788901230993.jpg",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "491 p.",
+                "CONTROL_NO": "CIP2019016663",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788901230993",
+                "INPUT_DATE": "20190425",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "식스 해빗",
+                "PUBLISH_PREDATE": "20190615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

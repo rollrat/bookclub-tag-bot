@@ -1,0 +1,67 @@
+{
+    "otitle": "원 페이지 요리책",
+    "oauthor": "듀자미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "원 페이지 요리책",
+                "link": "https://search.shopping.naver.com/book/catalog/32436101640",
+                "image": "https://shopping-phinf.pstatic.net/main_3243610/32436101640.20221228073958.jpg",
+                "author": "듀자미",
+                "discount": "10800",
+                "publisher": "렛츠북",
+                "pubdate": "20180810",
+                "isbn": "9791160541762",
+                "description": "요리책으로부터의 독립!\n\n국수는 몇 분을 삶아야 하죠?\n애호박은 어느 두께로 잘라야 합니까?\n이 정도면 소금 한 티스푼인가요?\n요리에는 정답이 없습니다.\n앞서 만들어본 사람들의 팁이 있을 뿐이죠.\n요리 초보를 위한 팁을 모았습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "렛츠book(렛츠북)",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20180918",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 듀자미",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6831427_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6831427_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "117 p.",
+                "CONTROL_NO": "CIP2018023768",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160541762",
+                "INPUT_DATE": "20180727",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "원 페이지 요리책",
+                "PUBLISH_PREDATE": "20180810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

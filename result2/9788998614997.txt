@@ -1,0 +1,67 @@
+{
+    "otitle": "평균의 마음",
+    "oauthor": "이수은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "평균의 마음 (저마다의 극단을 사는 현대인을 위한 책 읽기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464064681",
+                "image": "https://shopping-phinf.pstatic.net/main_3246406/32464064681.20230214162533.jpg",
+                "author": "이수은",
+                "discount": "16200",
+                "publisher": "메멘토",
+                "pubdate": "20211110",
+                "isbn": "9788998614997",
+                "description": "『실례지만, 이 책이 시급합니다』라는 유쾌한 독서 처방전으로 독서계에 신선한 바람을 일으킨, 베테랑 편집자이자 열혈 독서인 이수은 작가의 신작. 『평균의 마음』은 전작에서 선보였듯 유머 감각과 해박한 지식, 오래된 책에 대한 진심은 기본값으로 하되 한층 더 깊고 예리해진 이수은만의 지적 통찰력을 보여주는 고전 독서 에세이다. 저자는 행복, 외로움, 돈, 자의식, 공정, 능력주의, 꼰대, 출세, 실패, 부자 등 현대인의 관심사와 우리 시대의 키워드를 실마리 삼아 이번에는 고전에서 인간의 마음, 보편성의 세계를 본격 탐구한다. \n\n자세히, 깊게 읽은 책들은 이렇다. 호메로스의 『일리아스』(기원전 700년경)부터 존 파울즈의 『프랑스 중위의 여자』(1969) 등 고대와 현대를 아우르는 고전 21종을 기본도서로 다루고, 철학서 『인간 본성에 관한 논고』(흄), 과학서 『종의 기원』(찰스 다윈), 『물리와 철학』(하이젠베르크)까지 다양한 분야의 도서 50여 권을 종횡무진 넘나들며 검토한다. 본격적으로 다루는 작가는 헤밍웨이, 피츠제럴드, 도스토옙스키, 카프카, 위고, 발자크, 괴테, 세르반테스, 셰익스피어, 호메로스 등 세계문학 대가들이다.\n\n이 책의 여러 미덕 중 하나는 “치열한 자기교육”의 결과인 전문가급 깊이를 일상의 언어로 풀어낸 점이다. 여기서 그쳤다면 보통 사람을 위해 쉽게 쓴 고전 해설서가 되었을 테지만, 저자가 탄탄한 논리와 독창적인 사유로 구축한 자기 관점과 세계관을 적극적으로 드러내기에 여느 해설서와 다른 결의 책이 되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20211124",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://mementopub.tistory.com/",
+                "AUTHOR": "지은이: 이수은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/10/19/9788998614997.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "407 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998614997",
+                "INPUT_DATE": "20211019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "평균의 마음",
+                "PUBLISH_PREDATE": "20211110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

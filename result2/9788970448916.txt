@@ -1,0 +1,78 @@
+{
+    "otitle": "아시모프의 천문학 입문",
+    "oauthor": "I.아시모프 저/현정준 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:34 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "아시모프의 천문학 입문 (우주는 여기까지 밝혀졌다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505100645",
+                "image": "https://shopping-phinf.pstatic.net/main_3250510/32505100645.20221019134823.jpg",
+                "author": "아이작 아시모프",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190701",
+                "isbn": "9788970448916",
+                "description": "달의 조석부터 우주의 지평선에 관한 이야기까지!\n신비한 우주천문을 알기 쉽게 풀이한 천문학 입문서\n\n오늘날 SF 작가들이 즐기는 소설은 우주 공간, 별, 행성, 달 등을 배경으로 한다. 『은하제국(銀河帝國)의 흥망』, 『우주의 작은 돌』, 『암흑성운(暗黑星雲)을 넘어서』 등의 작품을 낸 바 있는 아시모프는 천문학자는 아니다. 그는 천문학자 수준으로 천문학을 잘 이해하고 있고, 이것을 초보자에게 쉽고 재미나게 읽게 하는 비법을 터득하고 있다. 역자는 이 책을 번역하면서 천문학을 가르치는 데 무엇이 필요한가에 관해서 배운 점이 많았다고 실토를 해야 할 것 같다.\n오히려 아시모프가 천문학의 전문가가 아니었기 때문에 그가 느끼는 신선한 놀라움이 독자에게 그대로 전달되는 것인지도 모르겠다.\n이 책은 단순한 흥미 위주의 통속적인 천문학의 해설서라기보다도 수식을 최소한으로 줄인, 재미나는 천문학 교과서의 조건을 갖추고 있다. 만약에 이 책에 수식이 더 필요하다고 느끼는 독자가 있다면 그 사람은 이제부터 천문학을 전공해야 할 사람이라고 생각한다."
+            },
+            {
+                "title": "아시모프의 천문학 입문: 우주는 여기까지 밝혀졌다(현대과학신서 63) (우주는 여기까지 밝혀졌다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505087333",
+                "image": "https://shopping-phinf.pstatic.net/main_3250508/32505087333.20220527053946.jpg",
+                "author": "아이작 아시모프",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19940220",
+                "isbn": "9788970443638",
+                "description": "천문학의 기초가 되는 분야 중에서 비교적 기초가 되는 달에 대한 조석이야기로부터 우주의 지평선에 관한 이야기까지 엮은 신비한 우주천문에 관한 것을 모아 알기 쉽게 풀이한 천문학 입문서."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190702",
+                "EA_ADD_CODE": "03440",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "I. 아시모프 지음 ;현정준 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "220 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448916",
+                "INPUT_DATE": "20190621",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "아시모프의 천문학 입문",
+                "PUBLISH_PREDATE": "20190701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

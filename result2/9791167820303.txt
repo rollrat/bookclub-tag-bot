@@ -1,0 +1,67 @@
+{
+    "otitle": "오는 날이 장날입니다",
+    "oauthor": "김진영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오는 날이 장날입니다 (전국 오일장에서 찾은 사계절의 맛)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463268612",
+                "image": "https://shopping-phinf.pstatic.net/main_3246326/32463268612.20221019124627.jpg",
+                "author": "김진영",
+                "discount": "14520",
+                "publisher": "상상출판",
+                "pubdate": "20211005",
+                "isbn": "9791167820303",
+                "description": "“바야흐로 이곳이 제철이다!”\n   26년 차 식재료 전문가이자 〈폼나게 먹자〉, 〈어쩌다 어른〉 등\n각종 미디어를 통해 제철 식재료 발굴에 앞장선 김진영 MD.\n  그가 사계절을 좇아 찾아낸 전국 오일장의 맛이 시작된다.\n\n제철을 알면 시장이 보인다! \n전국 각지를 돌며 경험한 오일장의 멋과 맛에 관한 이야기\n\n그 흔한 ‘맛집’ 열풍에도 개의치 않고 자신만의 ‘맛’을 고집하는 사람이 있다. 지난 26년간 식재료 전문가의 길을 걸어오며 대한민국 최고의 먹거리를 연구하고 기획해 온 저자 김진영. 그는 첫 시작을 뉴코아 백화점에서 식품 구매 담당자로 시작해 ‘친환경 유기농 라이프’를 대표하는 초록마을, 먹거리 쇼핑의 중심 플랫폼 쿠팡 등의 식품 MD를 거치며 무엇보다 신선하고 정직한 식재료를 연구해 왔다. 『오는 날이 장날입니다』는 그런 저자가 계절을 따라 전라도, 경상도, 강원도, 제주도 등을 돌며 만난 시장의 이야기를 담은 책이다. 봄과 겨울에는 따뜻한 남쪽의 오일장, 여름과 가을에는 선선한 북쪽의 오일장에서 직접 경험한 시장의 맛을 담았다. 읽다 보면 새삼 ‘우리나라에 시장이 이렇게 많았나?’ 싶으면서도 반갑게 제철을 맞이할 준비가 되어 있을 것이다.\n계절에 따라 꼭 가봐야 하는 시장이 다르고, 거기서 맛볼 수 있는 먹거리들도 제각기 다른 법. 눈으로 한 번, 입으로 두 번 즐기는 시장이 당신의 여행을 한 뼘 더 풍요롭게 만들어줄 것이라 이 책은 말한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김진영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*223",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "325 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167820303",
+                "INPUT_DATE": "20210913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "오는 날이 장날입니다",
+                "PUBLISH_PREDATE": "20211005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

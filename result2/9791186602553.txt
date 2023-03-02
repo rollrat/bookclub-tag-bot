@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 달리기",
+    "oauthor": "김상민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 달리기 (아침의 달리기, 밤의 뜀박질)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464753902",
+                "image": "https://shopping-phinf.pstatic.net/main_3246475/32464753902.20230207165655.jpg",
+                "author": "김상민",
+                "discount": "8560",
+                "publisher": "위고",
+                "pubdate": "20200925",
+                "isbn": "9791186602553",
+                "description": "_달릴수록 더 나은 사람이 된다\n아무튼 시리즈 서른세 번째 이야기는 달리기이다. ‘나가서 달려나 볼까?’ 온전히 달리기만을 위해 집을 나선 그날 밤, 느닷없이 허술하게 시작된 달리기. 그로부터 매일 밤 이어진 서툰 자신과 마주한 날들. 몰랐다. 그로부터 5년 동안 5,000km를 달리게 되리라곤. 잠수교와 송정제방길에서 뜀박질을 하고, 파리에서 쇼크로 쓰러지고, 오사카에서 홍콩 러너들과 함께 달릴 줄은.『아무튼, 달리기』는 달릴 때마다 조금씩 더 나은 사람이 된 것 같다는 착각 혹은 위로 속에 살아가는 ‘외콧구멍 러너’의 이야기다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "",
+                "UPDATE_DATE": "20201103",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 김상민",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20200925",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/09/09/9791186602553.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "12,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "157 p.",
+                "CONTROL_NO": "CIP2020038537",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602553",
+                "INPUT_DATE": "20200909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 달리기",
+                "PUBLISH_PREDATE": "20200925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

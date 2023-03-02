@@ -1,0 +1,67 @@
+{
+    "otitle": "세계 문화 여행 아이슬란드",
+    "oauthor": "토르게이어 프레이르 스베인손 저/권은현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계 문화 여행 : 아이슬란드 (세계의 풍습과 문화가 궁금한 이들을 위한 필수 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487801168",
+                "image": "https://shopping-phinf.pstatic.net/main_3248780/32487801168.20230218110500.jpg",
+                "author": "토르게이어 프레이르 스베인손",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20220210",
+                "isbn": "9791168620018",
+                "description": "낙관주의 나라 아이슬란드의 진짜 모습을 알려주는 가이드\n\n이 책은 『세계 문화 여행』 시리즈 아이슬란드편으로 아이슬란드의 풍습, 역사, 문화, 생활, 삶에 대한 전반적인 내용을 다루고 있다. 사업차 아이슬란드를 방문하든 단순한 여행이든, 아이슬란드에서 더욱 풍성하고 기억에 남는 시간을 보내는 데 많은 도움이 될 것이다. 이 책에는 아이슬란드 현지 풍습과 전통, 역사와 종교와 정치, 아이슬란드 가정과 직장과 여가, 의식주, 의사소통 등에 대한 내용이 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220302",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "토르게이어 프레이르 스베인손 지음 ;권은현 옮김",
+                "SERIES_TITLE": "세계 문화 여행",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788984459113",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168620018",
+                "INPUT_DATE": "20220114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "아이슬란드",
+                "PUBLISH_PREDATE": "20220210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

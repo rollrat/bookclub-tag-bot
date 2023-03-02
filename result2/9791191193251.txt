@@ -1,0 +1,67 @@
+{
+    "otitle": "뒤틀린 집",
+    "oauthor": "전건우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뒤틀린 집 (전건우 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455540620",
+                "image": "https://shopping-phinf.pstatic.net/main_3245554/32455540620.20230218110638.jpg",
+                "author": "전건우",
+                "discount": "11700",
+                "publisher": "안전가옥",
+                "pubdate": "20211105",
+                "isbn": "9791191193251",
+                "description": "“아이들은 어디 있니?”\n귓가에 목소리가 들렸다.\n날카롭고 차가운, 그리고 악의에 가득 찬 목소리였다.\n\n공포소설의 대가 전건우 신작, 출간 전 영화화 확정\n2021 제26회 부산국제영화제 공식 초청작 영화 〈뒤틀린 집〉 원작\n\n새하얀 외벽과 파란색 지붕이 돋보이는 2층 양옥. 아무렇게나 파헤쳐 붉게 드러난 산등성이와 울퉁불퉁한 비포장도로와는 사뭇 어울리지 않는, 마치 동화 속에서 튀어나온 것만 같은, 그래서 더 아름답고 그래서 더 섬뜩하기도 한 집. 이 사악하고도 불길한 기운이 가득한 집에 각자의 욕망과 결핍과 불안으로 괴로워하는 가족이 이사를 오는데…….\n호러 미스터리와 스릴러 장르를 오가며 활발하게 작품 활동을 이어 가고 있는 공포소설의 대가 전건우 작가가 이번에는 사회파 호러로 돌아왔다. 그가 이번에 주목한 키워드는 한국인이 가장 갈망하는 대상인 집, 그리고 그 집에서 오손도손 사이좋게 살아가고 싶어 하는 가족이다. 집과 가족이 한순간에 공포의 대상이 되어 버린다면 우리는 어떻게 해야 할까? 이 흥미롭고도 호기심을 자극하는 아이디어에 힘입어 이 작품은 출간 전 트리트먼트 단계에서 영화화가 확정되었고, 2021 제26회 부산국제영화제 ‘한국영화의 오늘-파노라마 섹션’에 공식 초청되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "안전가옥",
+                "DDC": "",
+                "UPDATE_DATE": "20211202",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 전건우",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191193251",
+                "INPUT_DATE": "20211019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "뒤틀린 집",
+                "PUBLISH_PREDATE": "20211105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

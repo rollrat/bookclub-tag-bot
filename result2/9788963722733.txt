@@ -1,0 +1,67 @@
+{
+    "otitle": "행여 공부를 하려거든",
+    "oauthor": "정경오 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "행여 공부를 하려거든 (3625명의 공부 습관 관찰기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444860839",
+                "image": "https://shopping-phinf.pstatic.net/main_3244486/32444860839.20221227202812.jpg",
+                "author": "정경오",
+                "discount": "9000",
+                "publisher": "양철북",
+                "pubdate": "20180521",
+                "isbn": "9788963722733",
+                "description": "거창하고 대단한 변화가 아니라\n일상에서 작은 습관을 만드는 것, 공부\n\n공부가 모든 것이 될 순 없다. 다만 우리가 공부를 한다는 것은, 다른 가능성을 생각할 수 있는 문 하나가 더 생기는 일이다. 선택지 하나가 더 생기는 일인 것이다. 그렇다면 공부에 있어 왜 어떤 학생들은 ‘성공’하고, 어떤 학생들은 ‘실패’하는가? \n여기에 대해 한 고등학교 교사가 자신이 관찰한 3625명의 공부 습관을 슬쩍 내놓는다. 10년 동안 직접 만나고 가르친 학생들의 공부 습관을 짧은 에세이 형태로 풀어냈다. \n부담 없이 한 편씩 읽어가면서 저마다 자신의 공부 습관을 돌아보고 당장의 입시뿐만 아니라 평생 계속해야 할 공부, 나아가 자신의 인생을 위해 어떤 습관을 만들어갈 것인가, 밑돌 하나를 쌓게 되기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "양철북",
+                "DDC": "",
+                "UPDATE_DATE": "20180531",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정경오 씀",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963722733",
+                "INPUT_DATE": "20180531",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "행여*공부를*하려거든",
+                "PUBLISH_PREDATE": "20180521",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

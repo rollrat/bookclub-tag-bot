@@ -1,0 +1,67 @@
+{
+    "otitle": "믹스처",
+    "oauthor": "데이비드 라이크 저/김명주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "믹스처 (우리는 누구인가에 대한 고대 DNA의 대답)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466594649",
+                "image": "https://shopping-phinf.pstatic.net/main_3246659/32466594649.20230224102601.jpg",
+                "author": "데이비드 라이크",
+                "discount": "19800",
+                "publisher": "동녘사이언스",
+                "pubdate": "20200320",
+                "isbn": "9788990247711",
+                "description": "“이 책은 다윈이 위대한 연구의 첫발을 막 내딛었던 때를 연상시킨다” - 《가디언》\n우리는 누구이며 어디로 가는가?\n세계 최고 유전학자와 떠나는 가장 지적이고 감동적인 고고학 여행!\n\n유전학은 고고학의 권위에 도전하고 있다. 이 새로운 과학은 고고학자들조차 몰랐던 미지의 구인류 데니소바인의 존재를 고대 DNA로 밝혀냈고, 정설로 여겨지던 다지역 기원설을 보기 좋게 몰아냈으며, 아프리카 기원설의 오류 또한 과학적으로 증명했다. 고고학의 도구에 불과했던 유전학의 이런 놀라운 진보를 이르는 말인 ‘고대 DNA 혁명’이 결코 과언이 아닌 것이다. 유전학자들은 DNA를 이용해 고고학이 단지 추측만 해왔던 인류의 발자취를 높은 해상도로 복원해내고 있다.\n\n 이 책은 현장에서 일하는 유전학자가 이 새로운 과학의 발전 과정을 쉽고 간명하게 제시하며 그것이 어떻게 기존의 학설들을 뒤흔들어 놓았는지 흥미진진하게 설명한다. 《네이처》가 선정한 세계에서 가장 중요한 과학자 데이비드 라이크의 야심찬 첫 저작인 이 책은 출간 즉시 《뉴욕타임스》 베스트셀러에 이름을 올렸으며, 제레드 다이아몬드의 극찬을 받아 큰 화제를 모았다. 유려한 문체와 감동적인 메시지로 ‘고대 DNA 혁명의 최전선에서 보내온 편지’라는 호평을 받기도 한 이 책은 인류의 기원과 차별의 역사에 관한 우리의 상식을 완전히 뒤집어놓을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘사이언스",
+                "DDC": "",
+                "UPDATE_DATE": "20200323",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "데이비드 라이크 지음 ;김명주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "476.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "428 p.",
+                "CONTROL_NO": "CIP2020005225",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990247711",
+                "INPUT_DATE": "20200205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "믹스처",
+                "PUBLISH_PREDATE": "20200320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

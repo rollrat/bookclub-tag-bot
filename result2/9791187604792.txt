@@ -1,0 +1,67 @@
+{
+    "otitle": "지금 혼자 몰입공부",
+    "oauthor": "남선우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 혼자 몰입공부 (단 5분으로 1시간 효과를 내는 초고속 스터디 플랜)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484523312",
+                "image": "https://shopping-phinf.pstatic.net/main_3248452/32484523312.20221230074201.jpg",
+                "author": "남선우",
+                "discount": "12600",
+                "publisher": "책들의정원",
+                "pubdate": "20180930",
+                "isbn": "9791187604792",
+                "description": "사법고시 최연소 합격자, 서울대 입학생…\n‘공부 고수’는 나와 무엇이 다를까?\n\n우리는 공부 잘하는 사람을 보면 흔히 ‘타고난 천재’라고 생각한다. 하지만 사실은 그렇지 않다. 지난 2016년 SBS 에서 밝힌 내용에 따르면 서울대학교 학생의 평균 아이큐는 117로 나타났다. 또한 서울대학교 학생 3천 명을 인터뷰한 공부법 전문가 조남호 대표는 조사 대상이었던 서울대학교 학생 평균 아이큐가 110에 불과하다고 말했다. 즉, 공부는 지능보다 다른 요인에 더 큰 연관을 맺고 있다는 뜻이다. 그렇다면 공부 고수와 평범한 나는 무엇이 다를까?\n\n20여 년 동안 다양한 학생을 지도해온 남선우 원장은 성적을 가르는 열쇠로 ‘독해력과 학습 속도’를 꼽는다. 2017년 서울대학교 의과대학에 합격했던 어느 제자 역시 이 두 가지 능력이 돋보이는 학생이었다. 정보를 받아들이고 처리하는 속도가 또래에 비해 탁월하게 빨랐다. 비슷한 사례는 언론에서도 접할 수 있는데, 제59회 사법고시에 합격하며 역대 최연소라는 타이틀을 거머쥔 이승우 씨 역시 단시간 내에 많은 양의 자료를 읽어내는 기술인 속독 능력자로 알려져 있다. 이처럼 텍스트를 읽고 이해하는 속도를 3배 이상 높여 ‘시간당 학습밀도’를 올리는 것은 공부의 가장 중요한 전략이다. 《지금 혼자 몰입공부》는 단 5분 공부만으로 최소 1시간 이상의 효과를 내도록 독해력과 학습 속도를 높이고 정신적 몰입 상태를 유지하는 비법을 안내한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책들의정원",
+                "DDC": "371.30281",
+                "UPDATE_DATE": "20181015",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "남선우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "373.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6911027_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6911027_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "CIP2018029922",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187604792",
+                "INPUT_DATE": "20180913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "지금 혼자 몰입공부",
+                "PUBLISH_PREDATE": "20180930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "앨리스 살인게임",
+    "oauthor": "가코야 게이이치 저/김현화 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "앨리스 살인게임",
+                "link": "https://search.shopping.naver.com/book/catalog/32466980970",
+                "image": "https://shopping-phinf.pstatic.net/main_3246698/32466980970.20220527083934.jpg",
+                "author": "가코야 게이이치",
+                "discount": "11520",
+                "publisher": "소미미디어",
+                "pubdate": "20210916",
+                "isbn": "9791138402446",
+                "description": "광기 어린 VR 안에서 벌어지는 살인 게임.\n예측 불가능한 탈출 미스터리!\n\n눈과 얼음이 뒤덮인 현실세계에서 벗어나 사람들은 대부분의 생활을 VR 시스템인 앨리스 안에서 보내고 있다. 그곳은 상처 받을 일 없는 평온한 가상공간이다.\n하지만 시이바 하루는 통증도 죽음도 존재하는 공포스러운 VR에 갑자기 갇히고 만다.\n로그아웃이 되지 않는 광기 넘치는 건물 안에서 연쇄살인이 벌어지다 도달하게 된, 세계의 진상과 그녀의 정체! 충격적인 결말이 기다리고 있는 VR 탈출 미스터리."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20210930",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "가코야 게이이치 지음 ;김현화 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "기타",
+                "PAGE": "339 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791138402446",
+                "INPUT_DATE": "20210802",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "앨리스 살인게임",
+                "PUBLISH_PREDATE": "20210916",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

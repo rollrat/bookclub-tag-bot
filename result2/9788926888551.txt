@@ -1,0 +1,67 @@
+{
+    "otitle": "몽골, 안단테",
+    "oauthor": "윤정욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "몽골, 안단테 (여행이라기보다는 유목에 가까운)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489143041",
+                "image": "https://shopping-phinf.pstatic.net/main_3248914/32489143041.20221228073531.jpg",
+                "author": "윤정욱",
+                "discount": "14400",
+                "publisher": "이담북스",
+                "pubdate": "20190617",
+                "isbn": "9788926888551",
+                "description": "혼자 하는 여행에 익숙했던 이가 몽골 여행을 통해 함께하는 여행의 기쁨을 알게 됐다고 했다. 더불어 소란스럽고 복잡한 도시에서 벗어나 몽골 자연의 적막한 아름다움에도 빠져들었다고도 말했다. 바로 이 책의 저자다. 저자 윤정욱은 이와 같은 몽골 여행만의 특별함을 발견할 수 있도록 따뜻한 시선의 사진과 글을 『몽골, 안단테』에 꾹꾹 눌러 담아냈다. 저자는 더없이 완벽했던 풍경과 사람들을 떠올리며 ‘걷는 정도의 속도로, 안단테의 빠르기로’ 지나가길 바랐다고 표현했다. 이는 그만큼 나중에 떠올리게 된다면 속수무책으로 그 상실감과 아쉬움에 슬퍼질 것을 예감했기 때문이었다. 이 책에는 그런 아쉬움과 더불어 저자가 몽골 여행에서 온전히 누렸던 여행의 기쁨을 담아내고자 했다. 저자의 시선을 따라가 보면 너무나 행복해서 꿈같았다고 표현한 그 시간을 공감할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books : 한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20190724",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "글, 사진: 윤정욱",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926888551",
+                "INPUT_DATE": "20190724",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "몽골, 안단테",
+                "PUBLISH_PREDATE": "20190617",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "톨스토이 고백록",
+    "oauthor": "레프 톨스토이 저/박문재 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "톨스토이 고백록",
+                "link": "https://search.shopping.naver.com/book/catalog/32466698270",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466698270.20221019114620.jpg",
+                "author": "레프 니콜라예비치 톨스토이",
+                "discount": "7200",
+                "publisher": "현대지성",
+                "pubdate": "20180801",
+                "isbn": "9791187142515",
+                "description": "“나의 삶은 정지되어 버렸습니다.”\n자살 충동을 느꼈던 세계적인 대문호의 진솔한 고백\n\n톨스토이의 삶은 40대에 정지되어 버렸다. 그는 자신이 무엇을 원하는지 자신도 알지 못했다. 톨스토이는 사는 게 두려웠고, 삶에서 도피하려고 했다. 그러면서도 여전히 삶에서 무엇인가를 기대했다. 그래서 그는 젊은 시절부터 자신을 괴롭혀온 삶의 목적에 대해 끊임없이 탐구했다. 과학, 역사, 철학, 문학 등 여러 분야의 책을 탐독하며 그 해답을 찾기 위해 노력했다. 그러나 그는 학문에서는 별 도움을 얻지 못했다. 결국 톨스토이는 정신적 위기를 겪는다. 이러한 위기는 51세 때 절정에 이르렀고, 자살을 생각하기까지 했다. 그 시점에서 쓴 책이 바로 『고백록』이다.\n인간은 어떻게, 무슨 목적으로 살아야 하는가? 톨스토이는 이 의문에 대한 답을 반평생 찾아 헤맸다. 그리고 마침내 인생의 절벽에서 뛰어내리기 직전에 그 답을 찾았다. 『고백록』에는 그토록 찾아 헤맨 의문에 대한 답과 그것을 찾기까지의 기나긴 여정이 담겨 있다. 전반부에는 자신의 삶과 사람들에 대한 회의, 그리고 여러 가지 생각들이 어지럽게 흩어져 있다. 그러나 차츰 생각을 정리하고, 그가 찾은 답을 차분하게 제시한다. 그 답을 바탕으로 다른 사람들에게 인생을 어떻게 살아야 하는지 조언한다. 독자는 이 책을 통해 불명확한 인생의 실체를 명확하게 인식하게 될 것이다. 진지하고 무게감 있는 톨스토이의 고백을 통해 그와 같이 새로운 삶의 첫걸음을 뗄 수 있게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20180829",
+                "EA_ADD_CODE": "03890",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "레프 톨스토이 지음 ;박문재 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "8000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "158 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187142515",
+                "INPUT_DATE": "20180717",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "톨스토이 고백록 ",
+                "PUBLISH_PREDATE": "20180801",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

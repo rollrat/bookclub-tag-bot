@@ -1,0 +1,67 @@
+{
+    "otitle": "삼성인, 아마조니언 되다",
+    "oauthor": "김태강 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "삼성인, 아마조니언 되다 (삼성, 아마존 모두를 경험한 한 남자의 생존 보고서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484930454",
+                "image": "https://shopping-phinf.pstatic.net/main_3248493/32484930454.20221227204503.jpg",
+                "author": "김태강",
+                "discount": "13500",
+                "publisher": "매일경제신문사",
+                "pubdate": "20200220",
+                "isbn": "9791164840779",
+                "description": "국내외 1등 직장을 두루 경험한\n최고의 직장인은 어떻게 일하고 성장할까\n\n이 책은 대기업 입사를 위한 책이 아니다. 회사는 과정일 뿐 인생의 목적이 될 수 없다. 한 직장에서 30년 동안 근무하던 아버지 세대와 달리 우리 세대는 끊임없이 이직을 반복한다. 직장은 더 이상 나의 정체성을 설명하지 못한다. 그렇다 보니 내가 하는 일의 의미를 끊임없이 물을 수밖에 없다. 일은 개인의 영역을 확장하는 과정이다. 저자는 삼성에서 일했었고, 현재는 아마존에서 근무 중이다. 이 책은 글로벌 1등 기업 두 곳을 경험한 한 남자의 생존 보고서다. 삼성과 아마존에서 일하면서 만난 사람들, 기업 문화, 성공 비결 등을 꾹꾹 눌러 담았다. 그의 글이 재미있는 이유는 관찰자 시점이 아닌 내부자의 시선으로 썼기 때문이다. 그가 삼성과 아마존에서 보고 경험한 것들은 우리가 일할 때 어떤 목표에 어떤 방법으로 접근해야 할지 가장 혁신적인 방향을 제시해준다.\n\n아마존에서 일하는 방식 7\n\n1 고객을 우선시한다\n2 나의 업적을 널리 알린다\n3 타인의 시간을 함부로 사용하지 않는다\n4 과정보다 결과를 중요시한다\n5 가만히 있는 것보다 빠른 결정을 내리는 것이 중요하다\n6 모든 결정에는 데이터가 있다\n7 현재 할 수 있는 최선의 단기 목표를 설정한다"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20200226",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "김태강 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "CIP2020002188",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164840779",
+                "INPUT_DATE": "20200110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "삼성인, 아마조니언 되다",
+                "PUBLISH_PREDATE": "20200220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

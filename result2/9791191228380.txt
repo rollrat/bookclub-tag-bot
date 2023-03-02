@@ -1,0 +1,67 @@
+{
+    "otitle": "두렵지만 나에게 솔직해지기로 했다",
+    "oauthor": "김진세 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "두렵지만 나에게 솔직해지기로 했다 (삶의 전환점에서 흔들리고 불안한 나를 잡아줄 마음 상담)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454999219",
+                "image": "https://shopping-phinf.pstatic.net/main_3245499/32454999219.20221231084238.jpg",
+                "author": "김진세",
+                "discount": "13500",
+                "publisher": "빌리버튼",
+                "pubdate": "20201221",
+                "isbn": "9791191228380",
+                "description": "‘안 아픈 척, 괜찮은 척, 못 본 척…’\n남의 눈치만 보고 솔직하지 못했던 삶을 털어놓는 ‘K의 인생 상담실’\n\n흔히들 인생을 드라마나 영화에 비유하곤 한다. 그만큼 우리네 실제 삶을 실감나게 비추고 있어서가 아닐까. 우리가 잘 아는 드라마, 영화, 소설 속 등장인물들의 고민과 아픔을 정신과 의사가 일대일 상담해주는 이 책의 설정은, 그래서 설정을 뛰어넘어 독자로 하여금 나의 이야기로 받아들이게 하는 힘이 있다. \n\n정신과 전문의 김진세 박사는 생각했다. ‘우리에게 친숙한 작품 속 등장인물들의 고민을 내가 상담하게 된다면? 그리고 그 과정에서 그들의 심리적 문제와 해결책을 알 수 있다면 어떨까?’ 하고 말이다. 이런 상상에서 시작된 이 책은 정신과 전문의의 은밀한 상담실로 독자를 초대한다. ‘뭣이 중헌지’도 모르고 살아오다 중년이 돼서야 정체성의 혼란에 빠진 스카이캐슬의 강준상, 가난하고 고단한 삶의 기억으로 열등감이 자리잡은 기생충의 기우, 많은 사람들이 선택한 길을 따랐지만 ‘이게 정말 내가 원한 삶이었나’ 문득 허탈해진 동화 속 호랑애벌레, 가식과 허울뿐인 관계의 허허로움에 빠진 개츠비, 이별의 아픔과 상실을 제대로 받아들이지 못하는 토이스토리의 우디…. 이들의 내밀한 고백과 치유의 과정을 따라가며 독자들은 어느새 자기 삶의 문제들을 풀어나갈 힌트를 얻게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "",
+                "UPDATE_DATE": "20210129",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김진세 지음",
+                "SERIES_TITLE": "",
+                "KDC": "186.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/24/9791191228380.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "308 p.",
+                "CONTROL_NO": "CIP2020050123",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191228380",
+                "INPUT_DATE": "20201124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "두렵지만 나에게 솔직해지기로 했다",
+                "PUBLISH_PREDATE": "20201221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

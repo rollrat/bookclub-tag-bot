@@ -1,0 +1,67 @@
+{
+    "otitle": "똑똑한 부동산 인테리어",
+    "oauthor": "김종민(독일병정) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "똑똑한 부동산 인테리어 (독일병정의 월세 더 받는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483287640",
+                "image": "https://shopping-phinf.pstatic.net/main_3248328/32483287640.20221229074650.jpg",
+                "author": "김종민(독일병정)",
+                "discount": "13500",
+                "publisher": "스마트북스",
+                "pubdate": "20180319",
+                "isbn": "9791185541716",
+                "description": "똑똑한 부동산 인테리어 노하우\n\n월세 더 받는, 똑똑한 부동산 인테리어 노하우\n총 500만 조회수, 25년 현장 전문가 독일병정(김종민)의 빅데이터를 책으로 옮겼다. 인테리어 업체 선정부터 제품 선택, 공사 진행, 셀프인테리어까지, 비용과 시간을 절약하면서도 탄탄하고 아름답게 내 집 꾸미는 방법을 알려준다. 또한 월세 더 받는 인테리어 노하우를 공개한다.\n한편 저자가 실제로 하고 있는 중소형 주택 투자와 임대주택 관리법에 대해 솔직하게 털어놓는다. 현재 부동산 투자는 시세차익보다 임대수익이다. 투자 대비 수익률 높은 임대사업 노하우를 공개한다. 나아가 최근 부동산 투자의 새 방법으로 주목받고 있는 단독주택 구조 변경 및 리모델링에 대해서도 자세하게 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스마트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20180402",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.smartbooks21.com",
+                "AUTHOR": "김종민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185541716",
+                "INPUT_DATE": "20180306",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(독일병정의 월세 더 받는) 똑똑한 부동산 인테리어 ",
+                "PUBLISH_PREDATE": "20180319",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

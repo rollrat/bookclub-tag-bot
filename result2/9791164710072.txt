@@ -1,0 +1,78 @@
+{
+    "otitle": "파일럿이 궁금한 당신에게",
+    "oauthor": "조은정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:46 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "파일럿이 궁금한 당신에게 (조은정 기장의 비행 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436155615",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436155615.20221227205550.jpg",
+                "author": "조은정",
+                "discount": "12600",
+                "publisher": "행성B",
+                "pubdate": "20190925",
+                "isbn": "9791164710072",
+                "description": "“2001년 3월 초의 어느 날, 그날도 나는 호텔 프런트 데스크에서 체크인 업무를 보고 있었다. 그때 금발 생머리의 여성 기장이 두 명의 남성 부기장을 뒤에 거느리고 당당하게 호텔 정문을 들어서는 것이 보였다. 그녀의 손목에서 기장임을 나타내는 네 줄의 금색 견장이 유난히 크고 빛나게 느껴졌다.”\n\n\n\n저자 조은정 기장이 스물아홉의 나이에 파일럿이 되기로 결심한 운명적인 순간이다. 그녀의 대학 시절 전공은 항공과는 거리가 먼 산업디자인이다. 졸업 후 건축디자인이 하고 싶은 마음에 일본으로 유학을 떠났고, 우여곡절 끝에 자신이 가진 언어 실력을 살려 호텔리어로 근무하게 되었다. 그리고 프런트 데스크에서 마치 운명처럼 페덱스 항공의 여성 기장, 제니스 스킬라를 만났다. 그때 그녀의 나이 만 스물아홉이었다.\n\n\n\n주변 사람들은 파일럿을 꿈꾸기엔 너무 늦은 나이라고 말했지만 그녀는 포기하지 않았다. 한국이 안 된다면 미국에서, 미국이 안 된다면 중국에서 꿈을 이루기 위해 한 걸음 한 걸음 전진했다. 그 결과, 그녀는 서른다섯에 당당히 중국 지샹항공 최초의 외국인 여성 파일럿이 되었고, 마흔다섯에 마침내 이스타항공 소속 보잉737을 운행하는 기장 자리에 오른다."
+            },
+            {
+                "title": "파일럿이 궁금한 당신에게(큰글씨책) (조은정 기장의 비행 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445335723",
+                "image": "https://shopping-phinf.pstatic.net/main_3244533/32445335723.20221019142306.jpg",
+                "author": "조은정",
+                "discount": "21600",
+                "publisher": "행성B",
+                "pubdate": "20201111",
+                "isbn": "9791164711178",
+                "description": "이 책은 스물아홉에 파일럿을 꿈꾸고, 서른다섯에 파일럿이 되었으며, 마흔다섯에 여객기 기장이 된 어느 여성의 이야기다. 파일럿을 선망하는 사람은 많지만 스물아홉이라는 나이에 파일럿에 도전하는 사람이 과연 몇이나 될까? 파일럿을 꿈꾸는 사람들에게, 또 파일럿이 궁금한 사람들에게 이 책은 좁게는 파일럿이 될 수 있는 방법과 파일럿이 되려면 알고 갖춰야 할 점을 알려주고, 넓게는 우리 모두에게 누구나 꿈을 이룰 수 있다는 희망과 용기를 북돋울 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)행성비",
+                "DDC": "",
+                "UPDATE_DATE": "20191125",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "저자 : 조은정",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/22/9791164710072.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "292",
+                "CONTROL_NO": "CIP2019035973",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164710072",
+                "INPUT_DATE": "20190910",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "파일럿이 궁금한 당신에게",
+                "PUBLISH_PREDATE": "20190925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

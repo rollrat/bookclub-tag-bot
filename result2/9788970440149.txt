@@ -1,0 +1,67 @@
+{
+    "otitle": "잠이란 무엇인가",
+    "oauthor": "마쓰모토 준지 저/오영근 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잠이란 무엇인가 (잠과 꿈의 세계를 더듬는다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466562946",
+                "image": "https://shopping-phinf.pstatic.net/main_3246656/32466562946.20221229072855.jpg",
+                "author": "마쓰모토 준지",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20170320",
+                "isbn": "9788970440149",
+                "description": "잠이란 무엇인가? 꿈이란 무엇인가?\n\n잠에는 평온한 뇌파를 갖는 ‘서파수면’, 각성의 뇌파를 꼭 닮은 ‘역설수면’으로 두 종류가 있다. 잠은 서파수면에서 시작하여 이어 깊은 잠으로부터 안구가 격심하게 운동하는 역설수면으로 그리고 또 서파수면으로…. 잠은 이것이 반복하여 진행된다. 역설수면 째 꾸는 꿈은 주로 ‘몽상형’의 꿈이 많고, 서파수면 때 꾸는 꿈은 ‘사고형’의 꿈이 많다. 청각적 꿈, 시각적 꿈, 미각적 꿈, 냄새를 느끼는 꿈, 꿈에도 여러 가지가 있다. 이 책을 통해 우리는 평온한 뇌파로 나타나는 서파수면(식물성 수면)과 각성했을 때의 뇌파와 똑같은 역설수면(동물성 수면)에 관한 여러 가지 과학적이면서도 재미있는 사실을 알 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19930525",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "마쓰모토 준지 저 ; 오영근 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "19930630",
+                "TITLE_URL": "",
+                "PRE_PRICE": "2500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "13000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970440149",
+                "INPUT_DATE": "19930525",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "잠이란 무엇인가",
+                "PUBLISH_PREDATE": "19930630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

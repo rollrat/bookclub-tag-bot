@@ -1,0 +1,67 @@
+{
+    "otitle": "게임을 만들면서 배우는 What's up java",
+    "oauthor": "임동혁 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "게임을 만들면서 배우는 What’s up JAVA",
+                "link": "https://search.shopping.naver.com/book/catalog/32480520688",
+                "image": "https://shopping-phinf.pstatic.net/main_3248052/32480520688.20221230071427.jpg",
+                "author": "임동혁",
+                "discount": "31500",
+                "publisher": "북스홀릭퍼블리싱",
+                "pubdate": "20180620",
+                "isbn": "9791162890035",
+                "description": "간단한 몇 개의 명령어만을 배우고, 배운 명령어를 활용하여 작은 게임을 만드는 과정을 반복해가며 하나의 언어를 정복하는 책이 있었으면 좋겠다는 단순한 생각에서 게임을 만들며 배우는 자바 프로그래밍 서적인 ‘JAVA를 게임으로 정복하기’를 선보인지도 벌써 여러 해가 지났습니다.\n당시에는 처음으로 선보이는 형식이라 온오프라인 서점에서 전시 위치를 문의할 정도였으나, 다행히 많은 분들의 사랑을 받아 좋은 결과를 얻었습니다. 절판된 후 수많은 문의전화와 출판요청 메일을 받았습니다만 여러 사정으로 인하여 재출판이 쉽지 않았습니다. \n다행히 이번에 전면 개정·증보된 새 책을 다시 출판하게 되었습니다. 이 책은 자바는 물론이고, 컴퓨터 언어를 전혀 모르는 사람에게 간단한 자바 명령어 몇 개와 기능을 가르치고, 배운 내용만을 적용하여 그 수준에 맞는 게임을 만들도록 되어 있습니다. \n이 책에서는 모두 12개의 게임을 만드는데, 처음에는 간단한 운세, 구구단, 숫자 야구 게임 따위로부터 시작하여 나중에는 슬롯머신, 테트리스, 채팅과 같은 비교적 수준이 있는 게임을 제작하도록 구성하였습니다. \n적절한 양의 자바 문법을 배우고 배운 내용만을 사용하여 게임을 만들도록 하는 것은 학습자의 입장에서는 학습의욕을 고무시키고 성취감을 높일 수 있을 것입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북스홀릭 publishing",
+                "DDC": "005.133",
+                "UPDATE_DATE": "20180705",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 임동혁",
+                "SERIES_TITLE": "",
+                "KDC": "005.133",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6677962_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*260",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "653 p.",
+                "CONTROL_NO": "CIP2018016100",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162890035",
+                "INPUT_DATE": "20180524",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(게임을 만들면서 배우는) what's up Java",
+                "PUBLISH_PREDATE": "20180620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

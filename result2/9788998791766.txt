@@ -1,0 +1,67 @@
+{
+    "otitle": "삼귀",
+    "oauthor": "미야베 미유키 저/김소연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "삼귀",
+                "link": "https://search.shopping.naver.com/book/catalog/32440478290",
+                "image": "https://shopping-phinf.pstatic.net/main_3244047/32440478290.20221019145824.jpg",
+                "author": "미야베 미유키",
+                "discount": "15120",
+                "publisher": "북스피어",
+                "pubdate": "20180525",
+                "isbn": "9788998791766",
+                "description": "미시마야의 한 아가씨가 모은 기이한 이야기!\n\n온갖 귀신들에 얽힌 다채로운 이야기를 담은 『삼귀』. 미야베 미유키의 진면목을 담은 연작 시대 소설인 「미시야마 시리즈」의 한 작품으로 에도 멋쟁이들의 인기를 한 몸에 받는 유명한 주머니 가게인 미시미야에서 한 번에 한 명씩 손님을 초대해 저마다 가슴에 품고 있는 비밀스러운 이야기를 들어 주는 아가씨가 모은 이야기를 만나볼 수 있다.\n\n절품 도시락 가게 주인장에게 달라붙은 귀여운 귀신에 얽힌 이야기, 죽은 가족을 그리워하던 화가가 불러낸 기이한 귀신 이야기, 고립된 산간마을 사람들의 곁에서 그들의 일을 도와주던 산속 귀신에 관한 애절한 이야기, 대대로 향료가게를 보살펴 준 서글픈 귀신 이야기 등 다양한 귀신 이야기들이 수록되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북스피어",
+                "DDC": "895.635",
+                "UPDATE_DATE": "20180601",
+                "EA_ADD_CODE": "04830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "미야베 미유키 지음 ;김소연 옮김",
+                "SERIES_TITLE": "미야베 월드 ; 제2막",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6643962_6.txt",
+                "SET_ISBN": "9788991931299",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "658 p.",
+                "CONTROL_NO": "CIP2018013112",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998791766",
+                "INPUT_DATE": "20180425",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "삼귀",
+                "PUBLISH_PREDATE": "20180525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04830 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

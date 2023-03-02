@@ -1,0 +1,78 @@
+{
+    "otitle": "누운 배",
+    "oauthor": "이혁진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:00 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "누운 배 (이혁진 장편소설 | 제21회 한겨레문학상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476099183",
+                "image": "https://shopping-phinf.pstatic.net/main_3247609/32476099183.20221019123503.jpg",
+                "author": "이혁진",
+                "discount": "12420",
+                "publisher": "한겨레출판사",
+                "pubdate": "20210811",
+                "isbn": "9791160406290",
+                "description": "배가 누웠다. \n하지만, 우리는 살아간다.\n\n“이 소설이 가진 디테일의 정확함과 정교함, 세밀함은\n단순히 리얼리즘이라고 부르기에 아까울 정도다!”\n_심사평 중에서"
+            },
+            {
+                "title": "누운 배 (이혁진 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489485162",
+                "image": "https://shopping-phinf.pstatic.net/main_3248948/32489485162.20220527053117.jpg",
+                "author": "이혁진",
+                "discount": "11700",
+                "publisher": "한겨레출판사",
+                "pubdate": "20160714",
+                "isbn": "9788984310407",
+                "description": "배는 누웠지만, 우리는 살아간다.\n\n제21회 한겨레문학상 수상작 『누운 배』. 총 232편의 경쟁작 가운데 아홉 명의 심사위원에게 압도적인 지지를 받아 선택된 작품으로 사회 소설인 동시에 기업 소설이다. 이야기는 중국의 한국 조선소에서 진수식이 끝난 배가 갑자기 쓰러지며 시작된다. 그러나 저자는 이 소설에서 멀쩡히 서 있던 배는 왜 쓰러졌는지, 그 ‘왜’에 집중하지 않는다. 그저 배가 쓰러졌다는 사실을 말할 뿐이다. \n\n주인공 문 대리는 ‘배가 쓰러졌으니 어서 회사로 돌아오라’는 오 팀장의 전화를 받는다. 선가 피해액을 보상받기 위한 보험팀이 꾸려지고, 해상 사고 전문가인 홍 소장이 한국에서 중국으로 넘어온다. 그리고 배가 진짜 쓰러진 이유야 어떻든 문서와 협의와 회사 간의 이익에 의해, 무엇보다 힘에 의해서, 배는 천재지변이란 단어로 정리되어 문서 위에서 최종적으로 쓰러진다.\n\n보험팀의 모든 성과는 실무자들이 아닌 정 이사와 양 이사를 비롯한 임원들이 나눠 갖는다. 그러나 보험사에서는 보험금 지급을 미루고, 회사는 어려워진다. 사장이 바뀌고, 새로운 사장이 회사를 바꿔보려 하지만, 조 상무를 비롯한 회장의 사람들에게 가로막힌다. 모든 상황이 점점 나쁘게 굴러가고 결국, 배를 일으켜 세워야지만 회사가 다시 돌아가고 월급이 나오고 승진을 할 수 있다는 사실을 사람들이 인정해야 하는 때가 오고야 마는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한겨레출판 :한겨레엔",
+                "DDC": "",
+                "UPDATE_DATE": "20210907",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hanibook.co.kr",
+                "AUTHOR": "지은이: 이혁진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정 1판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "340 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160406290",
+                "INPUT_DATE": "20210728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "누운 배",
+                "PUBLISH_PREDATE": "20210811",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

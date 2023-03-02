@@ -1,0 +1,78 @@
+{
+    "otitle": "일본 온천 순례",
+    "oauthor": "스티브 와이드,미쉘 매킨토시 공저/김은지 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:29 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "일본 온천 순례 (동네 목욕탕부터 대형 스파까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442376141",
+                "image": "https://shopping-phinf.pstatic.net/main_3244237/32442376141.20221229071117.jpg",
+                "author": "스티브 와이드^미쉘 매킨토시",
+                "discount": "16200",
+                "publisher": "시그마북스",
+                "pubdate": "20191210",
+                "isbn": "9791190257169",
+                "description": "온천 마니아인 호주인 부부가 일본 온천의 매력에 흠뻑 빠져 지난 15년간 일본 곳곳을 돌아다니며 찾아낸 온천 명소들을 소개하는 책이다. 너무나 아름답고 문화적으로도 중요한 가치를 지닌 온천부터 기막힌 절경을 자랑하는 깊은 산속에 숨어있는 온천, 흥미로운 이야기를 간직한 전통 온천, 도심에 자리한 테마파크형 온천, 개성 넘치는 자그마한 동네 온천까지 저마다 다른 매력을 지닌 온천에 대해 이야기한다. \n\n\n\n또한 온천별로 실내탕, 노천탕, 독탕, 혼탕 이용 여부를 비롯해 가격대는 어떤지, 수건 사용료를 내는지, 음료나 식사가 가능한지 등을 체크한 리스트를 함께 실음으로써 일본의 수많은 온천 중 어느 것을 선택해야 할지 몰라 고민하는 이들에게 유용한 가이드를 제공한다."
+            },
+            {
+                "title": "온천 명인이 되었습니다 (목욕 가방 들고 벳푸 온천 순례)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444410993",
+                "image": "https://shopping-phinf.pstatic.net/main_3244441/32444410993.20221129163600.jpg",
+                "author": "안소정",
+                "discount": "13320",
+                "publisher": "앨리스",
+                "pubdate": "20190227",
+                "isbn": "9788961963473",
+                "description": "벳푸 구석구석 숨은 온천을 찾아 온천 명인에 도전하다!\n\n도시 전체가 끓고 있다고 해도 과언이 아닐 만큼 벳푸는 일본 제일의 온천 도시이다. 막상 온천이라고 하면 값비싼 료칸에서 대접받고 호화롭고 돈이 많이 드는 등의 이미지 때문에 엄두가 잘 나지 않지만 여기 홀로 작정하고 온천에 다녀온 사람이 있다. 그것도 하루에 기본 세 곳, 내키면 열 곳까지 벳푸 구석구석의 숨어 있는 온천을 찾아서. 그렇게 많은 온천을 다녀온 후 ‘제7843대 벳푸 온천 명인’이 된 저자가 엄선한 37곳의 온천을 이 책에서 만나볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200121",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "스티브 와이드,미쉘 매킨토시 지음 ;김은지 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "981.302",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "CIP2019047050",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257169",
+                "INPUT_DATE": "20191119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "일본 온천 순례",
+                "PUBLISH_PREDATE": "20191210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

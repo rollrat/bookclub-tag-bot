@@ -1,0 +1,89 @@
+{
+    "otitle": "행복한 가방",
+    "oauthor": "김정민 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:41 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "행복한 가방 (김정민 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441100888",
+                "image": "https://shopping-phinf.pstatic.net/main_3244110/32441100888.20230218110542.jpg",
+                "author": "김정민",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20180321",
+                "isbn": "9791186797983",
+                "description": "북극곰 꿈나무 그림책 43권. 한 소년이 수업을 마치고 집으로 간다. 그런데 이상하게도 오늘따라 가방이 너무너무 무겁다. 너무 무거워서 들 수가 없었다. 소년은 가방을 커다란 풍선에도 매달아 보고, 재활용 상자에도 넣어 보지만, 가방은 자꾸 소년을 따라온다. 과연 소년은 무거운 가방으로부터 자유로워질 수 있을까? &lt;행복한 가방&gt;은 성적 위주의 학교 교육 때문에 답답하고 무거워진 학생들의 마음을 뻥 뚫어 주는 그림책이다."
+            },
+            {
+                "title": "행복한 가방 만들기 (손바느질과 재봉틀로 만드는 19가지 예쁜 가방과 소품)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466550479",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466550479.20220527024858.jpg",
+                "author": "가마쿠라 스와니",
+                "discount": "0",
+                "publisher": "진선아트북",
+                "pubdate": "20120126",
+                "isbn": "9788972217367",
+                "description": "예쁘고 실용적인 가방과 소품을 만들도록 이끌어주는 『행복한 가방 만들기』. 이 책은 토트백과 그래니백, 에코백, 파우치 등 예쁘고 실용적인 19가지 가방과 소품의 만드는 순서와 방법을 알려주고 있다. 홈질과 박음질과 공그르기와 같은 손바느질, 직선박기와 지그재기박기와 같은 간단한 재봉틀 사용법만 알면 초보자도 쉽게 이해하고 따라할 수 있도록 구성하였다. 작품이 완성되는 과정을 한 컷 한 컨 사진에 담았으며, 여러 번 복사하여 사용할 수 있는 도안을 모두 수록하였다."
+            },
+            {
+                "title": "행복한 캔버스 가방 만들기 (심플하고 실용적인 캔버스백의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504339670",
+                "image": "https://shopping-phinf.pstatic.net/main_3250433/32504339670.20220527041408.jpg",
+                "author": "아카미네 사야카",
+                "discount": "0",
+                "publisher": "진선출판사",
+                "pubdate": "20130618",
+                "isbn": "9788972218210",
+                "description": "『행복한 캔버스 가방 만들기』는 단단하면서도 부드러운 감촉의 캔버스 천으로 깔끔하고 실용적인 캔버스백 만드는 방법을 담은 책이다. 외출할 때마다 들고 싶은 귀여운 토트백부터 어느 옷에나 잘 어울리는 숄더백까지 베이식하면서 완성도 높은 가방 디자인이 책 속에 가득하다. 캔버스 천에 대한 기본적인 설명과 배색 요령을 배우는 컬러 레슨, 가방 만들기에 꼭 필요한 도구 등을 친절히 소개했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20180510",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 김정민",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6583797_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6583797_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[44] p.",
+                "CONTROL_NO": "CIP2018007732",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186797983",
+                "INPUT_DATE": "20180307",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "행복한 가방",
+                "PUBLISH_PREDATE": "20180321",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

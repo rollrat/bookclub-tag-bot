@@ -1,0 +1,67 @@
+{
+    "otitle": "헤드라인 쇼퍼",
+    "oauthor": "박용삼 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "헤드라인 쇼퍼 (읽고 싶어지는 한 줄의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436137890",
+                "image": "https://shopping-phinf.pstatic.net/main_3243613/32436137890.20221230072744.jpg",
+                "author": "박용삼",
+                "discount": "14850",
+                "publisher": "원앤원북스",
+                "pubdate": "20210111",
+                "isbn": "9791170431626",
+                "description": "넘쳐나는 정보 속에서 허우적거리는 순간,\n의미 있는 콘텐츠를 선별하는 안목과 센스가 필요하다!\n콘텐츠의 운명을 좌우하는 헤드라인의 비밀\n\n정보의 홍수 속에서, 쓰나미처럼 밀려오는 정보 과잉은 우리를 피곤하게 만든다. 이럴 때일수록 자신에게 유용한 뉴스, 유용한 정보를 골라 읽어야 한다. 이것이 바로 기사의 제목, 헤드라인(Headline)에 주목해야 하는 이유다. 경영 전문가인 저자는 이전 작 베스트셀러 『테드, 미래를 보는 눈』에서 테드(TED)를 통해 현대인을 위한 친절한 미래여행 가이드가 되어주었다. 그리고 이번 책에서는 헤드라인을 통해 필터형 인간으로 사는 법, 즉 필요한 정보를 필요한 만큼만 섭취하는 경험과 노하우를 알려준다. 우리는 모두 헤드라인을 생산하는 ‘헤드라이너(Headliner)’이자 그것을 소비하는 ‘헤드라인 쇼퍼(Headline shopper)’다. 한 줄 헤드라인이 지닌 힘을 이해하고 활용하는 것은 정보 홍수 시대를 살아가는 현대인에게 없어서는 안 될 능력이다. 이 책을 통해 좋은 뉴스, 쓸 만한 뉴스를 헤드라인만으로 판단해서 빛의 속도로 낚아채는 기술을 익히고, 자신에게 최적화된 정보를 찾을 수 있는 헤드라인 레시피를 완성해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210224",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박용삼 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "359 p.",
+                "CONTROL_NO": "CIP2020054467",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170431626",
+                "INPUT_DATE": "20201222",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "헤드라인 쇼퍼",
+                "PUBLISH_PREDATE": "20210111",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

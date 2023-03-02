@@ -1,0 +1,67 @@
+{
+    "otitle": "마이너스 스쿨",
+    "oauthor": "이진,주원규,김의경,김설아,정명섭 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마이너스 스쿨",
+                "link": "https://search.shopping.naver.com/book/catalog/32466703125",
+                "image": "https://shopping-phinf.pstatic.net/main_3246670/32466703125.20221019152916.jpg",
+                "author": "이진^주원규^김의경^김설아^정명섭",
+                "discount": "11700",
+                "publisher": "자음과모음",
+                "pubdate": "20211025",
+                "isbn": "9788954447669",
+                "description": "학교에서 폭력이 마이너스되는 순간, \n갇힌 누군가의 이름이 선명해진다!\n\n『마이너스 스쿨』은 십대를 위협하는 학교폭력을 주제로 한 다섯 편의 짧은 이야기를 모은 단편집이다. 십대가 하루의 대부분을 머무르는 곳이지만, 어떤 누군가에게는 두렵기만 한 학교의 현재를 독특한 상상력과 날카로운 문제의식을 담아 바라본다.\n이번 앤솔로지에는 다채롭고 기발한 이야기로 청소년문학의 새로운 지평을 열고, 여러 문학상을 수상해 문학성을 인정받으며 독자들에게도 큰 사랑을 받고 있는 이진, 주원규, 김의경, 김설아, 정명섭 작가가 참여했다.\n다섯 작가가 들려주는 학교폭력 이야기는 왕따, 학교 내 무법자, 성매매 같은 현실에서 일어나는 일들은 물론이고 피해자 캠프, 뱀파이어의 복수까지 다양하고 폭넓게 펼쳐진다. 그리고 그 속에서 십대들이 겪고 있는 고민과 어려움을 이야기한다. 다섯 작가의 눈에 비친 위태로운 학교에는 내 이야기를 들어줄 누군가를 간절히 기다리는 아이도, 나를 괴롭히는 가해자에게 복수하고 싶은 아이도, 친구의 고통을 외면하며 또 다른 폭력에 노출되어 있는 아이도 있다. 이들을 통해 작가는 학교폭력의 현실을 환기시키는 동시에 지금이야말로 고통과 두려움에 떠는 십대의 손을 단단히 붙잡아 줄 때라는 메시지를 호소력 있게 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "자음과모음",
+                "DDC": "",
+                "UPDATE_DATE": "20211122",
+                "EA_ADD_CODE": "43810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이진,주원규,김의경,김설아,정명섭",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "195 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954447669",
+                "INPUT_DATE": "20211004",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "마이너스 스쿨",
+                "PUBLISH_PREDATE": "20211025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "아이는 느려도 성장한다",
+    "oauthor": "도조 겐이치 저/김소연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아이는 느려도 성장한다 (자폐증 아이가 말하기까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466713850",
+                "image": "https://shopping-phinf.pstatic.net/main_3246671/32466713850.20221230072012.jpg",
+                "author": "도조 겐이치",
+                "discount": "11700",
+                "publisher": "문예출판사",
+                "pubdate": "20140421",
+                "isbn": "9788931007725",
+                "description": "자신의 딸인 자폐아 리카를 키우며 솔직한 심정을 적어 내려간 책. 이 책은 평생 말을 못할 것이라는 선고를 받은 중증자폐아 딸을 응용행동분석으로 직접 교육시켜 말문을 열어준 한 아버지가 진솔하게 써 내려간 3년간의 기록이다. \n\n\n\n딸이 자폐증 선고를 받은 후의 절망, 부모의 애정이 부족해 딸이 자폐증에 걸렸다고 생각하는 주변 사람들의 편견과의 싸움, 응용행동분석이라는 효과적인 치료법을 만났지만 천문학적인 비용으로 인한 금전적 고통, 냉철한 훈련 과정, 급기야 모든 에너지가 소진되어 극심한 우울증에 걸린 일 등 딸과 자신의 인생을 위해 현실에 맞서 고군분투한 한 아버지의 가슴 시린 경험담이 고스란히 드러난다.\n\n\n\n이런 솔직한 고백은 자폐아 문제를 전반적으로 다시 생각하게 하는 기회가 될뿐더러 책에서 소개하는 ‘응용행동분석’은 발달 장애의 증상을 보이는 아이, 성장이 보통 아이보다 조금 늦은 아이, 공부와 일에 집중하지 못하는 사람, 커뮤니케이션에 어려움을 느끼는 사람 등 일반인들에게도 큰 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문예출판사",
+                "DDC": "618.928982",
+                "UPDATE_DATE": "20140515",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.moonye.com",
+                "AUTHOR": "도조 겐이치",
+                "SERIES_TITLE": "",
+                "KDC": "516.93896",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3451977_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3451977_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014010304",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931007725",
+                "INPUT_DATE": "20140328",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아이는 느려도 성장한다",
+                "PUBLISH_PREDATE": "20140421",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "부자, 관상, 기술",
+    "oauthor": "김영한 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부자, 관상, 기술 (부자들은 알고 있는 핀테크 시대의 행동경제학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455616882",
+                "image": "https://shopping-phinf.pstatic.net/main_3245561/32455616882.20221019134819.jpg",
+                "author": "김영한",
+                "discount": "14400",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20211208",
+                "isbn": "9791165344313",
+                "description": "돈의 선지자 로스차일드부터 도지 파더 일론 머스크까지 \n시대의 부를 거머쥔 사람들이 독점한 ‘부의 비밀’\n\n전서구부터 비트코인까지, 시대의 부를 차지한 사람들은 모두 ‘기술’을 선점했다. 빅데이터, 위성사진은 물론이고 AI, 바이오메트릭까지 이 시대 최신 기술이 앞다투어 몰려드는 곳은 바로 투자와 금융. 바야흐로 기술이 돈을 벌고 그렇게 번 돈이 더 큰돈을 버는 시대다. 과거에는 재무제표, 애널리스트의 전망, 시가총액, 업계순위 등 전통적인 데이터를 분석하면 ‘대박’까지는 아니어도 크게 망하지는 않았다. 하지만 이제는 그런 구태의연한 정보로는 빛보다 빠르게 발전하는 ‘테크핀’들의 발뒤꿈치도 따라잡을 수 없다. \n\n그런데 여기, CEO의 관상을 분석해 회사의 위험도, 투자수익률, 경영 스타일을 한눈에 알 수 있다고 말하는 괴짜 교수가 있다. 바로 닥터 파이낸스, 성균관대 김영한 교수다. 김 교수는 일명 ‘AI 신언서판’ CEO의 얼굴을 연구해 세계적인 재무, 회계학 탑 저널에 논문을 올렸고, 미국 블룸버그 TV와 PBS에도 출연해 화제가 되었다. 《부자, 관상, 기술》은 전 세계 재무, 경영학계를 깜짝 놀라게 한 김영한 교수의 최신 연구를 쉽고 재미있게 소개한 최초의 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20220111",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "김영한 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "278 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165344313",
+                "INPUT_DATE": "20211104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "부자, 관상, 기술",
+                "PUBLISH_PREDATE": "20211208",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

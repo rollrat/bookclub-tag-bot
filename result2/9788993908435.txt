@@ -1,0 +1,78 @@
+{
+    "otitle": "종합 시사 중국어",
+    "oauthor": "리샹야오,구문규 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:10 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "종합 시사 중국어",
+                "link": "https://search.shopping.naver.com/book/catalog/32559371848",
+                "image": "https://shopping-phinf.pstatic.net/main_3255937/32559371848.20230131165327.jpg",
+                "author": "리샹야오",
+                "discount": "14250",
+                "publisher": "글로벌콘텐츠",
+                "pubdate": "20120905",
+                "isbn": "9788993908435",
+                "description": "중국의 여러 시사 분야에 걸친 이슈들을 이해하도록 이끌어주는 『종합 시사 중국어』. 이 책은 중국의 시사 문제와 관련된 정치, 사회, 경제, 국제, 문화, 스포츠, 과학기술, 인물 등 각 분야별 기사를 선별하여 독해 능력을 향상시키도록 이끌어주고 있다. 비교적 사용 빈도가 높은 단어와 관용구들을 선별하여 해설과 용례를 예시함으로써 일상생활 표현에 활용할 수 있을 것이다."
+            },
+            {
+                "title": "하오빵 어린이 중국어: 종합편 (Step 1~3을 한 권으로 만나는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485024758",
+                "image": "https://shopping-phinf.pstatic.net/main_3248502/32485024758.20221019141725.jpg",
+                "author": "김명화",
+                "discount": "13050",
+                "publisher": "시사중국어사",
+                "pubdate": "20190201",
+                "isbn": "9791157201341",
+                "description": "하오빵 어린이 중국어 STEP1~3단계를 한 권으로 완성!\n\n「하오빵 어린이 중국어 종합편」은 하오빵 어린이 중국어 Step1~3의 핵심 내용을 한 권\n으로 복습함과 동시에 하오빵 어린이 중국어 Step4의 단어와 기본 문형도 맛볼 수 있도\n록 구성한 교재입니다.\n\n하오빵 어린이 중국어 카페(http://cafe.naver.com/chinasisakids)에서 어린이 중국어 학습에 필요한 각종 정보를 함께 나눌 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "글로벌콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20121019",
+                "EA_ADD_CODE": "03720",
+                "PUBLISHER_URL": "http://www.gcbook.co.kr/",
+                "AUTHOR": "李祥耀,구문규 공저",
+                "SERIES_TITLE": "중국어문논역학회 교학총서 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788993908435",
+                "INPUT_DATE": "20120820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "종합 시사 중국어 ",
+                "PUBLISH_PREDATE": "20120905",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

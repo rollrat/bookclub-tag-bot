@@ -1,0 +1,67 @@
+{
+    "otitle": "앵무새의 정리 1",
+    "oauthor": "드니 게즈 저/문선영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "앵무새의 정리 1 (드니 게즈 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463264700",
+                "image": "https://shopping-phinf.pstatic.net/main_3246326/32463264700.20221019131552.jpg",
+                "author": "드니 게디",
+                "discount": "13320",
+                "publisher": "자음과모음",
+                "pubdate": "20210730",
+                "isbn": "9788954447430",
+                "description": "프랑스의 대표적 지성,\n드니 게즈의 소설로 만나는\n수학의 위대한 순간들"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "자음과모음",
+                "DDC": "",
+                "UPDATE_DATE": "20211012",
+                "EA_ADD_CODE": "04860",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "드니 게즈 [지음] ;문선영 옮김",
+                "SERIES_TITLE": "앵무새의 정리",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788954447423",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/07/01/9788954447430.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "375 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788954447430",
+                "INPUT_DATE": "20210706",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "앵무새의 정리",
+                "PUBLISH_PREDATE": "20210730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04860 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

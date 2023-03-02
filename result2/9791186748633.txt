@@ -1,0 +1,67 @@
+{
+    "otitle": "우수고 스트레스 클리닉",
+    "oauthor": "김근우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우수고 스트레스 클리닉 (김근우 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503926102",
+                "image": "https://shopping-phinf.pstatic.net/main_3250392/32503926102.20221227203709.jpg",
+                "author": "김근우",
+                "discount": "9900",
+                "publisher": "나무옆의자",
+                "pubdate": "20160425",
+                "isbn": "9791186748633",
+                "description": "외고 출신의 문제아 오자서, ‘우수고 스트레스클리닉’을 만나다!\n\n세계문학상 대상 수상작가 김근우가 선보이는 청소년 소설 『우수고 스트레스클리닉』. 장르를 넘나드는 작품 활동으로 장르문학계에서 활약한 작가의 흡입력 있는 필치가 십분 발휘 된 이 작품은 강렬한 캐릭터와 재치 넘치는 묘사, 힘 있는 서사와 속도감 있는 문체로 청소년 독자는 물론 일반 성인 독자들까지 아우르는 재미와 감동을 선사한다. \n\n명문 외고에 다니던 학생이었으나 문제를 일으킨 뒤 명문 똥통인 우수고등학교로 강제 전학을 당하게 된 오자서. 과거에 자신이 저지른 일에 대한 트라우마로 마음을 닫아버린 그는 전학 첫날 일진인 정범석 패거리에게 빵셔틀로 임명받는다. 그때 자서를 도와주겠다 나선 이가 있었으니, 바로 소피아라는 한국인인지 외국인인지 모를 이름을 가진 미소녀. \n\n뒤이어 나타난 의문의 학생들이 자서의 동의도 구하지 않고 멋대로 그를 구해준다. 그들의 정체는 우수고 스트레스클리닉(OHSC), 줄여서 SC. 학교 폭력이나 집단 따돌림 등 학교에서 학생들이 받는 다양한 스트레스의 원인을 제거하기 위해 결성된 서클이라는데, 자서의 눈에는 정신 나간 것들로만 보일 뿐이다. 그날부터 SC는 물론이고 고문을 맡고 있다는 교사까지 나서 자서를 SC의 신규 멤버로 가입시키기 위한 끈질긴 구애가 시작되는데."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무옆의자",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20160623",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김근우",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5316801_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5316801_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "308",
+                "CONTROL_NO": "CIP2016007637",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186748633",
+                "INPUT_DATE": "20160322",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우수고 스트레스클리닉",
+                "PUBLISH_PREDATE": "20160425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

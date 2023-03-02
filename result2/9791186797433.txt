@@ -1,0 +1,67 @@
+{
+    "otitle": "늦게 온 카네이션",
+    "oauthor": "이순원 글/이연주 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "늦게 온 카네이션",
+                "link": "https://search.shopping.naver.com/book/catalog/32466663638",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466663638.20221019114254.jpg",
+                "author": "이순원",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20161015",
+                "isbn": "9791186797433",
+                "description": "우리 시대 최고의 작가 이순원의 감동적인 수필을 아름다운 그림책으로 만든 〈이순원 그림책 시리즈〉.  시리즈의 마지막을 장식할 제5권 『늦게 온 카네이션』은 이 세상 모든 부모님께 보내는 카네이션같은 그림책입니다. 어버이날이 이틀이나 지났지만, 토끼 아줌마는 빨간 카네이션을 달고 시장에 나왔습니다. 어버이날이 지났다고 모두 한 마디씩 참견을 합니다. 하지만 어쩐 일인지 토끼 아줌마는 꽃을 떼어 낼 생각이 없습니다. 도대체 토끼 아줌마에겐 어떤 사연이 있을까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20161114",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "이순원 글; 이연주 그림",
+                "SERIES_TITLE": "이순원 그림책 시리즈",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5770093_6.jpg",
+                "SET_ISBN": "9788997728527",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5770093_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5770093_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "238*280",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5770093_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "44",
+                "CONTROL_NO": "CIP2016022867",
+                "SERIES_NO": "5",
+                "EA_ISBN": "9791186797433",
+                "INPUT_DATE": "20160921",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "늦게 온 카네이션",
+                "PUBLISH_PREDATE": "20161015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "77810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

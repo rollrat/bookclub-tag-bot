@@ -1,0 +1,67 @@
+{
+    "otitle": "부자의 말센스",
+    "oauthor": "김주하 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "돈과 사람을 끌어당기는 부자의 말센스 (한 달 만에 매출 30배 올린 주하효과의 비밀!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438193772",
+                "image": "https://shopping-phinf.pstatic.net/main_3243819/32438193772.20230214162548.jpg",
+                "author": "김주하",
+                "discount": "12960",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20200429",
+                "isbn": "9791190630344",
+                "description": "한 달 만에 매출 30배의 기적을 실현하는 주하효과\n대면이든 비대면이든 통하는 한 가지! 당신은 그것을 가지고 있는가?\n\n저자는 오랜 기간 비즈니스 교육과 컨설팅을 해오면서 자신이 전한 솔루션과 노하우를 통해 놀라운 매출 성장과 수익을 얻은 이들을 보며 그 비법들을 전수하고자 이 책을 쓰게 되었다. 이 책에 소개된 실제 사례들을 보면 아주 사소한 차이가 성공과 실패를 가늠하는 큰 차이를 만들어내고 있음을 알 수 있다. 저자는 그것을 말센스라고 칭하는데 이는 어렵거나 복잡한 것이 아니다. \n\n시장의 흐름을 예측하기 힘들고, 예상치 못한 사회적 이슈들이 돌출하고 있는 상황에서 말이 갖는 힘, 말센스는 더욱 중요해지고 있으며, 또한 접촉을 최소화하는 언택트 사회로 나아가는 현시점에서 말센스는 최고의 가성비를 자랑한다. 대면이든 비대면이든 당신의 경쟁력이 되어줄 주하효과의 비법을 실천하기만 하면 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20200511",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김주하 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "CIP2020007609",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190630344",
+                "INPUT_DATE": "20200220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(돈과 사람을 끌어당기는) 부자의 말센스",
+                "PUBLISH_PREDATE": "20200429",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

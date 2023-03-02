@@ -1,0 +1,67 @@
+{
+    "otitle": "비타민 C 항암의 비밀",
+    "oauthor": "하병근 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비타민 C 항암의 비밀 (통증도 부작용도 없는 자연항암제)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486055843",
+                "image": "https://shopping-phinf.pstatic.net/main_3248605/32486055843.20230214162214.jpg",
+                "author": "하병근",
+                "discount": "12150",
+                "publisher": "페가수스",
+                "pubdate": "20101220",
+                "isbn": "9788994651019",
+                "description": "암이 낫고 몸이 사는 비타민 C의 놀라운 효과!\n\n비타민 C와 자연의학 연구의 권위자인 인디아나대학교 의과대학 하병근 교수가 비타민 C의 경이로운 항암효과와 인체보호에 관한 진실을 들려준다. 암투병환자를 대상으로 한 비타민C 투여 임상실험에서보여준 놀라운 결과를 이 책 속에 그대로 담아내고, 이를 통해 비타민C가 항암치료에 어떠한 효과를 가져오는지 의학적으로 자세히 설명한다. 책의 내용을 통해 항암치료의 과정을 그대로 알 수 있으며 일반독자들도 이해하기 쉽게 치료 과정을 쉽게 풀어썼다. 그리고 인간을 지탱하는 필수 물질인 비타민C가 대접을 받지 못하는 이유와 그에 관련된 편견을 풀어주고 비타민 C의 진실에 대해 들려주고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "페가수스",
+                "DDC": "616.994",
+                "UPDATE_DATE": "20101221",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하병근 지음",
+                "SERIES_TITLE": "",
+                "KDC": "513.994",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2444080_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2444080_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2444080_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2010004351",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994651019",
+                "INPUT_DATE": "20101129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "비타민 C 항암의 비밀",
+                "PUBLISH_PREDATE": "20101220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

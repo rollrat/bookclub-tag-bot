@@ -1,0 +1,67 @@
+{
+    "otitle": "스페인 셀프트래블 : 2019-2020 최신판",
+    "oauthor": "김은하 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스페인 셀프트래블(2019-2020) (믿고 보는 해외여행 가이드북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486056482",
+                "image": "https://shopping-phinf.pstatic.net/main_3248605/32486056482.20230207163052.jpg",
+                "author": "김은하",
+                "discount": "13950",
+                "publisher": "상상출판",
+                "pubdate": "20190527",
+                "isbn": "9791189856137",
+                "description": "2019-2020 최신개정판 스페인 가이드북\n\n바르셀로나 람블라스, 바리 고딕, 라발, 보른, 그라시아, 바르셀로네타까지 올 가이드\n마드리드, 세고비아, 세비야, 그라나다, 발렌시아 등 주요 도시 총망라 \n스페인에서 꼭 즐겨야 할 관광명소, 맛집, 쇼핑 등 2019 최신 정보 수록\n스페인 전도 & 지역별 상세 지도 수록\n[특별부록] 휴대용 맵북 & 트래블 노트, 와이파이도시락 · 바르셀로나 기프트 숍 할인쿠폰"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20190520",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김은하 지음",
+                "SERIES_TITLE": "셀프트래블 2015",
+                "KDC": "982.702",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186517109",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "403 p.",
+                "CONTROL_NO": "CIP2019016435",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189856137",
+                "INPUT_DATE": "20190425",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(셀프트래블) 스페인",
+                "PUBLISH_PREDATE": "20190527",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

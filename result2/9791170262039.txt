@@ -1,0 +1,67 @@
+{
+    "otitle": "날마다 그냥 쓰면 된다",
+    "oauthor": "서미현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "날마다 그냥 쓰면 된다 (어느 카피라이터의 일주일 글쓰기 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493667884",
+                "image": "https://shopping-phinf.pstatic.net/main_3249366/32493667884.20221227204630.jpg",
+                "author": "서미현",
+                "discount": "12600",
+                "publisher": "팜파스",
+                "pubdate": "20180602",
+                "isbn": "9791170262039",
+                "description": "글길을 잃고 방황하는 이들을 위한 글쓰기 수업\n\n‘글쓰기는 왜 이렇게 어려울까?’, ‘남과 다른 나만의 특별한 글을 쓰려면 어떻게 해야 할까?’ 글을 쓰는 사람이라면 이러한 고민에 한 번쯤 빠지게 마련이다. 이에 현직 카피라이터인 저자는 일주일이라는 시간에 맞춰 반복적으로 글쓰기를 해보자고 권하며, 재미있게 글 쓰는 법을 소개한다. 반짝이는 사유로 빚어낸 사물에서 글감을 발견하는 법부터 상상의 토네이도를 일으켜 흡입력 있는 이야기를 완성하기까지, 카피라이터만의 번뜩이는 글쓰기 노하우를 아낌없이 전수한다. 일주일을 글 쌓기로 지내보자. 메모장에 아무것이나 떠오르는 대로 감성을 끄적여도 좋고, SNS에 그날의 단상을 솔직하게 풀어내도 좋다. 단어에서 문장으로, 문장에서 문단으로 글 쌓기를 반복하다 보면 한 편의 글이 탄생하는 것은 물론 글쓰기 실력이 저절로 키워지게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "808",
+                "UPDATE_DATE": "20180614",
+                "EA_ADD_CODE": "13800",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "서미현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "802",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6659992_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2018014473",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170262039",
+                "INPUT_DATE": "20180509",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "날마다 그냥 쓰면 된다",
+                "PUBLISH_PREDATE": "20180602",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

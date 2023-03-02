@@ -1,0 +1,67 @@
+{
+    "otitle": "발레가 내 삶도 한 뼘 키워줄까요?",
+    "oauthor": "이영선,이영애 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "발레가 내 삶도 한 뼘 키워줄까요? (어른이 되어 키가 컸습니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497182656",
+                "image": "https://shopping-phinf.pstatic.net/main_3249718/32497182656.20220527051656.jpg",
+                "author": "곽수혜",
+                "discount": "11700",
+                "publisher": "팜파스",
+                "pubdate": "20190822",
+                "isbn": "9791170262596",
+                "description": "‘아마추어에게도 노하우는 있다!’ 꾸준히 자신의 취미 활동을 해 온 사람의 본격 취미 권유기, Small Hobby Good Life 시리즈의 두 번째 도서입니다. 저자는 취미 발레인 4년차인 직장인입니다. 부끄러워서, 발레하기에는 적합한 몸이 아니라서 등 둘러대던 핑계를 물리치고 발레 학원에 들어섰고, 지금도 퇴근 후 발레 학원에 갑니다. 바르게 설 때도, 동작 하나를 할 때도, 매번 고통스럽지만, 그 고통을 참습니다. 이 고통은 끝나기 마련이고, 고통스러울 때 조금 더 뻗으면 근육이 자란다는 것을, 고통을 주는 것도, 버티는 것도, 이기는 것도 자신의 일이라는 것을 알고 있기 때문입니다. 부들부들 버티나 보니 어느새 우아해지고 있습니다. 이번 생에 발레리나는 아니지만 자기 삶의 예술가로 거듭나고 싶다면, 취미 발레의 세계로 초대합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20190902",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "곽수혜 지음",
+                "SERIES_TITLE": "",
+                "KDC": "685.504",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "CIP2019029384",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170262596",
+                "INPUT_DATE": "20190726",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "발레가 내 삶도 한 뼘 키워줄까요?",
+                "PUBLISH_PREDATE": "20190822",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

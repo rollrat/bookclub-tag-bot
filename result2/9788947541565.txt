@@ -1,0 +1,67 @@
+{
+    "otitle": "나를 사랑할 용기",
+    "oauthor": "기시미 이치로 저/홍성민 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나를 사랑할 용기 (인간관계를 둘러싼 88가지 고민에 대한 아들러의 가르침)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487789623",
+                "image": "https://shopping-phinf.pstatic.net/main_3248778/32487789623.20221019132727.jpg",
+                "author": "기시미 이치로",
+                "discount": "12600",
+                "publisher": "한국경제신문사",
+                "pubdate": "20161216",
+                "isbn": "9788947541565",
+                "description": "아들러 심리학이 당신의 고민에 대답한다!\n\n『나를 사랑할 용기』는 베스트셀러 《미움받을 용기》로 아들러 심리학의 열풍을 일으킨 기시미 이치로가 국내외에서 강연 및 상담을 통해 만난 사람들의 질문 중 호응이 높고 공감을 불러일으켰던 것들을 엄선하여 수록한 책이다. 친구 관계, 취업의 어려움, 직장 스트레스, 연애, 결혼, 육아, 가족과의 갈등, 나이 듦까지 살면서 누구나 겪게 되는 문제들에 아들러 심리학의 관점에서 해답을 제시한다.\n\n저자는 일상의 구체적인 사례를 통해 아들러 심리학을 이해하고, 명쾌한 해법으로 실천까지 이어질 수 있도록 돕는다. 88가지 이야기를 다 읽고 나면 내 마음 안에서 일어나는 열등감을 비롯하여 질투심, 허영심, 분노, 증오, 소심함과 같은 다양한 감정에 대해 제대로 이해할 수 있게 된다. 또한 타인에 대한 이해와 동시에 사회적 관계에서 삶을 어떻게 구성하고, 마음을 어떻게 다스려야 하는지도 스스로 터득할 수 있게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)한국경제신문",
+                "DDC": "",
+                "UPDATE_DATE": "20170706",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "기시미 이치로",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국변형판",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "284",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947541565",
+                "INPUT_DATE": "20161219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나를 사랑할 용기",
+                "PUBLISH_PREDATE": "20161216",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

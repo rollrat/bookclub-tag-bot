@@ -1,0 +1,67 @@
+{
+    "otitle": "펀드 투자 핵심 노하우",
+    "oauthor": "마경환,이관순 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "펀드투자 핵심 노하우 (올바른 펀드 & PB 선택법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438317055",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438317055.20230225070906.jpg",
+                "author": "마경환^이관순",
+                "discount": "14850",
+                "publisher": "이레미디어",
+                "pubdate": "20190322",
+                "isbn": "9791188279357",
+                "description": "성공적인 펀드투자 조언을 위해 국내 최고의 전문가들이 나섰다!\n\n『채권투자 핵심 노하우』로 잘 알려진 베스트셀러 저자이자 템플턴투신운용에서 20년간 현장에 몸 담았던 마경환 저자와 국내 금융회사 중 최대의 펀드 라인업을 갖추고 있는 미래에셋대우(주)에서 상품솔루션 팀장을 맡고 있으며 매월 국내에 선보여지는 5천여 개의 공모펀드, 사모펀드, 연금펀드를 분석하여 좋은 투자상품을 선별하거나 기획하는 이관순 저자가 투자자들을 위해 최고의 조언을 펼친다! 독자 여러분들은 이 책을 통해 최고의 펀드와 최고의 펀드 고르는 법을 알게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "332.6327",
+                "UPDATE_DATE": "20190311",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마경환,이관순 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.83",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7136621_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "345 p.",
+                "CONTROL_NO": "CIP2019003244",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188279357",
+                "INPUT_DATE": "20190128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "펀드투자 핵심 노하우",
+                "PUBLISH_PREDATE": "20190322",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

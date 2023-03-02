@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 문구",
+    "oauthor": "김규림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 문구 (나는 작은 문구들의 힘을 믿는다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438178657",
+                "image": "https://shopping-phinf.pstatic.net/main_3243817/32438178657.20230110164944.jpg",
+                "author": "김규림",
+                "discount": "8910",
+                "publisher": "위고",
+                "pubdate": "20190725",
+                "isbn": "9791186602485",
+                "description": "결코 실용성만으로 돌아가지 않는 문구의 세상!\n\n문구라는 장르의 오랜 팬인 《뉴욕규림일기》의 저자 김규림이 누군가는 검정 플러스펜 하나로 족할 테지만 누군가에게는 파도파도 끝이 없는 세계, 문구라는 세계를 탐험하는 『아무튼, 문구』. 학창 시절부터 아이돌 대신 문방구를 덕질 했던 뼛속 깊이 문구인, 평생을 문방구와 함께하고 싶은 문구인인 저자가 책상 위 이상하게 좋은 것들에 대한 이야기를 들려준다.\n\n《뉴욕규림일기》에서 슥슥 쓰고 그린 귀여운 손글씨와 그림으로 여행의 매력을 기록했던 저자는 이 책에서도 자신이 좋아하는 문구를 그림으로 그려 글과 함께 담아냈다. 오늘도 문구를 사면서 실용성을 잣대로 죄책감을 느끼는 사람들, 굳이 실용적인 핑계를 찾아 소비를 하고 있을지 모르는 문구인 친구들에게 문구의 진짜 가치는 실용성과는 별개의 문제라고, 예뻐서, 귀여워서, 써보고 싶어서, 그냥 사고 싶어서, 저걸 사면 오늘 하루가 더 나아질 것 같아서와 같은 다양한 이유로 문구를 사는 일에 좀 더 당당해지자고 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "",
+                "UPDATE_DATE": "20190830",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 김규림",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20190724",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/07/16/9791186602485.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "12000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "155 p.",
+                "CONTROL_NO": "CIP2019027809",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602485",
+                "INPUT_DATE": "20190716",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 문구",
+                "PUBLISH_PREDATE": "20190725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

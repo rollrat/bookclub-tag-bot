@@ -1,0 +1,67 @@
+{
+    "otitle": "아빠, 마케팅이 뭐예요?",
+    "oauthor": "심윤섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아빠, 마케팅이 뭐예요? (청소년들을 위한 톡톡! 튀는 마케팅 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32559375733",
+                "image": "https://shopping-phinf.pstatic.net/main_3255937/32559375733.20221228073213.jpg",
+                "author": "심윤섭",
+                "discount": "10800",
+                "publisher": "예문당",
+                "pubdate": "20141125",
+                "isbn": "9788970015736",
+                "description": "아빠가 들려주는 10대를 위한 마케팅 이야기\n\n요즘은 청소년들을 대상으로 한 마케팅을 흔히 볼 수 있다. 인터넷과 텔레비전에는 10대 청소년들을 자극하는 수많은 광고들로 가득 차 있으며, 길거리에는 유행에 민감한 청소년을 노리는 유혹들로 가득하다. 그만큼 청소년들의 구매파워는 무시할 수 없는 수준이 되었지만, 정작 커진 수요와 마케팅에 비해 올바른 소비를 하는 청소년들은 만나기가 쉽지 않다. 어릴 때부터 부모님께 요구하는 것에 길들여져 효율적인 소비가 무엇인지를 배우지 못했기 때문이다. 이런 청소년 시기에 올바른 마케팅에 대해 배우지 못하면 어른이 되어서도 제대로 된 소비활동을 할 수 없다. 우리 아이가 쉽고 재미있게 마케팅에 대해 배울 수 있는 책이 필요한 이유다. 책 속에 나오는 아빠의 이야기를 즐겁게 따라가다 보면 분명 제대로 된 마케팅에 눈을 뜬 아이를 만날 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문당",
+                "DDC": "",
+                "UPDATE_DATE": "20150107",
+                "EA_ADD_CODE": "43320",
+                "PUBLISHER_URL": "www.yemundang.com",
+                "AUTHOR": "심윤섭",
+                "SERIES_TITLE": "",
+                "KDC": "325.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4086134_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4086134_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014031873",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970015736",
+                "INPUT_DATE": "20141105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "아빠, 마케팅이 뭐예요?",
+                "PUBLISH_PREDATE": "20141122",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

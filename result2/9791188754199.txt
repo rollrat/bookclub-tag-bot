@@ -1,0 +1,67 @@
+{
+    "otitle": "퀀트로 가치투자하라",
+    "oauthor": "웨슬리 그레이,토비아스 칼라일 공저/서태준 역/신진오 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "퀀트로 가치투자하라 (마법공식을 뛰어넘는 최강 QV 주식투자법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438264690",
+                "image": "https://shopping-phinf.pstatic.net/main_3243826/32438264690.20221227205515.jpg",
+                "author": "웨슬리 그레이^토비아스 칼라일",
+                "discount": "16200",
+                "publisher": "에프엔미디어",
+                "pubdate": "20190825",
+                "isbn": "9791188754199",
+                "description": "주식투자 방법론의 진화, 가치투자와 퀀트투자의 위대한 결합\n\n물과 기름 같았던 가치투자와 퀀트투자. 이 두 분야의 장점을 결합해 수익을 극대화하는 ‘퀀트가치(Quantitative Value)’ 투자 전략을 제시하는 책. 가히 가치투자 대가 워런 버핏과 퀀트투자 창시자 에드워드 소프가 손잡고 만든 막강한 투자법이라 할 만하다.\n\n퀀트가치 투자 전략은 벤저민 그레이엄와 워런 버핏을 추종하는 퀀트투자자 조엘 그린블라트의 ‘마법공식’에서 시작해, 파산할 기업을 걸러내고 훌륭한 비즈니스를 발굴하며 싼 주식을 찾고 확실한 신호를 잡는 지표들을 더해 완성했다. 가치투자의 철학에서 비롯된 혜택은 누리면서 퀀트 기법으로 종목 선정과 관련한 행동 오류를 제거했다. 그 결과, 가치투자에서 쉽지 않았던 실천력이 보강되고 퀀트투자에서 석연치 않았던 인과관계가 보완되어 성과가 극대화되었다. 독자들은 책에서 제시하는 ‘QV 체크리스트’에 따라 하나하나 검증하다 보면 어느새 진화한 투자법의 성과를 누리게 될 것이다.\n\n저자인 웨슬리 그레이는 세계적인 퀀트 커뮤니티를 운영하는 자산운용사 알파 아키텍트의 설립자 겸 CEO이고, 토비아스 칼라일은 에이퀴엠 인베스트먼트의 설립자 겸 임원이며 어콰이어러스 펀드의 매니저로 활동하고 있다. 풍부한 이론과 실전 경험에 방대한 문헌과 검증 자료를 더해 탄탄한 전략을 만들어냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "에프엔미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20190909",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "웨슬리 그레이,토비아스 칼라일 지음 ;서태준 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/23/9791188754199.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "378 p.",
+                "CONTROL_NO": "CIP2019031444",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188754199",
+                "INPUT_DATE": "20190809",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "퀀트로 가치투자하라",
+                "PUBLISH_PREDATE": "20190825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

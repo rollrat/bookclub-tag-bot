@@ -1,0 +1,67 @@
+{
+    "otitle": "서울, 권력 도시",
+    "oauthor": "토드 A. 헨리 저/김백영,정준영,이향아,이연경 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서울, 권력 도시 (일본 식민 지배와 공공 공간의 생활 정치)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466965091",
+                "image": "https://shopping-phinf.pstatic.net/main_3246696/32466965091.20230223071155.jpg",
+                "author": "토드 A. 헨리",
+                "discount": "24200",
+                "publisher": "산처럼",
+                "pubdate": "20200110",
+                "isbn": "9788990062918",
+                "description": "해외 한국학 저서 중 가장 주목받고 있는 식민지 시기 서울의 역사!\n일본의 식민지 동화 프로젝트의 실상을 당시 서울에 살았던 사람들이 \n직접 보고 겪은 다양한 에피소드들을 통해 생생하게 그려내다!\n\n토드 A. 헨리의 《서울, 권력 도시: 일본 식민 지배와 공공 공간의 생활 정치(Assimilating Seoul: Japanese Rule and the Politics of Public Space in Colonial Korea, 1910-1945》 는 일본의 식민 지배 시기(1910∼1945) 서울의 역사를 다루고 있다. 1910년 한일병합 이후 조선 왕조의 수도였던 한양은 서서히 일본적 근대의 전시장으로 전환하면서 많은 부분이 파괴되고 식민 지배를 위한 새로운 무대로 만들어졌다. 서울의 공공 공간 중에서도 특히 경복궁 터, 남산의 신토(神道) 신사, 그리고 근린 위생 캠페인의 장소 등은 식민지 조선인들을 충성스럽고 근면하며 공덕심을 지닌 일본 제국의 신민으로 만들려는 폭력적이고 논쟁적인 ‘동화 정책’ 과정의 핵심적인 현장이었다. 따라서 식민지 시기 서울의 이런 공공 공간의 분석을 통하여, 일제의 식민지 동화 프로젝트가 전개된 구체적 양상을 정신적(spiritual), 물질적(material), 공중적(civic) 세 가지 측면으로 나누어 살펴보고 있다. 이 책은 ‘식민지 근대’의 실상이 무엇이었는지를 당시 서울이라는 공간에 살았던 사람들이 보고 겪은 다양한 에피소드들을 통해 생생하게 그려내고 있어 흥미롭다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산처럼",
+                "DDC": "",
+                "UPDATE_DATE": "20200204",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "https://www.sanbooks.com",
+                "AUTHOR": "토드 A. 헨리 지음 ;김백영,정준영,이향아,이연경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/01/13/9788990062918.jpg",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "482 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990062918",
+                "INPUT_DATE": "20200113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "서울, 권력 도시",
+                "PUBLISH_PREDATE": "20200110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

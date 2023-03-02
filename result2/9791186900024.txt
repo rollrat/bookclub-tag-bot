@@ -1,0 +1,67 @@
+{
+    "otitle": "부엌의 화학자",
+    "oauthor": "라파엘 오몽 저/김성희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부엌의 화학자 (화학과 요리가 만나는 기발하고 맛있는 과학책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476763280",
+                "image": "https://shopping-phinf.pstatic.net/main_3247676/32476763280.20221227203939.jpg",
+                "author": "라파엘 오몽",
+                "discount": "11700",
+                "publisher": "더숲",
+                "pubdate": "20160127",
+                "isbn": "9791186900024",
+                "description": "혁신적인 물리화학자 라파엘 오몽과 분자요리의 대가 티에리 막스가 펼쳐내는 새로운 과학의 향연. 저자 라파엘 오몽은 혁신적인 실험을 바탕으로 '과학의 예술화'를 꿈꾸는 젊은 과학자다. 저자는 식재료와 음식물이 물질로서 어떤 물리학의 법칙을 따르는지, 그리고 요리라는 화학작용을 통해 얼마나 과학적이고 합리적인 음식을 만들 수 있는지 등을 쉽고 재미있게 소개한다.\n\n\n\n요리를 통해 화학을 배우고, 화학을 통해 최고의 요리 레시피를 만날 수 있는 책이다. 예를 들어 요리에서 '익힌다'는 말은 왜 '응고시킨다'라는 말로 치환될 수 있는지, 맛과 향, 색과 질감을 살리며 재료를 익히는 방법은 무엇인지, 기존의 레시피를 정반대로 뒤집는 발상은 어떻게 실현되는지 등 재료의 특성을 이해하고 독창적인 요리를 만들기 위한 과학적 지식과 조리 비법이 가득하다.\n\n\n\n이밖에도 친환경 식품첨가물인 해조류 젤화제나 음식 캡슐화로 먹을 수 있는 포장재를 만들기 등의 자연친화적 과학 연구도 친절히 설명하고 있어, 요리에서 출발한 과학적 호기심이 한층 성숙해져가는 과정을 엿볼 수 있다. 물리화학자만이 할 수 있는 과학 연구.실험에 연구 파트너인 티에리 막스의 최고급 레시피와 요리 실력이 더해져 시너지를 빚어내고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)더숲",
+                "DDC": "",
+                "UPDATE_DATE": "20160216",
+                "EA_ADD_CODE": "03430",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "라파엘 오몽",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "236",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186900024",
+                "INPUT_DATE": "20151230",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "부엌의 화학자",
+                "PUBLISH_PREDATE": "20160127",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

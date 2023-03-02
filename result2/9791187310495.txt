@@ -1,0 +1,67 @@
+{
+    "otitle": "100만 팔로워 마케팅",
+    "oauthor": "브렌단 케인 저/임경은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "100만 팔로워 마케팅 (한 달 만에 달성하는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457426641",
+                "image": "https://shopping-phinf.pstatic.net/main_3245742/32457426641.20221228073532.jpg",
+                "author": "브렌단 케인",
+                "discount": "13500",
+                "publisher": "북아지트",
+                "pubdate": "20201123",
+                "isbn": "9791187310495",
+                "description": "가장 충성도 높은 잠재 고객을 찾아라! \n팔로워를 활용한 효과적인 소셜 미디어 마케팅\n\n디지털 및 소셜 미디어 플랫폼을 사용하는 사람이 많아지면서 TV나 라디오처럼 주요 매체가 아니더라도 이제 마음만 먹으면 자기의 개성과 기업 브랜드 등을 세상에 널리 알릴 수 있다. 하지만 초창기와 달리 요즘은 자신을 알려고 싶어 하는 사람이 너무 많고, 사회는 점점 세계화되고 있어서 단순히 페이스북이나 인스타그램, 유튜브에 메시지나 콘텐츠를 올리는 것만으로는 충분한 홍보 효과를 보기 힘들다. 저자는 소셜 미디어를 활용해 효과적인 홍보를 하고 싶다면 사람들이 공유하고 싶은 콘텐츠를 만들어야 한다고 말한다. 한 사람이 어떤 메시지를 공유하는 순간, 그 메시지는 기하급수적으로 노출되고 확산된다는 것이다. 즉 공유수가 올라가면 소셜 미디어에서 빠른 성장을 할 수 있고 그것을 뒷받침하는 것이 바로 팔로워들이다. 또한, 올바른 전략만 있다면 누구라도 전 세계적으로 대규모의 잠재 고객을 확보할 수 있다고 말하며, 마음을 사로잡는 콘텐츠 공유 마케팅의 독자적인 시스템을 개발하여 이 책에서 상세히 설명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Book Agit :작은우주",
+                "DDC": "",
+                "UPDATE_DATE": "20210421",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 브렌단 케인 ;옮긴이: 임경은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187310495",
+                "INPUT_DATE": "20201104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(한 달 만에 달성하는) 100만 팔로워 마케팅",
+                "PUBLISH_PREDATE": "20201123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

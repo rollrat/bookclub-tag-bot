@@ -1,0 +1,67 @@
+{
+    "otitle": "클래식은 처음이라",
+    "oauthor": "조현영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "클래식은 처음이라 (가볍게 시작해서 들을수록 빠져드는 클래식 교양 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441510815",
+                "image": "https://shopping-phinf.pstatic.net/main_3244151/32441510815.20230207165427.jpg",
+                "author": "조현영",
+                "discount": "15120",
+                "publisher": "카시오페아",
+                "pubdate": "20210614",
+                "isbn": "9791190776714",
+                "description": "“클래식 음악이 이렇게 재미있는 거였어?”\n클래식이 처음인 당신을 위한 쉽고 편안한 클래식 세계로의 초대!\n\n《클래식은 처음이라》는 제목 그대로 클래식의 세계에 첫발을 내딛었거나 혹은 내딛고 싶은 초심자들을 위한 교양 클래식 입문서다. 클래식을 감상하면 이로운 점이 많다는 사실을 많은 사람들이 막연하게 알고 있지만, 막상 감상에 도전하려고 하면 무엇을 어떻게 들어야 할지 막막하기만 한다. 현직 피아니스트로서 클래식과 인문학을 접목한 강의와 팟캐스트 등을 통해 대중들에게 클래식의 정수를 쉽고 재미있게 전달해온 저자는 이 책에서 바흐, 모차르트, 베토벤, 쇼팽, 슈만부터 리스트, 차이콥스키, 말러, 드뷔시, 피아졸라까지 클래식의 역사를 논할 때 빠뜨릴 수 없는 10명의 음악가들의 선별하여, 그들의 삶과 그들이 만들어낸 위대한 음악에 대해 천일야화를 들려주듯 흥미진진하게 스토리텔링을 이어나간다. \n\n이처럼 ‘음악 이론과 지식’이 아닌 ‘사람 사는 이야기’로 서양음악사의 큰 맥락을 꿸 수 있도록 구성한 것은 이 책의 가장 큰 미덕이다. 또한 저자가 연주자의 관점에서 엄선한 150여 곡의 클래식 명곡 추천 플레이리스트와 책 속에서 다룬 10명의 클래식 음악가들의 삶을 7~9분 내외의 알짜배기 강의로 정리한 내용을 유튜브 채널을 통해 독자들이 편하게 접할 수 있도록 QR코드를 넣어 실용적으로 구성했다. 진입 장벽이 높다고 생각해서 늘 클래식 세계로의 여행을 망설였다면 《클래식은 처음이라》를 통해 ‘두려움 없이 가볍게’ 클래식의 첫발을 떼어보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "카시오페아(카시오페아 출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210727",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://blog.naver.com/cassiopeiabo",
+                "AUTHOR": "조현영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/05/17/9791190776714.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190776714",
+                "INPUT_DATE": "20210517",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "클래식은 처음이라",
+                "PUBLISH_PREDATE": "20210614",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

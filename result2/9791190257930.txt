@@ -1,0 +1,67 @@
+{
+    "otitle": "GAFA 이후의 세계",
+    "oauthor": "고바야시 히로토 저/전종훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "GAFA 이후의 세계 (분산된 세계의 미래 지도)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497225918",
+                "image": "https://shopping-phinf.pstatic.net/main_3249722/32497225918.20221227210050.jpg",
+                "author": "고바야시 히로토",
+                "discount": "14850",
+                "publisher": "시그마북스",
+                "pubdate": "20201215",
+                "isbn": "9791190257930",
+                "description": "거대한 플랫폼 다음에 올 인터넷 권력은 무엇일까?\n\n지금 이 세계에는 조용한 변혁의 물결이 밀려오고 있다. 가짜 뉴스와 정보 누설, ‘감시자본주의’라 불리는 통치와 경제활동을 포함한 자본주의 본연의 모습에 이르기까지 인터넷에 대한 다양한 논의와 반대 운동이 세계 각지에서 일어나고 있다. 이제부터 우리가 맞이하는 것은 ‘거대한 해체(Big Unbundle)’라고 하는 새로운 전환기다. 지금은 이 ‘해체’가 주로 비즈니스 분야에서 일어나고 있지만, 앞으로는 라이프스타일과 일하는 방식, 사회 본연의 모습에까지 영향을 미칠 것이다. 이 책을 통해 이러한 상황과 그 뒤에서 움직이는 기술의 생동력을 알고, 독자 여러분의 비즈니스와 라이프스타일에 중첩해보길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210203",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "고바야시 히로토 지음 ;전종훈 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "304 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257930",
+                "INPUT_DATE": "20201103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "GAFA 이후의 세계",
+                "PUBLISH_PREDATE": "20201215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

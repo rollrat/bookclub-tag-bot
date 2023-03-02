@@ -1,0 +1,67 @@
+{
+    "otitle": "아주 친밀한 폭력",
+    "oauthor": "정희진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아주 친밀한 폭력 (여성주의와 가정 폭력)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441101384",
+                "image": "https://shopping-phinf.pstatic.net/main_3244110/32441101384.20221019114340.jpg",
+                "author": "정희진",
+                "discount": "12600",
+                "publisher": "교양인",
+                "pubdate": "20161105",
+                "isbn": "9791187064053",
+                "description": "‘한국 페미니즘의 교과서’로 불리는 《페미니즘의 도전》의 저자 정희진은 『아주 친밀한 폭력』에서 타인이 침범할 수 없는 사적 공간이자 ‘안식처’로 여겨지는 가정이 실은 가부장제 사회의 뿌리 깊은 성 차별 의식과 성별 권력 관계가 가장 자연스럽게 구현되고 학습되는 사회적, 정치적 공간임을 밝힌다. 이 책은 지금 한국 여성이 처한 현실에 대한 가장 적나라하고 고통스러운 보고서이다. 이 책을 읽는 것은 곧 여성주의의 눈으로 한국 사회와 자신을 새롭게 들여다보는 계기가 될 것이다.\n\n▶ 이 책은2001년에 출간된 《저는 오늘 꽃을 받았어요》(또하나의문화)의 개정판입니다.\n저자가 새로 집필한 ‘머리말’이 실려 있으며 현재 시점에 맞게 여러 정보를 수정, 보완하였습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "교양인",
+                "DDC": "305.4",
+                "UPDATE_DATE": "20161108",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정희진",
+                "SERIES_TITLE": "",
+                "KDC": "337.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5810618_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5810618_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 280페이지 내외",
+                "CONTROL_NO": "CIP2016024207",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187064053",
+                "INPUT_DATE": "20161011",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "아주 친밀한 폭력",
+                "PUBLISH_PREDATE": "20161105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

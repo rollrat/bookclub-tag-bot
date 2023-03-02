@@ -1,0 +1,67 @@
+{
+    "otitle": "그곳에 좋은 기운이 모인다",
+    "oauthor": "김승호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그곳에 좋은 기운이 모인다 (좋은 기운을 받고, 나쁜 운명을 피하는 특별한 장소의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462366793",
+                "image": "https://shopping-phinf.pstatic.net/main_3246236/32462366793.20221019131920.jpg",
+                "author": "김승호",
+                "discount": "13500",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20170315",
+                "isbn": "9788965703976",
+                "description": "기가 모이고 복이 쌓이는 ‘그곳’의 비밀!\n\n기운을 써야 할 때, 모아야 할 때, 액운을 피해야 할 때 우리는 어디로 가야 할까? 새로운 아이디어를 얻고 싶다면, 불운을 털어버리고 싶다면 어디로 가야 할까? 운이 상승하는 곳, 복이 쌓이는 곳, 기운이 나는 곳, 화를 피하는 곳은 어디일까? 이 책 『그곳에 좋은 기운이 모인다』는 주역학자 김승호가 지난 50년간 연구한 장소의 기운과 그 기운이 운명에 미치는 힘에 대해 이야기한다. \n\n책은 상황에 따라 나에게 필요한 기운을 찾아갈 수 있도록 매우 현실적인 내용을 담고 있다. 재물, 직업진로, 인간관계, 성격, 건강 등 52가지 상황별로 주역 괘상과 함께 추천장소도 수록했다. 기존의 풍수, 양택의 개념을 뛰어넘어 좀 더 입체적으로, 실용적으로 ‘공간’과 ‘기운’에 대해 알려주는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)쌤앤파커스",
+                "DDC": "133.333",
+                "UPDATE_DATE": "20170307",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "김승호",
+                "SERIES_TITLE": "",
+                "KDC": "188.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6118824_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6118824_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6118824_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "296",
+                "CONTROL_NO": "CIP2017002896",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965703976",
+                "INPUT_DATE": "20170202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "그곳에 좋은 기운이 모인다",
+                "PUBLISH_PREDATE": "20170315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

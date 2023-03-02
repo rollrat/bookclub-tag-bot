@@ -1,0 +1,67 @@
+{
+    "otitle": "법은 얼마나 정의로운가",
+    "oauthor": "폴커 키츠 저/배명자 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "법은 얼마나 정의로운가 (법과 정의에 대한 19가지 근원적 질문들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474567832",
+                "image": "https://shopping-phinf.pstatic.net/main_3247456/32474567832.20221019110507.jpg",
+                "author": "폴커 키츠",
+                "discount": "13320",
+                "publisher": "한스미디어",
+                "pubdate": "20170118",
+                "isbn": "9791160070903",
+                "description": "법의 시대를 사는 지금, 우리는 어떻게 법을 의심하고 고민해야하는가?\n\n그 어떤 인문학보다 '법'이야말로 일상과 가장 밀접하고 우리의 존엄성을 지켜주는 최소한의 교양이다. 지금처럼 세상이 어지러울 때, 더더욱 법에 관심을 가져야 한다. 법치주의 국가에 살면서 법의 사용법을 제대로 안다는 것은 당당하게 권리를 요구하고 자유를 확보하며 정의롭지 못한 타인의 행동이나 국가 정책에 합리적으로 반대의 목소리를 낼 수 있는 힘을 의미하기 때문이다. \n\n『법은 얼마나 정의로운가』의 저자 폴커 키츠는 헌법의 고장 독일에서 일어난 19건의 실제 사건을 통해 개인과 국가가 어떻게 법을 의심하고 행동하며 바꾸어 나가는지 그 과정을 흥미롭게 추적했다. 법은 어렵고 딱딱하다는 편견을 깨주는 저자의 유려한 문체를 읽어가다 보면 어느새 ‘법은 과연 정의로운가? 얼마나 정의로운가?’하는 질문을 스스로에게 던져보게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20170202",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "폴커 키츠",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "330내외",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160070903",
+                "INPUT_DATE": "20161122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "법은 과연 정의로운가",
+                "PUBLISH_PREDATE": "20170118",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

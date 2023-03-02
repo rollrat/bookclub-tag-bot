@@ -1,0 +1,67 @@
+{
+    "otitle": "피부가 먼저다",
+    "oauthor": "김연진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "연애보다 패션보다 피부가 먼저다",
+                "link": "https://search.shopping.naver.com/book/catalog/32466949086",
+                "image": "https://shopping-phinf.pstatic.net/main_3246694/32466949086.20221019131756.jpg",
+                "author": "김연진",
+                "discount": "11700",
+                "publisher": "포북(forbook)",
+                "pubdate": "20150605",
+                "isbn": "9791186455753",
+                "description": "피부 미인이 진짜 미인이다!\n\n『연애보다 패션보다 피부가 먼저다』는 피부과 의사가 직접 쓴 책으로, 아이러니하게도 병원에 가지 않고 피부를 바꿀 수 있는 뷰티 습관, 생활 습관을 담았다. 얼굴을 씻기 전에 제발 손부터 씻으라는 기본적이고 중요한 클렌징 방법부터 홍조, 자외선 차단, 악건성, 민감성, 제모, 트러블 등 다양한 피부 고민별 대처 방법을 자세히 안내한다. 또한 화장품의 가짓수를 줄여야 할 이유 등을 제시하며 화장품과 화장에 대한 진실을 알려주고, 저자를 포함한 연예인들의 피부 관리 비법도 공개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포북",
+                "DDC": "",
+                "UPDATE_DATE": "20150625",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김연진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186455753",
+                "INPUT_DATE": "20150519",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "연애보다 패션보다 피부가 먼저다",
+                "PUBLISH_PREDATE": "20150605",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

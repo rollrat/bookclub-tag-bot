@@ -1,0 +1,67 @@
+{
+    "otitle": "영화, 내 맘대로 봐도 괜찮을까?",
+    "oauthor": "이현경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영화, 내 맘대로 봐도 괜찮을까? (부터 까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474598840",
+                "image": "https://shopping-phinf.pstatic.net/main_3247459/32474598840.20221019124939.jpg",
+                "author": "이현경",
+                "discount": "13500",
+                "publisher": "미다스북스",
+                "pubdate": "20200121",
+                "isbn": "9788966377558",
+                "description": "성장드라마, 멜로,  SF와 액션부터 공포까지\n“영화가 던진 질문에 대한 대답!”\n\n“영화는 더 이상 알려주지 않는다.”\n\n영화의 서사, 인물, 리듬, 시간과 공간…\n이야기의 시작과 끝이 던지는 질문에 답하다!\n\n영화는 시각과 청각에 의지하는 예술이다. 추상적이고 관념적인 것들도 시청각적인 요소로 환원되어야 관객에게 전달될 수 있다. 끊임없이 이어지는 시청각 정보를 흡수한 관객은 영화는 보면서, 혹은 보고 난 후에 수많은 질문들을 떠올리게 된다. 그러나 영화는 이런 질문에 친절하게 답하지 않는다. \n\n저자는 영화가 남긴 이러한 질문에 답하는 영화평론가다. 그녀는 오랜 시간 다양한 영화를 보고 느끼고  분석해왔다. 그리고 이 책에 그 치열한 과정을 담았다. 이 책에 수록된 글은 영화가 던진 질문에 대한 개인적이면서도 개성적인 답변들이다. 몇 가지의 영화를 엮어서 서술하기도 했고, 영화를 전반적으로 분석하거나 혹은 어떤 한 부분에 집중하기도 했다. 물론 주요한 스포일러가 있을 수도 있다. \n\n이 책을 통해 독자들은 영화를 자유롭게 느끼며 영화가 던지는 질문을 낚아채는 방법을 엿보고, 그 질문에 대해 나름의 답을 찾을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200213",
+                "EA_ADD_CODE": "03680",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이현경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966377558",
+                "INPUT_DATE": "20200103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "영화, 내 맘대로 봐도 괜찮을까? ",
+                "PUBLISH_PREDATE": "20200121",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

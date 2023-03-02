@@ -1,0 +1,67 @@
+{
+    "otitle": "아내가 창업했다",
+    "oauthor": "정민형 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아내가 창업했다 (직장을 벗어나 나답게 살기 위한 작은 공방 도전기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504743668",
+                "image": "https://shopping-phinf.pstatic.net/main_3250474/32504743668.20221230072421.jpg",
+                "author": "정민형",
+                "discount": "13050",
+                "publisher": "한빛비즈",
+                "pubdate": "20171130",
+                "isbn": "9791157842179",
+                "description": "남편이 기록한 아내의 공방 창업기. 책의 주인공인 아내는 회사의 울타리를 과감히 박차고 나와 작지만 따뜻한 자신만의 향초 공방을 연다. 저자이자 남편은 그 옆에서 같이 고민하고, 돕고, 조언하고, 응원을 하며 아내의 창업 과정을 하나하나 기록한다. 가장 가까운 존재라 할 수 있는 인생의 파트너가 창업을 한다고 했을 때 느끼는 솔직한 심정들을 담았다.  \n\n\n\n꿈을 펼치기 위해 향초 공방을 시작한 아내와, 평범한 직장인으로 남아 아내의 도전을 바라보는 남편의 좌충우돌 창업 이야기는 창업을 할 때 현실적으로 어떤 어려움과 고민이 있었는지,  부부 간 어떤 의견충돌이 있었고 어떻게 극복했는지, 소자본  창업  노하우 등을 담았다. 창업을 꿈꾸는 모든 부부들에게 현실적이고 유용한 조언이 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20171218",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "지은이: 정민형",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157842179",
+                "INPUT_DATE": "20171116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "아내가 창업했다",
+                "PUBLISH_PREDATE": "20171130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

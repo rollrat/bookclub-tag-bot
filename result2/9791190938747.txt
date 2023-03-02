@@ -1,0 +1,78 @@
+{
+    "otitle": "모르모트",
+    "oauthor": "피피마루 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:02 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "모르모트 (쥐가 인간의 뇌를 지배한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494106393",
+                "image": "https://shopping-phinf.pstatic.net/main_3249410/32494106393.20221019131621.jpg",
+                "author": "피피마루",
+                "discount": "12600",
+                "publisher": "상상앤미디어",
+                "pubdate": "20210622",
+                "isbn": "9791190938747",
+                "description": "“쥐가 인간의 뇌를 지배한다”\n\n실험용 쥐 모르모트가 인간을 지배하는 판타지 소설\n“신은 나를 쥐에서 인간으로 만들었다”"
+            },
+            {
+                "title": "모르모트 인간",
+                "link": "https://search.shopping.naver.com/book/catalog/36019501625",
+                "image": "https://shopping-phinf.pstatic.net/main_3601950/36019501625.20221213170428.jpg",
+                "author": "태기수",
+                "discount": "13500",
+                "publisher": "걷는사람",
+                "pubdate": "20221116",
+                "isbn": "9791192333359",
+                "description": "“인간은 영영 꼬리를 잃어버린 것인가?”\n인간 존재의 근원을 추적하는 현실 너머의 환상적 상상력\n\n1998년 월간 《현대문학》 신인 공모에 중편 소설이 당선되면서 작품 활동을 시작한 태기수 소설가의 소설집 『모르모트 인간』이 걷는사람 소설 일곱 번째 작품으로 출간되었다. 태기수는 극작가로도 활발하게 활동하며 그의 장편소설 원작인 「물탱크 정류장」 「총과 바이올린」 등의 작품을 무대에 올리기도 했다. 그 이외에도 청소년 평전 『과학의 전도사 리처드 파인만』과 공동작품집『피크』『캣 캣 캣』『무민은 채식주의자』등을 펴내면서 왕성한 창작 활동으로 중견 작가로서의 입지를 단단히 갖추었다. 환상문학의 거장인 마르케스, 보르헤스와 비교되며 국내 환상적 리얼리즘 소설가를 대표하는 그가 이번에 새롭게 펴낸 『모르모트 인간』은 인간 존재의 근원을 추적해 가며 현실과 환상, 일상과 꿈의 경계를 허물고 아름답고 몽환적인 세계로 독자를 끌어들인다. 비범한 상상력으로 풀어낸 일곱 편의 중ㆍ단편소설을 한데 묶었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상앤미디어 :상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210727",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "피피마루 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "276 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190938747",
+                "INPUT_DATE": "20210527",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "모르모트",
+                "PUBLISH_PREDATE": "20210622",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

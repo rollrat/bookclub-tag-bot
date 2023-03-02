@@ -1,0 +1,67 @@
+{
+    "otitle": "이불 속 클래식 콘서트",
+    "oauthor": "나웅준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이불 속 클래식 콘서트 (나의 하루를 덮어주는 클래식 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492166953",
+                "image": "https://shopping-phinf.pstatic.net/main_3249216/32492166953.20230218110724.jpg",
+                "author": "나웅준",
+                "discount": "14400",
+                "publisher": "페이스메이커",
+                "pubdate": "20210401",
+                "isbn": "9791170431923",
+                "description": "맛깔나는 곡 해석과 상황별 클래식 추천 사용법이 가득 담긴 책이다. 트럼펫 연주자이자 콘서트 가이드로서 수많은 무대에 올랐던 저자가 일상 속 다양한 상황에 어울리는 음악을 선별했다. 양치하거나 운동할 때 등 일상에 어울리는 음악과, 희망찬 봄부터 괜한 공허감이 생기는 겨울 등 날씨나 환경에 어울리는 음악까지 다양하다.\n\n\n\n음악과 함께 일상을 보내고 싶어도 평소에 듣던 음악 말고는 생각나는 게 없다. 그래서 이 책의 저자는 DJ가 되어 당신만의 아주 특별한 콘서트를 열어준다. 물론 선곡은 독자의 선택에 달렸다. 저자가 추천하는 상황별, 계절별 음악과, 재미를 더하는 과거 작곡가의 편지를 통해 당신이 원하는 음악을 고를 수 있다.\n\n\n\n우리가 잘 아는 바흐와 베토벤, 헨델, 차이콥스키 같은 유명한 작곡가의 음악부터 엑토르 베를리오즈, 샤를 구노, 조르주 비제 같은 생소한 작곡가의 음악까지 감상의 범위를 넓혀 선택의 즐거움을 더했다. 더 이상 다른 사람이 좋다고 해서, 유명한 음악이라는 이유로 무작정 듣지 말자. 글마다 첨부된 QR코드를 통해 직접 음악을 들어보고 ‘정말 내가 듣고 싶어서 만든’ 나만의 클래식 플레이리스트를 만들어볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Pace Maker(페이스메이커)",
+                "DDC": "",
+                "UPDATE_DATE": "20210504",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "나웅준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170431923",
+                "INPUT_DATE": "20210312",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "이불 속 클래식 콘서트",
+                "PUBLISH_PREDATE": "20210401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

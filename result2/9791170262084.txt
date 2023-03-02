@@ -1,0 +1,67 @@
+{
+    "otitle": "어른이 처음이라서 그래",
+    "oauthor": "하주원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어른이 처음이라서 그래 (여전히 서툴고 모르는 것투성이인 어른을 위한 심리학 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490366360",
+                "image": "https://shopping-phinf.pstatic.net/main_3249036/32490366360.20221230074018.jpg",
+                "author": "하주원",
+                "discount": "12420",
+                "publisher": "팜파스",
+                "pubdate": "20180705",
+                "isbn": "9791170262084",
+                "description": "여전히 서툴고 모르는 것투성이인 \n어른을 위한 심리학 수업\n\n언어와 행동 등에 대한 교육이 끝나서 성인이 되면 더 이상의 발달은 필요 없다고 생각하게 마련이다. 하지만 어른이 되어 사회생활을 하고, 결혼을 하고, 자녀를 낳아 기르고, 다시 자녀를 독립시키는 과정을 겪다 보면 미성숙한 면모가 드러나기 시작한다. 어른으로 살아가면서 그에 필요한 발달이 제대로 이루어지지 않았기 때문이다. 이 책은 행복하고 건강한 어른으로 살아가고 싶은 사람들을 위해 심리적·정신적·관계적 발달에 대해 생애 주기별로 짚어주고, 다양한 사례를 들어 알기 쉽게 조언해준다. 정신과 전문의인 저자는 우리가 미처 배우지 못했던, 깨닫지 못했던 부분을 일깨우며 주변 사람들과 더불어 아름답게 나이 드는 방법을 제시한다. 미성숙한 어른 아이에서 성숙한 진짜 어른으로 거듭날 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "158.1",
+                "UPDATE_DATE": "20180704",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "하주원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6699755_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2018018104",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170262084",
+                "INPUT_DATE": "20180611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "어른이 처음이라서 그래",
+                "PUBLISH_PREDATE": "20180705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

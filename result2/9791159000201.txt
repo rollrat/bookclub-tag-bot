@@ -1,0 +1,67 @@
+{
+    "otitle": "조선을 탐한 사무라이",
+    "oauthor": "이광훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조선을 탐한 사무라이 (상투 잡은 선비, 상투 자른 사무라이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466562776",
+                "image": "https://shopping-phinf.pstatic.net/main_3246656/32466562776.20221019135014.jpg",
+                "author": "이광훈",
+                "discount": "16200",
+                "publisher": "포북(forbook)",
+                "pubdate": "20160909",
+                "isbn": "9791159000201",
+                "description": "조선과 일본의 엇갈린 운명을 현장답사로 파헤친 역사 탐사기\n\n저자 이광훈이 한ㆍ일 근대사 150년의 여정을 시작하게 된 계기는 수도가 함락된 전쟁에서도 무너지지 않았던 조선이 전쟁도 없이 망했던 사건(한일합병)에 주목하면서부터다. ‘조선은 왜 망했는가?’에서 시작된 물음은 현해탄을 건너 일본으로 이어졌고, 메이지유신 사적지를 따라가며 조선과 일본의 근대화 여정을 비교 분석한 그의 날카로운 시선은 지금까지 그 어떤 역사서에서도 느끼지 못했던 울림으로 다가온다. \n\n이 책 『조선을 탐한 사무라이』는 그러한 대한 물음에서 출발하여 조선과 일본의 근대사를 비교 분석한 탐구적 역사 여행의 결과물이다. 저자는 책을 통해 100년 전 근대화의 흐름을 타지 못해 망국의 굴욕을 당했던 그때의 실수를 또다시 반복하지 않으려면 치열한 논쟁과 처절한 반성을 통해서 철저하게 미래를 대비하는 것, 그것만이 동아시아의 격랑 속에서 국가의 자존을 지킬 수 있는 유일한 길이라는 것을 말하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포북",
+                "DDC": "",
+                "UPDATE_DATE": "20160913",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이광훈",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152mm*225mm",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "500",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159000201",
+                "INPUT_DATE": "20160823",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "조선을 탐한 사무라이",
+                "PUBLISH_PREDATE": "20160909",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "당신 없는 세상은 여전히 낯설지만",
+    "oauthor": "한수정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신 없는 세상은 여전히 낯설지만 (사랑하는 사람과의 사별 후, 남겨진 이들의 첫걸음)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491803630",
+                "image": "https://shopping-phinf.pstatic.net/main_3249180/32491803630.20221019135812.jpg",
+                "author": "한수정",
+                "discount": "14400",
+                "publisher": "설렘(SEOLREM)",
+                "pubdate": "20211110",
+                "isbn": "9791167850416",
+                "description": "당신 없는 세상은 여전히 낯설지만, \n나는 어제를 딛고 나아가 보려 합니다.\n당신이 불어오는 계절에 웃는 나로 설 수 있도록\n\n같은 하늘 아래에서의 이별조차도 언제나 아프고 슬펐다. 하물며 누군가의 죽음으로 인한 사별은 오죽할까. 남편과의 사별은, 경험하지 않을 수 있다면 영원히 경험하고 싶지 않은 아픔이었다.\n사별로 인한 아픔이 큰 건 당연한 일이다. 아파하는 것이 당연하다. 커다란 아픔일지라도 해가 뜨고 지는 것처럼, 그렇게 매일 겪어내다 보면 그 아픔은 더 이상 낯설거나 특별하지 않고 자연스럽게 받아들여질 것이다. 적응이 되면 무뎌질 것이고 무뎌진 후에는 아픔이 느껴지지 않을 만큼 괜찮아질 것이다. 나 역시 숱한 시련을 경험하고 아파하며 아픔을 이겨내는 방법을 찾기 시작했다. \n40년 인생을 살면서 겪은 고난 중 가장 컸던 남편과의 사별이라는 사건, 그로 인한 아픔을 받아들이고 또 이렇게 살아가는 이야기를 이 책에 담았다. 이 책 속의 한 구절이라도 이별로 힘들어하는 당신, 끝이 없어 보이는 시련에 지친 당신, 죽음을 생각할 만큼 고통 속에 있는 당신, 사랑하는 사람이 있는 당신, 스스로 옥죄는 욕심으로 괴로운 당신의 마음에 닿기를. 마음에 닿은 그 작은 위로가 잔잔하게 퍼져 차갑게 얼어붙었던 마음이 녹아내릴 수 있기를 바라본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "설렘 :슬로디미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20211228",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "한수정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/11/08/9791167850416.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "216 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167850416",
+                "INPUT_DATE": "20211020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "당신 없는 세상은 여전히 낯설지만",
+                "PUBLISH_PREDATE": "20211110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

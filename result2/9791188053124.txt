@@ -1,0 +1,67 @@
+{
+    "otitle": "샘킴의 맛있는 아이밥",
+    "oauthor": "샘킴 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "샘킴의 맛있는 아이밥 (유아부터 초등학생까지, 자연주의 셰프의 건강한 키즈 푸드 레시피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466698632",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466698632.20221019124934.jpg",
+                "author": "샘 킴",
+                "discount": "17820",
+                "publisher": "이덴슬리벨",
+                "pubdate": "20171103",
+                "isbn": "9791188053124",
+                "description": "자연주의 셰프 샘킴의 첫 번째 아이밥 요리책!\n\n‘아들 바보’라는 애칭을 가진 셰프 샘킴이 생후 1년부터 초등학생까지 많은 아이가 먹을 수 있는 자연주의 레시피를 아빠의 마음으로 만들어 정리한 『샘킴의 맛있는 아이밥』. 신선한 식재료로 요리를 해 주고 균형 잡힌 식습관을 가질 수 있도록 도와주고, 아이가 올바른 식습관을 가진 사람으로 자랄 수 있는 자연주의 레시피를 담았다. \n\n“어떻게 요리해야 다양한 재료를 편식하지 않고 아이가 잘 먹을까?”를 고민하며 아이들 입맛 저격, 상황별 요리를 정리했다. 과일과 채소를 싫어하는 아이, 해산물을 꺼리는 아이, 고기를 먹지 않으려는 아이 등을 위한 메뉴를 따로 모았다. 당근, 가지, 양파, 브로콜리, 시금치, 굴, 조개, 생선 등의 식재료가 아이가 먹고 싶어 하는 메뉴로 변하는 마법의 레시피를 모두 만나볼 수 있다. \n\n바쁜 맞벌이 부모를 위해 금방 완성할 수 있는 간단한 요리를 중심으로 모아 조리 시간도 오래 걸리지 않고 과정도 복잡하지 않아 초보 부모도 금방 따라 할 수 있도록 구성했다. 특별히 맛을 내는 데 결정적인 역할을 하는 재료로는 ‘샘킴표 자연주의 채소육수’를 사용했다. 감칠맛도 내고 건강에도 좋은 육수는 만드는 방법까지 간단해 쉽게 따라해볼 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이덴슬리벨 :비전비엔피",
+                "DDC": "641.5622",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "샘킴 지음",
+                "SERIES_TITLE": "",
+                "KDC": "594.62",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6273098_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6273098_3.jpg",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6273098_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "CIP2017016222",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188053124",
+                "INPUT_DATE": "20170707",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "샘킴의 맛있는 아이밥",
+                "PUBLISH_PREDATE": "20171103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

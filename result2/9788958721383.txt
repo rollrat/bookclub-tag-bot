@@ -1,0 +1,67 @@
+{
+    "otitle": "세상을 바꾸고 고전이 된 39",
+    "oauthor": "김학순 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상을 바꾸고 고전이 된 39",
+                "link": "https://search.shopping.naver.com/book/catalog/32495690506",
+                "image": "https://shopping-phinf.pstatic.net/main_3249569/32495690506.20220527025930.jpg",
+                "author": "김학순",
+                "discount": "0",
+                "publisher": "효형출판",
+                "pubdate": "20151015",
+                "isbn": "9788958721383",
+                "description": "『세상을 바꾸고 고전이 된 39』에서는 39권의 고전이 등장하지만 내용을 요약해 일러주지는 않는다. 정치, 경제, 과학, 사상 등 여러 방면에서 역사의 물줄기를 튼 저작들을 엄선하여 각각의 책이 어떻게 세상을 바꾸고 고전으로 인정받게 되었는지 친절하게 보여준다. 굵직굵직한 역사적 사건을 동반한 고전을 다뤄 39권의 전후사를 살펴보는 것만으로 세계사의 흐름을 잡을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "효형출판",
+                "DDC": "028",
+                "UPDATE_DATE": "20151120",
+                "EA_ADD_CODE": "03010",
+                "PUBLISHER_URL": "http://www.hyohyung.co.kr",
+                "AUTHOR": "김학순",
+                "SERIES_TITLE": "",
+                "KDC": "029",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4905368_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4905368_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4905368_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "328",
+                "CONTROL_NO": "CIP2015026154",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958721383",
+                "INPUT_DATE": "20150922",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "세상을 바꾸고 고전이 된 39",
+                "PUBLISH_PREDATE": "20151015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

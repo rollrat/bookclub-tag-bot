@@ -1,0 +1,67 @@
+{
+    "otitle": "박 과장은 어떻게 5년 만에 120억을 만들었나",
+    "oauthor": "박재진(갓슬러) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "박 과장은 어떻게 5년 만에 120억을 만들었나 (서울 아파트에서 기회를 찾아라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487681762",
+                "image": "https://shopping-phinf.pstatic.net/main_3248768/32487681762.20221019110717.jpg",
+                "author": "갓슬러",
+                "discount": "14400",
+                "publisher": "아라크네",
+                "pubdate": "20210510",
+                "isbn": "9791157746965",
+                "description": "“8층짜리 서울 꼬마빌딩과 강남 아파트를 소유하고, \n 한강변 아파트에 살고 있는 한 직장인의 서울 아파트 투자기“"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아라크네",
+                "DDC": "",
+                "UPDATE_DATE": "20210628",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.arachne.co.kr",
+                "AUTHOR": "박재진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157746965",
+                "INPUT_DATE": "20210426",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "박 과장은 어떻게 5년 만에 120억을 만들었나",
+                "PUBLISH_PREDATE": "20210510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

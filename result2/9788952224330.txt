@@ -1,0 +1,67 @@
+{
+    "otitle": "비정근",
+    "oauthor": "히가시노 게이고 저/김소영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비정근",
+                "link": "https://search.shopping.naver.com/book/catalog/32486498333",
+                "image": "https://shopping-phinf.pstatic.net/main_3248649/32486498333.20221019132010.jpg",
+                "author": "히가시노게이고",
+                "discount": "11700",
+                "publisher": "살림",
+                "pubdate": "20130715",
+                "isbn": "9788952224330",
+                "description": "비정한 현실에 던지는 비정규직 교사의 돌직구!\n\n사건마다 멋진 추리를 전개하는 쿨하고 하드보일드한 비정규직 교사의 활약을 그린 이색 미스터리 『비정근』. 히가시노 게이고의 초기작으로 저자 특유의 추리의 단초와 사회와 인간에 대한 시각을 오롯이 느낄 수 있다. 의도치 않게 터지는 사건들을 구시렁대면서도 아이들과 함께 풀어나가는 주인공 ‘나’의 목소리로 이 세상에 절대라는 건 없으며 세상에 모순과 악덕이 횡행하고 있다는 깨달음을 전한다.\n\n미스터리 작가가 되는 게 꿈인 스물다섯 살의 주인공 ‘나’. 원고 집필 시간을 확보하기 좋은 직업이라는 이유로 초등학교에서 출산이나 병가로 휴직을 한 정교사를 대신한 비정규직 기간제 교사를 하고 있다. 그런데 파견되는 학교마다 살인, 자살, 독살 미수, 협박, 도박, 도난 등의 괴이한 사건들이 발생한다. 학교 관계자이면서 동시에 외부인인 그가 교사로서는 상상하기 힘든 방법으로 추리를 전개해나가는 가운데 한 변두리 학교에 부임한 이튿날, 체육관에서 여교사의 시체와 함께 의문의 다잉 메시지가 발견되는데……·."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "895.635",
+                "UPDATE_DATE": "20130723",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "히가시노 게이고 지음 ;김소영 옮김",
+                "SERIES_TITLE": "Red moon club",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2794492_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2794492_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2794492_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013010277",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952224330",
+                "INPUT_DATE": "20130627",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "비정근 ",
+                "PUBLISH_PREDATE": "20130715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

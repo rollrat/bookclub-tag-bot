@@ -1,0 +1,67 @@
+{
+    "otitle": "가면과 본색",
+    "oauthor": "천공 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가면과 본색 (가면을 벗기면 본색이 보인다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455038078",
+                "image": "https://shopping-phinf.pstatic.net/main_3245503/32455038078.20221230073758.jpg",
+                "author": "천공",
+                "discount": "15560",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20201207",
+                "isbn": "9791165342661",
+                "description": "재야의 눈 밝은 현자(賢者) 천공, \n사회 지도층의 위선과 거짓에 일침을 날리다!\n\n베스트셀러 『통찰과 역설』로 삶의 해법을 찾지 못하고 있는 이들에게 명쾌한 답을 내놓았던 천공 선생이 신간을 출간했다. 신간 『가면과 본색』에서 그는 이른바 사회 지도층이라고 불리는 자들이 위선과 거짓의 가면 뒤에 숨기고 있는 본색을 들춰내며 그들에게 매서운 일침을 날린다. 유튜브를 통해 1만 회 넘게 진행하고 있는 화제의 ‘정법강의’에서 천공 선생이 들려준 촌철살인의 메시지가 이 한 권에 모두 담겼다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20210224",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "천공 지음",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "323 p.",
+                "CONTROL_NO": "CIP2020046117",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165342661",
+                "INPUT_DATE": "20201029",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "가면과 본색",
+                "PUBLISH_PREDATE": "20201207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

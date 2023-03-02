@@ -1,0 +1,67 @@
+{
+    "otitle": "미술이 쓴 역사 이야기",
+    "oauthor": "하진욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미술이 쓴 역사 이야기 (미술이 그린 보이지 않는 세상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497245062",
+                "image": "https://shopping-phinf.pstatic.net/main_3249724/32497245062.20221229071137.jpg",
+                "author": "하진욱",
+                "discount": "13050",
+                "publisher": "호메로스",
+                "pubdate": "20120915",
+                "isbn": "9788990522788",
+                "description": "동굴벽화에서부터 현대의 포스트모던에 이르기까지,\n미술이 그린 보이지 않는 세상 \n\n수천 년에 걸친 미술 작품들을 보여주면서 미술이 걸어온 역사를 훑어본다. 그렇다고 미술사에 관한 책은 아니며 오히려 작품이 지니고 있는 사회적은 맥락과 해석에 치중하고 있으나 미술사를 관통하는 이즘의 출현과 변화를 이해하는 데에도 도움이 된다. 예를 들어 동굴벽화 시대의 미술이 가지고 있는 주술적 의미에서 시작해, 진정한 예술로 인정받게 된 르네상시기를 거쳐 현대의 다양한 유파에 이르기까지 간략하고 간결하게 전체의 흐름을 설명한다. \n\n저자는 많은 부분에서 우리가 상식으로 알고 있는 지식과 사실들을 깨부순다. 목소리는 강하지 않다. 그러나 미술이 역사 속에서 또는 현실 속에서 어떤 역할을 해왔으며 어떤 역할을 해야 하는지를 잘 보여준다. 그러므로 단지 아름다운 그림 또는 화제작을 해설하고 감상하는 그런 해설서가 아니다. 이는 미술을 보고 읽는 새로운 시력을 길러주는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리즈앤북",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하진욱 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "1판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990522788",
+                "INPUT_DATE": "20120907",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "미술이 쓴 역사 이야기 ",
+                "PUBLISH_PREDATE": "20120915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

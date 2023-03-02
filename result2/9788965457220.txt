@@ -1,0 +1,67 @@
+{
+    "otitle": "정체성이 아닌 것",
+    "oauthor": "나탈리 하이니히 저/임지영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정체성이 아닌 것 (존재 인식에 대한 자유 / 나와 타자에 대한 자유)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438300624",
+                "image": "https://shopping-phinf.pstatic.net/main_3243830/32438300624.20221227203001.jpg",
+                "author": "나탈리 하이니히",
+                "discount": "16200",
+                "publisher": "산지니",
+                "pubdate": "20210510",
+                "isbn": "9788965457220",
+                "description": "▶ 정체성이란 무엇인가?\n\n이 책은 정체성이 무엇이고 어떻게 쓰이고 있는지에 대해 설명한 책이다. 책의 저자인 나탈리 하이니히(Nathalie Heinich)는 정치와 철학의 관점에서 잘못 사용하고 있는 정체성 개념을 비판하고, 인류학, 사회학, 사회심리학, 역사학, 민속학과 같이 다양한 학문영역에서 생산된 정체성의 의미를 종합 정리하여, 정체성이 아닌 것에서 정체성의 구성 논리를 제시한다. 하이니히는 프랑스 국립과학연구센터(CNRS) 연구원으로 여성과 현대 예술에서 나타나는 주체의 지위 및 정체성 문제를 연구하고 있으며, 프랑스 국가가 수여하는 최고의 명예 훈장 ‘레지옹 도뇌르 슈발리에 훈장’을 수상하는 등 오늘날 프랑스 언론과 학계에서 큰 주목을 받고 있는데, 이 책 『정체성이 아닌 것(Ce que n’est pas l’identit?)』(2018)은 그의 작업에서 생산된 정체성의 의미를 종합 정리하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20210624",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "나탈리 하이니히 지음 ;임지영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/26/9788965457220.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "112*187",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "183 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965457220",
+                "INPUT_DATE": "20210426",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "정체성이 아닌 것",
+                "PUBLISH_PREDATE": "20210510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

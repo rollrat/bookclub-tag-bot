@@ -1,0 +1,67 @@
+{
+    "otitle": "다시 배우는 공부법",
+    "oauthor": "청쟈 저/김새봄 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다시 배우는 공부법 (무작정 열심히 하는 사람들은 모를 진짜 공부의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467241223",
+                "image": "https://shopping-phinf.pstatic.net/main_3246724/32467241223.20221229071823.jpg",
+                "author": "청쟈",
+                "discount": "14400",
+                "publisher": "시그마북스",
+                "pubdate": "20180515",
+                "isbn": "9791189199005",
+                "description": "최강 공부쟁이가 알려주는 제대로 공부하는 법\n\n새로운 것을 배워도 금세 잊거나 써먹지 못하는 사람, 어려운 문제나 복잡한 상황을 어떻게 풀어야 할지 모르는 사람에게 도움이 될 공부법을 소개한다. 빠르게 변화하는 시대에 발맞춰 더 많은 정보를 획득하고 끊임없이 새로운 기술을 익히는 것에 지쳤다면, 당신에게는 단순한 법칙을 찾는 것이 더 효과적일 테다. 즉 복잡함에 가려진 근본 원리를 꿰뚫는 공부법이 필요하다. 이 책에서 소개하는 ‘최소 지식’이라는 개념은 광범위하게 영향력을 미치고 보편적으로 적용할 수 있는 도구로서, 문제를 해석하고 해결할 뿐 아니라 앞을 내다볼 수 있는 인지력을 갖추도록 당신의 지식을 흔들어 깨울 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20180719",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "청쟈 지음 ;김새봄 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6636903_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "331 p.",
+                "CONTROL_NO": "CIP2018012372",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189199005",
+                "INPUT_DATE": "20180419",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "다시 배우는 공부법",
+                "PUBLISH_PREDATE": "20180515",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

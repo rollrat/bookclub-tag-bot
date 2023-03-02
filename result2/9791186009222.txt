@@ -1,0 +1,67 @@
+{
+    "otitle": "열차 안의 낯선 자들",
+    "oauthor": "퍼트리샤 하이스미스 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "열차 안의 낯선자들",
+                "link": "https://search.shopping.naver.com/book/catalog/32455303626",
+                "image": "https://shopping-phinf.pstatic.net/main_3245530/32455303626.20221019143418.jpg",
+                "author": "패트리샤 하이스미스",
+                "discount": "10800",
+                "publisher": "오픈하우스",
+                "pubdate": "20150706",
+                "isbn": "9791186009222",
+                "description": "매혹적인 불안을 선사하는 하이스미스의 놀라운 데뷔작!\n\n장르문학 읽기, 그중에서도 미스터리와 스릴러의 쾌감 자체와 다양성 확보를 위해서 세상 밖으로 나온 「버티고 시리즈」. 인간의 추악한 욕망, 배신과 음모가 난무하는 장르소설의 세상을 통해 우리 자신의 모습을 엿볼 수 있다. 『열차 안의 낯선자들』은 스무 편이 넘는 작품이 영화화된 작가이자 데뷔 후 60년, 사후 10년이 넘는 세월이 흐른 현재까지도 영화인들에게 끊임없이 영감을 주는 작가, 퍼트리샤 하이스미스의 데뷔작이자 레이먼드 챈들러가 각색하고 히치콕이 연출한 《열차 안의 낯선 자들》 원작 소설이다. \n\n달리는 열차 속, 우연히 맞은편에 앉게 된 두 남자, 브루노와 가이는 대화를 나누게 된다. 브루노는 아버지를 증오하고, 가이는 곧 이혼할 아내가 거슬린다. 서로의 사정을 알게 되자 브루노는 ‘누구나 할 수 있는 일’이라며 교환 살인을 제안하고, 그럴듯한 논리에 공포를 느낀 가이는 도망치듯 열차를 빠져나온다. \n\n그러나 얼마 후 가이의 아내가 놀이공원에서 변사체로 발견되면서 가이는 불길한 예감이 현실로 다가왔음을 느낀다. 아내를 죽인 범인이 브루노임을 알게 된 가이는 이제껏 쌓아 온 명성이 위태로워지고 재혼할 애인과의 관계도 어색해지며 점점 이성을 잃어간다. 이러한 과정이 독자의 가슴을 옥죄며 치밀하게 그려지고, 이와 동시에 브루노의 사이코패스적 욕망이 방백과 행위를 넘나들며 거침없이 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)오픈하우스퍼블리셔스",
+                "DDC": "813.54",
+                "UPDATE_DATE": "20150720",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "퍼트리샤 하이스미스",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186009192",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4664933_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015016690",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186009222",
+                "INPUT_DATE": "20150617",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "열차 안의 낯선 자들",
+                "PUBLISH_PREDATE": "20150706",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

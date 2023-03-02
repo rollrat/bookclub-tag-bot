@@ -1,0 +1,67 @@
+{
+    "otitle": "가는 날이 제철입니다",
+    "oauthor": "김진영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가는 날이 제철입니다 (전국 오일장과 지역의 맛을 찾아서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32477639619",
+                "image": "https://shopping-phinf.pstatic.net/main_3247763/32477639619.20230218110554.jpg",
+                "author": "김진영",
+                "discount": "15210",
+                "publisher": "상상출판",
+                "pubdate": "20220115",
+                "isbn": "9791167820518",
+                "description": "아는 만큼 보인다?! 아는 만큼 맛있어진다!\n식재료 찾아 지구 스무 바퀴, 김진영이 전하는 먹거리 이야기\n\n한국인이 사랑하는 요리 만화, 〈식객〉의 저자 허영만 화백조차 인정한 식재료 전문가가 여기 있다. ‘어쩌다 어른’ ‘폼나게 먹자’ 등의 방송 프로그램을 통해 세상에 이름을 알린, 대한민국 대표 식품 MD 김진영이다. 그는 지난 27년간 제철 맞은 먹거리, 바른 먹거리를 찾아 전국팔도를 샅샅이 뒤져왔다. 지금까지 출장 다닌 주행 거리만 해도 80만 km 이상, 대략 환산해 봐도 지구 스무 바퀴가 넘는 거리를 오직 ‘식재료’ 하나만 찾아다닌 것이다. 이것만 봐도 그의 식재료, 먹거리에 대한 열정이 남다름을 알 수 있다. 허영만 화백은 실제로 ‘음식과 맛에 대해 좀 안다고 자부하는 본인조차 김진영 앞에서는 입을 다문다’며, 그를 높이 산 바 있다. \n〈가는 날이 제철입니다〉는 그런 저자가 계절을 따라 전국 각지의 오일장을 찾아 떠난 이야기다. 시시각각 날씨와 계절의 변화에 따라, 살이 차고 맛이 드는 식재료 찾아, 또 전국 각지의 생산자 쫓아, 대한민국을 떠돌아온 그. 그가 직접 찾아 떠난 제철 맞은 전국의 지역 오일장 이야기를 풀어낸다. 그의 전작이자 〈오는 날이 장날입니다〉에서 담지 못한 더 많은 이야기를 모아 담았다. 다만 이번 책에서는 조금 더 보기 편하게 지역별로 나누어 목차를 구성했다. 저자의 발자취 따라가다 보면, 오일장 풍경은 물론 식재료, 지역의 맛, 제대로 먹는 법까지 그의 노하우가 전해온다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20220215",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김진영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "333 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167820518",
+                "INPUT_DATE": "20211227",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "가는 날이 제철입니다",
+                "PUBLISH_PREDATE": "20220115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

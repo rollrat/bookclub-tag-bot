@@ -1,0 +1,78 @@
+{
+    "otitle": "왕초보 영어패턴 200 플러스(개정판)",
+    "oauthor": "박신규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:35 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "왕초보 영어패턴 200 플러스 (저자 직강 녹음강의 무료제공)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466810019",
+                "image": "https://shopping-phinf.pstatic.net/main_3246681/32466810019.20230207165215.jpg",
+                "author": "박신규",
+                "discount": "12420",
+                "publisher": "넥서스",
+                "pubdate": "20170925",
+                "isbn": "9791161651255",
+                "description": "- 독자대상 : 영어 학습자\n- 구성 : 이론 + 문제\n- 특징 : \n① 왕초보 맞춤형 영어회화 패턴 200개 엄선\n② 40일 만에 왕초보 탈출\n③ 단계별 훈련과 무한반복 학습으로 영어 말문 트기"
+            },
+            {
+                "title": "왕초보 영어패턴 200 플러스 (말문이 빵! 터지는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454965420",
+                "image": "https://shopping-phinf.pstatic.net/main_3245496/32454965420.20220527035404.jpg",
+                "author": "박신규",
+                "discount": "0",
+                "publisher": "넥서스",
+                "pubdate": "20140320",
+                "isbn": "9788967907761",
+                "description": "이 책은 왕초보 맞춤형 영어회화 패턴 200개 엄선하여 40일 만에 왕초보 탈출하도록 도와준다. 단계별 훈련과 무한반복 학습으로 영어 말문 트기, 단어, 스피킹, 리스닝 훈련자료 온라인에 무료 제공하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "428",
+                "UPDATE_DATE": "20171023",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "박신규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "747.5",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6356985_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6356985_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6356985_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "174*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "309 p.",
+                "CONTROL_NO": "CIP2017023618",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161651255",
+                "INPUT_DATE": "20170911",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "(기초부터 다시 시작하는) 왕초보 영어패턴 200 플러스",
+                "PUBLISH_PREDATE": "20170925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

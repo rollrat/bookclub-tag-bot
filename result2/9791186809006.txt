@@ -1,0 +1,67 @@
+{
+    "otitle": "자신의 가치를 깨닫는 행복",
+    "oauthor": "쇼펜하우어 저/박재인 편역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "자신의 가치를 깨닫는 행복 (지혜와 통찰을 얻어야 하는 시대)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506888752",
+                "image": "https://shopping-phinf.pstatic.net/main_3250688/32506888752.20220527040851.jpg",
+                "author": "쇼펜하우어",
+                "discount": "10800",
+                "publisher": "아름다운날",
+                "pubdate": "20150915",
+                "isbn": "9791186809006",
+                "description": "『자신의 가치를 깨닫는 행복』는 쇼펜하우어의 《인생론》과 《행복론》에서 가려 뽑은 어록들을 담은 책이다. 쇼펜하우어의 어록들은 그 누구도 아닌 자신만이 자신의 행복을 결정할 수 있으며, 행복과 불행의 선택권은 오직 자신에게 있음을 역설한다. 짧은 금언 같은 글들이지만 그 안에는 강력한 메시지들이 담겨 있다. 타인들의 높은 평가보다 고독과 자유를 즐길 줄 아는 것이 참된 행복으로 가는 길이며 행복은 밖에서, 사물을 통해 오는 것이 아니라 자신의 내면에서 솟아나 자기 안에 충만하게 퍼지는 자신만의 것임을 깨닫게 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아름다운 날",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20151001",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "쇼펜하우어",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4866349_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4866349_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "295",
+                "CONTROL_NO": "CIP2015024266",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186809006",
+                "INPUT_DATE": "20150902",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "자신의 가치를 깨닫는 행복",
+                "PUBLISH_PREDATE": "20150915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

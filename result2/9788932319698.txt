@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 우리 몸은 싸우고 있다",
+    "oauthor": "캐서린 카버 저/양병찬 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 우리 몸은 싸우고 있다 (면역의 과학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466852646",
+                "image": "https://shopping-phinf.pstatic.net/main_3246685/32466852646.20221231084040.jpg",
+                "author": "캐서린 카버",
+                "discount": "16200",
+                "publisher": "현암사",
+                "pubdate": "20190128",
+                "isbn": "9788932319698",
+                "description": "면역에 대한 거의 모든 것을 쉽고도 깊이 있게 다룬 보기 드문 책이다. 면역은 누구나 알고 싶어 하지만 좀처럼 이해하기 힘든 주제이다. 방대하고 난해해서 의사와 연구자들도 쉽게 설명하기 어려워한다. 면역에 관한 많은 책들이 지나치게 전문적이거나 조감도 수준의 겉핥기 같은 경우가 많은 것은 이 때문이다.\n\n\n\n이 분야의 주목받는 전문가인 저자는 이 책에서 독자와 함께 우리 몸속을 여행하며 면역 체계 전반을 전문가다운 식견으로 이해하기 쉽게 설명해준다. 선천성 킬러 세포, 장기 이식, 세균과 기생충, 성(性)과 사랑, 임신과 면역계, 자가 면역, 면역 결핍, 알레르기, 암, 백신, 감염병, 항생제 등 면역에 관한 거의 모든 것을 다루는 이 책의 경쾌한 문체를 따라가다 보면 어느새 면역의 세계에 발을 담그고, 때로는 웃고 때로는 인류의 미래를 걱정하면서 우리 몸의 면역 체계에 대한 상당한 수준의 지식을 얻게 될 것이다.\n\n\n\n우리 인체는 수십억 명의 병사들이 호위하는 성(城)과 같다. 어떤 병사들은 하루살이 목숨이고 어떤 병사들은 수십 년 동안 살며 숱한 전투를 치르지만, 우리를 질병으로부터 보호하는 데 필수적이지 않은 병사는 단 한 명도 없다.\n\n\n\n이 책은 인체를 호위하는 이 면역계가 공격 대상을 어떻게 알아채고 방어하는지, 감기 바이러스에서부터 전염병 세균에 이르기까지 병원체들을 어떻게 해치우는지를 알려준다. 반면 질병은 또 어떻게 면역계를 속이고 회피하고 약점을 파고드는지도 보여준다. 그리고 계속 진행될 수밖에 없는 이 싸움에서 현대 의약(醫藥)은 과연 계속 제대로 싸우며 이겨낼 수 있을 것인가를 진지하게 묻는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "616.079",
+                "UPDATE_DATE": "20190212",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "캐서린 카버 지음 ;양병찬 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "511.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7101078_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7101078_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "144*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "406 p.",
+                "CONTROL_NO": "CIP2019000679",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932319698",
+                "INPUT_DATE": "20190107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "오늘도 우리 몸은 싸우고 있다",
+                "PUBLISH_PREDATE": "20190128",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "마케터의 생각법",
+    "oauthor": "황부영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:00 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "마케터의 생각법 (당신은 레인메이커인가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482042366",
+                "image": "https://shopping-phinf.pstatic.net/main_3248204/32482042366.20230216070932.jpg",
+                "author": "황부영",
+                "discount": "13500",
+                "publisher": "갈라북스",
+                "pubdate": "20181026",
+                "isbn": "9791186518274",
+                "description": "‘차이를 만들어 내는 사람’ 모두가 레인메이커다!\n\n수많은 마케터들과 관련 업무 종사자, 관련 분야 진출을 목표하는 학생들로부터 ‘혼구 황형’으로 불리며 인기를 얻고 있는 저자가 ‘마케터’는 ‘무엇을 지향하고 어떤 역량을 갖춰야 하는지’에 대해 쓴 책이다. 이 책은 기획, 전략, 마케팅, 브랜드 분야에서 일을 잘하기 위해, 그리고 관련 분야 최신 트렌드를 비즈니스 현장에 접목할 수 있는 실질적이고 유용한 팁을 다양한 사례와 함께 제시한다. 특히 저자는 이 책을 통해 ‘자신의 일’을 할 때 ‘단비’와 같은 성과를 만들어 낼 수 있는 ‘레인메이커’가 돼야 한다고 강조한다."
+            },
+            {
+                "title": "마케터의 SNS 생각법 (소셜 미디어의 28가지 오해와 진실)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466845884",
+                "image": "https://shopping-phinf.pstatic.net/main_3246684/32466845884.20221227203758.jpg",
+                "author": "미셸 카빌^이안 맥레",
+                "discount": "18900",
+                "publisher": "비즈니스랩",
+                "pubdate": "20201130",
+                "isbn": "9791188314638",
+                "description": "“이 책 없이는 SNS 하지 마세요!” 마이크로소프트가 인정한 ‘최고의 B2B 마케터’ 100인 중 한 명으로 최고 수준의 마케터인 ‘미셸 카빌’이 알려 주는 신개념 SNS 생각법! 통념을 깨부수며 비즈니스에 가장 효과적인 SNS 활용법을 알려 주는 책이다.\n\n\n\n시시한 음식 사진도 마케팅 전략이 될 수 있다면? 회사 계정으로 컴플레인 거는 고객을 단골로 만들려면? 회사 SNS로 소비자들의 니즈를 어떻게 파악하는지 궁금하다면? 바로 이 책입니다! SNS로 할 줄 아는 거라곤 오늘 먹은 음식 자랑밖에 없는 당신, SNS를 비즈니스에 제대로 활용하고 싶다면 바로 이 책이다.\n\n\n\n수많은 사람이 SNS를 통해 각종 홍보와 정보를 쏟아내고 있는 지금, 스마트한 SNS 활용을 위해서는 남들보다 한발 앞서 나가야만 한다. 이 책은 영국 BBC, 링크드인 등 대형 기업들과 함께 일해온 잘나가는 마케터가 비즈니스 전반에 걸친 SNS의 무한한 활용법을 다각도로 제시하고 있다. 마케팅 위주의 SNS 운영을 통해서는 해결할 수 없었던 문제들이 있다면 이 책을 통해 남들과 다른 ‘한 끗 차이’를 만들어보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "658.8",
+                "UPDATE_DATE": "20181105",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "지은이: 황부영",
+                "SERIES_TITLE": "",
+                "KDC": "325.5",
+                "EDITION_STMT": "개정 1판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6952544_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6952544_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6952544_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "324 p.",
+                "CONTROL_NO": "CIP2018033023",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518274",
+                "INPUT_DATE": "20181015",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마케터의 생각법",
+                "PUBLISH_PREDATE": "20181115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

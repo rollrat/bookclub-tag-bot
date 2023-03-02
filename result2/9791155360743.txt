@@ -1,0 +1,67 @@
+{
+    "otitle": "라이프 인테리어 교과서",
+    "oauthor": "주부의 벗사 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "라이프 인테리어 교과서 (생활이 인테리어가 된다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466983951",
+                "image": "https://shopping-phinf.pstatic.net/main_3246698/32466983951.20221019115336.jpg",
+                "author": "주부의 벗사",
+                "discount": "14400",
+                "publisher": "즐거운상상",
+                "pubdate": "20180215",
+                "isbn": "9791155360743",
+                "description": "나의 생활이 바로 인테리어가 되는 방법!\n\n이사를 하거나 새로운 가정을 꾸민 사람들은 물론이고 주택 신축, 리노베이션, 리폼을 계획 중인 이들, 인테리어에 관심있는 사람들에게 내 마음에 드는 집, 라이프 인테리어’를 구현할 수 있도록 도와주는 『라이프 인테리어 교과서』. 단순히 예쁘기만 한 집이 아니라 공간별 디테일한 인테리어와 그 속에서 나의 취향과 스타일을 잘 담아내기 위해서는 먼저 인테리어 지식이 필요하다. 이 책은 편안한 내 집을 만드는 인테리어의 기본을 정리한 교과서로, 내가 좋아하는 것에서부터 시작한 인테리어 사례, 인테리어 스타일의 기본, 컬러 코디네이트의 기본, 가구, 조명, 부엌, 창문 꾸미기, 장식하기, 인테리어 용어 사전까지 인테리어의 기본을 모두 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "즐거운상상",
+                "DDC": "",
+                "UPDATE_DATE": "20180208",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 주부의벗사 편집부 ;옮긴이: 박승희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "182*265",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "192 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155360743",
+                "INPUT_DATE": "20171211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "라이프 인테리어 교과서 ",
+                "PUBLISH_PREDATE": "20180215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

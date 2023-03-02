@@ -1,0 +1,67 @@
+{
+    "otitle": "탈무드가 전하는 지혜의 유머",
+    "oauthor": "마빈 토케이어 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "탈무드가 전하는 지혜의 유머",
+                "link": "https://search.shopping.naver.com/book/catalog/32466687354",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466687354.20221229073222.jpg",
+                "author": "마빈 토케이어",
+                "discount": "9000",
+                "publisher": "한비미디어",
+                "pubdate": "20170524",
+                "isbn": "9788990167736",
+                "description": "유대인들에게 유머란 지혜의 산물이며 생활의 일부다. 그들은 해학을 지적이며 고상한 것으로 받들기에 주저하지 않는데, 그런 유대인들의 지혜를 담아낸 이 책은 짤막한 유머 속에 담긴 그들의 뛰어난 통찰력과 기지를 엿볼 수 있게 한다. 독자들은 이를 통해 세상을 보다 다각도로 넓게 바라보고 이해할 수 있는 눈을 기를 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)한비미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211025",
+                "EA_ADD_CODE": "05890",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "헤르만 헤세",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "7000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "Y",
+                "REAL_PRICE": "",
+                "FORM": "전자책",
+                "FORM_DETAIL": "EPUB",
+                "PAGE": "314",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990167736",
+                "INPUT_DATE": "20161223",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "(전자책) 데미안",
+                "PUBLISH_PREDATE": "20161230",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

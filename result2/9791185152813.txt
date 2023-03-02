@@ -1,0 +1,67 @@
+{
+    "otitle": "어휘 늘리는 법",
+    "oauthor": "박일환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어휘 늘리는 법 (언어의 한계는 세계의 한계다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492725663",
+                "image": "https://shopping-phinf.pstatic.net/main_3249272/32492725663.20221227203445.jpg",
+                "author": "박일환",
+                "discount": "9000",
+                "publisher": "유유",
+                "pubdate": "20180324",
+                "isbn": "9791185152813",
+                "description": "땅콩문고 시리즈. 30년 동안 국어 교사 생활을 했으며, 시인이자 소설가이기도 한 박일환 저자는 우리말뿐 아니라 언어에 관심이 깊다. 예쁘고 고운 ‘순수’ 우리말만 고집할 것이 아니라 필요하다면 외래어도, 청소년 사이에 쓰이는 최신 은어도 익히고 공부해야 한다는 주장에는 언어와 어휘에 대한 오랜 사고가 담겨 있다.\n\n\n\n 문학 작품과 지역어에 숨어 있는 정감 어린 사투리가 우리에게 어떤 세상을 보여 주는지 설명하고, 외래어를 무조건 배척하기보다 어떤 식으로 받아들이고 받아들이지 않을지 기준을 궁리해야 한다고 주장하며, 스스로 자기만의 어휘를 만들어 보라고 권하기도 한다. 말이 가진 생명력을 인정해, 버려야 할 어휘는 버리고 바뀌는 가치관에 따라 새로운 어휘를 찾아 쓰자고 우리를 독려한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유유",
+                "DDC": "495.78",
+                "UPDATE_DATE": "20180418",
+                "EA_ADD_CODE": "04080",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "박일환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "714",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6600960_6.txt",
+                "SET_ISBN": "9791185152363",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "149 p.",
+                "CONTROL_NO": "CIP2018009190",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185152813",
+                "INPUT_DATE": "20180321",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "어휘 늘리는 법",
+                "PUBLISH_PREDATE": "20180324",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

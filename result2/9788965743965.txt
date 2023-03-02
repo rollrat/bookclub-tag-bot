@@ -1,0 +1,67 @@
+{
+    "otitle": "한강 6 (개정판)",
+    "oauthor": "조정래 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한강 6: 제2부 유형시대 (조정래 대하소설 | 등단 50주년 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473918640",
+                "image": "https://shopping-phinf.pstatic.net/main_3247391/32473918640.20221019132717.jpg",
+                "author": "조정래",
+                "discount": "15750",
+                "publisher": "해냄출판사",
+                "pubdate": "20201130",
+                "isbn": "9788965743965",
+                "description": "『한강. 6: 제2부 유형시대』 는 〈검은 머리카락〉, 〈내 죽음을 헛되이 말라〉, 〈열대에 뿌린 죄〉, 〈정치라는 탁류〉, 〈고단해라, 인생길〉, 〈사람답게 살아보자〉 등을 수록하고 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄(해냄출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210114",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "저자: 조정래",
+                "SERIES_TITLE": "한강 세트",
+                "KDC": "813.62",
+                "EDITION_STMT": "제3판, 등단 50주년 개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788965744665",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "139*204",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "387 p.",
+                "CONTROL_NO": "CIP2020040178",
+                "SERIES_NO": "6",
+                "EA_ISBN": "9788965743965",
+                "INPUT_DATE": "20200918",
+                "SET_EXPRESSION": "",
+                "VOL": "6",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "한강",
+                "PUBLISH_PREDATE": "20201130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

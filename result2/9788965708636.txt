@@ -1,0 +1,67 @@
+{
+    "otitle": "도파민형 인간",
+    "oauthor": "대니얼 Z. 리버먼,마이클 E. 롱 공저/최가영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도파민형 인간 (천재인가 미치광이인가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474540341",
+                "image": "https://shopping-phinf.pstatic.net/main_3247454/32474540341.20221019120513.jpg",
+                "author": "대니얼 Z. 리버먼^마이클 E. 롱",
+                "discount": "14520",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20191010",
+                "isbn": "9788965708636",
+                "description": "도파민을 어떻게 활용하느냐에 따라 우리는 미치광이이자 천재, 중독자이자 창조자가 된다!\n\n누구보다 굳건했던 결심, 불타오르던 의지, 두근거리고 설레던 마음은 왜 한순간에 꺼져버릴까? 이 모든 것이 뇌 속 호르몬 도파민의 장난질 때문이라면? 현재 북미에서 행동과학 분야 최고의 석학으로 꼽히는 대니얼 Z. 리버먼 교수는 『도파민형 인간』에서 도파민이 인간 행동을 어떻게 쥐락펴락하는지, 일, 사랑, 권력, 중독, 진화, 정치성향 등 다양한 분야에 걸쳐 도파민이 어떻게 거의 모든 문제의 열쇠가 되는지, 뇌과학과 행동과학 분야의 최신 연구결과들을 흥미롭게 엮어 보여준다. \n\n유난히 도파민 수용체가 많고, 도파민이 많이 분비되며, 예민하게 반응하는 사람들이 있다. 저자는 이들을 도파민형 인간이라 부르며, 술, 담배, 커피부터 약물, 섹스, 쇼핑, 권력에 이르는 거의 모든 종류의 애호, 중독, 탐닉의 메커니즘을 명쾌하게 설명하고, 도파민형 인간의 특징을 설명한다. 더불어 도파민 욕망회로와 통제회로를 어떻게 활용해야 하는지, 양날의 검과 같은 도파민을 파멸이 아닌 진화 쪽으로, 중독이 아닌 성취 쪽으로 활용하는 과학적 근거와 메커니즘을 흥미진진하게 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20191014",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "대니얼 Z. 리버먼,마이클 E. 롱 ;옮긴이: 최가영",
+                "SERIES_TITLE": "",
+                "KDC": "511.1813",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "325 p.",
+                "CONTROL_NO": "CIP2019034327",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9788965708636",
+                "INPUT_DATE": "20190830",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(천재인가 미치광이인가) 도파민형 인간",
+                "PUBLISH_PREDATE": "20191010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

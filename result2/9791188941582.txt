@@ -1,0 +1,67 @@
+{
+    "otitle": "바퀴의 이동",
+    "oauthor": "존 로산트,스티븐 베이커 저/이진원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바퀴의 이동 (모빌리티 혁명은 우리를 어떻게 변화시키는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481439132",
+                "image": "https://shopping-phinf.pstatic.net/main_3248143/32481439132.20221227204925.jpg",
+                "author": "존 로산트^스티븐 베이커",
+                "discount": "16200",
+                "publisher": "소소의책",
+                "pubdate": "20210222",
+                "isbn": "9791188941582",
+                "description": "우리가 무엇을 타느냐에 따라\n도시의 지형과 삶의 방식이 달라진다!\n모빌리티의 현재와 미래를 찾아가는 여정\n\n인간에게 이동은 곧 교류를 의미한다. 특히 오늘날의 복잡한 도시에서 모빌리티는 우리 삶의 시간표와 산업 지형, 그리고 지구의 미래에 엄청난 영향력을 행사하고 있다. 그런데 우리는 왜 출퇴근 시간의 교통체증에 짜증을 내고 스모그와 미세먼지로 숨이 막힐 지경이라고 토로하면서도 네 바퀴 달린 존재에 여전히 의존하고 있을까? 매일 몇 시간씩 이동하느라 많은 돈과 시간을 도로 위에서 소비하는 시대는 급격히 저물고 있다. 친환경적이고, 저렴하고, 빠르고, 안전한 최첨단 이동 수단이 속속 눈앞에 등장하고 있는 것이다. 이 책은 다양한 사례와 생생한 인터뷰를 통해 현재 진행 중인 모빌리티 혁명이 이동 방식에 대한 우리의 생각과 삶의 터전인 도시를 어떻게 바꿔놓을 것인지를 상세하게 알려주고 도시의 새로운 미래를 가늠해본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "",
+                "UPDATE_DATE": "20210308",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "존 로산트,스티븐 베이커 지음 ;이진원 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "335 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188941582",
+                "INPUT_DATE": "20210111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "바퀴의 이동",
+                "PUBLISH_PREDATE": "20210222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

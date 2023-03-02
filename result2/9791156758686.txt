@@ -1,0 +1,67 @@
+{
+    "otitle": "지구 멸망 일주일 전, 뭐 먹을까?",
+    "oauthor": "신서경 글/송비 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지구 멸망 일주일 전, 뭐 먹을까?",
+                "link": "https://search.shopping.naver.com/book/catalog/32490808642",
+                "image": "https://shopping-phinf.pstatic.net/main_3249080/32490808642.20221230071616.jpg",
+                "author": "신서경",
+                "discount": "14400",
+                "publisher": "푸른숲",
+                "pubdate": "20210308",
+                "isbn": "9791156758686",
+                "description": "지구 최후의 날이 일주일 남았다면,\n당신은 누구와 함께 무엇을 먹고 싶나요?\n\n인류 최초! ‘재난/SF/요리 만화’ 전격 출간! 매일 무엇을 먹을까가 지구 최대의 고민인 먹방 BJ 봉구. 그런데 지구가 일주일 후에 멸망한다는 소식이 들려옵니다. 가족도 친구도 없는 고아 봉구는 결심합니다. 단 한 명이라도 날 봐주는 사람이 남아 있다면 지구 최후의 날까지 먹방을 하겠다고. 하지만 무엇을 먹어야 할지? 지구 최후의 동창회에서 망신을 당하고 온 봉구의 영상을 실시간으로 보는 사람들은 점점 줄어가고, 전기는 끊기고, 설상가상으로 이상한 불청객만 찾아옵니다. 지구 최후의 날, 봉구는 과연 누구와 어떤 음식으로 최후의 만찬을 함께 하게 될까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20210719",
+                "EA_ADD_CODE": "07810",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "신서경 글 ;송비 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/15/9791156758686.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156758686",
+                "INPUT_DATE": "20210215",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "지구 멸망 일주일 전, 뭐 먹을까?",
+                "PUBLISH_PREDATE": "20210303",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

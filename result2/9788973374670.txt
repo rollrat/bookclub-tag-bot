@@ -1,0 +1,67 @@
+{
+    "otitle": "조선의 숨은왕",
+    "oauthor": "이한우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조선의 숨은 왕 (문제적 인물 송익필로 읽는 당쟁의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493366204",
+                "image": "https://shopping-phinf.pstatic.net/main_3249336/32493366204.20221019135152.jpg",
+                "author": "이한우",
+                "discount": "13320",
+                "publisher": "해냄출판사",
+                "pubdate": "20101215",
+                "isbn": "9788973374670",
+                "description": "역사의 뒤안길에 가려진 비운의 천재 '송익필'을 기억하라!\n\n『조선의 숨은 왕』은 역사 속 숨겨진 인물 '송익필'을 본격 분석하며 선조시대 정치가 왜 이전과 다를 수밖에 없었고 이후의 분열 양상은 과연 어떠했는지를 심도 있게 포착한다. 한국 사회 분열주의의 근원을 파악하고자 당쟁의 근원을 재조명하는 이 책은, 임금과 신하가 함께 운영하는 새로운 세상을 꿈꾼 선비들의 활약상을 펼쳐 보인다. 총 3부로 구성되어 있으며, 정치현장과 이이의 활약을 중심으로 한 1부, 이이와 성혼, 정철과 송익필이라는 인물을 조명한 2부, 그리고 조선시대 대표적 반란사건인 ‘정여립의 난’을 중심으로 동서인의 대립을 흥미진진하게 풀어낸 3부로 이루어져 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20101230",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "이한우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788973374670",
+                "INPUT_DATE": "20100919",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "조선의 숨은 왕",
+                "PUBLISH_PREDATE": "20101215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

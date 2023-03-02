@@ -1,0 +1,67 @@
+{
+    "otitle": "모든 마음에는 이유가 있다",
+    "oauthor": "김혜영(마거),이수란(대박사) 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모든 마음에는 이유가 있다 (나를 인정하고 타인을 긍정하는 마음 성장 연습)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436008683",
+                "image": "https://shopping-phinf.pstatic.net/main_3243600/32436008683.20221228074239.jpg",
+                "author": "김혜영(마거)^이수란(대박사)",
+                "discount": "14400",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20210609",
+                "isbn": "9791191583915",
+                "description": "『모든 마음에는 이유가 있다』는 내 마음이 왜 이런지 몰라서, 내 마음을 스스로 어찌하지 못해서 힘들어하는 사람들이 알면 좋은 심리학 지식을 엄선하여 만든 책이다. 청취자들의 꾸준한 응원과 지지를 얻어온 심리 팟캐스트 〈알면 편한 심리학〉 방송 가운데 자꾸만 미루고 싶을 때, 쉽사리 결정을 내리지 못할 때, 열등감이나 걱정, 우울이 나를 계속 괴롭힐 때 등 많은 사람들의 공감을 얻은 회차를 골라 책으로 엮었다. 팟캐스트 방송의 진행자이자 이 책의 저자인 마거와 대박사, 두 사람은 현실 속 심리상담 현장에서, 심리학 연구 영역에서 활발히 활동하며 많은 사람들의 고민을 마주해왔다. 저자들은 저마다의 이유로 나를 괴롭히는 마음을 있는 그대로 받아들이고 조금이라도 편안해지는 데 심리학 지식이 큰 도움이 된다고 이야기한다. 코로나19로 사람들의 불안과 우울이 깊어지는 지금, 다그치거나 가르치지 않고 모든 마음을 인정하고 설명해주는 이 책이 따뜻한 위안이 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20210728",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김혜영,이수란 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "327 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191583915",
+                "INPUT_DATE": "20210525",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "모든 마음에는 이유가 있다",
+                "PUBLISH_PREDATE": "20210609",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

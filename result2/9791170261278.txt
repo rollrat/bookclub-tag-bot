@@ -1,0 +1,67 @@
+{
+    "otitle": "한 땀 한 땀 누비 생활",
+    "oauthor": "이정혜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한땀한땀 누비 생활 (전통 누비에서 실용 누비까지 포근함을 누리다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497236902",
+                "image": "https://shopping-phinf.pstatic.net/main_3249723/32497236902.20220527083542.jpg",
+                "author": "이정혜",
+                "discount": "19800",
+                "publisher": "팜파스",
+                "pubdate": "20161120",
+                "isbn": "9791170261278",
+                "description": "누비, 한 땀 한 땀 마음을 담다!\n\n《규방공예 한 땀의 여유》를 통해 우리 전통공예를 현대에 자연스럽게 접목하여 소개한 저자가 이번에는 누비를 선보인다. 한 땀 한 땀의 정성이 모여 만들어내는 누비 작품은 바느질하는 사람의 마음이 고스란히 배어 있다. 천이나 솜을 겹쳐 아이를 위해, 나를 위해 그리고 사랑하는 사람들을 위해 누빔을 하다 보면 저절로 온갖 고민과 걱정근심에서 벗어나게 된다. 느리지만 편안함을 전하고, 오랜 시간이 걸리지만 그만큼 정성이 배가되는 누비 바느질은 바쁜 현대인들에게는 또 다른 힐링의 시간을 제공할 것이다. \n이 책의 저자는 전통의 솜씨 그대로를 전수하며, 실용성을 더하여 현대에도 다양한 활용법을 제안하고 있다. 저자의 따뜻한 마음과 손길을 그대로 따라가며 누비 소품을 만들어보면, 지금 이 순간이 가장 따뜻한 시간이 될 것이다. 그리고 어렵고, 예스럽게만 느껴지던 누비가 현대이기 때문에 더욱 멋을 발휘한다는 것을 알게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "746.4",
+                "UPDATE_DATE": "20161201",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "이정혜",
+                "SERIES_TITLE": "",
+                "KDC": "636.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5842438_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5842438_3.jpg",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "276",
+                "CONTROL_NO": "CIP2016025358",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170261278",
+                "INPUT_DATE": "20161020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "한 땀 한 땀 누비 생활",
+                "PUBLISH_PREDATE": "20161120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

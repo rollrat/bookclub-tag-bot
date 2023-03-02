@@ -1,0 +1,67 @@
+{
+    "otitle": "바닷바람을 맞으며",
+    "oauthor": "레이첼 카슨 저/하워드 프레치 그림/김은령 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바닷바람을 맞으며",
+                "link": "https://search.shopping.naver.com/book/catalog/32441199263",
+                "image": "https://shopping-phinf.pstatic.net/main_3244119/32441199263.20221019110341.jpg",
+                "author": "레이첼 카슨",
+                "discount": "13500",
+                "publisher": "에코리브르",
+                "pubdate": "20171027",
+                "isbn": "9788962631661",
+                "description": "레이첼 카슨의 첫 번째 책이자 작가가 가장 아끼는 책\n\n레이첼 카슨 전집을 묶으며. 시적이면서도 과학적인 정확성을 잃지 않은 글쓰기로 독자를 사로잡은 레이첼 카슨은 《침묵의 봄》으로 널리 알려져 있다. 그러나 그의 첫 작품은 바다 생명체에 관한 것이고 이후 두 편을 더 펴냈는데, 이를 아울러 ‘바다 3부작’이라 일컫곤 한다. 《바닷바람을 맞으며》 《우리를 둘러싼 바다》 《바다의 가장자리》가 그것이다. 《침묵의 봄》의 강력한 메시지로 나머지 책에 대한 관심은 상대적으로 떨어지는 것이 사실이다. 하지만 카슨 글의 진면목을 엿보고 그녀를 좀더 깊이 이해하기 위해서는 그 밖의 저서들을 읽을 필요가 있다. 자연에 대한 관심과 관찰, 생명 존중의 마음을 알고 나면 《침묵의 봄》이라는 책이 어떻게 세상에 나올 수 있었는지 새삼 깨닫게 된다. ‘레이첼 카슨 깊이 읽기’라고 할 만한 이번 전집은 한 인물의 전 생애에 걸친 자연 사랑을 되새기는 여정이자 환경운동의 밑거름을 확인하는 일이기도 할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "에코리브르",
+                "DDC": "",
+                "UPDATE_DATE": "20171221",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "레이첼 카슨 지음 ;하워드 프레치 그림 ;김은령 옮김",
+                "SERIES_TITLE": "레이첼 카슨 전집",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788962631654",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788962631661",
+                "INPUT_DATE": "20171102",
+                "SET_EXPRESSION": "(세트",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "바닷바람을 맞으며",
+                "PUBLISH_PREDATE": "20171027",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

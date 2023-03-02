@@ -1,0 +1,67 @@
+{
+    "otitle": "페미니스트 선생님이 필요해",
+    "oauthor": "홍혜은 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "페미니스트 선생님이 필요해 (더 자유롭고 평등한 학교를 만드는 열 개의 목소리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445369996",
+                "image": "https://shopping-phinf.pstatic.net/main_3244536/32445369996.20221227205647.jpg",
+                "author": "홍혜은",
+                "discount": "10350",
+                "publisher": "동녘",
+                "pubdate": "20171220",
+                "isbn": "9788972979067",
+                "description": "더 자유롭고 평등한 학교를 만드는 열 개의 목소리. 페미니스트 선생님들을 지지, 응원하고 교육 현장에서 성평등 교육이 더 많이 확산되길 바라는 마음으로 기획했다. 저자들은 페미니스트 교사, 페미니즘 연구자, 작가, 기자이며, 수십 명의 일반 시민이 해시태그 운동에 참여했던 당시의 글로 함께했다. 그들은 각자의 경험이 담긴 살아 있는 목소리로 학교에 왜 성평등 교육과 페미니스트 선생님이 필요한지 이야기하며, 사회에 만연한 혐오와 차별 문제를 학교에서부터 해결해나가기를 제안한다.\n\n\n\n사람들은 흔히 부모의 양육이 아이에게 절대적인 영향을 끼친다고 믿는다. 그러나 주디스 리치 해리스 등 다수의 연구자에 따르면, 아이는 부모보다는 또래집단을 통해 사회화된다. 유명 페미니스트 작가 치마만다 응고지 아디치에도 자신의 책에서 말하지 않았던가. 내 조언을 착실히 따라 아이를 페미니스트로 키우더라도 아이가 부모의 바람과는 다르게 자랄 수 있음을 유념해달라고. 엄마도 아빠도 페미니스트면 좋겠지만 그보다는 또래집단 형성을 통해 사회화의 핵심 역할을 담당하는 학교, 그 학교에서 어른인 선생님이 페미니스트여야만 하는 이유다. \n\n\n\n물론 누군가들은 학교 성평등 교육이 얼마나 효과가 있겠냐며 회의할 수도 있겠다. 그러나 이 책에 쓰인 선생님들의 성평등 교육 경험을 접하면 그런 냉소는 금세 사라질 것이다. 선생님들이 보기에 아이들은 어른들보다 차별과 혐오에 훨씬 예민하며, 계속 더 나아질 가능성으로 가득하다. 혐오와 차별이 넘치는 사회가 학교 안 아이들에게 악영향을 주지만, 거꾸로 대부분의 아이들이 거치는 학교를 바꿔 세상을 바꿀 수 있다는 희망도 품어볼 만하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "305.42",
+                "UPDATE_DATE": "20180108",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "지은이: 홍혜은,김현,이승한,장일호,이민경,최현희,서한솔,솔리,최승범,김애라",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6442725_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6442725_3.jpg",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6442725_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "115*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "168 p.",
+                "CONTROL_NO": "CIP2017031257",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972979067",
+                "INPUT_DATE": "20171122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "페미니스트 선생님이 필요해",
+                "PUBLISH_PREDATE": "20171220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

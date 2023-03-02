@@ -1,0 +1,67 @@
+{
+    "otitle": "멈추지 않는 진화, 블록체인&암호화폐2.0",
+    "oauthor": "김기영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "멈추지 않는 진화 블록체인 & 암호화폐 2.0",
+                "link": "https://search.shopping.naver.com/book/catalog/32441660135",
+                "image": "https://shopping-phinf.pstatic.net/main_3244166/32441660135.20221019105720.jpg",
+                "author": "김기영",
+                "discount": "11700",
+                "publisher": "넥서스BIZ",
+                "pubdate": "20200128",
+                "isbn": "9791161658452",
+                "description": "우리는 이미 블록체인 시대에 살고 있다. \n빠르게 다가오는 낯선 미래를 준비하기 위해서는\n블록체인이라는 시대적 흐름을 알아야 한다!\n\n블록체인에도 트렌드가 있다. 블록체인&암호화폐 업계의 핵심 개념을 이해하고 주요 트렌드를 파악한 책이다. 이 책의 전작인 《이토록 쉬운 블록체인&암호화폐》의 내용에다 최신 동향을 반영해 불필요한 정보를 삭제했고, 전작보다 기술적인 요소들을 더 많이 포함했지만 지나치게 테크니컬(technical)한 요소들은 최대한 배제했다. 블록체인이라는 개념이 여전히 낯설고 어려운 대중들도 쉽게 이해할 수 있을 것이다. 블록체인&암호화폐는 이미 거대한 시대적 흐름이다. 세계경제포럼(World Economic Forum)은 세계 총생산의 10%가 블록체인 기술로 저장될 것이라 전망했다. 대형 기업들조차 블록체인&암호화폐 플랫폼을 선점하지 못하면 시장의 기회를 잡는 것이 제한적일 것으로 보았다. 이 새로운 기반 기술은 기존의 시스템을 재편하며 디지털 시대를 주도할 준비를 하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스biz :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20200211",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "김기영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.2",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/01/08/9791161658452.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "CIP2020001177",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161658452",
+                "INPUT_DATE": "20200108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "블록체인 & 암호화폐 2.0",
+                "PUBLISH_PREDATE": "20200128",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

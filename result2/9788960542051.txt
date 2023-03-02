@@ -1,0 +1,67 @@
+{
+    "otitle": "알기 쉬운 암호화폐 용어 첫걸음",
+    "oauthor": "염후권,최희송,김회승 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "알기 쉬운 암호화폐 용어 첫걸음 (가상화폐 20개 집중분석)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455885646",
+                "image": "https://shopping-phinf.pstatic.net/main_3245588/32455885646.20221227210243.jpg",
+                "author": "한국블록체인기술금융(주) (엮음)",
+                "discount": "13500",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20180423",
+                "isbn": "9788960542051",
+                "description": "* 코인의 첫걸음, 용어부터 알고 가자!\n* 디지털 경제시대 최고의 투자! 암호화폐 핵심 용어 한 권으로 끝내기! \n 블록체인과 암호화폐의 원리와 메커니즘은 전문 지식 없이 이해하기 어렵다. 이 책은 초보자도 일주일만 투자하면 부분을 통해 전체를 이해할 수 있도록 암호화폐 핵심 용어를 알기 쉽게 정리하는 한편 20개 가상화폐를 집중분석하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙경제평론사",
+                "DDC": "332.4",
+                "UPDATE_DATE": "20180601",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "한국블록체인기술금융,염후권,최희송,김회승 엮음",
+                "SERIES_TITLE": "",
+                "KDC": "327.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6606122_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6606122_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "266 p.",
+                "CONTROL_NO": "CIP2018009655",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960542051",
+                "INPUT_DATE": "20180326",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(알기 쉬운) 암호화폐 용어 첫걸음",
+                "PUBLISH_PREDATE": "20180423",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

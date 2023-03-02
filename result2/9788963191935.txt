@@ -1,0 +1,67 @@
+{
+    "otitle": "수상한 친구 집",
+    "oauthor": "박현숙 글/장서영 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수상한 친구 집",
+                "link": "https://search.shopping.naver.com/book/catalog/32463206317",
+                "image": "https://shopping-phinf.pstatic.net/main_3246320/32463206317.20230110163815.jpg",
+                "author": "박현숙",
+                "discount": "9900",
+                "publisher": "북멘토",
+                "pubdate": "20161107",
+                "isbn": "9788963191935",
+                "description": "나여진! 수상한 전학생의 수상한 집을 방문하다!\n\n으스스한 파란대문집도, 싸움소 같은 오하나도 두렵지만 그럼에도 용기를 내어 오하나네 파란대문집을 찾아간 여진이는 오하나가 그토록 숨기고 싶어 한 비밀과 마주하게 된다. 수업 준비물을 제대로 챙겨 오지 못하고, 점심시간이면 엄청난 양의 밥을 허겁지겁 먹으며, 친구들에게 필요 이상의 적대감을 보이던 오하나의 수상쩍은 행동들에 이유가 있음을 여진이는 알게 되었는데….\n\n가장 가까이에 있지만 그래서 ‘소통’에 소홀해지기 쉬운 것들을 주목해왔던 저자는  ‘아파트’와 ‘교실’, ‘학원’에 이어 이번에는 '집'에 초점을 맞춰 이야기를 써냈다.『수상한 친구 집』은 집이라는 사적인 공간에서 지속적이고 은밀하게 행해지는 ‘가정 폭력’과 ‘아동 학대’를 열세 살 아이들의 시선으로 포착하여 상처받고 피폐해진 피해 아동의 모습을 그려냈다. 하루가 멀다 하고 보도되는 아동 학대 뉴스가 익숙해져 버린 오늘, 이 책을 통해 주위를 작지만 따뜻한 관심으로 지켜봐 주는 것은 어떨까? 어쩌면 지금도 어느 평범한 이웃집의 닫힌 문 안에서 공포에 떨고 있는 아이들이 기다리고 있을지도 모른다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20161130",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.bookmentorbooks.co.kr",
+                "AUTHOR": "박현숙",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20161107",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5822993_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5822993_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "13,000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "216",
+                "CONTROL_NO": "CIP2016024717",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963191935",
+                "INPUT_DATE": "20161014",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "수상한 친구 집",
+                "PUBLISH_PREDATE": "20161107",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

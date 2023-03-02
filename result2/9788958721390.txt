@@ -1,0 +1,67 @@
+{
+    "otitle": "오키나와에서 헌책방을 열었습니다",
+    "oauthor": "우다 도모코 저/김민정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오키나와에서 헌책방을 열었습니다 (세상에서 제일 작은 서점 울랄라의 나날)",
+                "link": "https://search.shopping.naver.com/book/catalog/32559371774",
+                "image": "https://shopping-phinf.pstatic.net/main_3255937/32559371774.20220527053813.jpg",
+                "author": "우다 도모코",
+                "discount": "11700",
+                "publisher": "효형출판",
+                "pubdate": "20151205",
+                "isbn": "9788958721390",
+                "description": "오키나와에 있던 한 헌책방이 새로운 주인을 만났습니다.\n\n고즈넉한 골목에 조용히 숨어 있지만 은근히 존재감 있는 서점, 친근한 동네 서점, 그림책 전문 서점, 개성을 뽐내는 자그마한 독립출판 서점 등 한동안 모습을 감추었던 동네 서점들이 서울을 중심으로 곳곳에서 다시금 생겨나고 있다. 『오키나와에서 헌책방을 열었습니다』의 저자는 울랄라 헌책방의 주인으로, 원래는 일본의 대형 서점인 준쿠도 서점 직원이었다. 입사 10년 차를 앞두고 어지러운 마음에 고민만 쌓여가던 어느 날, 한 헌책방의 홈페이지에서 다음과 같은 글을 발견한다. ‘새로운 주인을 찾고 있습니다.’\n\n회사를 그만두고 헌책방을 시작하기로 마음먹었지만, 책방 이름을 짓는 일부터 영업 허가를 받고 간판을 만들고 책방 내부를 꾸미고 서가를 채우기까지 쉬운 일은 하나도 없었다. 저자는 자신이 왜 회사를 그만두고 헌책방을 열었는지에 대해 진중하게 고백하거나, 시대를 뛰어넘는 책의 가치를 설파하지도 않는다. 그저 소소한 나날을 친구와 통화하듯 하나하나 풀어놓는다. 단골손님과의 대화, 전구가 나간다거나 자전거를 잃어버린 사사로운 에피소드, 책방에 앉아 구경하는 시장 풍경 등. 읽는 이는 어느새 낯설기만 했던 저자의 오키나와 생활에 시나브로 녹아들게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "효형출판",
+                "DDC": "895.686",
+                "UPDATE_DATE": "20151214",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hyohyung.co.kr",
+                "AUTHOR": "우다 도모코",
+                "SERIES_TITLE": "",
+                "KDC": "838",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5007528_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5007528_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "246",
+                "CONTROL_NO": "CIP2015030618",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958721390",
+                "INPUT_DATE": "20151109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오키나와에서 헌책방을 열었습니다",
+                "PUBLISH_PREDATE": "20151205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

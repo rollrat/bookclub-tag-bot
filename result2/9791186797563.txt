@@ -1,0 +1,67 @@
+{
+    "otitle": "잠자는 숲속의 어린 마녀",
+    "oauthor": "고미솔 글",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잠자는 숲속의 어린 마녀 (고미솔 이야기책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440388220",
+                "image": "https://shopping-phinf.pstatic.net/main_3244038/32440388220.20221019150056.jpg",
+                "author": "고미솔",
+                "discount": "8910",
+                "publisher": "북극곰",
+                "pubdate": "20170303",
+                "isbn": "9791186797563",
+                "description": "고미솔 작가의 『잠자는 숲속의 어린 마녀』는 독자들에게 책 읽는 즐거움과 끝없는 질문을 선사하는 이야기 보따리이다. 어린 마녀는 ‘질문의 노래’에 대한 답을 해야 영원한 잠에서 깨어날 수 있습니다. 독자들은 안 띄어 부르는 노래를 따라 부르다 보면 웃음이 폭발합니다. 그리고 궁금증이 생깁니다. 어린 마녀는 왜 ‘질문의 노래’를 듣고 답을 해야 할까? 동물들의 노래를 듣는 순간도 사실은 꿈이 아닐까? 그리고 검은 새는 누구일까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20170329",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "고미솔",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797495",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6129921_3.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6129921_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6129921_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "108",
+                "CONTROL_NO": "CIP2017003736",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186797563",
+                "INPUT_DATE": "20170210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "잠자는 숲속의 어린 마녀",
+                "PUBLISH_PREDATE": "20170303",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

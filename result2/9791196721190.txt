@@ -1,0 +1,67 @@
+{
+    "otitle": "우리가 절대 알 수 없는 것들에 대해",
+    "oauthor": "마커스 드 사토이 저/박병철 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리가 절대 알 수 없는 것들에 대해 (인간의 의식에서 우주까지, 과학지식의 한계는 어디까지인가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506430719",
+                "image": "https://shopping-phinf.pstatic.net/main_3250643/32506430719.20221019110004.jpg",
+                "author": "마커스 드 사토이",
+                "discount": "23690",
+                "publisher": "반니",
+                "pubdate": "20191202",
+                "isbn": "9791196721190",
+                "description": "인간의 능력으로는 절대로 이해할 수 없는 무언가가 정말 존재하는가?\n\n우주와 자연의 미지를 개척한 과학자들의 생각과 발견을 조사하고, 우리가 알아낼 수 있는 지식에는 과연 한계가 없는지 탐구하는 『우리가 절대 알 수 없는 것들에 대해』. 리처드 도킨스를 이어 옥스퍼드 대학의 과학 대중화 사업을 이끌고 있는 책임자 마르쿠스 뒤 소토이는 이 책에서 답하기 힘든 현대과학의 경계를 7장에 걸쳐 유쾌하면서도 명확하게 풀어낸다. \n\n책상 위에 놓인 주사위로부터 시작해, 혼돈, 물질과 우주, 공간, 시간, 무한대, 의식에 이르는 미지의 여정을 따라가게 하는 이 책에는 양자물리학과 우주론, 지각과 인식, 신경과학 등 첨단과학의 경계를 탐험하면서 현재 상황에 대한 저자의 의견과 각 분야 전문가들의 의견을 일목요연하게 정리되어 있다. \n\n저자는 현재 알려진 과학적 지식의 한계점까지 나아가 답을 알 수 없는 질문과 그로부터 파생된 온갖 다양한 모순을 파헤친다. 세계는 예측가능한가, 우주는 무한한가, 빅뱅 이전의 시간을 알 수 있는가, 물질을 이루는 궁극의 구성성분은 무엇인가, 양자세계의 한계는 무엇인가 등 물리적 우주에서 우리가 알아낼 수 있는 지식에는 한계가 없는지, 현대과학의 극단지점으로 우리를 인도한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "20191226",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 마커스 드 사토이 ;옮긴이: 박병철",
+                "SERIES_TITLE": "",
+                "KDC": "400",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "595 p.",
+                "CONTROL_NO": "CIP2019045528",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196721190",
+                "INPUT_DATE": "20191108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "우리가 절대 알 수 없는 것들에 대해",
+                "PUBLISH_PREDATE": "20191202",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

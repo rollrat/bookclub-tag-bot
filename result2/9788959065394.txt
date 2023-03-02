@@ -1,0 +1,67 @@
+{
+    "otitle": "왜 말을 그렇게 해",
+    "oauthor": "김용진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왜 말을 그렇게 해? (성공적인 인간관계를 위한 말습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444864804",
+                "image": "https://shopping-phinf.pstatic.net/main_3244486/32444864804.20221228071937.jpg",
+                "author": "김용진",
+                "discount": "12100",
+                "publisher": "북카라반",
+                "pubdate": "20190827",
+                "isbn": "9788959065394",
+                "description": "한 사람의 가치를 평가하는 다양한 요소 중 제일 첫 번째로 꼽는 것이 바로 ‘말투’다. 직업과 신분에는 귀천이 없지만 말투에는 귀천이 있다. 호감형 외모를 가지고 있지만 뱉는 말마다 욕과 비난, 험담 투성이라면 어떨까? 여행할 때 혹은 좋은 프로젝트가 있을 때 과연 이런 사람과 함께하고 싶을까? 인간관계에서 많은 사람이 놓치는 것이 바로 말투의 중요성이다. 성공하는 사람들은 말투가 다르다. 성공의 비결은 결코 거창하지 않다. 말투의 중요성을 알고 있느냐 모르느냐 같은 사소한 차이가 성공과 실패를 가른다. 말투를 바꿔야 원하는 것을 얻고 다시 만나고 싶은 사람이 된다. 『왜 말을 그렇 해?』에서는 성공적인 인간관계를 위한 말습관에 대해서 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북카라반",
+                "DDC": "",
+                "UPDATE_DATE": "20190909",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "김용진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "802.56",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/21/9788959065394.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "254 p.",
+                "CONTROL_NO": "CIP2019033040",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959065394",
+                "INPUT_DATE": "20190820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "왜 말을 그렇게 해?",
+                "PUBLISH_PREDATE": "20190827",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

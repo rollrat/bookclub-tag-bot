@@ -1,0 +1,67 @@
+{
+    "otitle": "1일 1독서의 힘",
+    "oauthor": "이동조,이지우 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "1일 1독서의 힘 (우리 아이, 읽는 만큼 성장한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436139685",
+                "image": "https://shopping-phinf.pstatic.net/main_3243613/32436139685.20221019113850.jpg",
+                "author": "이동조",
+                "discount": "10800",
+                "publisher": "팜파스",
+                "pubdate": "20160130",
+                "isbn": "9791170260677",
+                "description": "우리 아이, 읽는 만큼 성장하는[1일 1독서의 힘]. 책은 한 달에 한 권도 읽지 않던 지우와 지우의 아빠가 만들어낸 효과적인 독서 프로젝트, 1일 1독서 프로젝트를 소개한다. 1일 1독서 프로젝트란 하루에 한 권의 책을 읽고 그 책의 내용을 발표하는 것을 기본으로 한다. 아이의 독서 수준에 맞게 쉽고 재미있게 읽을 수 있는 책을 선정하고 하루 동안 책을 읽고 아빠나 엄마에게 책의 내용에 대해 감상을 이야기하는 것이다. 아이가 책을 읽어야만 하고 싶은 일을 허가해준다는 원칙을 세우고, 100권, 200권을 읽어낼 때마다 성취감을 느낄 수 있도록 작은 이벤트를 열어줄 것을 권한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "649.58",
+                "UPDATE_DATE": "20160212",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "이동조, 이지우",
+                "SERIES_TITLE": "",
+                "KDC": "598.48",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5158990_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5158990_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "208",
+                "CONTROL_NO": "CIP2016000729",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170260677",
+                "INPUT_DATE": "20160111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "1일 1독서의 힘",
+                "PUBLISH_PREDATE": "20160130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "만화로 보는 영화의 역사",
+    "oauthor": "황희연 저/남무성 그림, 각색",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "만화로 보는 영화의 역사 (라이벌 난장사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436278504",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436278504.20230116070811.jpg",
+                "author": "남무성",
+                "discount": "15300",
+                "publisher": "오픈하우스",
+                "pubdate": "20130226",
+                "isbn": "9788993824766",
+                "description": "급변했던 영화의 역사를 만화로 풀어낸 책이다. 어디선가 본 듯한 배우의 스틸이나 영화사의 놓칠 수 없는 장면들은 올드팬에게 향수를 불러일으키기 충분하며, 그 영화의 이면을 가득 채운 숱한 이야기들은 영화의 역사가 그 어떤 예술사보다 다이내믹하다는 것을 증명해 준다. 라이벌간의 대립을 기본 구도로 영화의 역사를 풀어내는 독특한 형식을 취하고 있다.\n\n\n\n최초의 영화 상영회를 열었던 뤼미에르 형제와 판타지적 색채를 입혔던 조르주 멜리에스, 영화 산업의 헤게모니를 놓고 벌였던 미국과 유럽의 소리 없는 전쟁, 코미디의 진정한 지존을 가리는 찰리 채플린과 버스터 키튼의 대결 등의 라이벌 대결을 뼈대로 세밀하게 뻗어나가는 장면들은 영화사를 알고자 하는 우리의 욕구를 충족시켜준다.\n\n\n\n황희연이 탄탄한 스토리 전개에 힘쓰고, 남무성이 각색하고 그린 이 만화는 영화사의 사건을 단순 나열하지 않고, 라이벌 구도로 만들어 놓았다. 현실에 만족하지 않고 도전을 통해 또 라이벌간의 대결로 영화를 발전시킨 그들의 이야기는 재미와 교양을 고루 갖춘 뛰어난 완성도를 보여주며 독자들을 흥미진진한 영화의 역사 속으로 빠져들게 할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "오픈하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20130308",
+                "EA_ADD_CODE": "03680",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "그림·각색: 남무성 ;글: 황희연",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993824766",
+                "INPUT_DATE": "20130308",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "만화로 보는 영화의 역사 ",
+                "PUBLISH_PREDATE": "20130226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

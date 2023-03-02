@@ -1,0 +1,67 @@
+{
+    "otitle": "스위스 셀프트래블 : 2019-2020 최신판",
+    "oauthor": "맹현정,조원미 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스위스 셀프트래블(2019-2020) (믿고 보는 해외여행 가이드북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474214259",
+                "image": "https://shopping-phinf.pstatic.net/main_3247421/32474214259.20221019105420.jpg",
+                "author": "맹현정^조원미",
+                "discount": "16200",
+                "publisher": "상상출판",
+                "pubdate": "20190401",
+                "isbn": "9791189856052",
+                "description": "2019-2020 최신개정증보판 스위스 가이드북!\n스위스 가이드북 No.1! 독자들이 사랑한 최고의 가이드북\n취리히, 베른, 바젤, 융프라우 등 스위스의 주요 지역 총망라\n스위스에서 꼭 즐겨야 할 관광명소, 맛집, 하이킹, 쇼핑 등 최신 정보 수록\n스위스 지역별 상세지도 & 기간별 추천 일정 제공\n[특별부록] 휴대용 맵북 & 트래블 노트, 고르너그라트, 리기 산 등 할인쿠폰 수록"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20190327",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "맹현정,조원미 지음",
+                "SERIES_TITLE": "셀프트래블 2015",
+                "KDC": "982.5902",
+                "EDITION_STMT": "개정4판, 19-20 최신판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186517109",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "495 p.",
+                "CONTROL_NO": "CIP2019005864",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189856052",
+                "INPUT_DATE": "20190218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(셀프트래블) 스위스",
+                "PUBLISH_PREDATE": "20190401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

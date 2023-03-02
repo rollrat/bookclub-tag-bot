@@ -1,0 +1,67 @@
+{
+    "otitle": "하나도 괜찮지 않습니다",
+    "oauthor": "오찬호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하나도 괜찮지 않습니다 (감정 오작동 사회에서 나를 지키는 실천 인문학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481518086",
+                "image": "https://shopping-phinf.pstatic.net/main_3248151/32481518086.20221019123403.jpg",
+                "author": "오찬호",
+                "discount": "13050",
+                "publisher": "블랙피쉬",
+                "pubdate": "20180122",
+                "isbn": "9788968331657",
+                "description": "이상한 뜨거움으로 무장한 채 남을 괴롭히며 사는 사람들로 넘치는 지금, 우리는 무엇을 해야 할까?\n\n사회현상에 대한 예리한 진단과 그 원인을 분석하는 데서 그치지 않고, 지금 여기를 사는 보통 사람들이 어떻게 해야 하는지 실천적 대안을 담은 보통 사람들을 위한 실천 인문학 『하나도 괜찮지 않습니다』. 그동안 여성 비하가 뿌리 깊게 자리 잡은 한국 남자들의 민낯을 파헤쳐온 사회학자 오찬호가 이 책에서 부끄러움이라는 감정을 키워드 삼아 한국사회의 일상을 분석한다. \n\n일상에 만연한 혐오와 폭력, 강박과 차별의 일상을 낱낱이 파헤치며 지금 한국 사회는 하나도 괜찮지 않다고 진단한다. 특히 현재 논란이 되고 있는 여성혐오, 노키즈존, 맘충, 사회적 약자와 성 역할에 대한 편견 등 각각의 사회적 이슈를 통해 좋은 사회를 만들기 위해 인간이기에 가져야 하는 상식의 기준에 대해 설명하며 간단한 철학을 실천하기 위한 가이드를 제시한다. \n\n혐오와 폭력, 강박과 차별은 특별한 누군가가 특별한 상황에서 가하는 것이 아니라 현재의 사회적 분위기 안에서 자연스럽게 살다 보면 누구나 차별에 둔감한 사람이 된다고 주장하면서 우리가 상식처럼 여기던 편견들을 속속들이 들춰보고 우리가 얼마나 낯 뜨거운 줄 모르고 ‘괜찮다’하고 말하는지 얼굴 빨개질 질문을 던진다. 저자는 부끄러움을 제대로 느끼는 사람은 성장한다고 이야기하면서 폭력이고 혐오이며 강박인 줄도 모르고 우리가 해왔던 행동들, 말들을 돌이켜보고 지금부터라도 사회를 바로잡을 수 있는 기회를 가질 수 있기를 바라고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "블랙피쉬 :백도씨",
+                "DDC": "300.2",
+                "UPDATE_DATE": "20180129",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "https://blog.naver.com/100doci",
+                "AUTHOR": "오찬호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "330.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6503737_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "CIP2018000765",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788968331657",
+                "INPUT_DATE": "20180105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "하나도 괜찮지 않습니다",
+                "PUBLISH_PREDATE": "20180122",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

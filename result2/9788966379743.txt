@@ -1,0 +1,67 @@
+{
+    "otitle": "내 감정에 말 걸기",
+    "oauthor": "원성원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 감정에 말 걸기 (마음을 마주하고 내 것으로 만드는 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436277449",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436277449.20230227070948.jpg",
+                "author": "원성원",
+                "discount": "13500",
+                "publisher": "미다스북스",
+                "pubdate": "20211025",
+                "isbn": "9788966379743",
+                "description": "‘감정 주파수’만 맞춰도 인생이 달라진다!\n\n감정의 노예 VS 감정의 주인!\n\n감정에게 끌려다니지 않기 위한\n나의 ‘감정 거울’ 마주하는 법!\n\n감정은 항상 우리에게 전해줄 선명한 메시지를 가지고 있다. 그것을 우리가 알아듣지 못하거나 듣고 싶지 않아 귀기울이지 않을 뿐이다. 20년 동안 심리상담 분야의 길을 걸은 저자는 온갖 다양한 감정들과 만나며 모든 감정에는 이유가 있다는 것을 일찍이 깨달았다. \n\n저자는 이 책을 통해 감정을 명료하게 듣는 것이 왜 중요한지 알려주며 감정을 어떻게 들어야 하는지 실천 방법에 대해서도 자세하게 나타냈다. \n\n이 책을 시작하기 전에 간단하게 몸을 자각해보자. 지금 나는 어떤 자세를 하고 있는지, 내 몸은 편안한지, 어디 불편한 곳은 없는지 살펴보는 것이다. 몸의 감각으로부터 전달되는 감정은 직관적이고 솔직하다. 생각과 머리의 신호로 전달된 감정은 때로 오염되거나 왜곡될 수 있지만 몸으로부터 오는 신호는 깨끗하고 투명하기 때문이다. 이 감정을 명료하게 알아차릴 수만 있다면 우리의 삶은 달라질 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211231",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "원성원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "335 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966379743",
+                "INPUT_DATE": "20211007",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "내 감정에 말 걸기",
+                "PUBLISH_PREDATE": "20211025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

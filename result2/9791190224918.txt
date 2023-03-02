@@ -1,0 +1,67 @@
+{
+    "otitle": "B의 일기 3",
+    "oauthor": "작가1 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "B의 일기 3 (비혼을 꿈꾸는 여성에게 보내는 응원과 격려)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481952795",
+                "image": "https://shopping-phinf.pstatic.net/main_3248195/32481952795.20221019114937.jpg",
+                "author": "작가1",
+                "discount": "14220",
+                "publisher": "북로그컴퍼니",
+                "pubdate": "20210625",
+                "isbn": "9791190224918",
+                "description": "‘현존하는 최고의 페미니즘 서사’ 《탈코일기》 후속작!\n탈코를 넘어 비혼으로 나아간 도수리의 프리퀄!\n\n2019년, 크라우드펀딩 플랫폼 ‘텀블벅’에서 1억 9천만 원이라는 경이적인 액수로, 텀블벅 도서부문 최고 후원액을 기록한 《탈코일기》! 출간 즉시 ‘20대 여성의 필독서’ ‘내 인생을 바꿔놓은 명작’이란 평가를 받으며 페미니즘 물결을 이끌어온 《탈코일기》의 작가가 후속작 《B의 일기》를 출간했다. \n《탈코일기》가 외형적 코르셋을 벗는 것에 초점을 맞추었다면, 《B의 일기》는 한 걸음 더 나아가 여성들의 심리적·정신적 코르셋으로 작용해온 ‘결혼’ 문제, 정확하게는 ‘비혼’ 이야기를 다룬다. 흥미로운 것은 《탈코일기》의 후속작임에도 오히려 10년 전인 2011년으로 거슬러 올라가, 탈코르셋 이전의 ‘도수리’ 서사를 다두고 있다는 점이다. \n도수리는 《탈코일기》의 세 주인공 중에서도 가장 확고한 자기철학을 갖추고 있던 인물이다. 이제 막 탈코르셋을 한 김뱀희와 코르셋을 놓지 못해 전전긍긍하는 백로아의 고민을 들어주고 지지하는 정신적 멘토로 등장했던 도수리의 10년 전 모습은 어땠을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로그컴퍼니",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "07810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "작가1",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "135*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190224918",
+                "INPUT_DATE": "20210604",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "B의 일기",
+                "PUBLISH_PREDATE": "20210625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

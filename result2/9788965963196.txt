@@ -1,0 +1,67 @@
+{
+    "otitle": "깃털 도둑",
+    "oauthor": "커크 월리스 존슨 저/박선영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "깃털 도둑 (아름다움과 집착, 그리고 세기의 자연사 도둑)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466838039",
+                "image": "https://shopping-phinf.pstatic.net/main_3246683/32466838039.20221230073519.jpg",
+                "author": "커크 월리스 존슨",
+                "discount": "14400",
+                "publisher": "흐름출판",
+                "pubdate": "20190507",
+                "isbn": "9788965963196",
+                "description": "어떤 대가를 치르더라도 아름다움을 추구하고자 하는 인간의 끝없는 욕망을 파헤치다!\n\n2009년 영국 자연사박물관에 침입해 299점의 새가죽을 훔친 열아홉 살의 플루트 연주자 에드윈 리스트의 실화를 다룬 『깃털 도둑』. 그는 어떻게 박물관에 침입할 수 있었을까? 그리고 그는 박물관의 귀하고 값비싼 보물이 아니라 하필이면 죽은 새들을 훔쳤을까? 작가이자 저널리스트인 커크 월리스 존슨은 이 기묘한 범죄에 얽힌 진실을 찾기 위해 5년이라는 시간을 쏟아 부었고, 취재를 통해 자칫 깃털 오타쿠의 가벼운 범죄로 묻혀 버릴 이 사건을 깃털의 아름다움에 집착하는 인간의 욕망, 탐욕으로 얼룩진 인류의 역사를 한 편의 뛰어난 소설처럼 재구성해냈다.\n\n저자는 취재를 통해 플라이 타잉 기술자, 깃털 장수, 마약 중독자, 맹수 사냥꾼, 전직 형사를 만나 그들의 은밀한 세계로 발을 들여놓게 됐고, 이 특이한 깃털 도둑 사건의 주범과 그들만의 깃털 리그를 옹호하는 사람들의 은밀한 세계를 파헤치는 동시에 깃털에 얽힌 인류사의 궤적을 쫓는다. 다윈과 함께 종의 기원 창시자로 알려진 앨프리드 러셀 월리스의 탐험과 수집벽이 있는 은행 재벌, 19세기 깃털 열병을 일으킨 모자 산업 등 개인과 사회의 역사를 종횡으로 오가며, 에드윈 리스트가 훔친 깃털의 역사를 추적함으로써 지구에 존재하는 생물들의 표본을 남기는 것이 인류의 미래를 위해 얼마나 중요한 행동인지를 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판",
+                "DDC": "",
+                "UPDATE_DATE": "20190515",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "커크 월리스 존슨 지음 ;박선영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "848",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/18/9788965963196.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "402, 24 p.",
+                "CONTROL_NO": "CIP2019015414",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965963196",
+                "INPUT_DATE": "20190418",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "깃털도둑",
+                "PUBLISH_PREDATE": "20190507",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

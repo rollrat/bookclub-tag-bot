@@ -1,0 +1,78 @@
+{
+    "otitle": "회사어로 말하라",
+    "oauthor": "김범준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:22 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "회사어로 말하라 (성공하는 직장인은 말투부터 다르다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505424520",
+                "image": "https://shopping-phinf.pstatic.net/main_3250542/32505424520.20230224102451.jpg",
+                "author": "김범준",
+                "discount": "13500",
+                "publisher": "보랏빛소",
+                "pubdate": "20170517",
+                "isbn": "9791187856146",
+                "description": "중국에선 중국어, 일본에선 일본어, 그렇다면 회사에서는? 당연히 ‘회사어’를 써야 한다. 유독 예쁨 받고 인정 받는 직장인은 어떤 말을 쓰는지, 일을 잘 하고서도 욕 먹게 만드는 말실수에는 어떤 것이 있는지, 회사에서 반드시 해야 할 말과 하지 말아야 할 말은 무엇인지 등 회사에서 써야 하는 회사어를 이 책에서 낱낱이 공개한다. 조직 리더들의 실제 경험을 토대로 구체적인 상황과 대안을 제시하기에 더욱 유용하다. 아부하는 말, 뻔한 정답 같은 말이 아니다. 당신이 지닌 의욕을 충분히 보여주고, 중요한 일에 발탁되어 잠재된 실력을 맘껏 뽐낼 기회를 잡게 해주는 말, 회사에서 성공하고 싶다면 회사어로 말하라!\n\n▶이 책은 2011년 출간된 《회사어로 말하라》의 개정증보판입니다."
+            },
+            {
+                "title": "회사어로 말하라 (성공하는 1% 직장인을 위한 회사생존 매뉴얼)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436138319",
+                "image": "https://shopping-phinf.pstatic.net/main_3243613/32436138319.20220527062005.jpg",
+                "author": "김범준",
+                "discount": "0",
+                "publisher": "비즈니스북스",
+                "pubdate": "20111025",
+                "isbn": "9788991204935",
+                "description": "직장에서의 성공은 ‘회사어’ 하나로 좌우된다!\n\n성공하는 1% 직장인을 위한 회사생존 매뉴얼『회사어로 말하라』. LG그룹의 커뮤니티인 ‘LG커뮤니케이션연구회’ 운영자 김범준이 회사 생활에서 자신의 잘못된 언어 사용이 승진의 장애물이 된 사실을 깨닫고, 문제점을 심도 있게 점검한 결과를 바탕으로 직장생활의 필수조건을 명쾌하게 제시하였다. 저자는 국내 최고 기업에서 성공하는 사람들이 쓰는 말은 따로 있다고 말하며, 그것이 바로 회사에서 성공하는 언어인 ‘회사어’ 임을 강조한다. 이 책은 회사어를 ‘긍정어, 세심어, 음성어, 겸손어, 조심어, 정치어, 순차어, 유희어, 공감어, 비전어’ 이렇게 10가지 하위 개념으로 분류하여 직장생활을 180도로 바꿀 회사 생존의 비밀을 소개한다. 구체적인 상황을 예로 들어 꼭 해야 할 말과 하지 말아야 할 말을 명쾌하게 정리하였으며, 비즈니스 커뮤니케이션에 관한 가장 쉽고 간단한 실천방법을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보랏빛 소",
+                "DDC": "",
+                "UPDATE_DATE": "20170605",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김범준",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "300페이지 내외",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187856146",
+                "INPUT_DATE": "20170427",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "회사에서는 회사어로 말하라",
+                "PUBLISH_PREDATE": "20170517",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

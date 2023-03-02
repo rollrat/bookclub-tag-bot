@@ -1,0 +1,67 @@
+{
+    "otitle": "필사의 기초",
+    "oauthor": "조경국 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "필사의 기초 (좋은 문장 잘 베껴 쓰는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440949275",
+                "image": "https://shopping-phinf.pstatic.net/main_3244094/32440949275.20230218110339.jpg",
+                "author": "조경국",
+                "discount": "9000",
+                "publisher": "유유",
+                "pubdate": "20160604",
+                "isbn": "9791185152486",
+                "description": "손글씨의 재미를 더하고 싶은 이들을 위한 선물같은 책!\n\n키보드면 해결되는 시대에 만년필은 저자에게 쓸 데가 없었다. 저자는 만년필을 어떻게든 쓰고 싶어 다이어리부터 시작해 필사에 도전했다고 한다. 『필사의 기초』는 다이어리에서 벗어나 조금 더 나아가고 싶은 이들을 위한 안내서다. 손글씨의 재미가 막 느껴졌는데 그다음은 어떻게 할까 하는 이들에게 선물같은 가이드를 제공한다.\n\n 저자는 메모에 버릇을 들이고, 가난한 탓에 큰돈 들이지 않은 채 할 수 있는 일을 찾다 시작한 일이 필사라고 한다. 좋아하는 문장 혹은 책을 골라서 옮겨 적으며 혼자 있는 시간을 견뎠다는 저자는 글씨를 예쁘고 가지런히 쓰지 못하더라도, 바빠서 딱히 시간을 낼 수 없더라도, 좋은 책상과 의자가 없더라도 어쨌든 읽고 써 보라고 권한다. \n\n또한 옮겨 적으며 다시 한 번 책을 이해하고 소화하고 내 안을 채우는 궁극의 독서로 안내한다. 더불어 책의 말미에는 저자의 필사 도구를 소개했다. 긴 시간, 필사를 하며 써 본 이런저런 필사 도구 가운데 저자가 가장 사랑하는 몇몇이 소개되어 있다. 소박하게 필사를 시작한 저자답게 누구나 쉽게 구할 수 있되 실제로 필사할 때도 좋은 필기구를 공개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)유유",
+                "DDC": "745.61",
+                "UPDATE_DATE": "20160620",
+                "EA_ADD_CODE": "03020",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "조경국",
+                "SERIES_TITLE": "",
+                "KDC": "640",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5464587_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5464587_3.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "200쪽 안팎",
+                "CONTROL_NO": "CIP2016012983",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185152486",
+                "INPUT_DATE": "20160523",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "필사의 기초",
+                "PUBLISH_PREDATE": "20160604",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

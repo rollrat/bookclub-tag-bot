@@ -1,0 +1,67 @@
+{
+    "otitle": "오토 워",
+    "oauthor": "자동차미생 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오토 워 (디트로이트 엔지니어가 말하는 자동차 전쟁)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464067175",
+                "image": "https://shopping-phinf.pstatic.net/main_3246406/32464067175.20230103162802.jpg",
+                "author": "자동차미생",
+                "discount": "15300",
+                "publisher": "이레미디어",
+                "pubdate": "20220513",
+                "isbn": "9791191328530",
+                "description": "구독자 13만 명을 보유한 유튜버 자동차미생의 첫 책!\n‘자동차의 도시’ 디트로이트 현직 자동차 엔지니어가 바라본\n앞으로 10년, 자동차 산업의 모든 것!\n\n『오토 워』는 전기자동차와 자율주행으로 대변되는 모빌리티 세상의 과거, 현재, 미래를 현실적으로 바라보게 하는 책이다. 그 배경에는 ‘자동차의 도시’ 디트로이트에서 엔지니어로 일하며 몸소 변화를 체감하는 저자의 경험이 깔려 있다. 20년 전 무모하게 감행한 미국행은 결과적으로 저자에게 브레이크, 스티어링, 서스펜션, 로봇 등을 두루두루 접할 수 있는 기회를 가져다주었다. 또한 테슬라의 등장 이후로 급박하게 돌아가는 미국 자동차 산업의 모습을 직시하게 해주었다.\n\n전 세계 판매량의 0.1%도 되지 않았던 테슬라는 배터리, 모터, 중앙컴퓨터라는 새로운 거대한 흐름을 몰고 왔다. 테슬라의 등장은 단순히 전기자동차 시대의 도래로 끝나지 않는다. 컴퓨터화되면서 앞으로 펼쳐질 무궁무진한 세상을 기대하게 한다. 이는 전 세계 기업들이 앞다투어 자율주행에 뛰어드는 이유 그리고 게임 체인저로 불리는 기업들만 뛰어들던 실리콘밸리 인재 전쟁에 가담하는 이유와 무관하지 않다.\n저자가 말하는 기간은 앞으로 10년이다. 이 10년은 일생일대의 기회나 다름없다. 지금이 중요한 시점임을 깨닫고 행동하는 사람과 중요한 시점임을 모르거나 알아도 행동하지 않는 사람은 10년 후에 은행 잔고가 분명 다르게 나타날 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20220525",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "자동차미생 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "250 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191328530",
+                "INPUT_DATE": "20220406",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "오토 워",
+                "PUBLISH_PREDATE": "20220513",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

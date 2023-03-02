@@ -1,0 +1,67 @@
+{
+    "otitle": "삼개주막 기담회 2",
+    "oauthor": "오윤희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "삼개주막 기담회 2 (오윤희 기담소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490778816",
+                "image": "https://shopping-phinf.pstatic.net/main_3249077/32490778816.20221019105112.jpg",
+                "author": "오윤희",
+                "discount": "12960",
+                "publisher": "고즈넉이엔티",
+                "pubdate": "20211228",
+                "isbn": "9791163162322",
+                "description": "삼개주막에서 벌어진\n괴짜 선비들의 본격적인 기담회!\n한번 들으면 떨쳐버릴 수 없는\n기이하고 끔찍한 이야기판이 펼쳐진다\n\n너도나도 궁금했던 선노미의 뒷얘기와\n조선팔도를 유람한 선비들의\n더 기이하고 오싹한 이야기가 담겼다!\n\n드디어 찾아온 삼개주막 기담회\n두 번째 이야기!\n『삼개주막 기담회2』\n\n마포나루 어귀 삼개주막,\n그곳에는 여전히 믿지 못할 이야기가 모여든다"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "고즈넉이엔티",
+                "DDC": "",
+                "UPDATE_DATE": "20220314",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "https://www.gozknock.com/",
+                "AUTHOR": "지은이: 오윤희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163162322",
+                "INPUT_DATE": "20211214",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "삼개주막 기담회",
+                "PUBLISH_PREDATE": "20211231",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

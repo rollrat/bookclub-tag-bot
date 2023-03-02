@@ -1,0 +1,67 @@
+{
+    "otitle": "그 남자는 왜 이상해졌을까?",
+    "oauthor": "오찬호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그 남자는 왜 이상해졌을까? (부끄러움을 모르는 카리스마, 대한민국 남자 분석서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455858620",
+                "image": "https://shopping-phinf.pstatic.net/main_3245585/32455858620.20221019152506.jpg",
+                "author": "오찬호",
+                "discount": "13050",
+                "publisher": "동양북스",
+                "pubdate": "20160725",
+                "isbn": "9791157031900",
+                "description": "한국 사회에서 자연스럽게 ‘남자로’ 산다는 것은 무서운 일이다!\n\n추모 현장에 나타나 가면을 쓴 채 ‘모든 남자를 잠재적 가해자로 보지 말라’는 시위를 하는 남자, 쓰레기 분리수거 정도의 집안일만 하면서도 “당신은 좋겠다. 내가 가부장적인 남편이 아니라서 얼마나 대박이야?”라고 말하는 남자. 《우리는 차별에 찬성합니다》, 《진격의 대학교》로 우리 사회에 큰 화두를 던진 바 있는 사회학자 오찬호가 이번에는 이런 남자들, 즉 우리 주변에서 매우 흔하게 발견할 수 있는 ‘보통 남자들’에 메스를 들이댔다.\n\n저자는 한국 남자를 이해하는 코드로 군대와 학교 교육, 남성 생계부양자 모델을 꼽는다. 권위주의와 경쟁주의 문화에 절어 있는 학교 그리고 폭력, 명령, 복종이 절대적인 군대를 거치면서 남자(생물학적 성)는 점점 남성(사회적 성)으로 변해간다는 것이 핵심 메시지다. 그 결과 남자들은 소통 능력과 공감 능력을 상실하게 되는데, 이는 ‘약자를 공격하는 남성들의 집단 세력화’, ‘약자에 대한 혐오 범죄’라는 심각한 사회문제와 결코 무관치 않다는 것이 저자의 주장이다.\n\n책은 해외 학자의 연구 결과나 이론을 토대로 한 저작물이 아니라는 점에서 더욱 의미 있다. 주로 저자의 삶과 연구 과정, 다시 말해 직접 경험을 통해 길러낸 자료를 바탕으로 하고 있으며 국내 현실을 다룬 여러 사회 비평서 및 페미니즘 도서를 기반으로 하고 있어, 그만큼 원고가 갖고 있는 공감력과 흡입력, 생생한 현장감이 남다르다. 저자가 향하고 있는 비판의 대상에 저자 자신을 포함시키는 매우 성찰적인 태도 역시 큰 울림과 깨달음을 준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양books",
+                "DDC": "302",
+                "UPDATE_DATE": "20161031",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.dongyangbooks.com",
+                "AUTHOR": "오찬호",
+                "SERIES_TITLE": "",
+                "KDC": "331.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5591931_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5591931_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "312",
+                "CONTROL_NO": "CIP2016016602",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157031900",
+                "INPUT_DATE": "20160706",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "그 남자는 왜 이상해졌을까? : 부끄러움을 모르는 카리스마, 대한민국 남자 분석서",
+                "PUBLISH_PREDATE": "20160725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

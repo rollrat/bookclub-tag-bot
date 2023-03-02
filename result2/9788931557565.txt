@@ -1,0 +1,67 @@
+{
+    "otitle": "싱크 에디트",
+    "oauthor": "노구치 타카히토 저/김희성 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "싱크 에디트(THINK EDIT) (편집 사고로 아이디어를 비즈니스로 바꾸는 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466698378",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466698378.20221019110529.jpg",
+                "author": "노구치 타카히토",
+                "discount": "11700",
+                "publisher": "성안당",
+                "pubdate": "20210916",
+                "isbn": "9788931557565",
+                "description": "새로운 비즈니스를 편집하다!\n1만 권의 잡지를 만든 아트 디렉터의 편집 사고 노하우!\n\n편집과 비즈니스를 자유롭게 넘나들며 브랜드를 콘텐츠화 해야 하는 시대, 다시 말해 편집과 비즈니스가 만났을 때의 엄청난 시너지를 통해 콘텐츠를 입체적으로 풀어내야 하는 시대에 우리는 살고 있다. 이 책은 1만 권의 잡지를 만든 아트 디렉터인 저자가 편집 사고를 통해 아이디어를 창출하고 그 아이디어를 비즈니스에 접목시키는 노하우를 정리한 책이다. ‘편집 사고’란 다양한 콘텐츠를 모아 엮는 ‘편집’의 관점으로 아이디어 창출 방법을 활용해 새로운 브랜드 가치를 도출하는 것이다. 또한 편집 사고는 브랜드 및 신규 서비스 개발과 같은 비즈니스 모든 분야에서 새로운 시점이나 가치가 필요할 때 효과적이다. \n\n편집 사고를 통해 아이디어를 비즈니스로 바꾸는 인사이트\n\n챕터 1에서는 디자인 사고, 논리적 사고와는 다른 편집 사고의 효과와 필요성 등을 소개하며 편집 사고를 이야기한다. 챕터 2~4는 편집 사고의 5단계 과정과 5가지 기본 기법을 다양한 사례와 함께 설명하고, 편집 사고의 기본이자 핵심이 되는 아이디어 창출 방법과 그 아이디어로 브랜딩 및 서비스 개발 등의 비즈니스 전략을 수립하는 과정을 보여준다. 마지막으로 편집 사고를 통해 신규 브랜드 및 서비스 개발에 성공한 편집인과의 인터뷰를 담았다. \n브랜드 가치를 높이고자 하는 브랜드 기획자와 운영자, 마케터, 컨설턴트, 영업자 그리고 디자이너들에게 필요한 비즈니스의 각종 문제를 해결할 수 있는 새로운 아이디어 체계로 가득한 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20211110",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "지은이: 노구치 타카히토 ;옮긴이: 김희성",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/28/9788931557565.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "186 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931557565",
+                "INPUT_DATE": "20210928",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "싱크 에디트",
+                "PUBLISH_PREDATE": "20210916",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

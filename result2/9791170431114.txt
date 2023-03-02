@@ -1,0 +1,67 @@
+{
+    "otitle": "훈련이 잘못됐습니다",
+    "oauthor": "알렉스 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "훈련이 잘못됐습니다 (반려견의 감정을 읽는 홈 트레이닝)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482815416",
+                "image": "https://shopping-phinf.pstatic.net/main_3248281/32482815416.20221228073815.jpg",
+                "author": "알렉스",
+                "discount": "14690",
+                "publisher": "페이스메이커",
+                "pubdate": "20200803",
+                "isbn": "9791170431114",
+                "description": "칭찬은 개도 춤추게 한다!\n반려견 행동 전문가가 알려주는 트레이닝의 모든 것\n\n많은 보호자들이 ‘이 세상에 천사가 있다면 우리 강아지가 아닐까?’ 생각하지만, 그 사랑스러운 반려견이 사고를 칠 때면 머리가 아파온다. 인터넷으로 문제행동을 해결할 방법을 찾아보지만 단편적인 정보밖에 없어 답답하기만 하다. 체계적이고 구체적인 정보에 목마른 보호자들을 위해, 전 세계를 누비며 반려견 트레이닝과 보호자 및 종사자 교육에 전념해온 저자가 트레이닝의 모든 것을 알려주는 책이 나왔다. 반려견 트레이닝을 시작하기 전에 알아야 할 기초 원리부터 서열에 대한 오해, 개의 소통 방식과 감정신호 읽는 법, 보상을 통해 원하는 행동을 강화하는 긍정 강화 트레이닝까지 체계적으로 정리했다. 특히 많은 보호자들이 궁금해하는 크레이트 교육, 매너 있게 산책하기 등은 동영상 QR코드를 수록해 이해를 돕는다. 이 책을 읽고 반려견을 꾸준히 교육해, 반려견과의 탄탄한 신뢰를 쌓고 행복한 반려 생활을 이어나가길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Pace Maker(페이스메이커)",
+                "DDC": "",
+                "UPDATE_DATE": "20200818",
+                "EA_ADD_CODE": "13490",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "알렉스 지음",
+                "SERIES_TITLE": "",
+                "KDC": "527.4186",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "165*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "286 p.",
+                "CONTROL_NO": "CIP2020027453",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170431114",
+                "INPUT_DATE": "20200701",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "훈련이 잘못됐습니다",
+                "PUBLISH_PREDATE": "20200803",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

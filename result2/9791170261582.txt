@@ -1,0 +1,78 @@
+{
+    "otitle": "열두 살, 나의 첫 사춘기",
+    "oauthor": "차승민 글",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:39 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "열두 살, 나의 첫 사춘기 (이제 다 안다고 생각하지만 사실 잘 모르겠는 사춘기 어린이와의 공감대화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464267109",
+                "image": "https://shopping-phinf.pstatic.net/main_3246426/32464267109.20230214162405.jpg",
+                "author": "차승민",
+                "discount": "10800",
+                "publisher": "팜파스",
+                "pubdate": "20170424",
+                "isbn": "9791170261582",
+                "description": "중고등학생이 되어서야 찾아온다고 생각했던 사춘기는 이제 옛말이 된지 오래입니다. ‘미운 5학년’으로 불릴 만큼 초등학생들에게 일찍이 찾아온 사춘기는 그냥 웃어넘길 수준이 아닙니다. 빨리 찾아오는 몸의 변화뿐만 아니라 일찍부터 접하게 되는 다양한 정보들, 학업에 대한 스트레스까지, 아이들이 짊어져야 할 삶의 무게가 만만치 않습니다. 버거운 마음에 극단적인 선택을 하는 초등학생들도 생겨나는 안타까운 현실입니다. \n\n힘든 아이들의 이야기를 제대로 들어줄 사람이 있었다면 이른 사춘기를 겪는 아이들이 조금은 기운을 낼 수 있을 것입니다. 하지만 그저 어린 아이들의 투정이나 불만으로 여기고 귀담아 듣지 않는 어른들이 많습니다. 그런 어른들을 알기에 아이들 역시 자신의 속마음을 잘 털어놓지 않죠. 이에 오랜 시간 아이들의 가까운 곁에서 함께 생활하며 이야기를 나눠 온 교사인 저자는 사춘기를 겪고 있는 아이들에게 도움이 될 이야기들을 꾸려냈습니다. \n\n요즘 아이들이 겪고 있는 현실적인 고민들을 나, 친구, 공부, 부모님이라는 큰 주제로 나누어 직접 대화를 나누듯이 들어주고 공감해줍니다. 혼란스러운 마음을 보듬어주면서 스스로 극복해나가는 방법도 알려줍니다. 아이들의 눈높이에서 대화 하는 것에 익숙하지 않은 부모님 또는 대화를 나누고 싶은 사춘기 어린이들 모두에게 좋은 마음 다독임이 되어줄 것입니다."
+            },
+            {
+                "title": "2021 사고력을 키워주는 초등5학년 교과연계 추천도서 전6권 (세상을 따뜻하게 만드는 착한 디자인 이야기, 열두 살, 나의 첫 사춘기, 꼭 착한 아이가 되어야 해?, 오늘은 어린이날!, 앉은뱅이밀 지구탐사대, 내 이름은 3번 시다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466669847",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466669847.20220519220311.jpg",
+                "author": "",
+                "discount": "0",
+                "publisher": "팜파스",
+                "pubdate": "20081020",
+                "isbn": "6000357020",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20170518",
+                "EA_ADD_CODE": "73190",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "차승민",
+                "SERIES_TITLE": "",
+                "KDC": "199",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6194188_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6194188_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "184",
+                "CONTROL_NO": "CIP2017008667",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170261582",
+                "INPUT_DATE": "20170405",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "열두 살, 나의 첫 사춘기",
+                "PUBLISH_PREDATE": "20170424",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

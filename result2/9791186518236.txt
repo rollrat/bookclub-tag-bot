@@ -1,0 +1,67 @@
+{
+    "otitle": "공무원 기획력",
+    "oauthor": "심제천 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공무원 기획력 (‘지방분권시대’를 이끌 인재를 위한 자기계발서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492404624",
+                "image": "https://shopping-phinf.pstatic.net/main_3249240/32492404624.20221230074328.jpg",
+                "author": "심제천",
+                "discount": "13500",
+                "publisher": "갈라북스",
+                "pubdate": "20180516",
+                "isbn": "9791186518236",
+                "description": "지역 경제와 주민 삶을 바꾸는 공공 기획의 정석\n\n치열한 경쟁을 뚫고 합격한 공무원. 합격은 끝이 아닌 또 다른 시작이다. 주민을 위해 봉직하는 공무원 업무의 근간에는 ‘기획’이 있다. 지역 경제와 주민들의 삶이 일선 공무원들의 작은 기획으로 좌우될 수 있기 때문이다. 이 책은 지방분권시대 성공적인 공직 생활을 위한 기획 업무 노하우와 공공 기획의 성공 사례를 담고 있다. 특히 ‘밥 먹듯 해야 하는 일’이 기획이지만 ‘무엇을 어떻게 해야 할지 막연한 두려움’을 가지고 있거나 ‘좋은 기획’을 갈망하는 공무원들에게 도움을 주고자 집필된 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20180531",
+                "EA_ADD_CODE": "03350",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "심제천 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6651148_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6651148_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6651148_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "317 p.",
+                "CONTROL_NO": "CIP2018013686",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518236",
+                "INPUT_DATE": "20180501",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "공무원 기획력",
+                "PUBLISH_PREDATE": "20180601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

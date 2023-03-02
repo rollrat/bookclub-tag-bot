@@ -1,0 +1,67 @@
+{
+    "otitle": "네이버에서 스타셀러되기",
+    "oauthor": "정일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "네이버에서 스타셀러 되기 (작은 회사를 위한 네이버쇼핑 활용 비법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32469138651",
+                "image": "https://shopping-phinf.pstatic.net/main_3246913/32469138651.20221231084102.jpg",
+                "author": "정일",
+                "discount": "18000",
+                "publisher": "끌리는책",
+                "pubdate": "20180424",
+                "isbn": "9791187059349",
+                "description": "작은 가구회사의 고군분투 성장기지만 단순한 성공담은 아니다. 대기업 하청 공방으로 시작해서 폐업 직전까지 갔다가 세상에 어떻게 제품을 알리고, 고객과 소통하고, 어떻게 고객의 신뢰를 얻었는지 구체적인 방법을 담았다.\n\n\n\n저자인 에그스타 정일 대표는 불과 몇 년 전까지만 해도 낮에는 가구를 직접 디자인해서 제작하고, 밤에는 홈페이지를 만들고, 블로그에 글을 올리고 있었다. 제2금융권은 물론 카드론과 사채까지 쓰면서도 좋은 재료를 찾아 헤매고, 거래처를 쫓아다니며 회사를 살리려고 발버둥치고 있었다. 그러다가 미국 출장에서 우연히 본 스탠드 책상을 개발했지만 아무도 관심을 갖지 않아 창고에 고스란히 재고로 쌓여 있었다. \n\n\n\n그러던 어느 날, 한 건강 관련 방송 프로그램에서 스탠드 책상이 척추 건강에 좋다고 소개되면서 주문이 밀려들었다. 당시 국내에 스탠드 책상은 에그스타가 만든 게 유일했기 때문이다. 그때부터 에그스타는 성장의 발판을 마련하기 시작했다.\n\n\n\n이후 네이버쇼핑에 입점했고, 얼마 지나지 않아 멀바우식탁을 개발했다. 다루기 까다로워 대기업은 물론이고 작은 공방들도 관심조차 갖지 않았던 멀바우 나무를 소재로 만들었다. 에그스타의 멀바우식탁은 가구업계를 놀라게 할 만큼 대히트를 쳤다. 그 이후에도 에그스타는 끊임없이 새로운 제품을 개발하고, 고객들과 다양한 채널로 소통하면서 성장을 거듭하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "끌리는책",
+                "DDC": "658.872",
+                "UPDATE_DATE": "20180529",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정일 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.555",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6590221_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "302 p.",
+                "CONTROL_NO": "CIP2018008205",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187059349",
+                "INPUT_DATE": "20180312",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "네이버에서 스타셀러 되기",
+                "PUBLISH_PREDATE": "20180424",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

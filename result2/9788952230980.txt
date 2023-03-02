@@ -1,0 +1,67 @@
+{
+    "otitle": "투덜투덜 그림일기",
+    "oauthor": "박현숙 글/황하석 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "투덜투덜 그림일기",
+                "link": "https://search.shopping.naver.com/book/catalog/32473331693",
+                "image": "https://shopping-phinf.pstatic.net/main_3247333/32473331693.20221019152049.jpg",
+                "author": "박현숙",
+                "discount": "9000",
+                "publisher": "살림어린이",
+                "pubdate": "20150320",
+                "isbn": "9788952230980",
+                "description": "『투덜투덜 그림일기』는 재미있는 사건을 통해 그림일기를 어떻게 하면 잘 쓸 수 있는지를 알려줍니다. 그림일기장을 펴놓고 ‘나는’ ‘오늘’만 써놓고는 어쩔 줄 모르는 아이들에게 쉽고 정확하게 일기 쓰는 법에 대해 가르쳐줍니다. 기와도깨비와 아이들의 그림일기를 통해 좀 더 잘 표현하는 글쓰기에 대해 자연스럽게 알게 되지요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20150325",
+                "EA_ADD_CODE": "74800",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "박현숙 글, 황하석 그림",
+                "SERIES_TITLE": "",
+                "KDC": "375.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788952230966",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4383970_3.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4383970_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015005177",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952230980",
+                "INPUT_DATE": "20150212",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "투덜투덜 그림일기",
+                "PUBLISH_PREDATE": "20150320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

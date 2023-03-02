@@ -1,0 +1,67 @@
+{
+    "otitle": "좋은 운을 부르는 방법",
+    "oauthor": "난경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋은 운을 부르는 방법 (내 인생 술~ 술~ 풀리게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494078766",
+                "image": "https://shopping-phinf.pstatic.net/main_3249407/32494078766.20221229074231.jpg",
+                "author": "난경",
+                "discount": "12420",
+                "publisher": "갈라북스",
+                "pubdate": "20190527",
+                "isbn": "9791186518342",
+                "description": "사주명리학의 기초부터 활용 방법까지 쉽게 읽힐 수 있도록 구성된 책이다. 특히 누구나 자신의 사주팔자를 해석할 줄 알면 ‘나쁜 운’은 예방하고 ‘좋은 운’에는 최대한 가까이 갈 수 있다는 점을 강조하고 있다. 기초 이론부터 전문가들의 노하우와 다양한 실제 사례가 담겨 있어 흥미 있게 사주명리학을 익힐 수 있는 게 특징이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190527",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "지은이: 난경",
+                "SERIES_TITLE": "",
+                "KDC": "188.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/01/9791186518342.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "293 p.",
+                "CONTROL_NO": "CIP2019017351",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518342",
+                "INPUT_DATE": "20190501",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "좋은 운을 부르는 방법",
+                "PUBLISH_PREDATE": "20190527",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

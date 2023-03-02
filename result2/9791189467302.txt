@@ -1,0 +1,67 @@
+{
+    "otitle": "모국어는 차라리 침묵",
+    "oauthor": "목정원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모국어는 차라리 침묵 (목정원 산문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487185532",
+                "image": "https://shopping-phinf.pstatic.net/main_3248718/32487185532.20230216071255.jpg",
+                "author": "목정원",
+                "discount": "16080",
+                "publisher": "아침달",
+                "pubdate": "20211015",
+                "isbn": "9791189467302",
+                "description": "공연예술이론가 목정원의 산문집. 목정원이 2013년부터 프랑스에서 6년, 한국에서 2년 동안 마주했던 예술과 사람, 여러 사라지는 것들에 관하여 쓴 책이다. 목정원은 사라지는 것에 관해 말하고자 하며, 오히려 자신에게조차 작품이 충분히 희미해졌을 때에 쓰고자 한다. 한 시절이 지난 뒤에도 여전히 기억 속에 남은 흔적들과, 말이 되지 못한 것들을 건네주기 위하여. 이 책은 그러한 슬프고 아름다운 것들에 보내는 비평이자 편지이다.\n\n\n\n시간예술의 특징은 사라짐에 있다. 회화와 같은 공간예술이 한번 완성되면 파괴되지 않는 한 공간 속에 지속적으로 존재하는 것과 달리, 연극과 같은 시간예술은 얼마간 시공간 속에 발생했다가 사라진다. 나타났다가 사라지는 것이라면 시간예술뿐이 아니다. 인간의 생 또한 한 편의 공연처럼 세상에 머물렀다가 시간 속으로 흘러간다. 그것들은 모두 인간의 기억 속에서 점점 희미해지지만, 그 와중에 어떤 흔적을 남기기도 한다. 물론 흔적이 남는 것과 존재가 남는 것은 다른 일이기에, 이 모두에는 근본적으로 슬픔이 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아침달",
+                "DDC": "",
+                "UPDATE_DATE": "20211026",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 목정원",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/09/9791189467302.jpg",
+                "PRE_PRICE": "18600",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "187 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189467302",
+                "INPUT_DATE": "20210909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "모국어는 차라리 침묵",
+                "PUBLISH_PREDATE": "20211015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

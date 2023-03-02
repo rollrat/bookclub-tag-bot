@@ -1,0 +1,67 @@
+{
+    "otitle": "누구나 탐내는 실전 보고서",
+    "oauthor": "이윤석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "누구나 탐내는 실전 보고서 (기획 및 보고서 작성 노하우에서 구두보고, 프레젠테이션 실전 기법까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505936782",
+                "image": "https://shopping-phinf.pstatic.net/main_3250593/32505936782.20221019134407.jpg",
+                "author": "이윤석",
+                "discount": "15300",
+                "publisher": "아틀라스북스",
+                "pubdate": "20160715",
+                "isbn": "9791195069675",
+                "description": "『누구나 탐내는 실전 보고서』는 ‘기획력’과 보고서 작성을 포함한 ‘보고력’을 키워주는 책이다. 저자는 단언컨대 ‘보고는 비즈니스의 종합예술’이라고 강조한다. 완벽한 보고를 위해서는 기획력을 바탕으로 한 내용과 콘셉트, 그것들을 효과적으로 받쳐줄 보고서의 틀, 보고서의 효과를 극대화하는 최강의 보고법(또는 프레젠테이션)이 3단 콤보로 궁합을 맞춰야 한다는 의미다. 그래서 이 책은 보고와 관련된 업무의 흐름을 크게 ‘기획’, ‘각종 보고서 작성법’, ‘실전 보고법’ 등 3개의 파트로 나누고, 각 파트별로 기본지식과 실전 노하우는 물론, 업무현장에서 바로 써먹을 수 있는 다양한 예시와 실무 팁들을 꾹꾹 눌러 담아 제시하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아틀라스북스",
+                "DDC": "651.78",
+                "UPDATE_DATE": "20171106",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이윤석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.484",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5567012_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5567012_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5567012_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "381 p.",
+                "CONTROL_NO": "CIP2016015649",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195069675",
+                "INPUT_DATE": "20160623",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(누구나 탐내는) 실전 보고서",
+                "PUBLISH_PREDATE": "20160715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

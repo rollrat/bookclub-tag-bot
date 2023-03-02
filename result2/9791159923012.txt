@@ -1,0 +1,67 @@
+{
+    "otitle": "친구의 부름",
+    "oauthor": "최재훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "친구의 부름",
+                "link": "https://search.shopping.naver.com/book/catalog/32455613862",
+                "image": "https://shopping-phinf.pstatic.net/main_3245561/32455613862.20221019145602.jpg",
+                "author": "최재훈",
+                "discount": "10800",
+                "publisher": "알마",
+                "pubdate": "20200530",
+                "isbn": "9791159923012",
+                "description": "러브크래프트를 통해 2020년 오늘의 공포와 경이를 보다\n크툴루의 세계로 연결되는 기이하고 압도적인 조형의 공간들\n\n한국의 대표 SF 작가들이\n오마주와 전복으로 다시 창조하는 \nH. P. 러브크래프트의 세계\n\n김보영, 김성일, 박성환, 송경아, 은림, 이서영, 이수현, 홍지운 그리고 최재훈\n9인의 작가가 호러문학의 거장 러브크래프트의 세계관을 오마주하며\n2020년 우리의 현실 속 공포와 경이를 그려냅니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "알마",
+                "DDC": "",
+                "UPDATE_DATE": "20200623",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 최재훈",
+                "SERIES_TITLE": "FoP",
+                "KDC": "810",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791159922466",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "114*189",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "102 p.",
+                "CONTROL_NO": "CIP2020014745",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159923012",
+                "INPUT_DATE": "20200409",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "친구의 부름",
+                "PUBLISH_PREDATE": "20200530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

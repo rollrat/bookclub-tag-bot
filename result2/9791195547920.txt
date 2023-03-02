@@ -1,0 +1,67 @@
+{
+    "otitle": "강아지와 나의 10가지 약속",
+    "oauthor": "사이토 아카리 저/박현아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "강아지와 나의 10가지 약속",
+                "link": "https://search.shopping.naver.com/book/catalog/32436269087",
+                "image": "https://shopping-phinf.pstatic.net/main_3243626/32436269087.20221019142438.jpg",
+                "author": "사이토 아카리",
+                "discount": "11700",
+                "publisher": "슬로디미디어",
+                "pubdate": "20160729",
+                "isbn": "9791195547920",
+                "description": "사이토 아카리 소설『강아지와 나의 10가지 약속』. 항상 병원 일에만 열중하는 아빠와 아픈 엄마와 사는 아카리는 하굣길 바닷가에서 만난 귀여운 강아지를 키우고 싶지만 부모님은 반대하신다. 그러던 어느 날 엄마가 쓰러져 입원을 하고, 아카리는 학교에서 돌아와도 반기는 사람이 없는 집에 혼자 있는 날이 많아진다. 엄마가 다시 집에 오게 된 날, 아카리는 강아지를 키워도 된다는 허락을 받게 된다. 그리고 엄마에게 강아지를 키울 때에는 강아지와 ‘10가지 약속’을 해야 한다는 이야기를 듣는다. 얼마 후 아카리의 엄마는 다시 입원을 하고, 결국 병원에서 숨을 거둔다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어",
+                "DDC": "895.635",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "사이토 아카리",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5586358_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5586358_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5586358_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "208",
+                "CONTROL_NO": "CIP2016016317",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195547920",
+                "INPUT_DATE": "20160703",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "강아지와 나의 10가지 약속",
+                "PUBLISH_PREDATE": "20160729",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

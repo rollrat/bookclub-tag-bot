@@ -1,0 +1,67 @@
+{
+    "otitle": "비즈니스 커뮤니케이션 (4판)",
+    "oauthor": "이재희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비즈니스 커뮤니케이션 (소통 리더십 개발을 위한, 4판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32475055778",
+                "image": "https://shopping-phinf.pstatic.net/main_3247505/32475055778.20221228074440.jpg",
+                "author": "이재희",
+                "discount": "20520",
+                "publisher": "한올출판사",
+                "pubdate": "20210710",
+                "isbn": "9791166470950",
+                "description": "인간은 다른 사람과의 다양한 관계 속에서 살아간다. 그리고 이러한 인간관계는 커뮤니케이션, 즉 소통을 매개로 하여 이루어진다.\n\n커뮤니케이션은 두 사람 이상의 사람들 사이에서 언어, 비언어 등의 소통 수단을 통하여 자신들이 가지고 있는 생각, 감정, 느낌과 사실, 정보, 의견을 전달하고 피드백을 받으면서 상호 작용하는 과정으로 가정, 학교, 직장과 같은 사회생활 전반에서 개인의 행복을 결정하는 가장 중요한 지혜이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한올출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20210810",
+                "EA_ADD_CODE": "93320",
+                "PUBLISHER_URL": "http://www.hanol.co.kr",
+                "AUTHOR": "지은이: 이재희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "4판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "191*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "370 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166470950",
+                "INPUT_DATE": "20210617",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(소통 리더십 개발을 위한) 비즈니스 커뮤니케이션",
+                "PUBLISH_PREDATE": "20210710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

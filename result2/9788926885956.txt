@@ -1,0 +1,67 @@
+{
+    "otitle": "옷으로 세상 여행",
+    "oauthor": "송명견 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "옷으로 세상 여행",
+                "link": "https://search.shopping.naver.com/book/catalog/32441455003",
+                "image": "https://shopping-phinf.pstatic.net/main_3244145/32441455003.20221228072152.jpg",
+                "author": "송명견",
+                "discount": "13500",
+                "publisher": "이담북스",
+                "pubdate": "20181130",
+                "isbn": "9788926885956",
+                "description": "옷은 우리를 기쁘고 즐겁게도 하고 때론 부담스럽고 곤혹스럽게도 한다. 뿐만 아니라 삶의 전쟁터에서 없어서는 안 될 ‘무기’ 같은 역할을 하기도 한다. 어떤 전쟁을 누구와 어떻게 치를 것이냐에 따라 적절한 무기가 필요한 것처럼 옷도 그렇다. 알맞게 입음으로써 삶의 가치를 극대화시켜 줄 수 있는 이야기다. 시대를 초월하여 상상을 뛰어넘는 위력을 발휘하는 것이다. 이 무기를 현명하게 사용한 위인들이 그 확실한 증거들을 역사 속에 남기고 있다. 이런 보석들을 들추며 나는 말할 수 없는 흥분과 누구도 누리지 못하는 기쁨을 만끽하곤 한다. \n이 책을 통해 그런 힘을 가진 옷으로 세상을 보고 옷의 본질이 무엇인지, 또 그 힘이 얼마나 크고 중요한지를 역설하고자 했다. 나아가 요람에서 무덤에까지 입어야 할 이 옷을 통해서 각자의 삶을 더 풍요롭고 행복하게 하는 데 작은 보탬이 되고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20190117",
+                "EA_ADD_CODE": "03630",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "송명견 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926885956",
+                "INPUT_DATE": "20181210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "옷으로 세상 여행",
+                "PUBLISH_PREDATE": "20181130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

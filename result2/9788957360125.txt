@@ -1,0 +1,67 @@
+{
+    "otitle": "2030 미래 일자리 보고서",
+    "oauthor": "안드레스 오펜하이머 저/손용수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "2030 미래 일자리 보고서 (로봇이 인간 대신 일하는 미래, 무슨 일을 하며 살 것인가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440668936",
+                "image": "https://shopping-phinf.pstatic.net/main_3244066/32440668936.20221228074355.jpg",
+                "author": "안드레스 오펜하이머",
+                "discount": "22500",
+                "publisher": "가나출판사",
+                "pubdate": "20200428",
+                "isbn": "9788957360125",
+                "description": "“지금 당신이 하고 있는 일은 10년 후에도 유효한가?”\n\n2030년. 기자, 금융전문가, 법률가, 의사, 교사, 연예인, 공장 노동자, 서비스직의 80%가 사라지거나 다른 형태가 될 것이다. 선망의 직업 1순위는 사라질 직업 1순위가 되고, ‘한마디로 설명할 수 없는’ 일자리만 살아남는다. “로봇이 인간의 일을 대신 할 것이다. 인간은 창의적인 일만 하게 될 것이다.” ‘2016년, 다보스포럼에서 ‘4차 산업혁명’이 화두가 된 뒤 줄곧 들었던 말이다. 그로부터 5년이 지났지만 아직 변화가 실감나게 와 닿지는 않는다. 인간의 일자리에 변화가 일어나고 있긴 한 걸까? 저자는 ‘매우 그렇다’고 답한다. 이 책은 로봇이 인간의 일을 대신하는 미래 사회의 모습, 일부는 이미 현실이 된 모습을 매우 생생하게 그린다.  \n\n미국에서 활동하는 유명 언론인인 저자는 실리콘밸리의 주요 인물들, 노벨 경제학상 수상자 등과의 인터뷰를 바탕으로 기술 발달의 장점과 단점에 대해 논하며, 결론적으로 정부나 개인이 어떻게 로봇과 공존하는 미래를 준비할 지 대안과 방향성까지 제시한다. 여러 분야의 전문가, 실무자, 사용자들의 방대하며 생생한 인터뷰는 이 책이 그저 ‘미래를 그린 상상화’가 아님을 증명한다. 독자들은 알고 있을까? 이 책의 일부도 로봇이 썼음을!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20200512",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "안드레스 오펜하이머 지음 ;손용수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "321.52",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "510 p.",
+                "CONTROL_NO": "CIP2020011709",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957360125",
+                "INPUT_DATE": "20200318",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "2030 미래 일자리 보고서",
+                "PUBLISH_PREDATE": "20200428",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

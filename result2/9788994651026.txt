@@ -1,0 +1,67 @@
+{
+    "otitle": "고혈압, 약을 버리고 밥을 바꿔라",
+    "oauthor": "황성수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고혈압 약을 버리고 밥을 바꿔라 (황성수 박사의 밥상 개혁 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485940499",
+                "image": "https://shopping-phinf.pstatic.net/main_3248594/32485940499.20221228071734.jpg",
+                "author": "황성수",
+                "discount": "13050",
+                "publisher": "페가수스",
+                "pubdate": "20110510",
+                "isbn": "9788994651026",
+                "description": "황성수 박사의 밥상 개혁 프로젝트『고혈압 약을 버리고 밥을 바꿔라』.‘고혈압 천만 명 시대’라는 얘기가 오갈만큼 고혈압으로 고통 받는 사람들이 많다. 그러나 현대의학은 고혈압의 원인조차 명확히 규명하지 못한 채, 일시적으로 증상을 완화하는 약물에만 의존하고 있는 실정이다. 황성수 박사는 고혈압은 건강한 생활습관을 통해 변화시킬 수 있다고 말하면서, 이 책에 고혈압의 원인부터 식습관을 위한 해답을 제시하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "페가수스,",
+                "DDC": "616.132",
+                "UPDATE_DATE": "20170613",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황성수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "513.142",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2474372_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2474372_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2011001635",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994651026",
+                "INPUT_DATE": "20110413",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(고혈압, 약을 버리고) 밥을 바꿔라 ",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

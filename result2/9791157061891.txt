@@ -1,0 +1,78 @@
+{
+    "otitle": "힘의 역전",
+    "oauthor": "정혜승,최재천,홍성국,천관율,이수정,류영재,김경수,이나리,신수정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:33 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "힘의 역전 (Turn the power around)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455540858",
+                "image": "https://shopping-phinf.pstatic.net/main_3245554/32455540858.20230207163132.jpg",
+                "author": "성용구^최재천^홍성국^천관율",
+                "discount": "13830",
+                "publisher": "메디치미디어",
+                "pubdate": "20200130",
+                "isbn": "9791157061891",
+                "description": "미래는 꿈꾸는 대로 바뀔 수 있는 것일까, 우리는 과연 괜찮은 걸까\n\n2020년 1월 30일 메디치미디어는 제 1회 〈메디치포럼〉에 참여한 정혜승, 최재천, 홍성국, 천관율, 이수정, 류영재, 김경수, 이나리, 신수정의 발표와 인터뷰 이야기를 엮어 『힘의 역전』을 출판했다. 이 책은 메디치미디어에서 기획 진행한 메디치포럼을 좀 더 깊이 있게 보강 정리하여, 포럼에 참석하지 못한 더 많은 이들과 함께 나누고자 하는 시도이다. 전자책의 경우 8가지 주제를 구분하여 주제별 인물의 인사이트에 집중해보고자 했다."
+            },
+            {
+                "title": "힘의 역전 2: 달라진 세계 (달라진 세계)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445093666",
+                "image": "https://shopping-phinf.pstatic.net/main_3244509/32445093666.20221229070936.jpg",
+                "author": "정혜승^문정인^다니엘 튜더^김세연^유명희^김동환^민금채^이원재",
+                "discount": "14400",
+                "publisher": "메디치미디어",
+                "pubdate": "20200910",
+                "isbn": "9791157062119",
+                "description": "더 강력한 대격변이 시작됐다\n\n2020년 코로나 19라는 초유의 사태로, 일찍이 경험해 보지 못한 일들이 잇달아 일어나고 있다. 모든 것이 그 이전과는 다른, 우리가 경험해보지 못한 '달라진 세계'에 대한 전망과 담론장이 폭발하고 있다. 하지만 그런 담론의 범람 속에서 고민의 ‘방향’을 함께 질문하려는 시도가 드문 것이 사실이다.\n메디치미디어는 2020년 6월에 제2회 '메디치포럼-힘의 역전2, 달라진 세계'를 개최하여 세상의 변화에 어떻게 적응할 지에 대한 고민을 뛰어넘어, 팬데믹을 어떤 분기점으로 만들 것인가라는 문제를 던진 바 있다. 바야흐로 변화를 향한 의지의 방향을 찾으려는 것이다. \n완전히 달라진 세계에서 우리가 만들어야 할 미래와 우리의 과제는 무엇일까. 각 분야의 '힘의 역전'을 위해 필요한 태도와 전략을 제안하는 문정인, 다니엘 튜더, 김세연, 유명희, 김동환, 민금채, 이원재의 포럼 발표와 인터뷰를 이 책에 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20200213",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정혜승,최재천,천관율,홍성국,이나리,이수정,김경수,류영재,신수정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "340.911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "CIP2020002757",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157061891",
+                "INPUT_DATE": "20200120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "힘의 역전",
+                "PUBLISH_PREDATE": "20200130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

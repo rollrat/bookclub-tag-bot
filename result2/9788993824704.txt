@@ -1,0 +1,67 @@
+{
+    "otitle": "잭 리처의 하드웨이",
+    "oauthor": "리 차일드 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잭 리처의 하드웨이 (리 차일드 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441100965",
+                "image": "https://shopping-phinf.pstatic.net/main_3244110/32441100965.20220527033500.jpg",
+                "author": "리 차일드",
+                "discount": "0",
+                "publisher": "오픈하우스",
+                "pubdate": "20120831",
+                "isbn": "9788993824704",
+                "description": "고독한 영웅 잭 리처, 미궁 속 사건을 파헤치다!\n\n미궁의 납치 사건을 그린 하드보일드 액션 스릴러 『잭 리처의 하드웨이』. 전직 헌병 출신으로 주소도, 가족도, 휴대전화도 없이 재즈의 선율을 따라 미국 전역을 방랑하는 고독한 영웅 잭 리처의 활약을 그린 「잭 리처 시리즈」의 하나이다. 카페에서 우연히 창밖의 납치 사건을 목격한 잭 리처. 백화점에 쇼핑을 하러 나갔다가 납치된 모녀는 민간 군사조직의 보스 에드워드 레인의 부인과 딸로, 레인은 잭 리처에게 사건 해결을 의뢰한다. 5년 전에도 레인의 첫 번째 아내가 납치 후 살해된 사실을 알게 된 잭 리처는 두 사건 사이에 모종의 관계가 있음을 직감하고, 전직 FBI 요원이자 사립탐정인 로런 폴링과 함께 사건을 파헤치는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "오픈하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20120921",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 리 차일드 ;옮긴이: 전미영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993824704",
+                "INPUT_DATE": "20120903",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "(잭 리처의) 하드웨이 ",
+                "PUBLISH_PREDATE": "20120831",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

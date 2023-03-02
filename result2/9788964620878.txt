@@ -1,0 +1,67 @@
+{
+    "otitle": "야밤의 공대생 만화",
+    "oauthor": "맹기완 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "야밤의 공대생 만화",
+                "link": "https://search.shopping.naver.com/book/catalog/32466680815",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466680815.20230218110637.jpg",
+                "author": "맹기완",
+                "discount": "14400",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20170707",
+                "isbn": "9788964620878",
+                "description": "이름도 몰랐던 과학자들이 친근해지는 진짜 과학-만화책!\n\n재미와 과학, 둘 다 놓치지 않으려는 노력의 산물『야밤의 공대생 만화』. 자라나는 새싹들에게 ‘노잼’ 과학만화를 읽혀서 어린 시절부터 트라우마를 겪고 ‘과알못’의 길을 걷지 않도록, 서울대 공대생이 직접 구상하고 글과 그림까지 혼자 그린 책이다. 복학 직전에 서울대 커뮤니티 사이트 ‘스누라이프’에 트랜지스터의 발명자에 대한 에피소드를 올린 것을 시작으로 페이스북과 카카오플러스친구, 딴지일보에서 1년 반 동안 연재하며 인기 만화로 자리 잡았고, 책으로 읽고 싶다는 독자들의 바람에 힘입어 연재분 29편을 수정·보완하여 출간했다.\n\n유명 과학자부터 조금은 생소한 과학자까지, 고등학교 때 배우는 미적분부터 알파고까지, 과학사의 중요한 인물과 사건을 시시콜콜 나열하거나 무리해서 어려운 과학을 설명하려 하기보다, 원리와 의미를 짧고 깔끔하게 설명하면서도 재미있게 읽고 핵심을 이해하며 넘어갈 수 있도록 구성했다. 인터넷 유머와 센스 넘치는 패러디로 전달하면서 이름만 알았던 과학자들의 새로운 인간미를 접할 수 있게 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "500",
+                "UPDATE_DATE": "20170719",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "지은이: 맹기완",
+                "SERIES_TITLE": "",
+                "KDC": "400",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6255510_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6255510_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "388 p.",
+                "CONTROL_NO": "CIP2017014810",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964620878",
+                "INPUT_DATE": "20170621",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "야밤의 공대생 만화",
+                "PUBLISH_PREDATE": "20170707",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

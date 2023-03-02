@@ -1,0 +1,67 @@
+{
+    "otitle": "김형석의 인생문답",
+    "oauthor": "김형석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "김형석의 인생문답 (100명의 질문에 100년의 지혜로 답하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486454814",
+                "image": "https://shopping-phinf.pstatic.net/main_3248645/32486454814.20230216070939.jpg",
+                "author": "김형석",
+                "discount": "13830",
+                "publisher": "미류책방",
+                "pubdate": "20220203",
+                "isbn": "9791188632039",
+                "description": "인생의 길목에서 누구나 맞닥뜨리는 질문에 대한 다정한 대답\n\n‘영원한 현역’ 김형석 교수가 인생에서 맞닥뜨리는 질문 31가지에 대해 답하는 형식의 글이다. 20~60대 일반인 100명에게 궁금한 점을 받아 공통된 질문 31가지를 추리고 노철학자의 답변을 녹취해 육성을 최대한 살려 기록했다. \n\n살아보니까 알게 되는 것일까? 31개의 답변 안에는 한 세기를 살아온 삶의 지혜가 오롯이 담겨 있다. 답변 하나하나가 마치 반짝반짝 빛나는 별들과 같다. 그렇다고 어떤 정답을 강요하진 않는다. “내가 살아봤더니 이렇던데, 여러분도 그렇게 한번 살아보면 어떨까요?”라고 다정한 어투로 권할 뿐이다. 반짝반짝 빛나는 그 점들을 이어가며 우리는 어쩌면 인생의 사막을 건너갈 수도 있지 않을까, 하는 희망을 품게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미류책방 :교학사",
+                "DDC": "",
+                "UPDATE_DATE": "20220222",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.kyohak.co.kr",
+                "AUTHOR": "지은이: 김형석",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/01/14/9791188632039.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "219 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188632039",
+                "INPUT_DATE": "20220114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "김형석의 인생문답",
+                "PUBLISH_PREDATE": "20220203",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

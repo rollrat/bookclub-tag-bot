@@ -1,0 +1,78 @@
+{
+    "otitle": "파리의 맛",
+    "oauthor": "뤽 후너트 저/크리스 브레겔스 사진/신예희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:44 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "파리의 맛 (파리지엥도 반길 최고의 맛집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472710885",
+                "image": "https://shopping-phinf.pstatic.net/main_3247271/32472710885.20230226071231.jpg",
+                "author": "뤽 후너트",
+                "discount": "17100",
+                "publisher": "이덴슬리벨",
+                "pubdate": "20200910",
+                "isbn": "9791188053933",
+                "description": "햇살 좋은 어느 날, 내가 앉아 있는 이 자리가 오래전 헤밍웨이가 앉아서 글을 쓰던 역사적인 그 자리일 수도 있는 법. 《맛있다 파리!》는 파리에서 반드시 먹어야 하는 맛집을 소개한다. 음식점마다 꼭 먹어야 할 대표음식도 꼽아두었다. 《맛있다 뉴욕!》에 이은 MUST-EAT 두 번째 시리즈인 이 책에는 맛집 핫플레이스와 오로지 파리만이 보여줄 수 있는 풍성하고 깊은 이야기를 가진 레스토랑이 등장한다. \n\n\n\n누구라도 맛보고 싶어질 먹음직스러운 콜리플라워 통구이와 정통 프렌치 가정식이 있는가 하면, 평생을 남이 해준 요리를 먹다가 인생의 황혼기에 접어들어 요리사의 길로 뛰어든 나이 든 셰프의 레스토랑도 만날 수 있고, 최고의 채소 요리를 위해 직접 밭을 갈아 재배하는 이의 요리도 만날 수 있다. 종류도 가격도 맛도 각기 다르지만 모두 셰프의 영혼이 담긴 요리와 장소라는 공통점이 있다."
+            },
+            {
+                "title": "카페 파리 (맛과 스타일이 살아있는 파리의 진짜 카페를 만나다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466642618",
+                "image": "https://shopping-phinf.pstatic.net/main_3246664/32466642618.20221019123625.jpg",
+                "author": "권희경",
+                "discount": "7200",
+                "publisher": "북웨이",
+                "pubdate": "20110905",
+                "isbn": "9788994291154",
+                "description": "맛과 스타일이 살아있는 파리의 진짜 카페를 만나다!\n\n맛과 스타일이 살아있는 좋은 카페를 소개하는 「enjoy cafe」 시리즈 『카페 파리』. 광고카피라이터로 활동 하던 중 2007년 프랑스 파리로 건너가 패션칼럼니스트로 활동한 프리랜서 작가 권희경의 파리 카페 가이드북이다. 멋과 낭만이 살아 숨쉬는 파리 카페 33곳을 흥미로운 이야기를 통해 소개하고 있다. 예술가에게는 창작가 활동 장소로 이용되는 파리 카페를 간접적으로나마 느껴보도록 다양한 사진을 실었다. 프랑스 역사뿐 아니라, 예술과 문화가 고스란히 스며든 파리 카페만의 매력에 푹 빠지게 될 것이다. 상세한 지도와 정보, 그리고 메뉴도 수록되어 있어 파리로의 여행을 꿈꾸는 사람들을 유혹한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이덴슬리벨 :비전비엔피",
+                "DDC": "",
+                "UPDATE_DATE": "20201105",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "뤽 후너트 지음 ;크리스 블레겔스 사진 ;신예희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "594.019",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "399 p.",
+                "CONTROL_NO": "CIP2020036070",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188053933",
+                "INPUT_DATE": "20200826",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "파리의 맛",
+                "PUBLISH_PREDATE": "20200910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

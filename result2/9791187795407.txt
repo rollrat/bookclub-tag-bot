@@ -1,0 +1,67 @@
+{
+    "otitle": "비즈니스 여행 코스 가이드북",
+    "oauthor": "김충식 저, 사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비즈니스 여행 코스 가이드북 (바쁜 비즈니스맨을 위한 맞춤형 여행 가이드북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32453156373",
+                "image": "https://shopping-phinf.pstatic.net/main_3245315/32453156373.20221019114107.jpg",
+                "author": "김충식",
+                "discount": "10800",
+                "publisher": "상상출판",
+                "pubdate": "20171002",
+                "isbn": "9791187795407",
+                "description": "비즈니스 출장자들을 위한 여행 가이드북\n\n비즈니스 주요 지역의 매력과 특성을 살린 여행 코스를 소개하고 국제전시장 가는 길, 맛집, 쇼핑 스폿, 비즈니스 팁 공개한다. 비즈니스맨의 동선과 시간을 고려한 효율적인 관광코스를 제안한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "915.04",
+                "UPDATE_DATE": "20171018",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김충식 지음",
+                "SERIES_TITLE": "",
+                "KDC": "981.02",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6359233_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6359233_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "CIP2017024049",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187795407",
+                "INPUT_DATE": "20170913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "비즈니스 여행 코스 가이드북",
+                "PUBLISH_PREDATE": "20171002",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

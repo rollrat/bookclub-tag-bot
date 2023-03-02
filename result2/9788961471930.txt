@@ -1,0 +1,67 @@
+{
+    "otitle": "낯익은 시 낯설게 읽기",
+    "oauthor": "오성호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "낯익은 시 낯설게 읽기 (주요한에서 김수영까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466877655",
+                "image": "https://shopping-phinf.pstatic.net/main_3246687/32466877655.20221019124600.jpg",
+                "author": "오성호",
+                "discount": "15300",
+                "publisher": "이학사",
+                "pubdate": "20140920",
+                "isbn": "9788961471930",
+                "description": "시를 푸는 단 하나의 열쇠를 거부하는 ‘즐거운 반란’이 시작된다!\n\n오랫동안 시들에 대한 특정 해석들은 자명한 것으로 받아들여져 왔다. 『낯익은 시 낯설게 읽기』의 저자는 그동안 강단에 서오면서 가져온 우리의 시 교육에 대한 불만을 가감 없이 풀어놓는다. 그리고 이렇게 특정한 해석에 독점적인 권위를 부여하고 수많은 독자의 체험을 하나의 틀 안에 가두는 방식에 반대해야 한다고 강조하며, 정형화된 틀에 갇혀 있는 우리 문학사의 정전들에 새로운 해석을 내놓는다.\n\n저자는 근대 초기 청년들의 고뇌를 보여주는 주요한의 《불노리》, 기억의 마술과 고향의 심미화를 여실히 보여주는 정지용의 《향수》, 근대 지식인들의 고뇌를 고려하지 않고서는 충분히 이해할 수 없는 김기림의 《바다와 나비》 등 정전으로 간주되는 우리 문학사의 대표적인 시들을 불러낸다. 각 시의 배경이 되는 시대상과 시인들에 대한 이야기를 함께 들려주고 우리 문학사를 종횡으로 누비며 책에 재미를 더한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)이학사",
+                "DDC": "895.71009",
+                "UPDATE_DATE": "20141016",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오성호",
+                "SERIES_TITLE": "",
+                "KDC": "811.609",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3961637_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3961637_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014025961",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961471930",
+                "INPUT_DATE": "20140901",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "낯익은 시 낯설게 읽기: 주요한에서 김수영까지",
+                "PUBLISH_PREDATE": "20140920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

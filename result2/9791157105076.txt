@@ -1,0 +1,67 @@
+{
+    "otitle": "잔화요란",
+    "oauthor": "오카베 에츠 저/최나연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잔화요란",
+                "link": "https://search.shopping.naver.com/book/catalog/32438293632",
+                "image": "https://shopping-phinf.pstatic.net/main_3243829/32438293632.20220527031541.jpg",
+                "author": "오카베 에츠",
+                "discount": "11520",
+                "publisher": "소미미디어",
+                "pubdate": "20161201",
+                "isbn": "9791157105076",
+                "description": "일본 TBS 방영, 화제의 드라마 〈아름다운 함정-잔화요란〉 원작 소설『잔화요란』. 마음을 감추고 살아가는 여자들의 복잡미묘한 심리가 돋보이는 이 소설은 여자들의 마음에 피어난 욕망, 분노, 시기, 질투, 자존심을 꽃 피우듯 점차 성장해 나가는 모습을 그렸다. 아직 떨어지지 않은 꽃을 뜻하는 잔화, 어우러져 피었다는 뜻인 요란을 합친 잔화요란은 떨어지지 않고 흐드러지게 피는 꽃이라고 할 수 있다. 이 꽃에 비유되는 여자들. 작가는 소설에 다양한 연령대의 그녀들을 앞세워 시들기 직전의 꽃이 가장 아름답다고, 시듦의 과정은 겁낼 것이 아니라고 말하는 듯하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20170310",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오카베 에츠",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "320",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157105076",
+                "INPUT_DATE": "20160901",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아름다운 함정, 잔화요란",
+                "PUBLISH_PREDATE": "20161201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

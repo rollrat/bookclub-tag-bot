@@ -1,0 +1,78 @@
+{
+    "otitle": "과학사의 뒷얘기 Ⅲ 생물학·의학",
+    "oauthor": "섯클리프, A. 외",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:40 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "과학사의 뒷얘기 3: 생물학 의학 (생물학 의학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455539015",
+                "image": "https://shopping-phinf.pstatic.net/main_3245553/32455539015.20221228073712.jpg",
+                "author": "A. 셧클리프^A. P. D. 셧클리프",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190624",
+                "isbn": "9788970448893",
+                "description": "아무도 알려주지 않았던 사이언스 비하인드 히스토리(Behind Science History)\n생물학·의학 이야기!\n\n이 책에서는 재미있는 과학사(科?史)의 이야기들을 과학기술사(科?技術史)의 커다란 흐름에서 파악하고, 종래의 전설들을 여러 참고문헌을 통해서 확실한 자료에 근거를 두고 비판하고 또 잘못을 지적하였다.\n 세 번째 시리즈에서는 ‘인간은 원숭이의 후예인가, 천사의 자손인가?’, ‘마취와 종두는 어떻게 시작되었을까?’ 등 22가지의 생물학 및 의학과 관련된 이야기를 담고 있다. 그 내용은 확실한 자료에 의거하여 틀린 전설과 속설을 바로잡고 정사를 보충하는 역할을 한다. 과학사에 대한 보다 재밌는 이야기로 청소년들에게 과학에 더욱 흥미를 가질 수 있는 계기가 될 것이다."
+            },
+            {
+                "title": "과학사의 뒷얘기 3:생물학.의학(현대과학신서 26) (생물학 의학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466992885",
+                "image": "https://shopping-phinf.pstatic.net/main_3246699/32466992885.20220527022955.jpg",
+                "author": "A.섯클리프 외",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19960130",
+                "isbn": "9788970443263",
+                "description": "이 책은 저자가 교단에서 강의하면서 40년간 이 방면의 방대한 자료를 모아서 사실에 근거를 둔 과학사를 엮어 재미있게 정리한 것이다. 과학에 관한 지식이 부족하거나 과학을 전공하지 않은 사람, 또 현재 과학교육을 받고 있는 사람들에게 과학을 재미있는 읽을거리로 제공해 주면 더욱 과학에 흥미를 느낄 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20200420",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "A. 셧클리프,A. P. D. 셧클리프 ;이병훈,박택규 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "202 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448893",
+                "INPUT_DATE": "20190618",
+                "SET_EXPRESSION": "",
+                "VOL": "3",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학사의 뒷얘기",
+                "PUBLISH_PREDATE": "20190624",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

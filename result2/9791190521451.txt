@@ -1,0 +1,67 @@
+{
+    "otitle": "끝없이 웃는 호랑이",
+    "oauthor": "이윤희 글/윤정주 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "끝없이 웃는 호랑이",
+                "link": "https://search.shopping.naver.com/book/catalog/32451962630",
+                "image": "https://shopping-phinf.pstatic.net/main_3245196/32451962630.20221019131916.jpg",
+                "author": "이윤희",
+                "discount": "11700",
+                "publisher": "하마",
+                "pubdate": "20211205",
+                "isbn": "9791190521451",
+                "description": "옛날 옛적 노래를 잘하고 싶었던 호랑이가 있었다. 이 호랑이는 노래를 잘하기 위해서 흐르는 시냇물, 새들의 알, 여린 풀잎을 뜯어 먹으며 배고픔도 참았다.  숲의 왕이 된다던가  멋진 가죽을 남기는 것이 꿈이었다면 호랑이는 행복했을까? \n쩌렁쩌렁 울리던 울음소리 대신 가냘프고 귀여운 소리를 내며 발성 연습을 하던 호랑이는 조금씩 지쳐 갔다. 이런 호랑이의 노력을 기특하게 여긴 하느님이 호랑이에게 노래의 한 부분이 되는 것은 어떠냐고 제안을 한다. 엉뚱한 꿈이긴 하지만 호랑이는 이른 봄의 시냇물처럼, 햇빛 눈부신 날의 꾀꼬리처럼 노래를 잘하고 싶었던 그 꿈을 이룰 수 있었다. \n\n호랑이가 꿈을 이루기 위해 노력하는 과정은 아이들에게 성장을 일깨워주고 꿈을 성취할 수 있는 방법을 알려줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20220124",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 이윤희 ;그림: 윤정주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[78] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190521451",
+                "INPUT_DATE": "20210818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "끝없이 웃는 호랑이",
+                "PUBLISH_PREDATE": "20211205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

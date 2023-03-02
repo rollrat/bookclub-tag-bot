@@ -1,0 +1,67 @@
+{
+    "otitle": "내 기분은 변화하는 중입니다",
+    "oauthor": "루비 루 저/한나라 역/허휴정 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 기분은 변화하는 중입니다 (두 얼굴의 감정, 조울증 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490363480",
+                "image": "https://shopping-phinf.pstatic.net/main_3249036/32490363480.20221228073108.jpg",
+                "author": "루비 루",
+                "discount": "16200",
+                "publisher": "생각속의집",
+                "pubdate": "20190625",
+                "isbn": "9791186118337",
+                "description": "“나는 위쪽(조증)과 아래쪽(울증)의 세계를 오가면서 \n수많은 나를 경험했다. \n그것은 나 스스로 변화하는 시간이었다.”\n\n내 안에는 밝은 모습과 어두운 모습이 공존한다. \n어떤 모습이 진짜 ‘나’일까?\n- 두 얼굴의 감정, 조울증에 대한 생생한 고백 \n\n빈센트 반 고흐, 버지니아 울프, 헤밍웨이…… 이들의 공통점은 조울증을 앓았다는 것이다. 조울증은 조증과 울증이 왔다 갔다 하는 기분장애의 하나인데, 최근 들어 이런 급격한 기분변화를 호소하는 사람들이 많아지고 있다. 『내 기분은 변화하는 중입니다』는 저자가 조울증을 겪으면서 느낀 고통과 치유의 과정을 글과 그림으로 풀어낸 심리만화다. 이 책에서 저자는 조증과 울증의 극단적인 기분상태가 번갈아가며 나타나는 조울증의 특징을 까다로운 한 마리의 여우에 비유하면서 이렇게 고백한다.\n\n“기분이 ‘업’된 상태일 때 저는 매우 사교적이고 에너지가 넘치고 또 매력적인 사람으로 변신합니다. 반면에 기분이 ‘다운’된 상태일 때는 무기력하고 외롭고 염세적인 사람으로 변합니다. 이렇듯 제 안에 밝은 모습과 어두운 모습이 공존합니다. 어떤 모습이 진짜 나일까? 오랫동안 저는 혼란스러웠습니다.”  〈저자의 말〉 중에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각속의집",
+                "DDC": "",
+                "UPDATE_DATE": "20190703",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "루비 루 지음 ;한나라 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "513.899",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/06/10/9791186118337.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "159 p.",
+                "CONTROL_NO": "CIP2019022703",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186118337",
+                "INPUT_DATE": "20190610",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "내 기분은 변화하는 중입니다",
+                "PUBLISH_PREDATE": "20190625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "정희진처럼 읽기",
+    "oauthor": "정희진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정희진처럼 읽기 (내 몸이 한 권의 책을 통과할 때)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466579076",
+                "image": "https://shopping-phinf.pstatic.net/main_3246657/32466579076.20230216070931.jpg",
+                "author": "정희진",
+                "discount": "12960",
+                "publisher": "교양인",
+                "pubdate": "20141020",
+                "isbn": "9788991799004",
+                "description": "정희진, 책 읽기의 쾌락과 고통을 말하다!\n\n『정희진처럼 읽기』는 ‘여성주의’의 새로운 시각을 제시했던 《페미니즘의 도전》의 저자 정희진의 신작으로, 저자가 2012년부터 2014년 봄까지 쓴 서평 중 79편을 선정해 수정한 책이다. 지금 저자가 가장 크게 관심을 두고 있는 ‘고통’, ‘주변과 중심’, ‘권력’, ‘앎’, ‘삶과 죽음’이라는 다섯 가지 주제로 글을 나누어 우리 사회의 통념과 상식에 대해 깊이 있게 들여다보았으며, 이 책을 위해 새롭게 쓴 세 편의 글에서는 삶으로서 책을 읽는 행위의 깊은 의미와 독후감 쓰기에 대한 그만의 도발적인 주장을 펼쳐낸다. \n\n가령, 《천자문》에서 뜻이 없는 조사가 전체 문장을 지배하는 것을 보고 ‘의미 없음’의 권력을 떠올리는가 하면, ‘독단 없이 과학은 불가능하다’라고 말하는 《방법에의 도전》을 읽으며 지배 규범을 ‘객관’으로 간주하고 자기 의견을 가진 집단을 편협하다고 낙인찍는 우리 사회의 인식 틀을 비판한다. 나아가 ‘프롤로그’, ‘좁은 편력’, ‘에필로그’에서는 각각 책과 독서에 관한 생각, 어린 시절부터 지금까지의 독서 이력, 독후감 쓰는 법을 말함으로써, 어떻게 글을 읽을 것인지 명쾌하게 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "교양인",
+                "DDC": "028.1",
+                "UPDATE_DATE": "20141030",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정희진",
+                "SERIES_TITLE": "",
+                "KDC": "029.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4009992_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4009992_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014028349",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991799004",
+                "INPUT_DATE": "20140930",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "정희진처럼 읽기",
+                "PUBLISH_PREDATE": "20141020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

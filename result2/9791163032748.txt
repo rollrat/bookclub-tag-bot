@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 클론 코딩 트위터",
+    "oauthor": "니꼴라스,김준혁 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 클론 코딩 트위터 (노마드 코더 니꼴라스와 만드는 트위터 서비스)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473343769",
+                "image": "https://shopping-phinf.pstatic.net/main_3247334/32473343769.20230131164233.jpg",
+                "author": "니꼴라스",
+                "discount": "16200",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20210823",
+                "isbn": "9791163032748",
+                "description": "‘클론 코딩’만큼 빠르고 효과적인 학습법은 없다! \n9살부터 코딩을 시작한 전형적인 ‘천재 코더’ 니꼴라스! 니꼴라스는 세상에서 가장 빠르게 프로그래밍을 배울 수 있는 방법은 클론 코딩이라고 말한다. 클론 코딩은 트위터, 페이스북, 인스타그램, 넷플릭스와 같은 실제 서비스를 복제해 보는 프로그래밍 학습 방법이다. 클론 코딩은 학습할 때마다 눈앞에 결과물이 바로바로 보이므로 프로그래밍을 빠르고 재미있게 배울 수 있다.\n출간과 동시에 화제에 올랐던 클론 코딩 시리즈의 두 번째 책 《Do it! 클론 코딩 트위터》에 서는 트위터를 클론 코딩한다. 트윗 추가부터 수정, 삭제, 사진 등록, 프로필 페이지 등 실제 트위터 기능을 똑같이 구현하고 결과물을 다른 사람도 사용할 수 있도록 서비스 배포까지 해본다. 그야말로 진짜 서비스를 만드는 것이다. 웹 개발 초보자도 7일이면 충분하다. 이 책으로 웹 개발부터 서비스 배포까지 쭉쭉 진행해 보기 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20210914",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "니꼴라스,김준혁 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163032748",
+                "INPUT_DATE": "20210730",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(Do it!) 클론 코딩 트위터",
+                "PUBLISH_PREDATE": "20210823",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

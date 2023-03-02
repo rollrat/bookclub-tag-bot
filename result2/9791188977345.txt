@@ -1,0 +1,67 @@
+{
+    "otitle": "스탠퍼드 새벽 5시 반",
+    "oauthor": "이나흔 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스탠퍼드 새벽 5시 반 (리커버 에디션) (평범한 스무 살, 스탠퍼드대 합격생이 되기까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441199448",
+                "image": "https://shopping-phinf.pstatic.net/main_3244119/32441199448.20230221082044.jpg",
+                "author": "이나흔",
+                "discount": "12600",
+                "publisher": "슬로디미디어",
+                "pubdate": "20200801",
+                "isbn": "9791188977345",
+                "description": "평범한 학생이 어떻게 세계 최고 명문대학인 \n스탠퍼드 대학교에 합격했을까?\n동기 부여에서 조언과 팁, 에세이 쓰는 법, 미국 수능 SAT 공부 활용법까지\n바로 ‘내 것’이 되는 진짜 공부법!\n\n세상에 선한 영향력을 미치는, 세상에 보탬이 되는 사람이 되길 바라며 쓴 이 책 『스탠퍼드 새벽 5시 반』은 미국이라는 낯선 땅에 적응하며 스탠퍼드 대학생이 되기까지의 과정을 담았다. 공부의 본질을 끊임없이 물으며 진짜 공부를 해나간 그녀의 노하우가 대학 입시를 앞두거나, 미국 유학을 준비하고 있는 학생들에게 길잡이가 될 것이다. 기록의 힘, 감사의 힘을 통해 앞으로 나아가는 법과 함께 영어 실력 높이기, 공부, SAT와 에세이 준비하기와 같은 미국의 대학에 입학하기 위한 현실적인 조언을 담았으며, ‘모든 답을 외부에서 찾지 말고, 스스로를 돌아보라’는 메시지를 통해 미래를 준비하는 많은 이들에게 동기 부여와 희망이 되길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어 :슬로미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20200416",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이나흔 지음",
+                "SERIES_TITLE": "",
+                "KDC": "373.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/19/9791188977345.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "163, [20] p.",
+                "CONTROL_NO": "CIP2019032639",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188977345",
+                "INPUT_DATE": "20190819",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "스탠퍼드 새벽 5시 반",
+                "PUBLISH_PREDATE": "20190901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

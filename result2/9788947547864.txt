@@ -1,0 +1,67 @@
+{
+    "otitle": "아이코니스트",
+    "oauthor": "제이미 머스터드 저/이은경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아이코니스트 (반드시 팔리는 것을 만드는 사람들의 공식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490325322",
+                "image": "https://shopping-phinf.pstatic.net/main_3249032/32490325322.20230207163015.jpg",
+                "author": "제이미 머스터드",
+                "discount": "16200",
+                "publisher": "한국경제신문",
+                "pubdate": "20220201",
+                "isbn": "9788947547864",
+                "description": "이 시끄러운 세상에서 \n당신의 제품ㆍ디자인·메시지를 파는 법\n\n대담함 × 단순함 × 반복성의 법칙이 아이콘을 만든다\n시대를 뛰어넘어 반드시 팔리는 것만 만드는 ‘아이코니스트’가 되라\n\n정보 과부하에 시달리는 현대인들에게 당신의 제품과 서비스를 알리려면 어떻게 해야 할까?\n하루에도 수천 개의 이미지와 영상을 보는 사람들의 머릿속에 기억되는 콘텐츠를 만들려면? \n태어날 때부터 수많은 광고에 노출된 MZ세대에게 우리 브랜드를 각인시키려면? \n아디다스, GE, 인텔의 미디어 전략 컨설턴트 제이미 머스터드는 너무 많은 정보에 지친 인간이 무의식적으로 모든 정보를 밀어내기 시작했고, 그와 동시에 자신의 메시지 역시 거절당하고 ‘희석’되어버리는 현실에 절망하고 있다고 분석한다. 우리는 외부로부터 오는 모든 메시지를 거부하는 동시에, 외부로부터 잊히지 않기 위한 전쟁을 치르고 있다.\n이 전쟁에서 살아남으려면 어떻게 해야 할까? 저자는 모두가 ‘아이코니스트’가 되어야만 한다고 말한다. 사람들의 마음속에 각인되는 아이콘이 아니면 모든 것이 잊혀진다. 인간 지각의 원시적 법칙에 따라 당신의 제품, 디자인, 카피, 이미지를 대담하고 단순한 ‘블록’으로 만든 후 끊임없이 반복하여 타깃 마음속에 ‘아이콘’으로 자리 잡게 만들어야 한다. 이 책은 그 아이콘을 만드는 세 가지 요소와 아이코니스트가 된 사람들에 대한 이야기다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20220302",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "제이미 머스터드 지음 ;이은경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947547864",
+                "INPUT_DATE": "20220302",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "아이코니스트",
+                "PUBLISH_PREDATE": "20220201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

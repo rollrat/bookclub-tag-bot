@@ -1,0 +1,67 @@
+{
+    "otitle": "총리의 남편",
+    "oauthor": "하라다 마하 저/이규원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "총리의 남편",
+                "link": "https://search.shopping.naver.com/book/catalog/32480656282",
+                "image": "https://shopping-phinf.pstatic.net/main_3248065/32480656282.20230218110523.jpg",
+                "author": "하라다 마하",
+                "discount": "14220",
+                "publisher": "북스피어",
+                "pubdate": "20220211",
+                "isbn": "9791191253481",
+                "description": "‘총리의 남편(First Gentleman)’이 된 조류애호눈물과다 초식남의 조금 특별한 총리 관찰일기!\n\n나의 아내는, 오늘, 총리가 된다.\n일본 최초의 여성총리가 탄생하는 날이다.\n\n20××년 9월 20일. 린코는 42세의 젊은 나이로 총리에 임명된다. 소수 야당 직진당의 당수였던 린코를 총리로 추대한 사람은 백전노장의 정치 거물이자 책사로 유명한 하라 구로. 인기 없는 정책인 증세의 총대를 메고 린코는 소비세 인상, 탈원전, 여성과 청년이 일하기 좋은 사회를 만들기 위한 정책을 차례차례 추진해 나간다. \n\n한편, 매일 새벽 다섯 시에 일어나 새 관찰일기를 거르지 않던 조류학자 히요리는 오늘부터 특별한 관찰일기를 쓰기로 다짐한다. 검은 슈트의 경호원, 터치 단말기가 달린 정부 전용기, 집 앞에 진을 친 총리의 팬클럽은 린코의 새로운 생활을 담고 있다. 그러나 이 한가로운 일기에도 위기의 기운이 감도는데……. 형사 콜로보를 닮은 저널리스트는 왜 총리의 남편 주위를 맴도는가? 주저 없이 여성 총리를 추대한 ‘속시커먼 씨’ 하라 구로의 꿍꿍이는? \n\n상냥한 눈빛을 가진 이상적인 총리이며 여성의 대변자로, 절체절명의 순간에 등장한 정의무쌍 총리의 약간 신선한 정치 활극!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북스피어",
+                "DDC": "",
+                "UPDATE_DATE": "20220302",
+                "EA_ADD_CODE": "04080",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 하라다 마하 ;옮긴이: 이규원",
+                "SERIES_TITLE": "이판사판",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791191253375",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/12/28/9791191253481.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*197",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "391 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9791191253481",
+                "INPUT_DATE": "20211228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "총리의 남편",
+                "PUBLISH_PREDATE": "20220211",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

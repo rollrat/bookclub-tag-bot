@@ -1,0 +1,67 @@
+{
+    "otitle": "양자역학적 세계상",
+    "oauthor": "도모나가 신이치로 저/권용래 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "양자역학적 세계상",
+                "link": "https://search.shopping.naver.com/book/catalog/32483306910",
+                "image": "https://shopping-phinf.pstatic.net/main_3248330/32483306910.20221019150659.jpg",
+                "author": "도모나가 신이치로",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "20161130",
+                "isbn": "9788970443553",
+                "description": "이 책은 양자역학적 세계에 존재하는 일상의 경험으로는 파악하기 어려운 개념들을 수학을 최소한으로 사용하여 소개, 해설하고 있다. 양자전기 역학 분야에서 노벨상을 수상자한 도모나가 신이치로가 일상 경험을 통해 쉽게 파악되지 않는 분자, 원자, 원자핵, 소립자 등 양자역학적 미시 세계의 진상을 밝히고 재판 형식을 통해 광자의 오묘한 성질을 파헤친 에세이집이다. \n\n특히 일본에서 동 시대에 노벨 물리학상을 함께 받은 물리학자들의 연구 이야기와 과정 등을 읽다보면 2차 세계대전 이후 일본 물리학계의 연구를 이해하는 데 많은 도움이 된다. 비록 지금은 고도의 과학 기술 발전으로 인해 그 때와는 비교할 수 없을 정도로 엄청난 물리 현상을 발견하고 있지만 우리가 주목해야 할 것은 과학적 지식을 더하기 위한 과학자들의 치열한 논쟁과 기존의 방식과는 다른 추론과 가설을 검증하고 이론을 세워가는 사고 훈련에 있다. \n\n실험사실 중심이 아니고 기본적인 개념들 그 자체를 물리학을 전공하지 않은 일반 독자를 대상으로 풀이한다는 것은 무척 어려운 일일뿐만 아니라 그러한 시도 자체가 독특하다. 이제부터 상식적인 사고로 이해하기에는 어렵지만 매우 기묘한 우리 일상의 세계를 형성하고 있는 소립자의 세계로 여행을 떠나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20180419",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "도모나가 신이치로 저 ; 권용래 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "19941125",
+                "TITLE_URL": "",
+                "PRE_PRICE": "2500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "10000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970443553",
+                "INPUT_DATE": "19941110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "양자역학적 세계상 ",
+                "PUBLISH_PREDATE": "19941125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

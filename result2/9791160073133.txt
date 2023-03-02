@@ -1,0 +1,67 @@
+{
+    "otitle": "동트기 힘든 긴 밤",
+    "oauthor": "쯔진천 저/최정숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "동트기 힘든 긴 밤",
+                "link": "https://search.shopping.naver.com/book/catalog/32466995628",
+                "image": "https://shopping-phinf.pstatic.net/main_3246699/32466995628.20221019152116.jpg",
+                "author": "쯔진천",
+                "discount": "13320",
+                "publisher": "한스미디어",
+                "pubdate": "20181116",
+                "isbn": "9791160073133",
+                "description": "진실을 밝히기 위해 자신의 생명까지 바친 한 남자의 삶!\n\n과거와 현재에 이르는 중국의 사법 현실을 생생하게 그려낸 사회파 미스터리 『동트기 힘든 긴 밤』. 전직 경찰 출신인 교수 옌량을 주인공으로 하는 「추리의 왕」 시리즈를 통해 중국 사회의 문제점을 깊이 파헤치며 작품 세계에 사회파의 색채를 더해 인지도와 명성을 쌓은 쯔진천의 대표작이다. 공공장소에 시체를 유기하려던 용의자가 수백 명의 목격자 앞에서 체포되었다. 증인과 증거, 진술을 확보한 검찰이 용의자를 정식 기소하지만, 그는 재판정에서 갑자기 진술을 번복하며 사건을 새로운 국면으로 이끈다. 재수사 과정에서 전직 검찰관인 피해자가 십여 년 전 일어난 살인사건의 진실을 끈질기게 조사해 왔다는 사실이 밝혀지는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20181127",
+                "EA_ADD_CODE": "03820",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "쯔진천 지음 ;최정숙 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "458 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160073133",
+                "INPUT_DATE": "20180906",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "동트기 힘든 긴 밤",
+                "PUBLISH_PREDATE": "20181116",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

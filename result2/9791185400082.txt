@@ -1,0 +1,67 @@
+{
+    "otitle": "이야기의 명제",
+    "oauthor": "오쓰카 에이지 저/선정우 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이야기의 명제 (6가지 테마로 이야기 만들기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492637869",
+                "image": "https://shopping-phinf.pstatic.net/main_3249263/32492637869.20221019123627.jpg",
+                "author": "오쓰카 에이지",
+                "discount": "13500",
+                "publisher": "북바이북",
+                "pubdate": "20150129",
+                "isbn": "9791185400082",
+                "description": "『이야기의 명제』는 6가지 테마로 이야기를 만드는 책이다. 일본의 대표적인 만화·애니메이션에서 테마를 추출하고, 이 책에서 ‘명제’라고 명명한 문장을 가지고 시나리오, 만화의 콘티를 만들어내는 워크숍을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "808",
+                "UPDATE_DATE": "20150227",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오쓰카 에이지",
+                "SERIES_TITLE": "",
+                "KDC": "802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4290725_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4290725_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015001568",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400082",
+                "INPUT_DATE": "20150113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이야기의 명제",
+                "PUBLISH_PREDATE": "20150129",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

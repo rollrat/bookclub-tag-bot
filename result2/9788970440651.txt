@@ -1,0 +1,67 @@
+{
+    "otitle": "단백질이란 무엇인가",
+    "oauthor": "후지모토 다이사부로 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "단백질이란 무엇인가 (생명이라는 드라마의 주연자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466583705",
+                "image": "https://shopping-phinf.pstatic.net/main_3246658/32466583705.20221227202750.jpg",
+                "author": "후지모토 다이사브로",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "19870901",
+                "isbn": "9788970440651",
+                "description": "단백질은 영양소로서도 중요할 뿐더러 핵산 (DNA, RNA)과 더불어 생명활동을 담당하는 다채로운 역할을 가졌다. 이 책에서는 단백질이란 어떤 물질인가를 알기 쉽게 해설하여 최근에 화제 거리가 되는 일이 많은 생명과학의 기본적인 이해를 도와줄 가장 알맞는 입문서이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "후지모토 다이사부로",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "A5 변형",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "154",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970440651",
+                "INPUT_DATE": "20161222",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "단백질이란 무엇인가",
+                "PUBLISH_PREDATE": "19901015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

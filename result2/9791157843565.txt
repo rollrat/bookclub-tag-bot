@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 스물일곱, 2등 항해사입니다",
+    "oauthor": "김승주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 스물일곱, 2등 항해사입니다 (오늘을 견디는 법과 파도를 넘는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441199358",
+                "image": "https://shopping-phinf.pstatic.net/main_3244119/32441199358.20221019132950.jpg",
+                "author": "김승주",
+                "discount": "13320",
+                "publisher": "한빛비즈",
+                "pubdate": "20190902",
+                "isbn": "9791157843565",
+                "description": "“파도를 넘는 것보다 오늘을 견디는 일에 더 많은 용기가 필요했다.”\n바다 위 삶이 알려준 무수한 해답들\n\n2019 청소년 교양도서 선정\n\n3만 톤 배를 운항하는 스물일곱 여성 항해사의 이야기. 한번 배에 오르면 6개월은 꼼짝없이 갇혀서 생활한다. 1,000일이 넘게 배를 몰면서 매일 몰려오는 시련과 외로움은 오롯이 혼자 이겨내야 했고 누군가에게 기댈 수도 없었다. 바다 위 삶이 왠지 생소할 것 같지만 극단적 환경에서 매일 ‘혼자’를 견뎌야 하는 그녀의 이야기는 결코 낯설지 않다. 사실 우리도 드라마 같은 극적인 시련보다 매일 닥쳐오는 공허에 더 속수무책이기 때문이다.\n\n저자는 이런 외로움과 난관을 억지로 극복하지도, 또 애써 무시하며 피하지도 않는다. 맘껏 속상해하고, 힘들어하고, 외로워하다가 자신만의 온도와 속도로 적절하게 넘겨낸다. 어디까지 버틸 수 있고, 또 어디까지 나아가야 하는지 자신에게 묻고 또 물으면서 묵묵히 헤쳐나갈 뿐이다. 유독 특별하거나 강인해서가 아니다. 조금 느리고 서툴러도 자신만 믿으면 언젠가 이 파도가 지나간다는 사실을 알고 있을 뿐이다. 하나의 정답이 아닌 여러 개의 해답을 건네주는 바다 위의 삶은 땅을 밟고 있는 이들에게도 큰 용기를 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20190920",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "김승주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "294 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157843565",
+                "INPUT_DATE": "20190812",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 스물일곱, 2등 항해사입니다",
+                "PUBLISH_PREDATE": "20190902",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

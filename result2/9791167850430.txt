@@ -1,0 +1,67 @@
+{
+    "otitle": "메타버스 골드러시",
+    "oauthor": "민문호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "메타버스 골드러시 (미래산업의 열쇠, 누가 마지막 메타버스에 탑승할 것인가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489633799",
+                "image": "https://shopping-phinf.pstatic.net/main_3248963/32489633799.20221019131554.jpg",
+                "author": "민문호",
+                "discount": "14400",
+                "publisher": "슬로디미디어",
+                "pubdate": "20211120",
+                "isbn": "9791167850430",
+                "description": "메타버스 리딩 기업 CEO가 말하는\n과거, 현재, 미래의 비즈니스 사례와 윤리적 시사점까지\n생생한 예시를 통해 쉽게 정리한 메타버스의 모든 것!\n\n인간과 시공간이라는 물리적 한계를 넘어 그 속에서 상호 융합 및 공진화하게 될 메타버스 글로벌 시장! 지금까지 계속 관망만 해 왔다면, 이제는 마지막 기회가 될 메타버스에 과감히 탑승하길 바란다. 앞으로 AR·VR 등 XR 기반의 기업들과 AI, 블록체인 기업들이 힘을 합쳐 지속적으로 메타버스 기술 개발을 이끌어가야 할 것이다. \n메타버스 시장은 2020년 50조 원, 2023년 535조 원 이상, 2030년에는 1,700조 원가량 성장할 전망이며, 우리나라는 향후 5년간 2.6조 원의 메타버스 관련 예산을 단계적으로 집행할 예정이다. 그렇다면 그 주인공은 누가 될 것인가? 현재로서는 예측이 불가하지만 문화와 IT 기술, 콘텐츠 강국인 대한민국이 그 주인공이었으면 하는 바람이다. 그리고 그 변화의 바람에 나도 함께할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211228",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "민문호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/10/20/9791167850430.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "216 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167850430",
+                "INPUT_DATE": "20211020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "메타버스 골드러시",
+                "PUBLISH_PREDATE": "20211120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

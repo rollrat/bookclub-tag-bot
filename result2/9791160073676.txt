@@ -1,0 +1,67 @@
+{
+    "otitle": "무증거 범죄",
+    "oauthor": "쯔진천 저/최정숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "무증거 범죄",
+                "link": "https://search.shopping.naver.com/book/catalog/32436138628",
+                "image": "https://shopping-phinf.pstatic.net/main_3243613/32436138628.20230214162747.jpg",
+                "author": "쯔진천",
+                "discount": "13320",
+                "publisher": "한스미디어",
+                "pubdate": "20190429",
+                "isbn": "9791160073676",
+                "description": "[줄거리]\n3년 전부터 연쇄살인이 일어나는 번화한 도시. 범인은 살인 현장에 지문과 ‘날 잡아주세요’란 메시지가 인쇄된 종이 한 장만을 남기고 다른 어떤 허점도 드러내지 않는다. 연쇄살인범을 잡기 위한 네 번째 특별조사팀마저 성과 없이 해산되자, 경찰은 수학 교수로 일하고 있는 범죄논리학 전문가 옌량에게 도움을 청한다. 한편 한순간의 실수로 불량배를 죽이게 된 청년 앞에 한 남자가 다가와 증거를 없애줄 테니 범죄를 부인하라며 경찰 대처법을 가르쳐주는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어 :한즈미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20190509",
+                "EA_ADD_CODE": "03820",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "쯔진천 지음 ;최정숙 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "426 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160073676",
+                "INPUT_DATE": "20190327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "무증거 범죄",
+                "PUBLISH_PREDATE": "20190429",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

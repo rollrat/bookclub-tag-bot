@@ -1,0 +1,67 @@
+{
+    "otitle": "월면도시 PART 1",
+    "oauthor": "김동식,김선민,김창규,정명섭,최지혜,홍지운 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "월면도시 Part 1 : 일광욕의 날",
+                "link": "https://search.shopping.naver.com/book/catalog/32444058502",
+                "image": "https://shopping-phinf.pstatic.net/main_3244405/32444058502.20221230074846.jpg",
+                "author": "김선민^김창규^정명섭^최지혜^홍지운^김동식",
+                "discount": "11700",
+                "publisher": "CABINET",
+                "pubdate": "20200420",
+                "isbn": "9791188660483",
+                "description": "한국과학창의재단 지원 선정작.\n지구로부터 독립한 달! 달의 뒷면에는 지구의 존재조차 모르는 사람들이 살고 있다.\n\n‘월면도시’ 세계관의 시작!\n창작집단, 판게아를 중심으로 개발한 오픈 유니버스(성장형 세계관)는 스토리 프로듀서와 작가들에 의해 점차 구체화되었다.\n지구에서 독립한 달, 달의 뒷면에 세워진 여러 도시들, 지배 세력과 피지배 계층 등 흥미로운 세계관을 바탕으로 하여 탄생한 여러 작품들은 소비자는 물론 창작자도 함께 자극한다. \n‘월면도시’ 세계관의 첫 시작을 성대하게 연 6명의 작가가 모여 만든 첫 번째 앤솔러지를 소개한다.\n\n월면을 뒤흔든 ‘일광욕의 날’\n지구에서 독립한 달의 지배 세력, 센트럴은 100년 동안 지구의 존재를 감추고, 거짓과 폭력으로 12개의 월면도시를 지배해왔다. \n어느 날, ‘일광욕의 날’이라고 이름을 붙인 이상 현상이 벌어지고, 이 영향으로 초능력을 가진 문차일드가 탄생한다. 센트럴은 이 문차일드를 색출하기 위하여 조사국을 설치한다. \n하지만 각 도시에서 기이한 사건들이 동시다발적으로 발생하면서 센트럴을 의심하는 사람들이 생긴다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "올댓스토리",
+                "DDC": "",
+                "UPDATE_DATE": "20201016",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.allthatstory.co.kr",
+                "AUTHOR": "지은이: 김동식,김선민,김창규,정명섭,최지혜,홍지운",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "115*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "321 p.",
+                "CONTROL_NO": "CIP2020010283",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188660483",
+                "INPUT_DATE": "20200309",
+                "SET_EXPRESSION": "",
+                "VOL": "Part1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "일광욕의 날",
+                "PUBLISH_PREDATE": "20200421",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

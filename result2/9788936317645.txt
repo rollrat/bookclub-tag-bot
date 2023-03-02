@@ -1,0 +1,67 @@
+{
+    "otitle": "금융수학개론 (2판)",
+    "oauthor": "이재성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "금융수학개론 (연습문제 풀이 수록, 2판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490551684",
+                "image": "https://shopping-phinf.pstatic.net/main_3249055/32490551684.20221230074938.jpg",
+                "author": "이재성",
+                "discount": "26370",
+                "publisher": "교문사(청문각)",
+                "pubdate": "20180820",
+                "isbn": "9788936317645",
+                "description": "본서는 옵션 및 파생상품이론을 중심으로 전개되나 위험관리에 대한 내용도 다루고 있으며, 초급 수준의 미적분과 확률 통계 및 기초 재무관리 이론을 수강한 독자라면 어려움 없이 금융 파생상품 가격 및 위험관리의 개본 개념을 수학을 통하여 이해할 수 있도록 친절하고 자세한 설명을 갖추고 있다. 특히, 기초 미적분과 기초 확률 통계만을 사용하여 각종 옵션 가격공식을 유도하는 방법을 상세히 설명하고 있다.\n본서의 특징은 브라운 운동과 확률미분방정식을 소개하기에 앞서 기초 미적분과 기초 확률 통계만을 사용하여 각종 옵션 가격공식을 유도하는 방법을 상세히 설명함으로써 수학전공이 아닌 학생들과 실무자들이 파생상품이론의 핵심에 접근할 수 있게 하였다. 하지만 실무지침서가 아니라 이론과 원리를 소개하는 책인 만큼 광범위한 금융상품을 다루지 않았고, 측도이론(measure theory)을 배운 수학전공생들이 대상이 아니라 보다 폭넓은 독자를 대상으로 하였기에 때에 따라서는 부득이하게 수학적 엄밀함을 포기하기도 하였다. 하지만 여러 종류의 수강생들을 대상으로 다년간 강의해 온 경험으로부터 어떻게 하면 독자들이 가장 손쉽고 편안하게, 핵심적인 현대 금융수학 이론을 이해할 수 있을 것인가에 초점을 맞추어서 본서의 내용을 구성하려고 시도했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)교문사",
+                "DDC": "",
+                "UPDATE_DATE": "20221013",
+                "EA_ADD_CODE": "93410",
+                "PUBLISHER_URL": "http://www.cmgpg.co.kr",
+                "AUTHOR": "이재성 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "29300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936317645",
+                "INPUT_DATE": "20180904",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "금융수학개론",
+                "PUBLISH_PREDATE": "20180820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

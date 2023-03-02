@@ -1,0 +1,67 @@
+{
+    "otitle": "민왕",
+    "oauthor": "이케이도 준 저/이선희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "민왕 (정치꾼 총리와 바보 아들 | 이케이도 준 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444924696",
+                "image": "https://shopping-phinf.pstatic.net/main_3244492/32444924696.20221019110138.jpg",
+                "author": "이케이도 준",
+                "discount": "13320",
+                "publisher": "소미미디어",
+                "pubdate": "20210331",
+                "isbn": "9791166117633",
+                "description": "“너희가 국민의 뜻을 아느냐?\n 말로만 하는 정치, 우리가 이제 끝내겠다!”\n\n일본의 국민 드라마 〈한자와 나오키〉 시리즈 원작자인 이케이도 준의 정치 엔터테인먼트 소설 『민왕: 정치꾼 총리와 바보 아들』.  ‘국민의 선택에 의해 탄생한 권력이 무기력하고 무능한 지도자로 대체된다면?’이라는 엉뚱한 상상에서 시작한 소설은 일본의 정계와 재계를 신랄하게 비판하는 블랙 코미디가 되어 탄탄한 줄거리를 완성해나간다. 여론조사 지지율에만 매달리는 일본 총리와 인생에 대한 뚜렷한 목표도 없는 아들의 몸이 바뀌면서 혼란에 빠진 내각. 일본의 안보와 경제가 위협받는 상황에서 각료들의 막말 사건과 스캔들이 연이어 터지면서, 총리와 당의 지지율은 급락한다. 이 모든 혼란을 수습해나가는 것은 총리의 유능한 심복들이다. 적재적소의 지혜와 기지를 발휘해 흑막의 정체를 밝혀내는 과정에서 국민을 위한 정치인으로 각성하는 총리의 성장이 흥미진진하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20210629",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자: 이케이도 준 ;옮긴이: 이선희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "389 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166117633",
+                "INPUT_DATE": "20210317",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "민왕 ",
+                "PUBLISH_PREDATE": "20210331",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

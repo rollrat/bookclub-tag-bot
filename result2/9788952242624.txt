@@ -1,0 +1,67 @@
+{
+    "otitle": "골든 시크릿",
+    "oauthor": "김용규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "골든 시크릿 (김용규 철학 우화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465140754",
+                "image": "https://shopping-phinf.pstatic.net/main_3246514/32465140754.20221019132945.jpg",
+                "author": "김용규",
+                "discount": "12600",
+                "publisher": "살림",
+                "pubdate": "20210210",
+                "isbn": "9788952242624",
+                "description": "한국인들이 가장 존경하고 친근하게 느끼는 철학자 김용규 \n그가 들려주는 부와 철학 사이에 숨어 있는 비밀, 골든 시크릿! \n\n가슴을 쿵, 흔들고삶의 방향을 생각해보게 만드는 쩌릿한 우화!\n\n“기억하게나. 이 양피지에 적혀 있는 대로 따라한다면\n세상에서 원하는 것은 무엇이든 가질 수 있네.”\n\n『골든 시크릿』을 가진 사람의 가장 큰 특징은 용기와 자신감이다.\n누구나 『골든 시크릿』을 손에 쥐게 되면\n“나는 뭐든지 원하는 것을 가질 수 있어”라는 용기와 자신감이 생긴다.\n\n이제 당신도 『골든 시크릿』을 손에 넣었다.\n당신은 이제부터 원하는 것은 뭐든지 가질 수 있는 마법사가 된 것이다.\n어쩌면 당신은 이제 그 누구보다 더 위대한 일을 해낼지도 모른다.\n당신의 마법에 행운이 있기를!”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림(살림출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210326",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "지은이: 김용규",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "147*185",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "291 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952242624",
+                "INPUT_DATE": "20201113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "골든 시크릿",
+                "PUBLISH_PREDATE": "20210210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

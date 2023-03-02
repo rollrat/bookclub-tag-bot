@@ -1,0 +1,67 @@
+{
+    "otitle": "고양이에게는 하루 1시간 놀이가 필요해",
+    "oauthor": "김효진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고양이에게는 하루 1시간 놀이가 필요해",
+                "link": "https://search.shopping.naver.com/book/catalog/32463443698",
+                "image": "https://shopping-phinf.pstatic.net/main_3246344/32463443698.20221228073536.jpg",
+                "author": "김효진",
+                "discount": "12960",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20210127",
+                "isbn": "9791191308259",
+                "description": "집사 필독서 『24시간 고양이 육아 대백과』 저자이자 각종 반려동물 페어 강의 때 항상 전석 매진을 기록하는 김효진 수의사의 고양이 마음을 읽는 스마트한 놀이법을 담은 책이다. 반려동물 인구와 관련 사업이 점점 늘어나는 요즘, 이제 고양이를 키우는 집사들은 건강하게 키우는 법에서 더 나아가 고양이 마음을 읽고 소통하는 방법에 관심이 많다. 김효진 수의사는 고양이 마음을 읽고 삶의 질을 향상시켜주는 방법으로 ‘하루 1시간 놀이 솔루션’을 제안한다. \n\n\n\n두 번째 책 『고양이에게는 하루 1시간 놀이가 필요해』는 고양이의 행동과 심리를 파악하는 놀이법부터 성격별 상황별 맞춤 놀이법 모두를 담아 집사들이 고양이 케이스별로 찾아볼 수 있게 쉽게 구성했다. 또한 주변에서 쉽게 구할 수 있는 재료들로 간편하게 만들 수 있는 장난감 만들기 방법을 수록하여 장난감을 쉽게 만들어 볼 수 있다. 고양이를 키우는 집사부터 고양이 입양을 준비하는 예비 집사까지 모든 애묘인들의 놀이 바이블이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20210302",
+                "EA_ADD_CODE": "13490",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김효진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/01/08/9791191308259.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191308259",
+                "INPUT_DATE": "20210108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "고양이에게는 하루 1시간 놀이가 필요해",
+                "PUBLISH_PREDATE": "20210127",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

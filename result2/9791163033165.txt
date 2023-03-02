@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! BERT와 GPT로 배우는 자연어 처리",
+    "oauthor": "이기창 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! BERT와 GPT로 배우는 자연어 처리 (트랜스포머 핵심 원리와 허깅페이스 패키지 활용법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454998337",
+                "image": "https://shopping-phinf.pstatic.net/main_3245499/32454998337.20230218110445.jpg",
+                "author": "이기창",
+                "discount": "18000",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20211201",
+                "isbn": "9791163033165",
+                "description": "‘사람 말을 알아듣는 AI’를 만들어 보자!\n트랜스포머 핵심 원리부터 문서 분류, 기계 독해, 문장 생성 실습까지!\n\n사람 말을 알아듣고 처리하는 인공지능은 어떻게 만들까? 이 책은 딥러닝 기반 자연어 처리 기술을 체계적이고 쉽게 배울 수 있는 입문서다. 이 책은 네이버 영화평, 뉴스 댓글, 질의응답 등 한국어 말뭉치로 실습해 국내 자연어 처리 연구가에게 더욱 효과적이며, 트랜스포머의 핵심 원리와 허깅페이스 패키지 활용법 등 최신 자연어 처리 기술의 진수를 담았다. 국내 대표 포털에서 자연어 처리를 연구하는 저자의 오랜 공력을 엿볼 수 있다. 1~3장에서는 트랜스포머와 전이 학습, BERT와 GPT의 핵심 동작 원리를 이해하고, 이를 바탕으로 4~8장에서는 감성 분석, 자연어 추론, 개체명 인식, 질의응답, 문장 생성 등 5가지 과제를 직접 수행해 본다. 실습 코드는 pytorch-lightning, 허깅페이스의 transformers 등 최신 오픈소스 라이브러리를 사용했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20220120",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "이기창 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "256 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163033165",
+                "INPUT_DATE": "20211116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(Do it!) BERT와 GPT로 배우는 자연어 처리",
+                "PUBLISH_PREDATE": "20211201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "왜 나만 착하게 살아야 해",
+    "oauthor": "김승환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왜 나만 착하게 살아야 해 (착한 척, 괜찮은 척하느라 지쳐버린 이들을 위한 위로)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466655622",
+                "image": "https://shopping-phinf.pstatic.net/main_3246665/32466655622.20230131164133.jpg",
+                "author": "김승환",
+                "discount": "13500",
+                "publisher": "북카라반",
+                "pubdate": "20200116",
+                "isbn": "9791160050776",
+                "description": "“아니야, 난 다 괜찮아” \n정말 괜찮았을까? \n듣는 사람도 말하는 사람도 속이 시원해지는 마음 표현법\n\n당신도 ‘착한 사람’인가요?\n\n“아무거나”, “난 괜찮아”가 입에 붙어 있다. 거절하는 게 어려워서 무리한다. 웃기지 않아도 따라 웃는다. 화가 나도 말하지 못하고 속만 태운다. 이런 사람은 착하다는 평가를 듣지만, 정작 마음은 공허하고 외롭다. 착한 사람이 되어야 한다는 압박 속에서 다른 사람에게 맞추어 살 때, 정작 자기 생각과 감정은 돌보지 못하게 된다. 그러는 사이 표현 못한 상처와 아픔은 자존감을 깎아 먹고 다른 사람과의 관계도 틀어진다. 안타깝게도 많은 이가 가정에서부터 마음에 상처를 입는다. 이해받지 못하고, 표현하지 못한 채 살다 보면 착하지만 어쩐지 가까워지기 힘든 사람이 되거나, 사람 사이에서도 외로움을 느끼거나, 나도 모르게 버럭 화를 내며 폭발하는 사람이 되어버린다. 이제 ‘착한 사람’ 가면을 벗고 그 뒤에 숨겨져 있던 진짜 감정을 찾고, 진짜 내 생각을 이야기해야 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북카라반",
+                "DDC": "",
+                "UPDATE_DATE": "20200204",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김승환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/01/03/9791160050776.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "CIP2019053462",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160050776",
+                "INPUT_DATE": "20191227",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "왜 나만 착하게 살아야 해",
+                "PUBLISH_PREDATE": "20200116",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

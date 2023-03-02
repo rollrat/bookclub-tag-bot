@@ -1,0 +1,67 @@
+{
+    "otitle": "제가 좀 숫자에 약해서",
+    "oauthor": "윤정용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "제가 좀 숫자에 약해서 (편안한 회사 생활을 위해 알아야 할 숫자의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444835263",
+                "image": "https://shopping-phinf.pstatic.net/main_3244483/32444835263.20221228073334.jpg",
+                "author": "윤정용",
+                "discount": "11700",
+                "publisher": "앳워크",
+                "pubdate": "20181022",
+                "isbn": "9791157061341",
+                "description": "숫자를 이해하면 일의 흐름이 보인다!\n\n나의 업무를 쉽게 만들어주는 숫자의 비밀\n\n\n\n많은 직장인들은, 특히 문과계열의 직장인들은 학창시절 수학을 포기한 ‘수포자’들이었다. 수학은커녕 숫자만 봐도 눈앞이 캄캄해지는 ‘숫알못(숫자를 알지 못하는 사람)’이다. 하지만 회사에 들어가서 보니 기획서부터 결산서에까지 숫자가 안 들어가는 곳이 없다. 기획서를 하나 썼다가 “그래서 개발비가 얼마나 들지?”라는 팀장님의 물음에 좌절하기도 하고, 결산 보고서를 제대로 볼 줄 몰라 “그 제품의 이익률은 어떻게 되나?”라는 부장님의 물음에 우물쭈물 대답을 못한다.\n\n\n\n직장 생활이 길어질수록 직급이 올라갈수록 숫자의 중요성은 점점 커지는데, 구구단조차 기억이 나지 않는 직장인들에게 숫자는 너무 어렵게 느껴진다. 평범한 문과생이었던 저자 역시 회사에 입사하기 전까지 숫자와는 거리가 먼 삶을 살았지만 재무팀에 발령을 받으면서 숫자에 대해 몸으로 깨우치게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "앳워크 :메디치미디어",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20181031",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윤정용 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6934709_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6934709_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6934709_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "283 p.",
+                "CONTROL_NO": "CIP2018031654",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157061341",
+                "INPUT_DATE": "20181002",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "제가 좀 숫자에 약해서",
+                "PUBLISH_PREDATE": "20181022",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "다름과 어울림",
+    "oauthor": "고려대학교 다양성위원회 기획/민지영 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다름과 어울림 (공존을 위한 사회적 다양성)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440953008",
+                "image": "https://shopping-phinf.pstatic.net/main_3244095/32440953008.20221227203537.jpg",
+                "author": "민지영^허태균^신혜린^박지훈^이대현^신지영^유지원^이보라^전대원^임소연^윤석원^윤태웅",
+                "discount": "14400",
+                "publisher": "동아시아",
+                "pubdate": "20211105",
+                "isbn": "9788962623956",
+                "description": "편견과 알고리즘, 퀴어와 미디어, 젠더와 기업…\n이제 다양성은 이데올로기가 아니라 일상이다\n\n“선량한 차별주의자가 되지 않는 길은 스스로 차별하지 않는다고 믿는 대신 차별할 수 있는 사람임을 받아들이는 것이다.” \n_윤태웅(고려대학교 전기전자공학부 교수, ESC 초대 대표)\n\n최재천, 김지혜, 정진택 추천!\n\n사회적 다양성은 세계적 흐름이자 시대적 요구다. 한국 또한 이러한 흐름에서 벗어날 수 없다. 2017년 하비 와인스타인의 성추행 사건으로 시작된 미투 운동은 한국 사회의 페미니즘에 불을 붙였다. 해외 언론에서 펜스룰을 말하니 한국 언론에서는 젠더 갈등을 말한다. 다양성은 뉴스 기사에 그치지 않는다. 커밍아웃한 연예인이 TV에 나오고, 주변에서 채식주의자나 비혼주의자를 어렵지 않게 만날 수 있다. 다양성은 이미 일상이 되었기에, 그것의 옳고 그름은 더 이상 논쟁의 대상이 아니다. 그렇다면 이제 새로운 질문을 던져보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "",
+                "UPDATE_DATE": "20211124",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 민지영,허태균,신혜린,박지훈,이대현,신지영,유지원,이보라,전대원,임소연,윤석원,윤태웅",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "303 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962623956",
+                "INPUT_DATE": "20211020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "다름과 어울림",
+                "PUBLISH_PREDATE": "20211105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

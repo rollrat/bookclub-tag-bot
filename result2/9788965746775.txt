@@ -1,0 +1,78 @@
+{
+    "otitle": "퍼스트 러브",
+    "oauthor": "시마모토 리오 저/김난주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:53 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "퍼스트 러브 (시마모토 리오 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482021283",
+                "image": "https://shopping-phinf.pstatic.net/main_3248202/32482021283.20221019134739.jpg",
+                "author": "시마모토 리오",
+                "discount": "13500",
+                "publisher": "해냄출판사",
+                "pubdate": "20190215",
+                "isbn": "9788965746775",
+                "description": "제159회 나오키상 수상작 『퍼스트 러브』. 열일곱 살에 데뷔한 이후 군조 신인문학상과 노마 문예신인상, 시마세 연애문학상, 나오키상을 연이어 수상하며 문학성과 대중성을 인정받은 일본 차세대 대표작가 시마모토 리오의 장편소설이다. 화가인 아버지와 전업주부인 엄마 사이에서 무엇 하나 부족한 것 없이 자라난 미모의 여대생이 어느 날 아버지를 죽인 살해범으로 검거되며 벌어지는 이야기를 담았다."
+            },
+            {
+                "title": "데이지 퍼스트 리딩(Daisy First Reading)",
+                "link": "https://search.shopping.naver.com/book/catalog/35913012619",
+                "image": "https://shopping-phinf.pstatic.net/main_3591301/35913012619.20221129175020.jpg",
+                "author": "도토리에듀 편집부^아이러브픽셔북스",
+                "discount": "12600",
+                "publisher": "도토리에듀",
+                "pubdate": "20221015",
+                "isbn": "9791196267353",
+                "description": "데이지 퍼스트 리딩은 파닉스를 복습하며 리딩을 시작할 수 있는 교재입니다.\n파닉스 단어와 자주 사용하는 사이트 워드로 구성되어 있으며,\n흥미로운 스토리를 통해 읽기 능력을 향상시킬 수 있습니다. \n파닉스를 끝내고 문장 읽기를 처음 시작하는 학습자들을 위한 리딩 교재입니다. \n재미있는 이야기와 다채롭고 내용 이해를 돕는 삽화를 통해\n영어 리딩 학습에 재미를 느끼며 학습할 수 있도록 도와줍니다. \n사이트 워드와 패턴화된 문장이 자연스럽게 스토리에 담겨있어 영어문장 읽기 향상 및\n영어 읽기에 자신감을 높여주는 교재입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄",
+                "DDC": "895.636",
+                "UPDATE_DATE": "20190227",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "지은이: 시마모토 리오 ;옮긴이: 김난주",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7074130_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7074130_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7074130_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "357 p.",
+                "CONTROL_NO": "CIP2018042033",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965746775",
+                "INPUT_DATE": "20181219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "퍼스트 러브",
+                "PUBLISH_PREDATE": "20190215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

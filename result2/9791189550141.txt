@@ -1,0 +1,67 @@
+{
+    "otitle": "어른의 끝맺음",
+    "oauthor": "오치아이 게이코 저/서수지 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어른의 끝맺음 (그냥 어른 말고 괜찮은 어른으로 살고 싶다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466999675",
+                "image": "https://shopping-phinf.pstatic.net/main_3246699/32466999675.20221019132116.jpg",
+                "author": "오치아이 게이코",
+                "discount": "12150",
+                "publisher": "탐나는책",
+                "pubdate": "20190722",
+                "isbn": "9791189550141",
+                "description": "인생이 다시 시작되는 끝맺음을 전하다!\n\n나이가 들어감에 따라 누구나 자연스레 어른이 된다. 아니다. 그저 어른으로 불릴 뿐이다. 우리는 과연 ‘괜찮은 어른’으로 살고 있는가? 수많은 시간을 관통하여 다양한 의미에서 끝을 향해 달려가고 있는 한 사람으로, 그리고 어른으로서 저자가 전하는 다양한 끝맺음은 우리에게 많은 것을 생각하게 한다.\n\n모든 것의 끝을 의미하는 죽음에서부터, 누군가에게는 그저 삶의 수단이자, 누군가에게는 삶의 의미가 되는 일의 끝맺음, 그물처럼 얽혀 있는 인간관계의 끝맺음, 다음 세대를 생각하며 사회운동가로 또 어른으로서 맺어야 할 사회적 끝맺음, 손에 쥐는 즐거움에서 이제는 하나씩 내려놓아야 할 생활 속의 끝맺음까지…. \n\n어떤 의미에서 이 모든 끝맺음은 마무리를, 마지막을 준비하는 것이 아닌 남겨진 날들을 더 멋지게, 더 홀가분하고 편안하게 살아가겠다는 자신과의 약속이다. 그래서 『어른의 끝맺음』은 끝이 아닌, 다시 인생이 시작되는 이야기를 전하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "탐나는책",
+                "DDC": "",
+                "UPDATE_DATE": "20190729",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오치아이 게이코 지음 ;서수지 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "834",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "245 p.",
+                "CONTROL_NO": "CIP2019025409",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189550141",
+                "INPUT_DATE": "20190628",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "어른의 끝맺음",
+                "PUBLISH_PREDATE": "20190722",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

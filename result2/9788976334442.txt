@@ -1,0 +1,67 @@
+{
+    "otitle": "그들의 성공엔 특별한 스토리가 있다",
+    "oauthor": "삼성경제연구소 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그들의 성공엔 특별한 스토리가 있다 (한발 앞서가는 기업들의 남다른 1%)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474235267",
+                "image": "https://shopping-phinf.pstatic.net/main_3247423/32474235267.20221019132525.jpg",
+                "author": "SERICEO 콘텐츠팀",
+                "discount": "11700",
+                "publisher": "삼성경제연구소",
+                "pubdate": "20120521",
+                "isbn": "9788976334442",
+                "description": "잘나가는 기업들의 이유 있는 이야기!\n\n경영자의 영감을 자극하는 경영사례 콘텐츠를 한데 묶은 「SERICEO 실전경영」시리즈 제3권 『그들의 성공엔 특별한 스토리가 있다』. 이 책은 톡톡 튀는 아이디어와 창의력을 무기로 위기를 극복하고 각각의 분야에서 놀라운 성과를 보여준 기업들의 성공스토리 45편을 담고 있다. 제품을 만들기 전에 가격부터 정하고 그에 맞춰 시스템 자체를 개선함으로써 ‘고가의 내구재’에서 ‘저가의 소모품’으로 가구업의 개념을 바꿔버린 이케아부터 인기스타가 등장하는 화려한 광고 하나 없이도 ‘재미있는 화장, 이야깃거리가 있는 화장’으로 대성공을 거둔 베네피트, 채소나 고기를 팔 듯 의류도 저울에 달아 그 무게만큼 돈을 받는 독특한 콘셉트로 소비자를 흥분시킨 킬로패션 등 불확실한 경영의 세계에서 자신만의 특별한 스토리로 성공의 그물을 촘촘히 엮어온 기업들을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "삼성경제연구소",
+                "DDC": "",
+                "UPDATE_DATE": "20170113",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "삼성경제연구소 엮음",
+                "SERIES_TITLE": "SERICEO 실전경영 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "03",
+                "EA_ISBN": "9788976334442",
+                "INPUT_DATE": "20120531",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "그들의 성공엔 특별한 스토리가 있다 ",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

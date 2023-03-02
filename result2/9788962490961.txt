@@ -1,0 +1,78 @@
+{
+    "otitle": "Fashion Buying(패션바잉)",
+    "oauthor": "류문상 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:44 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "Fashion Buying(패션바잉)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436265140",
+                "image": "https://shopping-phinf.pstatic.net/main_3243626/32436265140.20221019123623.jpg",
+                "author": "류문상",
+                "discount": "24300",
+                "publisher": "서훈",
+                "pubdate": "20180227",
+                "isbn": "9788962490961",
+                "description": "패션 MD 중 유통 MD 즉, 바이어가 되고자 하는 학생들의 욕구는 증가되고 있고 그중에서도 해외 수입 브랜드에 대한 관심이 커진 지는 오래이며, 급속하게 변화하는 실무적 환경에서 관련 실무자가 즉각적으로 활용할 수 있는 바잉 지침서의 부재에 대한 안타까움에 “패션바잉”을 출간하게 되었다.\n\n패션 디자이너를 꿈꾸며 의류 관련 학과에 지망하고, 공부하던 학생들의 장래 목표가 점차로 패션 MD나 바이어 쪽으로 전환되고 있고 패션 상품의 영역이 의류 중심에서 보다 다양한 제품군으로 확대되고 있는 상황에서 과거에는 그리 비중을 두지 않았던 의류 외 제품에 대한 상품 지식 및 외국어 능력, 재무나 무역에 대한 지식 등이 필수 사항으로 요구되고 있으며 이러한 영역에서의 전문성은 취업을 하거나 실무 환경에서 차별화된 능력을 발휘하는데 매우 중요한 요인으로 부각되고 있다.\n\n따라서 이 책은 크게 두 개의 파트로 구성되어 있다."
+            },
+            {
+                "title": "Fashion Buying(패션 바잉)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503283241",
+                "image": "https://shopping-phinf.pstatic.net/main_3250328/32503283241.20221019101511.jpg",
+                "author": "류문상",
+                "discount": "27000",
+                "publisher": "경춘사",
+                "pubdate": "20120510",
+                "isbn": "9788958951032",
+                "description": "『Fashion Buying(패션 바잉)』은 크게 2개의 파트로 구성되어 있으며 전반부에서는 패션마케팅 내용을 보다 쉽고 실무적으로 재구성하여 학생들의 기본을 다지고, 후반부에서는 패션 바이어가 되기 위해 반드시 갖추어야 할 관련 지식들을 중점으로 다루었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "서훈",
+                "DDC": "",
+                "UPDATE_DATE": "20180329",
+                "EA_ADD_CODE": "93590",
+                "PUBLISHER_URL": "http://www.choolpansa.com",
+                "AUTHOR": "저자: 류문상",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "27000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "414 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962490961",
+                "INPUT_DATE": "20180205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "패션바잉",
+                "PUBLISH_PREDATE": "20180227",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

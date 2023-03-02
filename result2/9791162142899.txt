@@ -1,0 +1,78 @@
+{
+    "otitle": "사랑하기 좋은 계절에",
+    "oauthor": "이묵돌 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:13 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "사랑하기 좋은 계절에 (언젠가 끝나게 될 사랑에 온전한 나를 바치기로 했다 | 이묵돌 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473033586",
+                "image": "https://shopping-phinf.pstatic.net/main_3247303/32473033586.20221228074412.jpg",
+                "author": "이묵돌",
+                "discount": "11700",
+                "publisher": "부크럼",
+                "pubdate": "20190904",
+                "isbn": "9791162142899",
+                "description": "사랑 앞에서 솔직한 한 사람의 이야기!\n\n서로의 상처를 안아주었던 실제 연인과 있던 일들을 다룬 아주 솔직한 이야기 『사랑하기 좋은 계절에』. 김리뷰라는 이름으로 다양한 책을 집필했던 작가 이묵돌의 사랑 에세이이다. 만남과 헤어짐 가운데서 끊임없이 표류하는, 존재 여부조차 불분명한 어느 종점을 찾아 떠돌고 있을 어떤 시간의 자신과 그 이웃들을 위해 써내려간 이야기를 담았다.\n\n이 책에서 저자는 사랑 에세이라고 해서 모든 책이 달달하고 예쁘지는 않다는 것을 제대로 보여준다. 이미 사랑에 크게 데여 새로운 누군가를 사랑하게 될 때의 무서움 같은 것을 알고, 조금 다른 모양의 사랑이 있다는 것도 알게 된 저자가 가공되지 않은 날 것의 감정들을 생생하게 들려준다."
+            },
+            {
+                "title": "사랑하기 좋은 계절에 (큰글씨책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454185302",
+                "image": "https://shopping-phinf.pstatic.net/main_3245418/32454185302.20221019105539.jpg",
+                "author": "이묵돌",
+                "discount": "25200",
+                "publisher": "부크럼",
+                "pubdate": "20211217",
+                "isbn": "9791162143841",
+                "description": "김리뷰라는 이름으로 다양한 책을 집필했던 작가 이묵돌의 ‘사랑 에세이’\n\n사랑 에세이라고 해서 모든 책이 달달하고 예쁘지는 않다는 것을 제대로 보여주는 책이다. 지나치게 현실적이어서 오히려 현실감이 덜할 정도. 이미 사랑에 크게 데여본 사람이라면 새로운 누군가를 사랑하게 될 때의 무서움 같은 것을 안다. 그리고 작가는 무서움을 ‘아는 사람’이다. 그럼에도 불구하고 그는 새로운 사랑을 받아들였다. 그리고 조금 다른 모양의 사랑이 있다는 것도 알게 됐다. 이 책은 서로의 상처를 안아주었던 ‘실제 연인과 있던 일’들을 다룬 아주 솔직한 수필이다. 제목 그대로 “사랑하기 좋은 계절에” 읽기 좋은 책."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Bookrum",
+                "DDC": "",
+                "UPDATE_DATE": "20190930",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://www.bookrum.co.kr",
+                "AUTHOR": "지은이: 이묵돌",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "114*184",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "220 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162142899",
+                "INPUT_DATE": "20190902",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사랑하기 좋은 계절에",
+                "PUBLISH_PREDATE": "20190904",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

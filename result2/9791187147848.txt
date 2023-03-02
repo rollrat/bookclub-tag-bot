@@ -1,0 +1,67 @@
+{
+    "otitle": "헤르미네와의 이별",
+    "oauthor": "야스민 슈라이버 저/이승희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "헤르미네와의 이별 (반려 햄스터를 통해 본 삶과 노화, 죽음 그리고 애도에 대하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463284497",
+                "image": "https://shopping-phinf.pstatic.net/main_3246328/32463284497.20221019105845.jpg",
+                "author": "야스민 슈라이버",
+                "discount": "14400",
+                "publisher": "아날로그(글담)",
+                "pubdate": "20211115",
+                "isbn": "9791187147848",
+                "description": "우리는 모두 언젠가 죽는다\n반려 햄스터 헤르미네와 함께한 삶과 죽어감, 그리고 죽음에 대한 탐구\n\n생명이 있는 존재는 언젠가 반드시 죽는다. 이는 피할 수 없는 일이지만, 모두가 외면하고 싶어하는 사실이기도 하다. 이 책에서는 밀레니얼 세대의 젊은 저자가 반려 햄스터 헤르미네의 죽음을 계기로 ‘생명이라면 결코 피할 수 없는 죽음’에 대해 과학적, 인문학적으로 살펴본다.\n생명체와 그 생명체가 속한 생태계에서 죽음은 일상적이지만 거대한 사건이다. 그렇다면 인간과 마찬가지로 동물들도 죽음을 슬퍼할까? 거대한 숲에서 아름드리 나무 하나가 쓰러질 때 곁에 있던 나무는 어떻게 반응할까? 동물과 식물의 죽음은 인간의 죽음과 어떤 상관관계가 있을까? 거대한 생태계 속에서 죽음은 어떤 의미를 지니고 있을까? 그리고 우리는 피할 수 없는 이 엄청난 사건을 어떻게 받아들여야 할까? 이 책에서는 생명과 죽음, 성장과 노화에 대한 과학적인 분석부터 죽음에 직면한 우리 인간의 실존 문제까지, 삶과 죽음의 문제를 쉽고 유머러스하게 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아날로그 :글담출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20211124",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "야스민 슈라이버 지음 ;이승희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187147848",
+                "INPUT_DATE": "20210929",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "헤르미네와의 이별",
+                "PUBLISH_PREDATE": "20211115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

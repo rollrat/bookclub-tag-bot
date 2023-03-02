@@ -1,0 +1,67 @@
+{
+    "otitle": "아들을 위한 1분 기도",
+    "oauthor": "김태곤 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아들을 위한 1분 기도",
+                "link": "https://search.shopping.naver.com/book/catalog/32485463632",
+                "image": "https://shopping-phinf.pstatic.net/main_3248546/32485463632.20230202071613.jpg",
+                "author": "김태곤 옮김",
+                "discount": "4500",
+                "publisher": "생명의말씀사",
+                "pubdate": "20071120",
+                "isbn": "9788904157389",
+                "description": "아들을 위한 1분 기도는 부모 자식 간의 의견 충돌도, 이해 부족도, 아들과 가족을 향하신 주님의 목적과 큰 비전을 무너뜨리지 못함을 깨닫게 해준다. 한 부모와 한 아들 사이에 소중한 시간을 잘 활용하도록 도와주며, 아들의 안전과 보호를 주께 의탁하도록 도와준다. 아들에게 주의 길을 가르쳐 그 마음이 진리를 떠나지 않도록  기도하는 부모의 마음이 담겨있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20080123",
+                "EA_ADD_CODE": "04230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "생명의말씀사 [편]",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "8904001307",
+                "REAL_PUBLISH_DATE": "20071120",
+                "TITLE_URL": "",
+                "PRE_PRICE": "3000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "5000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904157389",
+                "INPUT_DATE": "20080123",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "아들을 위한 1분 기도 ",
+                "PUBLISH_PREDATE": "20071120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

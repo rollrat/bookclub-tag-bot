@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 왜 고민하는 게 더 편할까",
+    "oauthor": "가토 다이조 저/이정환 역/이현안 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 왜 고민하는 게 더 편할까 (고민될 때, 심리학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506005793",
+                "image": "https://shopping-phinf.pstatic.net/main_3250600/32506005793.20220527042157.jpg",
+                "author": "가토 다이조",
+                "discount": "0",
+                "publisher": "나무생각",
+                "pubdate": "20161128",
+                "isbn": "9791186688649",
+                "description": "내 고민의 실체를 명확하게 알려주는 심리학!\n\n고민하는 것은 괴로운 일이다. 고민 없는 인생을 살고 싶지만 회사일, 가족 문제, 인간관계 등 고민이 끊이지 않는다. 문제를 해결하기 위한 능동적인 고민은 유익하지만, 고민을 위한 고민은 불필요하다. 알코올 의존증에 걸린 사람은 술을 마시는 행위가 자신에게 전혀 도움이 되지 않는다는 사실을 알고 있지만 술을 마시지 않고는 견디지 못한다. ‘고민 의존증’을 앓고 있는 사람도 마찬가지다. 하지만 거의 대부분의 사람들에게 이런 고민 의존증이 있다. \n\n일본 와세다 대학 심리학과 명예교수이며 일본 정신위생학회 고문인 가토 다이조는 고민 의존증을 단순한 결정 장애로 보지 않고, 마음이 성장해온 지도를 되짚어봄으로써 고민의 이면에 심리적 결핍과 분노, 존재감 상실 등이 자리하고 있음을 파악했다. 그는 자신의 감추어진 분노의 크기가 어느 정도인지를 깨닫는 것이 가장 중요하다고 말하며, 이를 통해 진정으로 바라는 것이 무엇인지를 이해하면 인생에 대해서도 올바른 태도를 취할 수 있다고 강조한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)나무생각",
+                "DDC": "152.4",
+                "UPDATE_DATE": "20170412",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "가토 다이조",
+                "SERIES_TITLE": "",
+                "KDC": "181.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5850040_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5850040_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "264",
+                "CONTROL_NO": "CIP2016025613",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186688649",
+                "INPUT_DATE": "20161024",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 왜 고민하는 게 더 편할까",
+                "PUBLISH_PREDATE": "20161128",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

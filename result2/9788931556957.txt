@@ -1,0 +1,67 @@
+{
+    "otitle": "줌 & 구글 클래스룸 MS 팀즈 + EBS 온라인 클래스",
+    "oauthor": "문택주,이문형,앤미디어 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "줌 & 구글 클래스룸 MS팀즈 + EBS 온라인 클래스 (핵심만 쏙쏙! 한번에 원격수업 마스터하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454956530",
+                "image": "https://shopping-phinf.pstatic.net/main_3245495/32454956530.20221019124717.jpg",
+                "author": "문택주^이문형^앤미디어",
+                "discount": "21600",
+                "publisher": "성안당",
+                "pubdate": "20201130",
+                "isbn": "9788931556957",
+                "description": "한 권으로 비대면 수업 솔루션을 마스터하는 \n줌과 구글 클래스룸, MS 팀즈의 모든 것!\n\n코로나로 각급 학교에 일상화된 비대면 수업을 선생님이나 학생, 강사, 학부모 누구나 한권에 마스터할 수 있는 비대면 수업 솔루션 종합 입문서입니다. 비대면 솔루션은 학교 현장에서, 교육 현장에서 기업 현장에서 다양하게 적용할 수 있지만 특히 학교에서 중요합니다. 이 책에서는 줌과 구글 클래스룸, MS 팀즈, EBS 온라인 클래스까지 핵심 기능을 뽑아 한 권의 통합본으로 묶어 구성하였으며, 클래스별로 3권으로 분권이 가능해 필요한 클래스만 따로 떼어 학습할 수도 있습니다. \n \n이 책은 온라인 수업의 시작인 수업을 개설한 다음 과제를 제작, 등록할 수 있으며, 학생들의 과제의 평가, 피드백까지 상세하게 소개하고 있습니다. 설문지 기능으로 단답형이나 장문형, 퀴즈 형태의 과제를 만들 수 있으며, 학생들에게 질문을 하고 해당 답변을 주고받을 수 있는 쌍방향 피드백이 가능합니다. 물론 온라인 수업에 최적화된 스마트폰 앱을 사용하여 언제 어디서나 수업이 가능한 방법을 제시합니다. 수업 영상은 동영상으로 저장되며, 대학 강의 실무 영상 편집자가 알려주는 강의 영상 편집 노하우까지 수록되었습니다.  \n이제 기본 학습 방식에서 창의성을 발휘하여 다양한 프로그램이나 앱을 적재적소에 함께 공유하고 사용하면 보다 효율적인 온라인 수업이 진행될 것입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210115",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "문택주,이문형,앤미디어 지음",
+                "SERIES_TITLE": "",
+                "KDC": "373.33",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/18/9788931556957.jpg",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "152 p.",
+                "CONTROL_NO": "CIP2020049579",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931556957",
+                "INPUT_DATE": "20201120",
+                "SET_EXPRESSION": "",
+                "VOL": "1권",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "줌 & 구글 클래스룸 MS 팀즈",
+                "PUBLISH_PREDATE": "20201130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

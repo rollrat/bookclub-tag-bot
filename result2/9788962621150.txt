@@ -1,0 +1,67 @@
+{
+    "otitle": "세상물정의 물리학",
+    "oauthor": "김범준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상물정의 물리학 (복잡한 세상을 꿰뚫어 보는 통계물리학의 아름다움)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473341766",
+                "image": "https://shopping-phinf.pstatic.net/main_3247334/32473341766.20230218110441.jpg",
+                "author": "김범준",
+                "discount": "12600",
+                "publisher": "동아시아",
+                "pubdate": "20150916",
+                "isbn": "9788962621150",
+                "description": "인문학적 상상과 발상을 과학을 통해 풀어가는 매력!\n\n『세상물정의 물리학』은 ‘세상물정’과 동떨어져 연구실에만 갇혀있을 것 같은 물리학자가 보여주는 특이하다 못해 톡톡 튀는 관점과 방법, 글솜씨를 통해 풍성한 융합-통섭의 잔치에 초대한다. 1장은 한국 사회와 민주주의, 정의에 대한 물리학자의 ‘과학적인’ 의견 제시가, 2장은 복잡한 세상의 사건들에 대한 재미있는 ‘통계적’ 분석과 의미 발견이, 3장은 예술, 아름다움, 뇌, 체질량지수, 자연스러움에 대한 문학적 감성이 묻어나는 물리학자의 말들이 담겨있다.\n\n사회학적 고민과 물리학-통계학적 철학과 방법론이 만났을 때 우리는 세상을 다른 방식으로 볼 기회를 얻게 된다. 저자 김범준의 주요 연구 주제들은 ‘지금 여기’ 사회와 정의를 향해 있다. 빅데이터를 이용해 민주주의 사회의 소통방식을 논하면서 ‘뒷담화를 권’하고, 연결망 과학으로 메르스 사태를 분석하면서 초기 방역 실패와 정부의 ‘비공개’ 원칙을 상황 악화의 주범으로 ‘과학적으로’ 비판한다. 개미는 알고 정치인은 모르는 비밀, 집단지성의 가능성이라든지 학교와 병원, 공공성과 경제효율의 딜레마를 논하는 글을 보면 ‘지금 여기’ 좋은 삶, 풍요로운 사회를 이야기하던 사회학자와 공명하는 물리학자 김범준의 면모에 반하지 않을 수 없을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동아시아",
+                "DDC": "530",
+                "UPDATE_DATE": "20151008",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김범준",
+                "SERIES_TITLE": "",
+                "KDC": "420.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4867850_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4867850_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "288페이지 내외",
+                "CONTROL_NO": "CIP2015024358",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962621150",
+                "INPUT_DATE": "20150903",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "세상물정의 물리학",
+                "PUBLISH_PREDATE": "20150916",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

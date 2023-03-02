@@ -1,0 +1,67 @@
+{
+    "otitle": "50대, 스트레칭을 잘해야 진짜 남자다",
+    "oauthor": "김찬오 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "50대, 스트레칭을 잘해야 진짜 남자다 (10분 운동법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505168200",
+                "image": "https://shopping-phinf.pstatic.net/main_3250516/32505168200.20220527031027.jpg",
+                "author": "김찬오",
+                "discount": "0",
+                "publisher": "보누스",
+                "pubdate": "20160425",
+                "isbn": "9788964942505",
+                "description": "『50대, 스트레칭을 잘해야 진짜 남자다』는 몸의 통증을 없애고 일상생활에서 컨디션을 최고조로 만들어줄 스트레칭 동작 30가지를 소개한다. 스트레칭은 50대의 굳어버린 근육과 관절에 활기를 불어넣고 유연성을 높여주며, 몸의 노화를 막아주는 동시에 운동 부상까지도 예방하는 최고의 운동이다. 다른 운동과 달리 나이나 성별 또는 체격 같은 제약 조건이 거의 없기 때문에, 50대 누구라도 부담 없이 할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)보누스",
+                "DDC": "613.70449",
+                "UPDATE_DATE": "20160510",
+                "EA_ADD_CODE": "14690",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김찬오",
+                "SERIES_TITLE": "",
+                "KDC": "593.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788964942512",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5333298_3.jpg",
+                "PRE_PRICE": "8000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5333298_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "80",
+                "CONTROL_NO": "CIP2016008464",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964942505",
+                "INPUT_DATE": "20160330",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "50대, 스트레칭을 잘해야 진짜 남자다",
+                "PUBLISH_PREDATE": "20160425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14690 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

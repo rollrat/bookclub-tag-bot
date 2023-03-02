@@ -1,0 +1,89 @@
+{
+    "otitle": "듣고 싶은 말만 들을래요",
+    "oauthor": "박선희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:57 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "듣고 싶은 말만 들을래요 (소통, 공감 능력을 키워 주는 쓴소리의 힘!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474621618",
+                "image": "https://shopping-phinf.pstatic.net/main_3247462/32474621618.20230131164334.jpg",
+                "author": "박선희",
+                "discount": "9000",
+                "publisher": "팜파스",
+                "pubdate": "20180731",
+                "isbn": "9791170262145",
+                "description": "주인공 다림이는 엄마의 지적을 잔소리로, 친구의 의견을 딴지로 여기는 등 자신의 생각과는 다른 말을 하는 사람들 때문에 스트레스를 받는다. 그러던 어느 날 신기한 자판기를 만나, 주변 사람들이 자신이 좋아하는 말만 해 주는 방법을 발견한다.\n이후 이어지는 다림이의 이야기를 보며, 어린이 친구들은 세상에 내가 좋아하는 말만 해 주는 사람들로 가득 차면 과연 행복해질지, 자신에게 좋을지 스스로 질문하게 될 것이다. 더 나아가 나와 다른 생각을 말하는 상대방, 상대방의 의견을 받아들이는 태도에 대해 생각해 볼 수 있다.\n당장은 쓰지만 결국 어린이 친구들에게 도움이 되는 쓴소리의 가치를 깨닫고 더 나은 어린이로 성장하는 데 이 책이 도움이 되어 줄 것이다."
+            },
+            {
+                "title": "2021 사고력을 키워주는 초등2학년 교과연계 추천도서 전6권 (듣고 싶은 말만 들을래요, 나라는 다르지만 모두 친구가 될 수 있어!, 커다란 일을 하고 싶어요, 처음 정리 생활: 바른 습관책, 한밤의 철새 통신, 비밀 귀신)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466602709",
+                "image": "https://shopping-phinf.pstatic.net/main_3246660/32466602709.20220519215720.jpg",
+                "author": "",
+                "discount": "0",
+                "publisher": "팜파스",
+                "pubdate": "20080725",
+                "isbn": "6000357019",
+                "description": ""
+            },
+            {
+                "title": "2020 독서력을 키워주는 초등2학년 교과연계 추천도서 8종 세트 (듣고 싶은 말만 들을래요, 우리반 딴지왕 또기찬! 멋지게 딴지 걸다, 유대인 수용소의 두 자매 이야기, 세포가 뭐예요?, 용도 바이올리니스트가 될 수 있나요?, 못생긴 씨앗 하나)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496896813",
+                "image": "https://shopping-phinf.pstatic.net/main_3249689/32496896813.20220521044206.jpg",
+                "author": "",
+                "discount": "0",
+                "publisher": "기타",
+                "pubdate": "20100128",
+                "isbn": "6000401215",
+                "description": "&nbsp;듣고 싶은 말만 들을래요\n우리반 딴지왕 또기찬! 멋지게 딴지 걸다\n유대인 수용소의 두 자매 이야기\n세포가 뭐예요?\n용도 바이올리니스트가 될 수 있나요?\n못생긴 씨앗 하나\n금동향로 속으로 사라진 고양이\n오늘도 당신의 통장에 8만 6400원이 입금되었습니다!&nbsp;"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20180918",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "박선희 지음 ;이미진 그림",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6808457_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6808457_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "108 p.",
+                "CONTROL_NO": "CIP2018022220",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170262145",
+                "INPUT_DATE": "20180713",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "듣고 싶은 말만 들을래요",
+                "PUBLISH_PREDATE": "20180731",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

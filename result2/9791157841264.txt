@@ -1,0 +1,67 @@
+{
+    "otitle": "나쁜 뉴스의 나라",
+    "oauthor": "조윤호 저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나쁜 뉴스의 나라 (우리는 왜 뉴스를 믿지 못하게 되었나)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480312645",
+                "image": "https://shopping-phinf.pstatic.net/main_3248031/32480312645.20221228073237.jpg",
+                "author": "조윤호",
+                "discount": "11700",
+                "publisher": "한빛비즈",
+                "pubdate": "20160520",
+                "isbn": "9791157841264",
+                "description": "화려한 말 뒤에 숨겨진 뉴스의 본심을 읽어라!\n\n『나쁜 뉴스의 나라』는 매체비평지에서 일하는 기자 조윤호의 저서로, 우리의 일상을 지배하고 있는 나쁜 뉴스에 대한 고민에서 출발했다. 나쁜 뉴스란 무엇인가? 저자는 대중의 뇌리에 남은 다양한 사례를 통해 나쁜 뉴스가 무엇인지를 보여 준다. 이 책에서는 크게 세 가지 유형으로 분류하는데, ‘원인과 결과, 전제 조건을 따지지 않는 기사’, ‘행간으로 본질을 흐리는 기사’, ‘자사의 이해관계에 따른 보도로 팩트를 왜곡하는 기사’들이 그러하다.\n\n이 외에도 저자는 보수 언론의 고질적 병폐와 구조적 모순부터 신뢰의 아이콘으로 자리매김한 JTBC 손석희 앵커에 대한 심도 있는 분석까지, 보수 진보를 가리지 않고 자신이 몸담고 있는 언론계의 명암을 가감 없이 파헤친다. 그리고 지금이야말로 뉴스의 정의를 다시 생각할 때라고 말한다. 나쁜 뉴스가 어떻게 만들어지는지 아는 독자에겐 더 이상 나쁜 뉴스가 통하지 않는다. 지금의 언론 불신이 오히려 뉴스를 다시 정의할 수 있는 기회가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈(주)",
+                "DDC": "",
+                "UPDATE_DATE": "20210407",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "조윤호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157841264",
+                "INPUT_DATE": "20160524",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나쁜 뉴스의 나라 ",
+                "PUBLISH_PREDATE": "20160520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

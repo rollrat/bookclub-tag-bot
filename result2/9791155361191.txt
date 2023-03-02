@@ -1,0 +1,67 @@
+{
+    "otitle": "그린 인테리어 교과서",
+    "oauthor": "주부의 벗사 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그린 인테리어 교과서 (좋아하는 식물 하나만 두어도 인테리어가 된다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492717684",
+                "image": "https://shopping-phinf.pstatic.net/main_3249271/32492717684.20221019152030.jpg",
+                "author": "주부의 벗사",
+                "discount": "13500",
+                "publisher": "즐거운상상",
+                "pubdate": "20180515",
+                "isbn": "9791155361191",
+                "description": "그린 인테리어의 트렌드와 장식법, 생활 속에서 즐기는 법, 우리 집에 맞는 식물 고르기에서 키우기, 장식하기까지 그린 인테리어의 기본부터 차근차근 배울 수 있다. 특히 1장 ‘그린 인테리어가 있는 11가지 Styles’는 가장 핫한 인스타그래머 11인의 그린 인테리어 스타일을 소개하고 있다. 집안 곳곳에 센스있게 식물을 배치하여 싱그러운 공간을 만들고, 식물에게 꼭 필요한 햇살과 바람을 잘 활용하여 최고의 공간을 만들어낸 이들. 현관부터 거실, 침실, 주방, 해가 들지 않는 욕실까지 장소별로 다양한 식물을 들여놓고 힐링하며 즐기는 ‘최신 그린 인테리어 트렌드’를 쉽게 배울 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "즐거운상상",
+                "DDC": "",
+                "UPDATE_DATE": "20190211",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 주부의 벗사 ;옮긴이: 김수정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "143 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155361191",
+                "INPUT_DATE": "20180419",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "그린 인테리어 교과서",
+                "PUBLISH_PREDATE": "20180515",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

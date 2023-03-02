@@ -1,0 +1,67 @@
+{
+    "otitle": "안녕, 죽음아",
+    "oauthor": "이윤희 글/배정식 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "안녕, 죽음아",
+                "link": "https://search.shopping.naver.com/book/catalog/32454966999",
+                "image": "https://shopping-phinf.pstatic.net/main_3245496/32454966999.20221019114306.jpg",
+                "author": "이윤희",
+                "discount": "12420",
+                "publisher": "하마",
+                "pubdate": "20220325",
+                "isbn": "9791190521468",
+                "description": "아이에게 ‘죽음’을 어떻게 설명해야 할까요?\n\n사랑하는 사람의 죽음은 아이의 나이가 어릴수록 더욱 설명하기 어렵습니다. 하지만, 죽음은 반드시 일어나는 일입니다. 누구는 조금 빨리, 누구는 조금 늦을 뿐이죠.\n\n사람들은 ‘죽음’에 관한 이야기를 꺼려합니다. 죽음에 관해 생각하고 이야기 나누는 책을 보는 것이 불행을 불러온다고 생각하기도 합니다. 아이에게 죽음을 감추거나, 죽음을 받아들일 수 있는 나이가 될 때까지 미루기도 합니다. 하지만, 아이에게 죽음을 솔직하게 알려주는 것은 죽음을 바로 이해하는 첫걸음이 될 수 있습니다. 『안녕, 죽음아』는 아이가 죽음에 대한 호기심이나 질문을 하는 상황이 생겼을 때 도움을 줄 수 있을 것입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20220609",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이윤희 글 ;배정식 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*290",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[51] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190521468",
+                "INPUT_DATE": "20210818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "안녕, 죽음아",
+                "PUBLISH_PREDATE": "20220325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

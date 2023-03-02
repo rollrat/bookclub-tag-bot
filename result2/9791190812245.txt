@@ -1,0 +1,67 @@
+{
+    "otitle": "질문으로 완성하는 청소년 글쓰기",
+    "oauthor": "전은경,정지선 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "질문으로 완성하는 청소년 글쓰기 (에세이부터 서술·논술형까지 6단계 문장력 전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/32451953183",
+                "image": "https://shopping-phinf.pstatic.net/main_3245195/32451953183.20221229072512.jpg",
+                "author": "전은경^정지선",
+                "discount": "13050",
+                "publisher": "북바이북",
+                "pubdate": "20210820",
+                "isbn": "9791190812245",
+                "description": "서술.논술형부터 에세이 작문까지, 학생의 문장력으로 고민하는 교사와 학부모, 청소년을 위한 ‘질문 글쓰기법’을 소개한다. 총 6단계로 이루어지는 ‘질문 글쓰기’는 단계별로 적절한 질문을 던지고 그에 답함으로써 한 편의 글을 완성하도록 돕는 작법을 가리킨다. ‘질문’을 글쓰기의 시작으로 두는 이 책은 질문이 사유로, 사유가 다시 질문으로 이어지며 청소년의 사고가 확장된다는 점을 전제로 한다.\n\n\n\n1장에서는 질문과 글쓰기의 관계를 알아보며 좋은 질문과 사유의 중요성을 강조한다. 2장에서는 6단계로 진행되는 질문 글쓰기를 실제 학생들의 작문 사례를 통해 자세히 설명할 뿐 아니라, 예시문을 보고 글쓰기 초보자도 쉽게 따라 할 수 있도록 한다.\n\n\n\n3장에서는 글쓰기 주제로 고민하는 학생들을 위해 동서고금 막론하는 주제들을 단계별로 다양하게 제시한다. 4장에서는 글쓰기 교육 현장에서 가장 많이 나오는 고민들을 짚어보고 질문을 통한 해결법을 안내한다. 모든 사례가 현장에서 나온 만큼 ‘질문 글쓰기법’를 통한 작문이 어떤 효과가 있는지 생생하게 접할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "",
+                "UPDATE_DATE": "20211015",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전은경,정지선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/09/9791190812245.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "198 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190812245",
+                "INPUT_DATE": "20210809",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "질문으로 완성하는 청소년 글쓰기 ",
+                "PUBLISH_PREDATE": "20210820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

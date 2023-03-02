@@ -1,0 +1,67 @@
+{
+    "otitle": "나치의 아이들",
+    "oauthor": "타냐 크라스냔스키 저/이현웅 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나치의 아이들 (전범의 자식들, 역사와 대면하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485006450",
+                "image": "https://shopping-phinf.pstatic.net/main_3248500/32485006450.20220527032153.jpg",
+                "author": "타냐 크라스냔스키",
+                "discount": "15750",
+                "publisher": "갈라파고스",
+                "pubdate": "20170823",
+                "isbn": "9791187038221",
+                "description": "절대악을 저지른 나치 전범들도 누군가의 아버지였다!\n\n인류 역사상 최악의 범죄를 저지른 사람들. 특정 인종을 어른, 아이 가릴 것 없이 절멸시키고자 했던 피도 눈물도 없는 희대의 악마 같은 나치 전범들에게도 가족이 있고 자식이 있었다. 『나치의 아이들』은 전쟁 중에는 특권층의 자식으로 부유한 생활을 누리다가 전쟁이 끝난 후 전범의 자식이 되어 생활이 180도 달라진 나치의 아이들의 삶의 변화를 추적한다.\n\n자신들이 벌인 절멸 작업이 독일을 위한 것이었다고 믿어 의심치 않으며 스스로를 도덕적 존재로 생각했던 이들은 자신들이 하는 일을 자식에게는 철저히 비밀로 부쳤다. 좋은 아버지, 좋은 남편의 모습밖에 모르던 나치 전범의 가족들은 전쟁이 끝나고 나서야 끔찍한 진실과 마주하게 되었다. 과연 이들은 아버지를 어떻게 바라봤을까? \n\n책에서는 홀로코스트 설계자 하인리히 힘러, 제국 원수 헤르만 괴링, 총통의 후계자 루돌프 헤스, 크라쿠프의 백정 한스 프랑크, 히틀러의 오른팔 마르틴 보어만, 아우슈비츠 소장 루돌프 회스, 악마의 건축가 알베르트 슈페어, 생체실험가 요제프 멩겔레의 부자 혹은 부녀 관계를 다루고 있다. \n\n몇몇 이들은 아버지가 나치즘에 자발적으로 참여한 정도를 최소화하기로 선택했고, 어떤 이들은 아버지를 완전히 긍정하거나 완전히 부정하는 편을 선택했다. 하지만 이들은 어떤 식으로든 자신이 나치의 자식이라는 현실에서 벗어나지 못했다. 언제나 아버지의 운명이 따라다니는 나치의 아이들은 아버지의 범죄를 부인하기 위해 할 수 있는 모든 조치를 취했지만, ‘역사’는 아버지의 행위를 부인하지 못하게 만든 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라파고스",
+                "DDC": "943.087",
+                "UPDATE_DATE": "20170908",
+                "EA_ADD_CODE": "03920",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "타냐 크라스냔스키 지음 ;이현웅 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "925.075",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6317600_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6317600_3.jpg",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "370 p.",
+                "CONTROL_NO": "CIP2017020207",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187038221",
+                "INPUT_DATE": "20170811",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "나치의 아이들",
+                "PUBLISH_PREDATE": "20170823",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

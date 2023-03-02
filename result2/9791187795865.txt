@@ -1,0 +1,67 @@
+{
+    "otitle": "소소 동경(小小東京)",
+    "oauthor": "정다원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "소소 동경 小小東京",
+                "link": "https://search.shopping.naver.com/book/catalog/32444802494",
+                "image": "https://shopping-phinf.pstatic.net/main_3244480/32444802494.20221229073446.jpg",
+                "author": "정다원",
+                "discount": "12600",
+                "publisher": "상상출판",
+                "pubdate": "20180702",
+                "isbn": "9791187795865",
+                "description": "인스타그램 팔로워 3만 6천 명에 달하는 SNS 스타 정다원은 한국을 떠나 12년 동안 호주, 일본, 싱가포르, 미국 등 낯선 도시로 사는 곳을 옮겼다. 그중에서도 그녀에게 도쿄는 모든 게 처음이라 낯설고 서툴렀던 도시였다. 그곳을 떠난 뒤에도 그리운 마음에 몇 번이고 다시 찾았고, 그러는 사이 이전엔 미처 보지 못했던 도쿄의 새로운 매력을 뒤늦게 발견했다. \n\n\n\n마지막으로 찾은 도쿄를 떠나기 전, 저자는 자신이 좋아했던 곳에 들러 사진으로, 그리고 마음으로 사랑하는 도쿄의 모습을 가득 담기 시작했다. 이후 그 사진들을 자신의 SNS에 하나씩 올렸고, 수많은 팔로워들이 그녀가 소소한 일상에서 포착해낸 아름다운 사진에 공감을 표하면서 화제를 모았다. 『소소동경』은 그 기록들을 모아 출간한 책이다. \n\n\n\n‘안다고’ 생각하기 쉬운 도쿄를 새로운 시선으로 그려낸다. 저자에게 도쿄는 교환 학생 시절부터 첫 직장 생활, 남편과의 첫 만남 등 삶의 소중한 순간을 오랫동안 함께해온 도시. 그래서 도쿄를 궁금해할 사람들에게 자신만이 해줄 수 있는 이야기를 하고 싶었다고 한다.\n\n\n\n짧은 여행으로는 도저히 느낄 수 없는 ‘도쿄의 숨겨진 진짜 모습’을 들려주고 싶었다. 그렇게 생활 속의 도쿄 이야기와 명소들을 세심하게 골라 감각적인 사진과 함께 담아냈다. 도쿄를 아직 가보지 않은 이라면 어떤 도시인지 가늠해볼 수 있고, 이미 몇 차례 다녀온 이라면 지금까지와는 다른, 완전히 새로운 시선으로 도쿄를 바라보게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "915.213504",
+                "UPDATE_DATE": "20180705",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글과사진: 정다원",
+                "SERIES_TITLE": "",
+                "KDC": "981.32302",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6699320_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "233 p.",
+                "CONTROL_NO": "CIP2018018076",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187795865",
+                "INPUT_DATE": "20180611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "소소 동경",
+                "PUBLISH_PREDATE": "20180702",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "오래된 집에 머물다",
+    "oauthor": "박다비 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오래된 집에 머물다 (100년 된 제주도 집에서 배우고 살아가는 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32502448981",
+                "image": "https://shopping-phinf.pstatic.net/main_3250244/32502448981.20221229071630.jpg",
+                "author": "박다비",
+                "discount": "10800",
+                "publisher": "상상출판",
+                "pubdate": "20170809",
+                "isbn": "9791187795339",
+                "description": "2017 카카오 브런치북 프로젝트 대상 수상작. 한 신혼부부가 제주에 있는 낡고 오래된 집을 고쳐보기로 한다. 주변 사람들은 하나같이 혀를 내둘렀지만, 그들은 서로가 함께라면 충분히 해낼 수 있을 거라 믿는다. 또 제주에 올라가는 수많은 신축건물의 대열에 끼고 싶진 않았다. 더군다나 100년에 가까운 집을 허물어버리는 건 옳지 않은 일로 다가왔기에, 그렇게 그들은 사서 고생의 길로 접어들게 되었다.\n\n\n\n오래된 만큼 많이 상해 있을 거라 여겼던 서까래는 그 어떤 나무보다 튼튼하고 견고한 모습으로 제 상태를 드러냈다. 나무 본연의 색을 찾아주고자 몇 번이나 사포질을 했고, 냉방을 선택하기보단 좋은 자리에 창을 내어 자연의 힘을 빌리는 쪽을 택했다. 오랜 시간을 견뎌준 자연에게 보답이라도 하듯 그와 함께 살아가는 방향을 걸어가기로 한다. \n\n\n\n오래된 집을 '어떠한 공간'으로 탄생시키는 동안 살면서 무심코 지나쳐온 사소한 것들과 마주하게 되었다. 어느 곳에나 누군가의 손길이 닿아 있고, 지금은 비록 낡은 물건이라 할지라도 가치 있었을 시간이 존재한다는 것. 그들은 단순히 집을 고치기만 한 것이 아니다. 주변을 둘러보고 생각하고 또 아끼는 마음까지 배우게 된 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20170810",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박다비 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6293819_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6293819_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215 p.",
+                "CONTROL_NO": "CIP2017018246",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187795339",
+                "INPUT_DATE": "20170724",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오래된 집에 머물다",
+                "PUBLISH_PREDATE": "20170809",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

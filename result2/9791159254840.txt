@@ -1,0 +1,67 @@
+{
+    "otitle": "신학의 식탁",
+    "oauthor": "주원준,박태식,박현도 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "신학의 식탁 (세 종교학자가 말하는 유다교 이슬람교 그리스도교)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436124413",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436124413.20230218110316.jpg",
+                "author": "주원준^박태식^박현도",
+                "discount": "17100",
+                "publisher": "들녘",
+                "pubdate": "20191129",
+                "isbn": "9791159254840",
+                "description": "하나의 뿌리에서 시작되어 갈라진 세 종교\n왜 갈등과 반목은 끊임없이 되풀이되는가\n\n이 책은 유다교.이슬람교.그리스도교, 세 종교의 관련성을 비교.분석하면서 세 종교를 깊고 폭넓게 이해할 수 있게 도와주는 종교교양서다. 세 종교는 같은 지역에서 서로 비슷한 종교적.문화적 경험을 나눠 가졌지만, 오랜 시간 동안 서로 증오하고, 갈등을 겪으며, 반목했다. \n모든 종교의 기원을 깊이 파들어가보면 주변 종교의 영향을 받았음을, 또 세월이 지나 주변 종교에 영향을 주기도 했음을 발견할 수 있다. 과연 어떤 종교들에서 그런 식의 교섭을 극명하게 읽어낼 수 있을까. 『신학의 식탁』은 세 종교가 서로 어떻게 영향을 주고받았는가를 차근차근 서술한다. 독자들은 세 종교 사이의 묘하고 재미있는 관계를 알 수 있다. 반목과 갈등의 연원을 더듬어보면 서로를 이해할 실마리가 있음을 발견하게 될 것이다. 이 책을 먼저 읽은 한국기독교교회협의회 이홍정 총무와 종교간대화위원회 이정호 위원장의 말처럼, “관점에 따라 다르게 볼 수도 있겠지만, 알고 나면 ‘신심’과 ‘양심’이 살아날 지식”을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20191231",
+                "EA_ADD_CODE": "03210",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "주원준,박태식,박현도 지음",
+                "SERIES_TITLE": "",
+                "KDC": "201",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "147*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "392 p.",
+                "CONTROL_NO": "CIP2019045270",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159254840",
+                "INPUT_DATE": "20191107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "신학의 식탁",
+                "PUBLISH_PREDATE": "20191129",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

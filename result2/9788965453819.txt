@@ -1,0 +1,67 @@
+{
+    "otitle": "부산을 맛보다 두 번째 이야기",
+    "oauthor": "박종호,박나리 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부산을 맛보다: 두 번째 이야기 (부산 맛집 산책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483310031",
+                "image": "https://shopping-phinf.pstatic.net/main_3248331/32483310031.20221227205349.jpg",
+                "author": "박종호",
+                "discount": "14400",
+                "publisher": "산지니",
+                "pubdate": "20161107",
+                "isbn": "9788965453819",
+                "description": "부산의 맛과 이야기를 전하는 『부산을 맛보다 두 번째 이야기』. 모바일을 통해 실시간으로 맛집 정보를 공유하는 시대, 이 책은 진정한 맛의 가치를 전하는 맛집 큐레이터(Curator)가 될 것이다. 책은 부산의 각 구ㆍ군별 맛집을 정리해 부산 어느 지역에서도 맛있는 음식점을 찾을 수 있도록 해두었다. 부산일보 위크앤조이 맛 담당 기자인 저자가 그동안 취재한 수많은 맛집 중 부산 각 지역을 대표할 만한 맛집만을 선정해 엮었다. 특히 저자 특유의 감칠맛 나는 표현은 각 맛집의 대표메뉴부터 분위기까지 그 특징들을 빠짐없이 소개한다. 적절하게 배치된 맛깔나는 컬러사진과 더불어 가격, 위치, 주소, 연락처 등 맛집의 상세한 정보를 팁 형식으로 전하고 있어, 부산 여행을 계획하고 있는 독자들에게는 더없이 친절한 식도락 가이드 역할을 해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "641.013",
+                "UPDATE_DATE": "20161107",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "박나리, 박종호",
+                "SERIES_TITLE": "",
+                "KDC": "594.019",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5827390_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5827390_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 260페이지 내외",
+                "CONTROL_NO": "CIP2016025388",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965453819",
+                "INPUT_DATE": "20161020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "부산을 맛보다 두 번째 이야기",
+                "PUBLISH_PREDATE": "20161107",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

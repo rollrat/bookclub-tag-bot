@@ -1,0 +1,78 @@
+{
+    "otitle": "야단법석 2",
+    "oauthor": "법륜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:20 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "야단법석 2 (지금, 여기서 행복하라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506172871",
+                "image": "https://shopping-phinf.pstatic.net/main_3250617/32506172871.20230216071159.jpg",
+                "author": "법륜",
+                "discount": "14400",
+                "publisher": "정토출판",
+                "pubdate": "20170315",
+                "isbn": "9791187297055",
+                "description": "지금 여기 행복한 마음, 그것이 바로 봄의 마음이다!\n\n『야단법석』 제2권은 법륜 스님이 2015년 한해 동안 많은 이들과 마음의 봄인 행복에 대해 나눈 대화록이다. 법륜스님의 강연은 잘 알려진 대로 즉문즉설로 진행된다. 그날 현장에서 나온 질문들이 그날 강연의 핵심 소재이다. 주거니 받거니 이야기를 계속 하다 보면 질문자는 자신의 문제를 객관화하면서 해결의 실마리를 찾게 되고, 때로는 스님으로부터 정신이 번쩍 날 만큼 따끔한 야단을 맞기도 한다. 청중은 청중대로 다른 사람의 이야기를 따라가는 가운데 공감하기도 하고 자신을 돌아보기도 한다. \n\n이 책은 대화체 전개로, 고민이 해결돼가는 과정을 가능한 그대로 살렸다. 법륜스님이 익숙한 독자라면 여기에 더해, 해가 갈수록 더 따뜻해지고 더 날카로워지는 법륜스님의 연륜 또한 생생히 느낄 수 있을 것이다. 100여 회 진행된 강연에서 만난 6백여 명의 질문자들이 개인의 고민을 있는 그대로 내보이며 스스로 길을 찾아 가는 모습은 함께한 5만 5천여 청중들에게도 큰 울림의 장이었다. 그 일부를 이 책에 모아 엮었다."
+            },
+            {
+                "title": "야단법석 2",
+                "link": "https://search.shopping.naver.com/book/catalog/32492785826",
+                "image": "https://shopping-phinf.pstatic.net/main_3249278/32492785826.20221230072523.jpg",
+                "author": "불교문예 동인",
+                "discount": "11700",
+                "publisher": "불교문예출판부",
+                "pubdate": "20170405",
+                "isbn": "9788997276196",
+                "description": "불심을 가지고 문학창작을 하는 작가들의 작품을 엮은 「불교문예 동인지」 제2권 『야단법석』. 시와 시조, 수필, 소설 등 다양한 작품들을 만나볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "정토출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20170323",
+                "EA_ADD_CODE": "04080",
+                "PUBLISHER_URL": "www.jungto.org",
+                "AUTHOR": "법륜스님",
+                "SERIES_TITLE": "야단법석",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791187297048",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "384",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187297055",
+                "INPUT_DATE": "20170308",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "야단법석 그 두번째 지금 여기서 행복하라",
+                "PUBLISH_PREDATE": "20170315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

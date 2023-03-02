@@ -1,0 +1,78 @@
+{
+    "otitle": "대학기초물리학",
+    "oauthor": "물리학교재편찬위원회 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:54 +0900",
+        "total": 6,
+        "start": 1,
+        "display": 6,
+        "items": [
+            {
+                "title": "대학 기초물리학",
+                "link": "https://search.shopping.naver.com/book/catalog/32438172910",
+                "image": "https://shopping-phinf.pstatic.net/main_3243817/32438172910.20220527025441.jpg",
+                "author": "윤진희",
+                "discount": "0",
+                "publisher": "미광(테크미디어)",
+                "pubdate": "20150225",
+                "isbn": "9791195370603",
+                "description": "▶ 이 책은 기초물리학을 다룬 이론서입니다. 기초물리학의 기초적이고 전반적인 내용을 학습할 수 있습니다."
+            },
+            {
+                "title": "대학기초 물리학 실험 1",
+                "link": "https://search.shopping.naver.com/book/catalog/32484713993",
+                "image": "https://shopping-phinf.pstatic.net/main_3248471/32484713993.20230131162611.jpg",
+                "author": "황성태^김상현",
+                "discount": "14550",
+                "publisher": "북스힐",
+                "pubdate": "20220302",
+                "isbn": "9791159714252",
+                "description": "한성대학교 물리학 실험 교재인 이 책은 대학에서 다년간 수업을 진행해본 경험을 바탕으로 제작하였습니다. 일반적으로 대학교에서 기초물리학을 배울 때, 1학기 과정에서는 뉴턴 역학을 중심으로 유체의 운동과 열적 현상 그리고 진동과 파동에 대하여 학습합니다. 본 저서도 이러한 학업 과정을 고려하여 편찬하였고 처음 물리학을 배우는 학생들에게 실험을 통하여 필요한 원리와 법칙을 간결하고 명료하게 이해할 수 있도록 구성하였습니다."
+            },
+            {
+                "title": "대학기초 물리학 실험 2",
+                "link": "https://search.shopping.naver.com/book/catalog/32492662743",
+                "image": "https://shopping-phinf.pstatic.net/main_3249266/32492662743.20221019114419.jpg",
+                "author": "황성태",
+                "discount": "13300",
+                "publisher": "북스힐",
+                "pubdate": "20210830",
+                "isbn": "9791159713767",
+                "description": "이 책은 대학기초 물리학 실험에 대해 다룬 도서입니다. 대학기초 물리학 실험에 대한 기초적이고 전반적인 내용을 확인할 수 있도록 구성했습니다."
+            },
+            {
+                "title": "대학생을 위한 기초 물리학 (개정증보판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486419061",
+                "image": "https://shopping-phinf.pstatic.net/main_3248641/32486419061.20221228072841.jpg",
+                "author": "교양물리교재편찬위원회",
+                "discount": "18000",
+                "publisher": "경북대학교출판부",
+                "pubdate": "20080229",
+                "isbn": "9788971802243",
+                "description": "이 책은 대학생들이 알아야 할 기초물리학 지식을 소개한다. 물리학은 자연현상에 대한 기본원리를 탐구하고 분석하는 학문이므로 과학적 사고력을 키우는 데 적당하다. 본문은 역학, 전자기학, 파동, 열역학, 광학, 현대물리학 등 기초적인 내용을 다루고 있다. 수식으로 표현되지 않으면 안 될 부분을 제외하고는 원리 위주로 설명하고자 하였다. (개정증보판)"
+            },
+            {
+                "title": "대학물리의 기초: 전기와 자기 (전기와 자기, 제2판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492201797",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492201797.20221227205837.jpg",
+                "author": "엄기홍",
+                "discount": "19740",
+                "publisher": "복두출판사",
+                "pubdate": "20180901",
+                "isbn": "9791159064401",
+                "description": "▶ 대학물리학(전기와 자기)에 관한 내용을 담은 전문서적입니다."
+            },
+            {
+                "title": "공학기초 대학물리실험 1",
+                "link": "https://search.shopping.naver.com/book/catalog/32492766421",
+                "image": "https://shopping-phinf.pstatic.net/main_3249276/32492766421.20220527054140.jpg",
+                "author": "김상현",
+                "discount": "0",
+                "publisher": "북스힐",
+                "pubdate": "20160225",
+                "isbn": "9791159710124",
+                "description": "▶ 이 책은 대학물리실험을 다룬 이론서입니다. 대학물리실험의 기초적이고  전반적인 내용을 학습할 수 있도록 구성했습니다."
+            }
+        ]
+    }
+}

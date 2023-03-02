@@ -1,0 +1,67 @@
+{
+    "otitle": "재미있는 심리학 입문",
+    "oauthor": "나카무라 마레아키",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재미있는 심리학 입문 (과학으로 본 심리학의 세계)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467157714",
+                "image": "https://shopping-phinf.pstatic.net/main_3246715/32467157714.20221019123746.jpg",
+                "author": "나카무라 마레아키",
+                "discount": "13500",
+                "publisher": "전파과학사",
+                "pubdate": "20211005",
+                "isbn": "9788970449913",
+                "description": "알기 쉽고 재미있게 심리학의 개요를 파악할 수 있는 입문서\n\n심리학은 광범위한 영역의 학문이다. 사람의 인식 과정을 탐구하는 철학에 가까운 사고심리학의 영역에서 동물실험으로 신경생리학의 첨단을 가는 자연과학의 영역, 또는 정치 태도나 매스컴 효과를 규명하는 인간 냄새가 풍기는 사회 심리학의 영역에 이르기까지, 이것이 같은 영역을 다루는 학문인가 할 정도로 폭이 넓다.\n\n서점의 책꽂이에는 심리학입문이나 심리학개론 등 입문서가 넘치고 있으나, 한 사람의 저자로서 심리학의 넓은 영역을 커버하는 것이 어렵기 때문에 여러 파트를 나누어 분담 집필되어 있는 책이 많다. 그렇기 때문에 걸핏하면 통일성이 없고 또한 상호분야 사이의 관련성을 고려하고 있지 않은 단점이 있다.\n\n이 책은 종래의 심리학 각론의 테두리를 벗어나지 않으면서 기초적인 지식을 모아 놓고 또한 장래에 그것이 사회의 어떤 분야에서 이용되는지를 확인할 수 있는 읽을거리도 포함하고 있다. 더할 나위 없이 훌륭한 입문서가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20211110",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "나카무라 마레아키 지음 ;[전파과학사] 편집부 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "226 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970449913",
+                "INPUT_DATE": "20210929",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "재미있는 심리학 입문",
+                "PUBLISH_PREDATE": "20211005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

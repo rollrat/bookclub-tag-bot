@@ -1,0 +1,67 @@
+{
+    "otitle": "컴피티션 시프트",
+    "oauthor": "램 차란,게리 윌리건 저/이은경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "컴피티션 시프트 (룰의 대전환이 온다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458991130",
+                "image": "https://shopping-phinf.pstatic.net/main_3245899/32458991130.20221019152317.jpg",
+                "author": "램 차란",
+                "discount": "15750",
+                "publisher": "비전코리아",
+                "pubdate": "20210816",
+                "isbn": "9788963221823",
+                "description": "디지털 시대의 성공 황금률\n최고의 경쟁우위는 고객의 마음속에 있다\n\n디지털 트랜스포메이션의 가속화와 코로나 팬데믹으로 인해 기업 환경이 변하고 있다. 아마존과 테슬라 등은 급격한 변화에 빠르게 적응했고, 그것을 통해 더 많은 수익을 창출했지만 상당수의기업들은 이러한 대열에 동참하지 못한 채 경쟁에서 뒤처지거나 비즈니스 생태계에서 사라지기도 했다. 이제는 높은 시장점유율이나 기업의 규모가 더 이상 경쟁력이 될 수 없는 시대가 되었다. 디지털 시대의 경쟁우위는 소비자가 미처 깨닫지 못하는 니즈까지 파악하고 주주들에게 엄청난 가치를 창출하는 능력에 달려있다. 최고의 디지털 기업들은 플랫폼을 기반으로 고객 데이터에 주목하며, 제3자를 생태계에 끌어들여 경쟁을 주도하면서 지금보다 100배, 1000배 큰 시장에서 개인화된 고객 경험을 상상해낸다. \n \n 하버드 경영 구루이자 베스트셀러 작가인 램 차란은 《컴피티션 시프트 Rethinking Competitive Advantage》에서 지난 5년간 디지털 거대기업들을 관찰한 결과 경쟁우위를 창출하기 위한 새로운 규칙을 확인했다. 그는 기업 간 경쟁의 룰에 대전환이 일어나고 있음을 알리면서 거대 디지털 기업들의 성공 비결과 디지털 전환기에 전통 기업들이 그들을 따라잡기 위해서 갖추어야 할 새로운 경쟁우위를 이 책에서 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비전코리아 :비전비엔피",
+                "DDC": "",
+                "UPDATE_DATE": "20210909",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "램 차란,게리 윌리건 지음 ;이은경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963221823",
+                "INPUT_DATE": "20210804",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "컴피티션 시프트",
+                "PUBLISH_PREDATE": "20210816",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 2천만 원으로 시작해 20억 건물주가 되었다",
+    "oauthor": "김동철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 2천만 원으로 시작해 20억 건물주가 되었다 (1인 디벨로퍼로 3년 안에 건물주 되기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445595787",
+                "image": "https://shopping-phinf.pstatic.net/main_3244559/32445595787.20230105071448.jpg",
+                "author": "김동철",
+                "discount": "14400",
+                "publisher": "메이트북스",
+                "pubdate": "20190208",
+                "isbn": "9791160022070",
+                "description": "건물주가 되면 은퇴 후가 두렵지 않다!\n\n종잣돈 2천만 원으로 시작해 도심의 20억짜리 건물을 가지게 된 저자의 소중한 경험과 노하우를 이 한 권의 책에 모두 담았다. 공·경매를 통해 도심의 자투리땅에 있는 단독주택을 시세보다 싸게 낙찰받고 이를 직접 용도에 맞게 기획해 신축함으로써 투자비용은 최소화하고 수익을 극대화하는 ‘건물주 되기 노하우’를 공개한 책이다. 누구나 역세권의 네모반듯한 70～100평대에 주변 상권이 활성화되어 있는 지역이나 주택 밀집지역의 땅을 선호한다. 그러나 이런 곳의 땅을 매입하려면 10억 원 이상이 거금이 필요해 일반인들이 접근하기는 어렵다. 이것이 바로 사람들이 쳐다보지 않는 도심의 ‘자투리땅’에 눈길을 돌려야 하는 이유다. 도심이라도 재개발정비구역이 해제된 곳이나 낙후된 지역에는 소위 자투리땅이 아직 많이 남아 있다. 남들이 입찰하기 꺼리는 20～40평대 땅을 시세보다 저렴하게 공·경매로 매입하자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메이트북스 :원앤원콘텐츠그룹",
+                "DDC": "332.6324",
+                "UPDATE_DATE": "20190212",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "김동철 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.87",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7110214_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7110214_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7110214_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "261 p.",
+                "CONTROL_NO": "CIP2019001266",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160022070",
+                "INPUT_DATE": "20190111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 2천만 원으로 시작해 20억 건물주가 되었다",
+                "PUBLISH_PREDATE": "20190208",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

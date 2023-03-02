@@ -1,0 +1,67 @@
+{
+    "otitle": "공기의 연금술",
+    "oauthor": "토머스 헤이거 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공기의 연금술 (생명과 죽음의 원소, 질소를 둘러싼 프리츠 하버와 카를 보슈 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436315057",
+                "image": "https://shopping-phinf.pstatic.net/main_3243631/32436315057.20221019150438.jpg",
+                "author": "토머스 헤이거",
+                "discount": "16200",
+                "publisher": "반니",
+                "pubdate": "20150910",
+                "isbn": "9791185435503",
+                "description": "『공기의 연금술』은 공기 중 질소를 암모니아로 변환해 비료를 만드는, 역사상 가장 중요한 발견을 이루어낸 두 과학자, 프리츠 하버와 카를 보슈에 관한 이야기다. 저자 토머스 헤이거는 방대하고 탄탄한 사료를 바탕으로 두 석학의 삶과 그들의 과학적 발견을 드라마틱하게 펼쳐내면서, 시대적 숙명 속에서 과학자에게 윤리란 무엇인지, 과학의 본질이 어떠한 것인지에 대한 명제를 던진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판) 반니",
+                "DDC": "540.92",
+                "UPDATE_DATE": "20150925",
+                "EA_ADD_CODE": "03430",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "토머스 헤이거",
+                "SERIES_TITLE": "",
+                "KDC": "430.99",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4826133_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4826133_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 370쪽 내외",
+                "CONTROL_NO": "CIP2015023033",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185435503",
+                "INPUT_DATE": "20150820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "공기의 연금술",
+                "PUBLISH_PREDATE": "20150910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "otitle": "마케팅의 신",
+    "oauthor": "조 비테일 저/김용희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:01 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "마케팅의 신 (전설의 거장 브루스 바튼에게서 배우는 소비자 심리를 파악하는 7가지 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492632572",
+                "image": "https://shopping-phinf.pstatic.net/main_3249263/32492632572.20220527023253.jpg",
+                "author": "조 비테일",
+                "discount": "0",
+                "publisher": "에이지21",
+                "pubdate": "20131104",
+                "isbn": "9788998342098",
+                "description": "일과 인생을 성공시키는 7가지 마케팅 비밀!\n\n『마케팅의 신』은 미국 광고계의 전설로 불리는 ‘브루스 바튼’의 소비자 심리를 파악하는 7가지 비밀을 밝힌 책이다. 고객의 돈을 보고 달려드는 것이 아니라 ‘사람’으로 대하면서 광고계를 변혁시켰고 엄청난 성공을 이루었던 광고왕 브루스 바튼. 그가 남긴 문헌 속에서 사업과 광고에서 성공하는 법과 원칙을 발견한다. \n\n광고하는 법과 영감을 주는 성공 가이드로 나눠진 이 책은 보다 좋은 경력을 쌓고 목표를 이룰 수 있게 도와줄 현명하고 현실적인 내용으로 채워져 있다. 이는 단순히 탁월하고 효과적인 광고의 비밀이 아닌, 삶의 모든 영역에서 성공으로 이끄는 동기 부여 가이드 역할을 한다. 이를 통해 독자는 일하는 법과 인생을 살아가는 방법을 알게 될 것이다."
+            },
+            {
+                "title": "SNS 홍보 마케팅의 신 (블로그 마케팅, 검색광고, 상단 노출, 네이버 모두, 인스타그램 활용 등)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504349732",
+                "image": "https://shopping-phinf.pstatic.net/main_3250434/32504349732.20220527054618.jpg",
+                "author": "박만성^최재용^이상원^김범일^박만성",
+                "discount": "0",
+                "publisher": "시대인",
+                "pubdate": "20170710",
+                "isbn": "9791125434993",
+                "description": "『SNS 홍보 마케팅의 신』은 블로그 마케팅, 검색광고, 상단 노출, 네이버 모두, 인스타그램 활용 등 초보자를 위한 소셜 마케팅 마스터의 모든 것에 대해 소개하는 책이다. 상품과 서비스를 알리고 싶지만 예산이 부족한 소ㆍ상공인, 땀 흘려 가꾼 농산물을 직거래하고 싶은 농민, 지역축제와 특산물을 널리 홍보하고 싶은 공무원 등을 위해 7인의 SNS전문가가 SNS를 이용한 각종 홍보 마케팅 노하우를 담았다."
+            },
+            {
+                "title": "SNS 홍보 마케팅의 신 (블로그 마케팅, 검색광고, 상단 노출, 네이버 모두, 라인, 인스타그램, 페이스북, 유튜브 등 당신이 알고 싶은 소셜 마케팅의 모든 것을 알려드립니다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493993650",
+                "image": "https://shopping-phinf.pstatic.net/main_3249399/32493993650.20220527054007.jpg",
+                "author": "박만성^최재용^이상원^김범일^박만성",
+                "discount": "0",
+                "publisher": "시대인",
+                "pubdate": "20160415",
+                "isbn": "9791125417415",
+                "description": "『SNS 홍보 마케팅의 신』은 7인의 SNS 전문가가 SNS를 이용한 각종 홍보 마케팅 노하우를 총망라한 책이다. 구매를 부르는 블로그 구축 방법, 이미지형ㆍ관심사형 SNS의 특징과 사용법, 유튜브 홍보 영상 제작법, SNS와 모바일 마케팅 사례와 셀프 브랜딩 등을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)에이지이십일",
+                "DDC": "",
+                "UPDATE_DATE": "20131107",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조 비테일",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998342098",
+                "INPUT_DATE": "20130923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마케팅의 신",
+                "PUBLISH_PREDATE": "20131025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

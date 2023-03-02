@@ -1,0 +1,67 @@
+{
+    "otitle": "고양이의 주소록",
+    "oauthor": "무레 요코 저/권남희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고양이의 주소록",
+                "link": "https://search.shopping.naver.com/book/catalog/32455620778",
+                "image": "https://shopping-phinf.pstatic.net/main_3245562/32455620778.20221019145238.jpg",
+                "author": "무레 요코",
+                "discount": "12420",
+                "publisher": "해냄출판사",
+                "pubdate": "20191025",
+                "isbn": "9788965749752",
+                "description": "1993년 첫 출간 이후 50만 부 이상 판매된 초특급 베스트셀러!\n‘카모메 식당’의 무레 요코가 그려낸, 전설의 동물 에세이 전격 출간!\n\n“동물이란 참으로 사랑스러운 존재입니다…….”\n\n동물에 대한 애정과 세상을 향한 따뜻한 시선이 돋보이는 무레 요코의 최장기 스테디셀러 『고양이의 주소록』이 해냄에서 출간되었다. ‘카모메 식당’의 저자로 이미 널리 알려져 있는 무레 요코는 1984년에 첫 에세이 『오전 0시의 현미빵』을 발표하며 작가 생활을 시작한 이래 30여 년간 여성들의 소소한 일상을 경쾌하고 유머러스한 문장으로 표현하면서 ‘요코 중독’ 현상을 일으키는 등 많은 독자들의 사랑을 받고 있는 일본의 대표 저자이다. \n\n그런 무레 요코가 가장 사랑한 동물은 바로 고양이. 그래서인지 고양이를 주제로 한 작품들을 많이 선보였는데, 그중에서도 『고양이의 주소록』은 1993년과 1996년, 그리고 2018년 등 총 세 번에 걸쳐 새로운 디자인으로 출간될 정도로 오랜 기간 독자들의 사랑을 받으며 50만 부 이상 판매된 저력의 베스트셀러이다. 일본의 문예춘추 출판사는 세 번째 복간을 결정하면서 ‘냥덕’ 그림 작가 기쿠치치키의 그림을 표지로 사용했는데, 그는 세계에서 가장 권위 있는 국제 그림책 공모전 중 하나인 ‘브라티슬라바 국제 일러스트레이션 비엔날레’에서 황금사과상을 수상해 명성을 떨친 일러스트레이터이다. 기쿠치치키는 역동적인 붓 터치로 대담하면서도 섬세하게 그려내어 무레 요코의 『고양이의 주소록』에 생명의 숨결을 불어넣어주었다. 『고양이의 주소록』 한국어판 역시 2018년에 복간된 세 번째 판본으로 번역하였으며, 표지 또한 기쿠치치키의 그림을 그대로 사용했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄",
+                "DDC": "",
+                "UPDATE_DATE": "20191108",
+                "EA_ADD_CODE": "02830",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "지은이: 무레 요코 ;옮긴이: 권남희",
+                "SERIES_TITLE": "",
+                "KDC": "834",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/01/9788965749752.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "CIP2019035596",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965749752",
+                "INPUT_DATE": "20190909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "고양이의 주소록",
+                "PUBLISH_PREDATE": "20191025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

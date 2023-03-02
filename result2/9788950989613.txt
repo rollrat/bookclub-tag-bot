@@ -1,0 +1,67 @@
+{
+    "otitle": "코로나가 시장을 바꾼다",
+    "oauthor": "이준영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "코로나가 시장을 바꾼다 (넥스트 노멀 시대 소비 트렌드 7)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444103767",
+                "image": "https://shopping-phinf.pstatic.net/main_3244410/32444103767.20230131163016.jpg",
+                "author": "이준영",
+                "discount": "16200",
+                "publisher": "21세기북스",
+                "pubdate": "20200805",
+                "isbn": "9788950989613",
+                "description": "코로나 시대 소비 지형은 어떻게 변하는가?\n‘넥스트 노멀’을 이끌 소비 트렌드를 7개 키워드로 정리하다!\n\n코로나19 발생 이후 새로운 특징들이 표준이 되는 ‘넥스트 노멀(Next Normal)’ 시대가 도래했다. 지속되는 팬데믹 상황에서 일상의 모습은 달라지고 개인의 소비 패턴은 이전과 전혀 다른 양상으로 변해가고 있다. 새로운 가치관이 정치·경제·사회 전반에 드러나게 될 코로나 시대의 소비 지형은 어떻게 변하는가? 10년간 베스트셀러 《트렌드 코리아》 시리즈 공저자로 활동하고 있는 상명대학교 경제금융학부 이준영 교수가 팬데믹 이후 소비 트렌드를 7개 키워드로 정리했다. 개인의 소비 변화 키워드로 ‘홈코노미’, ‘언택트 디지털 트랜스포메이션’, ‘멘탈데믹’, 정치ㆍ경제ㆍ사회 전반적인 소비 변화 키워드로 ‘로컬리즘’, ‘코로나 디바이드’, ‘코로나 패러독스’, ‘코로나 리세션’을 정리하여, 개인과 사회가 새롭게 맞이하는 소비 변화 전반을 조망한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일)",
+                "DDC": "",
+                "UPDATE_DATE": "20201007",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "이준영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "298 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950989613",
+                "INPUT_DATE": "20200804",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "코로나가 시장을 바꾼다 ",
+                "PUBLISH_PREDATE": "20200805",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

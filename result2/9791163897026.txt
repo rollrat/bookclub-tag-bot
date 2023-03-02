@@ -1,0 +1,67 @@
+{
+    "otitle": "보소 그랑 오텔",
+    "oauthor": "고시가야 오사무 저/정선옥 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "보소 그랑 오텔",
+                "link": "https://search.shopping.naver.com/book/catalog/32504174627",
+                "image": "https://shopping-phinf.pstatic.net/main_3250417/32504174627.20221230072942.jpg",
+                "author": "고시가야 오사무",
+                "discount": "12420",
+                "publisher": "소미미디어",
+                "pubdate": "20190619",
+                "isbn": "9791163897026",
+                "description": "도쿄에서 특급 열차로 불과 1시간 20분, 푸른 바다와 달빛의 백사장이 아름다운 보소 반도의 쓰키가우라 마을. 여름 성수기도 지나 한적한 이곳의 민박집 ‘보소 그랑 오텔’에 세 명의 손님이 찾아온다. 그런데 어쩐지 손님들이 다들 이상하다. 지나치게 유쾌한 아저씨, 지나치게 음침한 여인, 지나치게 소심한 청년. 그 와중 민박집 딸 나쓰미는 개교기념일을 맞아 사촌 하루카와 객실에서 하룻밤 같이 묵기로 한다. 과연 이 2박 3일, 무사히 지나갈 수 있을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20190705",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고시가야 오사무 지음 ;정선옥 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "302 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163897026",
+                "INPUT_DATE": "20190513",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "보소 그랑 오텔",
+                "PUBLISH_PREDATE": "20190619",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

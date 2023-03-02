@@ -1,0 +1,78 @@
+{
+    "otitle": "마법의 영문법",
+    "oauthor": "손길연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:47 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "마법의 영문법 Magic English Grammar (영문법 학습의 유쾌한 반란!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436350656",
+                "image": "https://shopping-phinf.pstatic.net/main_3243635/32436350656.20230218110504.jpg",
+                "author": "손길연",
+                "discount": "18000",
+                "publisher": "백산출판사",
+                "pubdate": "20171208",
+                "isbn": "9788961837965",
+                "description": "복잡하고 어려운 영문법을 그림과 도표로 쉽고 재미있게 설명과 함께 마법의 영문법 교재 내용을 동영상 강의를 들으면서 효과적으로 학습 뿐 아니라 메가스터디와 Kt에듀에서 온라인 동영상 강좌로 제작 및 현 EBS 강사가 마법의 영문법을 강의한 동영상 기본과정 강좌 25강, 심화과정 강좌 27강을 저렴한 가격으로 교재와 함께 학습할 수 있으며 어려운 문법 내용을 적절한 사물·동물의 비유를 통해 이해하기 쉽게 설명했다."
+            },
+            {
+                "title": "그램그램 영문법 원정대 25: Travel Guide 니콜라스와 함께 마법의 얼음 구슬을 찾아라! (Travel Guide 니콜라스와 함께 마법의 얼음 구슬을 찾아라!, 여행 활동 편)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505040876",
+                "image": "https://shopping-phinf.pstatic.net/main_3250504/32505040876.20221019132835.jpg",
+                "author": "브릭스",
+                "discount": "9720",
+                "publisher": "사회평론",
+                "pubdate": "20160527",
+                "isbn": "9788964358047",
+                "description": "재미와 학습을 모두 잡은 어린이 영어!\n\n《그램그램 영문법 원정대》 25권의 학습 주제는 ‘여행 활동’이며, 노스 그램 지역을 배경으로 한다. 노스 그램 지역으로 마법의 얼음 구슬을 찾으러 간 곤 일행은 새롭게 등장하는 여행 가이드 니콜라스와 함께 길을 떠나지만, 칸의 친위대 삼인방에게 끊임없이 공격을 당하면서 위기에 빠지게 된다. 이야기 속에서 아이들은 조언을 구하는 표현, 방법을 묻는 표현, 시간과 거리를 묻는 표현, 교통수단에 탑승하는 표현 등을 자연스럽게 익힐 수 있게 될 것이다.\n\n그램 연방 공화국의 최북단인 노스 그램 지역에 도착한 곤 일행. 하지만 마법의 얼음 구슬을 찾으러 가는 길은 험난하기만 하다. 한참을 헤매던 곤 일행 앞에 나타난 것은 전문 여행 가이드 니콜라스. 하지만 니콜라스의 수상한 행동에 블루는 긴장의 끈을 놓지 않는다. 그리고 곤 일행은 칸의 친위대 3인방의 끝없는 방해를 받는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "백산출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20131008",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.ibaeksan.kr",
+                "AUTHOR": "손길연 저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961837965",
+                "INPUT_DATE": "20131008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "마법의 영문법 ",
+                "PUBLISH_PREDATE": "20130930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

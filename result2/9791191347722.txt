@@ -1,0 +1,67 @@
+{
+    "otitle": "돈의 맛",
+    "oauthor": "요시에 마사루 저/이정환 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "돈의 맛 (대부업계 회장님이 빚쟁이 영업사원에게 알려주는 진짜 솔직한 돈 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456918133",
+                "image": "https://shopping-phinf.pstatic.net/main_3245691/32456918133.20230207165417.jpg",
+                "author": "요시에 마사루",
+                "discount": "12960",
+                "publisher": "포레스트북스",
+                "pubdate": "20220321",
+                "isbn": "9791191347722",
+                "description": "“돈도 벌어 본 놈이 번다” \n돈에 대한 태도가 돈 버는 체질을 결정하고\n돈 버는 체질이 돈복의 크기를 결정한다!\n\n저자 요시에 마사루는 1억 원의 빚을 지고 우울증을 겪으며 파산 직전까지 갔다가, 우연히 만난 부자 멘토(이하 ‘부자 아저씨’) 덕분에 돈에 대한 태도를 완전히 바꾸고 월 5천만 원을 버는 자산가로 거듭났다. 이 책은 저자가 겪은 실화를 바탕으로 우리가 흔히 알고 있는 돈에 대한 잘못된 생각들을 8개의 주제로 나누어 하나씩 바로 잡는 수업 형태로 기술되었다.\n‘돈 버는 데 노력 따윈 필요 없다’, ‘돈은 버는 게 아니라 빌리는 거다’, ‘빚을 자신의 돈으로 믿고 쓰면 정말 그렇게 된다’, ‘돈은 두뇌가 우수한 사람보다 똑똑하지 않아도 감각이 좋은 사람에게 붙는다’, ‘고객을 왕으로 모시는 사람은 망하고, 고객을 친구로 생각하는 사람이 돈 번다’ 등 부자 아저씨의 수업 내용은 우리가 알고 있는 돈에 대한 상식을 완전히 전복시키는 뼈 때리는 조언으로 가득하다. 부자 아저씨는 돈은 자신을 대하는 태도를 보고 그 사람에게 붙을지 말지를 결정한다고 충고하면서 돈의 사랑을 얻는 방법을 세세하게 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포레스트북스 :콘텐츠그룹 포레스트",
+                "DDC": "",
+                "UPDATE_DATE": "20221019",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "요시에 마사루 지음 ;이정환 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20220321",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "320 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191347722",
+                "INPUT_DATE": "20220214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "돈의 맛",
+                "PUBLISH_PREDATE": "20220321",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

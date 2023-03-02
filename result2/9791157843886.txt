@@ -1,0 +1,67 @@
+{
+    "otitle": "레이 달리오의 금융 위기 템플릿",
+    "oauthor": "레이 달리오 저/송이루,이종호,임경은 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "레이 달리오의 금융 위기 템플릿 - 전3권 (다가올 금융 위기를 대비하는 원칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438196803",
+                "image": "https://shopping-phinf.pstatic.net/main_3243819/32438196803.20230223071034.jpg",
+                "author": "레이 달리오",
+                "discount": "36380",
+                "publisher": "한빛비즈",
+                "pubdate": "20200224",
+                "isbn": "9791157843886",
+                "description": "2008년 금융 위기를 예측하고 대비한 레이 달리오의 2020년 금융 위기 템플릿\n\n세계에서 가장 성공적인 투자자 중 한 사람인 레이 달리오(Ray Dalio)가 2008년 금융 위기 10주년을 맞아, 금융 위기가 일어나는 원리와 위기에 대처하는 법에 대한 템플릿을 펴냈다. 이 템플릿은 브리지워터 어소시에이츠가 2008년 금융 위기를 예상하고 잘 헤쳐 나갈 수 있게 해주었지만, 다른 이들은 2008년의 위기를 대부분 견뎌내지 못했다. 레이 달리오는 자신의 뉴욕타임스 베스트셀러인 《원칙》에서 설명했듯이, 대부분의 일은 시간이 지나면서 반복적으로 발생한다고 말한다. 따라서 패턴을 연구하면 원인-결과를 이해하고 비슷한 일이 일어났을 때 대처가 가능하다는 것이다. \n\n『금융 위기 템플릿』은 총 3권으로 다음과 같이 구성되어 있다. 전형적인 대형 금융 위기 사이클을 이해하기 위한 기본 템플릿을 소개하고(파트 1), 세 가지 세부 사례-1920년 독일 바이마르 공화국의 금융 위기, 미국의 1930년대 대공황, 2008년 금융 위기-를 심도 있게 살펴보며(파트 2),   48개의 부채 위기 사례를 연구함으로서(파트 3) 경제와 시장을 새롭게 이해하게 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20200317",
+                "EA_ADD_CODE": "14320",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "레이 달리오 지음 ;송이루,이종호,임경은 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157843886",
+                "INPUT_DATE": "20200317",
+                "SET_EXPRESSION": "",
+                "VOL": "파트1",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "(레이 달리오의) 금융 위기 템플릿",
+                "PUBLISH_PREDATE": "20200224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

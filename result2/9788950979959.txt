@@ -1,0 +1,67 @@
+{
+    "otitle": "이토록 아름다운 수학이라면",
+    "oauthor": "최영기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이토록 아름다운 수학이라면 (내 인생의 X값을 찾아줄 감동의 수학 강의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466552467",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466552467.20230214163750.jpg",
+                "author": "최영기",
+                "discount": "12960",
+                "publisher": "21세기북스",
+                "pubdate": "20190311",
+                "isbn": "9788950979959",
+                "description": "수학에는 감동이 있다!\n\n역사, 철학, 과학, 의학, 예술 등 각 분야 최고의 서울대 교수진들이 2017년 여름부터 매월 펼쳐온 다양한 주제의 강의들을 책으로 옮긴 「서가명강 시리즈」. 살아가는 데 필요한 지식과 교양을 선사하는 시리즈의 제3권 『이토록 아름다운 수학이라면』. 서울대 수학교육과 최영기 교수가 수학의 아름다움에 대한 깊고 넓은 단상을 편안한 언어로 풀어낸 대중교양서이다. \n\n1부에서는 방정식, 도형, 함수, 삼각형, 소수 등 우리가 초등학교 때 배운 수학 개념으로부터 어떻게 아름다움을 느낄 수 있는지를 알아보고, 2부는 추상, 같음, 표현 방식 등 수학이 추구하는 가치를 소개하고 수학적으로 생각한다는 것은 우리 일상과 얼마나 맞닿아 있는지를 살펴본다. 마지막 3부에서는 스메일, 푸앵카레, 페르마, 갈루아 등 세상을 바꾼 수학자들의 위대한 생각을 일반인도 쉽게 이해할 수 있게끔 풀어냈다. \n\n수학이 단순한 계산의 반복, 복잡한 수식을 풀어내는 지겨운 과정이 전부라는 편견을 깨고자 수학의 정신과 그 가치에 대해 설명하고자 노력하며 수학이 본래 추구하는 아름다운 정신을 소개하는 데 중점을 두었다. 또 우리나라 학생들이 수학 성취도는 높을지 몰라도 흥미도나 자신감은 최하위라는 점을 안타깝게 바라보면서 무조건적인 반복 학습을 통해 실력을 향상시키려는 우리나라 수학 교육의 문제점을 지적하고, 수학 교육이 나아가야 할 방향에 대해서도 설명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스 :북이십일",
+                "DDC": "",
+                "UPDATE_DATE": "20190402",
+                "EA_ADD_CODE": "04300",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "최영기 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788950979423",
+                "REAL_PUBLISH_DATE": "20190311",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "17,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "233 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950979959",
+                "INPUT_DATE": "20190312",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "이토록 아름다운 수학이라면 ",
+                "PUBLISH_PREDATE": "20190311",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

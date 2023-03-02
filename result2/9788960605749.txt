@@ -1,0 +1,67 @@
+{
+    "otitle": "클래식을 좋아하는 사람이라면 꼭 알아야 할 52가지",
+    "oauthor": "최은규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "클래식을 좋아하는 사람이라면 꼭 알아야 할 52가지 (음악평론가 최은규의 클래식 감상법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455982957",
+                "image": "https://shopping-phinf.pstatic.net/main_3245598/32455982957.20230110163300.jpg",
+                "author": "최은규",
+                "discount": "14400",
+                "publisher": "소울메이트",
+                "pubdate": "20151001",
+                "isbn": "9788960605749",
+                "description": "아는 만큼 들리는 클래식 음악의 세계!\n\n클래식 감상의 즐거움을 극대화해줄 매력적인 클래식 입문서 『클래식을 좋아하는 사람이라면 꼭 알아야 할 52가지』. ‘오케스트라의 자리 배치와 악기 편성은 어떻게 하는 걸까?’ ‘연주가 끝난 후 지휘자는 왜 무대 뒤로 들어갔다 나왔다를 반복할까?’ 등 클래식을 감상하며 궁금했을 법한 부분들에 대해 전문성을 뽐내기보다는 깊이 있는 클래식 이야기를 이해하기 쉽게 설명해주는 책이다. 몰랐던 부분은 알아가고, 알았던 부분은 함께 공감하며 한 장 한 장 읽다 보면 클래식을 더욱 즐겁게 향유하기 위한 방법을 자연스럽게 알 게 될 것이다.\n\n이 책은 총 5장으로 구성되어 있다. 1장 ‘악기와 오케스트라에 대해 알고 싶은 것들’에서는 여러 악기들로 구성된 오케스트라에 대해 살펴보고, 2장 ‘알면 더 즐길 수 있다, 클래식 용어 풀어보기’에서는 클래식 감상 전 꼭 알아야 할 최소한의 클래식 용어들을 알려준다. 3장 ‘세상을 뒤흔든 작곡가와 명곡 이야기’에서는 비발디, 하이든, 베토벤, 모차르트 등 작곡가의 이름과 그들이 남긴 명곡의 숨은 이야기를 들려주고,  4장 ‘감상의 묘미를 더하는 클래식 에세이’에는 테마별 클래식 명곡들을 다루며 음악 감상에 도움이 될 만한 여러 에세이들을 살펴본다. 그리고 마지막으로 5장 ‘신화의 세계를 담아낸 클래식 이야기’는 명곡에 담긴 신화 속 이야기를 들려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)원앤원콘텐츠그룹",
+                "DDC": "780",
+                "UPDATE_DATE": "20151027",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "최은규",
+                "SERIES_TITLE": "",
+                "KDC": "670",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4881447_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4881447_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "400",
+                "CONTROL_NO": "CIP2015024853",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960605749",
+                "INPUT_DATE": "20150909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "클래식을 좋아하는 사람이라면 꼭 알아야 할 53가지",
+                "PUBLISH_PREDATE": "20151001",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

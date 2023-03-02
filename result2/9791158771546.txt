@@ -1,0 +1,67 @@
+{
+    "otitle": "유튜버와 작가, 예순 넘어 시작하다",
+    "oauthor": "주미덕 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "유튜버와 작가, 예순 넘어 시작하다 (한국판 모지스 할머니의 도전 스토리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445717962",
+                "image": "https://shopping-phinf.pstatic.net/main_3244571/32445717962.20221230073717.jpg",
+                "author": "주미덕",
+                "discount": "12600",
+                "publisher": "바이북스",
+                "pubdate": "20200220",
+                "isbn": "9791158771546",
+                "description": "한국판 모지스 할머니의 도전 스토리. 음식 만드는 것을 좋아하는 저자 주미덕에게 딸이 권유해 시작한 유튜브 '주코코맘의 미각'이 구독자 1만 명을 넘었다. 그런데 유튜버에 멈추지 않고 가슴 뛰는 제2의 인생을 살기 위해 작가에 도전했다. 평범했던 그가 환갑이 넘어 꿈을 품고 도전했더니 이루어졌다는 고백을 담은 책이 바로 &lt;유튜버와 작가, 예순 넘어 시작하다&gt;이다. 저자는 평범하게 살다가 유튜버가 되었다. 그리고 이제 작가로 데뷔한다. 행복한 제2의 인생을 사는 그 비결을 이 책을 통해 함께 공유해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200428",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "주미덕 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "229 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158771546",
+                "INPUT_DATE": "20200205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "유튜버와 작가, 예순 넘어 시작하다",
+                "PUBLISH_PREDATE": "20200220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

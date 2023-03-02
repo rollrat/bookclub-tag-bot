@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 당신들의 아랫사람이 아닙니다",
+    "oauthor": "배윤민정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 당신들의 아랫사람이 아닙니다 (가족 호칭 개선 투쟁기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444120140",
+                "image": "https://shopping-phinf.pstatic.net/main_3244412/32444120140.20221019132806.jpg",
+                "author": "배윤민정",
+                "discount": "13320",
+                "publisher": "푸른숲",
+                "pubdate": "20190618",
+                "isbn": "9791156757870",
+                "description": "가족 호칭 내에 깔린 가부장 중심의 위계와 권력, \n그 안에서 일어나는 여성 차별과 억압에 대한 문제제기를 \n서사로 풀어낸 자전적 에세이\n\n다수가 말하는 ‘호칭’은 ‘호칭’일 뿐이라는 공허한 주장과 다르게, ‘호칭’ 안에는 오래된 사회적 관습이 반영되어 있다. 하지만 우리는 대체로 ‘호칭’에 담긴 내력이나 유래, 그 ‘호칭’이 발휘하는 효과의 긍정성과 부정성을 염두에 두지 않는다. 어떠한 관계 안에서 서로를 지칭하는 호칭이 매뉴얼처럼 정해져 있을 경우 고유명사 대신 습관적으로 호칭을 부를 뿐이다. 가족이 변화하는 속도와 달리 박제되어 있는 가족 호칭이 충돌하는 상황 속에서 우리는 더 이상 호칭은 그저 호칭일 뿐이라는 말을 되풀이 할 수 없다. 더군다나 다수가 말하는 ‘변화하지 않았으면 하는 가치’의 본질이 무엇인지, 어떤 기준으로 ‘바꿀 것’과 ‘바꾸지 않을 것’을 그토록 당당하게 주장할 수 있는지는 생각해볼 문제다. “나는 당신들의 아랫사람이 아닙니다”라는 선언은 습관과 변화한 현실 사이의 괴리를 세상에 낱낱이 들어내 보이겠다는 선언이기도 하다. 그리고 적절한 호칭을 찾는 여행을 시작하겠다는 선언이기도 하다. 목적지가 어디인지는 아직은 알 수 없지만, 적절한 호칭을 찾는 여행을 시작했다는 점이 중요하다. 우리는 언젠가는 함께 그 목적지에 도달해야 한다.\n\n- 노명우 사회학자, 니은서점 마스터 북텐더"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20190626",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "배윤민정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "CIP2019018795",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156757870",
+                "INPUT_DATE": "20190513",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 당신들의 아랫사람이 아닙니다",
+                "PUBLISH_PREDATE": "20190618",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

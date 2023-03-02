@@ -1,0 +1,67 @@
+{
+    "otitle": "내가 대학원을 가게 된다면",
+    "oauthor": "정재엽 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내가 대학원을 가게 된다면 (직장인을 위한 슬기로운 대학원 생활)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436015725",
+                "image": "https://shopping-phinf.pstatic.net/main_3243601/32436015725.20221231084018.jpg",
+                "author": "정재엽",
+                "discount": "14400",
+                "publisher": "원앤원북스",
+                "pubdate": "20210315",
+                "isbn": "9791170431725",
+                "description": "대학원 진학을 꿈꾸는 사람들은 궁금한 것이 무척 많다. 입학 인터뷰는 어떻게 진행되는지, 지도교수는 어떻게 선택하고, 논문 주제는 어떻게 선정하는지 등 알고 싶은 것투성이다. 특히 직장인들은 어떻게 직장 생활과 대학원 생활을 현명하게 병행할 수 있는지 알고 싶을 것이다. 일과 학업 그리고 가정까지 잘 꾸려나가기 위해서는 우선순위를 어떻게 정하고, 한정된 시간과 에너지를 어디에, 얼마나, 어떻게 배분하는 게 좋을지 궁금할 수도 있다.\n\n\n\n그러나 안타까운 사실은 대학원에 관한 정보가 없어도 너무 없다는 점이다. 그간 대학원에 대한 정보는 아는 사람을 통해서만, 알음알음 물어서만 알 수 있었다. 그래서 이 책은 그동안 누구도 시원하게 알려주지 않아 베일에 싸여 있던 대학원에 대한 모든 정보를 담았다. 코스워크 기간을 어떻게 보내는지부터 논문 작성하는 법, 학위 취득 그 이후의 삶까지 상세하게 풀어냈다. 또한 각 분야별 박사 15인의 생생한 인터뷰를 수록해 현실적인 조언을 더했다.\n\n\n\n직장인에게 학위란 목표에 한 발짝 다가가는 디딤돌이 될 수도, 진로를 바꾸는 터닝 포인트가 될 수도 있다. 대학원을 꿈꾸지만 막연한 두려움이 앞선다면, 일과 학업을 슬기롭게 병행하는 노하우가 궁금하다면 그 길을 멋지게 지나온 선배들의 조언에 귀 기울여보자. 현실과 타협하며 그 자리에 서 있을 것인지, 용기 내 앞으로 나아갈 것인지, 갈림길에 서서 고민하는 직장인에게 이 책을 권한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210507",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정재엽 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170431725",
+                "INPUT_DATE": "20210119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "내가 대학원을 가게 된다면",
+                "PUBLISH_PREDATE": "20210315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

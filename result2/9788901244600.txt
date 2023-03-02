@@ -1,0 +1,67 @@
+{
+    "otitle": "살고 싶다는 농담",
+    "oauthor": "허지웅 저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "살고 싶다는 농담 (허지웅 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441199428",
+                "image": "https://shopping-phinf.pstatic.net/main_3244119/32441199428.20221019151558.jpg",
+                "author": "허지웅",
+                "discount": "13830",
+                "publisher": "웅진지식하우스",
+                "pubdate": "20200817",
+                "isbn": "9788901244600",
+                "description": "오늘도 절망과 싸우는 모든 이들에게 전하는,\n그럼에도 불구하고 살아야 하는 이유\n\n『살고 싶다는 농담』은 작가 허지웅이 2018년 혈액암의 일종인 악성림프종이라는 큰 시련을 겪은 뒤, 인생에 대해 이전과는 확연히 달라진 시각을 가지고 혼신의 힘을 기울여 쓴 신작 에세이다. 저마다 자신만의 무거운 천장을 어깨에 이고 무너지지 않으려 애쓰는 사람들, 기대어 쉴 곳 없이 지쳐 있는 사람들에게 들려주고 싶은 25편의 이야기들을 담았다. 전작 『나의 친애하는 적』 이후 4년 만에 발표하는 이번 신작에서 작가 허지웅의 삶의 해석은 더 예리해지고, 사람을 향한 애정은 더 깊어졌다.\n\n고통과 불행으로부터 벗어나기 위해 발버둥쳐보지 않은 사람이 있을까. 그러나 불행을 탓하는 일에만 몰두하다 보면 자칫 더 큰 피해의식의 수렁에 빠지고 만다. 불행한 현실 탓에 나만 이렇게 억울한 상황에 놓였고, 불행하기 때문에 여기서 벗어날 수도 없다는 절망감의 악순환이다. 이에 대하여 저자는 “불행이란 설국열차 머리칸의 악당들이 아니라 열차 밖에 늘 내리고 있는 눈과 같은 것”이라고 말하며, 껴안고 공생하며 함께 인생을 버텨나가야 하는 감정으로서 불행을 인정하고 자신의 삶을 주체적으로 바라보자고 제안한다. 이 책은 죽음과의 사투 끝에 삶으로 돌아온 작가 허지웅이 힘겨운 현실에 시름하는 사람들에게 들려주는 단단한 조언이자 결국 오늘도 버티는 삶을 살아내고 있는 모든 이들에게 바치는 따뜻한 위로다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진지식하우스 :웅진씽크빅",
+                "DDC": "",
+                "UPDATE_DATE": "20201014",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 허지웅",
+                "SERIES_TITLE": "",
+                "KDC": "814.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/04/9788901244600.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "124*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "274 p.",
+                "CONTROL_NO": "CIP2020031270",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788901244600",
+                "INPUT_DATE": "20200727",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "살고 싶다는 농담",
+                "PUBLISH_PREDATE": "20200821",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

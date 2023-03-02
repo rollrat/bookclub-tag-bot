@@ -1,0 +1,67 @@
+{
+    "otitle": "기후담판",
+    "oauthor": "정내권 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기후담판 (기후변화대사 정내권의 대한민국 탈탄소 미래전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/33499240619",
+                "image": "https://shopping-phinf.pstatic.net/main_3349924/33499240619.20230218110229.jpg",
+                "author": "정내권",
+                "discount": "15300",
+                "publisher": "메디치미디어",
+                "pubdate": "20220715",
+                "isbn": "9791157069064",
+                "description": "몬트리올 의정서에서 파리기후협정까지 지구환경외교 오디세이\n한국의 기후위기 대응과 2050 탄소중립 미래 비전의 안내서\n\n비엔나협약, 몬트리올 의정서, 리우 지구정상회의, 교토 의정서, 코펜하겐 기후변화총회, 파리기후협정…. 최근 수십 년간 전 세계가 ‘기후위기’에 대응하기 위해 마련한 대안 모색의 자리들이다. 이처럼 수많은 기회가 있었지만 왜 아직도 기후위기에의 대응이 더딘 것일까? 한편으로는 그동안 산업화 과정에서 발생한 선진국의 역사적 책임을 온전히 다 맡지 않으려는 미국의 거듭된 반대 행위가 원인으로 지목된다. 하지만 그것이 전부는 아니다. 선진국 그룹과 개도국 그룹의 상호 배척, 그리고 건설적인 대안을 수용하지 않고 재정 지원 등에만 목메는 개도국의 자세 등 여러 요인이 위기를 키워왔다.\n\n정내권 초대 기후변화대사는 1989년 몬트리올 의정서로 한국 경제가 위기에 빠진 것에 대응을 시작으로 1980년대 말 새롭게 태동하던 ‘저탄소 국제경제질서’와 그것을 둘러싼 지구환경외교의 최일선에서 30여 년 동안 대한민국을 대표해 활동하였다. 《기후담판》은 그 30여 년 현장 경험 중 지구환경외교의 결정적인 12개의 담판을 선정해 각각의 협상이 가진 시대적 의미와 그것이 당시 우리에게 주었던 시사점과 도전 과제, 그리고 각 협상에 우리의 입장을 가지고 어떻게 대처했는지를 정리해 보여준다. 또한 수많은 현장 경험을 통해 실제로 탈탄소 미래로 나아갈 수 있는 패러다임과 실천 방안에 대해 고민한 내용을 ‘지속가능한 경제-사회-환경의 선순환 발전 모델’을 향하는 탈탄소 미래전략으로 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20220803",
+                "EA_ADD_CODE": "03340",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정내권 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/07/9791157069064.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "147*217",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "302 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157069064",
+                "INPUT_DATE": "20220702",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "기후담판",
+                "PUBLISH_PREDATE": "20220715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

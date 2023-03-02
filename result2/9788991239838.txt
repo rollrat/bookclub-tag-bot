@@ -1,0 +1,67 @@
+{
+    "otitle": "바람을 뿌리는 자",
+    "oauthor": "넬레 노이하우스 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바람을 뿌리는 자",
+                "link": "https://search.shopping.naver.com/book/catalog/32476081166",
+                "image": "https://shopping-phinf.pstatic.net/main_3247608/32476081166.20230131165207.jpg",
+                "author": "넬레 노이하우스",
+                "discount": "12420",
+                "publisher": "북로드",
+                "pubdate": "20120206",
+                "isbn": "9788991239838",
+                "description": "의 다음 이야기!\n\n베스트셀러 의 뒷이야기 『바람을 뿌리는 자』. 독일의 작은 마을 타우누스를 배경으로 냉철한 카리스마 수사반장 보덴슈타인과 남다른 직감과 감성으로 사건을 풀어가는 여형사 피아 콤비의 활약을 그린 「타우누스 시리즈」의 다섯 번째 작품이다. 이번에는 풍력에너지 개발을 둘러싸고 벌어지는 배신과 복수, 음모를 흥미진진하게 그리고 있다. 풍력에너지 개발회사의 경비원이 계단에서 떨어져 사망한 사건. 피아는 달콤한 휴가를 보내고 복귀하자마자 사건에 투입된다. 경찰은 회사의 풍력발전소 건립을 반대하던 시민단체에 주목하지만, 얼마 후 반대 운동을 이끌던 사람도 잔인하게 살해된다. 풍력발전소 건립을 둘러싼 은밀한 거래들이 하나씩 드러나고, 보덴슈타인이 용의자 중 한 명인 니카에게 반하면서 사건은 점점 복잡해지는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로드",
+                "DDC": "",
+                "UPDATE_DATE": "20120220",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "넬레 노이하우스 지음 ;김진아 옮김",
+                "SERIES_TITLE": "스토리콜렉터 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "008",
+                "EA_ISBN": "9788991239838",
+                "INPUT_DATE": "20120220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "바람을 뿌리는 자 ",
+                "PUBLISH_PREDATE": "20120206",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

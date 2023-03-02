@@ -1,0 +1,89 @@
+{
+    "otitle": "복제 공룡 티노의 공룡시대 대탐험 3",
+    "oauthor": "조성계 글그림/임종덕 감수/이항재 추천",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:58 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "복제 공룡 티노의 공룡시대 대탐험 3: 백악기 (과학으로 배우는 공룡 학습 만화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497195650",
+                "image": "https://shopping-phinf.pstatic.net/main_3249719/32497195650.20221019150017.jpg",
+                "author": "조성계",
+                "discount": "9900",
+                "publisher": "아라크네",
+                "pubdate": "20160630",
+                "isbn": "9791157744411",
+                "description": "과학으로 배우는 공룡 학습만화 『복제 공룡 티노의 공룡시대 대탐험』 제3권 《백악기》.  이 책에서는 티노의 엄마를 찾기 위해 다시 타임머신을 타고 중생대 백악기로 이동한 티노와 친구들이 여러 공룡들을 만나게 되면서 펼쳐지는 흥미로운 이야기를 담았다."
+            },
+            {
+                "title": "복제 공룡 티노의 공룡시대 대탐험 2: 쥐라기 (과학으로 배우는 공룡 학습 만화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490258951",
+                "image": "https://shopping-phinf.pstatic.net/main_3249025/32490258951.20221019150137.jpg",
+                "author": "조성계 만화터",
+                "discount": "9900",
+                "publisher": "주니어아라크네",
+                "pubdate": "20160530",
+                "isbn": "9791157744404",
+                "description": "『복제 공룡 티노의 공룡시대 대탐험 2-쥐라기』는 타임머신을 타고 중생대 쥐라기로 이동해 만나게 되는 여러 공룡들의 신비로운 이야기가 흥미 있게 펼쳐지는 공룡 학습 만화입니다."
+            },
+            {
+                "title": "복제공룡 티노의 공룡시대 대탐험 1: 트라이아스기 (과학으로 배우는 공룡 학습 만화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497239761",
+                "image": "https://shopping-phinf.pstatic.net/main_3249723/32497239761.20221019114710.jpg",
+                "author": "조성계",
+                "discount": "9900",
+                "publisher": "주니어아라크네",
+                "pubdate": "20160430",
+                "isbn": "9791157744398",
+                "description": "여러 공룡들의 신비로운 이야기가 흥미 있게 펼쳐지는 공룡 학습 만화『복제공룡 티노의 공룡시대 대탐험』제1권. 서기 2333년, 유전자 복제 기술로 태어난 티라노사우루스의 새끼 티노.그런데 어찌된 일인지 티노는 매일같이 슬프게 울기만 한다.티노의 울음소리에 잠 못 이루고 괴로워하던 초롱은 친구 한얼과 함께 할아버지가 개발한 타임머신을 타고 티노의 엄마를 찾아주기 위해 까마득한 공룡시대로 향한다. 그러나 타임머신은 타이머가 미완성이라 제멋대로 향하고, 덕분에 아이들과 티노는 엄청난 모험을 하게 되는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아라크네",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "77450",
+                "PUBLISHER_URL": "http://www.arachne.co.kr",
+                "AUTHOR": "글, 그림: 조성계",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "190페이지 내외",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157744411",
+                "INPUT_DATE": "20160411",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "복제공룡 티노의 공룡시대 대모험 3-백악기",
+                "PUBLISH_PREDATE": "20160420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

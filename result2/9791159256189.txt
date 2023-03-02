@@ -1,0 +1,78 @@
+{
+    "otitle": "시시콜콜한 조선의 일기들",
+    "oauthor": "박영서 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:23 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "시시콜콜한 조선의 일기들",
+                "link": "https://search.shopping.naver.com/book/catalog/32491903662",
+                "image": "https://shopping-phinf.pstatic.net/main_3249190/32491903662.20230103162852.jpg",
+                "author": "박영서",
+                "discount": "13500",
+                "publisher": "들녘",
+                "pubdate": "20210416",
+                "isbn": "9791159256189",
+                "description": "『시시콜콜한 조선의 일기들』은 〈나는 네가 과거 시험장에서 한 일을 알고 있다〉, 〈신입 사원들의 관직 생활 분투기〉, 〈이 천하에 둘도 없는 탐관오리 놈아!〉, 〈아니, 이게 무슨 소리요. 내가 암행어사라니!〉등을 수록하고 있는 책이다."
+            },
+            {
+                "title": "시시콜콜한 조선의 일기들 (큰글자도서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496143359",
+                "image": "https://shopping-phinf.pstatic.net/main_3249614/32496143359.20221227205236.jpg",
+                "author": "박영서",
+                "discount": "39000",
+                "publisher": "들녘",
+                "pubdate": "20220510",
+                "isbn": "9791159257308",
+                "description": "시시콜콜한 오늘의 삶은 일기가 되고, 그 일기가 쌓이면 역사가 된다! \n일기에는 『조선왕조실록』에서는 결코 볼 수 없는 진짜 이야기가 담겨 있다 \n평범하지만 찬란했던 역사의 참 주인공들이 써 내려간 알짜배기 역사책을 만나다!!\n\n역사 덕후 청년 박영서의 두 번째 책. 전작 『시시콜콜한 조선의 편지들』에 이어 이번에는 조선 사람들의 ‘일기’에 주목했다. 일기는 가장 사적인 기록이다. 개인의 치열했던 삶의 흔적이 세세하게 녹아 들어가 있다. 아침에 눈을 뜬 순간부터 달을 보며 자리에 들 때까지 시시각각 스쳐 지나간 온갖 감정과 생각과 행동의 흔적들이 조용히 내려앉으면 일기가 된다. 그러나 일기는 거시적이기도 하다. 일기를 쓴 사람이 자신이 살아 숨 쉬던 시대와 어떻게 교차하고 있는지를 그대로 보여준다는 점에서 그렇다. 따라서 일기는 개인이라는 씨실과 시대라는 날실이 직조된 저마다의 직조물인 셈이다. 똑같은 일기가 나올 수 없는 이유다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20210526",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "박영서 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*223",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "339 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159256189",
+                "INPUT_DATE": "20210310",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "시시콜콜한 조선의 일기들",
+                "PUBLISH_PREDATE": "20210416",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "테일 테일 칵테일(Tail Tale Cocktail)",
+    "oauthor": "김성욱 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:23 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "테일 테일 칵테일(Tail Tale Cocktail)(큰글자도서) (일러스트로 만나는 칵테일북)",
+                "link": "https://search.shopping.naver.com/book/catalog/35835763618",
+                "image": "https://shopping-phinf.pstatic.net/main_3583576/35835763618.20221129171913.jpg",
+                "author": "이야기고래 김성욱",
+                "discount": "28800",
+                "publisher": "이담북스",
+                "pubdate": "20221115",
+                "isbn": "9791168018389",
+                "description": "(큰글자도서) 칵테일에 대해 알고 싶지만, 칵테일을 공부하기는 싫은 이들에게 제격인 칵테일 북이다. 칵테일의 유래부터 시작하여 주재료가 되는 베이스 술에 대한 폭넓은 내용은 칵테일이란 술이 무엇인지, 어떻게 만들어졌고 발전되었는지 칵테일에 관한 근원적인 물음부터 해결해준다.\n\n또한 칵테일 기법, 계량 단위, 글라스, 얼음, 가니시 등에 관한 내용 역시 한 잔의 칵테일이 만들어지기까지 어떤 기술과 도구, 부재료들이 필요한지 간단명료하게 설명해준다. 어느 정도 기본 지식을 갖춘 후엔 칵테일을 직접 만들어 볼 수 있도록 쉽고 맛도 좋은 70가지 칵테일 레시피를 엄선해 담았다."
+            },
+            {
+                "title": "테일 테일 칵테일(Tail Tale Cocktail) (일러스트로 만나는 칵테일북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463720932",
+                "image": "https://shopping-phinf.pstatic.net/main_3246372/32463720932.20221230074705.jpg",
+                "author": "김성욱",
+                "discount": "10800",
+                "publisher": "이담북스",
+                "pubdate": "20170731",
+                "isbn": "9788926879344",
+                "description": "칵테일이 가진 수많은 재미, 멋, 매력을 만난다!\n\n오동통한 꼬리(tail)를 가진 너구리가 들려주는 이야기(tale)를 따라 칵테일(Cocktail)의 세계 『테일 테일 칵테일(Tail Tale Cocktail)』. 칵테일에 관심이 있고 소소한 술자리를 즐기는 사람이라면 누구나 좋아할 만한 일러스트 칵테일북이다. 섞이는 술과 재료는 물론, 당시의 분위기와 감정까지 섞여 각기 다른 맛과 느낌을 만들어내는 칵테일에 관한 재미있는 이야기를 만나볼 수 있다.\n\n칵테일의 주재료가 되는 발효주, 증류주, 혼성주, 전통주 등 술에 대한 이야기와 각종 부재료에 대한 친절한 설명, 70종에 이르는 칵테일 레시피 그리고 레시피에 얽힌 비하인드 스토리, 계절별·분위기별 추천 칵테일까지 전문가가 아니어도, 술을 잘 못 마시는 사람이어도 즐길 수 있는 이야기로 가득하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20230105",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "글·그림: 김성욱",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221115",
+                "TITLE_URL": "",
+                "PRE_PRICE": "32000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "200*276",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168018389",
+                "INPUT_DATE": "20221020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "테일 테일 칵테일",
+                "PUBLISH_PREDATE": "20221115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

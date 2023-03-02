@@ -1,0 +1,23 @@
+{
+    "otitle": "고객의 언어",
+    "oauthor": "이진국 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고객의 언어 (고객의 진짜 메시지는 무엇인가? | 고객의 언어를 이해하고 활용하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466705012",
+                "image": "https://shopping-phinf.pstatic.net/main_3246670/32466705012.20230131164749.jpg",
+                "author": "이삼현",
+                "discount": "12600",
+                "publisher": "북카라반",
+                "pubdate": "20200511",
+                "isbn": "9791160050813",
+                "description": "『고객의 언어』에서는 고객의 언어를 이해하는 방법, 각 산업 분야에서 리더가 된 사람들의 이야기와 함께 언제 어떻게 고객의 언어를 습득하고 활용하는지 알아보려고 한다."
+            }
+        ]
+    }
+}

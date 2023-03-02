@@ -1,0 +1,67 @@
+{
+    "otitle": "서로에 관한 것은 우연히만 알았으면 좋겠어",
+    "oauthor": "김지수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서로에 관한 것은 우연히만 알았으면 좋겠어 (한 올 한 올 나만의 결대로 세상에 적응해나가는 극세사주의 삶에 관하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436154535",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436154535.20221019145438.jpg",
+                "author": "김지수",
+                "discount": "13320",
+                "publisher": "비에이블",
+                "pubdate": "20220323",
+                "isbn": "9791165344702",
+                "description": "“서로의 세계를 우연히 안다는 것은\n얼마나 무한한 기쁨과 슬픔의 순간일까”\n\n《일기시대》 문보영 작가가 추천하는 신작 공감 에세이\n한 올 한 올 나만의 결대로 세상과 연결되는 극세사주의 삶\n\n그런 마음의 분량이 있다. 복잡다단한 내면의 케미를 즐기고, 친밀함과 멀어짐의 간극을 분주히 오가며, 역류하는 생각들에 물음표를 붙인 채, 타인과의 접점을 두려워하는 사람들. 하지만 세상은 온통 낯선 것투성이다. 이질적인 환경, 불편한 인간관계, 우당탕한 나날…. 세밀한 마음 가닥을 지닌 이들에게는 세상과의 간극을 좁히는 일이 여간 쉽지 않다.\n하지만 모든 ‘낯익음’의 시작은 ‘낯섦’이었다. 작가는 서툴면 서투른 대로, 느리면 느린 대로 좋은 삶의 방식을 들려준다. 한 올 한 올 나만의 결을 유지하며 살아가는 경쾌한 인생도 있다고. 그렇게 우리는 꾸준한 템포로 연결될 것이다. 오직 자신만 아는 촘촘하고 따뜻한 거리로 이 낯선 도시를 기꺼이 허락하면서. 서로의 세계를 우연히 발견한다는 것은 그만큼 무한한 감정을 동반하는 일이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비에이블",
+                "DDC": "",
+                "UPDATE_DATE": "20220504",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "김지수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*182",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165344702",
+                "INPUT_DATE": "20220225",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "서로에 관한 것은 우연히만 알았으면 좋겠어",
+                "PUBLISH_PREDATE": "20220330",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

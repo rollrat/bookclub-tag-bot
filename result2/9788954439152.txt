@@ -1,0 +1,67 @@
+{
+    "otitle": "괴로운 날엔 쇼펜하우어",
+    "oauthor": "셀린 벨로크 저/류재화 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "괴로운 날엔 쇼펜하우어",
+                "link": "https://search.shopping.naver.com/book/catalog/32496660843",
+                "image": "https://shopping-phinf.pstatic.net/main_3249666/32496660843.20221228072652.jpg",
+                "author": "셀린 벨로크",
+                "discount": "14400",
+                "publisher": "자음과모음",
+                "pubdate": "20181112",
+                "isbn": "9788954439152",
+                "description": "“우리가 행복에 가까워지려고 할수록\n행복은 지평선처럼 저 먼 곳으로 달아난다!”\n쇼펜하우어로부터 배우는 최상의 ‘내려놓기’ 방법\n\n《괴로운 날엔 쇼펜하우어》는 사색하고 숙고하는 ‘학문’을 넘어서 우리 삶에 철학을 적용해 행동으로 촉발하기 위해 기획된 ‘필로테라피’ 시리즈의 다섯 번째 책이다. 저자는 우리의 사소한 행동과 습관을 바꾸는 것에 집중하며, 그것이야말로 이론을 진정으로 이해하는 것이라고 이야기한다. 그래서 저자는 단계적으로 차근차근 논의를 이어나가며, 프랑크푸르트의 현자로 알려진 염세주의 철학자 쇼펜하우어의 가르침을 일상에 적용하는 것에 초점을 맞추며 각자의 깊은 내면으로 안내해나간다. 한마디로 요약하자면, 이 책은 쇼펜하우어를 이해하기 위한 책이자 새로운 눈으로 삶을 바라보고 긍정하기 위한 초석을 다지는 책이다. 이 책을 통해 문제의식을 먼저 설정하고, 해결해야 할 증상을 진단한 후에 철학자의 인식의 틀을 적극적으로 참조해 우리 생활에 적용할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "자음과모음",
+                "DDC": "193",
+                "UPDATE_DATE": "20181119",
+                "EA_ADD_CODE": "04160",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "셀린 벨로크 지음 ;류재화 옮김",
+                "SERIES_TITLE": "필로테라피",
+                "KDC": "165.47",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6917405_6.txt",
+                "SET_ISBN": "9788954438698",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6917405_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6917405_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "258 p.",
+                "CONTROL_NO": "CIP2018030320",
+                "SERIES_NO": "5",
+                "EA_ISBN": "9788954439152",
+                "INPUT_DATE": "20180917",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "괴로운 날엔 쇼펜하우어",
+                "PUBLISH_PREDATE": "20181109",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04160 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

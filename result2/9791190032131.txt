@@ -1,0 +1,67 @@
+{
+    "otitle": "평양, 제가 한번 가보겠습니다",
+    "oauthor": "정재연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "평양, 제가 한번 가보겠습니다 (당신이 지금 궁금한 ’요즘 평양’)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492663902",
+                "image": "https://shopping-phinf.pstatic.net/main_3249266/32492663902.20221228072926.jpg",
+                "author": "정재연",
+                "discount": "11700",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20190715",
+                "isbn": "9791190032131",
+                "description": "한국말 안 하고, 눈으로만 보고, \n주는 밥만 먹고 오려고 했던 리얼 2019 북조선 여행기\n\n북한 비자 국적란에 적힌 ‘조선인’은 나?\n고려항공의 ‘미스터리 버거’는 어떤 맛?\n평양 영화관에는 팝콘이 있다, 없다?\n대동강맥주와 닭튀김으로 ‘치맥’ 도전!\n\n나 혼자 경험하기엔 아까운 평양 여행\n여러분에게 알려주고 싶습니다!\n\n아무나 갈 수 없는 곳에 한번 가보았습니다\n지금 가장 생생한 평양 여행기\n정치인도, 연예인도, 기자도 아니다. 한국 태생의 평범한 일반인이 오로지 호기심 하나만으로 여행을 결정하고 북한으로 떠났다. 호주 국적으로 겨우 발급받은 북한 관광증(비자)의 국적란에는 놀랍게도 ‘조선인’이라고 쓰여 있었다. 고려항공 비행기에서는‘미스터리 버거’라고 불리는 기내식을 맛보았고 평양 공항에서 SIM 카드를 살 수 있다는 사실에도 놀랐다. 평양 시민들과 함께 지하철도 타고, 북한 영화를 관람하고, 대동강맥주와 닭튀김으로 ‘치맥’도 해 보았다. 평양 근교인 개성, 평성에도 갈 수 있었다.\n저자는 5년 전, 한국에서 DMZ와 JSA를 방문한 적 있다. 걸어가면 채 2분도 안 걸릴 북한 땅에 서 있는 무표정한 얼굴의 북한 군인을 보았고, 그가 불과 몇십 년 전에는 같은 나라 국민이었다는 걸 믿을 수 없었다. 저자는 그저 두 눈으로 북한을 직접 보고 싶다고 생각했다. 북한 사람들은 무슨 생각을 하고 어떤 삶을 살고 있을지 궁금했다. 이 여행기는, 한국에서 태어나 평범하게 자란 시민이 북한 여행에서 보고 느낀 것을 솔직하게 써 내려간 이야기다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스books :GCC",
+                "DDC": "",
+                "UPDATE_DATE": "20190812",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정재연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "981.11202",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/07/05/9791190032131.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "236 p.",
+                "CONTROL_NO": "CIP2019026410",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190032131",
+                "INPUT_DATE": "20190705",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "평양, 제가 한번 가보겠습니다",
+                "PUBLISH_PREDATE": "20190715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

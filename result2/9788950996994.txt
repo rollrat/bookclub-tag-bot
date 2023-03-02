@@ -1,0 +1,67 @@
+{
+    "otitle": "글록",
+    "oauthor": "폴 배럿 저/오세영 역/강준환 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "글록 (미국을 지배하는 또 하나의 제국)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464613664",
+                "image": "https://shopping-phinf.pstatic.net/main_3246461/32464613664.20221019105325.jpg",
+                "author": "폴 배럿",
+                "discount": "17110",
+                "publisher": "레드리버",
+                "pubdate": "20210923",
+                "isbn": "9788950996994",
+                "description": "가스통 글록은 권총의 역사에서 콜트, 브라우닝, 스미스, 웨슨과 함께 큰 족적을 남긴 사람이다. 글록 경영진은 총기 규제 진영의 미숙한 공격을 역이용해서 외국산 자동권총을 〈수정헌법 제2조〉를 열광적으로 지지하는 사람들의 총아로 변신시켰다. 글록사와 글록 자동권총은 지금까지 엄청난 행운과 믿을 수 없는 호재를 누렸다.\n- 본문 중에서\n\n이 책은 현대 권총의 대명사가 된 글록의 성공 신화를 탄생부터 현재까지 촘촘하게 추적한다. 글록의 성공은 탁월한 마케팅, 영업 기법이 뒷받침했다. 그러나 글록에 날개를 달아준 건 다름 아닌 미국 사회의 취약성이었다. 글록의 미국 진출을 막으려던 사람들, 미국 사회에서 총기를 규제하려던 사람들이 아이러니하게도 글록의 최대 영업 사원이 되었다. 글록은 매우 영리하게 미국 시장을 공략하며, 방해가 되는 이슈와 규제를 수단과 방법을 가리지 않고 무력화했다.\n이 책은 글록의 창업주 가스통 글록이 한사코 숨기고 싶어 할 영업 비밀이나 범죄 연루, 비하인드 스토리까지 집요하게 파헤친다. 글록의 어두운 성공 신화를 따라가다 보면 어느덧 총기와 범죄, 로비로 얼룩진 미국의 민낯을 마주하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북이십일 레드리버",
+                "DDC": "",
+                "UPDATE_DATE": "20211020",
+                "EA_ADD_CODE": "03940",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "폴 배럿 지음 ;오세영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950996994",
+                "INPUT_DATE": "20210728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "글록",
+                "PUBLISH_PREDATE": "20210923",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

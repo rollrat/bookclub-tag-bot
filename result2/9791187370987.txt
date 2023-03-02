@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 웹 사이트 기획 입문",
+    "oauthor": "이정원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 웹 사이트 기획 입문 (어제도 화면 정의서를 쓴 12년 차 선배의 일대일 과외 수업!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491410158",
+                "image": "https://shopping-phinf.pstatic.net/main_3249141/32491410158.20221229071653.jpg",
+                "author": "이정원",
+                "discount": "20700",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20170829",
+                "isbn": "9791187370987",
+                "description": "고객은 못 보는 관리자용 화면 정의서까지, 쇼핑몰 설계도를 모두 공개!\n\n실무 2년보다 이 책 한 권이 낫다! 꼭꼭 눌러 담은 웹 기획의 정석을 만나라! 글로 배워서는 자전거를 탈 수 없다. 기획도 마찬가지. 저자는 기획이란 누구나 배워 익힐 수 있는 실무적인 기술이기 때문에 직접 해 보는 것이 가장 효과적인 학습 방법이라고 주장한다. 이 책에서는 기획자가 쓰는 문서 양식과 쇼핑몰 웹 사이트를 만드는 전 과정과 공개했다. 한 단계씩 순차적으로 실습하면 진짜 웹 기획자의 일을 구체적으로 배울 수 있도록 설계한 것이다. 장과 절이 끝날 때마다 실무에서 맞닥뜨릴 수 있는 과제를 ‘도전! 웹 기획 실무’와 ‘돌발! 의뢰인의 변심’ 코너로 구성한 것도 눈에 띈다. \n\n게다가 이용자용 화면 정의서는 물론, 일반인은 못 보는 관리자용 화면 정의서까지 통으로 담았으니, 이 책, 말 다 했다. 양이 많다고 걱정 마시라. 저자의 12년 실무 노하우가 담긴 화면 정의서 작성 방법과 꼼꼼한 해설은 자전거를 배울 때 뒤를 잡아 주는 아빠의 손처럼 든든하다. 웹 기획 분야 취업 준비생부터 웹 기획자로 전직하길 원하는 디자이너와 개발자 그리고 웹 사이트를 발주하는 클라이언트까지, 웹 사이트를 제대로 만들고 싶은 사람이라면 꼭 읽어야 할 책!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20171206",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "이정원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "388 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187370987",
+                "INPUT_DATE": "20170801",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "Do it! 웹 사이트 기획 입문",
+                "PUBLISH_PREDATE": "20170829",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

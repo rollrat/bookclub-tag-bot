@@ -1,0 +1,67 @@
+{
+    "otitle": "마트로 가는 아이들",
+    "oauthor": "박현숙 글/김병하 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마트로 가는 아이들",
+                "link": "https://search.shopping.naver.com/book/catalog/32441654912",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441654912.20221019135124.jpg",
+                "author": "박현숙",
+                "discount": "9000",
+                "publisher": "살림어린이",
+                "pubdate": "20160930",
+                "isbn": "9788952234643",
+                "description": "우리 이웃의 눅진한 삶이 실감 나게 펼쳐지는 시사 동화『마트로 가는 아이들』. 복지의 사각지대에 놓인 아이들이 놀 곳도, 갈 곳도 없어 마트에서 시간을 보내다 일어나는 사건을 생생하게 담아낸 이 동화는 자칫 무거워질 수도 있는 현실 문제를 박현숙 작가의 유머 감각과 따뜻한 시선으로 옮겨, 독자로 하여금 눈물짓고 또 웃음 지으며 이야기 속에 빠져들게 한다.\n\n이마에 빨간 여드름이 돋아나면서 주변 모든 게 신경에 거슬리기 시작한 열세 살 ‘풍호’. 방과 후 마트에서 시식 음식을 먹거나 새로 들어온 물건들을 구경하며 시간을 보내는 게 일과다. 그러던 어느 날 풍호와 함께하는 단짝 ‘조선간장’이 도난 사건의 누명을 쓰면서 마트에서 쫓겨날 위기에 처하는데……. 여드름처럼 곪아 버린 현실, 이에 맞서는 풍호의 고군분투가 펼쳐진다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20161115",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "박현숙 글, 김병하 그림",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5647510_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5647510_3.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "204",
+                "CONTROL_NO": "CIP2016018501",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952234643",
+                "INPUT_DATE": "20160729",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "마트로 가는 아이들",
+                "PUBLISH_PREDATE": "20160930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

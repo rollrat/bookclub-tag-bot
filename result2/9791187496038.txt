@@ -1,0 +1,67 @@
+{
+    "otitle": "당신에게, 파리",
+    "oauthor": "목수정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신에게, 파리",
+                "link": "https://search.shopping.naver.com/book/catalog/32492781191",
+                "image": "https://shopping-phinf.pstatic.net/main_3249278/32492781191.20221229074054.jpg",
+                "author": "목수정",
+                "discount": "13500",
+                "publisher": "꿈의지도",
+                "pubdate": "20160910",
+                "isbn": "9791187496038",
+                "description": "소신 있는 작가로서, 감각적인 여성으로서, 자유롭고 지적인 파리지앵으로서 다양한 사회적 목소리를 내고 있는 목수정. 그녀가 들려주는 아주 특별하고 사적인 파리 이야기다. 에펠탑의 차가움과 광장의 뜨거움이 공존하는 곳, 파리. 관광객의 떠들썩함과 파리지앵의 잔잔한 일상이 공존하는 곳, 파리. 그런 파리는, 단호함과 부드러움을 겸비한 작가 목수정이 십 년 넘게 살아가고 있는 삶의 공간이다.\n\n\n\n 유학생 시절부터 열 살 딸아이의 엄마로 살고 있는 현재까지 그녀가 보고 느낀 파리의 모습은 어떠했을까? 뷔트 쇼몽 공원에서 시작된 일곱 번째 연애를 추억하고, 아이와 함께 아르스날 항구 주변을 산책하고, 유기농 카페 빵 코띠디앙에서 커피 한 잔을 마시며 글을 쓰기도 하는 그녀의 파리 일상. 관광객은 알 수 없는 어느 골목, 어느 시장, 그리고 어느 구석진 곳에 숨겨진 보석 같은 명소까지. 이 책에는 목수정의 시각으로 바라본 파리의 아주 깊고 내밀한 아름다움이 빼곡하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20161202",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "목수정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "320",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187496038",
+                "INPUT_DATE": "20160809",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "당신에게, 파리 ",
+                "PUBLISH_PREDATE": "20160910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "세계사를 바꾼 10가지 약",
+    "oauthor": "사토 겐타로 저/서수지 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계사를 바꾼 10가지 약 (비타민Cㅣ퀴닌ㅣ모르핀ㅣ마취약ㅣ소독약)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466558141",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466558141.20230214163614.jpg",
+                "author": "사토 겐타로",
+                "discount": "14400",
+                "publisher": "사람과나무사이",
+                "pubdate": "20180510",
+                "isbn": "9791188635108",
+                "description": "‘질병’이라는 창과 ‘약’이라는 방패의 투쟁 역사!\n\n많은 국가와 사회를 치명적 위기에 빠뜨렸던 10가지 질병과 결정적 고비마다 인류를 무서운 질병의 위협에서 구한 10가지 약에 관한 흥미진진하고도 유익한 이야기를 통해 인류 역사를 살펴보는 『세계사를 바꾼 10가지 약』. 인류 역사는 질병과 약의 투쟁 역사다. 괴혈병, 말라리아, 매독, 에이즈 같은 치명적인 질병이 역사의 무대에 나타나 날카로운 창처럼 인류를 위협하면 비타민C, 퀴닌, 살바르산, AZT 같은 약이 기적적으로 등장하여 든든한 방패가 되어주었다. 저자는 역사에 만약은 없다고들 말하지만, '그때 만약 이랬더라면?' 하는 식으로 상상의 나래를 펴면 역사는 좀 더 흥미진진하고 생동감 있게 다가온다고 이야기하면서 인류 역사의 몇 가지 장면에 ‘만약’을 대입하고, 몇 가지 질환으로 압축해 역사와 의약품의 관계를 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사람과나무사이",
+                "DDC": "615",
+                "UPDATE_DATE": "20180517",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "사토 겐타로 지음 ;서수지 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "518",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6627816_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6627816_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6627816_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "CIP2018011522",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188635108",
+                "INPUT_DATE": "20180411",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "세계사를 바꾼 10가지 약",
+                "PUBLISH_PREDATE": "20180510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

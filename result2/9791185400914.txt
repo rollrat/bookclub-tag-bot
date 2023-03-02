@@ -1,0 +1,67 @@
+{
+    "otitle": "책은 꼭 끝까지 읽어야 하나요?",
+    "oauthor": "변대원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "책은 꼭 끝까지 읽어야 하나요? (내 맘대로 읽어도 술술 읽히는 독서의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485750724",
+                "image": "https://shopping-phinf.pstatic.net/main_3248575/32485750724.20221227204141.jpg",
+                "author": "변대원",
+                "discount": "12600",
+                "publisher": "북바이북",
+                "pubdate": "20190603",
+                "isbn": "9791185400914",
+                "description": "‘사이책방’ 주인 변대원 작가가 독서 초심자와 새로운 읽기 방법을 추구하는 이들을 위해 ‘독서의 원리’를 안내한다. 이제 막 독서를 시작하려는 사람, 책을 읽어야겠다는 결심을 너무 많이 한 나머지 독서에 부담을 느끼는 사람, 새로운 독서법이 필요한 시점에 들어선 이들을 위해 자기만의 방법을 찾도록 돕는 지침서다. \n\n\n\n1장에서는 사람들이 독서를 힘들어하는 원인을 짚는다. 가장 큰 요인으로 내 기준에선 재미없는 책도 끝까지 읽어야 한다는 부담이 많은 사람을 독서에서 멀어지게 한다고 강조한다. 2장에서는 독서에 대한 일곱 가지 고정관념을 든다. ‘추천 도서는 꼭 읽어야 한다’, ‘속독이란 모든 책을 빠르고도 깊게 읽는 것이다’ 등을 대표 선입견으로 든다. \n\n\n\n3장에서는 나의 독서 수준은 어디쯤 와 있는지 실제 점검하도록 돕고, 4장에서는 여러 독서법(속독, 발췌독, 필독, 계독, 숙독 등)을 안내하며 지금 자신에게 필요한 방법을 찾도록 돕는다. 저자가 수없이 시행하고 실패했던 경험을 바탕으로 풀어가며 독자 스스로 자기만의 독서법을 찾도록 친절하게 안내한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "",
+                "UPDATE_DATE": "20190610",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "변대원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "029.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "CIP2019018524",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400914",
+                "INPUT_DATE": "20190510",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "책은 꼭 끝까지 읽어야 하나요?",
+                "PUBLISH_PREDATE": "20190603",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

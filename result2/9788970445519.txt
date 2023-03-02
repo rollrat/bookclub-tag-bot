@@ -1,0 +1,78 @@
+{
+    "otitle": "중국과학의 사상",
+    "oauthor": "박성래",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:33 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "중국 과학의 사상적 풍토",
+                "link": "https://search.shopping.naver.com/book/catalog/32489633097",
+                "image": "https://shopping-phinf.pstatic.net/main_3248963/32489633097.20221231084209.jpg",
+                "author": "야마다 게이지",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "19941215",
+                "isbn": "9788970445519",
+                "description": "과학의 발달로 인한 자연파괴 등 예기치 못한 폐단이 생기고, 머지않아 자연은 인간 위에 있다고 보는 동양과학이 다시 대두하게 되리라고 보면서, 우리는 동양과학의 주맥을 이루는 중국과학의 본질을 아는 것이 절실하다. 야마다 교수는 다년간 전문적으로 중국과학을 연구한 노련한 인식으로 표면의 사실적인 측면보다 이면적으로 잠재된 측면에서 중국의 문화, 의료, 공업화 등 거의 과학 전반을 망라하여 사고양식을 걸러내는 필터 같은 역할, 패턴?인식, 구조이론 같은 배경적인 측면에서의 사상적인 풍토를 특유의 평이한 서술형식으로 소개하고 있다."
+            },
+            {
+                "title": "중국과학의 사상(현대과학신서 10A) (중국에는 왜 과학이 없었던가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493310636",
+                "image": "https://shopping-phinf.pstatic.net/main_3249331/32493310636.20220527050109.jpg",
+                "author": "박성래",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19780701",
+                "isbn": "9788970443102",
+                "description": "서양보다 앞서 과학ㆍ기술이 찬란한 꽃을 피우고서도 동양에서는 왜 근대 과학이 일어나지 못했는가. 여러 측면에서 다양하게 일었던 동서사계의 석학들이 논의를 박교수가 이어 모자이크한 세미나."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19941201",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "야마다 게이지 저 ; 박성환 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "8000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "897044551X",
+                "INPUT_DATE": "19941201",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "중국과학의 사사적 풍토",
+                "PUBLISH_PREDATE": "19941215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

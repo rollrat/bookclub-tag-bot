@@ -1,0 +1,67 @@
+{
+    "otitle": "숫자로 경영하라 4",
+    "oauthor": "최종학 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서울대 최종학 교수의 숫자로 경영하라 4 (숫자 뒤에 숨은 진실을 보는 눈)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436154444",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436154444.20230218110529.jpg",
+                "author": "최종학",
+                "discount": "15300",
+                "publisher": "원앤원북스",
+                "pubdate": "20180201",
+                "isbn": "9791160020991",
+                "description": "경영·회계 베스트셀러 『숫자로 경영하라』네 번째 이야기\n\n기업과 정부의 정책 및 법률에 실제 반영될 정도로 영향력 있는 『숫자로 경영하라』의 네 번째 이야기가 드디어 출간되었다. 서울대학교 교수이자 대한민국 최고의 경영 대가로 손꼽히는 최종학 교수의 신간은 회계숫자의 진정한 가치에 대해 이야기한다. 회계숫자를 제대로 읽는 능력을 쌓는다면, 의미 없던 숫자가 무궁무진한 정보의 원천이 되어 다가올 것이다. 정보는 누구에게나 공개되어 있고 숫자도 누구나 볼 수 있지만, 그 숫자 뒤에 숨어 있는 진실을 보는 눈은 누구나 가지고 있는 것이 아니다. 따라서 그런 혜안을 가질 수 있도록 노력해야 한다. 『숫자로 경영하라』는 이러한 관점에서 저술되었다. 숫자와 회계라는 객관적 잣대와 저자 특유의 통찰력으로 기업 경영을 날카롭게 분석해, 기업경영자나 경영을 꿈꾸는 모든 사람들에게 실증적 교훈을 줄 뿐만 아니라, 기업과 정부의 정책 및 법률을 변화시킬 정도의 큰 영향력을 행사한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "658.401",
+                "UPDATE_DATE": "20181221",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "최종학 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6512016_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "453 p.",
+                "CONTROL_NO": "CIP2018001308",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160020991",
+                "INPUT_DATE": "20180112",
+                "SET_EXPRESSION": "",
+                "VOL": "4",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(서울대 최종학 교수의) 숫자로 경영하라",
+                "PUBLISH_PREDATE": "20180201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

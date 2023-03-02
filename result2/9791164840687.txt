@@ -1,0 +1,67 @@
+{
+    "otitle": "초록이 가득한 하루를 보냅니다",
+    "oauthor": "정재경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초록이 가득한 하루를 보냅니다 (식물 보듯 나를 돌보는 일에 관하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445132742",
+                "image": "https://shopping-phinf.pstatic.net/main_3244513/32445132742.20230103162801.jpg",
+                "author": "정재경(모던마더)",
+                "discount": "12600",
+                "publisher": "생각정거장",
+                "pubdate": "20200105",
+                "isbn": "9791164840687",
+                "description": "식물 보듯 나를 돌보는 일에 관하여\n 필요한 만큼의 마음체력을 기르는 초록일상 에세이\n\n오롯이 나를 위한 것을 생각하는 여유 \n‘꽃을 피우는 시기는 다 달라’\n필요한 만큼의 마음체력을 기르는 초록일상 에세이\n\n식물처럼 매일매일 성장하고 있다는 믿음이 필요할 때가 많다. ‘그때 그것도 좀 해볼 걸, 더 열심히 살 걸’ 후회하지 않고, ‘일단 최선을 다했으니 괜찮아. 꽃을 피우는 시기는 다 달라’ 생각하는 게 먼저다. 세상은 나 같은 평범한 사람 한 명, 한 명이 나무가 되어 만드는 숲이다. 몸과 마음과 생각이 건강한 사람으로 존재하려는 노력이 울창한 숲을 이루는 자양분이 된다. 누구나 나답게 사는 법을 알고 싶어 한다. 누구를 위해서가 아닌 오로지 나를 위해 노력하는 푸른 일상에 관해 이야기했다. 새로운 성장을 이루는 초록 가득한 일상이 어제보다 오늘 한 뼘 더 자라게 하는 밑거름이 되면 좋겠다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정거장 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20200110",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "정재경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "590.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/18/9791164840687.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "195 p.",
+                "CONTROL_NO": "CIP2019050954",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164840687",
+                "INPUT_DATE": "20191211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "초록이 가득한 하루를 보냅니다",
+                "PUBLISH_PREDATE": "20200105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

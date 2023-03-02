@@ -1,0 +1,67 @@
+{
+    "otitle": "너는 알고 있다",
+    "oauthor": "엘리자베스 클레포스 저/정지현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "너는 알고 있다",
+                "link": "https://search.shopping.naver.com/book/catalog/32466407635",
+                "image": "https://shopping-phinf.pstatic.net/main_3246640/32466407635.20221019131430.jpg",
+                "author": "엘리자베스 클레포스",
+                "discount": "14400",
+                "publisher": "나무옆의자",
+                "pubdate": "20190722",
+                "isbn": "9791161570631",
+                "description": "엘리트들이 모이는 명문 사립학교에 다니는 열일곱 살 소녀가 캠퍼스 내 비밀 클럽 활동을 하면서 10년 전 사라진 엄마의 실종 사건에 얽힌 미스터리를 밝혀나가는 이야기가 펼쳐진다. 소설은 찰리, 그레이스, 앨리스테어 세 사람의 관점으로 과거와 현재를 오가며 몇 십 년에 걸친 수수께끼를 영리하게 풀어간다. 과거와 현재의 위험한 사건들이 서서히 한 점으로 모이면서 찰리는 가족과 학교, 자신의 미래가 걸린 두렵고도 떨리는 선택의 순간에 놓인다. 소설의 클라이맥스인 이 순간을 묘사하는 엘리자베스 클레포스의 필력은 ‘미스터리 스릴러’와 ‘성장 드라마’라는 두 요소를 탁월하게 조화시키며 전율과 감동을 선사한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무옆의자",
+                "DDC": "",
+                "UPDATE_DATE": "20190731",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 엘리자베스 클레포스 ;옮긴이: 정지현",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "515 p.",
+                "CONTROL_NO": "CIP2019026686",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161570631",
+                "INPUT_DATE": "20190709",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "너는 알고 있다",
+                "PUBLISH_PREDATE": "20190722",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

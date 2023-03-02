@@ -1,0 +1,67 @@
+{
+    "otitle": "부자는 왜 필사적으로 교양을 배우는가",
+    "oauthor": "가야 게이치 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부자는 왜 필사적으로 교양을 배우는가",
+                "link": "https://search.shopping.naver.com/book/catalog/32436403634",
+                "image": "https://shopping-phinf.pstatic.net/main_3243640/32436403634.20220518132204.jpg",
+                "author": "가야 게이치",
+                "discount": "12150",
+                "publisher": "시그마북스",
+                "pubdate": "20170110",
+                "isbn": "9788984458376",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20170710",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "가야 게이치",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5943579_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5943579_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "256",
+                "CONTROL_NO": "CIP2016029152",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984458376",
+                "INPUT_DATE": "20161128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "부자는 왜 필사적으로 교양을 배우는가",
+                "PUBLISH_PREDATE": "20170110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

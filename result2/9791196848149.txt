@@ -1,0 +1,67 @@
+{
+    "otitle": "내 아이 자산관리 바이블",
+    "oauthor": "고미숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 아이 자산관리 바이블 (세뱃돈 관리부터 재테크까지, 내 아이 돈을 지키는 필수 금융지식들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462386639",
+                "image": "https://shopping-phinf.pstatic.net/main_3246238/32462386639.20221228073841.jpg",
+                "author": "고미숙",
+                "discount": "14400",
+                "publisher": "블루무스",
+                "pubdate": "20200525",
+                "isbn": "9791196848149",
+                "description": "“문맹은 생활을 불편하게 하지만 금융맹은 생존을 위협한다”\n은행 직원도, 자산관리사도 반드시 실천하는 똑 부러지는 부모들의 내 아이 돈 관리법!\n\n20년차 VIP 자산관리사이자 10년차 워킹맘은 어떻게 아이의 자산을 관리할까? 명절마다 고민되는 아이들의 용돈 관리나 사회 초년생의 경제적 자립에 필요한 금융상품 활용법이 궁금한 부모라면, 유학 준비와 증여, 상속과 같은 장기적 자산 관리의 노하우가 궁금한 부모라면 누구나 한번쯤 떠올려봤을 질문이다. 출산을 앞둔 예비 부모와 미취학 아동, 초중고 자녀를 둔 학부모들이 가장 알고 싶어하는 자녀의 돈 관리에 관한 모든 것을 신한은행 고미숙 부지점장(명동역지점)이 명쾌하게 짚어준다. 또한 현재 금융권에서 근무하는 육아맘들의 돈 관리 정보와 VIP 고객들의 인터뷰를 통해 꼭 필요한 돈 관리 노하우도 뽑았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "블루무스",
+                "DDC": "",
+                "UPDATE_DATE": "20200511",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고미숙 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/04/08/9791196848149.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "CIP2020015373",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196848149",
+                "INPUT_DATE": "20200413",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "내 아이 자산관리 바이블",
+                "PUBLISH_PREDATE": "20200525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

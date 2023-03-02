@@ -1,0 +1,67 @@
+{
+    "otitle": "천국보다 성스러운",
+    "oauthor": "김보영 저/변영근 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "천국보다 성스러운",
+                "link": "https://search.shopping.naver.com/book/catalog/32490329645",
+                "image": "https://shopping-phinf.pstatic.net/main_3249032/32490329645.20230214162639.jpg",
+                "author": "김보영",
+                "discount": "10350",
+                "publisher": "알마",
+                "pubdate": "20190328",
+                "isbn": "9791159922473",
+                "description": "한국 사회의 일상화된 모순과 역사를 지배해온 신성한 보편에 불경한 질문을 던지다!\n\n현실과 이상이 결합하는 낯선 행성, 견고한 일상의 궤도에 틈입하는 새로운 소설 시리즈 「FoP(포비든 플래닛)」. 가장 SF다운 SF를 쓰는 작가로 알려지며 봉준호 감독의 영화 《설국열차》 시나리오 자문을 맡기도 했던 김보영 작가의 『천국보다 성스러운』. 신앙과 젠더, 종교와 페미니즘이라는 만나기 어려워 보이는 영역들을 신의 강림이라는 기이한 사건 속에서 풀어낸 작품으로, 책으로 묶이기 전, 적막의 아름다움을 포착하는 작가로 알려진 변영근과의 협업으로 미술관 ‘전시공간’에서 먼저 공개되며 호평 받았다.\n\n광화문 한복판에 신이 강림했다. 사건은 놀라웠지만 신의 형상은 익숙했다. 미켈란젤로의 《천지창조》에서 아담과 손가락 장난을 치고 있는 그 남자의 얼굴로, 신은 남자 · 백인 · 이성애자 · 비장애인의 형상으로 내려왔다. 신이 강림한 날, 퇴근 후 서울의 좁은 아파트 부엌에서 허겁지겁 밥을 차리는 영희에게 아버지가 말했다. 그는 방에 드러누워 텔레비전으로 생중계되는 신의 얼굴을 보며, 신의 형상이 저러하니 나를 경애해달라는 애처로운 눈빛으로 말했다. “역시, 신은 남자로구나….”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "알마",
+                "DDC": "",
+                "UPDATE_DATE": "20190412",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김보영 ;그래픽: 변영근",
+                "SERIES_TITLE": "FoP",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791159922466",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/07/9791159922473.jpg",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "114*189",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "99 p., 도판 [16] p.",
+                "CONTROL_NO": "CIP2019008744",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791159922473",
+                "INPUT_DATE": "20190307",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "천국보다 성스러운",
+                "PUBLISH_PREDATE": "20190328",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

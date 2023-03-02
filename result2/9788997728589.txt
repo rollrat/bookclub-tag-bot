@@ -1,0 +1,78 @@
+{
+    "otitle": "북극곰 코다 호",
+    "oauthor": "글 이루리, 그림 엠마누엘레 베르토시 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:20 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "북극곰 코다 두 번째 이야기: 호 (두 번째 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32498201964",
+                "image": "https://shopping-phinf.pstatic.net/main_3249820/32498201964.20221019124807.jpg",
+                "author": "이루리",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20141202",
+                "isbn": "9788997728589",
+                "description": "[북극곰 코다 두 번째 이야기: 호]는 한국의 작가와 이탈리아 그림작가가 만나 들려주는 북극곰 코다 이야기이다. 겉으로는 북극곰을 잡으려는 사냥꾼 보바와 북극곰의 싸움을 그리면서 실제로는 아기 곰 코다를 통해 사랑을 표현하는 방법을 이야기하는 따뜻한 그림책이다."
+            },
+            {
+                "title": "북극곰 코다 두 번째 이야기: 호",
+                "link": "https://search.shopping.naver.com/book/catalog/32503816026",
+                "image": "https://shopping-phinf.pstatic.net/main_3250381/32503816026.20220527043724.jpg",
+                "author": "이루리",
+                "discount": "0",
+                "publisher": "북극곰",
+                "pubdate": "20120124",
+                "isbn": "9788996309376",
+                "description": "아기 곰 코다의 따뜻한 입김이 사냥꾼의 몸과 마음을 녹였어요!\n\n『북극곰 코다』 두번째 이야기  편. 이 책은 북극곰을 잡으려는 사냥꾼 보바와 아기 곰 코다의 감동적인 이야기를 그린 그림책이다. 엄마 곰의 따뜻한 입김에 행복한 한 때를 보내고 있는 아기 곰 코다. 멀리서 이들을 지켜보던 사냥꾼 보바는 방아쇠를 당기려 했지만 바람에 날아가는 모자를 쫓느라 사냥에 실패한다. 총까지 잃어버린 사냥꾼 보바는 홀로 눈바람을 헤치며 집으로 돌아가다, 엄마 곰과 맞닥뜨린다. 두려움에 움직일 수 없는 사냥꾼 보바에게 다가오는 아기 곰 코다. 그리고 엄마가 자기에게 해준 것처럼 사냥꾼 보바에게 따뜻한 입김을 불어준다. 아기 곰 코다를 통해 사랑을 표현하는 방법을 이야기하는 이 그림책은 곰과 사람을 구별하지 않는 아기 곰 코다의 차별 없는 사랑을 감동적으로 그려냈다. 파스텔색과 연필선으로 표현한 북극곰과 사냥꾼의 모습이 따뜻하게 그려져 이야기의 감동을 배가한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20150401",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글쓴이: 이루리 ;그린이: 엠마누엘레 베르토시",
+                "SERIES_TITLE": "북극곰 코다 시리즈",
+                "KDC": "813.8",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788997728572",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4113793_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4113793_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4113793_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014033234",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997728589",
+                "INPUT_DATE": "20141114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "북극곰 코다 호 두 번째 이야기 (Hardcover)",
+                "PUBLISH_PREDATE": "20141202",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "77810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

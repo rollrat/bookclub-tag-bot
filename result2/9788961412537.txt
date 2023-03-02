@@ -1,0 +1,67 @@
+{
+    "otitle": "암 전문의가 알려주는 암을 이기는 최강의 밥상",
+    "oauthor": "임채홍 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "암 전문의가 알려주는 암을 이기는 최강의 밥상 (암에 좋은 음식과 생활습관, 최신 암 정보에 관한 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487661836",
+                "image": "https://shopping-phinf.pstatic.net/main_3248766/32487661836.20221227203338.jpg",
+                "author": "임채홍",
+                "discount": "13500",
+                "publisher": "중앙생활사",
+                "pubdate": "20200720",
+                "isbn": "9788961412537",
+                "description": "미국국립암협회지의 보고에 따르면 암의 원인으로는 흡연이 약 30%, 유전이나 음주, 환경오염 등이 약 30%를 차지하고, 음식이 차지하는 비중이 약 35%라고 한다. 여러 가지 식습관과 생활습관이 모여 암 원인의 거의 3분의 1을 차지하는 것이다. 흡연은 우리가 통제할 수 있는 요인이라고 가정할 때, 음식과 생활습관만 잘 교정한다면 암 유발 원인의 3분의 2를 제거할 수 있는 셈이다.\n\n\n\n이 책의 저자는 종양학 전문의로서 매일 의료 현장에서 수많은 암 환자를 만나고 치료한다. 그런 그가 과학적 근거를 바탕으로 암을 이기는 건강한 식단과 생활습관을 이 책을 통해 제시한다.\n\n\n\n이 책에서는 극단적인 섭식의 변화를 요구하지 않으면서도 맛의 즐거움을 충분히 느낄 수 있는 실제 저자 자신의 하루 식단과 한국인이 흔히 먹는 식단을 암 예방에 좋은 식단으로 수정한 것을 보여준다. 독자들에게 평소 식습관과 삶의 방식을 어떻게 개선해야 하는지에 대한 구체적인 가이드가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙생활사",
+                "DDC": "",
+                "UPDATE_DATE": "20200826",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "임채홍 지음",
+                "SERIES_TITLE": "",
+                "KDC": "594.67",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/29/9788961412537.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "CIP2020027093",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961412537",
+                "INPUT_DATE": "20200629",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(암 전문의가 알려주는) 암을 이기는 최강의 밥상",
+                "PUBLISH_PREDATE": "20200720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "세계를 바꾼 명문장",
+    "oauthor": "서정희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계를 바꾼 명문장: 경제학 1 (보이지 않는 손 vs 야성적 충동)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444901634",
+                "image": "https://shopping-phinf.pstatic.net/main_3244490/32444901634.20221019105751.jpg",
+                "author": "서정희",
+                "discount": "16200",
+                "publisher": "매일경제신문사",
+                "pubdate": "20220405",
+                "isbn": "9791164843893",
+                "description": "밀턴 프리드먼의 《선택할 자유》에는 부정식품 얘기가 없다?\n맬서스의 《인구론》에는 왜 산술급수, 기하급수 얘기가 없을까?\n보이지 않는 손은 《국부론》에 왜 단 한 번만 나올까?\n시장경제에서의 정부 개입에 관한 오해와 진실\n\n《세계를 바꾼 명문장》은 고전부터 현대까지 각 분야 대가들의 주요 도서 문구들과 어록을 엄선하여 소개하는 매경총서 중 첫 번째 책이다. 이 책은 경제학 1편으로써, 독자들이 단순히 이들의 번역문을 읽는 데 그치는 게 아니라 원서 원문을 함께 수록함과 동시에 별도로 필사 페이지를 넣어 읽는 이로 하여금 손으로 쓰고 가슴에 새길 수 있도록 특별히 구성됐다. 경제학의 오리지널 원서의 향기와 숨결까지 느끼게 해주는 이 책은 오늘날 직면한 인류의 문제를 해결하고 변화를 주도할 통시적 시야와 혜안을 제공해주기에 현대인들에게 필독서이다. 특히 정부의 시장 개입에 대한 논란이 뜨거운 가운데 ‘보이지 않는 손’과 ‘야성적 충동’이라는 두 가지 테마로 인간심리와 경제의 상관관계를 고찰할 수 있도록 하는 데 주안점을 두었다. 위대한 경제철학의 오디세이를 담은 《세계를 바꾼 명문장》이 우리에게 현대를 살아가기 위한 참된 인식의 지평을 열어줄 것으로 기대한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20220506",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "서정희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "245 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164843893",
+                "INPUT_DATE": "20220310",
+                "SET_EXPRESSION": "",
+                "VOL": "경제학1",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(원서로 읽고 따라 쓰는) 세계를 바꾼 명문장",
+                "PUBLISH_PREDATE": "20220405",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

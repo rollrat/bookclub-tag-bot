@@ -1,0 +1,67 @@
+{
+    "otitle": "내 마음 다독다독, 그림 한 점",
+    "oauthor": "이정아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 마음 다독다독, 그림 한 점 (일상을 선물로 만드는 그림산책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466701682",
+                "image": "https://shopping-phinf.pstatic.net/main_3246670/32466701682.20221019151310.jpg",
+                "author": "이정아",
+                "discount": "12420",
+                "publisher": "팜파스",
+                "pubdate": "20150420",
+                "isbn": "9788998537906",
+                "description": "그림이 전하는 일상의 소중함과 따뜻한 위로\n\n특별할 것이 없는 하루, 되풀이되는 일상에 지쳐가고 푸념만 늘어간다. 이대로 괜찮을까?『내 마음 다독다독, 그림 한 점』는 우리가 가치 없다고 느낀 관계, 초라하다고 느낀 시절 등 우리의 일상이 얼마나 의미 있고 소중한지 그림을 보면 일깨워준다. 이 책에 담긴 그림을 마주하는 건 나의 모습을 마주하는 시간이기도 하다. ‘그래 나는 이런 사람이었지, 나는 이런 생각을 하기도 했어.’ 그림과 함께 단상이 떠올리며 원래의 나로 돌아가보자.\n\n내가 마주하는 일상이 얼마나 소중한 것들로 지켜지고 있는지, 그것과 함께여서 얼마나 기쁜지 우리는 종종 잊어버리곤 한다. 이 책의 그림과 글을 함께 따라가다보면 일상의 소중함을 다시금 깨닫게 된다. 비오는 날에 카유보트를 타고, 눈 내리는 날 시슬레의 풍경화를 떠올리며 햇살좋은 날 모네의 정원을 그리며 저자는 당부한다. 이토록 사랑스러운 일상이 당신에게도 있음을 말이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "750.2",
+                "UPDATE_DATE": "20150526",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "이정아",
+                "SERIES_TITLE": "",
+                "KDC": "650.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4497974_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4497974_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015010054",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998537906",
+                "INPUT_DATE": "20150401",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "내 마음 다독다독, 그림 한 점",
+                "PUBLISH_PREDATE": "20150420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

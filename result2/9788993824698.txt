@@ -1,0 +1,67 @@
+{
+    "otitle": "61시간",
+    "oauthor": "리 차일드 저/박슬라 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "61시간 (리 차일드 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504664683",
+                "image": "https://shopping-phinf.pstatic.net/main_3250466/32504664683.20221019145853.jpg",
+                "author": "리 차일드",
+                "discount": "13320",
+                "publisher": "오픈하우스",
+                "pubdate": "20120531",
+                "isbn": "9788993824698",
+                "description": "단 한 명뿐인 증인을 보호하라!\n\n61시간 동안 벌어진 사건들을 그린 하드보일드 액션 스릴러 『61시간』. 전직 헌병 출신으로 주소도, 가족도, 휴대전화도 없이 재즈의 선율을 따라 미국 전역을 방랑하는 고독한 영웅 잭 리처의 활약을 그린 「잭 리처 시리즈」의 하나이다. 마약 밀매업자들의 암투를 소재로, 개개인이 가져야 할 사회적 책임과 의무에 대해 이야기한다. 갑작스런 버스 사고로 낯선 마을에 머물게 된 잭 리처. 경찰의 도움으로 인근 마을에 묵게 되지만, 마약 밀매업자들이 성행하는 마을에는 이상한 기운이 감돈다. 24시간 경찰의 보호를 받고 있는 한 노부인. 우연히 마약 거래 현장을 목격한 그녀는 굳은 의지를 보이며 증인으로 나섰지만, 마약 밀매업자들은 시시각각 그녀의 목숨을 노리는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "오픈하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20120604",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 리 차일드 ;옮긴이: 박슬라",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993824698",
+                "INPUT_DATE": "20120521",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "61시간 ",
+                "PUBLISH_PREDATE": "20120529",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

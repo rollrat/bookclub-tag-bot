@@ -1,0 +1,67 @@
+{
+    "otitle": "구구 아저씨",
+    "oauthor": "김은주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "구구 아저씨 (김은주 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/33474831624",
+                "image": "https://shopping-phinf.pstatic.net/main_3347483/33474831624.20221019135108.jpg",
+                "author": "김은주",
+                "discount": "12600",
+                "publisher": "팩토리나인",
+                "pubdate": "20220722",
+                "isbn": "9791165345570",
+                "description": "“나에게도 ‘구구 아저씨’가 있으면 좋겠다.”\n12초 03의 세계 신기록을 눈앞에 두고 부상을 당한 소녀. \n그녀 앞에 나타난 구구 아저씨와 함께하는 새로운 세계!\n\n전국에서 두 번째로 빠른 육상선수이자 세계 신기록에 가장 가까운 열일곱 살 주다연. 100m 12초 03을 뛰어넘는 세계 신기록을 앞두고 발목 부상을 당한다. 부러진 발목은 곧 붙지만 마음에 남은 상처는 낫지 않고, 계속 달릴 것인지 여기서 그대로 멈출 것인지 결정하지 못한 채 다연은 인생 첫 실패에 힘들어한다. \n매일 새벽 한강공원에서 연습을 이어가던 중, 휴식 시간에 핫바를 물고 나타난 수상쩍은 구구 아저씨. 다연은 자신도 모르게 부상, 부모님의 이혼, 적응하지 못한 학업 등의 이야기를 아저씨에게 털어놓는다. 그러던 어느 날 다연은 가장 ‘소중한 것’이 담겨 있는 휴대폰을 잃어버리고, 구구 아저씨 덕에 휴대폰의 행방을 알게 되는데…….\n다연은 무사히 휴대폰을 찾을 수 있을까? 그리고 구구 아저씨는 다연의 문제를 함께 해결해 나갈 수 있을 것인가?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팩토리나인",
+                "DDC": "",
+                "UPDATE_DATE": "20220803",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "지은이: 김은주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "134*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "277 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165345570",
+                "INPUT_DATE": "20220624",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "구구 아저씨",
+                "PUBLISH_PREDATE": "20220722",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

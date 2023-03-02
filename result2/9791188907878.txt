@@ -1,0 +1,67 @@
+{
+    "otitle": "퀴지니에 그랜드 매뉴얼",
+    "oauthor": "마리안 마니에-모레노 저/안 카조르 자문/문연진 역/그레고리 드프레즈 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "퀴지니에 그랜드 매뉴얼",
+                "link": "https://search.shopping.naver.com/book/catalog/32441653689",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441653689.20221227205415.jpg",
+                "author": "마리안 마니에-모레노",
+                "discount": "32400",
+                "publisher": "클",
+                "pubdate": "20191231",
+                "isbn": "9791188907878",
+                "description": "파티스리에 이어 이번엔 프랑스 정통 요리다! \n퀴지니에를 꿈꾸는 당신을 위한 그랜드 매뉴얼\n\n‘퀴지니에cuisinier’는 프랑스어로 요리사를 말한다. 『퀴지니에 그랜드 매뉴얼』은 전채, 메인, 가르니튀르 등 프랑스 정통 요리의 전반을 다루고 있는 레시피북이다. 1부 베이스, 2부 레시피, 3부 용어 사전으로 구성되어 있으며 1부에서는 퐁, 소스, 아파레유, 반죽, 재료, 조리법을 기준으로 나눈 44가지의 베이스 레시피를 이해하고 2부에서는 베이스 레시피를 적용해 수프, 앙트레, 생선 요리, 고기 요리, 가르니튀르 등을 만들어본다. 각각의 레시피에는 요리 개념을 알기 쉽게 표현한 인포그래픽과 베이스 설명, 조리 과정을 담은 단계별 사진도 함께 담겨 있다. 3부의 용어 사전에서는 기본 동작과 도구, 플레이팅 방법, 조리법 등을 소개하고 있으며 레시피마다 해당하는 내용의 페이지가 적혀 있어 필요할 때마다 찾아볼 수 있도록 했다. \n저자의 노하우가 담긴 레시피에 분자요리학자 안 카조르의 자문을 더해 책의 완성도를 높였다. 버섯은 자르면 왜 까매지는지, 버터에 열을 가하면 어떻게 되는지, 가스트리크를 만들 때 식초를 넣으면 설탕은 왜 결정으로 변하는지 등 요리를 하며 레시피와 재료에 대해 생길 수 있는 의문들을 과학적인 설명으로 답하고 있다. 또한 한국어판은 연남동에 있는 레스토랑 앙프랑뜨비스트로L’Empreinte의 오너/셰프인 그레고리 드프레즈가 감수를 맡아 한국 독자에게 더욱 정확한 정보를 제공하도록 했다. 이 책은 『파티시에 그랜드 매뉴얼』에 이어 출간된 두번째 그랜드 매뉴얼북이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "",
+                "UPDATE_DATE": "20200122",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마리안 마니에-모레노 지음 ;문연진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "594.536",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/30/9791188907878.JPG",
+                "PRE_PRICE": "36000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "245*328",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "285 p.",
+                "CONTROL_NO": "CIP2019038915",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188907878",
+                "INPUT_DATE": "20190930",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "퀴지니에 그랜드 매뉴얼",
+                "PUBLISH_PREDATE": "20191231",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

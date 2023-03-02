@@ -1,0 +1,67 @@
+{
+    "otitle": "방방곡곡 한국지리 여행",
+    "oauthor": "김은하 글/긴리 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "방방곡곡 한국지리 여행 (어디까지 가 봤니?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466227687",
+                "image": "https://shopping-phinf.pstatic.net/main_3246622/32466227687.20221019120522.jpg",
+                "author": "김은하",
+                "discount": "10800",
+                "publisher": "봄나무",
+                "pubdate": "20170925",
+                "isbn": "9791156131120",
+                "description": "우리가 살고 있는 대한민국, 어디까지 가 보고 얼마나 알고 있을까? 우리나라에 산이 많은 이유는 무엇일까? 서해와 동해 해안선이 완전히 다른 이유는? 대구는 왜 그렇게 더울까? 경남 고성에는 왜 공룡 발자국이 많은 걸까? 그런데 강원도나 충청도, 경상도, 전라도 같은 이름은 어디에서 유래된 것일까? 『방방곡곡 한국지리 여행』은 어린이들이 궁금해하던 한국지리의 모든 것을 알려 준다. 재미있는 이야기를 듣듯 술술 읽다 보면 어느새 궁금증도 풀고 한반도 구석구석 여행을 한 것 같은 기분이 들 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "봄나무",
+                "DDC": "",
+                "UPDATE_DATE": "20171031",
+                "EA_ADD_CODE": "73980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김은하 지음 ;긴리 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156131120",
+                "INPUT_DATE": "20170818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "방방곡곡 한국지리 여행 ",
+                "PUBLISH_PREDATE": "20170925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

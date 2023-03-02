@@ -1,0 +1,67 @@
+{
+    "otitle": "일본 화학의 개척자들",
+    "oauthor": "시바 데쓰오 저/허태성 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일본 화학의 개척자들",
+                "link": "https://search.shopping.naver.com/book/catalog/32476569626",
+                "image": "https://shopping-phinf.pstatic.net/main_3247656/32476569626.20221228074325.jpg",
+                "author": "시바 데쓰오",
+                "discount": "13500",
+                "publisher": "전파과학사",
+                "pubdate": "20120831",
+                "isbn": "9788970442778",
+                "description": "막부 말기부터 근대에 걸쳐 네덜란드를 위시로 한 서양으로부터 화학이 도입된 경위와 성과를 다룬 책. 일본이 근대화되는 여명기에 화학을 도입한 인물들에 초점을 맞추어 그들의 높은 의지와 뜨거운 열정 그리고 노고의 궤적을 되짚고 있어 단순히 과학사에 그치지 않는 일본 근대사의 일단을 엿볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20120920",
+                "EA_ADD_CODE": "03430",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "시바 데쓰오 지음 ;허태성 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970442778",
+                "INPUT_DATE": "20120906",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "일본 화학의 개척자들 ",
+                "PUBLISH_PREDATE": "20120831",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

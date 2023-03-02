@@ -1,0 +1,78 @@
+{
+    "otitle": "너를 만나고 나를 알았다",
+    "oauthor": "이근대 저/소리여행 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:26 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "너를 만나고 나를 알았다 (내가 사랑에 빠질 수 있는 사람이라는 걸 너를 만나고 비로소 알았다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463537380",
+                "image": "https://shopping-phinf.pstatic.net/main_3246353/32463537380.20230224102523.jpg",
+                "author": "이근대",
+                "discount": "11930",
+                "publisher": "마음서재",
+                "pubdate": "20200422",
+                "isbn": "9791165340865",
+                "description": "30만 독자의 하루를 변함없이 밝혀준 공감의 글모음 \n베스트셀러 『너를 사랑했던 시간』의 이근대 작가의 세 번째 에세이\n\n마음이 가난한 시대, 지친 마음을 다독여주는 글로 뜨거운 공감을 이끌어내고 있는 이근대 작가의 세 번째 에세이. 작가가 SNS에 하루도 빠짐없이 올리는 짧은 글들은 많은 독자들의 아침을 설레게 하고 희망으로 가슴 뛰게 한다. 독자들은 그의 글을 읽으며 삶이 따뜻해졌다고 말한다. 2년 반 만에 선보이는 신작은 SNS 독자들이 먼저 읽고 추천한 공감의 글모음이다. 아픔을 경험한 사람만이 쓸 수 있는 진심을 담은 글, 마음을 두드리는 문장으로 뜨거운 공감을 이끌어낸 120편의 글을 한 권에 담았다."
+            },
+            {
+                "title": "너를 만나고 나를 품다 (컬러판) (지극히 개인적인 육아 시집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441515689",
+                "image": "https://shopping-phinf.pstatic.net/main_3244151/32441515689.20221227203726.jpg",
+                "author": "장수현",
+                "discount": "10600",
+                "publisher": "부크크(bookk)",
+                "pubdate": "20210227",
+                "isbn": "9791137237513",
+                "description": "\"때때로 시간을 멈춥니다\n기억하고 싶은 순간을 멈추어 글로 저장합니다.\n저장된 찰나는\n영원히 끝나지 않을 듯한 여운이 됩니다\n\n식사를 차리듯 이곳에 여운이 된 글을 차려봅니다\n아이를 키우며 10년간 모아두기만 했던 창고 문을 열어\n멈추어진 글들을 잘 닦아 내어놓습니다.\"\n\n                                        - 본문 글 中 -\n\n이 책은 저자 장수현이 10년간 아이들을 키우며 적어놓은\n지극히 개인적인 혼잣말들을 시라는 그릇을 빌려 내어놓은 책입니다.\n아이를 키우면서 엄마인 저자 자신을 인정하는 법과 아이를 사랑하는 법을 배우고,\n아이에 대한 믿음이 더 나아가 사람에 대한 믿음으로 커지는 과정이 잘 녹아있습니다.\n현재 육아에 어려움을 가진 사람들에게 작은 위로가 되기를 기대해 봅니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마음서재",
+                "DDC": "",
+                "UPDATE_DATE": "20200504",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "이근대 쓰고 ;소리여행 그림",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "134*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2020013976",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165340865",
+                "INPUT_DATE": "20200403",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "너를 만나고 나를 알았다",
+                "PUBLISH_PREDATE": "20200422",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

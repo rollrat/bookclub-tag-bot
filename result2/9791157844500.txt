@@ -1,0 +1,67 @@
+{
+    "otitle": "북킷리스트",
+    "oauthor": "홍지해,김나영,김문주,정윤서 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "북킷리스트 (21세기지식인들이선택한인생책12 | 어려운책을쉽게, 두꺼운책을가볍게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443141784",
+                "image": "https://shopping-phinf.pstatic.net/main_3244314/32443141784.20221228072952.jpg",
+                "author": "홍지해^김나영^김문주^정윤서",
+                "discount": "14690",
+                "publisher": "한빛비즈",
+                "pubdate": "20201015",
+                "isbn": "9791157844500",
+                "description": "읽을 엄두가 나지 않아 망설이던 그 책,\n〈책 읽어드립니다〉 작가진이 쉽게 읽어드립니다!\n\n“사놓기만 하고 못 읽었어요.” “두꺼워서 읽을 엄두가 안 나요.” 하고 싶은 건 많은데 시간은 부족한 현대인을 위해 〈요즘책방: 책 읽어드립니다〉의 작가진이 직접 나섰다!『북킷리스트』. 이 책은 최고의 북도슨트를 자처하는 네 명의 작가가 각 분야의 필독서 12권을 엄선, 어려운 책을 최대한 가볍게 소개하는 책이다. ‘진짜 독서’에 가닿는 과정을 힘들어하는 사람들에게 도움이 되고 싶어 시작한 작업, 독서프로그램 〈책 읽어드립니다〉를 제작하며 터득한 노하우가 고스란히 담겼다.  \n\n이 책은 호모데우스, 왜 세계의 절반은 굶주리는가, 죽음이란 무엇인가, 생각에 관한 생각 등 여러 장르의 밀리언셀러 12권를 엄선하여 모았으며 모든 장르의 필독서가 스토리텔링화 가능함을 보여준다. 독자들은 압축 정리된 내용만으로 책의 큰 줄기와 메시지를 이해하는 데 성공한다. ‘어느 정도 이해했다’는 느낌을 통해 스테디셀러 강박은 일부 해소되며 안도감을 전달한다. 큰 줄기를 이해했으니 세부내용을 직접 들여다봐도 좋겠다는 자신감으로 이어지게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20201118",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "홍지해,김나영,김문주,정윤서 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "396 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157844500",
+                "INPUT_DATE": "20200922",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "북킷리스트",
+                "PUBLISH_PREDATE": "20201015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

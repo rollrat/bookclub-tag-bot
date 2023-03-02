@@ -1,0 +1,67 @@
+{
+    "otitle": "아침을 여는 1분 기도",
+    "oauthor": "편집부 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아침을 여는 1분 기도 (One-Minute Prayers to Start Your Day)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485075056",
+                "image": "https://shopping-phinf.pstatic.net/main_3248507/32485075056.20221230071651.jpg",
+                "author": "Hope Lyda",
+                "discount": "4500",
+                "publisher": "생명의말씀사",
+                "pubdate": "20070715",
+                "isbn": "9788904157112",
+                "description": "아침을 여는 1분 기도는 여러 가지 계획, 생각, 후회 또는 일정 변화들에 온통 정신을 빼앗기기 전에 주님의 지시에 귀 기울이도록 도와준다. 아침을 기도로 시작하면, 온종일 바쁠 때에도 그 기도를 생각하며 기도하는 마음을 유지할 수 있다. 하루를 잘 감당해 내기 위하여 주님이 필요함을 인식하고 하루를 주님께 맡기며 온전히 주님과 동행하는 하루로 보낼 수 있다...."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20070921",
+                "EA_ADD_CODE": "04230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "생명의말씀사  [편]",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20070715",
+                "TITLE_URL": "",
+                "PRE_PRICE": "3000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "5000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904157112",
+                "INPUT_DATE": "20070725",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "(아침을 여는) 1분 기도",
+                "PUBLISH_PREDATE": "20070715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

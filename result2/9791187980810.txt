@@ -1,0 +1,67 @@
+{
+    "otitle": "교양인을 위한 화학사 강의",
+    "oauthor": "옌스 죈트겐 저/비탈리 콘스탄티노프 그림/송소민,강영옥 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "교양인을 위한 화학사 강의 (연금술부터 독가스, DNA 복제까지 세상을 바꾼 화학의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457251653",
+                "image": "https://shopping-phinf.pstatic.net/main_3245725/32457251653.20221019142455.jpg",
+                "author": "옌스 죈트겐",
+                "discount": "19800",
+                "publisher": "반니",
+                "pubdate": "20180810",
+                "isbn": "9791187980810",
+                "description": "일상적 호기심을 사유의 근원으로 삼아, 현실 감각을 잃지 않으면서도 친절한 길잡이가 되어주는 죈트겐은 《교양인을 위한 화학사 강의》에서도 우리가 그동안 별 관심을 두지 않던 것들에서 화학의 발자취를 발견하고 새로운 시선으로 바라본 화학을 흥미롭게 펼쳐낸다. 이 책은 연금술과 화학을 다뤘다. 특히 물질, 연금술사, 화학자들의 역사를 간략하게 살펴봤으며, 진정한 화학의 역사를 찾으려 애썼다. 이 책의 줄거리는 이 화덕에서 저 화덕으로 이어지는 화학 과정으로 이루어졌다. 또한 이와 관련된 역사, 물질의 변화와 인간의 변화를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "540.9",
+                "UPDATE_DATE": "20180814",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "옌스 죈트겐 지음 ;비탈리 콘스탄티노프 그림 ;송소민,강영옥 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "430.09",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6812834_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "414 p.",
+                "CONTROL_NO": "CIP2018022506",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187980810",
+                "INPUT_DATE": "20180717",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(교양인을 위한) 화학사 강의",
+                "PUBLISH_PREDATE": "20180810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

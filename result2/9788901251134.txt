@@ -1,0 +1,67 @@
+{
+    "otitle": "쓸모없는 것들이 우리를 구할 거야",
+    "oauthor": "김준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쓸모없는 것들이 우리를 구할 거야 (작고 찬란한 현미경 속 나의 우주)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441645980",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441645980.20221019120401.jpg",
+                "author": "김준",
+                "discount": "13320",
+                "publisher": "웅진지식하우스",
+                "pubdate": "20210615",
+                "isbn": "9788901251134",
+                "description": "“오늘도 쓸모없는 것들을 연구하고 있습니다!”\n작고 하찮아 보이는 현미경 속 생명체에서 \n인류를 구원할 유용함을 발견해내는 경이로움\n\n물리학이 세상의 원리를 설명하고, 수학이 세상의 규칙을 증명한다면, 생명과학은 세상의 모든 살아 있는 것들을 사랑함으로써 인류의 삶을 진일보시키는 학문이다. 일반 독자들에게는 이름만으로도 생경한 ‘예쁜꼬마선충’을 연구하는 서울대 생명과학 박사 김준이 들려주는 ‘생물 덕후’ 과학자들의 24시간 연구실 일상과 생명과학계의 치열하고도 유쾌한 이야기들을 엮었다.\n\n또한 진화, 유전, 질병, 노화 등을 연구하기 위해 현재 생명과학이 어떤 수준까지 발전했는지, 생명과학의 역사부터 최신 연구 대상으로 떠오르는 다채로운 모델 생물들 이야기까지 어려워만 보이는 생명과학의 흥미로운 지식 정보들을 이해하기 쉽게 설명해주는 이야기들도 함께 담았다. 과학 에세이 분야에서 다소 낯선 ‘생명과학’을 주제로 하여, 액체가 부글거리는 실험실이 아닌, 생명의 소리와 냄새, 그리고 이들의 탄생부터 죽음까지를 연구하는 생명과학자들의 역동적인 이야기를 시종 유쾌하게 들려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진지식하우스 :웅진씽크빅",
+                "DDC": "",
+                "UPDATE_DATE": "20210811",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788901251134",
+                "INPUT_DATE": "20210503",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "쓸모없는 것들이 우리를 구할 거야",
+                "PUBLISH_PREDATE": "20210630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

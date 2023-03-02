@@ -1,0 +1,67 @@
+{
+    "otitle": "팔지 마라 사게 하라",
+    "oauthor": "장문정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "팔지 마라 사게 하라 (기획에서 콘셉트 마케팅에서 세일즈까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467040684",
+                "image": "https://shopping-phinf.pstatic.net/main_3246704/32467040684.20230103164957.jpg",
+                "author": "장문정",
+                "discount": "16200",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20130509",
+                "isbn": "9788965701354",
+                "description": "1시간 125억 매출의 기네스 기록 보유자, 장문정식 영업전술을 써먹어라!\n\n『팔지 마라 사게 하라』는 마케팅 강사이자 세일즈 컨설턴트 및 전문 프레젠터로 활약하고 있는 저자 장문정이 고도로 전략화된 마케팅 세일즈의 노하우를 유감없이 풀어놓은 책이다. 고객은 긴 시간을 허락하지 않기 때문에 우리의 화법은 언제나 두괄식 전개여야 한다는 저자의 말처럼 군더더기를 덜어내고 현장에서 반드시 필요한 핵심에 누구나 쉽게 그 즉시 접근하도록 도와준다. \n\n이 책이 전달하고자 하는 4가지 핵심 메시지는 간단명료하면서도 차별화된 정보를 담고 있다. 고객의 필요와 욕구를 적절한 타이밍에 자극하고 결국에는 고객이 스스로 선택하게 만드는 기술, 팔고자 하는 상품을 설득력 있는 언어로 전달하는 법칙, 고객과의 관계를 탄탄한 신뢰로 유지하기 위한 마케터의 기본 덕목, 더 나아가 고객에게 부족한 2%까지도 채워주는 능력이 그것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)쌤앤파커스",
+                "DDC": "658.8",
+                "UPDATE_DATE": "20130605",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "장문정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2677516_6_1.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2677516_3_1.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2677516_5_1.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013005457",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965701354",
+                "INPUT_DATE": "20130425",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "팔지 마라 사게 하라 ",
+                "PUBLISH_PREDATE": "20130510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

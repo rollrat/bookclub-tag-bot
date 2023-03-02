@@ -1,0 +1,67 @@
+{
+    "otitle": "사랑이의 하모니카",
+    "oauthor": "밑가지 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사랑이의 하모니카 (밑가지 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496889743",
+                "image": "https://shopping-phinf.pstatic.net/main_3249688/32496889743.20221019152253.jpg",
+                "author": "밑가지 (엮음)",
+                "discount": "11700",
+                "publisher": "북극곰",
+                "pubdate": "20210915",
+                "isbn": "9791165881320",
+                "description": "*음악으로 다친 마음을 치료하는 음악 그림책\n*사랑과 자존과 음악의 가치를 전하는 그림책\n*우리 모두에게 희망과 용기를 전하는 그림책\n*신예 밑가지 작가가 그림책으로 부르는 사랑 노래\n*이루리 볼로냐 워크숍 기획 작품 \n   \n이렇게 힘든 이야기를 이렇게 아름답게 풀어내다니, \n밑가지 작가는 사랑과 긍정의 마법사입니다!\n_이루리 작가, 세종사이버대학교 문예창작과 교수\n\n사랑과 자존과 음악의 가치를 전하는 그림책 『사랑이의 하모니카』사랑이는 심장이 아파서 병원에 입원해 있습니다. 사랑이는 자신의 처지가 원망스럽습니다. 친구들은 학교에서 공부도 하고 놀기도 하는데 자신은 병원에 있어야 하니 말입니다. 언제까지 입원해야 하는지도 모릅니다. 어제는 엄마 아빠가 병원비를 걱정하는 이야기도 들었습니다. 사랑이는 차라리 자신이 세상에 없는 게 나을 거라며 눈물을 흘립니다. 그때 사랑이 앞에 휠체어를 탄 할아버지가 나타납니다. 할아버지는 휠체어가 고장이라며 도움을 청합니다. 사랑이는 깜짝 놀랍니다. 할아버지가 조금 특별한 외모를 지녔기 때문입니다. 그리고 할아버지의 하모니카 연주를 듣는 순간, 사랑이의 마음속에 놀라운 변화가 일어납니다. 『사랑이의 하모니카』는 사랑과 자존과 음악의 가치를 전하는 그림책입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20211021",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 밑가지",
+                "SERIES_TITLE": "북극곰 꿈나무 그림책",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/07/26/9791165881320.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[68] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "80",
+                "EA_ISBN": "9791165881320",
+                "INPUT_DATE": "20210726",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사랑이의 하모니카",
+                "PUBLISH_PREDATE": "20210915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

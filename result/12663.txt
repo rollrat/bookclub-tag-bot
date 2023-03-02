@@ -1,0 +1,23 @@
+{
+    "otitle": "한경트렌드 요즘 환경 브랜드",
+    "oauthor": "한경트렌드 특별취재팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한경트렌드 요즘 환경 브랜드 (The Next Eco)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493316122",
+                "image": "https://shopping-phinf.pstatic.net/main_3249331/32493316122.20221019151923.jpg",
+                "author": "한경트렌드 특별취재팀",
+                "discount": "13500",
+                "publisher": "한국경제신문",
+                "pubdate": "20211222",
+                "isbn": "9791185272764",
+                "description": "이 책이 필요한 분\n- 환경에 관심이 있는 분\n- 요즘 환경 트렌드가 궁금한 분\n- 마케팅 인사이트를 얻고 싶은 분\n- 브랜드의 환경에 대한 철학이 궁금한 분"
+            }
+        ]
+    }
+}

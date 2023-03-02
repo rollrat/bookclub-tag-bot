@@ -1,0 +1,78 @@
+{
+    "otitle": "10대를 위한 서양미술사 2",
+    "oauthor": "노성두 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:38 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "10대를 위한 서양미술사 2 (교과서에 나오는 화가 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441033986",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441033986.20221019143158.jpg",
+                "author": "노성두",
+                "discount": "12600",
+                "publisher": "다른",
+                "pubdate": "20160715",
+                "isbn": "9791156331025",
+                "description": "『10대를 위한 서양미술사』는 미술사가 노성두가 그동안의 강의 경험을 바탕으로 청소년에게 꼭 들려주고 싶은 50여 명의 화가 이야기를 엄선하여 담은 책이다. 화가들 각각의 캐릭터가 살아 있는 흥미로운 이야기를 읽다보면 자연스럽게 서양미술사 전체 흐름을 배울 수 있다. 입체적으로 묘사된 화가들의 삶이 바로 옆에서 들려주는 듯한 작품해설과 어우러져 술술 읽힌다."
+            },
+            {
+                "title": "10대를 위한 서양미술사 1 (교과서에 나오는 화가 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480762755",
+                "image": "https://shopping-phinf.pstatic.net/main_3248076/32480762755.20221019125133.jpg",
+                "author": "노성두",
+                "discount": "12600",
+                "publisher": "다른",
+                "pubdate": "20160715",
+                "isbn": "9791156331018",
+                "description": "『10대를 위한 서양미술사』는 미술사가 노성두가 그동안의 강의 경험을 바탕으로 청소년에게 꼭 들려주고 싶은 50여 명의 화가 이야기를 엄선하여 담은 책이다. 화가들 각각의 캐릭터가 살아 있는 흥미로운 이야기를 읽다보면 자연스럽게 서양미술사 전체 흐름을 배울 수 있다. 입체적으로 묘사된 화가들의 삶이 바로 옆에서 들려주는 듯한 작품해설과 어우러져 술술 읽힌다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)다른",
+                "DDC": "709.4",
+                "UPDATE_DATE": "20160712",
+                "EA_ADD_CODE": "44600",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "노성두",
+                "SERIES_TITLE": "",
+                "KDC": "609.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5585198_6.txt",
+                "SET_ISBN": "9791156331032",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5585198_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 200쪽",
+                "CONTROL_NO": "CIP2016016397",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156331025",
+                "INPUT_DATE": "20160704",
+                "SET_EXPRESSION": "",
+                "VOL": "2권",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "N",
+                "TITLE": "10대를 위한 서양미술사: 미술관에 가기 전",
+                "PUBLISH_PREDATE": "20160715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44600 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

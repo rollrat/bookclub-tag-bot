@@ -1,0 +1,67 @@
+{
+    "otitle": "사라진 숲의 아이들",
+    "oauthor": "손보미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사라진 숲의 아이들",
+                "link": "https://search.shopping.naver.com/book/catalog/33700902623",
+                "image": "https://shopping-phinf.pstatic.net/main_3370090/33700902623.20221019132334.jpg",
+                "author": "손보미",
+                "discount": "16200",
+                "publisher": "안온북스",
+                "pubdate": "20220727",
+                "isbn": "9791197873041",
+                "description": "을지로의 숲은 어디로 사라진 걸까?\n그곳에서 아이들은 왜 죽고 죽어야 했을까?\n\n한국일보문학상, 대산문학상, 이상문학상 등을 수상한 소설가 손보미의 신작 장편소설 《사라진 숲의 아이들》이 안온북스에서 출간되었다. 《사라진 숲의 아이들》은 정교한 플롯과 개성적인 스타일로 독자의 사랑과 문단의 찬사를 동시에 받은 작가가 처음으로 시도하는 사회파 탐정소설이자 각자의 상처를 지닌 두 여성이 공조하여 진실에 접근하는 심리 수사극이다. \n\n도심 한복판에서 벌어진 잔인한 살인 사건. 탐사보도 피디 채유형은 해당 사건을 아이템으로 삼아 진실을 추적한다. 무작정 경찰서를 찾은 채유형과 만난 형사 진경언. 동료의 부정을 파헤쳤다는 이유로 조직에서 따돌림을 당하는 진 형사는 채유형이 들고 온 사건을 조사하기로 마음먹는다. 그들에게 쥐어진 건 ‘꽃이 피어 있던 을지로의 숲’에 가보라는 또 다른 청소년의 조언뿐. 사건 기록을 살피고 이름을 대조하고 시간을 재구성할수록 그들은 무언가 놓친 듯한 기분에 사로잡히는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "안온(안온북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20220810",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 손보미",
+                "SERIES_TITLE": "진 형사 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791197873034",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "450 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197873041",
+                "INPUT_DATE": "20220713",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사라진 숲의 아이들",
+                "PUBLISH_PREDATE": "20220727",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "주식회사 르브론 제임스",
+    "oauthor": "브라이언 윈드호르스트 저/대니얼 김 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "주식회사 르브론 제임스 (억만장자 운동선수의 탄생)",
+                "link": "https://search.shopping.naver.com/book/catalog/34110338622",
+                "image": "https://shopping-phinf.pstatic.net/main_3411033/34110338622.20221019133145.jpg",
+                "author": "브라이언 윈드호르스트",
+                "discount": "18000",
+                "publisher": "사람의집",
+                "pubdate": "20220815",
+                "isbn": "9788932922836",
+                "description": "8번 연속 NBA 파이널 진출, 4번의 NBA 우승……. 지난 세기의 농구 아이콘이 마이클 조던이라면 이 시대의 아이콘은 단연 르브론 제임스일 것이다. 그런데 르브론 제임스가 10억 달러 이상의 자산을 가진 억만장자라는 사실을 아는 이는 많지 않을 것이다. 놀라운 것은 지난 20년간 그가 NBA에서 뛰며 받은 연봉은 그의 자산의 일부분일 뿐이며, 그의 자산 대부분이 그가 일군 다양한 사업을 통해 쌓였다는 것이다.\n『주식회사 르브론 제임스』는 사업가로서 르브론 제임스의 행보를 면밀히 추격하며 우리 모두가 궁금한 질문을 던진다. 어떻게 그는 지구 최고의 재능이 모여 있는 NBA의 제왕으로 군림하는 동시에 성공한 사업가가 될 수 있었을까? 르브론의 비즈니스 제국은 어떠한 과정을 걸쳐 어떻게 진화했을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사람의집 :열린책들",
+                "DDC": "",
+                "UPDATE_DATE": "20220831",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "브라이언 윈드호르스트 지음 ;대니얼 김 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "249, [12] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9788932922836",
+                "INPUT_DATE": "20220712",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "주식회사 르브론 제임스",
+                "PUBLISH_PREDATE": "20220815",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

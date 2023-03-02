@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 망원동",
+    "oauthor": "김민섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 망원동 (어린 나는 그곳을 여권도 없이 자유롭게 넘나들었다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466553512",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466553512.20221230074703.jpg",
+                "author": "김민섭",
+                "discount": "8910",
+                "publisher": "제철소",
+                "pubdate": "20170925",
+                "isbn": "9791188343027",
+                "description": "솔직한 자기고백을 통해 한국 사회의 단면을 예리하게 포착해온\n『나는 지방대 시간강사다』 『대리 사회』 작가 김민섭의 첫 에세이\n\n‘나를 만든 세계, 내가 만든 세계’ 아무튼 시리즈의 다섯 번째 책. 『나는 지방대 시간강사다』 『대리 사회』의 저자 김민섭이 처음 쓴 본격 에세이집이다. “망원동과 성산동 그리고 상암동의 어느 경계지역에서” 나고 자란 작가는 자신의 어린 시절부터 현재까지의 기억을 더듬는 한편, 대한민국 어디에나 있을 법한 평범한 동네가 산업화와 현대화를 거치는 동안 어떤 변화를 겪어왔는지 담백하게 적어나간다.\n\n『아무튼, 망원동』은 김민섭 특유의 선한 문장에 스민 온기와 생활이 밴 글맛이 주는 활기가 잘 녹아든 책으로, 독자들은 대학 강사나 대리기사가 아닌 ‘소년 김민섭’이라는 그의 새로운 면모를 만나는 기쁨을 누릴 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "제철소",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20171018",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김민섭",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6358323_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6358323_3.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "123 p.",
+                "CONTROL_NO": "CIP2017023798",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188343027",
+                "INPUT_DATE": "20170912",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 망원동",
+                "PUBLISH_PREDATE": "20170925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

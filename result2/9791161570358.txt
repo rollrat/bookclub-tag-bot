@@ -1,0 +1,67 @@
+{
+    "otitle": "러블로그",
+    "oauthor": "우희덕 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "러블로그 (제14회 세계문학상 우수상 | 우희덕 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439439875",
+                "image": "https://shopping-phinf.pstatic.net/main_3243943/32439439875.20230131165258.jpg",
+                "author": "우희덕",
+                "discount": "11700",
+                "publisher": "나무옆의자",
+                "pubdate": "20180608",
+                "isbn": "9791161570358",
+                "description": "웃기지 못하는 코미디 작가와 \n결혼하지 못하는 커플매니저의 어떤 사랑이야기\n\n2018년 세계문학상 우수상을 수상한 우희덕 장편소설 『러블로그(Love Blog, Love Log)』. 생존이 걸린 원고를 잃어버린 코믹픽션 작가가 원고를 찾아 헤매는 과정에서 탐색하게 되는 인터넷 블로그의 세계와, 거기에서 일어나는 현실과 허구의 경계 해체를 코믹하게 그린 작품이다. 한 번도 만난 적이 없는 사람들이 저도 모르게 경험의 흔적을 공유하며 서로 연결되어 있는 곳, 수없이 겹치고 지워지며 얽혀 있는 로그들 속에서 마침내 마주하는 어떤 인연에 작가는 주목한다. 꿈과 현실, 텍스트를 절묘하게 넘나드는 이야기는 마지막 장에 가서야 소설이 내내 쌓아온 다중적인 비밀을 드러낸다. 특히 코미디 소설답게 쉴 새 없이 유쾌하게 펼쳐지는 언어유희는 어디서도 본 적 없는 작가만의 개성을 유감없이 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무옆의자",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20180619",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 우희덕",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6680207_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "244 p.",
+                "CONTROL_NO": "CIP2018016249",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161570358",
+                "INPUT_DATE": "20180525",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "러블로그",
+                "PUBLISH_PREDATE": "20180608",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

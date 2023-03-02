@@ -1,0 +1,34 @@
+{
+    "otitle": "1인분 레시피",
+    "oauthor": "이상희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:50 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "세상 편한 혼밥 (세상 어디에도 없는 1인분 레시피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462618906",
+                "image": "https://shopping-phinf.pstatic.net/main_3246261/32462618906.20221019152714.jpg",
+                "author": "박미란",
+                "discount": "11700",
+                "publisher": "대경북스",
+                "pubdate": "20200831",
+                "isbn": "9788956768274",
+                "description": "이 시대의 혼밥러들을 위한 한식대가 박미란의 50가지 레시피.\n구하기 힘든 재료들이 아니라 냉장고를 열면 늘 있을 법한 흔한 재료들과 요리 초보자도 쉽게 만들 수 있는 쉬운 레시피로, 배달음식과 인스턴트에 질린 현대인들에게 집밥의 멋과 맛을 전해줄 요리 길잡이."
+            },
+            {
+                "title": "1인분 레시피(Single Cooking Recipes) (요리 못해도 OK! 초간단 자취요리 레시피 74)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455977114",
+                "image": "https://shopping-phinf.pstatic.net/main_3245597/32455977114.20221229071647.jpg",
+                "author": "이상희",
+                "discount": "8550",
+                "publisher": "경향BP",
+                "pubdate": "20140526",
+                "isbn": "9788969520265",
+                "description": "이제 막 생활요리를 시작한 싱글족들을 위한 초간단 레시피!\n\n『1인분 레시피(SINGLE COOKING RECIPES)』는 인스턴트 제품과 배달음식에 질릴 때, 생활비 적자에 외식비를 줄이기 위해 이제 막 생활요리를 시작한 싱글족들을 위한 레시피 북이다. 이 책은 자취 10년 차 꿀키가 덮밥부터 한식, 안주, 브런치, 디저트, 손님상까지 자취생들을 위한 1인 레시피를 공개한다. 요리 초보도 적은 비용으로 집에서 해먹을 수 있도록 도왔다. 특히 이 책에서는 시판 제품을 적극 활용하였으며, 조리과정을 최소로 줄여 편의를 더했다. 설거지거리가 쌓이는 것을 싫어하고 복잡한 조리 과정에 질려 하는 싱글족들을 위한 초간단 레시피만을 엄선했다."
+            }
+        ]
+    }
+}

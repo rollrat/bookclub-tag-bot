@@ -1,0 +1,67 @@
+{
+    "otitle": "아 따블르 빠리",
+    "oauthor": "최연정,최지민 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아 따블르 빠리(A TABLE: PARIS) (프랑스 여자처럼 밥해먹기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466654698",
+                "image": "https://shopping-phinf.pstatic.net/main_3246665/32466654698.20220527025237.jpg",
+                "author": "최연정",
+                "discount": "0",
+                "publisher": "포북(forbook)",
+                "pubdate": "20150220",
+                "isbn": "9788993418989",
+                "description": "프랑스 요리, 더이상 어렵지 않다!\n\n빠리지엥이라는 말 속에 담겨 있는 프랑스식 라이프 스타일은 세련되고 접근하기 어려울 것 같은 느낌이지만 이 책의 저자들이 제안하는 빠리지엥 스타일은 즐겁고 쉽다. 아침의 카페라떼부터 점심의 바게뜨 샌드위치, 와인을 곁들인 저녁식사까지… 『아 따블르 빠리』는 제철 재료로 프렌치 테이블을 만들 수 있도록 안내한 책으로, 제철 재료를 이용해서 소박한 한 접시 요리로 즐길 수 있는 프랑스 가정 요리를 소개한다. 되도록 소금 없이, 되도록 기름 빼고, 되도록 야채위주로 차려지는 프랑스 요리의 소소한 팁과 레시피를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포북",
+                "DDC": "",
+                "UPDATE_DATE": "20150520",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최연정  최지민",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993418989",
+                "INPUT_DATE": "20150116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "어 테이블 파리",
+                "PUBLISH_PREDATE": "20150220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

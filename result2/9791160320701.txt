@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 맛있는 연주네 식탁",
+    "oauthor": "정연주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 맛있는 연주네 식탁 (소박한 재료로 만드는 일상을 빛내는 요리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444960559",
+                "image": "https://shopping-phinf.pstatic.net/main_3244496/32444960559.20221230074110.jpg",
+                "author": "정연주",
+                "discount": "13680",
+                "publisher": "싸이프레스",
+                "pubdate": "20191105",
+                "isbn": "9791160320701",
+                "description": "요리 왕초보부터 요리를 좀 한다는 사람들까지\n누구나 좋아하는 #정연주식탁의 시크릿 레시피!\n\n올리는 영상마다 좋아요가 폭발하는 #정연주식탁. 요리 왕초보도 따라 하기 쉬운 레시피와 푸짐한 담음새로 인스타 피드를 점령한 그녀의 식탁을 지금 공개합니다. 30만 팔로워가 좋아하는 그녀의 요리에 어떤 특별한 비밀이 있을까요? 우리가 늘 먹는 일상의 요리는 누구나 쉽게 만들 수 있지만 제대로 된 맛을 내기는 어려운 법. 그녀는 일상의 소박한 재료로 감탄사가 절로 흘러나오는 맛있는 요리를 만들어 내는 것에 익숙합니다. \n\n소박한 재료로 일상을 빛내는 요리가 담긴 『오늘도 맛있는 연주네 식탁』. 연주네 식탁에 소개된 요리들은 고가의 재료보다는 소박한 재료를 중복적으로 사용하여, 국과 반찬, 일품을 넘나들며 구매 단위가 큰 재료들을 남김없이 사용할 수 있게 하였고, 기본적인 한식 양념을 사용해 요리를 만드는 사람이 부담스럽지 않도록 재료비를 낮췄습니다. 여기에 요리 왕초보도 쉽게 따라할 수 있도록 3번의 과정만 거치면 맛있는 요리를 완성할 수 있어 누구나 쉽게 따라할 수 있는 것은 덤이지요.  \n\n이제 연주네 식탁으로 당신의 일상과 식탁을 빛내는 요리를 만들어보세요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Cypress(싸이프레스)",
+                "DDC": "",
+                "UPDATE_DATE": "20191031",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "www.cypressbook.co.kr",
+                "AUTHOR": "지은이: 정연주 ;사진촬영: 이과용",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15200",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "CIP2019039208",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160320701",
+                "INPUT_DATE": "20191002",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(오늘도 맛있는) 연주네 식탁",
+                "PUBLISH_PREDATE": "20191105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

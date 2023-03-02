@@ -1,0 +1,67 @@
+{
+    "otitle": "밤의 이야기꾼들",
+    "oauthor": "전건우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "밤의 이야기꾼들 (전건우 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474234994",
+                "image": "https://shopping-phinf.pstatic.net/main_3247423/32474234994.20221019150335.jpg",
+                "author": "전건우",
+                "discount": "11700",
+                "publisher": "네오북스",
+                "pubdate": "20140822",
+                "isbn": "9791157400812",
+                "description": "전건우 장편소설 『밤의 이야기꾼들』. 이 책은 한 가지 이야기가 아닌 다섯 가지 이야기로 완성된 옴니버스 구성의 장편소설이다. 소설 속 어둡고 거대한 연기는 폭우 속 엄마 아빠를 놓쳐버린 아이의 얼굴이 되었다가, 도플갱어에게 쫓겨 얼굴을 찢어내는 가엾은 여인으로 변했다가, 둥지를 지켜내지 못해 처자식을 밖으로 밀어내는 잔인하고도 슬픈 아버지의 얼굴로 그 형태를 바꾼다. 지루할 틈 없이 전개되는 이 이야기들 속에 빠지게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "네오북스",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20150723",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전건우",
+                "SERIES_TITLE": "이야기꾼들 시리즈",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791157401192",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3881626_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3881626_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014023195",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157400812",
+                "INPUT_DATE": "20140805",
+                "SET_EXPRESSION": "(세트)",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "밤의 이야기꾼들",
+                "PUBLISH_PREDATE": "20140813",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

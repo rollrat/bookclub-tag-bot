@@ -1,0 +1,67 @@
+{
+    "otitle": "인생이라는 멋진, 거짓말",
+    "oauthor": "이나미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인생이라는 멋진, 거짓말 (어쩌다 보니 황혼, 마음은 놔두고 나이만 들었습니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455906652",
+                "image": "https://shopping-phinf.pstatic.net/main_3245590/32455906652.20221227202939.jpg",
+                "author": "이나미",
+                "discount": "13320",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20210215",
+                "isbn": "9791165342876",
+                "description": "‘어른’이 채 되기도 전에 노년으로 저물어가는… \n수많은 모순과 허무함 속에서도 여전히 계속되는 삶에 대하여\n\n정신건강의학과 의사이자 분석 심리 연구가 이나미 박사가 황혼으로 접어든 자신과 그 주변을 때로는 깊숙이, 때로는 멀찍이서 바라본다. 그의 시선은 ‘마음은 어딘가에 놔두고 나이만 들었다’며 한탄하기도 하고, 한편으로는 ‘이제야 보이지 않던 것들이 보인다’며 안도하기도 한다. \n\n인생이라는 멋진, 때로는 허무한 거짓말에 울고 웃다 보면 어느덧 마주하게 되는 노년의 삶. 우리는 살아온 시간을 반추하고 그 이후의 시간을 내다보며 비로소 죽음까지도 찬찬히 들여다보게 된다. ‘늙어감’을 받아들이고 ‘사라짐’에 대한 서글픔을 잠재우는 시간. 중년에서 노년으로 가는 길목의 많은 이들이 공감할 만한 황혼 녘의 단상과 삶에 대한 성찰을 풀어낸 그의 글을 천천히 따라가보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20210312",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "이나미 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "CIP2020051830",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165342876",
+                "INPUT_DATE": "20201204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "인생이라는 거짓말",
+                "PUBLISH_PREDATE": "20210215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

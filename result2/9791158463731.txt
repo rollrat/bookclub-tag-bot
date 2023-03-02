@@ -1,0 +1,67 @@
+{
+    "otitle": "슈가레인 카페 디저트 클래스",
+    "oauthor": "조한빛 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "슈가레인 카페 디저트 클래스 (카페 창업자도 홈베이킹 입문자도 지금 바로 만들 수 있는 인기 레시피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485045691",
+                "image": "https://shopping-phinf.pstatic.net/main_3248504/32485045691.20230218110737.jpg",
+                "author": "조한빛",
+                "discount": "15230",
+                "publisher": "비타북스",
+                "pubdate": "20220210",
+                "isbn": "9791158463731",
+                "description": "오늘부터 하나씩, 디저트 베이킹\n‘슈가레인 베이킹 스튜디오’ 인기 클래스를 책으로 만난다\n카페에서 요즘 핫한 디저트 레시피 47가지 수록!\n\n카페 창업자부터 초보 홈베이커까지 수강생이 줄을 잇는 ‘슈가레인 베이킹 스튜디오’는 보장된 품질과 맛은 물론, 불필요한 재료와 도구, 공정을 덜어낸 효율적인 레시피로 유명해진 후 입소문을 타며 수많은 수강생의 찬사를 받고 있다. 이 책에는 ‘슈가레인 베이킹 스튜디오’ 인기 클래스 메뉴이자 최신 트렌드를 반영한 47가지 디저트 레시피가 담겨있다.\n\n‘슈가레인 베이킹 스튜디오’ 대표이자 이 책의 저자인 조한빛 파티시에는 ‘효율성’을 중요하게 생각한다. 치열한 오프라인 매장 환경에서 꼭 필요한, 현실적인 레시피를 제공하고자 노력하는 그는 이 책의 구성에도 신경을 많이 썼다. 우리나라의 경우 디저트 트렌드가 워낙 빠르게 변화하기 때문에 많은 홈베이커와 디저트 소비자들은 언제나 새로운 것을 찾는다. 이에 발 빠르게 대처할 수 있도록 최신 트렌드를 반영해 지금 핫하고, 앞으로도 꾸준하게 주목받을 인기 디저트 레시피만 수록했다. 큐브 파운드케이크, 마들렌, 스콘, 쿠키, 피낭시에, 까눌레, 치즈케이크, 보틀 케이크, 콜드 디저트, 수제 잼까지! 디저트 베이킹을 처음 시작하는 초보자나 ‘실패 없는’ 레시피가 필요했던 누구에게나 도움이 될 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비타북스 :헬스조선",
+                "DDC": "",
+                "UPDATE_DATE": "20220302",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "조한빛 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/01/21/9791158463731.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "284 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158463731",
+                "INPUT_DATE": "20220121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "슈가레인 카페 디저트 클래스",
+                "PUBLISH_PREDATE": "20220210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

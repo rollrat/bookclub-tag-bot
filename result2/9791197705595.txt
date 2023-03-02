@@ -1,0 +1,67 @@
+{
+    "otitle": "엄마가 아들에게 전하는 그림 편지",
+    "oauthor": "강안 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엄마가 아들에게 전하는 그림 편지",
+                "link": "https://search.shopping.naver.com/book/catalog/33339421629",
+                "image": "https://shopping-phinf.pstatic.net/main_3333942/33339421629.20230207165213.jpg",
+                "author": "강안",
+                "discount": "14400",
+                "publisher": "다연",
+                "pubdate": "20220711",
+                "isbn": "9791197705595",
+                "description": "엄마가 쓰고 그린 사랑의 그림 편지\n아들아, 엄마는 늘 너를 응원한다!\n\n이 책은 위로와 응원과 희망을 담아 아들에게 전하는 엄마표 인생 메시지이다. 그 어느 때보다 답답하고 삭막하기 그지없는 이 시대의 현실 속에서, 그럼에도 주어진 인생을 잘 살아내도록 엄마는 직접 쓰고 그려 드러낸 진심을 책장마다 간절히 수놓았다. 너나없이 모두가 읽어도 좋을 엄마의 그림 편지로 한 장 한 장 응원을 받다 보면 어느새 힘이 날 것이다. 또한 나만의 행복, 그 실마리가 말랑말랑하게 풀릴 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다연",
+                "DDC": "",
+                "UPDATE_DATE": "20220803",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강안 글·그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*213",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "242 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197705595",
+                "INPUT_DATE": "20220629",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "엄마가 아들에게 전하는 그림 편지",
+                "PUBLISH_PREDATE": "20220711",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

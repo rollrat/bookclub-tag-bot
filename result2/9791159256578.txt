@@ -1,0 +1,67 @@
+{
+    "otitle": "8코기네",
+    "oauthor": "전승우,공진위 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "8코기네 (함께라서 행복한 웰시코기 대가족의 리틀 포레스트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436152301",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436152301.20221230074809.jpg",
+                "author": "전승우^공진위",
+                "discount": "18000",
+                "publisher": "참새책방",
+                "pubdate": "20210823",
+                "isbn": "9791159256578",
+                "description": "“어느 날, 우리에게 선물처럼 찾아온 웰시코기 여덟 마리,\n그렇게 우리는 8코기네가 되었습니다.\n그리고 우리 가족에게는 완전히 새로운 삶이 열렸습니다.”\n\n26만 유튜버 8코기네의 시끌벅적하고 즐거운 시골 생활 이야기\n\n개를 너무 사랑해서 오랫동안 차마 개를 키울 수 없었던 사람과 개 키우는 것이 평생의 소원이었던 사람. 이 둘이 부부로 만나 웰시코기 레고와 제니를 반려견으로 맞았다. 그런데 이 녀석들 사고를 쳤다! 이 책은 키우던 반려견 두 마리가 여섯 마리의 새끼를 낳으면서 이들 가족에게 펼쳐진 완전히 예상 못 했던 새로운 삶을 그린다. 처음부터 여덟 마리 아이를 모두 키우겠다고 생각했던 건 아니다. 어떻게 서울 한복판에서 반려견을, 그것도 한 마리당 15킬로그램은 너끈히 나가는 중형견 웰시코기를 여덟 마리나 키울 수 있겠는가? 당연히 입양 보내려 했으나, 단미 수술이라는 장벽과 준비되지 않은 사람들이 별 고민 없이 쉽게 반려견을 분양받는 현실에 크게 충격받는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "참새책방 :들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20210927",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "전승우,공진, 그리고 8코기들",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "147*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "359 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159256578",
+                "INPUT_DATE": "20210730",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "8코기네",
+                "PUBLISH_PREDATE": "20210817",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

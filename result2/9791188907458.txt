@@ -1,0 +1,67 @@
+{
+    "otitle": "펭귄과 바닷새들",
+    "oauthor": "맷 슈얼 저/최은영 역/이원영 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "펭귄과 바닷새들",
+                "link": "https://search.shopping.naver.com/book/catalog/32483376429",
+                "image": "https://shopping-phinf.pstatic.net/main_3248337/32483376429.20221229073308.jpg",
+                "author": "맷 슈얼",
+                "discount": "11250",
+                "publisher": "클",
+                "pubdate": "20190118",
+                "isbn": "9791188907458",
+                "description": "수채화처럼 따뜻하고 감성적인\n극지 조류 일러스트 도감\n강인한 펭귄과 바닷새의 놀라운 세상\n\n《펭귄과 바닷새들》은 ‘펭귄은 물고기예요?’라는 질문을 접한 열렬한 조류학자이자 일러스트레이터인 맷 슈얼이 직접 그리고 쓴, 지금껏 만나보지 못한 사랑스럽고 독특한 조류 도감이다. 이 책의 저자는 새에 관한 정통한 지식을 바탕으로 글을 재치 있게 써서 펭귄과 바닷새의 세상으로 생동감 있게 끌어당긴다. 이뿐만 아니라 초롱초롱한 눈망울이 매력적인 일러스트는 바닷새 각각의 개성을 효과적으로 보여주어 교육적 효과도 높였다.\n무엇보다 이 책은 누구나 아는 인기 만점 황제펭귄부터 들어본 적 있나 싶은 낯선 이름과 생김새를 한 아메리카군함조까지 소개하며, 지구에서 가장 척박한 곳에 사는 생명체인 그들에 대한 애정과 경외의 마음을 잘 표현했다. “펭귄이 단지 귀여운 새가 아닌 훨씬 더 많은 것은 지닌 생명체라는 사실을 알게 되기를 바란다”는 작가의 바람도 깊숙하게 전해진다.\n펭귄과 바닷새에 관한 소소한 지식은 물론, 근사한 외모를 감상하는 즐거움도 얻을 수 있지만, 험난하고 쓸쓸한 환경에서 마침내 다음 계절과 그 다음 세대로 이어지는 강인한 생명력과 신비로운 발자취를 따르다보면 코끝이 찡해지며 큰 위안을 얻을 것이다. 특히 책 말미에 있는 ‘바닷새 관찰 기록장’을 보다보면, 언젠가 행복한 탐조 여행을 떠나볼 수 있기를 소망하게 될지도 모른다.\n극지연구소 선임연구원이자 동물행동학자인 이원영 박사의 감수를 거쳐 더욱 완성도 높은 책으로 한국 독자들과 만날 수 있게 되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "598.0222",
+                "UPDATE_DATE": "20190212",
+                "EA_ADD_CODE": "03490",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 맷 슈얼 ;옮긴이: 최은영",
+                "SERIES_TITLE": "",
+                "KDC": "498.0025",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7060301_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "128 p.",
+                "CONTROL_NO": "CIP2018041054",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188907458",
+                "INPUT_DATE": "20181212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "펭귄과 바닷새들",
+                "PUBLISH_PREDATE": "20190114",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

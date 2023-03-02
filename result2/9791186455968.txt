@@ -1,0 +1,67 @@
+{
+    "otitle": "스트레칭이라도 하셔야겠습니다",
+    "oauthor": "최성우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스트레칭이라도 하셔야겠습니다 (퍼스널 트레이너의 1:1 맞춤 처방)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466685529",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466685529.20221019124603.jpg",
+                "author": "최성우",
+                "discount": "6300",
+                "publisher": "포북(forbook)",
+                "pubdate": "20150820",
+                "isbn": "9791186455968",
+                "description": "당신의 몸, 스트레칭만 해도 확 달라질 수 있다!\n\n모든 운동의 시작과 끝, 스트레칭. 단순히 몸을 푸는 것이 아닌 제대로 된 몸, 아름다운 몸을 만들기 위해서 필수적인 운동이다. 스트레칭만 제대로 해도 건강은 물론 아름다움까지 얻을 수 있다. 『스트레칭이라도 하셔야겠습니다』는 상체부터, 뱃살부터, 하체부터 《빼셔야겠습니다》시리즈의 저자 최성우가 몸의 부위별, 통증이나 고민 별로 묶어 스트레칭 방법을 알려준다. 목, 어깨, 허리, 골반, 다리, 발목, 손목, 전신의 스트레칭 등 누구나 쉽게 따라할 수 있는 쉬운 동작을 20초 유지하는 방법이다. 이외에도 각 부위의 통증 완화나 체형 교정에 도움이 되는 셀프 마사지 방법도 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포북",
+                "DDC": "",
+                "UPDATE_DATE": "20151019",
+                "EA_ADD_CODE": "14510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최성우",
+                "SERIES_TITLE": "퍼스널트레이너와1:1 맞춤 다이어트",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "7000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "92",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186455968",
+                "INPUT_DATE": "20150804",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "스트레칭이라도 하셔야겠습니다",
+                "PUBLISH_PREDATE": "20150810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

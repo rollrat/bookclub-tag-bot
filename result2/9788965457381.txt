@@ -1,0 +1,78 @@
+{
+    "otitle": "사다 보면 끝이 있겠지요",
+    "oauthor": "최규화 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:04 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "사다 보면 끝이 있겠지요 (29년생 김두리 할머니의 구술생애사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491902311",
+                "image": "https://shopping-phinf.pstatic.net/main_3249190/32491902311.20221019151533.jpg",
+                "author": "최규화",
+                "discount": "14400",
+                "publisher": "산지니",
+                "pubdate": "20210908",
+                "isbn": "9788965457381",
+                "description": "우리는 인구가 아니라 인간이다\n인간은 숫자가 아니라 생애로 기억돼야 한다\n\n포항 사투리로 자신의 생애를 풀어내는 29년생 김두리 할머니의 이야기. 다년간 기자 생활을 해온 손자가 할머니의 삶을 기록하였다. 현대사를 지나온 할머니의 생애가 한 줄 사건 혹은 숫자로 뭉뚱그려진 인물들의 삶을 대변할 수 있다고 생각했기 때문이다. 그녀의 이야기 속에는 위안부와 강제징병, 해방 후 좌우대립과 한국전쟁으로 이어지는 역사의 목격자이자 당사자로서의 생생한 증언이 담겨 있다.\n손자에게 들려주는 할머니 자신의 삶 속에는 혹독한 시절을 건너온 아픔, 누구에게도 말하기 힘든 가족사는 물론 앞으로 삶을 살아갈 손자를 염려하는 할머니의 마음이 녹아 있다. 그리고 그런 할머니의 마음을 독자들이 여실히 느낄 수 있도록 고군분투하는 기록자의 마음도 함께 녹아 있다."
+            },
+            {
+                "title": "사다 보면 끝이 있겠지요(큰글씨책) (29년생 김두리 할머니의 구술생애사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441199296",
+                "image": "https://shopping-phinf.pstatic.net/main_3244119/32441199296.20221019151234.jpg",
+                "author": "김두리^최규화",
+                "discount": "25200",
+                "publisher": "산지니",
+                "pubdate": "20220224",
+                "isbn": "9791168610125",
+                "description": "우리는 인구가 아니라 인간이다\n인간은 숫자가 아니라 생애로 기억돼야 한다\n\n포항 사투리로 자신의 생애를 풀어내는 29년생 김두리 할머니의 이야기. 다년간 기자 생활을 해온 손자가 할머니의 삶을 기록하였다. 현대사를 지나온 할머니의 생애가 한 줄 사건 혹은 숫자로 뭉뚱그려진 인물들의 삶을 대변할 수 있다고 생각했기 때문이다. 그녀의 이야기 속에는 위안부와 강제징병, 해방 후 좌우대립과 한국전쟁으로 이어지는 역사의 목격자이자 당사자로서의 생생한 증언이 담겨 있다.\n손자에게 들려주는 할머니 자신의 삶 속에는 혹독한 시절을 건너온 아픔, 누구에게도 말하기 힘든 가족사는 물론 앞으로 삶을 살아갈 손자를 염려하는 할머니의 마음이 녹아 있다. 그리고 그런 할머니의 마음을 독자들이 여실히 느낄 수 있도록 고군분투하는 기록자의 마음도 함께 녹아 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20211001",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "구술: 김두리 ;기록: 최규화",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/03/9788965457381.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965457381",
+                "INPUT_DATE": "20210803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사다 보면 끝이 있겠지요",
+                "PUBLISH_PREDATE": "20210908",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

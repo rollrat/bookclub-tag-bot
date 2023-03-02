@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 무대",
+    "oauthor": "황정원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 무대 (곧 흔적도 없이 사라질 그 시간을 축제처럼 만끽하는 수밖에 없다.)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467516736",
+                "image": "https://shopping-phinf.pstatic.net/main_3246751/32467516736.20230207163246.jpg",
+                "author": "황정원",
+                "discount": "10800",
+                "publisher": "코난북스",
+                "pubdate": "20220222",
+                "isbn": "9791188605231",
+                "description": "‘나를 만든 세계, 내가 만든 세계’ 아무튼 시리즈 46번째는 무대 이야기다. \n음악과 춤, 이야기가 있는 곳, 그 위에서 에너지와 감정이 순간 폭발하고 머물다 사라지는 곳, 그렇기에 그때 그 자리에 있었던 배우, 스태프, 연주자, 관객만이 가질 수 있는 기억과 감정, 경험이 공유되는 곳이 바로 무대다. \n저자는 바로 그 무대에 대한 애정과 진중한 생각들을 골라 담았다. 무대 위의 감동뿐 아니라 무대 뒤 스태프들의 진땀 나는 순간들, 또 커튼이 내려지고 난 뒤에 흐르는 안도와 성취의 공기들도 충분히 전한다. 음악의 길로 들어선 후로 맞닥뜨린 갈등과 고뇌의 순간들, 그 결과로 마음에 차곡차곡 쌓은 깨달음들 또한 단정한 글로 써내려갔다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "코난북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220321",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 황정원",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "169 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188605231",
+                "INPUT_DATE": "20220122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 무대",
+                "PUBLISH_PREDATE": "20220222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

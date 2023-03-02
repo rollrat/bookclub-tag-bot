@@ -1,0 +1,78 @@
+{
+    "otitle": "유령함대 2",
+    "oauthor": "피터 W. 싱어,오거스트 콜 공저/원은주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:04 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "유령함대 2 (미중전쟁 가상 시나리오)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438165749",
+                "image": "https://shopping-phinf.pstatic.net/main_3243816/32438165749.20221019145353.jpg",
+                "author": "피터 W. 싱어",
+                "discount": "12150",
+                "publisher": "살림",
+                "pubdate": "20180312",
+                "isbn": "9788952238993",
+                "description": "다가오는 신냉전시대, 미중전쟁으로 촉발되는 3차 대전이 어떻게 펼쳐질 것인가?\n\n미 국방성, CIA, 미 의회의 자문 위원이자 주목받는 미래학자 피터 싱어의 미래 전쟁 시나리오 『유령함대』 제2권. 2026년 중·러 동맹의 미 태평양 선제타격과 사이버 진주만 습격으로 발발하는 3차 세계대전을 그린 이 소설은 미 국방성 필독서로 꼽히며 주목받았다. 일찌감치 드론, 로봇, 사이버 보안이 미래전의 주역이 될 것이라고 예측했던 저자는 이번 작품에서 하와이섬과 태평양, 우주와 사이버를 주 무대로, 각지에서 활약하는 주인공들의 긴장감 넘치는 400개 에피소드를 통해 치밀한 전쟁 이야기를 들려준다.\n\n중국에 연전연패하자 미국은 사이버 네트워크 공격에서 자유로운 버려진 함대, 유령함대를 출항시킨다. 유령함대 선두를 이끌게 된 줌월트호의 함장 제이미 시먼스는 퇴역했지만 멘토 승무원이 된 아버지, 마이크 시먼스와 함께 전함에 오른다. 과거 어머니와 여동생을 방치하고 일에만 몰두했던 마이크와 그런 아버지를 용서하지 못한 제이미. 과연 제이미는 아버지와 함께 전투를 승리로 이끌 수 있을 것인가?\n\n중국이 점령한 하와이섬에서 NSM 반란군으로 활약하는 미 해병대 소령 출신 캐럴린 도일. 재래식 전투에 익숙한 그녀에게 하와이에서의 최신 전투는 모든 것이 낯설다. 언제 어디서 습격당할지 모르는 사지에서 도일의 몸과 마음을 지탱해주는 것은 오로지 임무 수행에 대한 강박뿐이다. 그러나 동료와 현지 민간인들의 죽음 앞에서 도일은 돌이킬 수 없는 죄책감에 휩싸이게 되는데……."
+            },
+            {
+                "title": "유령함대 세트 - 전2권 (미중전쟁 가상 시나리오)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493287884",
+                "image": "https://shopping-phinf.pstatic.net/main_3249328/32493287884.20220521011317.jpg",
+                "author": "피터 W. 싱어",
+                "discount": "24300",
+                "publisher": "살림",
+                "pubdate": "20180306",
+                "isbn": "9788952239006",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20180316",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "피터 W. 싱어,오거스트 콜 ;원은주 옮김",
+                "SERIES_TITLE": "유령함대",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6531113_6.txt",
+                "SET_ISBN": "9788952239006",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6531113_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "378 p.",
+                "CONTROL_NO": "CIP2018003045",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788952238993",
+                "INPUT_DATE": "20180126",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "유령함대",
+                "PUBLISH_PREDATE": "20180306",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04840 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

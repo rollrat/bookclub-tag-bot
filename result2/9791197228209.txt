@@ -1,0 +1,78 @@
+{
+    "otitle": "부와 행운을 끌어당기는 우주의 법칙",
+    "oauthor": "김도사,권마담 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:08 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "부와 행운을 끌어당기는 우주의 법칙 (부와 행운을 끌어당기는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485700146",
+                "image": "https://shopping-phinf.pstatic.net/main_3248570/32485700146.20221019124545.jpg",
+                "author": "김태광^권마담",
+                "discount": "16200",
+                "publisher": "굿웰스북스",
+                "pubdate": "20201119",
+                "isbn": "9791197228209",
+                "description": "“책 쓰기 분야 최고의 젊은 그루\n김도사 권마담 부부의\n성공과 부, 행복에 대한 31가지 룰”"
+            },
+            {
+                "title": "부와 행운을 끌어당기는 우주의 법칙(큰글자책) (부와 행운을 끌어당기는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465145739",
+                "image": "https://shopping-phinf.pstatic.net/main_3246514/32465145739.20221019140158.jpg",
+                "author": "김태광^권마담",
+                "discount": "33300",
+                "publisher": "굿웰스북스",
+                "pubdate": "20210430",
+                "isbn": "9791191447170",
+                "description": "“책 쓰기 분야 최고의 젊은 그루\n김도사 권마담 부부의\n성공과 부, 행복에 대한 31가지 룰”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "굿웰스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210111",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김도사,권마담 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "284 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197228209",
+                "INPUT_DATE": "20201028",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(부와 행운을 끌어당기는) 우주의 법칙",
+                "PUBLISH_PREDATE": "20201119",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

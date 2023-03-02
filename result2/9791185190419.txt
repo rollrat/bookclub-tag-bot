@@ -1,0 +1,67 @@
+{
+    "otitle": "스틸하우스 레이크",
+    "oauthor": "레이철 케인 저/유혜영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스틸하우스 레이크",
+                "link": "https://search.shopping.naver.com/book/catalog/32466680773",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466680773.20221227205810.jpg",
+                "author": "레이철 케인",
+                "discount": "12600",
+                "publisher": "피니스아프리카에",
+                "pubdate": "20200215",
+                "isbn": "9791185190419",
+                "description": "국제 스릴러 작가 협회상, 굿리즈 초이스상 최종 후보작\n경찰이 그녀의 남편을 체포했지만 살인은 끝나지 않았다\n\n귀여운 두 아이의 엄마이자 한 남자의 아내로 행복한 결혼 생활을 영위하던 지나 로열은 평범한 주부였다. 하지만 자신의 집 차고를 누군가가 들이받았을 때, 연쇄살인범이라는 비밀스러운 삶을 살던 남편의 정체가 드러나고, 그녀는 아이들을 지켜야 할 궁극의 전사 그웬 프록터라는 이름으로 새롭게 태어나야 했다. \n전남편은 현재 교도소에서 사형 선고를 기다리는 중이고, 그녀는 여전히 남편의 범죄에 가담했으리라고 생각하는 스토커들에게 쫓긴다. 그웬이 새 신분으로 시작한 삶에 만족하던 중 근처 호수에서 시체가 떠오르고 협박 편지가 날아들기 시작한다. 그녀는 주변 사람들 중에서 누가 친구이고, 누가 적인지 가려야 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "피니스 아프리카에",
+                "DDC": "",
+                "UPDATE_DATE": "20200317",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "레이철 케인 지음 ;유혜영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "399 p.",
+                "CONTROL_NO": "CIP2020002549",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185190419",
+                "INPUT_DATE": "20200117",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "스틸하우스 레이크",
+                "PUBLISH_PREDATE": "20200215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

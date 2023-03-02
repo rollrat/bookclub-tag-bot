@@ -1,0 +1,67 @@
+{
+    "otitle": "퍼스널 리셋",
+    "oauthor": "이라야 저/박세현 그림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "퍼스널 리셋 (다시 시작하고 싶을 때 인생 리셋 공식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506901638",
+                "image": "https://shopping-phinf.pstatic.net/main_3250690/32506901638.20221228072219.jpg",
+                "author": "이라야",
+                "discount": "13660",
+                "publisher": "미디어숲",
+                "pubdate": "20200910",
+                "isbn": "9791158740832",
+                "description": "“막막한 현실 앞에서\n주저앉은 나를 일으켜 세워라!”\n다시 시작하고 싶은 이들을 위한 구체적인 인생 지침서\n읽기만 해도 난관을 헤쳐 나갈 길이 보인다\n\n어쩐지 내가 사는 모습이 마음에 들지 않을 때가 있다. 답답한 마음에 주변 이들과 견주어 봐도 딱히 잘살고 있다는 생각이 들지 않는다. 부모나 형제가 나를 바라보는 시선도 탐탁지 않다. 오랜만에 동창회에 나가 친구들을 만나 보면 모두가 목표의식을 가지고 계획적으로 살아가는 것 같아 마음이 더 조급해지고 위축된다. 나름대로 성실하게 살아가려고 노력하지만 순간순간 미래에 대한 불안감이 엄습한다. 불투명한 내일 때문에 초조하고 외로워진다. 주변 사람들과의 관계에서 긴밀한 유대감이나 위안을 얻어 보려 하지만 나를 지지해 줄 한 사람을 찾기도 쉽지 않다. 대체 어떻게 해야 하는가?\n\n이 책의 저자는 다시 시작하고 싶은 이들에게 따스한 위로를 전하면서 어떻게 해야 하는지를 구체적이고 실질적으로 알려 준다. 그저 열심히 한다고 문제가 해결되는 것은 아니라며 그동안 살았던 방식을 리셋(Reset)해 보라고 방법을 제안한다. 어떠한 여건에서도 자신의 삶은 온전히 자기 몫이라는 것을 알려 주고 새로운 각오로 다시 출발할 방법과 방향을 제시해 준다. 각 꼭지가 끝날 때마다 ‘나를 바꾸는 한 걸음’에서는 여러 질문을 던지며 자신과 인생을 찬찬히 탐구해 볼 기회를 제공한다. \n\n이 책은 삶의 변화를 간절히 원하는 이들에게, 막막한 현실 앞에서 주저앉고 싶은 청춘들에게 다시 신발 끈을 묶고 출발할 수 있는 강력한 동기를 부여함과 동시에 어디로 뛰어야 할지 스스로 길을 찾게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미디어숲 :다빈치하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20201014",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.mfbook.co.kr",
+                "AUTHOR": "이라야 지음 ;박세현 그림",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/17/9791158740832.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "270 p.",
+                "CONTROL_NO": "CIP2020029951",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158740832",
+                "INPUT_DATE": "20200717",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "퍼스널 리셋",
+                "PUBLISH_PREDATE": "20200910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

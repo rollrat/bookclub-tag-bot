@@ -1,0 +1,67 @@
+{
+    "otitle": "처음 읽는 술의 세계사",
+    "oauthor": "미야자키 마사카츠 저/정세환 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "처음 읽는 술의 세계사 (한 잔 술에 담긴 인류 역사 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486443632",
+                "image": "https://shopping-phinf.pstatic.net/main_3248644/32486443632.20230131162534.jpg",
+                "author": "미야자키 마사카츠",
+                "discount": "13830",
+                "publisher": "탐나는책",
+                "pubdate": "20201026",
+                "isbn": "9791189550257",
+                "description": "인간을 신의 세계로 유혹하는 술\n향긋한 술을 통해 배우는 인류 문명의 역사\n\n술로 세계사를 이야기할 수 있을까? 스카치, 버번, 캐나디언 클럽, 코냑, 워커, 럼주, 와인 등은 지역을 대표하는 각양각색의 술이지만 지금은 전 세계 어디에서든 즐길 수 있다. 각 지역의 문화적 특색이 담긴 술이 어떻게 탄생되었고 또 어떻게 세계로 확산되었는지를 살피는 것은 인류 문명의 역사를 이해하는 데 중요한 단서가 된다.\n\n보드카, 데킬라, 소주 등 전 세계의 모든 증류주는 9세기에 이슬람에서 연금술을 위해 발명된 증류기 알렘빅에서 시작되었다. 메소포타미아에서 유럽으로 전해진 ‘액체 빵’ 맥주, 흑사병의 공포가 낳은 위스키와 브랜디, 음료수 대신이었던 대항해 시대의 와인, 겨울의 추위가 낳은 기적의 술 샴페인 등 세계를 둘러싼 다양한 술의 재미있고 생생한 역사와 문화가 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "탐나는책",
+                "DDC": "",
+                "UPDATE_DATE": "20201106",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "미야자키 마사카츠 지음 ;정세환 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "573",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/05/9791189550257.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*214",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "246 p.",
+                "CONTROL_NO": "CIP2020042106",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189550257",
+                "INPUT_DATE": "20201005",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "처음 읽는 술의 세계사",
+                "PUBLISH_PREDATE": "20201026",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

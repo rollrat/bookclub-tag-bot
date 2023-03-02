@@ -1,0 +1,67 @@
+{
+    "otitle": "돈지랄의 기쁨과 슬픔",
+    "oauthor": "신예희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "돈지랄의 기쁨과 슬픔 (물욕)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466674846",
+                "image": "https://shopping-phinf.pstatic.net/main_3246667/32466674846.20221019101405.jpg",
+                "author": "신예희",
+                "discount": "10800",
+                "publisher": "드렁큰에디터",
+                "pubdate": "20200525",
+                "isbn": "9791197035203",
+                "description": "“돈으로 사는 가장 구체적인 행복”\n우리 이제 솔직히 털어놔봅시다\n당신 안의 그 욕망, ‘물욕’에 대해\n\n한 달에 한 권씩 만나는 ‘먼슬리에세이’의 첫 번째 책『돈지랄의 기쁜과 슬픔』. “SNS에 뜨는 광고만 봐도 지난 소비를 파악할 수 있는 세상. 휴대폰 속 이 광고들은 내 돈지랄의 역사를 보여주는 것일까? 돈지랄, 하고 가만히 불러보면 가슴이 뛴다. 뭘 지를까, 생각만으로 이미 설렌다. 세상엔 수많은 지랄이 있고 그중 최고는 단연 ‘돈지랄’이다. \n\n돈지랄이란 말은 오랫동안 나쁜 의미로 쓰였다. 착한 소비, 현명한 소비의 반대말로 통했다. 저자는 이 책을 통해 돈지랄이란 단어의 누명을 벗겨주고 싶었다고 한다. 돈을 쓴다는 건 마음을 쓴다는 것. 돈지랄은 때로 ‘가난한 내 기분을 돌보는 일’이 될 때가 있다. 음식도 이것저것 먹어봐야 내 입에 딱 맞는 간을 찾을 수 있고, 옷도 이 옷 저 옷 입어봐야 내 몸에 착 감기는 걸 찾을 수 있다. 그렇게 헛돈을 쓴 덕분에, 낭비한 덕분에 진짜를 찾았다. 소비 패턴을 들여다보면, 그러니까 카드 내역을 쭉 살펴보면 내가 어디에 비중을 두고 사는지 답이 딱 나온다고 한다. 외면하고 싶은 진짜 내 욕망이 그 안에 숨어 있다.”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Drunken Editor(드렁큰에디터)",
+                "DDC": "",
+                "UPDATE_DATE": "20200526",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "신예희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*170",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "175 p.",
+                "CONTROL_NO": "CIP2020016615",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197035203",
+                "INPUT_DATE": "20200422",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "돈지랄의 기쁨과 슬픔",
+                "PUBLISH_PREDATE": "20200525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

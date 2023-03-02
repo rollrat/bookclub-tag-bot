@@ -1,0 +1,67 @@
+{
+    "otitle": "나만의 사적인 미술관",
+    "oauthor": "김내리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나만의 사적인 미술관 (언제 어디서든 곁에 두고 꺼내 보는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466571727",
+                "image": "https://shopping-phinf.pstatic.net/main_3246657/32466571727.20221229073606.jpg",
+                "author": "김내리",
+                "discount": "15560",
+                "publisher": "카시오페아",
+                "pubdate": "20201222",
+                "isbn": "9791190776288",
+                "description": "52 WEEKS 52 ARTS 52 FEELINGS\n나만의 미술 작품을 즐기는 가장 사적인 미술관\n\n전시 모임 커뮤니티 I.ART.U 대표 김내리 작가와 함께하는 52주간의 프라이빗 아트 클래스. 서울시립북서울미술관과 아라리오뮤지엄 인 스페이스 도슨트로도 활발히 활동하고 있는 작가는 이 책에서 화가와 작품의 뒷이야기, 시대상, 사조 등 그림과 관련된 정보를 알차게 전해준다. 더불어 작품 속 인물의 표정과 옷차림, 색감, 표현법 등을 세세하게 훑으며 자신이 느끼고 해석한 감상을 토대로 그림을 새롭게 바라보는 자기만의 사적인 그림 읽기를 해볼 수 있도록 안내한다.\n나만의 사적인 미술관에 들어서면 희망찬 출발을 준비하기 위한 그림, 격정적 로맨스가 담긴 그림, 보기만 해도 미소 지어지는 그림, 스스로를 믿고 나아갈 수 있도록 돕는 그림, 내면을 들여다보게 하는 그림, 인류의 생활상을 보여주는 그림, 깜짝 선물과 같은 그림 등 그저 펼치기만 해도 마음이 평온해지고 하루가 충만해지는 그림 52점을 만나볼 수 있다. 1월부터 12월까지의 그림 여정을 따라가며 계절, 시간, 상황, 기분에 따라 매번 새롭게 보이고 읽히는 그림의 세계에 푹 빠져보자. \n미술관에 가거나 인터넷 검색을 하는 번거로움 없이 언제 어디서나 그림이 필요한 순간 볼 수 있도록 휴대성 높은 판형을 사용했으며, 그림만 골라 보기 용이하도록, 또 편하게 감상할 수 있도록 그림 페이지를 통일시켜 시원시원한 크기로 배치했다. 여기에 앙리 마티스, 에곤 쉴레, 잭슨 폴록, 파울 클레 등 시대의 화가들이 남긴 말을 디자인한 페이지를 사이사이에 넣어 보는 즐거움을 더했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "카시오페아",
+                "DDC": "",
+                "UPDATE_DATE": "20210209",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://blog.naver.com/cassiopeiabo",
+                "AUTHOR": "김내리 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190776288",
+                "INPUT_DATE": "20201117",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "(언제 어디서든 곁에 두고 꺼내보는) 나만의 사적인 미술관",
+                "PUBLISH_PREDATE": "20201222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

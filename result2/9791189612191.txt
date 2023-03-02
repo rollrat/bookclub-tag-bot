@@ -1,0 +1,67 @@
+{
+    "otitle": "매일매일 맛있는 식빵",
+    "oauthor": "서현명 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "매일매일 맛있는 식빵 (식빵으로 만드는 쉽고 간편한 토스트 & 샌드위치 레시피 84)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445363645",
+                "image": "https://shopping-phinf.pstatic.net/main_3244536/32445363645.20221228072850.jpg",
+                "author": "서현명",
+                "discount": "11520",
+                "publisher": "북스고",
+                "pubdate": "20190325",
+                "isbn": "9791189612191",
+                "description": "매번 밥과 국, 찌개, 반찬을 챙겨야 하는 식사는 번거롭고 시간과 노력을 요구한다. 그래서 부엌을 담당하는 사람들은 새벽부터 굽고 끓이고 무쳤다. 하지만 바쁘게 하루하루를 보내는 요즘 사람들은 아침 정도는 가볍게 토스트 한 조각과 커피 한 잔으로 끝낸다. 간단하고 쉽고 바쁜 아침을 절약할 수 있는 토스트를 먹는 방법은 아마도 대부분 비슷할 것이다. 구운 빵에 잼이나 버터를 바르고 커피나 우유, 주스와 함께 먹는다. 하지만 어느 것이 되었든 비슷한 것을 오래하다 보면 질리는 법, 하물며 먹는 것은 더욱 질리는 법이다. \n《매일매일 맛있는 식빵 》 은 시중에서 판매되고 있는 식빵과 일상의 재료를 이용하여 가장 간단하고 쉽게 토스트와 샌드위치 만드는 방법을 담고 있다. 토마토, 버섯, 참치, 달걀, 치즈, 양파 등 어디서나 손쉽게 구할 수 있는 재료를 이용하여 식사, 간식, 디저트, 안주, 다이어트까지 어느 것 하나 놓치지 않고 활용할 수 있도록 구성하였다. 또한 편의점 등에서 쉽게 구할 수 있는 시판 제품을 이용한 토스트와 샌드위치 레시피는 언제, 어디서라도 만들 수 있도록 하였다. 뿐만 아니라 다양한 재료를 이용한 잼 레시피는 식빵을 언제나 맛있게 즐길 수 있도록 도와 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "",
+                "UPDATE_DATE": "20190509",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.booksgo.co.kr",
+                "AUTHOR": "서현명 지음",
+                "SERIES_TITLE": "",
+                "KDC": "594.71",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "117 p.",
+                "CONTROL_NO": "CIP2019009365",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189612191",
+                "INPUT_DATE": "20190311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "매일매일 맛있는 식빵",
+                "PUBLISH_PREDATE": "20190325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

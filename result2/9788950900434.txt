@@ -1,0 +1,89 @@
+{
+    "otitle": "지켜야 하는 아이",
+    "oauthor": "줄리 리 저/배경린 역/김호랑 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:58 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "지켜야 하는 아이 (성장소설로 다시 태어난 6.25전쟁)",
+                "link": "https://search.shopping.naver.com/book/catalog/32936746621",
+                "image": "https://shopping-phinf.pstatic.net/main_3293674/32936746621.20221019131405.jpg",
+                "author": "줄리 리",
+                "discount": "13660",
+                "publisher": "아울북",
+                "pubdate": "20220615",
+                "isbn": "9788950900434",
+                "description": "열세 살 소라, 가혹한 전쟁에서 편견과 맞서 싸우다!\n\n1950년 한반도에서 벌어진 비극적인 전쟁. 열세 살 소라는 부모님, 동생과 함께 피란을 떠난다. 하지만 폭격에 휘말리며 부모님과 헤어지게 된다. 남은 거라곤 소라와 동생 영수뿐. 심지어 영수의 건강은 점점 나빠지고 있다. 소라는 부모님을 다시 만나기 위해 동생을 업고 처절한 전쟁터 속을 헤쳐나간다.\n〈지켜야 하는 아이〉는 한국계 미국 작가 줄리 리가 어머니의 전쟁 경험에 역사적 사실을 덧붙여 쓴 성장 소설이다. 작가는 어머니에 대한 애정과 잊혀가는 역사가 안타까워 소설이라고 밝혔다. 독자는 이 책을 통해 어려움을 극복하는 용기와 불공평한 사회의 억압을 벗어나 진정한 자신을 찾는 법을 배울 수 있다."
+            },
+            {
+                "title": "Brother’s Keeper (『지켜야 하는 아이』 원서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466702171",
+                "image": "https://shopping-phinf.pstatic.net/main_3246670/32466702171.20221227205438.jpg",
+                "author": "",
+                "discount": "24330",
+                "publisher": "Holiday House",
+                "pubdate": "20200721",
+                "isbn": "9780823444946",
+                "description": "With war looming on the horizon and winter setting in, can two children escape North Korea on their own?\n\nNorth Korea. December, 1950.\n\nTwelve-year-old Sora and her family live under an iron set of rules: No travel without a permit. No criticism of the government. No absences from Communist meetings. Wear red. Hang pictures of the Great Leader. Don't trust your neighbors. Don't speak your mind. You are being watched."
+            },
+            {
+                "title": "부모가 주고 싶은 사랑 아이가 원하는 사랑 (부모들이 꼭 지켜야 하는 육아의 기준선)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492670818",
+                "image": "https://shopping-phinf.pstatic.net/main_3249267/32492670818.20221019132120.jpg",
+                "author": "김성은",
+                "discount": "11700",
+                "publisher": "팜파스",
+                "pubdate": "20140225",
+                "isbn": "9788998537401",
+                "description": "부모들이 꼭 지켜야 하는 육아의 기준선을 제시하는『부모가 주고 싶은 사랑 아이가 원하는 사랑』. 저자는 부모들이 부모의 입장에서 아이를 판단하고 이끌려고 하는 오류를 범하는데, 육아에서 중요한 것은 아이가 원하고 아이의 입장에서 생각하는 방식이라고 이야기한다. 이 책에서는 부모들이 주는 사랑의 방향을 점검해 보는 시간을 갖도록 제안한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아울북(북이십일 아울북)",
+                "DDC": "",
+                "UPDATE_DATE": "20220922",
+                "EA_ADD_CODE": "43840",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "지은이: 줄리 리 ;옮긴이: 배경린 ;그린이: 김호랑",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "371 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950900434",
+                "INPUT_DATE": "20220401",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "지켜야 하는 아이",
+                "PUBLISH_PREDATE": "20220615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

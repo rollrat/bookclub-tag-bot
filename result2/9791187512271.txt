@@ -1,0 +1,67 @@
+{
+    "otitle": "나를 쉬게 하는 연습",
+    "oauthor": "황미구 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나를 쉬게 하는 연습 (오늘도 지나치게 애쓴 당신의 마음을 풀어주는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464087299",
+                "image": "https://shopping-phinf.pstatic.net/main_3246408/32464087299.20221019142928.jpg",
+                "author": "황미구",
+                "discount": "13500",
+                "publisher": "앵글북스",
+                "pubdate": "20180327",
+                "isbn": "9791187512271",
+                "description": "건강한 쉼을 통해 삶을 변화시키다!\n\n자신이 처한 환경 속에서 방전된 마음을 스스로 들여다보고 회복시키는 구체적인 상황과 현실적인 방법을 소개하는 『나를 쉬게 하는 연습』. 국내 최고 심리전문가 중 한 명인 황미구는 25년간 1만 시간을 넘게 실제 상담을 해오면서 어떻게 하면 자기만의 속도로 밸런스를 잃지 않고 우리가 살아갈 수 있는지를 고민해왔다. 저자는 복잡하고 급하게 돌아가는 이 현실에서 자신을 지키기 위해서는 무엇보다 ‘나를 쉬게 하는 힘’을 길러야 한다고 주장한다.\n\n타인을 이해하기 위해 많은 시간과 에너지를 쓰면서 정작 나 자신을 이해하고 사랑하는 데에는 인색했던 우리에게 ‘자신을 쉬게 하기 위해서 당신은 얼마나 노력 했는가’라는 질문을 던지면서 내면에 감춰져 있던 상처와 분노, 우울감 등의 진짜 원인을 마주할 수 있도록 돕고, 그로 인해 혼란스러워진 내면과 관계에서 한 걸음 떨어져 스스로 바로설 수 있는 계기를 마련해준다.\n\n주변에서 흔히 볼 수 있는 고민과 현실적이고 심리적인 문제들을 마치 일대일 상담을 하듯 상세히 풀어내면서 이를 통해 독자 스스로가 자신의 상태를 되돌아보게 하는 한편, 내면에 존재하는 불편한 상황을 벗어나기 위해 바로 실천할 수 있는 나를 쉬게 하는 하루 10분을 덧붙였다. 나아가 단순해보이지만 따라하는 것만으로도 답답한 일상을 환기시켜 줄 수 있는 ‘22일간의 휴 프로젝트’를 별도로 정리하여 독자 스스로 쉬는 힘을 차근하게 기를 수 있도록 이끌어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Angle Books(앵글북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20180405",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황미구 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187512271",
+                "INPUT_DATE": "20180301",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나를 쉬게 하는 연습",
+                "PUBLISH_PREDATE": "20180327",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

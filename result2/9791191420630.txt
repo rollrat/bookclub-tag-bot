@@ -1,0 +1,78 @@
+{
+    "otitle": "나는 왜 너에게 반했을까?",
+    "oauthor": "최승원,임혜진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:56 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나는 왜 너에게 반했을까? (매력적이고 싶은 당신을 위한 관계심리학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456924160",
+                "image": "https://shopping-phinf.pstatic.net/main_3245692/32456924160.20221019125309.jpg",
+                "author": "최승원^임혜진",
+                "discount": "14220",
+                "publisher": "홍익출판미디어그룹",
+                "pubdate": "20211227",
+                "isbn": "9791191420630",
+                "description": "나는 왜 하필 당신에게 반했을까?\n매력을 느끼는 신비를 심리학으로 파헤친다!\n- 매력적이고 싶은 당신을 위한 관계심리학\n\n뮤지컬 〈시카고〉의 모티브가 된 사건으로, 세 명의 여성이 살인죄로 법정에 오른 일이 있었다. 이 중 두 명은 예쁜 얼굴 덕분에 범죄를 저지를 리 없다며 무죄를 선고받았다. 남은 한 명은 초라한 모습 때문에 아무도 무죄를 믿어주지 않았다. 이후 그녀는 예쁘고 세련된 모습으로 메이크 오버하여 결국 무죄를 받아냈다. 자신의 미모를 제대로 활용한다면 목숨까지 살릴 수 있음을 증명한 사례이다. 그렇다면 매력은 잘난 외모로부터 만 나오는 것일까?\n\n우리는 일상적으로 매력을 어필해야 하는 순간을 마주한다. 면접, 프레젠테이션, 소개팅 그리고 모든 인간관계에서 매력은 계속 시험대에 오른다. 하지만 매력이 정확히 무엇이고 어디서 오는지 가르쳐 주는 사람은 없었다. 알듯 말듯 한 매력의 비밀을 밝히기 위해, 심리학자 두 명이 만났다. 저자는 미모 외에도 성격, 태도 등 다양한 요소가 매력에 영향을 끼친다고 말한다. 이 책은 매력이 어디서 만들어지며, 어떻게 증가시킬 수 있는지를 심리학의 눈으로 파헤친다."
+            },
+            {
+                "title": "나는 왜 이토록 너에게 약한가",
+                "link": "https://search.shopping.naver.com/book/catalog/32486483064",
+                "image": "https://shopping-phinf.pstatic.net/main_3248648/32486483064.20221227204835.jpg",
+                "author": "이용현",
+                "discount": "12420",
+                "publisher": "필독(feeldok)",
+                "pubdate": "20210312",
+                "isbn": "9791197187919",
+                "description": "나는 왜 이토록 너에게 약한가\n『사랑과 이별 사이, 을이 되었던 날들의 단상』\n\n사랑이란 이름 앞에선 늘 약자가 된다. \n사람을 사랑하며 을이 되는 경험을 했던 이들에게 권하는 단상집으로 저자가 직접 찍은 사진과 짧은 글을 모아 엮었다. 사랑과 이별 사이, 나도 모르게 약해지는 마음은 상대를 더 많이 아끼고 좋아했기 때문이라고. \n지난 사랑을 되짚어보는 동안, 아물지 않은 상처가 있다면 치유하고 앞으로 더 좋은 사랑을 위해 한 걸음 나아갈 수 있기를.  \n사람으로 연약해진 마음을 어찌할 수 없을 때 전하는 위로의 문장들."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "홍익출판 미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20220203",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최승원,임혜진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*204",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "198 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191420630",
+                "INPUT_DATE": "20211213",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 왜 너에게 반했을까?",
+                "PUBLISH_PREDATE": "20211227",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

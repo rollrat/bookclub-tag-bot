@@ -1,0 +1,67 @@
+{
+    "otitle": "내 마음에 긍정 한 스푼",
+    "oauthor": "신디 스피겔 저/우미정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 마음에 긍정 한 스푼 (하루하루 켜켜이 쌓아가는 지혜와 기쁨, 용기와 감사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473517861",
+                "image": "https://shopping-phinf.pstatic.net/main_3247351/32473517861.20221227203017.jpg",
+                "author": "신디 스피겔",
+                "discount": "13500",
+                "publisher": "마인드빌딩",
+                "pubdate": "20201225",
+                "isbn": "9791190015295",
+                "description": "“나를 비추는 햇살은 나만이 만들 수 있어요”\n당신이 그동안 바라왔던 365일 긍정의 문장들!\n\n저명한 긍정심리학자이자 《긍정의 발견》의 저자인 바버라 프레드릭슨 박사는, 하나의 부정적 생각을 이겨내기 위해서는 적어도 세 가지의 긍정적 생각이 필요하다고 말한다. 긍정적 생각은 깃털, 부정적 생각은 조약돌과 같아서, 우리 뇌에 영향을 주는 부정적 생각에 맞서려면 엄청난 양의 긍정적 생각이 필요하다는 것이다.\n따라서 이 책은 부정적인 경험에 집착하는 모든 생각을 희망과 격려, 용기, 회복력 그리고 가능성으로 탈바꿈할 수 있도록 365가지의 긍정 메시지를 한 권 가득 담아내고 있다. “당신은 이미 너무나 충분한 사람이에요.” “실수해도 괜찮아요. 먼지를 털어내고 계속 나아가세요.” “다른 사람의 인정은 필요 없어요.” “누가 뭐라든 세상 앞에 당당히 서세요.” 그동안 당신이 듣고 싶었던, 절실히 바라왔던 긍정의 문장들을 1월 1일부터 12월 31일까지 365일 동안 꼬박꼬박 마음에 새기다 보면, 고달프고 벅찬 일상에서도 나 자신을 더욱 단단하게 다져갈 수 있을 것이다.\n누구나 어둠 속에서도 빛을 발견하고, 마음 가는 대로 힘껏 뛰어오르며, 있는 그대로의 내 모습을 세상에 보란 듯이 드러낼 수 있다. 매일매일 이 책을 펼쳐 단 한 페이지를 읽을 시간만 있다면 말이다. 당신의 삶을 바꾸는 가장 간단하고도 강력한 마법이 바로 여기에 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마인드빌딩",
+                "DDC": "",
+                "UPDATE_DATE": "20210218",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 신디 스피겔 ;옮긴이: 우미정",
+                "SERIES_TITLE": "",
+                "KDC": "189",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/26/9791190015295.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "262 p.",
+                "CONTROL_NO": "CIP2020050583",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190015295",
+                "INPUT_DATE": "20201126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "내 마음에 긍정 한 스푼",
+                "PUBLISH_PREDATE": "20201225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

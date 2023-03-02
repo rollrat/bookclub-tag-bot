@@ -1,0 +1,67 @@
+{
+    "otitle": "철학적 시 읽기의 즐거움",
+    "oauthor": "강신주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "철학적 시 읽기의 즐거움 (우리 시에 비친 현대 철학의 풍경)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466953070",
+                "image": "https://shopping-phinf.pstatic.net/main_3246695/32466953070.20221019125001.jpg",
+                "author": "강신주",
+                "discount": "7000",
+                "publisher": "동녘",
+                "pubdate": "20100705",
+                "isbn": "9788972976097",
+                "description": "우리 시 21편을 통해 현대 철학을 쉽고 재미있게 배운다!\n\n김수영, 김춘수, 황동규, 황지우, 기형도, 최영미 등 우리에게 친숙한 현대 시인의 시를 통해 현대 철학의 주요 개념을 알기 쉽게 설명한 『철학적 시 읽기의 즐거움』. 노장사상을 전공한 동양철학자이면서 서양철학의 흐름에도 해박한 저자, 강신주는 시는 짧지만, 그 속에 철학책 한 권 못지않은 무한한 고뇌와 사유의 세계를 담고 있다고 말한다. 이 책은 우리에게 신선한 충격과 사고의 전환을 가져다준 들뢰즈, 푸코, 사르트르 같은 현대 철학자들의 사유가 우리 현대 시인들의 시와 어떻게 행복하게 만나는지 보여준다. 그리고 그 철학자들이 고뇌했던 문제들이 우리 현대 시인들이 고민했던 문제들과 다르지 않다는 점을 감각적인 문장으로 녹여낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동녘",
+                "DDC": "102",
+                "UPDATE_DATE": "20100311",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "강신주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "104",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2384199_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2384199_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2384199_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2010000272",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972976097",
+                "INPUT_DATE": "20100126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "철학적 시 읽기의 즐거움",
+                "PUBLISH_PREDATE": "20100205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

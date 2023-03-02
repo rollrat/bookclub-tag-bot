@@ -1,0 +1,67 @@
+{
+    "otitle": "일터의 문장들",
+    "oauthor": "김지수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일터의 문장들 (업의 최고들이 전하는 현장의 인사이트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473942091",
+                "image": "https://shopping-phinf.pstatic.net/main_3247394/32473942091.20230214162525.jpg",
+                "author": "김지수",
+                "discount": "16020",
+                "publisher": "해냄출판사",
+                "pubdate": "20210830",
+                "isbn": "9791167140081",
+                "description": "“달라진 세계에도 한 걸음씩 움직이면 \n당신의 자리는 있다”\n\n1,000만 명이 사랑한 화제의 인터뷰 ‘김지수의 인터스텔라’\n장르 불문 업의 최고 18인에게 듣는 일과 성장, 변화의 인사이트"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20210927",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "김지수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "386 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167140081",
+                "INPUT_DATE": "20210729",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "일터의 문장들",
+                "PUBLISH_PREDATE": "20210830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "고백록 (라틴어 원전 완역판)",
+    "oauthor": "성 아우구스티누스 저/박문재 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고백록(라틴어 원전) (라틴어 원전 완역판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481909786",
+                "image": "https://shopping-phinf.pstatic.net/main_3248190/32481909786.20221229073403.jpg",
+                "author": "아우구스티누스",
+                "discount": "16200",
+                "publisher": "CH북스(크리스천다이제스트)",
+                "pubdate": "20160905",
+                "isbn": "9788944724084",
+                "description": "1,600년 넘게 사랑받아온 역사상 최고의 자서전!\n원문의 묘미를 잘 살린 라틴어 원전 완역판\n\n고백의 본질은 ‘우리의 죄에 관한 것’과 ‘하나님에 대한 찬양’이다. \n\n고백록은 아우구스티누스가 개종한 후 11년 되던 해인 397년 그가 43세 되던 때 출생 후부터 그 당시까지의 그의 전생애의 내면생활의 변화 과정을 적나라하게 파헤쳐 묘사한 “영혼의 자서전”이다. \n\n고백록은 단순한 자서전 이상의 의미를 지닌다. 이는 하나님의 은혜와 선하심에 대한 웅장한 찬양 송이다. 아우구스티누스가 고백하고자 하는 것은 단순히 그의 죄악뿐만은 아니며 위대하신 하나님 의 섭리와 은총에 대한 찬양인 것이다. 그는 자기의 일생을 간섭하신 하나님의 섭리의 손길을 가까이 느끼며 하나님께 감사하며 하나님께로 더욱 가까이 달려갔다. \n\n고백록은 세 가지 부분으로 구분되어 역동적인 구조를 지니게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)크리스챤다이제스트",
+                "DDC": "",
+                "UPDATE_DATE": "20160927",
+                "EA_ADD_CODE": "04230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "성 아우구스티누스",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788944700002",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "520",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788944724084",
+                "INPUT_DATE": "20160817",
+                "SET_EXPRESSION": "",
+                "VOL": "8",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "고백록",
+                "PUBLISH_PREDATE": "20160905",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04230 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

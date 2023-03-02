@@ -1,0 +1,67 @@
+{
+    "otitle": "읽었으면 달라져야 진짜 독서",
+    "oauthor": "서정현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "읽었으면 달라져야 진짜독서 (줄긋고 메모하고 몸으로 기억하는 3단계 의미재구성 독서법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466987070",
+                "image": "https://shopping-phinf.pstatic.net/main_3246698/32466987070.20221019124120.jpg",
+                "author": "서정현",
+                "discount": "12600",
+                "publisher": "북포스",
+                "pubdate": "20180525",
+                "isbn": "9791158150228",
+                "description": "이 책 는 독서의 본질로 돌아가기 위한 제안이다. 서정현 저자는 ‘머리’가 아니라 ‘몸’에 기억시키는 독서가 삶의 본질적 변화를 불러온다고 설명하며 ‘의미재구성 독서법’을 제안한다.  하나의 키워드 중심으로 책을 확장해가는 독서법이나 주제가 무거운 책, 가벼운 책을 병행하여 읽는 독서법도 소개한다. 그리고 이런 이야기들이 시종일관 통찰력 넘치는 문장을 통해 소개된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북포스",
+                "DDC": "028",
+                "UPDATE_DATE": "20180627",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "서정현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "029",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6650476_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "212 p.",
+                "CONTROL_NO": "CIP2018013612",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158150228",
+                "INPUT_DATE": "20180430",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "읽었으면 달라져야 진짜독서",
+                "PUBLISH_PREDATE": "20180525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

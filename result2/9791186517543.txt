@@ -1,0 +1,78 @@
+{
+    "otitle": "오늘부터 여행작가",
+    "oauthor": "채지형,박동식,유정열 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:09 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "오늘부터 여행작가 (여행하고 글쓰고 돈도 버는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455965876",
+                "image": "https://shopping-phinf.pstatic.net/main_3245596/32455965876.20221019105650.jpg",
+                "author": "채지형^박동식^유정열",
+                "discount": "13950",
+                "publisher": "상상출판",
+                "pubdate": "20160302",
+                "isbn": "9791186517543",
+                "description": "『오늘부터 여행작가』는 지금까지 막연하게 여행작가를 꿈꾸던 이들에게 자신의 여행 기록을 세상에 드러낼 수 있도록 도와주는 안내서이다. 이 책은 1장부터 6장까지 여행작가가 된다면 필요한 목표 설정, 글쓰기, 사진 찍기 등을 상세하게 알려준다. 이 책을 통해 어떻게 하면 여행작가로 입문할 수 있고, 글과 사진은 어떻게 해야하고, 독자의 사랑을 받는 책은 어떻게 만드는지 알아볼 수 있다."
+            },
+            {
+                "title": "오늘부터 여행작가(큰글자책) (여행하고 글쓰고 돈도 버는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494068695",
+                "image": "https://shopping-phinf.pstatic.net/main_3249406/32494068695.20221019152141.jpg",
+                "author": "채지형^유정열",
+                "discount": "31500",
+                "publisher": "상상출판",
+                "pubdate": "20210730",
+                "isbn": "9791190938846",
+                "description": "여행가의 로망, 여행작가 데뷔 프로젝트!\n정답은, 오늘부터 여행작가\n-여행작가 꿈꾸기부터 내 책 쓰기까지 원 포인트 레슨!\n-비주얼 폭발 사진 촬영법과 문장력 강화를 위한 여행 글쓰기 실전팁\n-생생한 현장을 담는 취재 노하우부터 마케팅까지 한눈에\n-여행작가 지망생들의 꿈을 이뤄줄 특급 지침서\n\n‘여행하고, 돈도 벌고 부럽다’, ‘에이~ 이런 책은 나도 쓰겠다!’, ‘나도 글쓰고, 사진 찍는 것 좋아하는데 나도 한 번 책이나 써볼까?’ 등등. 서점에 있는 수많은 여행책을 보며 우리가 한 번쯤 해봤을 생각이다. 그렇다면 여행하고, 돈도 버는 여행작가는 어떻게 될 수 있는 걸까? 방법이 알고 싶다면 『오늘부터 여행작가』를 읽어보자. 1장부터 6장까지 여행작가가 된다면 필요한 목표 설정, 글쓰기, 사진 찍기 등을 세세하게 알려준다. 지금까지 막연하게 여행작가를 꿈꿨다면, 이 책은 당신의 여행 기록을 세상에 마음껏 드러낼 수 있는 길잡이가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "808",
+                "UPDATE_DATE": "20160309",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "채지형·박동식·유정열",
+                "SERIES_TITLE": "",
+                "KDC": "802.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5225862_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5225862_3.jpg",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "352",
+                "CONTROL_NO": "CIP2016003826",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186517543",
+                "INPUT_DATE": "20160211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "오늘부터 여행작가 ",
+                "PUBLISH_PREDATE": "20160302",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

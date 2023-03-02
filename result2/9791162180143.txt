@@ -1,0 +1,67 @@
+{
+    "otitle": "궁금했어, 우주",
+    "oauthor": "유윤한 글/배중열 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "궁금했어, 우주 (지동설에서 블랙까지, 우주 발견의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439238646",
+                "image": "https://shopping-phinf.pstatic.net/main_3243923/32439238646.20230216070935.jpg",
+                "author": "유윤한",
+                "discount": "11520",
+                "publisher": "나무생각",
+                "pubdate": "20180108",
+                "isbn": "9791162180143",
+                "description": "십대를 위한 과학 교양책 사이언스 틴스의 1권 《궁금했어, 우주》는 천동설의 시대부터 오늘날에 이르기까지, 우주 연구의 역사와 그 속에서 고군분투했던 과학자들의 이야기를 담고 있습니다. 신이 하늘을 만들었다고 믿었던 옛날 사람들의 생각에서 시작해 천체의 움직임을 관찰하면서 지동설을 발견하고, 중력을 발견하고 다시 별의 탄생과 소멸을 넘어, 우주가 빅뱅에서 시작되었음을 알게 되기까지 수많은 과학자들의 시행착오와 반전을 거듭한 우여곡절의 이야기를 들려줍니다.\n\n특히 스승의 뜻에 따라 천동설을 증명하려 했던 케플러가 결국 지동설을 지지하게 된 이야기, 자신의 지식을 ‘거인의 어깨 위에 앉아 있었기 때문이었다.’고 밝힌 겸손한 뉴턴의 이야기, 천문대에서 짐꾼 일을 하다가 별을 너무 좋아해 훗날 천문학에 훌륭한 업적을 남기게 된 휴메이슨의 이야기, 망원경 한 번 잡아보지 못했지만 수많은 세퍼이드 변광성을 찾아낸 여성 과학자 리비트의 이야기는 흥미로움을 넘어 과학자들에 대한 존경심이 솟아나게 합니다. 또 근대에서 현대에 이르기까지 천문학자들 사이에서 설전이 오고간 ‘정상우주론’과 ‘팽창우주론’의 증명 과정도 무척 흥미롭습니다. 이 책을 통해 독자들이 우주에 대한 새로운 꿈을 가질 수 있기를, 그리고 호기심을 가지고 끊임없이 실험하며 자신의 생각을 갈고 닦는 과정에서 과학적 사고를 키우게 되길 바랍니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20200511",
+                "EA_ADD_CODE": "73440",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 유윤한",
+                "SERIES_TITLE": "",
+                "KDC": "443",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6485146_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6485146_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "160",
+                "CONTROL_NO": "CIP2017034891",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162180143",
+                "INPUT_DATE": "20171207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "궁금했어, 우주",
+                "PUBLISH_PREDATE": "20180108",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

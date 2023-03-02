@@ -1,0 +1,67 @@
+{
+    "otitle": "동유럽 셀프트래블(2022-2023)",
+    "oauthor": "박정은,장은주 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "동유럽 셀프트래블(2022-2023) (믿고 보는 해외여행 가이드북)",
+                "link": "https://search.shopping.naver.com/book/catalog/33176502620",
+                "image": "https://shopping-phinf.pstatic.net/main_3317650/33176502620.20230131165224.jpg",
+                "author": "박정은^장은주",
+                "discount": "17550",
+                "publisher": "상상출판",
+                "pubdate": "20220705",
+                "isbn": "9791167820051",
+                "description": "동유럽 여행을 위한 No.1 가이드북\n체코, 오스트리아, 헝가리 등 동유럽 8개국 가이드 2022-2023 최신판!\n프라하, 빈, 부다페스트, 두브로브니크, 류블랴나 등 각국의 주요 도시 안내\n여행에 도움이 될 지역별 상세 지도 & 추천 루트 제공\n코로나19에 대응하는 동유럽 안전 여행 가이드 포함"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20220727",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박정은,장은주 지음",
+                "SERIES_TITLE": "셀프트래블 2015",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186517109",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "601 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167820051",
+                "INPUT_DATE": "20220617",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(셀프트래블) 동유럽",
+                "PUBLISH_PREDATE": "20220705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

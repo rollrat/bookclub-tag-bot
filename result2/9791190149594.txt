@@ -1,0 +1,67 @@
+{
+    "otitle": "셜록 홈스의 과학수사",
+    "oauthor": "스튜어트 로스 저/박지웅 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "셜록 홈스의 과학수사 (홈스의 시선이 머무는 현장에는 과학이 따라온다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444878175",
+                "image": "https://shopping-phinf.pstatic.net/main_3244487/32444878175.20230217105621.jpg",
+                "author": "스튜어트 로스",
+                "discount": "14400",
+                "publisher": "하이픈",
+                "pubdate": "20210508",
+                "isbn": "9791190149594",
+                "description": "과학의 시대에 나타난 영웅, 과학 탐정 셜록 홈스!\n홈스는 왜 범죄 사건에 과학을 더했을까?\n\n오랫동안 많은 셜로키언의 사랑을 받으며 지금까지도 ‘홈스’ 열풍을 일으키는 과학 탐정, 셜록 홈스! 과학과 기술이 발전하고, 과학이 존중받는 시절에 활동한 홈스와 그를 창조한 작가, 아서 코난 도일의 초기 일생을 시대상으로 고려한 관점에서 살펴볼 수 있다. \n또한 이 책은, 홈스가 왜 ‘과학 탐정’으로 불리게 되었는지, 현재까지 많은 프로파일링에 쓰이는 수사 기법 등 셜로키언 관련 자료를 하나로 묶어 역사적 맥락에서 살피는 데 그 목적이 있다. 『셜록 홈스의 과학수사』는 시대를 고려한 셜록 홈스의 과학과 시간의 진전에 따른 수사 기법 그리고 기술의 발전을 다루고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하이픈 :다온북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210622",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "없음",
+                "AUTHOR": "스튜어트 로스 지음 ;박지웅 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/26/9791190149594.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190149594",
+                "INPUT_DATE": "20210426",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "셜록홈스 과학수사",
+                "PUBLISH_PREDATE": "20210508",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

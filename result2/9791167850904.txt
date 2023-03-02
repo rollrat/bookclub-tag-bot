@@ -1,0 +1,67 @@
+{
+    "otitle": "저는 부모님을 요양병원에 모시려고 합니다",
+    "oauthor": "김영맘 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "저는 부모님을 요양병원에 모시려고 합니다 (요양병원 한의사가 10년간 환자의 생로병사를 지켜본 삶의 기록!)",
+                "link": "https://search.shopping.naver.com/book/catalog/35419849630",
+                "image": "https://shopping-phinf.pstatic.net/main_3541984/35419849630.20221027194534.jpg",
+                "author": "김영맘",
+                "discount": "14400",
+                "publisher": "설렘(SEOLREM)",
+                "pubdate": "20221110",
+                "isbn": "9791167850904",
+                "description": "미래에 진정한 노후를 맞이한 나는 \n자신과 가족을 위해 어떤 결정을 내릴 것인가?\n요양병원 한의사가 10년간 환자의 생로병사를 지켜본 삶의 기록!\n\n10년 전, 30대였던 젊은 청년은 요양병원에서 진료를 시작하면서 처음으로 인간의 노후를 직면하게 됩니다. 그간 의료봉사와 한의원에서 근무하며 연세가 있는 환자분들을 많이 만난 터였습니다. 그러나 그분들은 걸어오거나 차를 타고 와서 자신의 상태를 말로 설명하고, 진료받기 위해 몸을 움직일 수 있는 능력이 있는 분들이었습니다. 엄밀히 말해, 연배가 있는 청년들이셨죠. 저는 진정한 노후란, 이러한 시절이 끝나고, 누군가의 도움 없이는 일상생활이 힘든 시기부터 임종 직전까지의 기간이라고 생각합니다. 바로 이 책에서 함께 이야기 나누고 싶은 요양병원에서의 시간입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "설렘 :슬로디미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20230116",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김영맘 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221110",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/10/9791167850904.png",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "204 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167850904",
+                "INPUT_DATE": "20221014",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "저는 부모님을 요양병원에 모시려고 합니다",
+                "PUBLISH_PREDATE": "20221110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

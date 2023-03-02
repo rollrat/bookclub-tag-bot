@@ -1,0 +1,78 @@
+{
+    "otitle": "웹소설 작가 1일차입니다",
+    "oauthor": "허도윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:50 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "웹소설 작가 1일차입니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32455966131",
+                "image": "https://shopping-phinf.pstatic.net/main_3245596/32455966131.20221229072457.jpg",
+                "author": "허도윤",
+                "discount": "10800",
+                "publisher": "행성B",
+                "pubdate": "20210428",
+                "isbn": "9791164711437",
+                "description": "누구나 될 수 있지만, 아무나 돈 벌기는 힘든 웹소설 작가의 세계\n\n우연히 읽은 웹소설에 위로받은 ‘알못’이 한 달에 한 권, 웹소설을 출간하는 전업 작가가 되기까지 우왕좌왕 헤매며 얻은 생존 꿀팁 고백서이다. 로맨스 웹소설 작가 허도윤은 현재 찰진 문체, 고퀄다작, 방대한 스케일?의 로맨스 달인이라 불리지만, 한때 작가걸음마방에서 무료연재를 전전하며 출판사의 거절을 일상으로 받아들였다. \n《웹소설 작가 1일차입니다》에서는 웹소설 꿈나무가 현실 웹소설 작가가 되기까지 터득한 작품 쓰는 법, 투고하는 법, 키워드 활용법, 거절과 ★ 1개에 초연해지는 법, 공모전 활용법 등을 깨알같이 담았다. 또 작품에 얽힌 비하인드 스토리와 함께 ‘이렇게 하면 망함’을 솔직히 오픈, 웹소설의 세계를 숨김없이 보여준다."
+            },
+            {
+                "title": "웹소설 작가 1일차입니다(큰글씨책) (느닷없이 웹소설을 만나 다행으로 웹소설 작가가 된 허도윤의 로맨스 입문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436246076",
+                "image": "https://shopping-phinf.pstatic.net/main_3243624/32436246076.20221019142058.jpg",
+                "author": "허도윤",
+                "discount": "22500",
+                "publisher": "행성B",
+                "pubdate": "20211228",
+                "isbn": "9791164711673",
+                "description": "누구나 될 수 있지만, 아무나 돈 벌기는 힘든 웹소설 작가의 세계\n\n우연히 읽은 웹소설에 위로받은 ‘알못’이 한 달에 한 권, 웹소설을 출간하는 전업 작가가 되기까지 우왕좌왕 헤매며 얻은 생존 꿀팁 고백서이다. 로맨스 웹소설 작가 허도윤은 현재 찰진 문체, 고퀄다작, 방대한 스케일?의 로맨스 달인이라 불리지만, 한때 작가걸음마방에서 무료연재를 전전하며 출판사의 거절을 일상으로 받아들였다. \n《웹소설 작가 1일차입니다》에서는 웹소설 꿈나무가 현실 웹소설 작가가 되기까지 터득한 작품 쓰는 법, 투고하는 법, 키워드 활용법, 거절과 ★ 1개에 초연해지는 법, 공모전 활용법 등을 깨알같이 담았다. 또 작품에 얽힌 비하인드 스토리와 함께 ‘이렇게 하면 망함’을 솔직히 오픈, 웹소설의 세계를 숨김없이 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "행성B(행성비)",
+                "DDC": "",
+                "UPDATE_DATE": "20210618",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "지은이: 허도윤",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "115*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "151 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164711437",
+                "INPUT_DATE": "20210408",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "웹소설 작가 1일차입니다",
+                "PUBLISH_PREDATE": "20210428",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

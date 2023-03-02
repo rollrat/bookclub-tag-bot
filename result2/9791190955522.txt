@@ -1,0 +1,67 @@
+{
+    "otitle": "신양반사회",
+    "oauthor": "김은희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "신양반사회 (586, 그들이 말하는 정의란 무엇인가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483780731",
+                "image": "https://shopping-phinf.pstatic.net/main_3248378/32483780731.20230218110507.jpg",
+                "author": "김은희",
+                "discount": "13770",
+                "publisher": "생각의힘",
+                "pubdate": "20220304",
+                "isbn": "9791190955522",
+                "description": "문화인류학자가 바라본 21세기 신양반사회\n\n586과 양반 이데올로기는\n어떻게 한국 사회를 지배하는가!\n\n여기, ‘유교’라는 해묵은 듯 해묵지 않은 키워드를 통해 오늘날 한국 사회를 낱낱이 해부하는 책이 출간되었다. 저자 김은희는 정치와 도덕이 분리되지 않았던 조선시대 양반사회를 떠받친 성리학적 인식체계가 여전히 살아 숨 쉬고, 재현되고, 재생산되는 작금의 현실에 주목하고 이를 ‘신양반사회’라 명명한다. \n\n책은 문화적 개념으로서의 ‘양반’을 돌아보며, ‘아무개 자손’이라는 정체성을 필두로 우리에게 ‘조상’은 무엇인지 알아본다. 제도로서의 양반체제는 역사의 뒤안길로 사라진 지 오래다. 그러나 사회의 지도층, 요컨대 민주화 투쟁을 주도하고 지금은 현실 정치의 견인 세력인 586세대를 관통하는 지배 정서로 강건하게 살아남았다. 한국 사회에 뿌리내린 독특한 멘탈리티의 기원을 찾아, 문화인류학적 고찰을 담아낸 《신양반사회》다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각의힘",
+                "DDC": "",
+                "UPDATE_DATE": "20220329",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.tpbook.co.kr",
+                "AUTHOR": "김은희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190955522",
+                "INPUT_DATE": "20220125",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "신양반사회",
+                "PUBLISH_PREDATE": "20220304",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

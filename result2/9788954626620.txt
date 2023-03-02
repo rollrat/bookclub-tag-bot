@@ -1,0 +1,67 @@
+{
+    "otitle": "느린 죽음",
+    "oauthor": "에밀리 C. 저드슨 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아버지는 그렇게 작아져간다 (길고 느린 죽음의 여정에서 우리가 할 수 있는 것들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467043651",
+                "image": "https://shopping-phinf.pstatic.net/main_3246704/32467043651.20221019105919.jpg",
+                "author": "이상운",
+                "discount": "11700",
+                "publisher": "문학동네",
+                "pubdate": "20141211",
+                "isbn": "9788954626620",
+                "description": "죽음으로 향하는 아버지와 아들의 첫 경험, 그 특별한 3년의 기록\n\n『아버지는 그렇게 작아져간다』는 어느 날 갑자기 아프기 시작해 급격히 허물어진 아버지로 인해 죽어가는 인간의 시간을 적나라하게 경험한 아들의 기록이다. 죽어가는 초고령 노인을 ‘관리’하고 길들이려는 의료환경에 좌절하고, 현실감각을 서서히 잃어가는 아버지의 기저귀를 묵묵히 갈며 언젠가 내게도 무심히 닥칠 늙음과 죽음을 생각하며 보낸 3년 반의 기록을 담았다. \n\n저자 이상운은 제11회 문학동네작가상을 수상하고, 현대사회의 인간군상을 예리하게 묘사하는 작품을 주로 썼다. 그는 인생의 마지막 여정에 들어선 아버지를 돌보기 위해 종합병원과 요양병원을 찾지만, 죽어가는 인간을 ‘관리하고 길들여야 하는’ 대상으로 여기는 차가운 의료환경 속에 극도로 불안해하는 아버지를 맡길 수 없다는 결론에 이른다. 결국 그는 아버지가 불편한 병원 침대 위가 아닌 ‘당신 집의 당신의 이부자리’에서, 익숙한 ‘삶의 터전과 감정적 유대’ 속에서 생을 마감할 수 있도록 자신이 직접 아버지를 돌보기로 한다. \n\n‘죽음’으로 향하는 과정은 당사자인 아버지에게도 첫 경험이지만, 그 곁에서 도움을 주는 저자에게도 철저히 첫 경험이었다. 그는 이 특별한 3년 반의 여정을 통해 노화, 질병, 죽음의 고통으로 무너져가는 인간의 애처로운 모습과 그 속에서 발하는 아버지와의 애잔한 교감을 생생하게 그려낸다. 더불어 죽어가는 자의 곁을 지키는 일의 육체적 정신적 괴로움을 비롯해 사회적 제도적 열악함을 온몸으로 겪어내며, 우리 모두에게 언젠가는 닥칠 그 죽음의 과정에 대비해 무엇을 고민하고 준비해야 할지 현실적이고도 날카로운 사유를 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)문학동네",
+                "DDC": "895.745",
+                "UPDATE_DATE": "20150106",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.munhak.com",
+                "AUTHOR": "이상운",
+                "SERIES_TITLE": "",
+                "KDC": "814.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4147916_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4147916_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014034240",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954626620",
+                "INPUT_DATE": "20141124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아버지는 그렇게 작아져간다",
+                "PUBLISH_PREDATE": "20141211",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

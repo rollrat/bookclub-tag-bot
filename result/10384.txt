@@ -1,0 +1,56 @@
+{
+    "otitle": "전기 전자 통신 공학수학",
+    "oauthor": "이정재 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:29 +0900",
+        "total": 4,
+        "start": 1,
+        "display": 4,
+        "items": [
+            {
+                "title": "공학수학(전기전자 통신 계측제어계열)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487126975",
+                "image": "https://shopping-phinf.pstatic.net/main_3248712/32487126975.20221019124324.jpg",
+                "author": "신윤기",
+                "discount": "24250",
+                "publisher": "GS인터비전",
+                "pubdate": "20150125",
+                "isbn": "9791155760512",
+                "description": "이 책은 기존의 공학수학에서는 거의 다룰 여지가 없었던 디지털 신호처리 분야의 수학을 과감히 도입하였다. 기존의 공학수학이 위주로 하는 것은 아날로그 시스템 해석에 필요한 미분 방정식, 라플라스 변환, 푸리에 변환 및 벡터 미적분 등이다."
+            },
+            {
+                "title": "공학수학 (전기.전자.통신 공학도를 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/33435246755",
+                "image": "https://shopping-phinf.pstatic.net/main_3343524/33435246755.20221230074233.jpg",
+                "author": "최동유^노순국^노진수",
+                "discount": "6300",
+                "publisher": "태영문화사",
+                "pubdate": "20100222",
+                "isbn": "9788963540276",
+                "description": "공학을 공부하는 4년제 대학 및 전문대학 학생들이 흥미있고 손쉽게 공학수학을 이해할 수 있도록 펴낸 책이다. 특히 전자, 전기, 통신공학 분야 교과과정에 적합하도록 편성하였으며 공학수학에 대한 기본 개념과 함께 전공분야와 관계있는 예제와 문제를 다루어 학생 스스로 명확히 이해하고 습득함으로써 응용력을 기를 수 있도록 하였다. 또한 각 장마다 엄선된 연습문제를 선정 배열하여 전공과목의 실제 면에서 효용성을 중요시 했다."
+            },
+            {
+                "title": "공학수학 (전기.전자.통신)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463356564",
+                "image": "https://shopping-phinf.pstatic.net/main_3246335/32463356564.20220527043737.jpg",
+                "author": "이정재",
+                "discount": "25000",
+                "publisher": "두양사",
+                "pubdate": "20080310",
+                "isbn": "9788975282157",
+                "description": "수학을 기술자 앞에 나타나는 문제점 하나하나를 해결할 수 있는 도구로 활용할 수 있도록 돕는 책이다. 이 책은 기초 수학능력이 떨어지는 학생을 위한 미분과 적분을 포함시켜 좀 더 이해하기가 용이 하도록 하였다."
+            },
+            {
+                "title": "공업수학 (전기.전자.통신.계열, 제2판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32488827287",
+                "image": "https://shopping-phinf.pstatic.net/main_3248882/32488827287.20221227205029.jpg",
+                "author": "김성덕",
+                "discount": "13160",
+                "publisher": "복두출판사",
+                "pubdate": "20150720",
+                "isbn": "9791186541678",
+                "description": "▶ 이 책은 공업수학(전기 전자 통신 계열)을 다룬 이론서입니다. 공업수학(전기 전자 통신 계열)의 기초적이고  전반적인 내용을 학습할 수 있도록 구성했습니다."
+            }
+        ]
+    }
+}

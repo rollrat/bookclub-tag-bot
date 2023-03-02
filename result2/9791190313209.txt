@@ -1,0 +1,67 @@
+{
+    "otitle": "좋은 패스는 달리는 사람에게 날아간다",
+    "oauthor": "오하 저/조자까 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋은 패스는 달리는 사람에게 날아간다 (7년 차 카피라이터가 전쟁 같은 회사에서 나를 지키며 일하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485837640",
+                "image": "https://shopping-phinf.pstatic.net/main_3248583/32485837640.20221228074544.jpg",
+                "author": "오하",
+                "discount": "11700",
+                "publisher": "웨일북",
+                "pubdate": "20200211",
+                "isbn": "9791190313209",
+                "description": "좋아하는 일을 '직장'에서 할 수 있다면 그 무엇이든 감수할 수 있었던 당신, 하지만 현실은 녹록지 않다. 기대와 현실의 정반대를 온몸으로 겪게 된다. 폭탄급 업무와 넘치는 '까임', 연예인급 일정으로 퇴사라는 마지막 탈출구 앞에서 고민에 빠진다. \n\n\n\n때맞춰 퇴사가 유일한 해결책이라는 책들이 쏟아지고 어느 순간 회사 일 빼고 무엇이든 할 수 있겠다는 자신감이 생긴다. 하지만 퇴사를 선택한 사람처럼 대단한 계획이 있다거나 큰 재산이 있는 것도 아니다. 결국 '나'를 어르고 달래서 회사에 보내는 게 현실이다. 그렇게 '버티기'로 자신을 회사에 남겨둔 채 돌아버릴 것 같은 순간을 보낸다.  \n\n\n\n하지만 버티겠다는 마음만으로는 회사에서 '미치고 환장할 것 같은 순간'을 견딜 수 없다. 나를 지키며 회사에 다니는 방법이 필요하다. 이때 필요한 건 바로 생각의 전환이다. 회사에 남은 당신에게는 하나의 기회도 함께 주어진다는 사실을 깨달아야 한다. 바로 좋아하는 일을 계속할 수 있다는 것, 그로 인해 '내 일'을 해낼 수 있다는 기회다. 시간이 지나면 알게 된다. 여전히 자신의 자리에 남아 있는 사람에게만 해내는 순간이 오기 마련이라는 걸. \n\n\n\n이 책은 해낼 수 있는 '패스'는 회사라는 '필드'에 남아 있을 때 가능하다고 말해준다. 꿀 바른 말 없이, 현실을 그대로 그려내 공감을 불러일으킨 뒤, 기어이 좋아하는 일을 지킬 수 있는 용기를 준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Whale Books(웨일북)",
+                "DDC": "",
+                "UPDATE_DATE": "20200225",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "오하 글 ;조자까 그림",
+                "SERIES_TITLE": "",
+                "KDC": "325.704",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "CIP2020003295",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190313209",
+                "INPUT_DATE": "20200122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "좋은 패스는 달리는 사람에게 날아간다",
+                "PUBLISH_PREDATE": "20200211",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

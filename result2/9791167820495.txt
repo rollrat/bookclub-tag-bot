@@ -1,0 +1,67 @@
+{
+    "otitle": "가끔 집은 내가 되고",
+    "oauthor": "슛뚜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가끔 집은 내가 되고 (나를 숨 쉬게 하는 집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32451854960",
+                "image": "https://shopping-phinf.pstatic.net/main_3245185/32451854960.20221019142359.jpg",
+                "author": "슛뚜",
+                "discount": "12960",
+                "publisher": "상상출판",
+                "pubdate": "20220117",
+                "isbn": "9791167820495",
+                "description": "누적 조회수 4700만 뷰, 95만 명의 구독자가 애정한 유튜버 슛뚜\n감각적인 일상을 기록해온 저자가\n공간의 감각에 대하여 말하다\n\n감각적인 영상으로 소소하지만 특별한 하루를 담아내는 유튜버 슛뚜. 이번에는 그가 공간의 가치를 기록한 에세이로 마음의 문을 두드린다. 문을 열고 들어서면 지나온 공간과 자리를 돌아보고, 또 자신만의 취향으로 공간을 구성하며 자아를 확립하는 저자를 만날 수 있다. \n하루를 시작하고 끝내는 공간, 집으로부터 우리는 막대한 영향을 받게 된다. 반대로 우리가 어떤 삶을 살아가고 있는지를 가장 잘 보여주는 것 또한 ‘집’이나 ‘방’처럼 우리가 머무는 공간이라고 할 수 있다. 때문에 취향의 기쁨을 알거나 취향을 알고도 모른 척할 수밖에 없었던, 혹은 여전히 자신의 취향을 알지 못하는 사람들이라면 누구나 이 책에 공감하게 될 것이다. 《가끔 집은 내가 되고》는 공간과 인간이 서로에게 어떤 존재인지에 관해 고민하며 나아가 진정한 삶의 의미를 찾을 수 있는 책이다. 정적이고 섬세하며 아름다운 글이 당신의 마음을 사로잡을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20220215",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "슛뚜 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167820495",
+                "INPUT_DATE": "20211227",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "가끔 집은 내가 되고",
+                "PUBLISH_PREDATE": "20220117",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

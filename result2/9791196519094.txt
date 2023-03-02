@@ -1,0 +1,67 @@
+{
+    "otitle": "기적의 분식집",
+    "oauthor": "슬리버 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기적의 분식집",
+                "link": "https://search.shopping.naver.com/book/catalog/32492066389",
+                "image": "https://shopping-phinf.pstatic.net/main_3249206/32492066389.20230223071039.jpg",
+                "author": "슬리버",
+                "discount": "12600",
+                "publisher": "몽스북",
+                "pubdate": "20200103",
+                "isbn": "9791196519094",
+                "description": "허름해 보이는 여고 앞 분식집의 평범한 남자 사장님. 어느 날부터 분식집에 손님들이 늘기 시작한다. 신비의 재료로 기적의 음식을 만들어내며 마성의 능력을 발휘하는 분식집 사장님의 정체는? 낮에는 분식집에서, 밤에는 산고양이 딩고와 함께 떠나는 판타지아 대륙 모험기!\n\n그냥 평범한 분식집이 아니다!\n\n허름해 보이는 여고 앞 분식집의 평범한 남자 사장님. \n어느 날부터 분식집에 손님들이 늘기 시작한다. \n신비의 재료로 기적의 음식을 만들어내며 \n마성의 능력을 발휘하는 분식집 사장님의 정체는? \n\n낮에는 분식집에서, \n밤에는 산고양이 ‘딩고’와 함께 떠나는 \n판타지아 대륙 모험기! \n\n현실과 판타지아를 오가며 \n요리 실력은 물론 인생까지 업그레이드되는 \n주인공의 꿈 같은 이야기가 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Mons(몽스북)",
+                "DDC": "",
+                "UPDATE_DATE": "20200122",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "슬리버 지음",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/17/9791196519094.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*206",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "406 p.",
+                "CONTROL_NO": "CIP2019052097",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196519094",
+                "INPUT_DATE": "20191218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "기적의 분식집",
+                "PUBLISH_PREDATE": "20200103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

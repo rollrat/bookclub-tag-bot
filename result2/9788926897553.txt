@@ -1,0 +1,67 @@
+{
+    "otitle": "프롬나드 인 러시아",
+    "oauthor": "김은희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "프롬나드 인 러시아",
+                "link": "https://search.shopping.naver.com/book/catalog/32453749913",
+                "image": "https://shopping-phinf.pstatic.net/main_3245374/32453749913.20221019131834.jpg",
+                "author": "김은희",
+                "discount": "16200",
+                "publisher": "이담북스",
+                "pubdate": "20191227",
+                "isbn": "9788926897553",
+                "description": "“푸시킨의 신혼집부터 톨스토이의 무덤까지.\n   모스크바와 근교의 박물관을 걸으며\n   러시아 예술과 문학의 유산을 만나다.”\n\n모스크바에는 국립 박물관만 65개가 넘고, 모스크바주(州)에는 35개가 넘는 저택-박물관, 보존\n지역-박물관 등이 있다고 하지만 정확한 수치는 역시 알려지지 않았다. 과히 박물관의 나라, 박\n물관의 도시라고 불릴 만하다. 그러므로 매년 수천만 명의 방문객 수를 자랑하는 모스크바 박물\n관들의 세계로 떠나보는 것은 러시아, 러시아 예술, 러시아 문학을 알아가며 러시아인과 소통하\n는 또 하나의 길이고, 결국 인간 본성에 접근해가는 한 가지 방법이 되어줄 것이다.\n‘박물관의 나라 러시아’ 중에서\n\n박물관들로 남은 작가들은 그래도 당대의 평가를 뛰어넘고 시대를 지나 살아남은, ‘위대한’이란\n수식어를 붙일 수 있는 창작자들이다. “위대한 작품은 우리를 가르치지 않으면서 우리를 변화시\n킬 뿐이다”라는 괴테의 말처럼 그들의 작품을 읽는 것만으로도 우리 자신은 변화된다. 그러나\n시대의 평가를 뛰어넘지 못하고 이름도 없이 사그라진 작가들도 허다하다. 그래도 우리는 읽고\n또 쓴다. 누군가의 말처럼 ‘자신을 위해’ 누군가는 읽고 누군가는 쓴다. 목적은 같다. 가고 가다\n보면 그 길 끝에서 결국 자신과 마주하게 될 것이다.\n‘에필로그’ 중에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20200204",
+                "EA_ADD_CODE": "93810",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "김은희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "816.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/01/16/9788926897553.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "309 p.",
+                "CONTROL_NO": "CIP2020002288",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926897553",
+                "INPUT_DATE": "20200116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "프롬나드 인 러시아",
+                "PUBLISH_PREDATE": "20191227",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

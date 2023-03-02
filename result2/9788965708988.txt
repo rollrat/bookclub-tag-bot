@@ -1,0 +1,67 @@
+{
+    "otitle": "그래서 철학이 필요해",
+    "oauthor": "고바야시 쇼헤이 저/김복희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그래서 철학이 필요해 (고민이 너무 많아서, 인생이 너무 팍팍해서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472369536",
+                "image": "https://shopping-phinf.pstatic.net/main_3247236/32472369536.20221230073610.jpg",
+                "author": "고바야시 쇼헤이",
+                "discount": "13500",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20191223",
+                "isbn": "9788965708988",
+                "description": "복잡한 고민, 팍팍한 삶 속에서 만난 위대한 철학자들의 ‘쓸모 있는’ 인생 상담. 일, 일간관계, 자존감, 사랑, 돈, 죽음 등 우리 삶과 밀접하게 닿아 있는 문제들에 대한 철학자 25명의 현실적인 조언을 담았다.\n\n\n\n“하고 싶은 일이 있는데 어디서부터 어떻게 시작해야 좋을지 모르겠다”는 고민에 “하나의 목표도 결국은 아주 작은 단위로 이루어져 있으므로 어려운 일은 분할하라”고 답하는 데카르트, “회사를 그만두고 싶어도 차마 용기가 나지 않는다”는 고민에 ‘움직이지 않고 제자리를 이탈하는 법’을 알려주는 들뢰즈 등 누굴 붙잡고 털어놓아도 좀처럼 후련해지지 않던 고민들을 하나하나씩 해결해준다.\n\n\n\n철학자들의 생애와 비하인드 스토리, ‘알아두면 쓸데 있는 철학 스토리’, 고민 해결을 넘어 우리의 삶을 더욱 풍요롭게 해줄 추천 도서 소개까지 알차게 수록되어 있어 철학의 세계를 조금 더 깊이 탐험하고자 하는 이들에게도 훌륭한 안내서가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20200102",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "고바야시 쇼헤이 지음 ;김복희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "160",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "329 p.",
+                "CONTROL_NO": "CIP2019038950",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965708988",
+                "INPUT_DATE": "20190930",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "그래서 철학이 필요해",
+                "PUBLISH_PREDATE": "20191223",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

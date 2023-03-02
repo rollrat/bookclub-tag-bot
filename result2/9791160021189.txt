@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 소액으로 임대사업해 아파트 55채를 샀다",
+    "oauthor": "이지윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 소액으로 임대사업해 아파트 55채를 샀다 (흙수저로 시작해 부동산 임대사업 고수가 되기까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482009669",
+                "image": "https://shopping-phinf.pstatic.net/main_3248200/32482009669.20221229072433.jpg",
+                "author": "이지윤",
+                "discount": "14400",
+                "publisher": "메이트북스",
+                "pubdate": "20180505",
+                "isbn": "9791160021189",
+                "description": "흙수저로 시작해 부동산 임대사업 고수가 되기까지\n\n소액 아파트 임대사업으로 55채의 아파트를 보유한 고수의 투자일대기와 실전 거래 노하우까지 모두 담은 최고의 투자 지침서다. 최근 각광을 받고 있는 아파트 임대사업에 대해 이렇게 디테일한 경험과 과정을 기록한 책은 이 책이 처음이다. 평생직장은 옛말, 자영업은 겁나는 도박, 주식은 개미의 무덤, 가상화폐는 위험천만한 현실에서 이 책은 서민들에게 한줄기 빛이 될 것이다. 전형적인 흙수저로 사회생활을 시작한 저자는 서민이 돈 벌 길은 소형 임대사업뿐임을 강조하며 소액 자본으로 부동산 임대소득을 얻고자 하는 이들에게 나침반 역할을 하고자 이 책을 집필했다. 경험이 묻어나지 않는 여타의 책들과는 달리 풍부한 실전 사례를 통해 검증된 내용을 알기 쉽게 설명하면서 부동산 임대사업에 관한 중요한 정보들을 소개한다. 노후를 대비하는 장년층뿐만 아니라 제2의 월급으로 임대소득을 얻고자 하는 젊은 세대들에게도 유익할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메이트북스 :원앤원콘텐츠그룹",
+                "DDC": "332.6324",
+                "UPDATE_DATE": "20181218",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "이지윤 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.87",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6628012_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "375 p.",
+                "CONTROL_NO": "CIP2018011669",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160021189",
+                "INPUT_DATE": "20180412",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 소액으로 임대사업해 아파트 55채를 샀다",
+                "PUBLISH_PREDATE": "20180920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "하버드 비즈니스 독서법",
+    "oauthor": "하토야마 레히토 저/이자영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하버드 비즈니스 독서법 (세계 최고 엘리트들은 어떻게 책을 읽을까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482523281",
+                "image": "https://shopping-phinf.pstatic.net/main_3248252/32482523281.20221228074248.jpg",
+                "author": "하토야마 레히토",
+                "discount": "12420",
+                "publisher": "가나출판사",
+                "pubdate": "20180723",
+                "isbn": "9788957369654",
+                "description": "성과를 내는 1%의 비즈니스맨들의 상식을 뛰어넘는 독서법\n“나는 이 독서법으로 5년간 산리오의 \n영업이익을 3배, 시가총액을 7배 성장시켰다!”\n\n이 책은 페이스북의 셰릴 샌드버그, 정치가 미트 롬니와 함께 ‘하버드 경영대학원 졸업생 중 가장 성공한 31인’에 이름을 올린 하토야마 레히토의 성공하는 사람들의 독서법을 담은 책이다. 그는 하버드에서 배운 이 독서법을 현장에서 바로 실천해 독보적인 성과를 냈다. 그가 몸담고 있던 산리오Sanrio의 영업이익을 5년간 약 3배, 시가총액은 약 7배까지 성장시킨 것이다. 산리오를 퇴사한 후에도 LINE, 피죤, 트랜스코스모스, DeNA와 같은 기업의 사외이사로 일하고 있다. 그 회사들 대부분이 크게 성장했다. 작가는 그것이 혼자만의 공로라고 말할 생각은 없다고 말한다. 하지만 급변하는 비즈니스 환경에서 길을 묻는 경영자들과 함께 고민함으로써 방향을 설정하는 데 도움을 주었으리라는 자부심은 가지고 있다고. \n마흔 살 때까지만 해도 평범한 회사원이었던 저자가 인정받는 전문가가 된 데에는 저자만의 독서법이 있었기 때문이다. 바로 이 책에서 소개할 ‘하버드식 독서법’이다. 그동안은 혼자 실천해 온 독서법을 많은 사람에게 참고가 됐으면 하는 마음으로 누구나 쉽게 따라 할 수 있도록 체계화하고 좀 더 정교하게 다듬었다. 이 책을 통해 독서에 대한 관점을 바꾸고, 목적을 새롭게 세우면 당신의 삶에 획기적인 변화가 찾아올 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가나출판사",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20180801",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "하토야마 레히토 지음 ;이자영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6733493_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6733493_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6733493_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*186",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "181 p.",
+                "CONTROL_NO": "CIP2018021185",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957369654",
+                "INPUT_DATE": "20180705",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "하버드 비즈니스 독서법",
+                "PUBLISH_PREDATE": "20180723",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

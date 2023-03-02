@@ -1,0 +1,67 @@
+{
+    "otitle": "비겁한 돈",
+    "oauthor": "황현희,제갈현열 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비겁한 돈 (결국 용기 있는 기회주의자가 부를 얻는다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466563893",
+                "image": "https://shopping-phinf.pstatic.net/main_3246656/32466563893.20230131163957.jpg",
+                "author": "황현희^제갈현열",
+                "discount": "13830",
+                "publisher": "한빛비즈",
+                "pubdate": "20211108",
+                "isbn": "9791157845446",
+                "description": "홍춘욱, 염승환, 김종봉 강력 추천!\n전문가들도 인정한 투자가 황현희의 ‘부의 지름길’\n\n이미 일찌감치 완전한 경제적 독립을 이루어, 아는 사람들 사이에서는 투자 실력자로 알려진 황현희. 그가 개그맨이 아닌 투자가로서 최초로, 전문가들도 놀라며 고개를 끄떡이게 만든 투자의 황금 원칙을 풀어낸다. \n이 책의 핵심 키워드는 ‘비겁함’과 ‘쉼’이다. 첫째, 자신의 실력보다 더 많이 벌고 싶은 ‘비겁한’ 마음을 인정할 것. 둘째, 그러기 위해 투자물의 빅사이클을 이해하고 자신의 투자에 ‘쉬는 기간’을 둘 것. 특히 ‘쉼’은 너무나 필수이지만 그동안 누구도 권하지 않고, 지켜지지 않았던 원칙이다. 당신도 이 책을 덮을 때쯤이면 “지금 당장 투자에서 손을 떼라”는 도발적인 주장에 설득될 수밖에 없을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20220119",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "황현희,제갈현열 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "143*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "248 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157845446",
+                "INPUT_DATE": "20210927",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "비겁한 돈",
+                "PUBLISH_PREDATE": "20211108",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

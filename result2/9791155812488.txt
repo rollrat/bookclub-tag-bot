@@ -1,0 +1,67 @@
+{
+    "otitle": "나만 그런 게 아니었어",
+    "oauthor": "스칼릿 커티스 등저/김수진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나만 그런 게 아니었어 (모든 여성에게는 자기만의 이야기가 있다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494103737",
+                "image": "https://shopping-phinf.pstatic.net/main_3249410/32494103737.20221228074352.jpg",
+                "author": "스칼릿 커티스",
+                "discount": "13320",
+                "publisher": "윌북",
+                "pubdate": "20191227",
+                "isbn": "9791155812488",
+                "description": "오늘을 살아가는 여성들의 이야기다. 단순히 여성이라는 이유로 맞닥뜨리게 되는 불의와 불편함과 불안에 대해, 어떤 생각을 품고 있는지 있는 그대로 털어놓는다. 그 이야기는 세상 여성의 수만큼이나 다양하지만, 모두 나의 이야기로도 귀결된다. \n함부로 나의 몸을 평가받을 때, 늦은 밤 귀갓길이 조마조마할 때, 똑같이 일하고도 임금이 적을 때, 솔직하게 말했을 뿐인데 예민하게 군다고 핀잔 들을 때… 그럴 때마다 느꼈던 감정을 명확한 언어로 써내려가니, 여성을 위한 생각의 지도가 탄생했다. \n여성으로 살아간다는 것이 어떤 의미인지, 내가 가야 할 방향이 어디인지 알고 싶다면, 동시대를 살아가는 여성들의 속내를 들어보라. 책 어딘가에 바로 나의 현재 위치가 있다.\n키이라 나이틀리, 엠마 왓슨, 시얼샤 로넌 등의 할리우드 배우는 물론 10대 활동가, 사업가, 트랜스젠더, 60대 작가 등 52명의 여성이 진솔한 이야기를 들려주었고 작가 은하선과 라디오 PD 장수연까지 목소리를 보탰다. ‘너의 주머니를 채우라’는 엄마, ‘왜 남자만 사장이고, 여자는 사모님인지’ 되묻는 사업가, 여성 혐오의 위험성을 경고하는 작가… 현실의 삶에서 깨달은 진실이 담겨 있어 울림을 전하는 말들로 가득하다. \n출간되자마자 영국 아마존 베스트셀러 1위에 올랐고, 한 해 동안 가장 인기 있는 책에 주는 내셔널 북어워즈에서 Young Adult 분야 1위를 수상했다. 세상 모든 여성과 나누는 공감의 언어를 듣고 각자 자신의 이야기를 시작하시길. 당신이 느낀 모든 것은 틀리지 않았으니까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "",
+                "UPDATE_DATE": "20191231",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "스칼릿 커티스 외 지음 ;김수진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/05/9791155812488.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "329 p.",
+                "CONTROL_NO": "CIP2019046959",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155812488",
+                "INPUT_DATE": "20191118",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나만 그런 게 아니었어",
+                "PUBLISH_PREDATE": "20191227",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

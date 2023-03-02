@@ -1,0 +1,67 @@
+{
+    "otitle": "차트분석 무작정 따라하기(2022년 개정판)",
+    "oauthor": "윤재수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "차트분석 무작정 따라하기 (100만 독자가 인정한 주식 1등 저자의 책, 2022년 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462339279",
+                "image": "https://shopping-phinf.pstatic.net/main_3246233/32462339279.20230218110655.jpg",
+                "author": "윤재수",
+                "discount": "22500",
+                "publisher": "길벗",
+                "pubdate": "20220228",
+                "isbn": "9791165218638",
+                "description": "2022년 新 차트분석 무작정 따라하기\n주식부터 비트코인까지 한 권으로 끝내는 기술적 분석의 교과서!\n100만 독자가 인정한 주식 1등 저자의 책! \n\n『차트분석 무작정 따라하기』는 주식 분야 베스트셀러 1위인 『주식투자 무작정 따라하기』 저자가 쓴 책이다. 40년의 현장 경험과 분석 노하우를 바탕으로 차트분석에 대한 기본적 분석과 기술적 분석을 모두 상세하게 설명하고 있다. 개인투자자들도 쉽고 재미있게 기술적 분석기법을 공부할 수 있도록 실제 투자 전문가가 활용하고 있는 8개의 분석기법을 선정해 「무작정 따라하기」 예제로 구성하였다. \n\n저자가 직접 주식투자에 활용하고 있는 8가지 분석기법에만 주목해도 시장의 흐름과 주가의 흐름을 예측할 수 있을 것이다. ①봉차트, ②추세선과 파동이론, ③이동평균선, ④패턴 분석과 거래량 분석, ⑤MACD, ⑥스토캐스틱, ⑦일목균형표, ⑧볼린저밴드. 이 책을 통해 차트분석의 기초 이론을 쌓고, 실전 예제를 통해 제대로 익혀보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "길벗",
+                "DDC": "",
+                "UPDATE_DATE": "20220607",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.gilbut.co.kr",
+                "AUTHOR": "윤재수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정4판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "395 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165218638",
+                "INPUT_DATE": "20220110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "차트분석 무작정 따라하기",
+                "PUBLISH_PREDATE": "20220228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

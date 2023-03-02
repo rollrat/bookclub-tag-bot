@@ -1,0 +1,67 @@
+{
+    "otitle": "벌레를 밟았다",
+    "oauthor": "김지민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "벌레를 밟았다 (김지민 단편집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445405808",
+                "image": "https://shopping-phinf.pstatic.net/main_3244540/32445405808.20221227203922.jpg",
+                "author": "김지민",
+                "discount": "9900",
+                "publisher": "바람의아이들",
+                "pubdate": "20200315",
+                "isbn": "9791162100592",
+                "description": "청소년 소설의 새 지평을 연 출판사\n바람의아이들이 선보이는 200번째 이야기\n‘일상에 내재한 폭력을 견디고 있는 청소년들을 위하여’\n\n청소년의 마음을 감싸안는 작품을 엄선해 ‘반올림 시리즈’를 이어온 바람의아이들의 200번째 책, 『벌레를 밟았다』가 출간되었다. 『벌레를 밟았다』는 6편의 단편을 모은 소설집으로, 가정폭력, 휴대폰 중독, 성폭력, 또래 친구들과의 경제적 격차 등으로 인해 고민하는 청소년들의 이야기를 담고 있다. 뉴스와 신문에서는 늘 폭력의 자극적인 면만을 부각시키곤 하지만, 사람은 겉으로 드러나는 것보다 보이지 않는 폭력에 무너지는 경우가 더 많다. 어른들보다 제약이 많은 청소년들에게 있어 이러한 폭력은 때때로 삶을 뒤흔드는 깊은 상처를 남긴다. 자신의 존재를 계속해서 부정당할 때, 우리는 어떻게 스스로를 지키는 사람으로 성장할 수 있을까? 『벌레를 밟았다』는 청소년들의 위태로운 일상에 따뜻한 응원을 보내고자 하는 마음을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바람의아이들",
+                "DDC": "",
+                "UPDATE_DATE": "20200504",
+                "EA_ADD_CODE": "44800",
+                "PUBLISHER_URL": "https://www.barambooks.net/",
+                "AUTHOR": "김지민 지음",
+                "SERIES_TITLE": "반올림 시리즈",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788990878045",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "160 p.",
+                "CONTROL_NO": "CIP2020004635",
+                "SERIES_NO": "47",
+                "EA_ISBN": "9791162100592",
+                "INPUT_DATE": "20200203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "벌레를 밟았다",
+                "PUBLISH_PREDATE": "20200315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "루나의 맛있는 테이블",
+    "oauthor": "박하영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "루나의 맛있는 테이블 (요리가 행복해지는 쉬운 레시피와 예쁜 플레이팅)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493599081",
+                "image": "https://shopping-phinf.pstatic.net/main_3249359/32493599081.20221228072556.jpg",
+                "author": "박하영",
+                "discount": "13320",
+                "publisher": "비타북스",
+                "pubdate": "20160405",
+                "isbn": "9791158460754",
+                "description": "카카오스토리 17만 구독자, 네이버 블로그 1000만 방문자가 극찬한\n[루나의 맛있는 오후] 인기 레시피를 만나보세요.\n반찬과 국&찌개, 일품 요리, 레스토랑 메뉴, 간식과 저장식을 쉬운 레시피로 예쁘게 차려내는 방법은 ‘어려울 것’이라고 생각하기 마련이다. 이에 연재 1년 만에 카카오스토리 17만 구독자와 네이버 블로그 1000만 명이 믿고 따라 하는 [루나의 맛있는 오후]가 나섰다. 누가 따라 해도 맛을 낼 수 있으며, 입과 눈으로 보고 즐기는 아름다운 요리를 소개한다. 이 책에 담긴 레시피들은 요리에 자신이 없는 사람, 할 줄 아는 몇 개의 요리를 반복해 먹는 일에 지친 사람에게 다양한 요리들을 쉽고 간단히 만들게 하는 비법을 담고 있다. 손쉬운 레시피뿐 아니라 예쁘게 만들고 담아낼 수 있는 방법도 눈여겨볼 만하다. 요리가 일상의 행복이 되는 《루나의 맛있는 테이블》을 만나보자. 혼자서도 맛있고 근사하게 먹을 수 있으며, 사랑하는 사람과 멋진 추억을 쌓을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20160406",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "박하영",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5313116_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5313116_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 300페이지 내외",
+                "CONTROL_NO": "CIP2016007547",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158460754",
+                "INPUT_DATE": "20160318",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "루나의 맛있는 테이블",
+                "PUBLISH_PREDATE": "20160405",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

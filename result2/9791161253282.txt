@@ -1,0 +1,67 @@
+{
+    "otitle": "그래서 작사가 되려면",
+    "oauthor": "안영주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그래서 작사가 되려면 (책으로 듣는 K-POP 작사 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445262922",
+                "image": "https://shopping-phinf.pstatic.net/main_3244526/32445262922.20230110163618.jpg",
+                "author": "안영주",
+                "discount": "14400",
+                "publisher": "더디퍼런스",
+                "pubdate": "20211210",
+                "isbn": "9791161253282",
+                "description": "실제 K-POP 작사 수업 커리큘럼 그대로!\n《그니까 작사가 뭐냐면》후속 실전 연습서\n\nK-POP 한류 열풍으로 작사를 배우려고 하는 연령층도, 직업군도 다양해지고 있다. \n“작사를 취미로 해 보고 싶은데 뭐부터 해야 하지?” \n“작사가가 되려면 어떻게 공부해야 할까?” \n\n많은 사람들이 이에 대한 해답을 찾기 위해 관련 책이나 작사 학원을 찾는다. 그런 점에서 기획된 안영주 작사가의 첫 번째 책《그니까 작사가 뭐냐면》은 막연했던 작사가 친숙해지고, 작사법에 대해 1대 1 수업을 받는 것처럼 친절한 길잡이가 되어 주었다. 이제 작사의 개념을 알고, 공부법에 대해 파악했다면 실전 연습을 치열하게 해 보며 작사가 데뷔까지 한 발 더 다가서야 하는 단계이다. \n작사 학원에 등록하거나 여러 기관에서 진행하는 작사 특강을 듣는 방법이 가장 빠르겠지만 여건이 되지 않는다고 해서 포기할 필요는 없다. 두 번째 책《그래서 작사가 되려면》은 저자가 실제 교육청 산하기관과 중고등학교에서 진행하는 청소년 진로 체험 특강, 소속사에서 하는 작사 강의 커리큘럼을 그대로 구현했기 때문이다. \n이 책에서 공유하는 커리큘럼이 작사가를 향한 여정에 페이스메이커가 되어 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더 디퍼런스",
+                "DDC": "",
+                "UPDATE_DATE": "20220125",
+                "EA_ADD_CODE": "13670",
+                "PUBLISHER_URL": "http://www.thedifference.co.kr",
+                "AUTHOR": "안영주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "264 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161253282",
+                "INPUT_DATE": "20211122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "그래서 작사가 되려면",
+                "PUBLISH_PREDATE": "20211210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

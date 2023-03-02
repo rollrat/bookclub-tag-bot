@@ -1,0 +1,67 @@
+{
+    "otitle": "비즈니스 영어 100일의 기적",
+    "oauthor": "김영진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비즈니스 영어 100일의 기적 (100일 후에는 나도 영어로 말한다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442158891",
+                "image": "https://shopping-phinf.pstatic.net/main_3244215/32442158891.20221019132145.jpg",
+                "author": "김영진",
+                "discount": "12150",
+                "publisher": "넥서스",
+                "pubdate": "20160105",
+                "isbn": "9791157525836",
+                "description": "『비즈니스 영어 100일의 기적』은 비즈니스 상황에 대처할 수 있는 영어를 모두 담았다. 다년간의 실무 경험자만 알 수 있는 비즈니스 상황 총정리. 직장인 맞춤 영어 공부법, 직장인이라면 꼭 알아야 할 단어까지 학습할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)넥서스",
+                "DDC": "651.7",
+                "UPDATE_DATE": "20160226",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "김영진",
+                "SERIES_TITLE": "",
+                "KDC": "325.489",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5093303_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5093303_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240",
+                "CONTROL_NO": "CIP2015034239",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157525836",
+                "INPUT_DATE": "20151211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "비즈니스영어 100일의 기적",
+                "PUBLISH_PREDATE": "20160110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

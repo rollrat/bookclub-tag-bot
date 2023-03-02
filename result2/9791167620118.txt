@@ -1,0 +1,67 @@
+{
+    "otitle": "냥글냥글 책방",
+    "oauthor": "김화수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "냥글냥글 책방 (책 팔아 고양이 모시고 삽니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32471592468",
+                "image": "https://shopping-phinf.pstatic.net/main_3247159/32471592468.20230207165329.jpg",
+                "author": "김화수",
+                "discount": "13500",
+                "publisher": "꿈의지도",
+                "pubdate": "20211025",
+                "isbn": "9791167620118",
+                "description": "무용하고 아름다운 ‘책과 고양이’의 냥글냥글 동거 이야기. 통영에 가면 책과 고양이가 있는 작은 책방이 있다. 조용한 주택가에 자리 잡은 평범한 책방. 온종일 책 한 권 팔리지 않아도 북적북적 바쁘다. 책방 고양이 네 마리와 책방의 마당을 찾아온 길고양이들까지. 비인간 가족들과 함께 울고 웃고 사랑하느라 하루해가 짧다. 돈도 안 되는 일이지만, 아니 아픈 고양이들을 먹이고 재우고 병원 데리고 다니느라 쓰는 돈이 훨씬 많지만, 이 쓸모없고 아름다운 일을 멈추지 않는 책방. 가장 고양이 친화적인 공간에서 오늘도 소복소복 냥글냥글 사랑과 우정이 쌓인다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20211108",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "글: 김화수",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "261 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167620118",
+                "INPUT_DATE": "20211001",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "냥글냥글 책방",
+                "PUBLISH_PREDATE": "20211025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

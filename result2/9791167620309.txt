@@ -1,0 +1,78 @@
+{
+    "otitle": "소소낭만, 일본 소도시 여행",
+    "oauthor": "우승민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:09 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "소소낭만, 일본 소도시 여행(2023~2024 최신판) (소박한 멋과 맛, 낭만이 있는 일본의 작은 여행지 45곳)",
+                "link": "https://search.shopping.naver.com/book/catalog/34906307620",
+                "image": "https://shopping-phinf.pstatic.net/main_3490630/34906307620.20221019143250.jpg",
+                "author": "우승민",
+                "discount": "16200",
+                "publisher": "꿈의지도",
+                "pubdate": "20221020",
+                "isbn": "9791167620309",
+                "description": "일본 소도시 여행을 위한 최초의 가이드북이다. 팬데믹 이후 변화된 정보들을 업그레이드 하여 개정판에 담았다. 소박한 멋과 맛, 낭만이 있는 일본 소도시로 친절하게 안내한다. 특히, 유례없는 엔저로 인해 일본 소도시 여행은 경제적으로도 너무나 매력적인 여행지다. 도쿄나 오사카 같은 대도시의 번잡스러움이 싫다면, 조용하고 한갓진 일본 소도시 여행을 추천한다. 고물가와 팬데믹 시대에 싸고 깨끗하고 안전한 최고의 여행지가 될 것이다. 느낌 있고 색깔 있는 여행을 원하는 사람들에게 일본의 매력적인 소도시 45곳을 소개하는 책. 시가현부터 오키나와까지 서일본을 중심으로 알차고 짜임새 있는 정보만을 간추렸다."
+            },
+            {
+                "title": "소소낭만, 일본 소도시 여행 (소박한 멋과 맛, 낭만이 있는 일본의 작은 여행지 45곳)",
+                "link": "https://search.shopping.naver.com/book/catalog/32477645870",
+                "image": "https://shopping-phinf.pstatic.net/main_3247764/32477645870.20221019152827.jpg",
+                "author": "우승민",
+                "discount": "14400",
+                "publisher": "꿈의지도",
+                "pubdate": "20180910",
+                "isbn": "9791187496700",
+                "description": "그 어떤 화려한 여행보다 오래 기억될 일본의 소도시 여행!\n\n일본 소도시 여행을 위한 가이드북 『소소낭만, 일본 소도시 여행』. 시가현부터 오키나와까지 서일본을 중심으로 느낌 있고 색깔 있는 여행을 원하는 사람들에게 일본의 매력적인 소도시 45곳을 소개한다. 맑고 투명한 일본 최대 호수 비와코에서 19세기 미국 분위기 물씬 나는 미시간 크루즈를 타고 호수 일주를 하고, 휴식과 힐링의 대명사인 벳푸 온천에서 7개의 지옥 온천을 순례하는 ‘벳푸 지고쿠 메구리’를 경험하고, 우동 버스를 타고 다양한 우동을 맛보는 카가와현의 우동 버스 투어 등 오직 일본의 소도시에서만 누릴 수 있는 알차고 짜임새 있는 정보만을 간추렸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20221024",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "지은이: 우승민",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정1판, 2023~2024 최신개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221020",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167620309",
+                "INPUT_DATE": "20220914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(소소낭만,) 일본 소도시 여행",
+                "PUBLISH_PREDATE": "20221020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

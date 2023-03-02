@@ -1,0 +1,67 @@
+{
+    "otitle": "정혜영의 식탁",
+    "oauthor": "정혜영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정혜영의 식탁: TABLE (가족을 위해 짓고, 만들고, 담아 내는 정혜영의 따뜻한 식탁 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443027919",
+                "image": "https://shopping-phinf.pstatic.net/main_3244302/32443027919.20230131162647.jpg",
+                "author": "정혜영",
+                "discount": "23160",
+                "publisher": "이덴슬리벨",
+                "pubdate": "20191025",
+                "isbn": "9791188053735",
+                "description": "배우 정혜영의 행복 가득한 식탁!\n\n배우 정혜영이 삼시 세끼 가족을 위해 만든 건강하고 맛있는 요리와 가족들의 이야기를 담은 『정혜영의 식탁』. 그동안 저자가 사랑하는 남편과 네 명의 아이들에게 수없이 차려온 따듯하고 맛있는 밥상을 함께 나누고자 펴낸 책으로, 오랫동안 가족을 위해 요리하고 살림하며 실제 가정에서 정말 자주 하는 요리, 사람들이 가장 좋아하는 음식, 알면 도움이 되는 살림 비법을 모두 담았다. \n\n저자의 살림은 늘 정갈하고 집에서는 밥 짓는 냄새가 풍긴다. 카메라 앞에서는 배우이지만, 집에 가면 앞치마를 두르고 가족을 위한 식사를 준비하느라 손이 쉴 틈이 없다. 이 책에서 저자는 자주 하는 밑반찬, 샐러드, 서양 일품요리, 전통 한식 요리, 베이킹과 제철 과일 음료 중 다양한 요리 중 손쉽게 따라 할 수 있는데 맛도 좋은 73가지 요리를 뽑았다.\n\n봄철, 가벼운 나들이나 아이들 소풍 도시락에 제격인 치아바타 치킨 샌드위치, 봄에 수확한 신선한 제철 채소로 만든 샐러드, 캠핑 가서 먹을 수 있는 LA 갈비 등 손쉽게 만들 수 있는 요리 레시피와 땀을 많이 흘려 영양 보충이 필요한 여름철의 시원한 레시피, 가을의 풍성한 식탁, 육류와 어류를 활용한 겨울 일품 요리 등 사랑하는 사람 혹은 가족을 위해 요리하는 이들에게 신의 한 수가 되어 줄 레시피를 만나볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이덴슬리벨 :비전비엔피",
+                "DDC": "",
+                "UPDATE_DATE": "20191104",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 정혜영",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "26800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "269 p.",
+                "CONTROL_NO": "CIP2019038969",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188053735",
+                "INPUT_DATE": "20191001",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "정혜영의 식탁",
+                "PUBLISH_PREDATE": "20191025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

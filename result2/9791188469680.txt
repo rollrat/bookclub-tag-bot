@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 중심을 잡는 중입니다",
+    "oauthor": "박선영 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 중심을 잡는 중 입니다 (원도 인생도 중요한 건 중심이니까)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484710132",
+                "image": "https://shopping-phinf.pstatic.net/main_3248471/32484710132.20221229072326.jpg",
+                "author": "박선영",
+                "discount": "11700",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20210210",
+                "isbn": "9791188469680",
+                "description": "“원도 인생도 중요한 건 중심이니까,\n휘청이고 흔들려도 나만의 중심을 찾아서!“\n세상의 잣대 속 온전한 나로 살아간다는 것\n\n『오늘도 중심을 잡는 중입니다』는 SNS 인기 작가인 ‘명언화가 박선영’ 첫 번째 에세이로, 저자는 첫 책을 통해 무엇보다 중요한 건 스스로 나만의 중심을 잡고 ‘나’를 마주하고 사랑하는 일이라고 말한다. 그렇게 불안해하지 않아도 된다고, 당신은 소중한 존재라고, 정말 잘하고 있다고, 저자 특유의 따뜻한 글과 그림으로 우리의 마음을 다독여준다. \n\n1장 ‘하고 싶은 대로 해도 괜찮아’에서는 있는 그대로의 온전한 나를 마주하고 발견해 나가는 과정을 담고 있으며, 2장 ‘내일은 오늘보다 더 나은 우리가’에서는 한 걸음씩 성장해가는 순간과 관계에 대해 이야기하고 있다. 3장 ‘잊지 마, 네가 가장 소중하다는 걸’에서는 그 무엇보다 소중한 스스로를 들여다보는 과정과 자기 자신을 아끼고 사랑할 수 있기를 바라는 진솔한 마음이 담겨 있다. 마지막으로 4장 ‘오늘도 중심을 잡는 중입니다’에서는 주변의 간섭과 세상의 잣대에 늘 휘청이고 흔들리지만, 그럼에도 불구하고 나만의 중심을 잡기 위해 두 팔을 벌리고 용기 내 살아가는 저자의 따뜻한 위로가 담겨 있다. \n\n원도 인생도 중요한 건 중심인 것처럼, 내 인생에서 가장 중요한 건 스스로를 믿고 단단하게 중심을 잡는 일이다. 오늘도 자기만의 중심을 잡기 위해 애쓰고 있는 당신에게, 위로해주고 싶은 소중한 사람에게, 이 책을 추천한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름(필름출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210810",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글·그림: 박선영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/01/20/9791188469680.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188469680",
+                "INPUT_DATE": "20210120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘도 중심을 잡는 중입니다",
+                "PUBLISH_PREDATE": "20210210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

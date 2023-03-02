@@ -1,0 +1,78 @@
+{
+    "otitle": "천재의 정신병리",
+    "oauthor": "이다 신, 나카이 히사오 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:43 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "천재의 정신병리 (과학적 창조의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493364883",
+                "image": "https://shopping-phinf.pstatic.net/main_3249336/32493364883.20221230074512.jpg",
+                "author": "이다 신^나카이 히사오",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190520",
+                "isbn": "9788970448831",
+                "description": "『천재와 광인』의 관계에 대한 연구의 역사는 고대 그리스까지도 거슬러 올라갈 수 있으나 과학적이며 체계적인 연구가 이루어진 것은 채 얼마 되지 않았다. 독일의 의사 뫼비우스가 정신의학적인 측면에서 괴테, 니체, 루소 등 저명한 문예인, 사상가를 연구한 것은 그 효시로 적당할 것이다. 일찍이 프로이트는 레오나르도 다 빈치 등 예술인에 대하여 정신분석학적인 측면에서 접근한 바 있다. 그러나 뫼비우스와 프로이트의 접근 방법은 천재론이나 질병론에 얽매여 있는 까닭으로 질병과 창조성의 연관성을 직접적으로 설명하지는 못했다.\n\n이 책은 잡지[자연(自然)]의 청탁을 받아 정신의학적 관점에서 저명한 과학자들을 분석한 것을 정리한 것으로서 문예인이 아닌 과학자를 대상으로 한 정신의학적 연구에 있어서는 최초의 시도이다. 저자들은 천재론이나 질병론에 구애되지 않고 질병과 창조성의 직접적 연관성을 예리하게 파헤치는 데 성공하였다."
+            },
+            {
+                "title": "천재의 정신병리 (과학적 창조의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492190080",
+                "image": "https://shopping-phinf.pstatic.net/main_3249219/32492190080.20220527045523.jpg",
+                "author": "이다 신",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "19930415",
+                "isbn": "9788970443058",
+                "description": "뉴턴, 다윈, 프로이트, 비트겐슈타인, 보어, 워너 등 여섯 천재 과학자의 기질과 생활사 등을 병적학적으로 진단 분석하여 인간적 관점에서 과학에서의 '창조성'의 비밀을 파고든 대담한 천재론."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20201126",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "이다 신,나카이 히사오 지음 ;이현수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20190527",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "15,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "246 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448831",
+                "INPUT_DATE": "20190514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "천재의 정신병리",
+                "PUBLISH_PREDATE": "20190527",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

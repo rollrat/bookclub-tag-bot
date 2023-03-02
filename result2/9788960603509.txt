@@ -1,0 +1,67 @@
+{
+    "otitle": "나에게 맞는 골프는 분명 따로 있다",
+    "oauthor": "여민선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나에게 맞는 골프는 분명 따로 있다 (골프를 잘 치고 싶은 사람이라면 꼭 알아야 할 97가지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496137291",
+                "image": "https://shopping-phinf.pstatic.net/main_3249613/32496137291.20220527070649.jpg",
+                "author": "여민선",
+                "discount": "0",
+                "publisher": "원앤원스타일",
+                "pubdate": "20140822",
+                "isbn": "9788960603509",
+                "description": "나에게 맞는 골프 스윙과 연습방법을 찾아야 한다!\n\n골프를 잘 치고 싶은 사람이라면 꼭 알아야 할 97가지『나에게 맞는 골프는 분명 따로 있다』. 《중앙일보》,《스포츠서울》등 주요매체에 골프 칼럼을 연재해온 저자 여민선이 ‘나에게 맞는 골프’를 칠 수 있는 현명한 방법을 소개한 책이다. 총 10개의 파트로 구성하여, 내 몸의 관절과 근육의 가동성, 유연함, 자세 등 나만의 특성을 알고 그에 맞는 골프 방법을 계획하고 연습하고 쉽게 따라할 수 있도록 상세한 사진을 함께 수록하였다. 각자의 특성에 맞춰 골프를 소화할 수 있는 쉬운 방법들을 따라 하다 보면, 나만의 테크닉과 나에게 맞는 골프 정석으로 실력 향상을 이룰 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)원앤원콘텐츠그룹",
+                "DDC": "796.352",
+                "UPDATE_DATE": "20140829",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "여민선",
+                "SERIES_TITLE": "",
+                "KDC": "695.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3885179_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3885179_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3885179_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014023343",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960603509",
+                "INPUT_DATE": "20140806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "나에게 맞는 골프는 분명 따로 있다",
+                "PUBLISH_PREDATE": "20140822",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "메타 도구의 시대",
+    "oauthor": "최윤식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "메타 도구의 시대 (메타 도구를 쥔 자가 미래 시장을 움직인다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481486310",
+                "image": "https://shopping-phinf.pstatic.net/main_3248148/32481486310.20221227210033.jpg",
+                "author": "최윤식",
+                "discount": "18000",
+                "publisher": "넥서스BIZ",
+                "pubdate": "20210503",
+                "isbn": "9791166830556",
+                "description": "세상을 움직이는 도구로\n미래 불확실성을 줄여라!\n\n아시아를 대표하는 전문 미래학자의 \n연구와 통찰을 집약한 2021년 최신작\n\n2004년, 인간 수준의 음성 인식 기술은 거의 불가능한 목표라고 평가한 논문이 나왔다. 하지만 10년이 채 못 되어 음성을 인식하는 ‘시리’(Siri)가 탑재된 아이폰이 출시되었고 지금 우리가 사용하는 거의 모든 스마트폰이 음성을 인식해 인간과 소통하고 있다. 이뿐인가. 이제 인공지능이 탑재되지 않은 스피커는 서서히 경쟁력을 잃어가고 있다. \n인공지능이 할 수 있는 일은 어디까지일까? 이제 인공지능은 누구에게도 낯선 단어가 아니다. 지금 우리는 인공지능과 일상을 공유하고 있고 인공지능은 점차 기술을 더해가고 있다. \n이 책에서는 인공지능을 비롯한 다양한 기술들이 인간의 삶을 어떻게 변화시켜왔는지, 앞으로 어떻게 변화시킬 수 있는지를 분석하고 예측했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스biz :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20210601",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "최윤식 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "520 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166830556",
+                "INPUT_DATE": "20210330",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "메타 도구의 시대",
+                "PUBLISH_PREDATE": "20210503",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

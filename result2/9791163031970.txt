@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 점프 투 플라스크",
+    "oauthor": "박응용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 점프 투 플라스크 (파이썬 웹 개발부터 배포까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445214020",
+                "image": "https://shopping-phinf.pstatic.net/main_3244521/32445214020.20220527053425.jpg",
+                "author": "박응용",
+                "discount": "17820",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20201125",
+                "isbn": "9791163031970",
+                "description": "파이썬 입문자도 2주 만에 만들어 운영할 수 있는 게시판 서비스!\n게시판 만들기로 웹 개발 전 과정 완벽 입문!\n\n파이썬 프로그래밍 입문서로 많은 독자에게 사랑받는 《Do it! 점프 투 파이썬》 저자 박응용 선생님은 이 책을 출간한 뒤 독자로부터 “이 책을 읽은 다음에는 무엇을 공부해야 하나요?”라는 질문을 수없이 받았다고 합니다. 그래서 첫 번째 답변으로 《Do it! 점프 투 플라스크》를 내놓았습니다.\n이 책은 플라스크라는 파이썬 프레임워크로 실제 서비스 중인 파이보(pybo.kr)라는 질문ㆍ답변 게시판을 만든 뒤 AWS에 배포하는 과정까지 친절하게 안내합니다. 그야말로 웹 개발의 전 과정을 경험하고 입문할 수 있는 책이죠. 본문은 파이썬 입문자라면 누구나 쉽게 실습할 수 있도록 ‘수정 내용 표시’, ‘주의 사항 말풍선’, ‘팁’으로 배려했습니다. 이 책으로 웹 개발부터 서비스 배포까지 빠르게 입문해 보세요!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20210511",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "박응용 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "350 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163031970",
+                "INPUT_DATE": "20201116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "점프 투 플라스크",
+                "PUBLISH_PREDATE": "20201125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

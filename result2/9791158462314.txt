@@ -1,0 +1,67 @@
+{
+    "otitle": "5초 복근",
+    "oauthor": "마쓰이 가오루 저/최시원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "5초 복근 (놀랍도록 배가 홀쭉해지는 다이어트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443877468",
+                "image": "https://shopping-phinf.pstatic.net/main_3244387/32443877468.20221227210317.jpg",
+                "author": "마쓰이 가오루",
+                "discount": "9720",
+                "publisher": "비타북스",
+                "pubdate": "20180501",
+                "isbn": "9791158462314",
+                "description": "1회 5초씩, 하루에 1동작만 하면 놀랍도록 배가 홀쭉해지는 트레이닝 비법!\n\n매번 다이어트에 실패하는 이들을 위해 몸에 부담을 주지 않는 5초 복근 트레이닝을 소개하는 『5초 복근』. 저명인사들의 퍼스널 트레이너이자 다이어트 보디 메이커인 마쓰이 가오루가 소개하는 5초 복근 트레이닝은 일반 복근 운동처럼 힘든 동작을 반복하는 것이 아니라 1회 5초씩 배 근육을 찌그러뜨려 원하는 부위에만 초점을 맞춰 자극을 주는 운동법이다.\n\n5초 복근 트레이닝의 핵심은 근육 찌그러뜨리기와 뇌 속이기이다. 구체적인 이미지를 떠올려 뇌와 근육을 직접 연결해야 한다고 이야기하면서 복근을 효과적으로 조이는 8가지 동작으로 2주 프로그램을 소개한다. 2주 동안 8개의 동작만 하면 된다. 하루 1동작, 1회 5초씩 자세를 유지하기만 하면 끝이다. 트레이닝의 효과를 더 높이고 싶다면 횟수만 늘리면 된다. 팔뚝, 엉덩이, 다리 등 신경 쓰이는 부위를 집중적으로 관리하는 메뉴와 함께 뱃살 제거는 물론 근육을 만드는 데 도움을 주는 최강의 식사법을 함께 소개해 요요 현상을 막을 수 있도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비타북스 :헬스조선",
+                "DDC": "613.718",
+                "UPDATE_DATE": "20180517",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "마쓰이 가오루 지음 ;최시원 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "593.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6627669_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6627669_3.jpg",
+                "PRE_PRICE": "10800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6627669_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*255",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "121 p.",
+                "CONTROL_NO": "CIP2018011530",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158462314",
+                "INPUT_DATE": "20180411",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "5초 복근",
+                "PUBLISH_PREDATE": "20180501",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "빅 리셋",
+    "oauthor": "심효연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빅 리셋(The Big Reset) (포스트 코로나 시대의 필수 무기, 셀프 트랜스포메이션)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486063258",
+                "image": "https://shopping-phinf.pstatic.net/main_3248606/32486063258.20221227203253.jpg",
+                "author": "심효연",
+                "discount": "14400",
+                "publisher": "상상출판",
+                "pubdate": "20210121",
+                "isbn": "9791190938341",
+                "description": "당신이 어디에 있든, 어떤 직급이든 상관없다\n변화는 지금 당장, 모두에게 필요하다!\nHR 전문가가 다년간 분석한 핵심인재의 역량과\n코로나 시대에도 성장한 빅테크 기업의 조직 문화 대공개!\n\n코로나19 당신에게 들이닥친 위기를 현명하게 대처하는 방법! \nHR 전문가가 분석한 핵심인재의 역량과 글로벌 기업의 조직 문화 대공개!\n\n포스트 코로나 시대에도 성장하는 기업과 핵심인재들은 무엇이 다른 걸까? 이 책은 기업의 조직 구성원과 최고경영자, 취업 준비생을 위한 책이다. 저자가 다년간 HR 전문가로서 활동하며 분석한 핵심인재의 공통 역량과 글로벌 기업의 조직 문화의 모든 것을 담았다. 모든 것이 급변하는 코로나 시대에는 단순한 변화가 아닌 ‘셀프 트랜스포메이션(자기 변혁)’이 필요하다. 셀프 트랜스포메이션은 코로나 시대와 같이 불확실한 상황에서 빠른 판단력과 유연하게 대처하는 직관력, 자기 주도성을 갖춘 ‘사고 체계’를 뜻한다. 현재 글로벌 기업뿐만 아니라 한국의 거대 기업인 카카오와 네이버도 셀프 트랜스포메이션형 인재를 추구한다. 앞으로 조직 구성원이 될 취업 준비생과 변화의 필요성을 느끼는 직장인들, 그리고 기업을 운영하는 최고경영자들은 이 책을 통해 셀프 트랜스포메이션 역량 확립에 있어 불필요한 시행착오를 단축할 수 있다. 급속도로 변하는 산업 환경에서 어떻게 변화해야 할지 방황하는 이들에게 자기계발서라는 형식적인 범주가 아닌 ‘자기성장서’가 되어줄 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210302",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "심효연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "309 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190938341",
+                "INPUT_DATE": "20210107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "빅 리셋",
+                "PUBLISH_PREDATE": "20210121",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "예쁘게 말하는 네가 좋다",
+    "oauthor": "김범준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "예쁘게 말하는 네가 좋다 (마음을 움직이는 대화의 온도)",
+                "link": "https://search.shopping.naver.com/book/catalog/33684988640",
+                "image": "https://shopping-phinf.pstatic.net/main_3368498/33684988640.20221019133015.jpg",
+                "author": "김범준",
+                "discount": "14220",
+                "publisher": "포레스트북스",
+                "pubdate": "20220808",
+                "isbn": "9791191347944",
+                "description": "“말은 씨가 되고,\n인생의 열매는 그 씨앗에서 열린다!”\n\n대화법 30만 부, 베스트셀러 작가 김범준의 관계 고찰 역작\n\n30만 독자의 인생을 바꾼 대화법 전문가 김범준 저자가 한마디 말로 관계의 변화를 만들고 인생의 흐름을 바꾸는 방법을 제시한다.\n누구나 대화를 통해 상대방과 교감하고 공감하기를 원하지만 실제로는 생각과 다른 결과를 얻게 되는 경우가 비일비재하다. 대화를 통해 ‘불편하다’, ‘두렵다’, ‘솔직히 혼자가 편하다’가 아니라 ‘즐겁다’, ‘함께해서 좋다’라고 느끼고 싶은 것이 보통이지만, 오히려 오랫동안 쌓아 올린 관계를 한 번의 말실수로 허물어버리거나 더 이상 다가설 수 없는 상태에 이르게 하는 경우가 허다하다. 어떻게 말을 건네야 원하는 사람에게 원하는 만큼 다가설 수 있을까? 허물어진 관계를 다시 곧추세울 수 있을까? 관계의 적정거리를 유지할 수 있을까? \n저자는 그 해법이 ‘예쁜 말’이라고 말한다. 상황에 가장 적합한 ‘예쁜 말’을 찾고 활용하는 방법이 이 책에 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포레스트북스 :콘텐츠그룹 포레스트",
+                "DDC": "",
+                "UPDATE_DATE": "20221019",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김범준",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20220808",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191347944",
+                "INPUT_DATE": "20220713",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "예쁘게 말하는 네가 좋다",
+                "PUBLISH_PREDATE": "20220808",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

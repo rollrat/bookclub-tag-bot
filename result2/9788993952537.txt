@@ -1,0 +1,67 @@
+{
+    "otitle": "정도전과 그의 시대",
+    "oauthor": "이덕일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정도전과 그의 시대 (이덕일의 역사특강 1)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445665945",
+                "image": "https://shopping-phinf.pstatic.net/main_3244566/32445665945.20221019124201.jpg",
+                "author": "이덕일",
+                "discount": "10800",
+                "publisher": "옥당",
+                "pubdate": "20140110",
+                "isbn": "9788993952537",
+                "description": "조선 왕조 500년의 기틀을 마련한 정도전! 고려 말 조선 초의 역사를 새롭게 만나보다!\n\n이덕일의 역사특강 『정도전과 그의 시대』. KBS의 대하사극 《정도전》팀을 대상으로 한 강연 내용을 엮은 것으로, 위민의 정치가 정도전에 대한 이야기를 들려준다. 혼란스러웠던 고려 말에 위기를 극복하기 위해 조선을 설계했지만 이방원에게 죽음을 맞이한 비운의 혁명가인 정도전. 그를 이해하기 위해 그가 살았던 시대적 상황을 살펴보고, 왜 이성계와 함께 조선을 세우려 했는지, 무엇이 그를 백성을 대변하는 정치가로 만들었는지, 그가 만들고자 했던 이상적인 나라가 무엇이었는지를 서술 방식의 새로운 시각으로 한국사를 풀어내었다.  \n\n의민정치가 제도적으로 불가능했던 시대였기 때문에 저자는 위민의 관점에서 인물을 바라보고 평가하였다. 또한, 정도전의 일생뿐만 아니라 성리학과 토지 문제까지 다룸으로써 조선이 위화도 회군 세력의 무력에 의지해 개창한 것이 아니라 새로운 이념과 경제체제를 창출하는 과정에서 개국했다는 점을 보여주고 있다. 더불어, 역사를 반성의 도구로 삼아 한 명의 사상가가 세운 전략으로 무너진 고려를 통해 내부 문제를 스스로 해결하지 못할 경우 체제가 무너질 수 있다는 역사적 반증으로 현재의 우리를 비추는 거울로 제시하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)옥당",
+                "DDC": "951.902",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이덕일",
+                "SERIES_TITLE": "",
+                "KDC": "911.051",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3203002_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3203002_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3203002_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013028978",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993952537",
+                "INPUT_DATE": "20131225",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "정도전과 그의 시대",
+                "PUBLISH_PREDATE": "20140103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

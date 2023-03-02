@@ -1,0 +1,67 @@
+{
+    "otitle": "외로움 살해자",
+    "oauthor": "윤재성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "외로움 살해자 (윤재성 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456478667",
+                "image": "https://shopping-phinf.pstatic.net/main_3245647/32456478667.20221019120721.jpg",
+                "author": "윤재성",
+                "discount": "12420",
+                "publisher": "들녘",
+                "pubdate": "20160527",
+                "isbn": "9791159251603",
+                "description": "윤재성의 장편소설『외로움 살해자』. ‘외로움을 살해하는’ 외로움살해자 윤 필이 ‘내 외로움은 죽일 수 없다’고 단언하는 의뢰인, 김 미를 만난다. ㈜외로움살해자의 우수 외살자 윤 필 대리는 입사 이래 외로움 살해에 실패해본 적이 없다. 고객의 증상을 파악하고, 병인을 찾아내려 주변을 탐문하고, 24시간 고객의 곁에서 외로움과 싸우던 윤 필은 마침내 외로움의 기저에 가 닿는 데 성공한다. 과연 ㈜외로움살해자의 우수사원 윤 필은 김 미의 외로움을 죽일 수 있을 것인가."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20160602",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "윤재성",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5431596_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5431596_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "456",
+                "CONTROL_NO": "CIP2016011803",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159251603",
+                "INPUT_DATE": "20160511",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "외로움살해자",
+                "PUBLISH_PREDATE": "20160527",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

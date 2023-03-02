@@ -1,0 +1,67 @@
+{
+    "otitle": "북유럽인 이야기",
+    "oauthor": "로버트 퍼거슨 저/정미나 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "북유럽인 이야기 (행복한 나라의 멜랑콜리한 사람들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442781096",
+                "image": "https://shopping-phinf.pstatic.net/main_3244278/32442781096.20221227205749.jpg",
+                "author": "로버트 퍼거슨",
+                "discount": "17550",
+                "publisher": "현암사",
+                "pubdate": "20190412",
+                "isbn": "9788932319803",
+                "description": "평화롭고 부유한 겉모습 뒤\n북유럽인의 숨겨진 이야기\n\n유엔 산하 자문기구 지속가능발전해법네트워크는 매년 세계 행복 보고서를 발표한다. 이에 따르면 2019년 세계에서 가장 행복한 나라는 1위 핀란드, 2위 덴마크, 3위 노르웨이순이다. 북유럽 국가가 각종 사회지표의 꼭대기를 차지하고 있다. 행복지수 54위인 우리 눈에는 까마득해 보이는 위치다. 오래전부터 북유럽 국가들은 정치?사회 전반에 걸쳐 전 세계의 롤모델이, 그리고 세련된 가구로 집안을 채우고 느긋한 생활 방식을 추구하는 북유럽 사람들은 부러움의 대상이 되어왔다. 그런데 오늘날 이러한 관점은 얼마나 유효한 것일까. 우리는 북유럽의 잘 알려진 측면에 사로잡혀 그들의 완벽한 모습만 바라보고 있는 것일지도 모른다.\n\n이 책은 영국에서 태어나 40년 가까이 노르웨이에서 살고 있는 저자가 개인적 경험, 문학, 문화 분석에 더해 역사적 일화까지 한데 버무린 인문학 기행이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20190418",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "로버트 퍼거슨 지음 ;정미나 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "923",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "563 p.",
+                "CONTROL_NO": "CIP2019006487",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932319803",
+                "INPUT_DATE": "20190220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "북유럽인 이야기",
+                "PUBLISH_PREDATE": "20190412",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

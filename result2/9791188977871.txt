@@ -1,0 +1,67 @@
+{
+    "otitle": "의사가 되려고요",
+    "oauthor": "김민규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "의사가 되려고요 (의사가 되려는 한 청년의 365일 인턴일지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454966831",
+                "image": "https://shopping-phinf.pstatic.net/main_3245496/32454966831.20221227205226.jpg",
+                "author": "김민규",
+                "discount": "13320",
+                "publisher": "설렘(SEOLREM)",
+                "pubdate": "20210601",
+                "isbn": "9791188977871",
+                "description": "의사는 환자를 떠나보내며\n눈물을 참아야만 하는 걸까?\n사회초년생, 0년 차 인턴이 전하는 고군분투 인턴 생활기\n\n의사가 의사의 이야기를 쓴 책은 많다. 그러나 0년 차 의사인 인턴이 인턴 시절의 생생한 이야기를 남긴 책은 찾아보기 힘들다. 이 책은 회사로 치면 수습 혹인 신입사원인 대학병원 인턴의 365일을 기록한 생생한 일지다. 12시간을 일하고 주어지는 12시간 휴식 시간을 내리 잠으로 보내고, 남들이 출근할 때 퇴근하고 퇴근할 때 출근하며 자신을 잃어가는 근무 환경에서 스스로를 다잡을 수 있었던 이야기가 이 책에 있다. \n\n 이 책은 단순히 인턴 의사가 겪은 힘든 일화와 그로 인한 고충을 이야기하려는 것이 아니다. 사회로 나가기 위해 누구나 거쳐야 하는 가슴 떨리는 첫 면접, 삶과 죽음의 경계를 넘나드는 응급의학과 생활에서 느꼈던 것, 급박하게 흔들리는 구급차 안에서 환자의 손을 잡아주었던 순간까지 모두 담겨 있다. 또한, 자신의 자리에서 무엇을 해야 할지 알지 못하고 이리 치이고 저리 치이는 사회초년생의 모습 역시 담아냈다. 누구나 한 번은 반드시 지나오는 이 시기를 겪어내고 있는 이들에게 따뜻한 위로와 공감을 전달하고자 하는 작가의 메시지가 실려 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "설렘 :슬로디미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20210722",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김민규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/05/03/9791188977871.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "194 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188977871",
+                "INPUT_DATE": "20210503",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "의사가 되려고요",
+                "PUBLISH_PREDATE": "20210601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

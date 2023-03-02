@@ -1,0 +1,78 @@
+{
+    "otitle": "나랑만 친구해!",
+    "oauthor": "한현주 글/김주리 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:14 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나랑만 친구해! (못된 관계 욕구를 풀고 두루두루 좋은 관계를 맺는 어린이 친구 심리!!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492071254",
+                "image": "https://shopping-phinf.pstatic.net/main_3249207/32492071254.20221019124351.jpg",
+                "author": "한현주",
+                "discount": "9000",
+                "publisher": "팜파스",
+                "pubdate": "20141020",
+                "isbn": "9788998537678",
+                "description": "친구는 소유하는 것이 아니라 존중해야 하는 존재!\n\n『나랑만 친구해!』는 올바른 친구 관계에 대해서 들려주는 동화입니다. 우리 아이들이 단짝 친구에게 가질 수 있는 소유욕을 자연스럽게 풀어내면서, 친구란 서로 존중해야 하는 존재임을 일깨워줍니다. 친구를 소유하고자 했던 유나의 이야기를 통해서 공감한 아이들은 실제 친구 사이를 진지하게 고민해볼 수 있으며, 어떻게 친구를 존중하고 사귈지도 배울 수 있다. \n\n유나와 지원이는 둘째가라면 서러운 친한 친구사입니다. 유나는 지원이에게 함께 교환일기도 쓰고, 우정반지도 나눠 끼는 ‘특별한 친구’이길 바랍니다. 그런데 지원이가 요즘 들어 인라인 스케이트를 타기 시작하면서 유나의 걱정거리가 생겨났습니다. 바로 지원이가 인라인 스케이트를 타며 친해진 친구 하은이 때문이다. 유나는 지원이가 자기 말고 다른 친구와 친해지는 게 싫기만 하고, 급기야 지원이가 인라인스케이트를 타지 말았으면 하는데…."
+            },
+            {
+                "title": "슈퍼 걸스 3: 나랑만 친구해",
+                "link": "https://search.shopping.naver.com/book/catalog/32505316335",
+                "image": "https://shopping-phinf.pstatic.net/main_3250531/32505316335.20220527031235.jpg",
+                "author": "메레디스 뱃저",
+                "discount": "0",
+                "publisher": "비룡소",
+                "pubdate": "20110826",
+                "isbn": "9788949124032",
+                "description": "여자애들의 마음을 콕 집어냈다!\n\n남자애들은 모르는 여자애들만의 이야기를 담은 『슈퍼 걸스』 제3권 《나랑만 친구해》. 사회성 넘치는 당당한 여자애들을 위한, 오스트레일리아의 대표적 성장동화다. 7세에서 11세 사이의 여자애들의 일상뿐 아니라, 친구 사이에서 가장 흔히 겪는 갈등을 주제로 다루고 있다. 갈등을 풀 현명하고 지혜로운 해결책도 배울 수 있다. 여자애들의 심리에 대한 뛰어난 묘사가 단순한 언어로 담겨져 있어 쉽게 읽히면서 공감을 자아낸다. 제3권은 동성 친구와의 갈등을 탐구하고 있다. 소피의 소원은 늘 한 가지다. 자신을 사이에 두고 서로 으르렁거리는 오랜 단짝 메간과 새 친구 앨리스가 친해지는 것이다. 메간과 앨리스의 다툼 때문에 괴로운 시간을 보내던 소피는 아무하고도 놀지 않겠다고 선언하는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20141215",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "한현주",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3983058_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3983058_3.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014027008",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998537678",
+                "INPUT_DATE": "20140916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나랑만 친구해!",
+                "PUBLISH_PREDATE": "20141020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

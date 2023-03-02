@@ -1,0 +1,67 @@
+{
+    "otitle": "어드리프트",
+    "oauthor": "태미 올드햄 애쉬크래프트 저/신솔잎 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어드리프트 (41일간의 표류, 태평양 한가운데서 살아남은 강인한 여성의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32471587783",
+                "image": "https://shopping-phinf.pstatic.net/main_3247158/32471587783.20221229070849.jpg",
+                "author": "태미 올드햄 애쉬크래프트",
+                "discount": "13050",
+                "publisher": "빌리버튼",
+                "pubdate": "20200501",
+                "isbn": "9791188545834",
+                "description": "☆☆☆ 영화 〈어드리프트〉의 원작 ☆☆☆\n☆☆☆ 디즈니 시나리오팀이 찾아낸 감동 실화! ☆☆☆\n☆☆☆ 〈뉴욕타임스〉 베스트셀러! ☆☆☆\n“나는 피해자가 아닌 살아돌아온 생존자이다”\n\n바다와 바다 위에서의 자유로운 삶을 사랑하는 주인공 태미. 어느 날 운명의 상대를 만난다. 바다를 닮은 자유로운 영혼 태미와 바다를 사랑하는 섬세한 남자 리처드는 1983년 10월 12일, ‘하자나’라는 이름의 요트를 타고 타히티에서 샌디에이고로 향한다. 그러던 중 허리케인 레이몬드를 만났다. 태미는 허리케인 속에서 살아남았지만, 허리케인은 태미의 모든 것을 앗아가버렸다. 끝도 보이지 않는 바다 위에서 홀로 살아남은 태미는 환상처럼 들려오는 리처드의 목소리에 의지하고, 스스로를 응원하며 하루하루를 버틴다. 태미는 네비게이션 시스템 없이 약 2,400킬로미터를 직접 배를 몰아 41일째 되던 11월 22일 하와이 힐로에서 구조되었다. 태평양 한가운데서 41일간 표류하여 살아남은 소설 같은 이야기는, 책으로 출간되어 〈뉴욕타임스〉 베스트셀러가 되었고, 2018년에는 원작을 바탕으로 제작된 영화 〈어드리프트〉가 개봉하여 많은 이들에게 큰 사랑을 받았다. 경이롭고 용감한 태미의 이야기는 삶의 나락으로 떨어진 이들에게 위로와 해법이 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "",
+                "UPDATE_DATE": "20200511",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "태미 올드햄 애쉬크래프트 지음 ;신솔잎 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "848",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/03/27/9791188545834.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "312 p.",
+                "CONTROL_NO": "CIP2020013037",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188545834",
+                "INPUT_DATE": "20200327",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "어드리프트",
+                "PUBLISH_PREDATE": "20200506",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

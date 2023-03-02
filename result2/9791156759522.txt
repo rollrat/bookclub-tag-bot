@@ -1,0 +1,67 @@
+{
+    "otitle": "진실의 조건",
+    "oauthor": "오사 빅포르스 저/박세연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "진실의 조건 (철학이 진실을 구별하는 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466556680",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466556680.20221019151440.jpg",
+                "author": "오사 빅포르스",
+                "discount": "16200",
+                "publisher": "푸른숲",
+                "pubdate": "20220408",
+                "isbn": "9791156759522",
+                "description": "졸업을 앞둔 11만 스웨덴 고교생에게 배포된 탈진실 시대의 가이드북!\n세계적인 철학자 오사 빅포르스의 대표 베스트셀러 출간!\n\n이 시대를 가장 위협하는 ‘지식의 적’과 맞서 싸우는 철학자 오사 빅포르스의 대표작 《진실의 조건(원제: “Alternative Facts”)》이 도서출판 푸른숲에서 출간되었다. 그의 작품이 국내에 소개되는 것은 이번이 처음이다. 여성 최초로 스웨덴 이론철학 분야 교수 자리에 오른 그는 스톡홀름대학교에서 진실의 습득을 방해하는 지식 저항의 원인과 그 해결 방안을 연구해왔다. 《진실의 조건》은 그 연구가 집약된 대중인문서로, 믿어 마땅한 진실을 좇는 데 큰 걸림돌이 되는 지식 저항 현상을 철학적 관점을 중심으로 고찰하고 있다.\n진실이란 과연 무엇일까? 저자는 철학이 지난 수천 년간 논의해온 진실의 정의를 짚어가며 그 해답을 찾는다. 그리고 심리, 사회, 언어학의 관점에서 ‘진실의 적’들이 어떻게 우리를 속였는지, 왜 우리가 그들에게 속을 수밖에 없었는지 밝히고 돌파구를 제시한다. ‘진실’과 관련한 철학·심리학·사회학·언어학 등 거의 모든 인문학적 지식을 집약한 《진실의 조건》은 스웨덴에서 출간과 동시에 베스트셀러 자리에 올라 유수의 사회과학상을 수상하였으며, 스티븐 핑커를 비롯한 전 세계 지식인들로부터 수많은 찬사를 받았다. 또한, 탈진실 시대를 헤쳐 나갈 미래 세대의 가이드북으로 선정되어 11만 명의 고등학교 졸업반 학생들에게 무상 제공되는 등 사회 전반에 큰 영향을 끼쳤다. 특히 정치적 견해가 극도로 양극화된 오늘날 한국의 독자들이 ‘진짜’ 진실을 구별해내는 데 필수적인 도움을 줄 것이다. 지금이 바로, 철학으로 진실을 가려낼 때다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20220511",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "오사 빅포르스 지음 ;박세연 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/03/24/9791156759522.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "358 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156759522",
+                "INPUT_DATE": "20220324",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "진실의 조건",
+                "PUBLISH_PREDATE": "20220415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

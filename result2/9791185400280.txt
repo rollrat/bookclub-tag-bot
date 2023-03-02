@@ -1,0 +1,67 @@
+{
+    "otitle": "SF -웹소설 작가를 위한 장르 가이드4",
+    "oauthor": "전홍식,김창규 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "웹소설 작가를 위한 장르 가이드 4: SF",
+                "link": "https://search.shopping.naver.com/book/catalog/32473920671",
+                "image": "https://shopping-phinf.pstatic.net/main_3247392/32473920671.20221019114226.jpg",
+                "author": "전홍식",
+                "discount": "8820",
+                "publisher": "북바이북",
+                "pubdate": "20160418",
+                "isbn": "9791185400280",
+                "description": "창작자를 위한 장르 개론서 ‘웹소설 작가를 위한 장르 가이드’ 시리즈 4권. SF는 과학적 상상력을 발휘하여 재미있게 만든 이야기다. 현실과는 다른 법칙으로 움직이는 세계, 기발한 상상력, 미래에 대한 통찰은 관객들을 SF의 세계로 끌어들인다. 이 책에서는 스페이스 오페라, 시간여행, 아포칼립스, 사이버펑크 등 다양하고 매력적인 SF 하위 장르와 SF의 발전 과정, 그리고 영화, 만화, 게임 미디어와의 관계 등을 다루었다. 또  SF작가 김창규가 들려주는 작법 노하우와 부록으로 추천도서를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "808.3",
+                "UPDATE_DATE": "20160427",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전홍식, 김창규",
+                "SERIES_TITLE": "",
+                "KDC": "802.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185400198",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5333770_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5333770_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "152",
+                "CONTROL_NO": "CIP2016008337",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400280",
+                "INPUT_DATE": "20160329",
+                "SET_EXPRESSION": "",
+                "VOL": "4",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "SF",
+                "PUBLISH_PREDATE": "20160418",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

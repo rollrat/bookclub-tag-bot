@@ -1,0 +1,67 @@
+{
+    "otitle": "해피크라시",
+    "oauthor": "에바 일루즈,에드가르 카바나스 저/이세진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "해피크라시(Happycracy) (행복학과 행복 산업은 어떻게 우리의 삶을 지배하는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462921414",
+                "image": "https://shopping-phinf.pstatic.net/main_3246292/32462921414.20221019135835.jpg",
+                "author": "에바 일루즈",
+                "discount": "14260",
+                "publisher": "청미",
+                "pubdate": "20210610",
+                "isbn": "9791189134259",
+                "description": "“행복 장사치들은 우리를 생각해서 그 일을 한다고 말한다. 우리는 그런 말에 귀 기울이지 말아야 한다. 그러지 않으면 우리 자신에 대한 쓸데없는 강박에 빠지고 마니까.”\n\n“명쾌한 연구와 아름다운 논증을 담은 이 책은 오늘날의 행복 강박을 통렬하게 비판한다. 에바 일루즈와 에드가르 카바나스는 ‘행복학’과 긍정심리학의 결함, 근거 없음, 지나친 일반화를 문제시하면서 행복 강박이 사회 구조의 불평등이 심리적 결점 때문이라는 식의 비난 문화(blame culture)의 중심이 된 과정을 보여준다. 신자유주의가 점점 자신감, 회복탄력성, ‘긍정적’ 감정을 고양하는 수법을 통하여 기능하는 양상을 이해하고 싶은 사람이라면 누구나 꼭 읽어야 할 책.”\n-로절린드 질, 런던 대학교\n\n“행복학과 행복 산업은 좋은 삶에 대한 우리의 기대를 어떻게 변질시키며 여기에는 어떤 대가가 따르는가? 에바 일루즈와 에드가르 카바나스는 이 비판적 연구에서 도착적인 신자유주의 논리와 오늘날의 행복 정책이 사회에 미치는 치명적 결과를 강력하게 파헤친다.”\n-디디에 패신, 프린스턴대학교 고등연구소 사회과학부 교수"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청미(청미출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210726",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "에바 일루즈,에드가르 카바나스 지음 ;이세진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "289 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189134259",
+                "INPUT_DATE": "20210514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "해피크라시",
+                "PUBLISH_PREDATE": "20210610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

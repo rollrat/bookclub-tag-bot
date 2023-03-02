@@ -1,0 +1,67 @@
+{
+    "otitle": "네이버 마케팅의 정석",
+    "oauthor": "김대중 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "네이버 마케팅의 정석 (웹마스터도구와 애널리틱스를 활용한 네이버 SEO 마케팅)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481517958",
+                "image": "https://shopping-phinf.pstatic.net/main_3248151/32481517958.20221019105658.jpg",
+                "author": "김대중",
+                "discount": "17100",
+                "publisher": "원앤원북스",
+                "pubdate": "20190905",
+                "isbn": "9791170430155",
+                "description": "온라인 마케터라면 네이버 마케팅은 필수다!\n최적화 마케팅을 위한 네이버 웹마스터도구와\n네이버 애널리틱스의 모든 것!\n\n우리나라 최대 검색엔진 네이버를 빼고는 온라인 마케팅을 했다고 말할 수 없다. 어떻게 해야 마케팅하려는 콘텐츠가 네이버 검색결과에서 상위에 오를 수 있을까? 블로그 마케팅, 스마트스토어 마케팅, 인스타그램 마케팅 등 SNS에서의 마케팅보다 중요한 것은 검색엔진에 최적화시키는 전략이다. 검색결과에서 상위에 노출되고 싶다면 검색엔진이 좋아하는 웹사이트를 만들어야 한다. 이때 필요한 도구가 네이버 웹마스터도구와 네이버 애널리틱스다. 네이버 웹마스터도구로 웹사이트를 최적화하고, 네이버 애널리틱스로 방문자의 움직임을 효율적으로 파악하면, 나만의 마케팅 전략을 수립할 수 있다. 네이버 상위노출을 원한다면 이 책에서 알려주는 전략에 주목하자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191007",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김대중",
+                "SERIES_TITLE": "",
+                "KDC": "325.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "CIP2019032292",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170430155",
+                "INPUT_DATE": "20190816",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "네이버 마케팅의 정석",
+                "PUBLISH_PREDATE": "20190905",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

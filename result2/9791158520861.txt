@@ -1,0 +1,67 @@
+{
+    "otitle": "영어학습, 코칭이 답이다",
+    "oauthor": "민철홍,김형엽 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영어학습, 코칭이 답이다",
+                "link": "https://search.shopping.naver.com/book/catalog/32441642664",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441642664.20221227202846.jpg",
+                "author": "민철홍^김형엽",
+                "discount": "13500",
+                "publisher": "글로벌콘텐츠",
+                "pubdate": "20160229",
+                "isbn": "9791158520861",
+                "description": "영어성취도를 높이려면 학생들을 직접 지도하는 강사·교사·학부모의 역할이 매우 중요하다. 그들이 가져야 할 기본적인 역할이 바로 학습 코치의 역할이다. 이 책은 영어를 공부하는 학생, 영어를 가르치는 강사·교사, 자녀들에게 영어학습을 올바르게 코칭해 주고 싶은 학부모님들을 위해 만들어졌다.\n\n\n\n1부는 영어학습 코칭의 이해로서 영어학습 코칭전문가들 이 필수적으로 알아야 할 내용으로 구성했으며, 2부는 초등 영어학습자를 위한 영어학습법과 학부모, 강사들을 위해 초등 영어학습 코칭법의 내용을 정리했다. 3부는 중·고등 영어학습 코칭법으로 중학교 영어성적 을 잘 받고 수능을 준비를 위한 영어학습 코칭법을 정리했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "글로벌콘텐츠",
+                "DDC": "420",
+                "UPDATE_DATE": "20160307",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.gcbook.co.kr/",
+                "AUTHOR": "민철홍·김형엽",
+                "SERIES_TITLE": "",
+                "KDC": "740",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5227437_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5227437_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "350",
+                "CONTROL_NO": "CIP2016003948",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158520861",
+                "INPUT_DATE": "20160211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "영어학습 코칭이 답이다",
+                "PUBLISH_PREDATE": "20160229",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

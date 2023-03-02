@@ -1,0 +1,67 @@
+{
+    "otitle": "내가 바울을 사랑하는 30가지 이유",
+    "oauthor": "존 파이퍼 저/박대영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내가 바울을 사랑하는 30가지 이유",
+                "link": "https://search.shopping.naver.com/book/catalog/32491318732",
+                "image": "https://shopping-phinf.pstatic.net/main_3249131/32491318732.20221019152601.jpg",
+                "author": "존 파이퍼",
+                "discount": "13500",
+                "publisher": "생명의말씀사",
+                "pubdate": "20190927",
+                "isbn": "9788904166787",
+                "description": "기독교 역사상 가장 주목할 만한 인물! \n바울, 그는 누구인가?\n\n“내가 사도 바울과 함께 살아온 지도 60년이 넘었다. 그를 존경했고 묵상했고 암송했다. 때로는 그의 고난을 생각하며 울기도 했다. 그와 함께 비상하기도 했고 죽음의 문턱까지 가라앉기도 했다. 그가 쓴 가장 긴 서신을 강해하며 8년을 보내기도 했다. 그를 부지런히 흉내 냈다. 하지만 내게 십년이 더 주어진다 해도, 나는 그가 본 것에 근처에도 이르지 못할 것 같다.” _본문 중에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20191104",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "존파이퍼 지음 ;박대영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "262 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904166787",
+                "INPUT_DATE": "20190925",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "내가 바울을 사랑하는 30가지 이유",
+                "PUBLISH_PREDATE": "20190927",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

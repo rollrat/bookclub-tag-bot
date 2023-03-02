@@ -1,0 +1,67 @@
+{
+    "otitle": "한국 환상 동물 도감",
+    "oauthor": "이곤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한국 환상 동물 도감 (우리 신화 속 신비한 전설의 동물을 찾아서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473987273",
+                "image": "https://shopping-phinf.pstatic.net/main_3247398/32473987273.20230226071246.jpg",
+                "author": "이곤",
+                "discount": "14580",
+                "publisher": "봄나무",
+                "pubdate": "20191216",
+                "isbn": "9791156131359",
+                "description": "어린이 도서 최초로 소개되는 대한민국 환상 동물 35마리!\n신비한 신화와 전설, 민담에서 살아 숨 쉬는\n환상 동물을 탐험해 보자!\n\n전해 내려오는 대한민국 신화와 전설, 민담에는 신비로운 환상 속 동물들이 살아 있습니다. 《한국 환상 동물 도감》은 어린이 도서 최초로 대한민국 고전에서 살아 숨 쉬는 환상 동물들을 소개합니다. 상서로운 동물, 복을 부르는 동물, 용과 용을 꿈꾸는 동물, 하늘과 땅을 연결하는 동물, 해로운 동물, 특이한 동물 등. 35마리 환상 동물을 6장으로 나누어 수록하였습니다. 환상 동물들은 두 가지 화풍으로 묘사됩니다. 대한민국 전통 느낌이 물씬 드러나는 고급스러운 그림. 앞서 소개한 환상 동물을 아기자기하고 친근하게 표현한 캐릭터 그림. 이 그림들은 다양한 참고 자료를 바탕으로 표현되어 환상 동물들의 생김새를 생생하게 나타냈습니다.\n《한국 환상 동물 도감》에서 소개하는 다양한 환상 동물은 저마다 개성을 자랑합니다. 35마리 모두 생김새부터 특징까지 평범하지 않습니다. 이들은 어떻게 유래했는지. 이들에게는 어떤 능력이 있는지. 또 어떤 상징성이 있는지. 우리가 몰랐던 사실이나 환상 동물 관련 핵심 정보를 모아 한 권에 정리했습니다. 이 밖에도 소개하는 환상 동물과 관련이 있는 동물이나, 서양의 환상 동물도 함께 소개해 풍부한 읽을거리로 꾸몄습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "봄나무",
+                "DDC": "",
+                "UPDATE_DATE": "20200116",
+                "EA_ADD_CODE": "73910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이곤",
+                "SERIES_TITLE": "",
+                "KDC": "388",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/25/9791156131359.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "183 p.",
+                "CONTROL_NO": "CIP2019047960",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156131359",
+                "INPUT_DATE": "20191125",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "한국 환상 동물 도감",
+                "PUBLISH_PREDATE": "20191216",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

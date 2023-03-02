@@ -1,0 +1,67 @@
+{
+    "otitle": "대학생 사장님",
+    "oauthor": "이동혁 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "대학생 사장님 (돈 없이 창업해서 졸업 전에 1천만 원 통장 만들기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492764419",
+                "image": "https://shopping-phinf.pstatic.net/main_3249276/32492764419.20221230073622.jpg",
+                "author": "이동혁",
+                "discount": "10800",
+                "publisher": "이담북스",
+                "pubdate": "20190201",
+                "isbn": "9788926886717",
+                "description": "평범한 대학생에서 대학생 CEO가 되는 실전 창업 가이드북\n\n아르바이트보다 쉬운 창업!\n코딩을 못해도 앱 개발을, 외국어를 못해도 해외직구 창업에 도전하다.\n\n현 해외직구 플랫폼 ‘돌직구’ 대표, \n해외 한정판 쇼핑몰 ‘슈타쿠’ 대표가 \n되기까지의 생존창업 이야기\n\n한 달 100만 원 이상의 수익 벌기, 졸업 전에 1천만 원 통장 만들기 \n아르바이트보다 쉬운 대학생 창업의 모든 것!\n\n어느덧 창업을 시작한 지 4년 차 대학생 사장님인 저자는 현재 해외직구 플랫폼 ‘돌직구’와 해외 한정판 쇼핑몰 ‘슈타쿠’의 대표로 활발히 활동 중이다. 이 책은 아직 꿈이 없는 학생들, 취업준비생, 공시생, 창업에 조금이라도 관심 있는 학생들을 포함한 모든 대학생에게 창업에 대한 벽을 허물고 자신감을 주어 동기부여를 하는 데 목적을 두었다. 나아가 큰돈 없이 무자본, 소자본으로 하는 창업 전략, 창업동아리 100% 활용하는 방법, 아웃소싱업체 고르는 방법, 저자가 직접 만든 4.0 대학생 창업 매뉴얼까지 성공 창업 노하우를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20190218",
+                "EA_ADD_CODE": "13330",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "이동혁 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926886717",
+                "INPUT_DATE": "20190207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "대학생 사장님",
+                "PUBLISH_PREDATE": "20190201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

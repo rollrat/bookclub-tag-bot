@@ -1,0 +1,67 @@
+{
+    "otitle": "열 살에 익히면 좋을 지혜들",
+    "oauthor": "김태광 글/조안나 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "열 살에 익히면 좋을 지혜들 (열 살에 꿈꾸면 좋을 것들 2탄)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440852002",
+                "image": "https://shopping-phinf.pstatic.net/main_3244085/32440852002.20221019141718.jpg",
+                "author": "김태광",
+                "discount": "9900",
+                "publisher": "나무생각",
+                "pubdate": "20130321",
+                "isbn": "9788959373192",
+                "description": "세상의 다양한 지혜를 만나고 가지다!\n\n어린이책 작가 김태광이 세상을 살아갈 때 아이들이 가지고 있으면 좋을 지혜에 관한 이야기를 담은 『열 살에 익히면 좋을 지혜들』. 저자가 2011년 출간한 《열 살에 꿈꾸면 좋을 것들》(나무생각)에 이어, 자의식이 한창 자라나는 열 살 정도의 아이들을 위해 창작한 것이다. 학업이나 경쟁에 매몰되기 쉬운 아이들이 아이들이 사랑, 재치, 나눔, 끈기, 희망 등의 지혜를 갖추고서 세상을 슬기롭게 살아가도록 이끄는 이야기 32편을 들려주고 있다. \n\n배우고, 경험하고, 느끼고, 생각하는 연습을 통해 지혜를 얻도록 구성했다. 이야기마다 '생각을 키워 주는 지혜 비타민'을 곁들여 지혜의 의미와 중요성을 익히게 해준다. 나아가 지혜를 가짐으로써 자신에게 닥친 어려움을 극복할 뿐 아니라, 시련 속에서도 기회를 찾아 꿈을 이루어나가도록 인도하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20130417",
+                "EA_ADD_CODE": "73320",
+                "PUBLISHER_URL": "namu@namubook.co.kr",
+                "AUTHOR": "김태광 지음 ;조안나 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959373192",
+                "INPUT_DATE": "20130315",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "열 살에 익히면 좋을 지혜들 ",
+                "PUBLISH_PREDATE": "20130321",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "오! 한강 4",
+    "oauthor": "김세영 저/허영만 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오! 한강 4: 독재 (독재)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466969936",
+                "image": "https://shopping-phinf.pstatic.net/main_3246696/32466969936.20221019141633.jpg",
+                "author": "김세영",
+                "discount": "9000",
+                "publisher": "가디언",
+                "pubdate": "20190425",
+                "isbn": "9791189159313",
+                "description": "25년의 시간을 뛰어넘어 부활한 허영만, 김세영의 『오! 한강』!\n\n민주화 시위가 치열했던 1980년대 말, 해방 이후부터 1987년 6월 항쟁까지 우리의 현대사를 생생하고 드라마틱하게 그려낸 만화가 허영만과 만화 작가 김세영의 『오! 한강』 제4권 《독재》. 만화의 인기가 정점을 달렸던 1980년대 코믹한 분위기를 거두고 현실 속의 이념 대립 문제를 정면으로 다룬 우리나라의 첫 이데올로기 만화다. 오늘날의 시각으로 쓴 현대사와 달리, 1980년대 민주화 운동이 격렬했던 당시에 그려진 현대사로, 시대의 분위기를 생생하게 담고 있다.\n\n정치재판으로 죽산 조봉암이 사형당한 후 이강토는 절망한다. 한편 아들 석주도 화가의 길을 걷는다. 그는 군사독재 정권 시대를 살아간다. 빈부 격차는 심해졌고, 언론은 타락했다. 광주 학살을 미국이 승인했다는 이야기를 들은 석주는 아버지와 대화하며 어느 한쪽에 붙을 수밖에 없는 것이 우리의 비극이며 예술가는 모든 것과 싸워야 한다는 조언을 듣는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가디언",
+                "DDC": "",
+                "UPDATE_DATE": "20190521",
+                "EA_ADD_CODE": "04910",
+                "PUBLISHER_URL": "www.sirubooks.com",
+                "AUTHOR": "글: 김세영 ;그림: 허영만",
+                "SERIES_TITLE": "",
+                "KDC": "911.075",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791189159276",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/04/9791189159313.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "171 p.",
+                "CONTROL_NO": "CIP2019013202",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189159313",
+                "INPUT_DATE": "20190404",
+                "SET_EXPRESSION": "",
+                "VOL": "4",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "오! 한강",
+                "PUBLISH_PREDATE": "20190425",
+                "RELATED_ISBN": "9791189159245",
+                "SET_ADD_CODE": "04910 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

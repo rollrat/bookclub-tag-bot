@@ -1,0 +1,67 @@
+{
+    "otitle": "양심 고백 - 김동식 소설집 4",
+    "oauthor": "김동식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "양심 고백(큰글자도서) (김동식 소설집 4)",
+                "link": "https://search.shopping.naver.com/book/catalog/32460422826",
+                "image": "https://shopping-phinf.pstatic.net/main_3246042/32460422826.20221019150347.jpg",
+                "author": "김동식",
+                "discount": "13500",
+                "publisher": "요다",
+                "pubdate": "20220328",
+                "isbn": "9791190749398",
+                "description": "2018년 출판계를 강타한 소설 『회색 인간』의 작가 김동식 신작 단편 소설집. 김동식 작가가 2년간 쏟아낸 400여 편의 이야기 가운데 경쟁과 물신 풍조가 팽배한 현대 사회의 딜레마를 보여주는 26편의 이야기를 실었다. 인간에 평점이 매겨지는 세상, 자살하려는 청소년을 구하는 마법사, 부자 노인과 가난한 청년의 딜레마 등 일상 속에서 만날 수 있는 다양한 상황을 배경으로 낯선 상상력을 펼쳐냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "요다",
+                "DDC": "",
+                "UPDATE_DATE": "20220620",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김동식",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "29000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*297",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190749398",
+                "INPUT_DATE": "20220222",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "양심고백",
+                "PUBLISH_PREDATE": "20220328",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

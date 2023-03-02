@@ -1,0 +1,67 @@
+{
+    "otitle": "내 몸이 예전 같지 않을 때 읽는 책",
+    "oauthor": "김유겸,최승홍 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 몸이 예전 같지 않을 때 읽는 책 (서울대 체대, 의대 교수가 말하는 최강의 컨디션 회복법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473327287",
+                "image": "https://shopping-phinf.pstatic.net/main_3247332/32473327287.20221228072956.jpg",
+                "author": "김유겸^최승홍",
+                "discount": "600",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20200819",
+                "isbn": "9791190908696",
+                "description": "나이가 들면서 몸이 예전 같지 않다. 목이 뻣뻣하거나 어깨가 결리거나 허리가 뻐근하거나 무릎이 쑤시거나 발목이 시큰하다. 병원에 갈 정도는 아닌 거 같은데 통증과 찌뿌둥함이 사라지지 않는다. 마사지를 받아도 그때만 효과가 있을 뿐 오히려 다음 날이면 몸이 더 쑤신다. 이런 당신을 위해 서울대 최고의 전문가 두 명이 뭉쳤다. \n\n\n\n《내 몸이 예전 같지 않을 때 읽는 책》의 저자 서울대 체대 교수와 서울대 의대 교수는 큰 힘을 들이지 않고 통증을 없애고 몸이 가벼워지는 방법을 연구했다. 그 결과 만성 통증, 비만, 우울증, 불면증, 집중력 저하 등 언뜻 보면 관련 없어 보이는 문제가 사실 알고 보면 모두 운동 부족 때문이라는 걸 알아냈다. 온몸이 찌뿌둥한 게 나이를 먹어 그런 줄 알았겠지만 사실 그렇지 않다. 이 책을 따라 하루 10분만 투자해도 내 몸을 전성기 상태로 돌릴 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20200909",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김유겸,최승홍 지음",
+                "SERIES_TITLE": "",
+                "KDC": "517.32",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "205 p.",
+                "CONTROL_NO": "CIP2020032159",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190908696",
+                "INPUT_DATE": "20200731",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "내 몸이 예전 같지 않을 때 읽는 책",
+                "PUBLISH_PREDATE": "20200819",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

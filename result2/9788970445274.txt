@@ -1,0 +1,78 @@
+{
+    "otitle": "괴델 불완전성 정리",
+    "oauthor": "요시나가 요시마사 저/임승원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:52 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "괴델 불완전성 정리 (“이성의 한계”의 발견)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497827749",
+                "image": "https://shopping-phinf.pstatic.net/main_3249782/32497827749.20221227202955.jpg",
+                "author": "요시나가 요시마사",
+                "discount": "13500",
+                "publisher": "전파과학사",
+                "pubdate": "19931001",
+                "isbn": "9788970445274",
+                "description": "\"인간의 지혜에는 한계가 있다.\" 수리논리학지 괴델이 제시한 불완전성 논리는 논리를 기둥으로 하는 수학 물리학에 거대한 충격을 주었다. 그 이론과 영향을 다양한 보기와 그림을 통해 쉽게 해설했다."
+            },
+            {
+                "title": "미르카, 수학에 빠지다 3: 망설임과 괴델의 불완전성 정리 (망설임과 괴델의 불완전성 정리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32584244637",
+                "image": "https://shopping-phinf.pstatic.net/main_3258424/32584244637.20230103163429.jpg",
+                "author": "유키 히로시",
+                "discount": "21150",
+                "publisher": "이지북",
+                "pubdate": "20220603",
+                "isbn": "9788957072356",
+                "description": "★ 수학 능력과 생각의 힘을 길러주는 청소년 수학 소설  \n재기발랄 고딩들이 펼치는 흥미진진한 수학 배틀\n\n『미르카, 수학에 빠지다』는 한 남고생과 두 여고생이 벌이는 쟁쟁한 수학 배틀 이야기를 그렸다. 수학을 소설 형식으로 풀어내 수식 원리를 깨치게 하고 수학하는 즐거움을 안겨 준다. 대입을 준비하는 청소년들의 꿈과 우정, 사랑을 담고 있는 흥미진진한 청춘 소설이기도 하다. 추리 문제를 풀듯 수식을 푸는 세 학생들의 수학 이야기는 난해한 수학 원리를 쉽게 이해할 수 있도록 이끈다. 또한, 추리 문제를 풀 듯 펼쳐지는 수식 전개 과정을 따라가며 수학적 사고력과 발상법을 배울 수도 있다. \n  『미르카, 수학에 빠지다』3권에서는 주인공 나와 미르카, 테트라, 사촌동생 유리가 괴델의 증명을 따라가는 논리 여행을 떠난다. ‘정직한 사람은 누구인가?’라는 질문에서부터 집합과 논리, 무한의 영역을 넘나들며 괴델의 증명에 이어 간다. 미르카가 논리식 하나하나에 고유의 괴델수를 부여해 증명해 나가는 과정은 독자들이 괴델의 불완전성 정리를 좀 더 쉽게 이해할 수 있도록 이끈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19931015",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "요시나가 요시마사 저 ; 임승원 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "19931030",
+                "TITLE_URL": "",
+                "PRE_PRICE": "5000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "15000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970445274",
+                "INPUT_DATE": "19931015",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "괴델 불완전성 정리",
+                "PUBLISH_PREDATE": "19931030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

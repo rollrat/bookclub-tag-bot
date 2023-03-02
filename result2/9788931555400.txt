@@ -1,0 +1,67 @@
+{
+    "otitle": "게임 디자이너를 위한 문서 작성 기술",
+    "oauthor": "주진영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "게임 디자이너를 위한 문서 작성 기술 (컨셉단계부터 레벨디자인까지 문서작성으로 보는 게임디자인과정의 모든것!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492041025",
+                "image": "https://shopping-phinf.pstatic.net/main_3249204/32492041025.20230207163535.jpg",
+                "author": "주진영",
+                "discount": "14400",
+                "publisher": "성안당",
+                "pubdate": "20210614",
+                "isbn": "9788931555400",
+                "description": "게임 디자이너를 위한 문서 작성 기술은\n\n게임 디자이너를 지망하는 많은 이들이 문서 정리의 효용성에 대해서 궁금해 한다. 많은 경험자들은 문서를 팀원들이 모두 꼼꼼하게 읽지 않는다는 것을 알고 있고, 문서에 쓸 문장을 고민하는 것보다 게임 플레이를 한 번이라도 더 해보는 게 낫다고 생각한다.\n가장 좋은 경험은 역시 게임을 만들어 보는 것이지만 경험이 없는 이들이 아이디어가 떠오른다고 해서 그것을 곧바로 구현할 수 있을까? 게임은 꽤 복잡한 구성요소를 가지고 있으며 전체적인 모습을 정리하는 것은 나름 훈련이 필요하다. 그리고 무언가를 만들기 위해서는 생각을 정리하는 과정도 필요하다. 문서를 정리하는 것은 자신의 생각을 정리하면서 게임의 형태를 완성시켜볼 수 있는 좋은 연습 과정이 될 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20180419",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "주진영 지음",
+                "SERIES_TITLE": "BM성안당",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20180326",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "16800",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "5540",
+                "EA_ISBN": "9788931555400",
+                "INPUT_DATE": "20180419",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "게임 디자이너를 위한 문서 작성 기술",
+                "PUBLISH_PREDATE": "20180326",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

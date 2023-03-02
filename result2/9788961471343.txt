@@ -1,0 +1,67 @@
+{
+    "otitle": "번역투의 유혹",
+    "oauthor": "오경순 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "번역투의 유혹 (일본어가 우리말을 잡아먹었다고)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492683714",
+                "image": "https://shopping-phinf.pstatic.net/main_3249268/32492683714.20221019134548.jpg",
+                "author": "오경순",
+                "discount": "13500",
+                "publisher": "이학사",
+                "pubdate": "20100731",
+                "isbn": "9788961471343",
+                "description": "『번역투의 유혹』은 저자가 번역을 해오면서 입말과 글말, 번역투에 관심을 갖고 우리말 공부를 해 온 결과물이다. 이 책은 원문 독자의 반응과 언어 효과와 감동을 그대로 번역문 독자의 반응과 언어 효과와 감동으로 전달할 수 있는 대안으로서 번역투의 문제를 집중 조명하였다. 올바른 문화로 이어지는 올바른 번역을 위한 첫 단계로 번역투와 가독성의 문제를 살펴보며, 그러한 문제를 해결하는 방법론을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이학사",
+                "DDC": "495.68",
+                "UPDATE_DATE": "20100728",
+                "EA_ADD_CODE": "93700",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오경순 지음",
+                "SERIES_TITLE": "",
+                "KDC": "737.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2415725_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2415725_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2010002472",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961471343",
+                "INPUT_DATE": "20100707",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "번역투의 유혹 ",
+                "PUBLISH_PREDATE": "20100731",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

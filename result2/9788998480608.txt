@@ -1,0 +1,67 @@
+{
+    "otitle": "워킹맘 홈스쿨, 하루 15분의 행복",
+    "oauthor": "김은영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "워킹맘 홈스쿨, 하루 15분의 행복 (초보 워킹맘이 눈물 쏙 빼고 찾아낸 홈스쿨 노하우!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490498644",
+                "image": "https://shopping-phinf.pstatic.net/main_3249049/32490498644.20220527064816.jpg",
+                "author": "김은영",
+                "discount": "12150",
+                "publisher": "시루",
+                "pubdate": "20151127",
+                "isbn": "9788998480608",
+                "description": "일과 육아 사이에서 고군분투하며 일분일초가 아쉽게 살아가는 워킹맘들을 위한 책. 저자는 워킹맘들에게 모든 집안일과 개인 일처리를 뒤로 미루고 하루 15분, 딱 그 시간만큼은 온전히, 의식적으로 아이에게 집중할 것을 조언한다. 하루 1,440분 중 15분은 아주 짧은 시간이지만 1년을 축적한다면 아이와 엄마에게 기적 같은 변화를 이끌어낼 수 있다. 더구나 그 15분의 시간은 미래를 위해 참고 견뎌야 하는 시간이 아니라 당장 엄마와 아이를 행복하게 만드는 선물 같은 시간이 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시루",
+                "DDC": "649.68",
+                "UPDATE_DATE": "20151217",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김은영",
+                "SERIES_TITLE": "",
+                "KDC": "598.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5012669_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5012669_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 250페이지 내외",
+                "CONTROL_NO": "CIP2015030834",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998480608",
+                "INPUT_DATE": "20151111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "워킹맘 홈스쿨, 하루 15분의 행복",
+                "PUBLISH_PREDATE": "20151127",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "지리학자의 인문여행",
+    "oauthor": "이영민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지리학자의 인문 여행",
+                "link": "https://search.shopping.naver.com/book/catalog/32496608082",
+                "image": "https://shopping-phinf.pstatic.net/main_3249660/32496608082.20221228073745.jpg",
+                "author": "이영민",
+                "discount": "12600",
+                "publisher": "아날로그(글담)",
+                "pubdate": "20190614",
+                "isbn": "9791187147411",
+                "description": "획일적인 여행이 아닌 깊이 있는 여행을 떠나고 싶다면\n여행지를 고르지만 말고 어떻게 바라볼지 고민해야 합니다\n\n여행하는 지리학자가 인문지리학적 관점으로 장소와 그곳 사람들을 바라보는 여행기입니다. 저자는 홍매화로 유명한 선암사에서 인증샷만 남기는 여행이 아니라 고유의 향기와 소리를 즐기는 여행을 권합니다. 수많은 서부영화의 촬영지인 미국 모뉴먼트밸리를 해 질 녘에 찾아서는 지리를 알고 간다면 여행의 즐거움이 어떻게 달라지는지를 보여 줍니다. 여행의 이동 수단으로만 생각되던 기차로는 어떻게 색다른 여행을 떠날 수 있는지도 알려 줍니다. 여행에 정답은 없지만 여행의 즐거움을 좀 ‘더’ 끌어올리는 데 지리가 유용하다는 점은 분명합니다. \n\n남들과 다른, 깊이 있고 색다른 여행을 원하는 사람에게 이 책은 유용합니다. 지리는 길찾기 지식이 아닙니다. 장소와 인간의 관계에 대한 지식입니다. 독특한 자연환경과 그 속에서 살아가는 사람들이 펼치는 역동적인 삶의 이야기입니다. 그렇기 때문에 지리를 알고 떠나는 여행자는 단순한 구경꾼이 아닌 참여자로서 여행지를 들여다보고, 세상을 바라보는 시각을 넓힐 수 있습니다. 사진만 찍고 마는 여행이 아니라 깊이 있는 여행을 떠나고 싶은 사람, 이전과는 다른 여행을 떠나고 싶은 사람 등 여행을 준비하는 모든 사람에게 이 책이 필수 준비물인 이유입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아날로그",
+                "DDC": "",
+                "UPDATE_DATE": "20190613",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이영민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "980",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/14/9791187147411.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "CIP2019018993",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187147411",
+                "INPUT_DATE": "20190514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "지리학자의 인문여행",
+                "PUBLISH_PREDATE": "20190614",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

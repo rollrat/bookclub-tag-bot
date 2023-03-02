@@ -1,0 +1,67 @@
+{
+    "otitle": "세계문화유산 바이블",
+    "oauthor": "오주환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계문화유산 바이블 : 한국편 (누구나 알지만 아무도 모르는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503817983",
+                "image": "https://shopping-phinf.pstatic.net/main_3250381/32503817983.20221228073631.jpg",
+                "author": "오주환",
+                "discount": "14310",
+                "publisher": "상상출판",
+                "pubdate": "20150317",
+                "isbn": "9791186163955",
+                "description": "왜 하필 우리의 뛰어난 문화재 중에서 불국사, 석굴암, 종묘, 남한산성, 수원화성 등이 한국의 세계문화유산으로 등재됐을까? 우리가 모르는 어떤 가치가 숨겨져 있는 것일까? 이런 궁금증이 든다면 당장 책을 펼쳐보자. 유네스코에 등재된 세계문화유산의 등재시기, 등재이유, 문화적 특징, 역사, 눈여겨보면 좋을 각종 Tip이 책 곳곳에 담겨 있다. \n\n\n\n특히 세계문화유산에 등재된 수원화성 이야기는 드라마틱하다. 수원화성은 복원된 문화재라서 유네스코 세계문화유산 심사단이 등재를 꺼렸지만 뒤늦게 &lt;화성성역의궤&gt;가 발견되어 이들의 마음을 움직였다. 우리나라가 임의로 수원화성을 복원한 것이 아니라 정확한 기록에 따라 축성 당시의 모습 그대로 복원했다는 것이 밝혀진 것이다. 이후 수원화성은 “서양을 망라하여 고도로 발달된 과학적 특징을 고루 갖춘 근대초기 건축물의 뛰어난 모범”이라는 극찬을 받았다. 다른 세계문화유산의 비밀 역시 책에서 만날 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "910.2",
+                "UPDATE_DATE": "20150417",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오주환",
+                "SERIES_TITLE": "",
+                "KDC": "980.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4424275_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4424275_3.jpg",
+                "PRE_PRICE": "15900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015007232",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186163955",
+                "INPUT_DATE": "20150303",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "세계문화유산 바이블 : 한국편",
+                "PUBLISH_PREDATE": "20150317",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

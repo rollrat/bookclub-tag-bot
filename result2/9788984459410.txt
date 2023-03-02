@@ -1,0 +1,67 @@
+{
+    "otitle": "논어로 망한 조직, 한비자로 살린다",
+    "oauthor": "모리야 아쓰시 저/하진수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "논어로 망한 조직, 한비자로 살린다 (논어적 조직의 문제는 한비자가 해답이다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497540837",
+                "image": "https://shopping-phinf.pstatic.net/main_3249754/32497540837.20220527024948.jpg",
+                "author": "모리야 아쓰시",
+                "discount": "0",
+                "publisher": "시그마북스",
+                "pubdate": "20171211",
+                "isbn": "9788984459410",
+                "description": "『한비자』로 『논어』의 결점을 보완하라!\n\n고베제강의 품질 조작, 닛산의 부정 검사, 도시바에 이어 후지제록스의 연이은 회계조작 등 일본 대표 기업들의 엄청난 문제들이 드러나고 있다. 이 책에서는 이러한 일본 조직에서 생기는 문제들이 대부분 논어식 사고방식 때문이라고 말하며, 논어적 조직의 문제점들은 한비자식 사고방식으로 해결해야 한다고 강조한다. 『논어』의 대립 명제로 『한비자』가 출현한 것처럼 말이다. 이 책은 『한비자』가 주요 주제이지만 이 사상을 형성하는 데 토대가 되었던 『논어』의 사상도 함께 소개하고 있다. 대비되는 『한비자』와 『논어』의 사상을 확인하는 것만으로도 큰 깨달음과 재미를 얻을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "658.402",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "모리야 아쓰시 ;하진수",
+                "SERIES_TITLE": "",
+                "KDC": "325.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6425637_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6425637_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "344 p. ",
+                "CONTROL_NO": "CIP2017029644",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984459410",
+                "INPUT_DATE": "20171109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "논어로 망한 조직 한비자로 살린다 ",
+                "PUBLISH_PREDATE": "20171205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "Do it! 첫 인공지능",
+    "oauthor": "이애리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:38 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "Do it! 첫 인공지능 (보통 사람이 알아야 할 인공지능 기초!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436149439",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436149439.20221019123335.jpg",
+                "author": "이애리",
+                "discount": "11700",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20220401",
+                "isbn": "9791163033431",
+                "description": "“어라? 인공지능을 이렇게 쉽게 만들 수 있었나?”\n코드 한 줄 없이 기초 이론부터 제작까지! 내 손으로 직접 만드는 인공지능\n\n이 책은 코딩이 낯선 학생도, 인공지능은 나와 먼 얘기라 생각하던 비전공자도 인공지능을 완성할 수 있도록 모든 과정을 담았습니다. 먼저 말랑말랑한 그림과 비유 그리고 재미있는 사례들을 읽다 보면 금세 데이터와 알고리즘, 기계 학습을 이해하게 될 것입니다. 그런 다음 구글에서 무료로 제공하는 웹 제작 도구인 ‘티처블 머신’에서 제공하는 3가지 프로젝트를 따라 3개의 머신러닝 모델을 만들어 볼 거예요. 생각보다 인공지능이 쉽다고 느껴질 때쯤 이제 나만의 맞춤 인공지능을 기획하고, 모델을 만들고, 마지막으로  ‘스크래치’와 ‘마이크로비트’로 현실에서 움직이는 나의 인공지능을 완성합니다. 아마 이 책을 덮고 나면 새로 인공지능을 기획하는 자신을 발견하게 될 거예요."
+            },
+            {
+                "title": "Do it! 첫 통계 with 베이즈 (인공지능 기술을 뒷받침하는 통계 기초)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436334907",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436334907.20230131164550.jpg",
+                "author": "사사키 준",
+                "discount": "11700",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20211111",
+                "isbn": "9791163033073",
+                "description": "‘17가지 통계 기초 + 26가지 생활 속 문제 풀이’로\n최신 유행하는 베이즈 통계 입문하기!\n\n인공지능 시대, 통계 입문에 적합한 책이 나왔다! 『Do it! 첫 통계 with 베이즈』는 생활 속 문제를 해결하면서기초 통계의 개념부터 최신 베이즈 통계 이론을 재미있게 배울 수 있다. 일본의 한 중학교에서 성적 최하위 반을 맡아우수반 평균 이상의 성적을 내도록 가르쳐 유명해진 수학전문 교사 사사키 준이 집필한 책의 국내 번역서다.\n베이즈 통계는 바이러스 검사의 신뢰성 확인, 비행기 추락 지역이나 잠수함 침몰 위치 추측, 스팸 메일 판정, 그리고 최근 주목받는 인공지능에 이르기까지 활용 범위가 넓은 필수 통계학이다. 이 책에서는 베이즈 통계에 필요한 기초 지식과 실제 응용법을 터득할 수 있도록 17가지 통계 기초와 26가지 생활 속 문제를 독자와 함께 풀어 본다. 그리고 베이즈 통계를 어렵게 하는 기호와 조건부 확률이라는 벽을 그림과 친절한 설명으로 쉽게 넘을 수 있도록 안내한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20220630",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "이애리 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163033431",
+                "INPUT_DATE": "20220308",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(Do it!) 첫 인공지능",
+                "PUBLISH_PREDATE": "20220401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "당신에게 실크로드",
+    "oauthor": "정효정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신에게 실크로드 (여자 혼자 경주에서 로마까지 143일)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496646040",
+                "image": "https://shopping-phinf.pstatic.net/main_3249664/32496646040.20221227202917.jpg",
+                "author": "정효정",
+                "discount": "14400",
+                "publisher": "꿈의지도",
+                "pubdate": "20160130",
+                "isbn": "9791186581612",
+                "description": "도보여행가 베르나르 올리비에가 터키 이스탄불에서 중국 시안까지 실크로드를 걸었다면, 한국의 작고 여린 ‘라모 정’은 그 반대방향으로, 한국의 경주에서 출발해 이탈리아의 로마까지 실크로드를 여행했다. 저자가 경주부터 이 험난한 여정을 시작한 것은 ‘실크로드의 출발점은 중국 시안이 아니라 바로 경주’라고 믿기 때문이다. ‘국립경주박물관에 전시된 신라인들의 ‘잇(it)’ 아이템 가운데 지중해 연안에서 생산된 유리제품들이 있다. 저자는 이것들이 경주가 실크로드의 종착역이었다는 것을 반증하는 증거라고 굳게 믿는다.  \n\n\n\n젊고 발랄한 여자, 방송작가로 활동하고 있는 센스 만점, 재치 포텐 터지는 작가의 말빨, 글빨이 사람을 끌어들인다. 먼지 풀풀 날리는 낡은 문체와 지루한 설명이 가득한 실크로드라면 생각만 해도 너나없이 잠이 쏟아질 것이다. 험난하고 척박한 곳, 쉽게 친해지기 어려운 머나먼 곳이라는 편견도 많다. 그러나 이 책은 고루하지도, 지루하지도 않다. 당연히 뻔한 해설과 교양을 강요하지 않는다. 술술 읽히는 문장과 흥미진진한 이야기는 그 어떤 소설보다 흡인력이 있다. 키르기스스탄의 바다 이식쿨 호수의 풍광, 실크로드에 살고 있는 천진하고 맑은 아이들의 눈빛이 담긴 사진들은 어떤 영화보다 오래 기억될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20160211",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "정효정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "450",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186581612",
+                "INPUT_DATE": "20160104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "당신에게, 실크로드",
+                "PUBLISH_PREDATE": "20160131",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

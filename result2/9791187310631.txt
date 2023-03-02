@@ -1,0 +1,67 @@
+{
+    "otitle": "하버드 감성지능 강의",
+    "oauthor": "하버드 공개 강의 연구회 저/송은진 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하버드 감성지능 강의 (인생을 성공으로 이끄는 감정 경영 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32452364380",
+                "image": "https://shopping-phinf.pstatic.net/main_3245236/32452364380.20221019150800.jpg",
+                "author": "하버드 공개강의연구회",
+                "discount": "16200",
+                "publisher": "북아지트",
+                "pubdate": "20220325",
+                "isbn": "9791187310631",
+                "description": "하버드대학교 케네디스쿨 석좌교수 조지프 나이,\n“소프트파워의 제1조건을 ‘감성지능’이라 말한다.\n\n소프트파워란 ‘강제나 보상이 아닌 설득과 매력을 통해 원하는 것을 얻는 능력’이다. 하버드대학교 케네디스쿨 석좌교수이자 세계적인 정치가인 조지프 나이는 소프트파워를 갖추기 위한 제1의 조건을 ‘감성지능’이라 말한다. 자신의 감정을 제어하고, 타인의 감정을 이해할 수 있다면 그 어떤 상황에서도 긍정적인 결과를 이끌어낼 수 있다. \n그런 의미에서 〈하버드 감성지능 강의〉는 소프트파워 기술의 정석이다. 하버드대학교에서 강조하는 감성지능의 중요성은 물론, 감정을 수용하고 나아가 이용하는 법을 담았다. 다양한 사례와 폭넓은 해석으로 감성지능을 키우는 방법을 완벽하게 정리했다. 선천적인 면이 두드러지는 지능에 비해 감성지능은 완전히 후천적으로 길러진다. 이 말은 어떤 사람도 감성지능을 높여 성공에 한걸음 바짝 다가갈 수 있다는 뜻이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Book Agit :작은우주",
+                "DDC": "",
+                "UPDATE_DATE": "20220422",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하버드 공개강의연구회 지음 ;송은진 엮음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "410 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187310631",
+                "INPUT_DATE": "20220216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "하버드 감성지능 강의",
+                "PUBLISH_PREDATE": "20220325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

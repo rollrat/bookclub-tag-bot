@@ -1,0 +1,67 @@
+{
+    "otitle": "초상들",
+    "oauthor": "톰 오버턴 편/김현우 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초상들 (존 버거의 예술가론)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441659119",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441659119.20221230072903.jpg",
+                "author": "존버거",
+                "discount": "35100",
+                "publisher": "열화당",
+                "pubdate": "20190401",
+                "isbn": "9788930106382",
+                "description": "미술작품을 본 후에 나는 그것이 전시되어 있던 미술관이나 갤러리를 나와, 잠시나마 그 작품이 만들어진 작업실로 들어간다. 거기서 그 작품이 만들어지던 때의 이야기를 듣기를 희망하면서 기다린다. 그 이야기 안에 담긴 희망과 선택과 실수와 새로운 발견들을 말이다. 나는 혼잣말을 한다, 작업실 바깥의 세상을 떠올리고, 예술가에게 말을 건다. 내가 아는 사람일 수도 있고, 몇 세기 전에 세상을 떠난 사람일 수도 있다. 가끔, 그가 해낸 작업 안의 무언가가 응답한다. 단 하나의 결론은 없다. 이따금씩 우리 둘을 모두 혼란에 빠뜨리는 새로운 영역이 펼쳐지기도 한다. 또 이따금씩은 우리 둘을 숨 막히게 하는 어떤 비전이 떠오르기도 한다. 마치 신의 계시 앞에서 숨이 막히는 것처럼.\n그런 접근과 실천이 어떤 것을 내어 줄 수 있는지는, 나의 글을 읽게 될 독자들의 판단에 달려 있다. 내가 직접 말할 수는 없다. 나는 늘 의심스러웠다. 하지만 한 가지, 확신할 수 있는 것은, 그 과정에서 모든 예술가들이 보여 준 환대에 대해 내가 감사하는 마음을 지니고 있다는 것이다.\n이 책에 실린 도판들은 모두 흑백이다. 요즘 같은 소비주의 시대에, 광이 나는 천연색 복제화는 그 이미지를 통해 전달되는 대상을 백만장자들을 위한 장식품으로 축소시켜 버리는 경향이 있기 때문이다. 그에 반해 흑백으로 된 복제화는 단순한 기록이라고 할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열화당",
+                "DDC": "",
+                "UPDATE_DATE": "20190426",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.youlhwadang.co.kr",
+                "AUTHOR": "톰 오버턴 엮음 ;김현우 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "609",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/06/9788930106382.jpg",
+                "PRE_PRICE": "39000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "664 p.",
+                "CONTROL_NO": "CIP2019008504",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788930106382",
+                "INPUT_DATE": "20190306",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "초상들",
+                "PUBLISH_PREDATE": "20190401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

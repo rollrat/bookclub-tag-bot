@@ -1,0 +1,67 @@
+{
+    "otitle": "연료전지의 활용",
+    "oauthor": "혼마 다쿠야 저/윤실,정해상 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "연료전지의 활용",
+                "link": "https://search.shopping.naver.com/book/catalog/32507173659",
+                "image": "https://shopping-phinf.pstatic.net/main_3250717/32507173659.20221229074411.jpg",
+                "author": "혼마 다쿠야",
+                "discount": "12600",
+                "publisher": "전파과학사",
+                "pubdate": "20070910",
+                "isbn": "9788970442587",
+                "description": "이 책은 연료전지에 관한 일반론이 아니라 연료전지의 동작과 성능을 위주로 하여 열역학 및 전기화학의 관점에서 설명하는 데 주안을 주고 쓴 입문 강좌이다. 따라서 연료전지 기술에 관해서는 초보자일지라도 이공학 분야의 선생들을 대상으로 하여, 그분들이 연료전지의 구조와 동작을 이론적으로 이해하는데 도움이 되는 내용이 되도록 배려했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20180621",
+                "EA_ADD_CODE": "93500",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "혼마 다쿠야 저;윤실,정해상 옮김 ",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970442587",
+                "INPUT_DATE": "20070824",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "연료전지의 활용",
+                "PUBLISH_PREDATE": "20070910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

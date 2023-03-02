@@ -1,0 +1,67 @@
+{
+    "otitle": "100초 정치사회 수업",
+    "oauthor": "CBS 노컷뉴스 씨리얼 제작팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "100초 정치사회 수업 (지금 꼭 알아야 할 필수 지식 원포인트 레슨)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505710697",
+                "image": "https://shopping-phinf.pstatic.net/main_3250571/32505710697.20220527030143.jpg",
+                "author": "CBS 노컷뉴스 씨리얼 제작팀",
+                "discount": "0",
+                "publisher": "허밍버드",
+                "pubdate": "20170410",
+                "isbn": "9788968331305",
+                "description": "『100초 정치사회 수업』은 화제의 노컷뉴스 씨리얼(C-Real)의 콘텐츠를 재구성한 책으로, 더도 말고 덜도 말고 딱 ‘100초’면 이해 가능하다. 딱딱하고 어려운 정치 이야기를 사진과 이야기 그리고 영상(QR코드 수록)을 통해 쉽고 재미있게 배울 수 있다. ‘여당과 야당’을 구분하는 방법부터 대표다운 대표를 뽑는 ‘선거 제도’까지 꼭 알아야 할 필수 기본 정치 개념은 물론, 지금 여기 인간답게 살아가기 위해 반드시 알아야 할 한국 사회의 뜨거운 이슈 10가지를 만나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)백도씨",
+                "DDC": "320.02",
+                "UPDATE_DATE": "20170419",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "https://blog.naver.com/100doci",
+                "AUTHOR": "CBS 노컷뉴스 씨리얼 제작팀",
+                "SERIES_TITLE": "",
+                "KDC": "340.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6185854_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6185854_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "360페이지 ",
+                "CONTROL_NO": "CIP2017008128",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788968331305",
+                "INPUT_DATE": "20170329",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "100초 정치사회 수업",
+                "PUBLISH_PREDATE": "20170410",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

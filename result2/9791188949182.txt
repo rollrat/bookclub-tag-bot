@@ -1,0 +1,67 @@
+{
+    "otitle": "지극히 사적인 프랑스",
+    "oauthor": "오헬리엉 루베르,윤여진 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지극히 사적인 프랑스 (프랑스인 눈으로 ‘요즘 프랑스’ 읽기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487174796",
+                "image": "https://shopping-phinf.pstatic.net/main_3248717/32487174796.20230112071358.jpg",
+                "author": "오헬리엉 루베르^윤여진",
+                "discount": "0",
+                "publisher": "틈새책방",
+                "pubdate": "20191004",
+                "isbn": "9791188949182",
+                "description": "JTBC [비정상회담] 오헬리엉 루베르의 프랑스 이야기\n냉정한 시선으로 환상을 걷어 낸 프랑스 인문서\n프랑스의 현재를 한눈에 보여주는 최신판 업데이트 \n\n[비정상회담]의 패널로 활약한 오헬리엉 루베르가 프랑스를 소개하는 인문서를 냈다. 『지극히 사적인 프랑스』는 대학에서 학생들을 가르치며 방송 활동을 한 오헬리엉이 자신의 눈으로 바라본 프랑스를 소개하는 책이다. 알베르토 몬디의 『이탈리아의 사생활』, 에밀 라우센의 『상상 속의 덴마크』에 이어 틈새책방이 기획한 [지구 여행자를 위한 안내서]시리즈의 세 번째 책이다.\n\n이 책은 프랑스의 남녀 관계부터 특유의 개인주의, 프랑스의 미식 문화, 교육, 취향, 정치, 프랑스인의 정체성 그리고 오헬리엉이 추천하는 프랑스의 개성 넘치는 여행지를 담고 있다. 프랑스를 이해하는 기초가 되는 문화, 정치, 사회 전반에 이르는 지식을 한국인의 입장에서 이해하기 쉽게 설명해주는 프랑스 해설서이자 인문서다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "틈새책방",
+                "DDC": "",
+                "UPDATE_DATE": "20191014",
+                "EA_ADD_CODE": "03920",
+                "PUBLISHER_URL": "http://www.teumsaebooks.com",
+                "AUTHOR": "오헬리엉 루베르,윤여진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "309.126",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "442 p.",
+                "CONTROL_NO": "CIP2019035348",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188949182",
+                "INPUT_DATE": "20190907",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "지극히 사적인 프랑스",
+                "PUBLISH_PREDATE": "20191004",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

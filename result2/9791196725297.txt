@@ -1,0 +1,67 @@
+{
+    "otitle": "우주시대에 오신 것을 환영합니다",
+    "oauthor": "켈리 제라디 저/이지민 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우주시대에 오신 것을 환영합니다 (우주가 산업이 되는 뉴 스페이스 시대 가이드)",
+                "link": "https://search.shopping.naver.com/book/catalog/33903161625",
+                "image": "https://shopping-phinf.pstatic.net/main_3390316/33903161625.20230214162637.jpg",
+                "author": "켈리 제라디",
+                "discount": "15300",
+                "publisher": "혜윰터",
+                "pubdate": "20220815",
+                "isbn": "9791196725297",
+                "description": "우주는 더 이상 호기심의 대상이 아니다\n우주는 인류의 생존을 가늠하는 기회이자 미래다\n\n최근 우리나라 우주과학 분야가 다시 들썩거리기 시작했다. 대한민국은 국내 기술로 개발한 한국형 발사체 누리호를 성공적으로 궤도에 쏘아올리며 세계 우주강국으로의 도약을 꿈꾸고 있다. 이를 반영하듯 증권시장에서 국정과제 중 하나였던 항공·우주 방위 산업 분야가 연일 화제다. \n이미 미국은 국가 주도로 진행하던 우주 프로젝트의 한계를 느끼고 민간 투자 방식으로 전환한 지 오래다. 우리가 알고 있던 억만장자 리처드 브랜슨이나 제프 베조스만이 누리던 우주여행은 이제 대중이 원하기만 하면 얼마든지 떠날 수 있는 준궤도 우주 관광시대로 발빠르게 변화하고 있다.  \n\n미국 우주천문학·우주과학 분야 베스트셀러 1위 \n당신도 할 수 있다, 우주탐사 \n\n이 책은 한 여성이 가깝고도 멀게만 느꼈던 우주과학 분야에 발을 들여놓는 과정을 생생히 소개하고 있다. 지극히 평범했던 그가 과학 커뮤니케이터가 되기 위한 노력의 과정과 국제우주과학연구소의 연구원이자 우주 비행사가 되기 위해 참고 버텨온 고된 시간을 고스란히 담아냈다. \n저자는 자신의 행보가 우주 과학과 대중 간의 장벽을 허물고, 좋아하는 분야의 일을 하는 사람만이 가질 수 있는 열정을 소개하며 독자들의 공감을 이끌어내고 있다. 우주여행 관해 막연한 궁금증을 가진 독자라면 꼭 읽어봐야 할 필독서다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "혜윰터",
+                "DDC": "",
+                "UPDATE_DATE": "20221226",
+                "EA_ADD_CODE": "03440",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "켈리 제라디 지음 ;이지민 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20220815",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/06/9791196725297.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791196725297",
+                "INPUT_DATE": "20220622",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "우주시대에 오신 것을 환영합니다",
+                "PUBLISH_PREDATE": "20220815",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

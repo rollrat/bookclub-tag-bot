@@ -1,0 +1,67 @@
+{
+    "otitle": "나에게 나를 물어봅니다",
+    "oauthor": "임재성,이미영 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나에게 나를 물어봅니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32454998668",
+                "image": "https://shopping-phinf.pstatic.net/main_3245499/32454998668.20221019114639.jpg",
+                "author": "임재성",
+                "discount": "13050",
+                "publisher": "프롬북스",
+                "pubdate": "20201216",
+                "isbn": "9791188167395",
+                "description": "“나, 잘 살고 있나요?”\n나 홀로 있는 시간의 소소한 생각, 작은 다짐, \n그리고 이미 내 안에 있던 대답\n\n내 마음속 보물찾기를 도와줄 생각거리와 힌트\n국민건강보험공단의 자료 분석에 따르면 현재 우리나라 국민 100명 중 5명이 우울증 환자라고 한다. 특히 최근 코로나19 유행으로 이른바 ‘코로나 블루’를 앓고 있는 사람들이 고통을 호소하고 있다. 이를 위해 여러 지자체와 기업 등에서 상담이나 케어 프로그램을 지원하고 있다. ‘내 마음’에서 답을 찾고자 하는 노력이다.  \n프롬북스의 신간 『나에게 나를 물어봅니다』는 미래가 두려운 사람, 답답하고 우울한 사람, 사소한 일에도 화가 나는 사람에게 ‘나에게 나를 묻고 답해볼 것’을 권한다. 나는 왜 늘 불안할까, 무엇이 나를 힘들게 할까, 나에게 가장 소중한 것은 무엇일까 등 나에 관한 질문을 스스로에게 던지며 깊이 생각하고 대답할 때 각자의 내면에서 해법을 발견할 수 있기 때문이다. 부부인 두 저자는 실제로 경제적 어려움 때문에, 거듭된 실패로, 이유 모를 우울함으로 힘든 시기를 겪을 때 스스로를 돌아봄으로써 극복할 수 있었다고 고백한다. 『나에게 나를 물어봅니다』는 이렇듯 자신과 홀로 마주한 시간에 갖게 된 소소한 생각, 작은 다짐, 그리고 이미 내 안에 있던 보석 같은 대답을 공감과 위로의 에세이로 담아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "프롬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210201",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "임재성,이미영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/26/9791188167395.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "278 p.",
+                "CONTROL_NO": "CIP2020050624",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188167395",
+                "INPUT_DATE": "20201126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나에게 나를 물어봅니다",
+                "PUBLISH_PREDATE": "20201216",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

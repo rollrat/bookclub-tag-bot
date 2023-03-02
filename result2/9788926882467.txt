@@ -1,0 +1,67 @@
+{
+    "otitle": "팹라이프(Fablife)",
+    "oauthor": "다나카 히야로 저/김윤호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "팹라이프(Fablife) (디지털 패브리케이션에서 탄생한 「만드는 방법의 미래」)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466556077",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466556077.20221228071838.jpg",
+                "author": "다나카 히로야",
+                "discount": "11700",
+                "publisher": "이담북스",
+                "pubdate": "20180219",
+                "isbn": "9788926882467",
+                "description": "▶ 이 책은 팹라이프(Fablife)에 대해 다룬 도서입니다. 디지털 패브리케이션에서 탄생한 만드는 방법의 미래에 대한 내용을 확인할 수 있도록 구성했습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20180315",
+                "EA_ADD_CODE": "13500",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "다나카 히로야 지음 ;김윤호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "208 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926882467",
+                "INPUT_DATE": "20180205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "팹라이프",
+                "PUBLISH_PREDATE": "20180219",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

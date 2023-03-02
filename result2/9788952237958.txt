@@ -1,0 +1,67 @@
+{
+    "otitle": "육아도 퇴근이 필요해",
+    "oauthor": "케이티 커비 저/박선령 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "육아도 퇴근이 필요해",
+                "link": "https://search.shopping.naver.com/book/catalog/32441602437",
+                "image": "https://shopping-phinf.pstatic.net/main_3244160/32441602437.20221227204232.jpg",
+                "author": "케이티 커비",
+                "discount": "13500",
+                "publisher": "살림",
+                "pubdate": "20170927",
+                "isbn": "9788952237958",
+                "description": "좋은 엄마, 좋은 아빠? 그런 건 잠시 내려놓자!\n\n육아의 정답을 찾으려는 엄마들을 위로하는 폭풍 공감 에세이 『육아도 퇴근이 필요해』. 이 책은 좋은 부모를 위한 육아 안내서가 아니다. 갓난아기를 재우거나 떼쓰는 아이를 달래거나 좋은 부모가 되는 법을 가르쳐주지 않는다. 유익한 육아 꿀팁이나 좋은 부모가 되라고 조언하는 책이 아니다. 대신 아이가 부모에게 너무나도 사랑스러운 존재인 동시에 너무나도 짜증나는 존재일 수 있다는, 자연스럽지만 부모로서 인정하기 어려운 사실을 솔직한 일화와 유쾌한 일러스트로 공유한다.\n\n엄마는 물론이고 아빠도 아이를 키우다 보면 종종, 혹은 자주 짜증이 나거나 울컥하기 마련이다. 저자인 케이티 커비 역시 그렇다. 직접 낳은 아이들은 아기 옷 브랜드 카탈로그에서 보던 아이들과 달랐고 저자는 이런 불공정함을 폭로하는 블로그를 시작하기로 한다. 저 멀리 영국에서 아이를 키우는 엄마도 자신의 아이가 늘 카탈로그 속 아기 모델들처럼 사랑스러운 게 아니며, 아이들 때문에 한잔하고 싶어지는 건 모든 엄마들과 마찬가지였다. 그 ‘보편적인’ 욕구를 위해 잠시 ‘좋은 부모’를 포기하고 기록해나간 그림과 글들이 영국의 ‘엄빠’들에게, 그리고 일반 대중들에게까지 큰 웃음을 줬다. 심지어 '데일리 메일Daily Mail'의 기사처럼 육아의 현실을 잘 묘사한 유쾌한 일러스트 덕에 저자는 녹초가 된 부모들의 영웅이 되었다.\n\n그렇게 ‘부모들의 영웅’이 블로그에 남긴 글과 그림은 한 권의 책으로 만들어졌다. 억지스러운 이야기나 좋은 부모가 되는 방법을 강요하는 게 아니라, 유쾌한 이야기들 안에 지극히 자연스러운, 누구나 겪는 육아의 일상을 녹아내면서 대중의 공감을 얻은 것이다. 좋은 엄마, 좋은 아빠는 잠시 내려두고 제대로 웃긴 리얼 육아 일기를 읽어보자. 소중한 육아 퇴근 후 시간을 과감히 투자해도 절대 아깝지 않을 이야기들이 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림",
+                "DDC": "649.102",
+                "UPDATE_DATE": "20171025",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "케이티 커비 지음 ;박선령 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "598.104",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6359651_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6359651_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6359651_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "143*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "387 p.",
+                "CONTROL_NO": "CIP2017024046",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952237958",
+                "INPUT_DATE": "20170912",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "육아도 퇴근이 필요해",
+                "PUBLISH_PREDATE": "20170927",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

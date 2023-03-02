@@ -1,0 +1,67 @@
+{
+    "otitle": "엘라이나의 마법 수프",
+    "oauthor": "모나 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엘라이나의 마법 수프 (제국을 구한 마법 수프)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436041666",
+                "image": "https://shopping-phinf.pstatic.net/main_3243604/32436041666.20221019123532.jpg",
+                "author": "모나",
+                "discount": "14850",
+                "publisher": "상상출판",
+                "pubdate": "20220225",
+                "isbn": "9791167820648",
+                "description": "[줄거리]\n수프 가게 주인 엘라이나는 배고픈 꼬마에게 완두콩 수프를 대접한다. 그 꼬마는 별의 여신 아스테르였고 완두콩 수프의 보답으로 특별한 능력을 선물한다. 그리고 엘라이나는 자신이 황제의 손녀라는 걸 알고 황궁으로 향한다. 황궁으로 향하던 도중에 동행하던 기사에게서 사람을 부정적이게 만드는 검은 연기를 보게 되는 엘라이나. 아스테르가 엘라이나에게 선물한 능력은 수프로 검은 연기를 정화하는 능력이었다. 아스테르는 검은 연기로 인해서 제국이 위험에 처했다고 말하고 엘라이나는 제국을 구하겠다고 결심한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20220321",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "모나 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "499 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167820648",
+                "INPUT_DATE": "20220204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "엘라이나의 마법 수프",
+                "PUBLISH_PREDATE": "20220225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

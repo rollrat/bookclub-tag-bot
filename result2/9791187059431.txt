@@ -1,0 +1,67 @@
+{
+    "otitle": "생각을 압축한 딱 한 줄",
+    "oauthor": "김건호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "생각을 압축한 딱 한 줄 (시선강탈 취향저격 구매유발 글쓰기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441520846",
+                "image": "https://shopping-phinf.pstatic.net/main_3244152/32441520846.20221228075051.jpg",
+                "author": "김건호",
+                "discount": "13500",
+                "publisher": "끌리는책",
+                "pubdate": "20180928",
+                "isbn": "9791187059431",
+                "description": "감정 변화가 심한 젊은 고객의 마음을 잘 읽는 회사로 저자는 '알라딘'을 꼽는다. 알라딘이 한 줄에 담은 코드는 '유머'다. 알라딘 중고서점 입구에는 \"책 읽는 개만\"이라는 한 줄이 있다. '개 출입금지'에 속상할 수 있는 견주의 마음을 잘 읽어낸 한 줄이다. 알라딘 중고서점 매장 안에는 감각이 돋보이는 한 줄들을 쉽게 만날 수 있다.\n\n\n\n한 줄로 사람의 시선을 끌고 싶고, 취향을 저격해 구매를 유발하고 싶고, 나를 알리고 싶다면 어떤 한 줄을 써야 할까? 저자는 광고회사에서 카피라이터로 일하다가 지금은 10년째 서울시 시정을 알리는 한 줄을 쓰고 있다. 고객에게 상품 구매를 유도하는 한 줄에서 다양한 계층의 시민을 향한 한 줄을 쓴다. 한 줄의 대상이 바뀐 만큼 한 줄에 담을 내용과 형식도 많이 바뀌었다.\n\n\n\n한 줄을 만들기 위해 가장 먼저 고려해야 할 것은 무엇일까? 상업성을 띠고 있다면 한 줄을 읽고 구매해줄 고객이 우선이다. 공공성을 띄고 있다면 알려야 하는 입장과 동의를 얻어야 할 대상 모두를 고려해야 한다. SNS나 포털사이트 댓글 속의 한 줄은 상대적으로 강한 책임을 동반하지 않아 자유로운 편이다. 그럼에도 유명인들의 한 줄은 상대적으로 논란을 일으킬 때가 많다. 온라인에서 보일 것이냐, 오프라인에서 보일 것이냐에 따라서도 달라진다.\n\n\n\n그렇다면 어떻게 한 줄을 써야 할까? 이 책에 소개된 비유, 의인화, 언어유희, 패러디, 인사이트, 반전, 스토리텔링, 역발상, 여백의 기법을 응용하면 된다. 저자는 자신의 경험뿐 아니라 많은 사람의 관심을 받았던 한 줄들이 어떻게 탄생했는지 짚어본다. 그리고 소개한 한 줄들을 샘플 삼아 독자도 직접 한 줄을 써보도록 하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "끌리는책",
+                "DDC": "808",
+                "UPDATE_DATE": "20181015",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김건호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6893251_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "CIP2018028479",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187059431",
+                "INPUT_DATE": "20180903",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(생각을 압축한) 딱 한 줄",
+                "PUBLISH_PREDATE": "20180928",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

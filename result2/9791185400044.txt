@@ -1,0 +1,78 @@
+{
+    "otitle": "캐릭터 메이커",
+    "oauthor": "오쓰카 에이지 저/선정우 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:45 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "캐릭터 메이커 (캐릭터를 만들기 위한 6가지 이론과 워크숍)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476827682",
+                "image": "https://shopping-phinf.pstatic.net/main_3247682/32476827682.20221019104732.jpg",
+                "author": "오쓰카 에이지",
+                "discount": "13500",
+                "publisher": "북바이북",
+                "pubdate": "20140828",
+                "isbn": "9791185400044",
+                "description": "『캐릭터 메이커』는 ‘스토리 메이커’, ‘이야기 체조’의 저자 오쓰카 에이지의 캐릭터 작법서이다. 만화, 애니메이션, 게임에 등장하는 ‘캐릭터’는 작품의 성패를 좌우할 뿐 아니라 상품으로서 소비되고, 2차 창작에 사용되기도 한다. 그만큼 캐릭터는 중요하다. 이 책은 이야기에는 일정한 법칙이 있다는 ‘이야기론’을 바탕으로, 이야기에서의 역할을 고려하여 캐릭터를 만드는 방법을 알려준다. 각 장의 말미에는 과제를 따라 캐릭터를 만들어볼 수 있는 워크숍을 첨부했다."
+            },
+            {
+                "title": "손그림 메이커 SD캐릭터 그리기!",
+                "link": "https://search.shopping.naver.com/book/catalog/32440671027",
+                "image": "https://shopping-phinf.pstatic.net/main_3244067/32440671027.20230207163833.jpg",
+                "author": "카니",
+                "discount": "21380",
+                "publisher": "네오아카데미",
+                "pubdate": "20211125",
+                "isbn": "9791196702663",
+                "description": "그림으로 마법을 시작하자! 좋아하는 것을 마음껏 그리고, 표현하며 더 예쁘게 색칠할 수 있는 방법까지 손그림의 모든 노하우를 담은 책입니다. 종이와 연필이 있다면 여러분들도 그림의 마법사가 될 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "741.5",
+                "UPDATE_DATE": "20141007",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오쓰카 에이지",
+                "SERIES_TITLE": "",
+                "KDC": "657.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3886699_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3886699_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014023379",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400044",
+                "INPUT_DATE": "20140806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "캐릭터 메이커",
+                "PUBLISH_PREDATE": "20140827",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

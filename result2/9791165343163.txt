@@ -1,0 +1,67 @@
+{
+    "otitle": "3미터의 행복",
+    "oauthor": "혼다 고이치 저/전경아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "3미터의 행복",
+                "link": "https://search.shopping.naver.com/book/catalog/32503923246",
+                "image": "https://shopping-phinf.pstatic.net/main_3250392/32503923246.20221019150045.jpg",
+                "author": "혼다 고이치",
+                "discount": "12600",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20210310",
+                "isbn": "9791165343163",
+                "description": "“당신의 3미터 안에는 누가 있나요?”\n소중한 사람만을 위해 살기에도\n인생은 너무 짧으니까!\n행복 전문가가 전하는 \n현명하게 자기중심적으로 사는 법\n\n행복 전문가 혼다 고이치가 전하는 '현명하게 자기중심적으로 사는 법'. 90년대 후반, 호주 대륙을 횡단하던 저자는 인터넷 상용화를 접하고 엄청난 자극을 받았다. 귀국 후, 급격히 기울어가는 아버지의 골프회원권 매매사업을 이어받았지만 당시 생소하던 온라인마케팅을 적극 도입해 회사를 되살렸다. 저자에 따르면 골프회원권을 구입하는 고객은 경제적 부분뿐만 아니라 생활태도까지 여유로운 사람이 많았다고 한다. 그들에게 얻은 여러 조언을 바탕으로 홈페이지를 운영하며 연매출 10억 엔이 넘는 회사로 성장시켰다. 온라인마케팅의 개척자로 이름이 알려지며 컨설팅이나 강연 의뢰가 쏟아지자 자신의 지식과 깨달음을 더 많은 사람과 나누기 위해 이 책을 집필했다. 아버지의 사업을 성공궤도에 올려놓기까지 시행착오에서 얻은 노하우는 물론, 사회적으로 성공한 고객들과의 관계에서 깨달은 성공과 행복의 원리를 모두 이 책에 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20210412",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "혼다 고이치 지음 ;전경아 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165343163",
+                "INPUT_DATE": "20210127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "3미터의 행복",
+                "PUBLISH_PREDATE": "20210310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

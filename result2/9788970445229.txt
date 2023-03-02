@@ -1,0 +1,67 @@
+{
+    "otitle": "아인슈타인을 넘어서",
+    "oauthor": "미치오 카쿠 저 / 박영재역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아인슈타인을 넘어서 (초끈이론으로 본 우주)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506691253",
+                "image": "https://shopping-phinf.pstatic.net/main_3250669/32506691253.20221019114349.jpg",
+                "author": "미치오 카쿠",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "19930201",
+                "isbn": "9788970445229",
+                "description": "'초끈이론에 대한 대변혁'에 대해서 전문적인 많은 통찰과 지식을 가득 담아 이 문제를 재미있게 독자들에게 제공하고 있다. 20세기 물리학 전체를 하나의 포괄적이며 한결같은 체계로 다루었으며 초끈이론이 지난 2천년 이래 과학의 금자탑이 될 만한 이론이라는 것을 여실히 보여주고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "저자 : 미치오 가쿠;저자 : 제니퍼 트레이너;역자 : 박영재;",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "244",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970445229",
+                "INPUT_DATE": "20220218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "아인슈타인을 넘어서",
+                "PUBLISH_PREDATE": "19930201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

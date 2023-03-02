@@ -1,0 +1,67 @@
+{
+    "otitle": "블라디보스토크 셀프트래블 : 2019-2020 최신판",
+    "oauthor": "정승원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "블라디보스토크 셀프트래블(2019-2020) (하바롭스크, 이르쿠츠크)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466847165",
+                "image": "https://shopping-phinf.pstatic.net/main_3246684/32466847165.20221019120441.jpg",
+                "author": "정승원",
+                "discount": "11880",
+                "publisher": "상상출판",
+                "pubdate": "20190624",
+                "isbn": "9791189856205",
+                "description": "2019-2020 최신개정판 블라디보스토크 가이드북!\n블라디보스토크, 하바롭스크, 이르쿠츠크 등 주요 지역 총망라 \n 시베리아 극동지역의 추천 일정 및 시베리아 횡단열차 이용방법 수록\n러시아에서 주목해야 할 관광명소, 맛집, 쇼핑아이템, 숙소 등 최신 정보 제공\n[특별부록] 휴대용 이지 트래블 페이퍼 & 와이파이 도시락 할인쿠폰 수록"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정승원",
+                "SERIES_TITLE": "",
+                "KDC": "982.902",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186517109",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13200",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "229 p. ",
+                "CONTROL_NO": "CIP2019021806",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189856205",
+                "INPUT_DATE": "20190531",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(셀프트래블)블라디보스토크 ",
+                "PUBLISH_PREDATE": "20190624",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

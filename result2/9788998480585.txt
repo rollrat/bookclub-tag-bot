@@ -1,0 +1,67 @@
+{
+    "otitle": "잔소리의 품격",
+    "oauthor": "이영숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잔소리의 품격 (큰소리 내지 않고 아이를 변화시키는 성품훈계법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503922920",
+                "image": "https://shopping-phinf.pstatic.net/main_3250392/32503922920.20220527063430.jpg",
+                "author": "이영숙",
+                "discount": "0",
+                "publisher": "시루",
+                "pubdate": "20151027",
+                "isbn": "9788998480585",
+                "description": "이영숙 박사는 아이가 바른 인성을 갖추어 성장하기를 간절히 원하지만 접근법을 알지 못하는 부모들을 위해 십대를 대하는 필수지식과 사춘기 이론을 바탕으로 최고의 훈계 길잡이가 되어줄 『잔소리의 품격』을 출간했다. ‘성품훈계 4단계’를 통해 부모들이 진정한 소통을 바탕으로 한 적절한 훈계로 아이의 올바른 성장을 도울 수 있도록, 지난 31년간 1,000여 개 학교, 3만 명의 아이를 변화시킨 성품훈계 상담의 모든 노하우와 구체적 사례들을 이 한 권의 책에 담아 놓았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시루",
+                "DDC": "649.1",
+                "UPDATE_DATE": "20151209",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이영숙",
+                "SERIES_TITLE": "",
+                "KDC": "598.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4933357_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4933357_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 220페이지 내외",
+                "CONTROL_NO": "CIP2015027265",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998480585",
+                "INPUT_DATE": "20151006",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "잔소리의 품격",
+                "PUBLISH_PREDATE": "20151027",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "인생의 숙제",
+    "oauthor": "백원달 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인생의 숙제 (남들처럼 살면 내 인생도 행복해지는 걸까요?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487794866",
+                "image": "https://shopping-phinf.pstatic.net/main_3248779/32487794866.20230218110739.jpg",
+                "author": "백원달",
+                "discount": "15120",
+                "publisher": "피카(FIKA)",
+                "pubdate": "20201125",
+                "isbn": "9791190299169",
+                "description": "이제는 내가 좋아하는 게 뭔지도 잊어버렸어 \n일상이 늘 똑같은 것처럼 느껴질 때, 진짜 나를 찾아가는 법\n\n너무 내 얘기 같아서 찡하고 서글프고 웃기고 막 다 하는 공감 백배 에세이.\n\n아침에 출근해서 일하고 퇴근하고 밥 먹고 이것저것 하다 보면 벌써 밤 11시. ‘진짜 왜 지금 11시냐고. 말도 안 돼. 별로 한 것도 없는데.’ 남은 시간이라도 알차게 보내고 싶은데 아무것도 하기 싫다. 사실 할 것도 없고. 오늘도 불 꺼진 이불 속에서 습관적으로 SNS를 본다. 의미 없이 흘러가는 핸드폰 화면처럼 나의 시간도 그렇게 흘러가는 걸까? 하지만 뭘 해야 할지 모르겠다. 남들도 다 그런다길래 참고만 살았더니 이제는 내가 좋아하는 게 뭔지도 잊어버렸다. 내 이름은 박유나, 서른셋 직장인. \n\n《인생의 숙제》의 유나는 어느 날 대청소를 하다가 옷장에서 초등학교 때 쓰던 일기장을 발견한다. 일기장을 한 장 한 장 읽어나가면서 어렴풋이 기억을 떠올린다. 어렸을 때 글쓰기를 참 좋아했었다는 걸. 그러고 보면 완전히 똑같은 날은 하루도 없었다. 어떤 날은 유난히 머리가 잘되고, 어떤 날은 운 좋게 버스가 일찍 오고, 어느 날은 커피 맛이 더 좋았다. 그래, 매일 똑같은 일상이지만 내일 무슨 일이 일어날지 몰라. \n\n정말 중요한 건 나 자신을 들여다보는 것이다. 내가 좋아하는 게 뭐였지? 뭐할 때 행복했었지? 뭔가를 진짜 열심히 해본 게 마지막으로 언제였더라? 누군가는 비웃을지도 모르지만, 유나는 시간이 날 때마다 신춘문예에 투고할 시를 써보기로 한다. 반짝거리던 진짜 나를 찾아가는 빛나는 이야기."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Fika(피카)",
+                "DDC": "",
+                "UPDATE_DATE": "20210415",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글·그림: 백원달",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/02/9791190299169.jpg",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "383 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190299169",
+                "INPUT_DATE": "20200928",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "인생의 숙제",
+                "PUBLISH_PREDATE": "20201116",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

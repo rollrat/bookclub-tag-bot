@@ -1,0 +1,67 @@
+{
+    "otitle": "세계 문화 여행 - 몽골",
+    "oauthor": "앨런 샌더스 저/김수진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계 문화 여행 : 몽골 (세계 풍습과 문화가 궁금한 이들을 위한 필수 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32477725442",
+                "image": "https://shopping-phinf.pstatic.net/main_3247772/32477725442.20221227210237.jpg",
+                "author": "앨런 샌더스",
+                "discount": "10350",
+                "publisher": "시그마북스",
+                "pubdate": "20171023",
+                "isbn": "9788984459144",
+                "description": "'세계 문화 여행' 시리즈는 세계 여러 나라의 관습, 문화, 생활, 삶을 알려주는 안내서다. 여러 나라 사람들의 신념과 태도와 행동에 관한 정보가 담겨 있어, 현지의 예의범절과 민감한 문제를 이해할 수 있다. 또한 외국에서 할 수 있는 난처한 실수를 방지하고, 현지인들과 관계를 좀더 원만하게 맺을 수 있도록 하며, 방문의 효과를 극대화하는 데 도움이 될 수 있다.\n\n\n\n'세계 문화 여행' 시리즈의 몽골편으로 몽골의 풍습, 역사, 문화, 생활, 삶에 대한 전반적인 내용을 다루고 있다. 사업차 몽골을 방문하든 단순한 여행이든, 몽골에서 더욱 풍성하고 기억에 남는 시간을 보내는 데 많은 도움이 될 것이다. 책에는 몽골 현지 풍습과 전통, 역사와 종교와 정치, 몽골인의 가정과 직장과 여가, 의식주, 의사소통 등에 대한 내용이 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "306.09517",
+                "UPDATE_DATE": "20171117",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "앨런 샌더스 지음 ;김수진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "309.1126",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6379534_6.txt",
+                "SET_ISBN": "9788984459113",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6379534_3.jpg",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "CIP2017025723",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984459144",
+                "INPUT_DATE": "20170928",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "몽골",
+                "PUBLISH_PREDATE": "20171023",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "에어프라이어 레시피 100",
+    "oauthor": "스타일리시 쿠킹 메뉴개발팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "에어프라이어 레시피 100 (EVERYDAY EASY, FAST, DELICIOUS!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444849332",
+                "image": "https://shopping-phinf.pstatic.net/main_3244484/32444849332.20221228072838.jpg",
+                "author": "스타일리시 쿠킹 메뉴개발팀",
+                "discount": "11410",
+                "publisher": "싸이프레스",
+                "pubdate": "20190301",
+                "isbn": "9791160320541",
+                "description": "국내 최다 100개 레시피가 수록된 에어프라이어 기본 요리책. 누가 해도 맛있는 레시피를 위해 요리연구가가 직접 검증, 개발, 테스트한 레시피를 한 권에 담았다. 간단한 요리는 심플하고 명확하게, 조금 더 특별한 요리는 과정과 상세한 팁을 추가하는 것을 기본으로 하고, 에어프라이어 요리에 필요한 온도와 시간을 아이콘화해 조금 더 실용적이고 편한 요리를 할 수 있다. \n\n\n\n&lt;쉽고 빠른 간단 레시피&gt;는 넣고 돌리기만 해도 완성되는 간식들부터, 약간의 킥으로 색다른 맛을 내는 심플한 요리들을 담았다. 여기에 에어프라이어의 단짝인 냉동식품을 데우는 온도와 시간, 식어버린 치킨과 피자도 심폐소생 시키는 데우기 시간을 담아 활용도를 높였다.\n\n\n\n&lt;조금 더 특별한 레시피&gt;는 에어프라이어로 늘 비슷한 요리만 해왔던 당신을 위해 에어프라이어와 최적의 궁합을 보이는 육류 요리부터, 해산물, 디저트까지 특별한 맛을 지닌 밀도 높은 레시피들을 담았다. 맛은 특별하되 재료는 일상 재료를 기본으로 사용해 냉장고 속 재료들로도 특별한 음식을 만들 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Cypress(싸이프레스)",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20190314",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "www.cypressbook.co.kr",
+                "AUTHOR": "지은이: 스타일리시 쿠킹 메뉴개발팀",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7151424_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7151424_3.jpg",
+                "PRE_PRICE": "13200",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7151424_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "172 p.",
+                "CONTROL_NO": "CIP2019004421",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160320541",
+                "INPUT_DATE": "20190208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "에어프라이어 레시피 100",
+                "PUBLISH_PREDATE": "20190301",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

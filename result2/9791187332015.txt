@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 왜 걱정이 많을까",
+    "oauthor": "데이비드 카보넬 저/유숙열 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 왜 걱정이 많을까 (걱정하는 습관을 없애는 유쾌한 심리학 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438310965",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438310965.20221229074222.jpg",
+                "author": "데이비드 카보넬",
+                "discount": "13320",
+                "publisher": "사우",
+                "pubdate": "20160825",
+                "isbn": "9791187332015",
+                "description": "불안과 걱정에 관한 수십 년 연구와 임상의 결정체\n“이 책은 불안과 걱정에 관한 책 중 최고다!”-마틴 사이프 박사(미국 불안·우울증협회 창립자)\n\n걱정하는 습관을 바꾸기란 쉽지 않은 일이다. 슬그머니 올라오는 생각을 통제할 수 있는 사람은 아무도 없다. 어떤 생각을 억제하려고 하면 그 생각이 더 강력해진다. “지금부터 1분간 코끼리를 생각하지 말라”라는 말을 듣고 코끼리 생각을 안 할 수 있는 방법은 없다. 이것이 생각의 속성이다. 걱정스러운 생각을 없애려고 하는 모든 노력은 결국 걱정을 더 강화하는 결과를 낳을 뿐이다. 그러니 만성 걱정에서 놓여나기가 어렵다. \n\n이 책의 저자는 전혀 새로운 치유법을 제안한다. 불안과 걱정에 관해 수십 년 동안 연구해온 데이비드 카보넬 박사는 최신 심리학 이론과 오랜 임상 경험을 통해 걱정의 본질을 파헤친다. 그는 걱정이 왜 그렇게 끈질기게 계속되는지, 걱정을 없애려는 온갖 노력이 왜 먹히지 않는지를 간단명료하게 설명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)사우",
+                "DDC": "152.46",
+                "UPDATE_DATE": "20161129",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "데이비드 카보넬",
+                "SERIES_TITLE": "",
+                "KDC": "181.71",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5639471_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5639471_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "272",
+                "CONTROL_NO": "CIP2016018272",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187332015",
+                "INPUT_DATE": "20160726",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 왜 걱정이 많을까",
+                "PUBLISH_PREDATE": "20160825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "왕초보 부동산 중개 그냥 따라하기",
+    "oauthor": "김철수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왕초보 부동산 중개 그냥 따라하기 (축! 공인중개사 합격!! 그 다음은 어떻게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473100681",
+                "image": "https://shopping-phinf.pstatic.net/main_3247310/32473100681.20221230074022.jpg",
+                "author": "김철수",
+                "discount": "13050",
+                "publisher": "갈라북스",
+                "pubdate": "20201001",
+                "isbn": "9791186518434",
+                "description": "다양한 실제 사례를 통해 부동산 중개업 관련 유용한 팁을 전달 받을 수 있는 ‘실전 부동산 중개업 가이드북’이다. 이 책에는 손님 응대, 실제 중개 사례, 취업 및 창업 컨설팅부터 성공 중개사로 안착하기 위한 생생한 노하우가 담겨 있다. 특히 공인중개사 자격을 취득하고 실무 환경에서 어떻게 적용해야 할지 궁금한 초보 중개사나 기존 시장에서 새로운 활로를 창출하고자 하는 경력 중개사들에게도 이 책의 내용은 실질적인 참고가 될 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "",
+                "UPDATE_DATE": "20201015",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "지은이: 김철수",
+                "SERIES_TITLE": "",
+                "KDC": "321.329",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/28/9791186518434.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "355 p.",
+                "CONTROL_NO": "CIP2020036685",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518434",
+                "INPUT_DATE": "20200828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(왕초보) 부동산 중개 그냥 따라하기",
+                "PUBLISH_PREDATE": "20201001",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

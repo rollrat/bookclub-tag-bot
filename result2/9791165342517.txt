@@ -1,0 +1,67 @@
+{
+    "otitle": "K-하브루타",
+    "oauthor": "김정진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "K-하브루타 (창의력부터 사고력까지 아이의 공부머리가 바뀌는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32460428397",
+                "image": "https://shopping-phinf.pstatic.net/main_3246042/32460428397.20230103164949.jpg",
+                "author": "김정진",
+                "discount": "12960",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20201103",
+                "isbn": "9791165342517",
+                "description": "4차 산업혁명 시대, 포스트 코로나 시대,\n공부 저력과 지혜를 키우는 맞춤형 K-하브루타 탄생!\n\n‘기적의 밥상머리 교육’으로 12만 이상 조회수를 기록하며 CBS 세바시(세상을 바꾸는 시간 15분)  명강의로 떠올랐던 하브루타 전문가 김정진 교수가 세계 최초로 하브루타 앱 ‘지혜톡톡’을 개발하고 한국형 하브루타를 완성하여 책으로 펴냈다. \n저자는 가정에서의 소통과 자녀교육의 필요성을 절실히 느끼고 세계 최고의 자녀교육법으로 알려진 유대인의 하브루타를 시작했지만 탈무드로 하는 하브루타가 한국 사람에게 맞지 않다는 것을 깨달았다. 그는 아이들을 위해 직접 한국형 하브루타 ‘K-하브루타’를 만들고 5년간 가족들과 1주일에 1시간씩 대화를 나누었다. 그렇게 축적한 하브루타 대화법의 다양한 사례와 지혜톡톡 앱의 활용 노하우를 고스란히 책에 담아놓았다.  \n책을 읽으며 무료로 다운로드 받아 사용 가능한 하브루타 앱 ‘지혜톡톡’을 이용하면, 제시된 사진과 질문으로 아이와 함께 손쉽게 하브루타를 시작할 수 있다. 코로나19로 인해 아이들과 함께 있는 시간이 많아지자, 부모의 역할이 무엇인지 더 많은 이야기들이 오가고 있다. 학교나 학원에서 지식은 배울 수 있지만, 지혜는 배울 수 없다. 지식의 시대는 가고 지혜의 시대 왔다. 미래를 위한 교육 ‘K-하브루타 지혜톡톡’으로 아이와 행복한 소통을 나누며 창의력부터 사고력까지 공부머리와 지혜를 키워줄 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20201110",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "김정진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "373.22",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/08/9791165342517.JPG",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "CIP2020042880",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165342517",
+                "INPUT_DATE": "20201008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(창의력부터 사고력까지 아이의 공부머리가 바뀌는) K-하브루타",
+                "PUBLISH_PREDATE": "20201103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "2040 디바이디드",
+    "oauthor": "조병학 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "2040 디바이디드 (2040년, 둘로 나뉜 세상이 온다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32459073621",
+                "image": "https://shopping-phinf.pstatic.net/main_3245907/32459073621.20230117163040.jpg",
+                "author": "조병학",
+                "discount": "16420",
+                "publisher": "인사이트앤뷰",
+                "pubdate": "20191226",
+                "isbn": "9791185785387",
+                "description": "기술이 만들 미래는 절대 달콤하지 않다.\n일, 부, 에너지, 국가, 교육, 인간, 모든 것이 둘로 나뉜다.\n\n“당신에게 주어진 10년이 곧 당신의 미래다!”\n\n 당신은 2030년, 2040년에 어떤 미래를 원하는가?\n\n  “2020년부터 일과 일자리가 본격적으로 소멸하면서 중산층은 2035년이면 대부분 사라진다. 인류가 만든 과학기술융합 혁명은 20만 년간 진화해온 인류를 모든 것을 가진 극소수와 아무것도 가지지 못한 대다수로 나눌 것이다. 우리에게 남은 10년 혹은 15년 동안 무엇을 하느냐가 극소수가 될 것인지, 대다수가 될 것인지를 결정하게 된다.”\n\n  「2040 디바이디드」는 2017년에 낸 「2035 일의 미래로 가라」가 다루지 못한 미래와 3년간의 변화를 반영한 후속작이다. 전작에서는 과학기술융합 혁명이 몰고 올 ‘일과 일자리’의 변화를 중심으로 미래를 기술했다면, 「2040 디바이디드」는 일과 일자리는 물론 부, 인구, 공장, 에너지, 인류, 계급, 교육, 정치가 기술에 의해 어떻게 둘로 나뉘는지 설명한다. 책을 읽고 나면 독자들은 지금부터 해야 할 일이 무엇인지 분명하게 깨닫게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인사이트앤뷰",
+                "DDC": "",
+                "UPDATE_DATE": "20200116",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조병학 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "391 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185785387",
+                "INPUT_DATE": "20191119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "2040 디바이디드 ",
+                "PUBLISH_PREDATE": "20191226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

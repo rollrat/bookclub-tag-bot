@@ -1,0 +1,67 @@
+{
+    "otitle": "목욕 다이어트",
+    "oauthor": "스키리키레이 연구회 저/김진희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "목욕 다이어트 (하루 10분 요요 없이 날씬해지는 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466557939",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466557939.20221227204028.jpg",
+                "author": "스키리키레이 연구회",
+                "discount": "10350",
+                "publisher": "팬덤북스",
+                "pubdate": "20160205",
+                "isbn": "9791186404393",
+                "description": "참고 또 참아야 하는 고통 속의 다이어트는 이제 안녕!\n목욕만 해도 밥 한 그릇 분량의 칼로리가 소비된다!\n\n올해도 어김없이 등장한 새해 목표 ‘다이어트’. 사람들은 대개 다이어트 하면 힘든 운동과 식사 제한만을 떠올린다. 숱한 결심과 포기가 반복되다 보니 어느새 다이어트는 생각만으로도 부담스러운 과제가 되었다. 《목욕 다이어트》는 다이어트의 그런 편견을 깨는 책이다. 살은 빼고 싶지만 지속하기 힘든 고통스러운 다이어트는 싫은 사람들을 위한 맞춤형 목욕 다이어트 비법이 담겨 있다. ‘내 몸을 위한 건강한 습관’으로 목욕을 즐기는 방법이 다양하게 소개되어 있다. \n\n목욕 다이어트는 생활의 일부인 목욕 시간에 할 수 있어 시작이 쉽고, 오래 지속할 수 있으며 효과 또한 뛰어나다. 단순 체중 감량만이 아니라 신체 전반의 불균형을 바로 잡아 건강미를 더한다. 다이어트에 대한 압박과 부담이 덜하기 때문에 스트레스도 덜하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20160211",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "스키리키레이 연구회",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "156",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186404393",
+                "INPUT_DATE": "20160105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "목욕 다이어트",
+                "PUBLISH_PREDATE": "20160120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

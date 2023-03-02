@@ -1,0 +1,67 @@
+{
+    "otitle": "설득의 원리",
+    "oauthor": "강태완 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "설득의 원리 (아리스토텔레스가 전하는 설득의 9가지 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503351922",
+                "image": "https://shopping-phinf.pstatic.net/main_3250335/32503351922.20230207164102.jpg",
+                "author": "강태완",
+                "discount": "13500",
+                "publisher": "페가수스",
+                "pubdate": "20100910",
+                "isbn": "9788994651002",
+                "description": "아리스토텔레스에게 설득의 원리를 배운다!\n\n아리스토텔레스의 은 효과적인 설득의 기술을 체계적으로 정리한 책이다. 그는 설득의 효과를 극대화시키는 가장 확실한 방법으로 자신의 주장을 근거를 통해 입증하는 것을 들고 있다. 언론정보학과 교수인 저자, 강태완이 커뮤니케이션을 전공하는 입장에서  안에 녹아있는 설득과 소통에 관한 이론의 근본과 뿌리를 찾아내고 해석해『설득의 원리』에 담아내고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "페가수스",
+                "DDC": "168",
+                "UPDATE_DATE": "20100907",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강태완 지음",
+                "SERIES_TITLE": "",
+                "KDC": "179",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2423398_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2423398_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2423398_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2010003020",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994651002",
+                "INPUT_DATE": "20100818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "설득의 원리 ",
+                "PUBLISH_PREDATE": "20100910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

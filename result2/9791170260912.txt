@@ -1,0 +1,67 @@
+{
+    "otitle": "당신의 그림을 보면 마음이 보여요",
+    "oauthor": "이윤희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신의 그림을 보면 마음이 보여요 (직접 그려보고, 읽어보고, 감상하며 치유하는 그림 심리 테라피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489569734",
+                "image": "https://shopping-phinf.pstatic.net/main_3248956/32489569734.20221230072426.jpg",
+                "author": "이윤희",
+                "discount": "13500",
+                "publisher": "팜파스",
+                "pubdate": "20160531",
+                "isbn": "9791170260912",
+                "description": "당신의 마음은 어떤 그림을 그리고 있나요?\n이제는 직접 그린 그림으로 마음속 이야기를 꺼내보세요.\n\n그림은 나의 마음과 속 깊은 소통을 할 수 있는 발로가 될 수 있다. 자신을 표현하기 어려워하는 사람들조차도 그림을 접하는 순간만큼은, 어떤 것에도 구애받지 않고 자신의 마음에 더욱 집중할 수 있는 시간을 가질 수 있기 때문이다. 그래서 오늘날 심리치료 과정에서 그림은 다방면으로 많은 쓰임을 받고 있다.\n\n이 책에서 독자는 자신의 ‘마음의 소리’에 귀 기울일 수 있는 그림을 직접 그려볼 수 있다. 또한, 여러 내담자의 그림과 상담사례, 고흐, 클림트 등 유명한 화가의 작품을 접하며 자신의 마음을 새롭게 비춰보고, 지난 상처를 보듬는 시간을 가질 수 있다. 이제부터라도 마음을 살필 겨를 없이 살아온 자신의 삶을 따뜻하게 다독여주자. 그 시간들은 현실에 웅크려 있는 당신의 삶에 지금보다 더 큰 지혜와 용기를 가져다줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "150.2",
+                "UPDATE_DATE": "20160607",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "이윤희 ",
+                "SERIES_TITLE": "",
+                "KDC": "180.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5427554_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5427554_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "300",
+                "CONTROL_NO": "CIP2016011724",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170260912",
+                "INPUT_DATE": "20160510",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "당신의 그림을 보면 마음이 보여요",
+                "PUBLISH_PREDATE": "20160531",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

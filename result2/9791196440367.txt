@@ -1,0 +1,67 @@
+{
+    "otitle": "그래서 오늘 마카롱을 먹기로 했다",
+    "oauthor": "다이애나 리카사리 저/카일리 박 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그래서 오늘, 마카롱을 먹기로 했다 (love is life)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472986754",
+                "image": "https://shopping-phinf.pstatic.net/main_3247298/32472986754.20221019140613.jpg",
+                "author": "다이애나 리카사리",
+                "discount": "12790",
+                "publisher": "피카(FIKA)",
+                "pubdate": "20190102",
+                "isbn": "9791196440367",
+                "description": "지친 나를 위한 달콤한 소확행!\n\n기발하고 독특한 스타일을 SNS 등 온라인을 통해 선보이며 패션계에서 영향력 있는 인물로 활동하고 있는 패션·라이프스타일 인플루언서 다이애나 리카사리의 『그래서 오늘, 마카롱을 먹기로 했다』. 사람들의 시선에서 벗어나지 못하고, 고정관념 속에 나를 가두며 도무지 용기가 나지 않았던 일들을 하기로 마음먹은 후 퍽퍽한 바게트 같았던 저자의 인생은 쫀득쫀득하고 달콤한 마카롱 같아졌다. 이 책에는 알록달록한 색감에 먼저 반하고, 한 입 베어 물었을 때 에너지가 충전되는 느낌을 주는 마카롱처럼 보는 것만으로도 기분 좋게 해주는 다양한 일러스트와 저자가 들려주는 나를 바꿔갈 수 있는 조언들이 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Fika(피카)",
+                "DDC": "",
+                "UPDATE_DATE": "20190115",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 다이애나 리카사리 ;옮긴이: 카일리 박",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[212] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196440367",
+                "INPUT_DATE": "20181206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "그래서 오늘, 마카롱을 먹기로 했다",
+                "PUBLISH_PREDATE": "20190102",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

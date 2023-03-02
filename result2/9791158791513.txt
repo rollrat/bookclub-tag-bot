@@ -1,0 +1,67 @@
+{
+    "otitle": "살인자의 동영상",
+    "oauthor": "마이크 오머 저/김지선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "살인자의 동영상 (마이크 오머 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441648572",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441648572.20221228072704.jpg",
+                "author": "마이크 오머",
+                "discount": "13320",
+                "publisher": "북로드",
+                "pubdate": "20201207",
+                "isbn": "9791158791513",
+                "description": "“어둠 속에서 비명을 내지르는 한 여자의 동영상.\n여자는 아직 살아 있을지도 모른다. \n하지만 열두 시간이 지나면 아마 죽게 될 것이다.”\n\n아마존 종합 베스트셀러, 뉴욕 타임스 베스트셀러, 워싱턴 포스트 베스트셀러\n뛰어난 미스터리와 유머, 반전을 두루 갖춘 웰메이드 심리 스릴러\n\n범죄심리학자 조이 벤틀리는 사상 최악의 동영상을 마주하고 있다. 땅속에 묻힌 채 비명을 지르며 관 뚜껑을 두드리는 한 여자의 동영상이다. 여자 위로 흙을 퍼붓던 남자는 카메라로 다가와 휴대폰 화면을 보여준다. 영상은 실시간이었다. 정확한 위치만 알아낸다면 여자의 목숨을 구할 수도 있다. 너무 늦지만 않는다면. 그리고 여자가 땅속에 그대로 머물러 있다면. 하지만 계속해서 신경 쓰이는 것이 있다면 바로 동영상 제목이다. ‘실험 1호.’ 연쇄살인의 가능성을 예감한 조이는 이 충격적인 동영상 뒤에 숨은 괴물을 잡기 위해 파트너이자 FBI 요원 테이텀 그레이와 함께 수사에 나선다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로드 :더난콘텐츠그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20210125",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "지은이: 마이크 오머 ;옮긴이: 김지선",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "539 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158791513",
+                "INPUT_DATE": "20201120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "살인자의 동영상",
+                "PUBLISH_PREDATE": "20201207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

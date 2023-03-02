@@ -1,0 +1,67 @@
+{
+    "otitle": "내일은 못 먹을지도 몰라",
+    "oauthor": "시어도어 C. 듀머스 저/정미진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내일은 못 먹을지도 몰라 (기후변화로 위기에 빠진 13가지 먹거리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486493157",
+                "image": "https://shopping-phinf.pstatic.net/main_3248649/32486493157.20221230074948.jpg",
+                "author": "시어도어 C. 듀머스",
+                "discount": "13050",
+                "publisher": "롤러코스터",
+                "pubdate": "20210502",
+                "isbn": "9791191311044",
+                "description": "사과, 바나나, 체리, 땅콩, 감자, 꿀, 초콜릿…\n뜨거워지는 지구, 기상이변의 공격에 조용히 사라져가는 세계의 먹거리들\n다음은 과연 누구 차례일까?\n\n지금 우리는 인류 역사상 유례없이 규모 면에서나 다양성 면에서 풍부한 먹거리가 존재하는 세상에 살고 있다. 심지어 24시간 아무 때고 이 음식들을 집 안에서 편히 받아볼 수 있다. 이런 상황에서 먹거리의 위기는 마치 먼 나라 남의 이야기 같다. 하지만 과연 먼 이야기일까? 『내일은 못 먹을지도 몰라』는 지금 이 순간에도 생존을 위협받고 있는 먹거리에 관한 이야기를 모은 책으로, 멸종 위기에 처한 13가지 먹거리의 기원과 상징적·사회적 중요성, 영양가 및 최초 인류가 길들인 방법, 현재 사라질 위기에 처한 이유에 이르기까지 먹거리와 관련된 내용들을 세심하게 다루고 있다. \n\n이 책에 소개한 13가지 먹거리 중 어느 하나 중요하지 않은 게 없지만, 특히 몇 가지는 우리가 살아가는 데 없어서는 안 되는 귀중한 음식이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "롤러코스터",
+                "DDC": "",
+                "UPDATE_DATE": "20210621",
+                "EA_ADD_CODE": "03450",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "시어도어 C. 듀머스 지음 ;정미진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/27/9791191311044.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191311044",
+                "INPUT_DATE": "20210413",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "내일은 못 먹을지도 몰라",
+                "PUBLISH_PREDATE": "20210502",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

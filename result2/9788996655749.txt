@@ -1,0 +1,67 @@
+{
+    "otitle": "빅 클락",
+    "oauthor": "케네스 피어링 저/이동윤 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빅 클락",
+                "link": "https://search.shopping.naver.com/book/catalog/32473662039",
+                "image": "https://shopping-phinf.pstatic.net/main_3247366/32473662039.20221229072640.jpg",
+                "author": "케네스 피어링",
+                "discount": "10800",
+                "publisher": "피니스아프리카에",
+                "pubdate": "20121106",
+                "isbn": "9788996655749",
+                "description": "영화 《노 웨이 아웃》의 원작!\n\n시인, 저널리스트로도 활동했던 작가 케네스 피어링의 대표작 『빅 클락』. 1946년에 발표된 이 작품은 1948년 존 패로우 감독, 레이 밀란드, 찰스 로튼 주연의 영화 《빅 클락》과 1987년 로저 도날드슨 감독, 케빈 코스트너 주연의 영화 《노 웨이 아웃》으로 제작되기도 했다. 대공황 이후 각인된 사회적 변화의 단면과, 전쟁 이후 밀어닥칠 광풍에 대한 날카로운 인식이 담겨 있다. \n\n애인을 살해한 출판사 사장 재노스. 목격자가 있다는 것을 알게 된 그는 자신의 회사에서 간행하는 ‘크라임웨이’의 편집 주간 스트라우드에게 목격자를 찾으라는 지시를 내리지만, 사실 목격자는 스트라우드였다. 출판사의 매카니즘은 큰 시계처럼 정확하게 작동하고 있었고, 목격자의 정체가 드러나는 것은 시간 문제였는데…. 겉으로는 행복한 것처럼 보이는 스트라우드 일가, 거대 조직인 재노스 엔터프라이즈와 이를 구성하는 개인들, 스트라우드의 행동을 지배하는 ‘빅 클락’의 존재 등이 살인 사건을 둘러싸고 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "피니스 아프리카에",
+                "DDC": "813.52",
+                "UPDATE_DATE": "20121114",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "케네스 피어링 지음 ;이동윤 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2585579_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2585579_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2585579_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012004904",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788996655749",
+                "INPUT_DATE": "20121017",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "빅 클락 ",
+                "PUBLISH_PREDATE": "20121106",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

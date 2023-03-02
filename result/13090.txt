@@ -1,0 +1,23 @@
+{
+    "otitle": "화학이 만드는 놀라운 기능재료",
+    "oauthor": "도쿄도립대학 공업화학과 분자응용과학연구회 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "화학이 만드는 놀라운 기능재료",
+                "link": "https://search.shopping.naver.com/book/catalog/32505710846",
+                "image": "https://shopping-phinf.pstatic.net/main_3250571/32505710846.20221229070820.jpg",
+                "author": "임승원 역",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "19940601",
+                "isbn": "9788970441559",
+                "description": "환경에 따라 일곱색으로 변하는 카멜레온 색소에서 기체도 액체도 아닌 초임계유체, 특수 고분자 등 다 양한 첨단재료를 만드는 화학의 응용을 소개했다."
+            }
+        ]
+    }
+}

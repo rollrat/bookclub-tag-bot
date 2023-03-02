@@ -1,0 +1,67 @@
+{
+    "otitle": "논어로 논어를 풀다",
+    "oauthor": "이한우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "논어로 논어를 풀다 (이한우의 사서삼경)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486503136",
+                "image": "https://shopping-phinf.pstatic.net/main_3248650/32486503136.20221019135844.jpg",
+                "author": "이한우",
+                "discount": "52200",
+                "publisher": "해냄출판사",
+                "pubdate": "20120511",
+                "isbn": "9788965743415",
+                "description": "『논어로 논어를 풀다』는 동양사상의 핵심이며 사서삼경의 으뜸이라 할 수 있는 공자의 를 역사적 콘텍스트를 넘어 텍스트 자체만으로 해석한 한중일 최초의 책으로, 동양사상을 알고는 싶으나 배경지식에 대한 막연한 두려움으로 미처 시작하지 못하는 독자들에게도 쉽게 접근할 수 있는 해설서가 될 것이다. 조직이나 정치, 인본 등에 대해 저널리스트의 관찰자적 시각이 돋보이는 풀이 또한 기존의 해설서와 차별화된다. 공자의 사상을 내용별로 분류해 정리한 요약판을 넘어서 본연의 뜻을 간파할 수 있도록 돕는다는 점에서 독자들에게 친절한 인문 읽기의 지침서가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20120522",
+                "EA_ADD_CODE": "03140",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "이한우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "58000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965743415",
+                "INPUT_DATE": "20120522",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "논어로 논어를 풀다 以論解論",
+                "PUBLISH_PREDATE": "20120510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

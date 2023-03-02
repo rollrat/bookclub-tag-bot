@@ -1,0 +1,67 @@
+{
+    "otitle": "딸아 주식공부 하자",
+    "oauthor": "이주택 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "딸아 주식공부 하자 (아이를 부자로 키우는 아빠의 경제 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/33295516623",
+                "image": "https://shopping-phinf.pstatic.net/main_3329551/33295516623.20221019124121.jpg",
+                "author": "이주택",
+                "discount": "13500",
+                "publisher": "경향BP",
+                "pubdate": "20220715",
+                "isbn": "9788969525123",
+                "description": "유튜브 ‘반교수TV: 삶의 지혜, 행복, 그리고 도전!’\n\n주식공부는 빠를수록 좋다!\n인플레이션, 고금리, 고환율에서 살아남는 법\n부모가 읽고 자녀에게 알려 주는 책\n부자가 되기 위해 명심해야 할 것들\n\n“지금이 일생일대 투자 기회다.” - 억만장자 투자자 론 배론\n“지금 주식 사면 1년 뒤 절대 후회하지 않는다.” - 세계적인 투자전략가 제레미 시걸\n“돈은 조급한 사람에게서 인내심 있는 사람들에게 옮겨 간다.” - 워런 버핏"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "경향BP(경향비피)",
+                "DDC": "",
+                "UPDATE_DATE": "20220823",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이주택 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "201 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9788969525123",
+                "INPUT_DATE": "20220621",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "딸아 주식공부 하자",
+                "PUBLISH_PREDATE": "20220715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

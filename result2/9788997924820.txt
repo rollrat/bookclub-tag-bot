@@ -1,0 +1,67 @@
+{
+    "otitle": "죽을 때까지 코딩하며 사는 법",
+    "oauthor": "홍전일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "죽을 때까지 코딩하며 사는 법",
+                "link": "https://search.shopping.naver.com/book/catalog/32466546726",
+                "image": "https://shopping-phinf.pstatic.net/main_3246654/32466546726.20230110165328.jpg",
+                "author": "홍전일",
+                "discount": "13830",
+                "publisher": "로드북",
+                "pubdate": "20210408",
+                "isbn": "9788997924820",
+                "description": "코로나19를 기점으로 개발자 수요는 폭발적으로 증가했습니다. 앞으로는 개발자 연령 상한이 높아지고 재택 업무의 비중 또한 코로나19 이전과는 비교할 수 없을 정도로 늘어날 겁니다. 점점 평생 코딩에 유리한 환경이 되어가고 있습니다. 하지만 여러분은 얼마나 준비되어 있나요? 코딩으로 잔뼈가 굵은 사람은 치킨집을 기웃거리기보다, ‘죽을 때까지 코딩’하며 사는 것이 맞습니다. 우리는 코딩 속에서 열정과 행복을 경험해보았기 때문입니다. 이 책은 “죽을 때까지 코딩하기”, 그 방법을 찾아가는 이야기입니다.\n\n대상 독자\n--------이런 고민을 하는 독자-----------\n내가 좋아하는 코딩을 얼마나 오래 할 수 있을지 걱정되는 개발자\n코딩 슬럼프를 겪고 있는 개발자\n내가 속한 조직이 나에게 맞지 않는 건 아닌지 오늘도 혼란스러운 개발자\n지속적으로 성장하고 싶은 방법을 함께 찾고 싶은 개발자\n열심히 일하는 것 같은데 성과가 나지 않는 개발팀장 및 관리자"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20210525",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "지은이: 홍전일",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "300 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924820",
+                "INPUT_DATE": "20210326",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "죽을 때까지 코딩하며 사는 법",
+                "PUBLISH_PREDATE": "20210408",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

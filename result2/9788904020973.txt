@@ -1,0 +1,67 @@
+{
+    "otitle": "알리스터 맥그래스의 교리의 기원",
+    "oauthor": "알리스터 맥그래스 저/류성민 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "알리스터 맥그래스의 교리의 기원",
+                "link": "https://search.shopping.naver.com/book/catalog/32464065311",
+                "image": "https://shopping-phinf.pstatic.net/main_3246406/32464065311.20221019142401.jpg",
+                "author": "알리스터 맥그라스",
+                "discount": "22500",
+                "publisher": "생명의말씀사",
+                "pubdate": "20210820",
+                "isbn": "9788904020973",
+                "description": "『교리의 기원』은 교리의 현상이 어떻게 일어났고, 그것이 어떻게 이해되어 왔는지, 어떻게 과거가 특히 근대의 기독교 신학자들에 의해, 재구성되고 재배치되었는지에 대한 연구이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20211005",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "알리스터 맥그래스 지음 ;류성민 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904020973",
+                "INPUT_DATE": "20210804",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "(알리스터 맥그래스의) 교리의 기원",
+                "PUBLISH_PREDATE": "20210730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

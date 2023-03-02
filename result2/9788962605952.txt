@@ -1,0 +1,67 @@
+{
+    "otitle": "벌거벗은 통계학",
+    "oauthor": "찰스 윌런 저/김명철 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "벌거벗은 통계학 (리커버 에디션) (복잡한 세상을 꿰뚫는 수학적 통찰력)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438181960",
+                "image": "https://shopping-phinf.pstatic.net/main_3243818/32438181960.20230218110701.jpg",
+                "author": "찰스 윌런",
+                "discount": "16200",
+                "publisher": "책읽는수요일",
+                "pubdate": "20131025",
+                "isbn": "9788962605952",
+                "description": "데이터를 꿰뚫어 보는 직관의 힘, 통계학!\n\n『벌거벗은 통계학』은 미국의 경제경영 전문 사이트 ‘800-CEO-READ’가 선정한 최고의 경제서 100선에 이름을 올린 《벌거벗은 경제학》 저자 찰스 윌런의 10년 만의 신작이다. 통계의 중요한 개념을 보다 직관적이고 알기 쉽게 설명하는 이 책은 저자 특유의 통찰력과 통계적 도구들로 경제 흐름과 사회 현상을 분석한다. 야구 타율에서부터 대통령 선호도 조사에 이르기까지 다방면에 널리 이용되고 있는 통계 속 숫자의 의미를 해석하고, 데이터와 데이터 사이의 긴밀한 연관성을 찾아낸다. \n\n이 책에서 저자는 통계의 근본적인 개념들은 매우 흥미로우며 실생활과도 밀접하게 연관되어 있다고 말한다. 이에 직관적 통찰에 초점을 맞추어 수학, 방정식, 그래프 등은 거의 사용하지 않고 대신 통계를 배워야 하는 주된 이유를 뒷받침할 수 있는 사례들을 자세히 소개한다. 누가 통계를 이용해 거짓말을 하고 이득을 챙기는지, 어떻게 기업이 숫자로 소비자들을 현혹시키는지, 왜 투자전문가의 높은 수익률을 믿어서는 안 되는지 등에 대한 수학적 통찰력을 키우는 데 필요한 정보들을 만날 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(사법)한국물가정보",
+                "DDC": "",
+                "UPDATE_DATE": "20131115",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.kpi.or.kr",
+                "AUTHOR": "지은이: 찰스 윌런 ;옮긴이: 김명철",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962605952",
+                "INPUT_DATE": "20131115",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "벌거벗은 통계학 ",
+                "PUBLISH_PREDATE": "20131025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

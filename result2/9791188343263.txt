@@ -1,0 +1,78 @@
+{
+    "otitle": "문학하는 마음",
+    "oauthor": "김필균 저/신재환,김준연,김애란 사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:26 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "문학하는 마음 (김필균 인터뷰집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456407736",
+                "image": "https://shopping-phinf.pstatic.net/main_3245640/32456407736.20221227205306.jpg",
+                "author": "김필균",
+                "discount": "14400",
+                "publisher": "제철소",
+                "pubdate": "20190715",
+                "isbn": "9791188343263",
+                "description": "‘문학판’의 현장에서 글쓰기를 직업으로 삼은 이들이 펼쳐 놓은 다채로운 마음의 길!\n\n다양한 분야에서 판을 만들어 나가는 이들을 직접 만나 묻고 듣고 기록한 인터뷰집 「일하는 마음」 시리즈. 『문학하는 마음』은 《출판하는 마음》에 이은 시리즈의 두 번째 책으로, 15년 가까이 문학 편집자로 일하고 있는 김필균이 오늘의 한국문학을 이야기할 때 빼놓을 수 없는 11명의 젊은 문학인을 직접 만나 묻고 듣고 기록한 인터뷰집이다.\n\n웃음도 눈물만큼 힘이 세다고 여기는 그림책 작가부터 장래 희망이 전업 작가인 소설가, 자기만의 글을 쓰려면 과감히 투잡을 뛰라고 강조하는 에세이스트, 여성이기에 겪는 부당함 앞에서 나중에 누가 웃는지 보자는 마음으로 치열하게 글을 쓴 웹 소설 작가, 월급을 받는 만큼 직장에서 최선을 다해야 한다는 시인이자 문학잡지 편집자 등 ‘문학판’에 뛰어들어 고군분투하는 인터뷰이들의 모습을 통해 지금 여기, 일하며 살아가는 사람들의 문학하는 마음을 엿볼 수 있다."
+            },
+            {
+                "title": "[큰글자도서] 문학하는 마음",
+                "link": "https://search.shopping.naver.com/book/catalog/32496555941",
+                "image": "https://shopping-phinf.pstatic.net/main_3249655/32496555941.20221229072909.jpg",
+                "author": "김필균",
+                "discount": "17820",
+                "publisher": "제철소",
+                "pubdate": "20210528",
+                "isbn": "9791188343416",
+                "description": "리더스원의 큰글자도서는 글자가 작아 독서에 어려움을 겪는 모든 분들에게 편안한 독서 환경을 제공함으로써 책 읽기의 즐거움을 되찾아 드리고자 합니다.\n\n“나에 대해 계속 알아가는 느낌이 들어요” \n\n문학이라는 이름의 꿈과 현실\n그리고 그 사이를 잇는 어떤 마음에 관하여\n\n『출판하는 마음』에 이은 제철소 ‘일하는 마음’ 시리즈의 두 번째 책으로, 14년 차 문학 편집자 김필균이 ‘문학판’의 현장에서 글쓰기를 직업으로 삼아 자신의 고유한 영역을 만들어가는 젊은 문학인 11인을 만나 솔직한 이야기를 묻고 듣고 기록한 인터뷰집이다. ‘문학하면 정말 먹고살기 힘들까?’ ‘그럼에도 불구하고 많은 이가 문학을 꿈꾸거나 하고 있는 이유는 뭘까?’라는 질문에서 출발한 이 책에서 ‘문학하는’ 사람들이 담담하게 전하는 꿈과 현실, 그리고 그 사이를 아름답게 엮어가는 마음에 관한 이야기는 ‘먹고사는 일’로서 ‘문학’이 가진 매력에 빠져들게 하기에 충분하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "제철소",
+                "DDC": "",
+                "UPDATE_DATE": "20190722",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김필균",
+                "SERIES_TITLE": "",
+                "KDC": "809",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/06/24/9791188343263.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "345 p.",
+                "CONTROL_NO": "CIP2019024611",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188343263",
+                "INPUT_DATE": "20190624",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "문학하는 마음",
+                "PUBLISH_PREDATE": "20190715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

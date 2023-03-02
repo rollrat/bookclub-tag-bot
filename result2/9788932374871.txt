@@ -1,0 +1,67 @@
+{
+    "otitle": "김치 도감",
+    "oauthor": "고은정 글/안경자 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "김치도감 (재료부터 만드는 방법까지 한눈에 살펴보는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464883505",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464883505.20221019104945.jpg",
+                "author": "고은정",
+                "discount": "13500",
+                "publisher": "현암주니어",
+                "pubdate": "20190228",
+                "isbn": "9788932374871",
+                "description": "그림으로 한눈에 살펴보는 김치의 모든 것!\n \n 김치 채소의 한살이를 살펴보고 씻고 다듬고 버무리고 익히는 모든 과정을 그림으로 표현한 친절한 요리책을 소개합니다. \n 김치를 담그는 일은 언뜻 생각해 보면 무척 어려운 일처럼 느껴질 수 있어요. 이 책의 글을 쓴 고은정 선생님은 이러한 요리 초보자들의 마음을 세세하게 헤아려 김치에 꼭 들어가는 양념과 준비물, 다듬고 버무리는 방법 등 기초적인 내용을 알기 쉽게 설명했습니다. 또 모든 과정을 어른 수저와 종이컵 등 주변에서 쉽게 구할 수 있는 도구를 기준으로 계량하여 누가 만들어도 맛있는 김치를 만들 수 있도록 세심하게 배려했어요. \n 연습 삼아 30분 만에 뚝딱 만들 수 있는 무 깍두기부터 김장철에 여럿이 모여 만들기도 하는 배추김치, 절이지 않고 버무려서 바로 먹는 봄동 김치, 샐러드처럼 새콤달콤한 과일 깍두기 등 익숙한 김치부터 새로운 김치까지 열 가지 김치 만드는 방법을 살펴볼까요? 간단한 김치부터 연습해 보면 나중에는 어떤 김치든 척척 만들 수 있게 될 거예요. 정확하고 친절한 설명, 한눈에 쏙 들어오는 생태 그림이 어우러져 눈으로만 보아도 맛깔스러운 과 함께 나의 첫 김치를 담가 보세요! 직접 김치를 담가 보면 그동안 선뜻 젓가락이 가지 않던 김치도 가장 좋아하는 반찬이 될 거예요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사 :현암주니어",
+                "DDC": "",
+                "UPDATE_DATE": "20190326",
+                "EA_ADD_CODE": "73380",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "글: 고은정 ;그림: 안경자",
+                "SERIES_TITLE": "",
+                "KDC": "594",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7145806_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "60 p.",
+                "CONTROL_NO": "CIP2019004020",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932374871",
+                "INPUT_DATE": "20190201",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(재료부터 만드는 방법까지 한눈에 살펴보는) 김치 도감",
+                "PUBLISH_PREDATE": "20190228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

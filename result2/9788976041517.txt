@@ -1,0 +1,67 @@
+{
+    "otitle": "셜록홈즈 4 (셜록 홈즈의 회상록 2)",
+    "oauthor": "아서 코난 도일 저/안재홍 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "셜록 홈즈 전집 4: 셜록 홈즈의 회상록",
+                "link": "https://search.shopping.naver.com/book/catalog/32506588915",
+                "image": "https://shopping-phinf.pstatic.net/main_3250658/32506588915.20221019105423.jpg",
+                "author": "아서 코난 도일",
+                "discount": "9000",
+                "publisher": "문예춘추사",
+                "pubdate": "20121210",
+                "isbn": "9788976041517",
+                "description": "발간 순서에 맞게 시리즈를 구성하고, 독자의 이해를 돕는 주석과 삽화를 수록한 『셜록 홈즈 전집』 제4권 《셜록 홈즈의 회상록》. 셜록 홈즈가 사설 탐정이 되기로 결심하는 계기에 관한 이야기인 가 실린 단편집이다. 또한 평소 자신의 이야기를 잘 하지 않던 홈즈가 처음으로 왓슨에게 자신의 가족과 집안에 대한 이야기를 하게 되는 가 실려 있다. 을 끝으로 홈즈는 죽음을 맞게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)문예춘추사",
+                "DDC": "",
+                "UPDATE_DATE": "20141106",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "아서 코난 도일",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788976041470",
+                "REAL_PUBLISH_DATE": "20121210",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "43000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788976041517",
+                "INPUT_DATE": "20140529",
+                "SET_EXPRESSION": "(세트)",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "셜록 홈즈의 회상록",
+                "PUBLISH_PREDATE": "20121210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04840 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

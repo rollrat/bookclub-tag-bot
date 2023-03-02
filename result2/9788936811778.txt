@@ -1,0 +1,89 @@
+{
+    "otitle": "비만의 사회학",
+    "oauthor": "박승준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:38 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "비만의 사회학 (왜 우리는 쉽게 살이 찔까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476660401",
+                "image": "https://shopping-phinf.pstatic.net/main_3247666/32476660401.20221019131754.jpg",
+                "author": "박승준",
+                "discount": "18000",
+                "publisher": "청아출판사",
+                "pubdate": "20210220",
+                "isbn": "9788936811778",
+                "description": "배가 고프지 않아도 더 먹을 수 있는 위대한 동물, 인간!\n우리는 왜 살이 찔까?\n\n개인 건강의 문제를 넘어서 사회 문제로 대두한 비만! 오늘날 비만은 여러 질병을 유발하는 위험 인자이자 사회 경제적으로 막대한 비용을 요구하는 질병이다. 왜 비만 인구는 전 세계적으로 급격하게 증가하고 있을까? 인간이 살이 찌는 이유부터 어떻게 비만에서 벗어나야 할지까지, 비만과 건강한 삶에 대해 과학적, 사회학적 관점에서 살펴본다."
+            },
+            {
+                "title": "비만의 사회학(큰글자도서) (왜 우리는 쉽게 살이 찔까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444128610",
+                "image": "https://shopping-phinf.pstatic.net/main_3244412/32444128610.20221019151825.jpg",
+                "author": "박승준",
+                "discount": "48000",
+                "publisher": "청아출판사",
+                "pubdate": "20211115",
+                "isbn": "9788936811969",
+                "description": "개인 건강의 문제를 넘어서 사회 문제로 대두한 비만! 오늘날 비만은 여러 질병을 유발하는 위험 인자이자 사회 경제적으로 막대한 비용을 요구하는 질병이다. 왜 비만 인구는 전 세계적으로 급격하게 증가하고 있을까? 인간이 살이 찌는 이유부터 어떻게 비만에서 벗어나야 할지까지, 비만과 건강한 삶에 대해 과학적, 사회학적 관점에서 살펴본다."
+            },
+            {
+                "title": "세계는 뚱뚱하다 (전 세계를 휩쓴 비만의 사회학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489442619",
+                "image": "https://shopping-phinf.pstatic.net/main_3248944/32489442619.20220527050825.jpg",
+                "author": "배리 팝킨",
+                "discount": "0",
+                "publisher": "시공사",
+                "pubdate": "20091130",
+                "isbn": "9788952757012",
+                "description": "신종플루만큼 무서운 ‘비만’이라는 유행병이 전 세계를 강타하고 있다!\n\n세상의 음식은 넘쳐나고, 전 세계 사람들의 체중은 날이 갈수록 늘어나고 있다. 이에 반해 사람들의 건강은 스스로 병에 대처할 수 있는 면역기능을 상실한 채 점점 약과 주사에 의존하고 있다. 전 세계 식품산업과 비만에 관한 숨은 진실을 낱낱이 파헤치는 이 책은 전 지구적 비만 위기에 대한 경각심을 일깨워주고, 비만 문제를 대처하는 방법을 소개한다. 이에 현대 음식물의 탄생부터 우리가 마시는 물, 우유, 맥주 등에 대한 비밀, 비만이 일으키는 문제들, 비만에 대처하는 개인과 정부의 자세 등을 꼼꼼히 짚어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20210329",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박승준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "428 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936811778",
+                "INPUT_DATE": "20201207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "비만의 사회학",
+                "PUBLISH_PREDATE": "20210220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

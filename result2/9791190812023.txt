@@ -1,0 +1,67 @@
+{
+    "otitle": "위반하는 글쓰기",
+    "oauthor": "강창래 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "위반하는 글쓰기 (아마추어와 프로를 가르는 글쓰기 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441428845",
+                "image": "https://shopping-phinf.pstatic.net/main_3244142/32441428845.20221019145256.jpg",
+                "author": "강창래",
+                "discount": "13500",
+                "publisher": "북바이북",
+                "pubdate": "20200605",
+                "isbn": "9791190812023",
+                "description": "출판 편집기획자이자 베스트셀러 작가\n강창래가 전하는 프로의 글쓰기 기술\n\n아마추어를 넘어 프로 글쟁이가 되고 싶은 사람들을 위한 글쓰기 비법서『위반하는 글쓰기』.《오늘은 좀 매울지도 몰라》, 《책의 정신》 등 다수의 베스트셀러를 쓴 작가 강창래는 글을 잘 쓰고 싶어 하는 이들이 현혹되기 쉬운 글쓰기 원칙과 통념을 ‘소문’이라 부르며, 그러한 소문에 구속되지 않고 원칙을 위반해야만 프로의 글쓰기로 나아갈 수 있다고 전한다.\n\n‘1부 바로잡기’에서는 글쓰기 비법이라 일컬어지는 소문을 하나하나 점검하며 잘못된 정보를 바로잡는다. ‘2부 쓰기’에서는 구체적인 예시를 통해 저자만의 글쓰기 과정을 보여 준다. 글쓰기에 관한 실질적인 노하우를 담았다. ‘3부 고치기’에서는 초보자들이 어려워하는 글 고치기를 예문을 비교해가며 쉽게 설명하고 있다. 저자는 글쓰기보다 중요한 것이 글 고치기라고 강조하며, 글 고칠 때 도움이 되는 포인트를 자세히 알려 준다. 물론 여기에서도 곡해하기 쉬운 소문을 짚어 가며, 글 고치는 과정에 곧바로 적용할 수 있게 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "",
+                "UPDATE_DATE": "20200605",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강창래 지음",
+                "SERIES_TITLE": "",
+                "KDC": "802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "123*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2020018857",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190812023",
+                "INPUT_DATE": "20200507",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "위반하는 글쓰기",
+                "PUBLISH_PREDATE": "20200605",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

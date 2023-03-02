@@ -1,0 +1,78 @@
+{
+    "otitle": "뇌사란 무엇인가",
+    "oauthor": "다케우치 가즈오 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:54 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "뇌사란 무엇인가 (기본적인 이해를 돕기 위하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504364635",
+                "image": "https://shopping-phinf.pstatic.net/main_3250436/32504364635.20221230074242.jpg",
+                "author": "다케우치 가즈오",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190401",
+                "isbn": "9788970448718",
+                "description": "무엇으로 ‘인간의 죽음’을 판단하는가?\n\n예로부터 인간의 죽음에 대해서는 의사에게나 일반 사람들에게도 공통의 상식적인 판단 기준이 있었다. 그러나 의학의 진보는 ‘뇌사’라고 하는 삶과 죽음에 대한 새로운 개념을 가져왔다. 더욱이 장기 이식의 진보가 뇌사를 사람의 죽음으로 인정할 것인가 아닌가 하는 문제를 일반 사회에도 던지게 되었다. 도대체 뇌사란 어떤 상태를 말하는 것일까? 식물인간과는 어떻게 다른 것일까? 뇌신경외과의 제일선에서 의료에 종사하는 저자가 다년간의 연구와 경험을 바탕으로 뇌사에 대한 올바른 사고방식을 밝힌다."
+            },
+            {
+                "title": "뇌사란 무엇인가? (기본적인 이해를 돕기 위하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455968240",
+                "image": "https://shopping-phinf.pstatic.net/main_3245596/32455968240.20220527054618.jpg",
+                "author": "다케우치 가즈오",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "20170701",
+                "isbn": "9788970441139",
+                "description": "무엇으로 ‘인간의 죽음’을 판단하는가?\n\n예로부터 인간의 죽음에 대해서는 의사에게나 일반 사람들에게도 공통의 상식적인 판단 기준이 있었다. 그러나 의학의 진보는 ‘뇌사’라고 하는 삶과 죽음에 대한 새로운 개념을 가져왔다. 더욱이 장기 이식의 진보가 뇌사를 사람의 죽음으로 인정할 것인가 아닌가 라고 하는 문제를 일반 사회에도 던지게 되었다. 도대체 뇌사란 어떤 상태를 말하는 것일까? 식물인간과는 어떻게 다른 것일까? 뇌신경외과의 제일선에서 의료에 종사하는 저자가 다년간의 연구와 경험을 바탕으로 뇌사에 대한 올바른 사고방식을 밝힌다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190328",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "다케우치 가즈오 지음 ;손영수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "165 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448718",
+                "INPUT_DATE": "20190311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "뇌사란 무엇인가?",
+                "PUBLISH_PREDATE": "20190401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

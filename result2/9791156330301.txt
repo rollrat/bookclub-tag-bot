@@ -1,0 +1,67 @@
+{
+    "otitle": "김치도 꽁치도 아닌 정치",
+    "oauthor": "임정은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "김치도 꽁치도 아닌 정치 (교과서에 갇힌 정치 끝어내는 좌충우돌 설문 조사 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487187350",
+                "image": "https://shopping-phinf.pstatic.net/main_3248718/32487187350.20221213162353.jpg",
+                "author": "임정은",
+                "discount": "10800",
+                "publisher": "다른",
+                "pubdate": "20141009",
+                "isbn": "9791156330301",
+                "description": "『김치도 꽁치도 아닌 정치』는 청소년들의 언어를 적절하게 녹여내 보다 쉽게 정치를 배우고 이해할 수 있도록 이야기 형식으로 풀어낸 책이다. 인권, 선거권, 동물권, 재개발, 언론 보도의 중립성, 국가 폭력, 최저임금, 해고, 가난, 정당법, 의료 문제 등 설문 대상자들이 부딪히는 일상의 수많은 문제들을 통해 정치의 문제를 정면으로 바라보게 만든다. 이런 문제에 대한 고민을 함께하다 보면 어느새 세상 보는 눈이 부쩍 깊어진 자신을 만나게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)다른",
+                "DDC": "",
+                "UPDATE_DATE": "20141215",
+                "EA_ADD_CODE": "43340",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "임정은 ",
+                "SERIES_TITLE": "",
+                "KDC": "340",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3989215_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3989215_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014027298",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156330301",
+                "INPUT_DATE": "20140918",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "김치도 꽁치도 아닌 정치",
+                "PUBLISH_PREDATE": "20141009",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

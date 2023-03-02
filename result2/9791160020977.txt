@@ -1,0 +1,67 @@
+{
+    "otitle": "5일 만에 끝내는 클래식 음악사",
+    "oauthor": "김태용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "5일 만에 끝내는 클래식 음악사 (난생 처음 클래식을 제대로 공부하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445331621",
+                "image": "https://shopping-phinf.pstatic.net/main_3244533/32445331621.20221019123647.jpg",
+                "author": "김태용",
+                "discount": "14400",
+                "publisher": "소울메이트",
+                "pubdate": "20180115",
+                "isbn": "9791160020977",
+                "description": "세상에서 가장 편하게 읽는 클래식 음악사!\n\n클래식에 대해 알고 싶어 혼자 인터넷 검색을 하거나 극히 적은 오프라인 음악 아카데미의 문을 두드려본 경험이 있는가? 클래식에 관심은 갔지만 왠지 다가가기 어려웠다면 이 책을 읽어보자. 국제적 권위의 영국 클래식 저널 『the Strad』 및 『International Piano』 코리아 매거진의 클래식 음악 전문기자와 상임 에디터를 역임한 저자가 그동안의 경력을 살려 방대한 서양음악사를 흥미롭게 기술했다. 간결하면서도 주요 쟁점은 놓치지 않고 풀어낸 저자는 대중을 위한 클래식 음악 강의를 하면서 그동안 본인이 얼마나 자기 시야에 갇혀 있었는지 절실히 깨닫게 되었고, 이 책을 쓰기로 결심하게 되었다. 클래식에 대해 알고 싶어 하는 사람들에게 저자가 추천하는 이상적인 방법은 바로 ‘역사를 통한 접근’이다. \n\n음악역사를 시대별로 정확하게 이해하고 바라보면 비로소 음악을 저장할 수 있는 ‘지적창고’가 만들어지고 여기에 체계적으로 나만의 음악을 차곡차곡 축적해나갈 수 있다. 저자는 역사적 접근이야말로 머릿속에 있는 여러 얽혀진 정보들을 깔끔하게 정리해줄 수 있는 최적의 수단이며, 클래식 음악을 쉽게 즐길 수 있는 가장 효과적인 방법이라고 말한다. 클래식 음악도 조금만 주의를 기울이다보면 누구나 충분히 즐길 수 있는 음악이다. 또한 좋은 정보들을 알면 알수록 더 흥미롭고 즐거울 수 있는 것도 클래식 음악이다. 감상 이외의 특수 배경지식(역사, 양식, 작곡목적 등)을 습득하면 그 작품을 더 잘 이해할 수 있다. 아는 만큼 들리는 클래식 음악, 이제 클래식 음악의 흥미진진한 역사 속으로 떠나보자!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소울메이트 :원앤원콘텐츠그룹",
+                "DDC": "780.9",
+                "UPDATE_DATE": "20180119",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "김태용 지음",
+                "SERIES_TITLE": "",
+                "KDC": "670.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6485542_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "372 p.",
+                "CONTROL_NO": "CIP2017035036",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160020977",
+                "INPUT_DATE": "20171220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "(5일 만에 끝내는) 클래식 음악사",
+                "PUBLISH_PREDATE": "20180115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "페미니즘을 팝니다",
+    "oauthor": "앤디 자이슬러 저/안진이 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "페미니즘을 팝니다 (우리가 페미니즘이라고 믿었던 것들의 배신)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473351949",
+                "image": "https://shopping-phinf.pstatic.net/main_3247335/32473351949.20221228072648.jpg",
+                "author": "앤디 자이슬러",
+                "discount": "15300",
+                "publisher": "세종서적",
+                "pubdate": "20180226",
+                "isbn": "9788984076846",
+                "description": "앤디 자이슬러는 『페미니즘을 팝니다』에서 페미니즘이 상업적으로 포장되고 이용되는 과정을 예리하게 파헤치고, 대중문화와 대중매체를 통하면서 본래의 의의가 어떻게 변질되고 퇴색되는지 보여준다. 여성 상위시대라는 말이 나올 정도로 여권이 높아진 듯 보이지만, ‘남성과 여성의 동등한 권리’라는 아주 기본적인 의제를 예전보다 더 자주 언급해야 하는 실상을 꼬집는다. 이 책은 최근 벌어지고 있는 페미니즘 물결을 이야기한다는 점에서 페미니즘 정의나 역사적 계보를 다루는 입문서가 아니다. 페미니즘에 대한 여러 오해와 편견을 바로잡는 안내서도 아니고, 여성이 일상적으로 겪는 성폭력과 성차별을 폭로하는 책도 아니다. 이제는 더 이상 페미니즘을 정의하고 선언하는 데서 그치지 말고, 페미니즘 운동의 성과라고 착각할 수 있는 작금의 페미니즘 열풍을 재검토하고 한 걸음 더 나아가자고 촉구하는 책이다. 저자는 독자에게 언론에 화려하게 보이는 페미니즘과 현실과의 간극을 냉철하게 보여줌으로써 페미니즘의 현주소에 관한 문제의식을 제기하고, 완전한 평등을 위해 페미니즘을 어떤 방식으로 지속시켜야 할지 생각할 거리를 던져준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세종서적",
+                "DDC": "305.42",
+                "UPDATE_DATE": "20180309",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "앤디 자이슬러 지음 ;안진이 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6545467_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "406 p.",
+                "CONTROL_NO": "CIP2018004395",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984076846",
+                "INPUT_DATE": "20180206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "페미니즘을 팝니다",
+                "PUBLISH_PREDATE": "20180226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

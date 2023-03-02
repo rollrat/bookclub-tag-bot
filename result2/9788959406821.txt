@@ -1,0 +1,67 @@
+{
+    "otitle": "분노와 애정",
+    "oauthor": "도리스 레싱 등저/모이라 데이비 편/김하현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "분노와 애정 (여성 작가 16인의 엄마됨에 관한 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444587744",
+                "image": "https://shopping-phinf.pstatic.net/main_3244458/32444587744.20221227204750.jpg",
+                "author": "모이라 데이비",
+                "discount": "13500",
+                "publisher": "시대의창",
+                "pubdate": "20181210",
+                "isbn": "9788959406821",
+                "description": "하나의 생명을 자신의 몸속에서 키워 세상으로 내보내는 일은 그 자체로 너무나 대단한 일이기에 자연스레 고통과 행복의 양가감정을 발생시킨다. 그런데 유사 이래 지금까지 대부분의 정치·사회 체제에서 제대로 보장되지 않는 여성의 지위는 ‘엄마됨’이라는 것을 더욱 혼란스럽고 어려운, 때로는 그 자체를 부정해야 할 부당한 것으로 만들기도 한다. 하지만 ‘엄마됨’이 갖는 거대하고 매혹적인 힘을 무시하는 것은 참 어려운 일이다. 그렇기 때문에 이 복잡한 모순적인 상황 속에서 고군분투하면서 이를 헤쳐 나간 여성들의 기록은 소중하다. \n\n\n\n왕성한 활동을 벌이던 사진작가 모이라 데이비가 서른여덟에 첫 아이를 낳고 “위기에 봉착했던” 시기 자신의 “생명줄”이자 멘토가 되어준 여성 작가들의 글을 다른 수많은 엄마들과 함께 공유하고자 만들었다. 노벨문학상 수상자 도리스 레싱, 영미 페미니즘 시의 선구자 에이드리언 리치, 3대 SF 작가로 불리는 어슐러 르 귄, 《컬러 퍼플》의 앨리스 워커, 거장 인류학자 마거릿 미드 등 치열하게 시대를 살아낸 이들이 ‘엄마됨’에 맞닥뜨리며 느낀 진솔한 목소리와 양가감정이 가감 없이 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시대의창",
+                "DDC": "818.6",
+                "UPDATE_DATE": "20181205",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "도리스 레싱,엘리자베스 스마트,실비아 플라스,마거릿 미드,수전 그리핀,제인 라자르,에이드리언 리치,틸리 올슨,앨리스 워커,앨리샤 오스트리커,어슐러 르 귄,사라 러딕,낸시 휴스턴,엘런 맥마흔,조이 윌리엄스,메리 겟스킬 ;모이라 데이비 엮음 ; 김하현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "848",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6984746_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "367 p.",
+                "CONTROL_NO": "CIP2018035513",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959406821",
+                "INPUT_DATE": "20181102",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "분노와 애정",
+                "PUBLISH_PREDATE": "20181210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

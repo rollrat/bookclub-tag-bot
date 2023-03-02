@@ -1,0 +1,67 @@
+{
+    "otitle": "수수께끼 변주곡",
+    "oauthor": "안드레 애치먼 저/정지현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수수께끼 변주곡",
+                "link": "https://search.shopping.naver.com/book/catalog/32477725195",
+                "image": "https://shopping-phinf.pstatic.net/main_3247772/32477725195.20221019120900.jpg",
+                "author": "안드레 애치먼",
+                "discount": "12420",
+                "publisher": "잔",
+                "pubdate": "20190717",
+                "isbn": "9791196517694",
+                "description": "색도 모양도 다른 온갖 꽃들의 사랑과 욕망이 조화롭게 뒤섞인 꽃다발 같은 사랑 이야기!\n\n《그해, 여름 손님》의 저자 안드레 애치먼의 다섯 가지 색 사랑 변주곡 『수수께끼 변주곡』. 어른이 되어서도 늘 소년 같은 사랑을 탐하는 화자 ‘폴’을 중심으로, 남부 이탈리아에서 시작된 사랑의 감정을 《첫사랑》부터 《봄날의 열병》, 《만프레드》, 《별의 사랑》, 《애빙던광장》까지 다섯 편의 이야기를 통해 각기 다른 독특한 문체로 마치 변주곡을 연주하듯 흥미롭게 펼쳐 나간다. \n\n남부 이탈리아 해변 마을, 눈 덮인 뉴잉글랜드, 센트럴파크의 테니스코트, 이른 봄 뉴욕의 거리 등 시간과 공간에 따라 사람 사이의 불가해한 욕망의 조각을 발견하고 생생하게 서술한다. 각 장마다 독특한 언어를 구사해 감각적이고 진솔한 목소리로 독자의 마음을 흔들고, 각각 하나의 소설로 봐도 좋을 만큼 독립된 완성도를 보여 준다.\n\n여름이면 가족과 함께 남부 이탈리아에서 어린 시절을 보내는 열두 살 소년 폴. 어느 날 별장을 찾아온 목공 조반니(난니)를 만난다. 어머니가 앤티크 책상과 액자 두 개를 복원하기 위해 부른 터였다. 그 후 가족의 눈을 피해 그의 작업실을 드나들며 동경 그 이상의 감정을 느끼게 되는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "잔",
+                "DDC": "",
+                "UPDATE_DATE": "20190731",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "안드레 애치먼 지음 ;정지현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/06/27/9791196517694.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "335 p.",
+                "CONTROL_NO": "CIP2019025283",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196517694",
+                "INPUT_DATE": "20190627",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "수수께끼 변주곡",
+                "PUBLISH_PREDATE": "20190717",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

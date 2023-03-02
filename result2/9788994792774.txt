@@ -1,0 +1,67 @@
+{
+    "otitle": "논리적 글쓰기를 위한 인문 고전 100",
+    "oauthor": "함영대 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "논리적 글쓰기를 위한 인문 고전 100 (20가지 주제를 따라가는 하루 10분 고전 읽기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473959825",
+                "image": "https://shopping-phinf.pstatic.net/main_3247395/32473959825.20221227204740.jpg",
+                "author": "함영대",
+                "discount": "13500",
+                "publisher": "팬덤북스",
+                "pubdate": "20140205",
+                "isbn": "9788994792774",
+                "description": "논리적 글쓰기를 위한 20가지 주제와 100종의 고전! \n\n자기 소개서, 리포트, 논문, 논술고사 등의 논술을 쓰기 위한 밑바탕을 마련해주는 책이다. 글쓰기의 양식이 되고, 논점에 대한 생각을 길러주는 고전 100종을 20개의 주제로 나눠 소개하고 있다. 각 편은 해당 고전의 쟁점과 전체의 줄거리를 요약했다. 아울러 해당 고전에서 뽑은 ‘한 구절 경구’와 쟁점에 관한 ‘문답 하나’를 넣었고, 저자를 소개하여 이해를 심화시켰다. 특히 쟁점에 관한 질문에 참고할 길잡이를 넣어 어떠한 방향으로 논리를 펴는 것이 좋은지 충고해 준다. 해당 저자나 주제와 관련된 한 권의 책을 부록으로 소개해서, 총 200종의 고전과 만날 수 있다. 각 편은 5~10분 정도의 시간만 투자해도 1종의 고전을 이해할 수 있도록 구성되어, 자투리 시간이 날 때 하루 한 편씩만 읽어도 100일이면 모두 읽을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20140303",
+                "EA_ADD_CODE": "13100",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "함영대 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994792774",
+                "INPUT_DATE": "20140303",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(논리적 글쓰기를 위한) 인문 고전 100 ",
+                "PUBLISH_PREDATE": "20140205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

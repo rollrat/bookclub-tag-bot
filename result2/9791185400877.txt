@@ -1,0 +1,67 @@
+{
+    "otitle": "영화 글쓰기 강의",
+    "oauthor": "강유정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영화 글쓰기 강의 (영화를 깊이 읽고, 생각을 정리하는 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466526048",
+                "image": "https://shopping-phinf.pstatic.net/main_3246652/32466526048.20221019135540.jpg",
+                "author": "강유정",
+                "discount": "10800",
+                "publisher": "북바이북",
+                "pubdate": "20190120",
+                "isbn": "9791185400877",
+                "description": "영화평론가이자 문학평론가인 강유정의 영화 글쓰기 강의. ‘영화+글쓰기’는 영화를 본 뒤, 그 느낌과 감동을 글로 포착하기 위한 시도다. 글을 쓰려면 영화를 깊이 읽는 방법을 고민할 수밖에 없다. 이 책에서는 영화를 본 후 간단한 메모를 남기는 것으로 시작하여, 20자평 쓰기, 줄거리 요약 등 바로 글쓰기를 실행할 수 있는 방법을 제시한다. 그리고 영화를 깊이 읽기 위한 방법들과 캐릭터 분석, 서사 분석, 미장센 분석 등 기본적인 분석 틀을 초보자의 눈높이에 맞춰 설명했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "",
+                "UPDATE_DATE": "20190123",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강유정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "157 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400877",
+                "INPUT_DATE": "20181228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "영화 글쓰기 강의",
+                "PUBLISH_PREDATE": "20190120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

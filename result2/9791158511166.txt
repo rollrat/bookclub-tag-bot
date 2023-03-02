@@ -1,0 +1,67 @@
+{
+    "otitle": "원숭이 신의 잃어버린 도시",
+    "oauthor": "더글러스 프레스턴 저/손성화 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "원숭이 신의 잃어버린 도시",
+                "link": "https://search.shopping.naver.com/book/catalog/32438304095",
+                "image": "https://shopping-phinf.pstatic.net/main_3243830/32438304095.20221019124910.jpg",
+                "author": "더글러스 프레스턴",
+                "discount": "15120",
+                "publisher": "나무의철학",
+                "pubdate": "20181119",
+                "isbn": "9791158511166",
+                "description": "인류가 잃어버린 고대 문명에 관한 가장 흥미롭고 미스터리한 이야기를 발굴하다!\n\n인류의 진화와 역사와 문명의 발전에 대한 과학적 증명과 통찰, 유머, 휴머니즘, 풍성한 지적 논쟁과 즐거움을 주는 『원숭이 신의 잃어버린 도시』. 2015년 중앙아메리카 깊은 정글 속에서 세기적인 관심을 집중시킨 고고학 발굴이 이루어졌다. 뉴욕의 자연사박물관 에디터로 일하면서 역사와 고고학 분야에 가장 해박한 지식을 가진 인물로 손꼽힌 더글러스 프레스턴은 《내셔널 지오그래픽》특파원 자격으로 오랜 시간 베일에 싸여 있던 고대 도시를 발굴하는, 인류사에 혁명을 불러올 만한, 이 세기적인 프로젝트에 참여하게 됐다.\n\n수천 년 동안 전 세계 내로라하는 모험가, 탐험가, 고고학자들이 그 베일을 벗기고자 도전했지만 모두 실패로 끝났던 ‘황금 도시’가 마침내 세상에 그 모습을 드러내고, 몸의 절반은 인간, 절반은 원숭이인 신비로운 존재가 만들었다는 이 도시가 전설이나 허구가 아닌 실재한 장소로 밝혀지면서 인류의 기원과 문명의 수수께끼를 풀 다양한 단서들이 나타났고, 이를 통해 인류 역사에 관한 새로운 가설과 연구들이 탄생하기 시작했는데, 이 책은 그 흥미롭고 놀라운 발굴 현장을 생생하게 담고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무의철학",
+                "DDC": "818.54",
+                "UPDATE_DATE": "20181121",
+                "EA_ADD_CODE": "03940",
+                "PUBLISHER_URL": "http://www.tornadobook.com",
+                "AUTHOR": "더글라스 프레스턴 지음 ;손성화 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "846",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6951674_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "383, [14] p.",
+                "CONTROL_NO": "CIP2018033099",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158511166",
+                "INPUT_DATE": "20181015",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "원숭이 신의 잃어버린 도시",
+                "PUBLISH_PREDATE": "20181119",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

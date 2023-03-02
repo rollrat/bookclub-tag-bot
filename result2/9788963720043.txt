@@ -1,0 +1,67 @@
+{
+    "otitle": "과학, 일시정지",
+    "oauthor": "가치를꿈꾸는과학교사모임 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학 일시정지 (과학 선생님들의 현대 과학 다시보기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482740619",
+                "image": "https://shopping-phinf.pstatic.net/main_3248274/32482740619.20230117164947.jpg",
+                "author": "가치를꿈꾸는과학교사모임",
+                "discount": "9900",
+                "publisher": "양철북",
+                "pubdate": "20090814",
+                "isbn": "9788963720043",
+                "description": "과학 선생님들과 떠나는 재미있고 유쾌한 과학 여행\n\n과학자들이 위기에 빠진 지구를 구하기 위해 발 벗고 나섰다. 기아 문제를 해결하기 위해 슈퍼 옥수수를 생산하고, 난치병을 고치기 위해 줄기세포를 배양하며, 석유 대신 수소로 가는 자동차를 개발하고 있다. 그런데 과학이 낳은 문제를 과학으로 해결하는 것만이 방법일까? \n\n가치를 꿈꾸는 과학 선생님들이 『과학 일시정지』에서 질주하는 현대과학에 일시정지 버튼을 눌렀다. 기후변화에서부터 유전자 조작식품, 그리고 에너지 문제에 이르기까지 무작정 달려가지 말고 잠깐 생각을 해보자는 그들의 이야기가 생생하게 펼쳐진다.\n\n총11장으로 구성된 이 책은 먼저 각 주제가 시작되는 첫 부분에 그 주제를 집약적으로 다루고 있는 우화, 콩트 등의 이야기를 넣어 흥미를 돋우어준다. 유전자 조작 종자를 판매하는 회사에 맞서 싸우는 농부, 나노 로봇을 둘러싼 음모가 펼쳐지는 연구실 이야기 등에 깊고 풍부한 과학 선생님들의 설명이 이어진다. \n\n생명복제, 동물 실험, 원자력, 기후 변화, 나노, 유비쿼터스 등의 과학이 만들어내는 사회적 영향력과 제반 현상을 선생님답게 쉽고 조곤조곤하게 설명한다. 무작정 현대 과학의 문제점을 지적하는 것이 아니라 각 분야들이 이루어 낸 성과와 발전 가능성도 함게 설명하며, 하나의 결론을 내리지 않고 다양한 정보를 제공하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "양철북",
+                "DDC": "",
+                "UPDATE_DATE": "20090831",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "가치를꿈꾸는과학교사모임 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963720043",
+                "INPUT_DATE": "20090831",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학, 일시정지 ",
+                "PUBLISH_PREDATE": "20090820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "불안의 서",
+    "oauthor": "페르난두 페소아 저/배수아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:26 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "불안의 서",
+                "link": "https://search.shopping.naver.com/book/catalog/32500063191",
+                "image": "https://shopping-phinf.pstatic.net/main_3250006/32500063191.20221228071807.jpg",
+                "author": "윤이서",
+                "discount": "10800",
+                "publisher": "안식",
+                "pubdate": "20201015",
+                "isbn": "9791197176708",
+                "description": "삶과 죽음에 각별한 애정을 가진 한 사람의 시선과 관찰\n\n“글을 쓰는 일은 부단히도 더딘 일이었습니다. 감정들과 마주했을 때 하고 싶은 말이 많았습니다. 한참이나 체했던 눈물이 뚝뚝 떨어졌지만, 심장에는 눈물이 고여있는 것 같았습니다. 펑펑 울어도 될까 많은 길목에서 고민했습니다. 사람들이 기둥처럼 서 있고, 이 기둥들 사이에서 제가 소리를 내는 일은 생각보다 어려운 일이었습니다. 그러나 채워지고 비워지는 것들을 보며 용기를 냈습니다. 기꺼이 나의 소리를 지나쳐가십시오. 사람은 뒤로 걷지 않지만, 뒤를 돌아보기 마련입니다. 언젠가 깊은 터널을 걷고 있는 것만 같을 때, 당신과 함께 걸어줄 글들이 되기를 바랍니다."
+            },
+            {
+                "title": "불안의 서",
+                "link": "https://search.shopping.naver.com/book/catalog/32480653830",
+                "image": "https://shopping-phinf.pstatic.net/main_3248065/32480653830.20230216071141.jpg",
+                "author": "페르난두 페소아",
+                "discount": "25200",
+                "publisher": "봄날의책",
+                "pubdate": "20140327",
+                "isbn": "9788996997962",
+                "description": "지상에서 가장 슬픈 책, 페소아가 전하는 슬픈 상상력\n\n『불안의 서』는 소설가 배수아가 완역한 책으로, 포르투갈의 국민작가로 추앙받는 페르난두 페소아가 쓴 지상에서 가장 슬픈 책으로, 에세이 480여 편이 수록되어 있다. 흔히 명예, 성공, 편리함, 소음과 번잡함 등이 인정받는 현시대에, 페소아는 그와 정반대되는 어둠, 모호함, 실패, 곤경, 침묵 등을 노래한다. 포르투갈의 도시 리스본, 특히 도라도레스라는 장소를 중심으로, 그곳 사람들, 그곳 풍경, 그곳에서 촉발된 상상력을 그 무엇에도 구애받지 않고 맘껏 펼쳐 보인다. \n\n480여 편에 이르는 각각의 글들은 원칙적으로 독립된 내용을 담고 있다. 하지만 이들은 인간, 삶과 죽음, 내면의 심리와 외부세계와 같은 근원적이고 다양한 주제들을 다루면서 서로 긴밀하게 연관되어 있다. 인간이란 무엇인가, 삶의 의미는 무엇인가, 그리고 자아의 비밀에 대한 질문이 책 전체를 관통하는 주된 테마이다. 차분하고 섬세하고 치밀하면서도 치열하게까지 느껴지는 페소아의 글들을 통해 고뇌하는 한 작가가 추구하는 삶의 진정한 의미를 엿볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "안식",
+                "DDC": "",
+                "UPDATE_DATE": "20210319",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 윤이서 ;번역: 김은지",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/09/17/9791197176708.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*182",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "165 p.",
+                "CONTROL_NO": "CIP2020039996",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197176708",
+                "INPUT_DATE": "20200917",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "불안의 서",
+                "PUBLISH_PREDATE": "20201008",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

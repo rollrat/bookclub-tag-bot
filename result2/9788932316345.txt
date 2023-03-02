@@ -1,0 +1,67 @@
+{
+    "otitle": "열두 달 숲 관찰일기",
+    "oauthor": "강은희 글,그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "열두 달 숲 관찰일기 (가까운 작은 숲을 천천히 그리다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496628773",
+                "image": "https://shopping-phinf.pstatic.net/main_3249662/32496628773.20221229071039.jpg",
+                "author": "강은희",
+                "discount": "15120",
+                "publisher": "현암사",
+                "pubdate": "20120825",
+                "isbn": "9788932316345",
+                "description": "365일 숲의 흐름을 한눈에 볼 수 있는 생태그림일기이다. 현장 공기, 햇빛에 익숙한 저자는 매일매일 숲을 체험하며 관찰하고, 작은 생명들의 소소한 변화를 130여 컷의 세밀화로 생생하게 그려냈다. 글은 가식적인 수식이 없고 담백하고 솔직하다. 이 책을 읽으면 숲을 체험하는 법, 숲과 교감하는 법, 관찰일기 쓰기는 법 등 숲과 친해지는 방법을 자연스럽게 배울 수 있다.\n\n\n\n저자는 사진으로 볼 수 없는 미세한 부분까지 세밀화로 표현했다. 아린이 벗겨지고 잎이 펼쳐지려는 상태, 여린 샘털이 달려 있는 새잎, 개미 떼가 새카맣게 몰려 있는 벌레알집, 애벌레가 갉아 먹은 흔적이 있는 나뭇잎, 온갖 병에 시달리면서도 열매를 달고 있는 나무, 곤충의 유충이 기생하고 있는 열매 등 숲 속 풍경을 아주 사실적으로 표현했다. 130여 컷의 세밀화는 실제 숲 속 나무와 풀을 꼼꼼하게 관찰한 저자의 값진 결과물이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "577.3",
+                "UPDATE_DATE": "20120918",
+                "EA_ADD_CODE": "03480",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "강은희 글·그림",
+                "SERIES_TITLE": "",
+                "KDC": "472.52642",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2571781_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2571781_3.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2571781_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012003686",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932316345",
+                "INPUT_DATE": "20120813",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "열두 달 숲 관찰일기 ",
+                "PUBLISH_PREDATE": "20120825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

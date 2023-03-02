@@ -1,0 +1,67 @@
+{
+    "otitle": "인코텀즈 2020 쉽게 배우는 무역영어 기본 실무",
+    "oauthor": "권영구 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인코텀즈 2020 쉽게 배우는 무역영어 기본 실무 (인코텀즈 2020 핵심 포인트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492384070",
+                "image": "https://shopping-phinf.pstatic.net/main_3249238/32492384070.20221019105710.jpg",
+                "author": "권영구",
+                "discount": "16200",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20200123",
+                "isbn": "9788960542426",
+                "description": "* 무역영어는 물론 무역실무 지식까지 습득할 수 있도록 구성! \n* 실무에서 중요한 ‘인코텀즈 2020 핵심 해설서’ 수록!\n\n이 책은 무역에 입문하는 사람들이 무역영어는 물론 무역실무 지식까지 습득할 수 있도록 구성했다. 또한 실제 업무와 유사한 스토리로 구성되어 있어 수출과 수입실무의 전 과정을 쉽게 따라 할 수 있다. 따라서 이 책은 무역창업 초보자에게 꼭 필요한 무역영어의 교과서가 될 것이다.\n특히 별책부록으로 ‘인코텀즈 2020 핵심 해설서’를 수록했는데 10년 만에 개정한 인코텀즈가 어떻게 바뀌었는지 그 주요 내용과 궁금증 등을 무역 초보자도 알기 쉽게 설명하여 실무적 활용도가 매우 높다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙경제평론사",
+                "DDC": "",
+                "UPDATE_DATE": "20200303",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "권영구 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.489",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/27/9788960542426.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "449 p.",
+                "CONTROL_NO": "CIP2019053441",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960542426",
+                "INPUT_DATE": "20191227",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(쉽게 배우는) 무역 영어 기본 실무",
+                "PUBLISH_PREDATE": "20200123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

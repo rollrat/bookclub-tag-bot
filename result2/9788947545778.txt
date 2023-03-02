@@ -1,0 +1,67 @@
+{
+    "otitle": "다빈치가 자전거를 처음 만들었을까",
+    "oauthor": "페터 쾰러 저/박지희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다빈치가 자전거를 처음 만들었을까 (가짜 뉴스 속 숨은 진실을 찾아서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476612650",
+                "image": "https://shopping-phinf.pstatic.net/main_3247661/32476612650.20221228072246.jpg",
+                "author": "페터 쾰러",
+                "discount": "14850",
+                "publisher": "한국경제신문",
+                "pubdate": "20200416",
+                "isbn": "9788947545778",
+                "description": "탈진실의 시대에 살펴보는 거짓의 인문학\n람세스부터 트럼프까지 세상을 뒤흔든 역사상 최악의 가짜 뉴스들\n“속고 속이는 일은 땅이 생긴 뒤부터 계속됐다.” -요한 고트프리트 조이메\n\n우리는 현실과 상상이 뒤섞이고, 희망 사항이 진실을 이기며, 가짜 뉴스가 공식 뉴스가 되는 ‘탈진실(post-truth)의 시대’에 살고 있다. 팩트 체크 전문 기관인 폴리티팩트(PolitiFact)의 분석에 따르면 선거 유세 기간에 트럼프가 했던 168개 주장 중 70퍼센트는 ‘잘못됐거나’, ‘상당히 잘못됐거나’, ‘소름 끼칠 정도로 잘못된’ 주장이었다. 그러니까 세 차례의 발언 중 두 번은 진실이 아니었다는 얘기다. \n\n가짜 뉴스를 퍼뜨리는 사람들은 진짜와 가짜의 구분을 어렵게 하고 현실과 허구, 진실과 거짓을 서로 뒤섞으며 심지어는 틀린 것이 옳고, 옳은 것이 틀리다고 주장한다. 그런데 가짜 뉴스는 인터넷이 생기면서 생겨난 것이 아니다. 역사 속 최초의 가짜 뉴스는 무려 3,000년 전의 것으로, 기원전 1274년경 람세스가 히타이트와 벌인 전쟁사를 기록한 돌기둥에 등장한다. 이 책은 셰익스피어의 이름을 이용해 문학계를 속인 소년, 2007년까지 성물로 모셨던 잔 다르크의 유해가 사실 이집트 미라였다는 사례 등 과거부터 최근까지 있었던 다양하고 흥미로운 가짜 뉴스들을 모아 전달한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한국경제신문 한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20200428",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "지은이: 페터 쾰러 ;옮긴이: 박지희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947545778",
+                "INPUT_DATE": "20200428",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "다빈치가 자전거를 처음 만들었을까",
+                "PUBLISH_PREDATE": "20200416",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

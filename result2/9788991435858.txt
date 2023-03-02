@@ -1,0 +1,67 @@
+{
+    "otitle": "관자평전",
+    "oauthor": "신동준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "관자 평전 (일생에 한번은 관자를 만나라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442699879",
+                "image": "https://shopping-phinf.pstatic.net/main_3244269/32442699879.20221227210223.jpg",
+                "author": "신동준",
+                "discount": "18000",
+                "publisher": "리더북스",
+                "pubdate": "20171107",
+                "isbn": "9788991435858",
+                "description": "《관자》는 대한민국 리더들이 반드시 읽어야 하는 비장의 무기다\n\n관중은 중국 춘추시대에 제환공을 도와 제나라를 최강의 나라로 만들어낸 최고의 재상이며, ‘관포지교’라는 고사성어로 잘 알려져 있다. 그가 쓴 《관자》에는 유가, 도가, 법가, 상가, 병가 등 제자백가의 다양한 사상이 두루 녹아 있으며, 정치, 경제, 외교, 군사, 법률, 교육, 문화, 인간경영 등 다양한 분야의 지략이 담겨 있다. 지금 전 세계의 정치지도자와 글로벌 기업 리더들은 《관자》를 옆에 끼고 열독하는데, 그 이유는 부국강병과 세계시장을 석권하는 방략이 무궁무진하다는 사실을 통찰했기 때문이다. 신동준 박사의 정밀한 고전 독해, 탁월한 해석과 통찰이 돋보이는 이 책 《관자 평전》은 중국 역사상 최고의 정치가이자 사상가였던 관중의 생애와 《관자》에 담긴 정치경제학을 평전 형식으로 집대성했다. 동아3국을 통틀어 관자의 삶과 정치경제사상을 평전 형식으로 본격 추적한 것은 이 책이 처음이다. 이 책은 4차 산업혁명시대에 세계 강국에 둘러싸인 한반도의 위기 상황에서 정치와 경제, 경영 등의 해법을 어떻게 찾아야 할지 고민하는 정치지도자, 기업 경영자, 사회 각계의 리더들에게 실용주의에 입각한 부민부국, 부국강병의 계책과 세상을 경영하는 해법을 알려줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리더북스",
+                "DDC": "",
+                "UPDATE_DATE": "20171218",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "신동준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "448 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991435858",
+                "INPUT_DATE": "20171027",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "관자 평전",
+                "PUBLISH_PREDATE": "20171107",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

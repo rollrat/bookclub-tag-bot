@@ -1,0 +1,67 @@
+{
+    "otitle": "헤르만 헤세, 이탈리아 여행 그리고 르네상스 예술",
+    "oauthor": "김선형 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "헤르만 헤세, 이탈리아 여행 그리고 르네상스 예술",
+                "link": "https://search.shopping.naver.com/book/catalog/32441767750",
+                "image": "https://shopping-phinf.pstatic.net/main_3244176/32441767750.20221227203916.jpg",
+                "author": "김선형",
+                "discount": "18900",
+                "publisher": "세창출판사",
+                "pubdate": "20201230",
+                "isbn": "9788984119970",
+                "description": "우리가 아는 헤세는 고독한 사색가, 시골의 작가, 정원사로, 대단히 소박하고 차분한 모습을 하고 있다. 그런 헤세가 활기차고 떠들썩한 이탈리아로 여행을 떠났다. 적응하기 힘들었을까? 그렇지 않았다. 그는 오늘날의 우리도 다 따라갈 수 없을 정도로 열정을 불태우며 이탈리아의 르네상스를 여행했다.\n\n\n\n헤세는 이탈리아에 남겨진 르네상스 시대의 수많은 건축물과 예술 작품, 이탈리아의 아름다운 자연과 쾌활한 사람들을 통해 &lt;페터 카멘친트&gt;, &lt;수레바퀴 아래서&gt;, &lt;황야의 이리&gt; 등 초.중기 작품세계에 많은 영향을 받았다.\n\n\n\n이탈리아로 떠난 헤세는 무슨 생각을 하며, 무엇을 보러 다녔을까? 지금도 여전히 그 자리에 남아 있는 이탈리아 르네상스의 흔적들. 헤세가 보고 남긴 기록을 따라 되살아난 장소들이 지금 우리 앞에도 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세창출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20210315",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "http://www.sechangpub.co.kr",
+                "AUTHOR": "지은이: 김선형",
+                "SERIES_TITLE": "",
+                "KDC": "856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/21/9788984119970.jpg",
+                "PRE_PRICE": "21000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "419 p.",
+                "CONTROL_NO": "CIP2020054189",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984119970",
+                "INPUT_DATE": "20201221",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "헤르만 헤세, 이탈리아 여행 그리고 르네상스 예술",
+                "PUBLISH_PREDATE": "20201230",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

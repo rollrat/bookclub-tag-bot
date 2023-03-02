@@ -1,0 +1,67 @@
+{
+    "otitle": "나를 지키는 최소한의 법 이야기",
+    "oauthor": "양지열 저/낫노멀 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나를 지키는 최소한의 법 이야기",
+                "link": "https://search.shopping.naver.com/book/catalog/32480515189",
+                "image": "https://shopping-phinf.pstatic.net/main_3248051/32480515189.20221019114008.jpg",
+                "author": "양지열",
+                "discount": "12600",
+                "publisher": "자음과모음",
+                "pubdate": "20220128",
+                "isbn": "9788954448024",
+                "description": "“법이 없으면 무엇이 나를 지켜 줄까?”\n우리 곁의 변호사 양지열의 ‘십대를 위한 법률 수업’\n\n우리는 알게 모르게 법의 영향을 받는다. 특히 청소년은 범죄에 노출되기 쉽고, 청소년 범죄의 강도는 점점 높아지고 있기 때문에 법에 대해 제대로 아는 것이 중요하다. 어떻게 하면 청소년들이 스스로를 지키고, 세상 밖으로 당당히 걸어 나갈 수 있을까? \n“권리 위에 잠자는 자는 보호받지 못한다”라는 격언이 있듯, 법에 대해 알아야 나를 제대로 지킬 수 있을 것이다. 이 책은 청소년들이 험난한 세상으로부터 자신을 지킬 수 있게 도와주는 첫걸음이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "자음과모음",
+                "DDC": "",
+                "UPDATE_DATE": "20220520",
+                "EA_ADD_CODE": "44080",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "양지열 지음",
+                "SERIES_TITLE": "청소년인문",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788954431354",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "257 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954448024",
+                "INPUT_DATE": "20220104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(나를 지키는) 최소한의 법 이야기",
+                "PUBLISH_PREDATE": "20220124",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

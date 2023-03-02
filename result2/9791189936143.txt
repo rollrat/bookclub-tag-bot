@@ -1,0 +1,67 @@
+{
+    "otitle": "세상에서 가장 쉬운 집빵",
+    "oauthor": "베카 아키코 저/서수지 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상에서 가장 쉬운 집빵 (한 가지 반죽으로 만드는 39가지 아침빵)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476147089",
+                "image": "https://shopping-phinf.pstatic.net/main_3247614/32476147089.20221230072912.jpg",
+                "author": "베카 아키코",
+                "discount": "10800",
+                "publisher": "옥당북스",
+                "pubdate": "20190615",
+                "isbn": "9791189936143",
+                "description": "일본 제빵계의 ‘백선생’ 베카 아키코의 베스트셀러. 평범한 주부였던 저자가 시행착오를 거듭하며 완성한 레시피다. 아침 식사로 뜨끈뜨끈한 빵을 먹기 위해서 전날 몇 시쯤 무엇을 해야 할지 ‘타임 테이블’부터 나와 있다. 시간, 방법 모두 그대로 따라 하기만 하면 된다. \n\n\n\n가장 큰 장점은 한 가지 기본 반죽 레시피로 39가지 다른 빵을 만들 수 있도록 안내하고 있다는 점이다. 강력분, 소금, 설탕, 이스트, 버터만 있으면 가장 기본이 되는 반죽이 끝난다. 이 반죽만 있으면 베치번즈, 햄버거 피자빵, 꽃빵, 아몬드 크림빵 등 39가지 다양한 빵을 만들 수 있다.  \n\n\n\n또 다른 장점 중 하나는 전문적인 도구 없이도 맛있는 빵을 만들 수 있다는 점이다. 발효기도 필요 없고, 제빵용 오븐도 따로 없어도 된다. 가정에서 흔히 쓰는 오븐과 볼, 도마, 저울, 온도계, 스크래퍼 등 기본적인 도구만 있으면 맛있는 집빵을 누구나 만들 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "옥당북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190625",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "베카 아키코 지음 ;서수지 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "594.71",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/11/9791189936143.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "121 p.",
+                "CONTROL_NO": "CIP2019018566",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189936143",
+                "INPUT_DATE": "20190511",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "세상에서 가장 쉬운 집빵",
+                "PUBLISH_PREDATE": "20190615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

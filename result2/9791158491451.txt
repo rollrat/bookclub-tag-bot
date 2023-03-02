@@ -1,0 +1,67 @@
+{
+    "otitle": "배움은 어떻게 내 것이 되는가",
+    "oauthor": "박성일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "배움은 어떻게 내 것이 되는가 (노력과 결과에 대하여 더 나은 확신을 갖게 하는 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473356042",
+                "image": "https://shopping-phinf.pstatic.net/main_3247335/32473356042.20221019123725.jpg",
+                "author": "박성일",
+                "discount": "14400",
+                "publisher": "모아북스",
+                "pubdate": "20210407",
+                "isbn": "9791158491451",
+                "description": "뉴 노멀 시대에 ‘배움’이란 무엇인가?\n배움과 가르침에 대한 재정의가 필요한 시기\n질문, 관찰, 호기심, 창의력을 키워주는\n진짜 배움에 대한 안내서!\n\n세상이 급변하고 있다. 과학기술은 하루가 다르게 발전하고 정보와 지식에 대한 업데이트가 숨가쁘게 이루어진다. 세상의 변화에 발맞추어 학습과 교육에 대한 변화의 전망을 말하는 사람도 늘어났다. \n  미래를 대비하려면 무엇을 공부해야 할까? 4차 산업혁명의 도래와 포스트 코로나 시대에 교육은 많은 변화가 요구되고 있다. 그 요구는 변화에 대한 대응과 불확실성에 대한 해결책을 준비하는 방향으로 나아간다. 곧 생존의 필수 요소를 배움의 대상으로 보는 것이다. 미래를 준비하며 공부하는 사람은 어떤 가치를 지향하고 어떤 태도로 학습해야 할까?\n  생존에 필요한 능력과 태도는 오로지 경험과 학습을 통해서 얻을 수밖에 없다. 배움의 목적과 방법에 대해 능동적으로 답을 찾는 태도가 미래를 위한 공부의 여정이 될 것이다. 이 책은 교육 현장에서 학생, 교사, 학교의 변화를 성찰해온 교육자가 오늘의 교육 현실을 진단하고 배움과 가르침에 대한 의미를 깊이 통찰한 내용을 담고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "모아북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210518",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.moabooks.com",
+                "AUTHOR": "박성일 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "201 p,",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158491451",
+                "INPUT_DATE": "20210324",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "배움은 어떻게 내 것이 되는가",
+                "PUBLISH_PREDATE": "20210407",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

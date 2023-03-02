@@ -1,0 +1,67 @@
+{
+    "otitle": "지리산학교 요리 수업",
+    "oauthor": "양영하 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지리산학교 요리 수업",
+                "link": "https://search.shopping.naver.com/book/catalog/35472023620",
+                "image": "https://shopping-phinf.pstatic.net/main_3547202/35472023620.20221229073130.jpg",
+                "author": "양영하",
+                "discount": "24300",
+                "publisher": "나비클럽",
+                "pubdate": "20221115",
+                "isbn": "9791191029598",
+                "description": "요리는 ‘치유의 시작’이다\n지리산학교 발효산채요리반 양영하 선생의 요리 수업\n\n지리산에 사는 즐거움과 자연의 지혜를 담은\n건강하고 소박한 계절별 레시피와 글\n\n도시에서 살다가 지리산 자락으로 귀농한 이들에게 각종 산나물과 제철 재료로 요리하는 법을 가르쳐온 양영하 선생의 책이 나왔다. 단순하게 살고 싶어 자연의 품에 안긴 사람들에게 저자는 자연에서 난 것들로 소박하게 밥상차리는 법을 가르쳤다. 10년 동안의 요리 수업 내용을 정리한 이 책은 소담한 음식 레시피와 요리를 중심으로 지리산 자락에 모인 사람들과의 따뜻한 이야기를 담았다. 고민과 연구를 거듭하며 특허 상품을 개발해온 양영하 선생의 계절별 발효요리와 응용 요리를 함께 따라하다 보면 몸과 마음이 회복되는 경험을 할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나비클럽",
+                "DDC": "",
+                "UPDATE_DATE": "20221227",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "양영하 글·사진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221115",
+                "TITLE_URL": "",
+                "PRE_PRICE": "27000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "173*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "365 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191029598",
+                "INPUT_DATE": "20221024",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "지리산학교 요리 수업",
+                "PUBLISH_PREDATE": "20221115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

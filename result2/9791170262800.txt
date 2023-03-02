@@ -1,0 +1,78 @@
+{
+    "otitle": "허형만의 커피스쿨",
+    "oauthor": "허형만 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:48 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "허형만의 커피스쿨 (개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454961192",
+                "image": "https://shopping-phinf.pstatic.net/main_3245496/32454961192.20221229073950.jpg",
+                "author": "허형만",
+                "discount": "19800",
+                "publisher": "팜파스",
+                "pubdate": "20191120",
+                "isbn": "9791170262800",
+                "description": "허형만의 37년 커피스쿨 노하우를 내 손안에!\n\n커피를 사랑하는 사람들에게 큰 길잡이가 되어준 『허형만의 커피스쿨』이 개정판으로 다시 돌아왔다. 대충 알면 병이지만, 확실히 알면 힘이 된다고 말하는 저자는 최고의 한 잔을 위해 커피의 모든 것을 알려주고 있다. 현대를 살고 있는 우리는 하루의 일과를 커피로 시작하고, 잠깐의 휴식을 위해 커피를 마신다. 일상을 함께하는 커피를 좀 더 풍요롭게 즐기기 위해서는 커피를 제대로 알아야 한다. 이 책에는 재미있는 커피의 역사로 시작해서 커피 품종과 특징, 커피를 볶는 과정에서 일어나는 변화, 커피의 신선한 보관법과 완벽한 한 잔의 커피를 위한 추출 기술, 핸드 드립하는 법과 에스프레소 커피를 즐기는 다양한 방법, 가정에서도 카페 못지않은 커피를 즐길 수 있는 커피기구 사용법까지 담겨있다. 또한 커피의 풍미를 살리는 부재료와 창업자를 위한 가이드까지 허형만의 지식과 경험으로 가득하다."
+            },
+            {
+                "title": "허형만의 커피스쿨 (커피, 제대로 알고 즐기기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466985677",
+                "image": "https://shopping-phinf.pstatic.net/main_3246698/32466985677.20220519231913.jpg",
+                "author": "허형만",
+                "discount": "16200",
+                "publisher": "팜파스",
+                "pubdate": "20091020",
+                "isbn": "9788993195354",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20191220",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "허형만 지음",
+                "SERIES_TITLE": "",
+                "KDC": "573.93",
+                "EDITION_STMT": "개정증보판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/28/9791170262800.jpg",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "321 p.",
+                "CONTROL_NO": "CIP2019043567",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170262800",
+                "INPUT_DATE": "20191029",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "허형만의 커피스쿨",
+                "PUBLISH_PREDATE": "20191120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

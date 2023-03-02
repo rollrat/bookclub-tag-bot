@@ -1,0 +1,67 @@
+{
+    "otitle": "도시소녀 귀농기 4 - 건축",
+    "oauthor": "에른 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도시소녀 귀농기 4: 건축 (건축)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497542760",
+                "image": "https://shopping-phinf.pstatic.net/main_3249754/32497542760.20221227203041.jpg",
+                "author": "에른",
+                "discount": "13500",
+                "publisher": "들녘",
+                "pubdate": "20190215",
+                "isbn": "9791159253867",
+                "description": "귀농의 마지막 미션은 집을 짓고 정착하는 것입니다!\n\n우여곡절 고군분투 끝에 새 삶의 터전에 집을 짓게 된 지은네와 옥순 씨네. 주야장천 ‘내 손으로 집 짓기’를 우겼던 아빠들에게 녹록하지 않은 ‘현실’을 일깨워준 뒤 두 가족은 발품을 팔아 고르고 고른 시공사에 건축을 의뢰한다. 그런데 믿고 맡긴 선수들의 집 짓기 역시 주문한 대로 상상한 그대로 이루어지는 것은 아니다. 하루 종일 붙어 서서 매의 눈길로 관찰하지 않으면 여기도 저기도 주문과 달리 구현되곤 하니까! 그 바람에 건축주의 속마음은 날로 타들어 가지만…. 이들 가족은 과연 귀농의 마지막 단계인 ‘건축과 정착’의 관문을 무사히 통과하여 ‘친애하는 문경 주민’이 될 수 있을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "630.2",
+                "UPDATE_DATE": "20190412",
+                "EA_ADD_CODE": "04520",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "글·그림: 예른",
+                "SERIES_TITLE": "",
+                "KDC": "520.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7112289_6.txt",
+                "SET_ISBN": "9791159253829",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "340 p.",
+                "CONTROL_NO": "CIP2019001512",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159253867",
+                "INPUT_DATE": "20190114",
+                "SET_EXPRESSION": "",
+                "VOL": "4",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "도시소녀 귀농기",
+                "PUBLISH_PREDATE": "20190215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04520 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

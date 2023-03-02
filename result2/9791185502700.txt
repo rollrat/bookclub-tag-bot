@@ -1,0 +1,67 @@
+{
+    "otitle": "핵심 서양미술사",
+    "oauthor": "제라르 드니조 저/배영란 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "핵심 서양미술사 (르네상스부터 초현실주의까지 예술 사조로 정리한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442706802",
+                "image": "https://shopping-phinf.pstatic.net/main_3244270/32442706802.20221019115658.jpg",
+                "author": "제라르 드니조",
+                "discount": "12150",
+                "publisher": "클",
+                "pubdate": "20181217",
+                "isbn": "9791185502700",
+                "description": "핵심 예술 사조를 파악하면\n서양미술사가 명쾌하게 정리된다 \n미술사를 이해하는 방식에는 여러 가지가 있는데, 시대별, 지역별, 작가별 특성을 분석하기도 하고, 쉬운 이야기로 풀어내거나 역사적인 맥락을 함께 살펴보기도 한다. ‘예술 사조’는 작가와 작품이 추구하는 주제 의식과 형식성에 따라 분류하는 틀로서, ‘작가’와 ‘작품’이 대두된 르네상스 시대 이후에는 미술사라는 거대한 물줄기를 파악하는 데 사용할 수 있는 효율적인 방식이다. \n이 책 는 미술사를 예술 사조로 정리한 책이다. 15세기 이탈리아의 르네상스부터 20세기 초현실주의까지 서양미술사에서 큰 영향을 미친 주요 예술 사조들을 충실하고 명료하게 설명하여, 한마디로 ‘핵심’ 예술 사조의 ‘핵심’ 내용만을 간추렸다. 그럼에도 우리에게 익숙한 고전주의, 낭만주의, 상징주의 등뿐만 아니라 퐁피에 미술, 라파엘 전파, 나비파, 나이브 아트 등 한국 독자들에게 잘 알려지지 않았지만 당대에 존재감을 드러냈던 흐름들도 빼놓지 않고 소개한다. 또한 사조별 대표 작품들을 컬러 도판으로 함께 실어 시각적인 이해를 돕는다. \n미술사에 관심은 있지만 엄두가 나지 않았던 독자들이라면 가벼운 이 책 한 권으로 서양미술사의 맥을 쉽게 파악할 수 있으며, 궁금할 때마다 사조별로 찾아보며 참고도서로 삼기에도 부족함이 없다. 미술사 초심자들은 물론 예술 사조에 대한 지식을 다시 체계적으로 정리하고 싶은 독자들에게 추천할 만하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "709.4",
+                "UPDATE_DATE": "20190722",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "제라르 드니조 지음 ;배영란 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "609.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6488809_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "165*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "128 p.",
+                "CONTROL_NO": "CIP2017035278",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185502700",
+                "INPUT_DATE": "20171222",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "(르네상스에서 초현실주의까지 예술 사조로 정리한) 핵심 서양미술사",
+                "PUBLISH_PREDATE": "20181217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

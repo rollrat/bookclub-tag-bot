@@ -1,0 +1,67 @@
+{
+    "otitle": "대한민국 최고 인기 여행지 100",
+    "oauthor": "오주환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "대한민국 최고 인기여행지 100 (한국인이 꼭 가봐야 할 여행지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489596717",
+                "image": "https://shopping-phinf.pstatic.net/main_3248959/32489596717.20220524183148.jpg",
+                "author": "오주환",
+                "discount": "0",
+                "publisher": "상상출판",
+                "pubdate": "20140526",
+                "isbn": "9788994799766",
+                "description": "『대한민국 최고 인기여행지 100』은 한국관광공사와 CNN이 추천한 한국 최고 인기 여행지 100곳을 소개하고 있다. 2012년부터 한국관광공사 사이트를 통해 15개 테마별로 ‘가장 가고 싶은 곳’에 대해 네티즌의 의견을 물었다. 그 결과를 토대로 각각 1위부터 10위까지 총 150곳의 여행 명소가 선정되었고, 이를 바탕으로 저자 오주환 작가가 해당 여행지는 물론 주변 가볼 만한 곳, 교통편, 소문난 맛집, 편안한 숙박지까지 꼼꼼하게 정리하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "915.19",
+                "UPDATE_DATE": "20140626",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오주환",
+                "SERIES_TITLE": "",
+                "KDC": "981.102",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3578367_3.jpg",
+                "PRE_PRICE": "16900",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3578367_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014015248",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994799766",
+                "INPUT_DATE": "20140512",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "대한민국 최고 여행지 100",
+                "PUBLISH_PREDATE": "20140522",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

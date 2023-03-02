@@ -1,0 +1,67 @@
+{
+    "otitle": "리더의 자격 애플로 지구촌을 바꿔놓은 천재 스티브잡스",
+    "oauthor": "김성진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "리더의 자격 - 애플로 지구촌을 바꿔놓은 천재 스티브잡스 (IT 산업으로 세상을 바꿔놓은 천재)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466671814",
+                "image": "https://shopping-phinf.pstatic.net/main_3246667/32466671814.20220527060652.jpg",
+                "author": "김성진",
+                "discount": "0",
+                "publisher": "씨앤북스",
+                "pubdate": "20150410",
+                "isbn": "9791186299104",
+                "description": "『리더의 자격 - 애플로 지구촌을 바꿔놓은 천재 스티브잡스』는 스티브 잡스의 생애를 더듬어보고 그의 강인한 집념과 기업 정신, 놀라운 창조의 슬기를 배워볼 수 있는 책이다. 스티프 잡스는 로널드 웨인과 함께 애플을 공동 창업하여 개인용 컴퓨터 시대를 열어 놓은 21세기 위대한 기업인 중 한 명이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "씨앤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20160512",
+                "EA_ADD_CODE": "04320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김성진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186299050",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "7000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186299104",
+                "INPUT_DATE": "20150324",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "리더의자격 애플 Apple로지구촌을 바꿔놓은 천재 스티브 잡스",
+                "PUBLISH_PREDATE": "20150410",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04320 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

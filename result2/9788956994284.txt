@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 100세 골퍼를 꿈꾼다",
+    "oauthor": "이승헌(일지) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 100세 골퍼를 꿈꾼다 (골프도 인생도 굿 샷으로 만드는 7가지 삶의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465473141",
+                "image": "https://shopping-phinf.pstatic.net/main_3246547/32465473141.20221019123707.jpg",
+                "author": "이승헌",
+                "discount": "14690",
+                "publisher": "한문화",
+                "pubdate": "20220415",
+                "isbn": "9788956994284",
+                "description": "100세까지 골프를 즐길 수 있다고?\n비거리와 타수를 넘어선 다른 차원의 골프를 만난다!\n\n골프는 건강관리, 취미, 비즈니스, 사교에 더할 나위 없지만 노년에 접어들면 지속하기 어렵다고들 한다. 《나는 120살까지 살기로 했다》로 100세 시대 담론에 많은 영감을 불어넣은 이승헌 총장은 이 책에서 기존 골프의 덕목을 넘어선 다른 차원의 골프를 보여준다. 경쟁과 승부가 아닌 자기 성찰과 수양의 가치를 담은 골프라면 100세, 아니 평생 즐길 수 있다고.    \n  40년째 골프의 매력에 빠져 있는 아마추어 골퍼인 저자는 현대단학을 비롯한 다양한 심신수련법을 개발했고, 뇌교육을 통해 자신의 가치를 발견하고 그 가치를 실현하는 삶의 길을 제시해왔다. 그간의 성과들을 골프와 접목해서 골퍼들을 위한 몸과 마음을 단련하는 방법과 골프를 통해 자신의 가치를 발견하고 성장시켜가는 골프의 진짜 매력을 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한문화(한문화멀티미디어)",
+                "DDC": "",
+                "UPDATE_DATE": "20220518",
+                "EA_ADD_CODE": "03690",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이승헌 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788956994284",
+                "INPUT_DATE": "20220413",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "나는 100세 골퍼를 꿈꾼다",
+                "PUBLISH_PREDATE": "20220415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

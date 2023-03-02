@@ -1,0 +1,67 @@
+{
+    "otitle": "라스베이거스 홀리데이(2019-2020 개정판)",
+    "oauthor": "이미랑 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "라스베이거스 홀리데이 (2019~2020 개정판, 휴대용 맵북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472047685",
+                "image": "https://shopping-phinf.pstatic.net/main_3247204/32472047685.20221227204610.jpg",
+                "author": "이미랑",
+                "discount": "13500",
+                "publisher": "꿈의지도",
+                "pubdate": "20190130",
+                "isbn": "9791189469191",
+                "description": "세계 최고의 엔터테인먼트 도시로 손꼽히는 라스베이거스와 광활한 자연을 품고 있는 미국 서부 국립공원을 안내하는 가이드북. 라스베이거스의 화려한 쇼와 긴장감 넘치는 겜블링, 도시 곳곳에 스며있는 예술가들의 작품, 훌륭한 서비스와 맛을 자랑하는 뷔페와 파인 다이닝 등 라스베이거스의 모든 것을 담았다. 특히, 라스베이거스 여행에서 빼놓을 수 없는 미국 서부 국립공원도 놓치지 않고 집중 소개했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20190328",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "글·사진: 이미랑",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정2판, 2019~2020년 전면 개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186581339",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "347 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189469191",
+                "INPUT_DATE": "20181219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "라스베이거스 홀리데이",
+                "PUBLISH_PREDATE": "20190130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "장르는 여름밤",
+    "oauthor": "몬구 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "장르는 여름밤",
+                "link": "https://search.shopping.naver.com/book/catalog/34275306624",
+                "image": "https://shopping-phinf.pstatic.net/main_3427530/34275306624.20221019151008.jpg",
+                "author": "몬구",
+                "discount": "13500",
+                "publisher": "잔",
+                "pubdate": "20220830",
+                "isbn": "9791190234894",
+                "description": "울고 웃고 이별하고 사랑하는\n지금 우리는 모두 청춘기\n\n언제까지나 기억될 우리의 여름, 청춘의 조각들!\n\n《장르는 여름밤》은 밴드 몽구스로 데뷔 후 현재 몬구로 활동하기까지 줄곧 청춘을 노래한 작가의 경험과 생각을 엮은 에세이집이다.\n\n“여름을 좋아하는 사람은 대개 몽상가이고, 여름밤을 좋아하는 사람은 분명 몽상가다. (중략) 누군가 내게 어떤 장르의 음악을 만드냐고 묻는다면 여름밤으로 하고 싶다.”\n-〈장르는 여름밤〉 중에서\n\n좀처럼 식지 않는 에너지와 조금 들뜬 듯한 기분 좋은 습기, 정돈되지 않은 자유로움, 무언가로 가득 찬 포화 상태. 새로운 경험이 가득하고, 묘하게 이는 감정이 뒤섞인 여름은 누구에게나 그렇듯 작가에게도 특별한 의미를 지녔다. 특히 여름밤에서 많은 영감을 얻어 곡을 만들기 때문이다. 여름은 감성의 근원이고 여름밤은 열매인 셈이다. 그렇게 완성한 곡을 어느 계절에 들어도 누구나 여름밤을 떠올리기 바라며 노래하듯이, 《장르는 여름밤》을 통해 우리에게 끊임없이 영감을 주고 사랑을 허락한 여름밤의 숨결을 글로 기억하며 함께 나누고자 한다. 우리의 여름밤이 언제까지나 기억될 수 있도록!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "잔",
+                "DDC": "",
+                "UPDATE_DATE": "20221004",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 몬구",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/08/9791190234894.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190234894",
+                "INPUT_DATE": "20220811",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "장르는 여름밤",
+                "PUBLISH_PREDATE": "20220830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

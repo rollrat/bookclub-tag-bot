@@ -1,0 +1,67 @@
+{
+    "otitle": "한강 9 (개정판)",
+    "oauthor": "조정래 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한강 9: 제3부 불신시대 (조정래 대하소설 | 등단 50주년 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440933997",
+                "image": "https://shopping-phinf.pstatic.net/main_3244093/32440933997.20221019124744.jpg",
+                "author": "조정래",
+                "discount": "15750",
+                "publisher": "해냄출판사",
+                "pubdate": "20201130",
+                "isbn": "9788965743996",
+                "description": "『한강. 9: 제3부 불신시대』 는 〈또 새로운 나라로〉, 〈새 길을 찾아서〉, 〈마주보고 달리는 기차〉, 〈땅이 있는 곳으로〉, 〈사약이 된 술〉, 〈타국의 하늘 아래서〉 등을 수록하고 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄(해냄출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210114",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "저자: 조정래",
+                "SERIES_TITLE": "한강 세트",
+                "KDC": "813.62",
+                "EDITION_STMT": "제3판, 등단 50주년 개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788965744665",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "139*204",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "399 p.",
+                "CONTROL_NO": "CIP2020040181",
+                "SERIES_NO": "9",
+                "EA_ISBN": "9788965743996",
+                "INPUT_DATE": "20200918",
+                "SET_EXPRESSION": "",
+                "VOL": "9",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "한강",
+                "PUBLISH_PREDATE": "20201130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "생명과학 교과서는 살아 있다",
+    "oauthor": "유영제,박태현 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "생명과학 교과서는 살아 있다 (생명과학이 세상을 구할 것이다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455478807",
+                "image": "https://shopping-phinf.pstatic.net/main_3245547/32455478807.20230117163324.jpg",
+                "author": "유영제^박태현^차형준",
+                "discount": "12600",
+                "publisher": "동아시아",
+                "pubdate": "20110225",
+                "isbn": "9788962620320",
+                "description": "교과서에 나오지만 우리가 잘 몰랐던 놀라운 생명공학 이야기\n\n『생명과학 교과서는 살아있다』는 직접 연구실과 현장에서 생명공학 기술을 연구, 개발하고 있는 공학교수들이 생명공학에 대해 흥미진진하게 들려주는 책이다. TCA 회로를 박카스, 물질대사를 레고 블록과 연결시키는 등 생명과학이 재미있는 이야기들의 연속이라는 것을 알게 한다. 또한 인공장기와 생체 모방 기술, 바이오칩 등 생물공학의 최신 내용을 소개하여 교과서에서 배우는 내용들이 실생활에서 어떻게 응용되는지 알려주고, 생명공학과 관련된 이슈 - 바이오에너지와 화석연료, 생명윤리법, 물의 정화 문제 등을 다루어 각 이슈에 대해 깊이 있게 생각해보도록 이끌어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "",
+                "UPDATE_DATE": "20110411",
+                "EA_ADD_CODE": "03500",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "유영제,박태현 외",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962620320",
+                "INPUT_DATE": "20110309",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "생명과학 교과서는 살아있다",
+                "PUBLISH_PREDATE": "20110225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

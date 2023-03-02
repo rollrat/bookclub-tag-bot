@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 행복하기 위해 그림을 본다",
+    "oauthor": "김소울 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 행복하기 위해 그림을 본다 (마음을 정리하는 미술치료 솔루션)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465141941",
+                "image": "https://shopping-phinf.pstatic.net/main_3246514/32465141941.20221019140508.jpg",
+                "author": "김소울",
+                "discount": "14400",
+                "publisher": "흐름출판",
+                "pubdate": "20220105",
+                "isbn": "9788965964902",
+                "description": "그림을 통해 마음을 들여다볼 시간\n“같은 그림을 봐도 오늘과 내일은 분명 다를 겁니다.\n그 차이에서 스스로의 마음을 들여다볼 기회가 열릴 거예요.”\n\n미술치료의 본고장 플로리다에서 한국인 최초로 미국 박사학위를 받은 김소울이 내놓은 마음을 정리하는 미술치료 솔루션 〈오늘도 행복하기 위해 그림을 본다〉. 내 마음이 어떤지조차 알 수 없을 때, 오늘 하루 지친 마음으로 힘이 들 때, 나의 감정이 어떤지 몰라 표현할 수 없을 때 그림을 통해 마음을 들여다볼 시간을 선사한다.\n\n미술치료는 치료라는 단어가 들어가다 보니 마치 정신적으로 큰 고통을 겪고 있는 사람들만 받는다고 오해하는 경우가 있다. 그러나 미술치료는 대인관계, 스트레스, 우울함, 공허함 등 사소하지만 우리를 힘들게 하는 감정을 해소하고 우리의 마음을 회복하는 데 적합한 심리치료이자 방법이다. 이미지의 힘을 이용함으로써 말로 표현하기 힘든 내면의 감정을 이미지와의 대화를 통해 혼자서도 회복할 수 있다.\n\n플로리다 마음연구소를 운영하며 다양한 사람들을 만나고 있는 저자는 직접 만난 내담자들이 공감하고 위로받았던 그림 28점을 엄선했다. 행복, 우울, 자존감, 외로움 등 우리 내면의 감정을 이해하고 치유하는 법을 소개하며 마음을 정리하고 들여다볼 시간을 선사한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판",
+                "DDC": "",
+                "UPDATE_DATE": "20220209",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "김소울 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "291 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965964902",
+                "INPUT_DATE": "20211215",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "오늘도 행복하기 위해 그림을 본다",
+                "PUBLISH_PREDATE": "20220105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "이것이 공매도다",
+    "oauthor": "이관휘 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이것이 공매도다 (예측과 통찰로 금융을 읽는 공매도의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466493351",
+                "image": "https://shopping-phinf.pstatic.net/main_3246649/32466493351.20230214162630.jpg",
+                "author": "이관휘",
+                "discount": "16920",
+                "publisher": "21세기북스",
+                "pubdate": "20190829",
+                "isbn": "9788950983178",
+                "description": "공매도에 대한 오해와 편견에서 벗어나 그 진가를 발견하라!\n\n과연 공매도는 사라져야 마땅한 것인가? 만약 그렇다면 공매도가 지금까지 주식시장에서 살아남은 이유는 무엇인가? 서울대 경영대학 교수이자 국내외 최고의 공매도 전문가 이관휘가 공매도에 대한 세간의 오해와 편견을 바로잡고 올바른 이해를 돕기 위해 펴낸 공매도 전문서 『이것이 공매도다』. \n\n저자는 이 책에서 단순히 공매도로 돈 버는 법을 일러주는 것이 아니라 시장에 대한 통찰과 정보를 바탕으로 한 혜안이 공매도 투자의 특징임을 강조하며, 공매도를 통해 금융 생태계를 꿰뚫는 인사이트를 제공한다. 공매도의 순기능과 악용 가능성을 균형 있게 살피고, 국내외 다양한 공매도 이슈를 소개하며, 특히 글로벌 주식시장의 규제 현황을 분석하고 우리 실정에 맞는 정책적 조언을 건넨다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190916",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "이관휘 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20190829",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "19,800",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "305 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950983178",
+                "INPUT_DATE": "20190828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "이것이 공매도다",
+                "PUBLISH_PREDATE": "20190829",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

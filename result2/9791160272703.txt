@@ -1,0 +1,67 @@
+{
+    "otitle": "낀대세이",
+    "oauthor": "김정훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "낀대세이 (7090 사이에 껴 버린 80세대 젊은 꼰대, 낀대를 위한 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487175187",
+                "image": "https://shopping-phinf.pstatic.net/main_3248717/32487175187.20230207163329.jpg",
+                "author": "김정훈",
+                "discount": "12420",
+                "publisher": "소담출판사",
+                "pubdate": "20211020",
+                "isbn": "9791160272703",
+                "description": "“껴 있는 것들은 대체로 안쓰럽다.”\n\n70년대 기성세대와 90년대 신세대 사이에 끼어 애매해진 80년대생 끼인 세대, 낀대. 『낀대세이』는 위에서 짓누르고 아래에서 치고 올라와 양쪽 눈치를 볼 수밖에 없어진 ‘불쌍한’ 80세대를 위로하는 공감 에세이다. 중간에 위치해 이도 저도 못하고 갈팡질팡하는 사람들. 낀대가 탄생하게 된 배경, 낀대들의 고충, 남들을 괴롭게 만드는 낀대 등, 80년대생이라면 누구나 공감할 법한 에피소드가 가득 담겨 있어 언제 어디서든 가볍게 펼쳐 읽기 좋다. 더 나아가, 비단 80년대생뿐만 아니라 기성세대인 70년대생, 이미 자신이 꼰대라고 느끼는 90년대생이 읽더라도 절로 고개를 끄덕이며 공감하게 될 것이다.\n\n80년대생을 위한, 80년대생에 의한, 80년대생의 에세이. 이 시대를 살아가는 80년대생들의 인생을 적나라하고 위트 넘치게 고찰, 고발하며 대변해 주는 이 에세이는 읽는 내내 자조적 웃음을 멈출 수 없다. 80년대생에 대해 더 깊이 이해하고 함께 조화로운 사회를 만들어갈 수 있는 실마리를 제시하는, 유쾌한 낀대 교과서! 『연애전과』, 『요즘 남자 요즘 연애』 작가 김정훈이 낱낱이 파헤치는 낀대 이야기를 통해 소소한 공감과 따스한 위로를 느껴볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소담출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20211108",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김정훈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "304 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160272703",
+                "INPUT_DATE": "20210908",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "낀대세이",
+                "PUBLISH_PREDATE": "20211020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

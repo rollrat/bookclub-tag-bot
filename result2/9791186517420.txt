@@ -1,0 +1,67 @@
+{
+    "otitle": "우리는 지구별 어디쯤",
+    "oauthor": "안시내 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리는 지구별 어디쯤 (스물셋, 아프리카 60여 일간의 기록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493381621",
+                "image": "https://shopping-phinf.pstatic.net/main_3249338/32493381621.20230110165707.jpg",
+                "author": "안시내",
+                "discount": "10800",
+                "publisher": "상상출판",
+                "pubdate": "20151210",
+                "isbn": "9791186517420",
+                "description": "작은 거인 안시내가 낯선 땅 '아프리카‘에서 받은 위로와 상처.\n\n『우리는 지구별 어디쯤』은 크라우드 펀딩을 통해 200여 명의 후원자들과 손을 잡고,  그들의 얼굴과 좌우명을 그린 티셔츠를 입은 채 아프리카 구석구석을 여행한 저자 안시내의 아프리카 여행기를 담은 책이다. 남아공의 친구네 집에서 머물며 가족의 품을 느끼고, 푸르른 자연이 펼쳐진 스와질란드에선 새로운 친구들을 만나 헤어지는 아쉬움에 눈물짓는다. 그녀에게 여행은 달쿰한 꿈 같은 것이나 만병통치약이 아닌 고단함과 외로움을 느끼며 이리저리 데이기도 하는 ‘체험 삶의 현장’이었다.\n\n그럼에도 계속해서 사람을 찾아 떠난다. 낯선 이로부터 상처받을 때도 있지만 또 다른 사람에게 위로받기도 하는, 여행은 그야말로 인생의 한 모습이다. 잘 다니던 직장을 그만두고 탄자니아에서 치킨 집을 열고자 하는 여행자, 4년째 여행 중인 자전거 여행자 등 다양한 사람들의 삶을 엿보며 그들을 이해한다. 때로는 유쾌하고, 때로는 가슴 찡한 이야기를 통해 독자들은 아프리카 곳곳에 퍼져 있는 진득한 사람 냄새를 맡게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "910.41",
+                "UPDATE_DATE": "20160118",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "안시내",
+                "SERIES_TITLE": "",
+                "KDC": "980.24",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5039807_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5039807_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "국판",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "288",
+                "CONTROL_NO": "CIP2015032035",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186517420",
+                "INPUT_DATE": "20151120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "우리는 지구별 어디쯤",
+                "PUBLISH_PREDATE": "20151210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

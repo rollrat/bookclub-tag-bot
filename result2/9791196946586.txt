@@ -1,0 +1,67 @@
+{
+    "otitle": "부부가 둘다 놀고 있습니다",
+    "oauthor": "편성준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부부가 둘다 놀고 있습니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32483149808",
+                "image": "https://shopping-phinf.pstatic.net/main_3248314/32483149808.20230214162719.jpg",
+                "author": "편성준",
+                "discount": "12880",
+                "publisher": "몽스북",
+                "pubdate": "20201030",
+                "isbn": "9791196946586",
+                "description": "“쉰다는 것과 논다는 것은 다른 얘기다”\n〈부부가 둘 다 놀고 있습니다〉는 부부의 퇴사로 시작된 이야기지만 긴긴 인생을 즐겁게, ‘쉬지 않고 노는 것’에 관한 글이다. 저자는 “쉰다는 것과 논다는 것은 다른 얘기’라고 말한다. 그동안은 남들이 원하는 것들을 하고 살아왔으니 이제부터라도 스스로 원하는 것들을 하며 살아보려는 마음이다. 그동안 벌던 돈의 반도 못 벌게 뻔하지만 거기서 벗어나지 못하면 그게 바로 ‘돈의 노예’가 되는 것. 부부는 ‘지금 당장 힘들더라도 견뎌야 하지 않겠는가’라고 의기투합을 한 것이다. 삶의 일정 부분을 포기하고 방향 전환을 했다. 좋은 가방, 좋은 오디오, 고급 자동차 등 눈에 보이는 귀중품들을 소장 목록에서 지웠다. 그 대신 계속해서 재미있는 일을 만들고 찾아보자고 다짐했다.   \n“이것은 ‘정신 승리’가 아니다. 다만 이렇게 살아도 된다는 것을 보여주고 싶을 뿐이다.” - 프롤로그 중에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Mons(몽스북)",
+                "DDC": "",
+                "UPDATE_DATE": "20201111",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 편성준 ;일러스트: 엄유정",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/18/9791196946586.jpg",
+                "PRE_PRICE": "14900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "301 p.",
+                "CONTROL_NO": "CIP2020043987",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196946586",
+                "INPUT_DATE": "20201018",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "부부가 둘 다 놀고 있습니다",
+                "PUBLISH_PREDATE": "20201030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

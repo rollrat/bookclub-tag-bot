@@ -1,0 +1,67 @@
+{
+    "otitle": "프랑스 요리의 기술",
+    "oauthor": "줄리아 차일드,시몬 베크,루이제트 베르롤 공저/김현희,마효주 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "프랑스 요리의 기술",
+                "link": "https://search.shopping.naver.com/book/catalog/32444133334",
+                "image": "https://shopping-phinf.pstatic.net/main_3244413/32444133334.20221230073753.jpg",
+                "author": "줄리아 차일드^시몬 베크^루이제트 베르톨",
+                "discount": "43200",
+                "publisher": "클",
+                "pubdate": "20210712",
+                "isbn": "9791190555593",
+                "description": "영화 〈줄리 & 줄리아〉의 실제 주인공, 미국인이 가장 사랑하는 요리 연구가 겸 셰프 \n줄리아 차일드의 《프랑스 요리의 기술》출간 60주년 만에 드디어 한국어판 출간!\n\n전 세계 15개 언어로 번역된 프랑스 요리책의 고전이자 스테디셀러\n\n1961년 처음 출간된 《프랑스 요리의 기술》은 전문적인 정보를 바탕으로 누구나 자신의 부엌에서 멋진 프랑스 요리를 즐길 수 있도록 쓰였다. 프랑스 요리의 기본인 수프와 소스를 시작으로, 재료와 상황 별로 장을 나누어 재료에 관한 이해와 손질법을 안내하고, 최상의 맛으로 완성할 수 있는 약 600가지 레시피를 선보인다. 대체할 수 있는 재료와 미리 준비할 경우 식탁에 올라갈 시간을 고려해서 해야 할 일이 무엇인지 알려주고, 어울리는 와인이나 요리 조합을 추천하는 치밀하면서도 친절한 책이다. 오래된 주방 도구와 전통적인 조리 기법을 설명하기 위해 그려진 그림은 보는 재미를 더한다. 이 책은 본토에서 프랑스 요리를 직접 배운 저자들이 전문적인 교육을 받지 않은 사람도 차근차근 따라 하기만 하면 프랑스 요리를 익힐 수 있도록 열정과 애정을 담아 기획한 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "",
+                "UPDATE_DATE": "20210804",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 줄리아 차일드,시몬 베크,루이제트 베르톨 ;일러스트: 시도니 코린 ;옮긴이: 김현희,마효주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "50000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "185*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "824 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190555593",
+                "INPUT_DATE": "20210614",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "프랑스 요리의 기술",
+                "PUBLISH_PREDATE": "20210712",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

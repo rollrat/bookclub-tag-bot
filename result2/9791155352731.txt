@@ -1,0 +1,67 @@
+{
+    "otitle": "재생력",
+    "oauthor": "조성환 글,그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재생력",
+                "link": "https://search.shopping.naver.com/book/catalog/32445255524",
+                "image": "https://shopping-phinf.pstatic.net/main_3244525/32445255524.20230131163126.jpg",
+                "author": "조성환",
+                "discount": "21600",
+                "publisher": "미메시스",
+                "pubdate": "20220515",
+                "isbn": "9791155352731",
+                "description": "어둡지만 아름답고, 스산하지만 다정한 〈삶〉에 관하여\n\n〈만약〉이라는 상상에서 빚어낸 새롭고 강렬한 그래픽노블 『재생력』이 미메시스에서 출간되었다. 영화와 드라마 시리즈의 스토리보드 작가로 일하고 있는 조성환은 그의 첫 작품 『재생력』을 통해 그래픽노블이라는 장르의 매력을 마음껏 펼쳐 보인다. 영화감독 봉준호의 추천사처럼, 이 작품은 〈예측 불허의 유머와 처절한 폭력〉이 함께 공존한다. 주인공은 어른의 몸이지만 어딘지 모자라 보이는 〈머리〉. 머리는 위기에 처한 검은 고양이의 목숨을 구해 주다가 다리를 잃고 만다. 머리의 보호자이자, 과거 생명 공학계에 큰 업적을 이뤘던 오명준 박사는 독특한 의료 기술로 머리의 망가진 몸을 재생시킨다. 그러나 머리와 동물의 언어로 짧은 교감을 나눈 직후 죽음을 맞는 검은 고양이. 머리는 이 죽음을 목격한 시점부터 조금씩 인간적인 모습을 얻게 된다. 한편, 누군가의 고의적 살인이 일어나고 이 시신은 오명준 박사에 의해 〈매리〉라는 인물로 다시 태어난다. 머리에게 이 새로운 존재는 낯설고 두렵지만, 머리의 의식을 확장하는 중요한 존재가 된다. 머리와 매리의 주변에는 생명을 기술로, 목숨을 값으로, 삶을 이기적인 것으로만 여기는 사람들로 채워져 있다. 하지만 두 남녀는 과학자의 손으로 만들어진 단순한 기술적 성과가 아닌 스스로 삶을 선택하는 이타적 인간으로서 살아간다. 마지막 페이지의 그 정서를 위해 시작부터 끝까지 내내 달려가는 『재생력』은 조성환의 개인적 경험과 감정을 〈만약〉이라는 상상 아래에서 녹여 낸 작업이다. 〈만약 이렇다면〉이라는 가정은 모든 창작자의 의무이자 숙제와 같다. 책 제목을 만들기 전부터 이미 마지막 한 장의 상황과 대사가 정해져 있었던 만큼, 독자는 첫 페이지를 연 순간부터 진정한 〈조성환 월드〉에 들어왔음을 느낄 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미메시스",
+                "DDC": "",
+                "UPDATE_DATE": "20220704",
+                "EA_ADD_CODE": "07810",
+                "PUBLISHER_URL": "www.mimesisart.co.kr",
+                "AUTHOR": "조성환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/04/21/9791155352731.jpg",
+                "PRE_PRICE": "24000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "185*267",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "257 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155352731",
+                "INPUT_DATE": "20220421",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "재생력",
+                "PUBLISH_PREDATE": "20220515",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

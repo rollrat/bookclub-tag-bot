@@ -1,0 +1,67 @@
+{
+    "otitle": "라이노 7.0 시크릿노트",
+    "oauthor": "한기준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "라이노 7.0 시크릿노트",
+                "link": "https://search.shopping.naver.com/book/catalog/32444875065",
+                "image": "https://shopping-phinf.pstatic.net/main_3244487/32444875065.20230103163301.jpg",
+                "author": "한기준",
+                "discount": "16200",
+                "publisher": "대가",
+                "pubdate": "20210325",
+                "isbn": "9788962852721",
+                "description": "온라인 건축교육 사이트\n 페이서(Pacer.kr) 공식인증교재 \n\n☞ 다년간의 교육 및 컨설팅 경험에서 우러나온 단순한 ‘따라하기’ 교재가 아닌 알짜 커리큘럼! 소프트웨어 개발 및 자문 기업을 운영하면서 쌓은 교육경험을 바탕으로 실무에 직접 적용 가능한 “적응형 커리큘럼”! \n☞ 단기간에 빠르고 상세한 학습이 필요하다면 페이서 동영상 강의와 함께 수강하자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "대가",
+                "DDC": "",
+                "UPDATE_DATE": "20210419",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "한기준 저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "175*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "238 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962852721",
+                "INPUT_DATE": "20210208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "라이노 7.0",
+                "PUBLISH_PREDATE": "20210325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

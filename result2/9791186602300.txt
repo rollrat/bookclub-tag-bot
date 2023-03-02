@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 쇼핑",
+    "oauthor": "조성민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 쇼핑 (나는 오늘도 바다로 갑니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467112906",
+                "image": "https://shopping-phinf.pstatic.net/main_3246711/32467112906.20230103163628.jpg",
+                "author": "조성민",
+                "discount": "8910",
+                "publisher": "위고",
+                "pubdate": "20170925",
+                "isbn": "9791186602300",
+                "description": "모든 쇼핑에는 사연이 있다\n\n‘나를 만든 세계, 내가 만든 세계’ 아무튼, 00. ‘생각만 해도 좋은, 설레는, 피난처가 되는, 당신에게는 그런 한 가지가 있나요?’ 아무튼 시리즈는 이 질문에서 시작되었다. 시인, 활동가, 목수, 약사, 일러스트레이터 등 다양한 활동을 하며 개성 넘치는 글을 써온 이들이 자신이 구축해온 세계를 각권의 책에 담아냈다. ‘나를 만든 세계, 내가 만든 세계’라는 교집합을 두고 피트니스부터 서재, 망원동, 쇼핑, 게스트하우스, 스릴러, 스웨터, 관성 같은 다양한 주제를 솜씨 좋게 빚어 한 권에 담아 마음에 드는 주제를 골라 읽는 재미를 더했다. 길지 않은 분량에 작은 사이즈로 만들어져 부담 없이 그 세계를 동행하는 경험을 선사한다. 특히 이 시리즈는 위고, 제철소, 코난북스, 세 출판사가 하나의 시리즈를 만드는 최초의 실험이자 유쾌한 협업이다. 색깔 있는 출판사, 개성 있는 저자, 매력적인 주제가 어우러져 에세이의 지평을 넓히고 독자에게 쉼과도 같은 책 읽기를 선사할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20171018",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 조성민",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6354127_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6354127_3.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6354127_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "158 p.",
+                "CONTROL_NO": "CIP2017023509",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602300",
+                "INPUT_DATE": "20170908",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 쇼핑",
+                "PUBLISH_PREDATE": "20170925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

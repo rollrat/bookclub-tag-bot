@@ -1,0 +1,67 @@
+{
+    "otitle": "여름의 재단",
+    "oauthor": "시마모토 리오 저/김난주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여름의 재단 (시마모토 리오 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485479106",
+                "image": "https://shopping-phinf.pstatic.net/main_3248547/32485479106.20221019133007.jpg",
+                "author": "시마모토 리오",
+                "discount": "13500",
+                "publisher": "해냄출판사",
+                "pubdate": "20200610",
+                "isbn": "9788965749592",
+                "description": "“아아, 이 세상에는 이렇게 \n사람을 상처 주는 방법이 있었던 건가”\n\n나오키상 수상 작가 시마모토 리오가 그려낸 귀기 어린 심리소설『여름의 재단』. 이 책은 시마모토 리오가 《문학계》 2015년 6월호에 발표한 단편으로 제153회 아쿠타가와상에 노미네이트된 작품이기도 하다. 이후 세 편의 이야기를 새롭게 추가하여 2015년 ‘문예춘추’에서 단행본으로 출간했다. 첫 번째 이야기 「여름의 재단」은 소설가인 치히로가 자신의 마음을 짓밟은 편집자 시바타의 손등을 포크로 찍어버리는 장면으로 시작한다. 이후 본가로 내려간 치히로는 「가을의 여우비」에서 재단(裁?)이라는 행위를 통해 과거와 마주하지만 상처 입은 마음은 여전히 아물지 않는다. 약속은커녕 이름도 없는 관계에 지쳐가는 「겨울의 침묵」과, 마지막으로 새로운 세계에서 자신을 사랑하고 자유로워지는 법을 깨닫는 「봄의 결론」까지, 매력적인 작품 제목이 암시하는 시간의 흐름이 이 주제에 다가가는 열쇠로 작용한다. 충격적인 여름의 발단, 여우비처럼 스쳐 지나가는 가을의 연인들, 겨울의 소리 없는 기다림, 그리고 봄의 새로운 움틈. 1년이라는 사계의 흐름 속에, 스물아홉 살에서 서른 살로 넘어가는 주인공 치히로가 정신적으로 성장해가는 모습을 만날 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄",
+                "DDC": "",
+                "UPDATE_DATE": "20200612",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "지은이: 시마모토 리오 ;옮긴이: 김난주",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "262 p.",
+                "CONTROL_NO": "CIP2019027876",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965749592",
+                "INPUT_DATE": "20190716",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여름의 재단",
+                "PUBLISH_PREDATE": "20200610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

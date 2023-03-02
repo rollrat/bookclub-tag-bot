@@ -1,0 +1,78 @@
+{
+    "otitle": "몸을 긋는 소녀",
+    "oauthor": "길리언 플린 저/문은실 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:09 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "몸을 긋는 소녀 (샤프 오브젝트(SHARP OBJECT) | 길리언 플린 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441608670",
+                "image": "https://shopping-phinf.pstatic.net/main_3244160/32441608670.20221019124049.jpg",
+                "author": "길리언 플린",
+                "discount": "12150",
+                "publisher": "푸른숲",
+                "pubdate": "20140828",
+                "isbn": "9791156755227",
+                "description": "길리언 플린 장편소설 [몸을 긋는 소녀]. 이 책은 살인사건 취재차 10여 년 만에 고향을 찾은 여주인공 카밀이 숨겨진 가족사에 서서히 다가가는 과정을 그린 작품이다. 병에 걸릴 것을 강요당하는 아이와, 아이를 보살피면서 주변의 관심을 받고자 하는 보호자 등 왜곡된 사랑이 가져온 처참한 가족사를 한 편 의 드라마처럼 생생하고 적나라하게 보여준다."
+            },
+            {
+                "title": "Sharp Objects (HBO드라마 ’몸을 긋는 소녀’ 원작 소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32512179190",
+                "image": "https://shopping-phinf.pstatic.net/main_3251217/32512179190.20220522010400.jpg",
+                "author": "Flynn, Gillian",
+                "discount": "0",
+                "publisher": "Crown Publishers",
+                "pubdate": "20170701",
+                "isbn": "9780525576815",
+                "description": "SOON TO BE AN HBO LIMITED SERIES STARRING AMY ADAMS, AIRING JULY 8\n\nFROM THE #1 NEW YORK TIMES BESTSELLING AUTHOR OF GONE GIRL\n\nFresh from a brief stay at a psych hospital, reporter Camille Preaker faces a troubling assignment: she must return to her tiny hometown to cover the murders of two preteen girls. For years, Camille has hardly spoken to her neurotic, hypochondriac mother or to the half-sister she barely knows: a beautiful thirteen-year-old with an eerie grip on the town. Now, installed in her old bedroom in her family's Victorian mansion, Camille finds herself identifying with the young victims?a bit too strongly. Dogged by her own demons, she must unravel the psychological puzzle of her own past if she wants to get the story?and survive this homecoming."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)푸른숲",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20140829",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "길리언 플린",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20140828",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3889524_3.jpg",
+                "PRE_PRICE": "13,500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3889524_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "15,800",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014023505",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156755227",
+                "INPUT_DATE": "20140807",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "몸을 긋는 소녀",
+                "PUBLISH_PREDATE": "20140828",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

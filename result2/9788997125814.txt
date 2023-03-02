@@ -1,0 +1,78 @@
+{
+    "otitle": "만화 쉽게 그리기 - 캐릭터 손&발",
+    "oauthor": "카네다 코보 저/이은정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:11 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "만화 쉽게 그리기: 캐릭터 손&발 (만화, 일러스트, 애니메이션 그리기에 도움이 되는, 만화 쉽게 그리기 시리즈 3)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436278195",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436278195.20230131162658.jpg",
+                "author": "카네다 코보",
+                "discount": "12420",
+                "publisher": "싸이프레스",
+                "pubdate": "20150707",
+                "isbn": "9788997125814",
+                "description": "『만화 쉽게 그리기: 캐릭터 손&발』은 수많은 모양을 나타내는 손과 발을 그리기 위한 테크닉 가이드북으로 풍부한 일러스트와 다양한 응용 예시를 활용하여 알기 쉽게 설명하고 있다. 그리고 뼈와 근육의 구조부터 설명하여 그리기 요령에 대한 이해도를 높여준다. 자, 지금부터 이론과 감성을 활용하여 캐릭터의 손과 발 그리기에 도전해 보자!"
+            },
+            {
+                "title": "웹툰 캐릭터 그리기 대작전 (얼굴, 표정, 손과 발, 의상, 비율 캐릭터 쉽게 그리는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491437743",
+                "image": "https://shopping-phinf.pstatic.net/main_3249143/32491437743.20230103164807.jpg",
+                "author": "이지",
+                "discount": "11240",
+                "publisher": "바이킹",
+                "pubdate": "20211215",
+                "isbn": "9788964945285",
+                "description": "재미있는 만화를 보며 웹툰을 배운다!\n나만의 캐릭터를 이렇게 쉽게 그릴 수 있다고?\n\n정체불명 ‘L’의 저주로 인형으로 변해 버린 웹툰 작가 ‘레이지빗’! 웹툰 작가를 꿈꾸는 원이와 함께 웹툰을 완성하면 원래의 몸으로 돌아갈 수 있다고? 그림 초보 원이와 과연 무사히 웹툰을 완성할 수 있을까? ‘L’의 방해를 피해 웹툰 캐릭터 그리는 법을 알아보세요.\n캐릭터의 얼굴과 팔다리뿐 아니라 웹툰 속 캐릭터의 성격을 살리는 표정과 의상 그리는 법까지 쉽게 알 수 있어요. ‘원이의 노트’로 캐릭터 그리기의 팁을 배우고, ‘캐릭터 그리기 연습장’에 따라 그려 보세요. QR 코드를 찍어 그리기 영상까지 보다 보면 어느새 나만의 캐릭터가 탄생할 거예요!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "싸이프레스",
+                "DDC": "741.5",
+                "UPDATE_DATE": "20150721",
+                "EA_ADD_CODE": "13600",
+                "PUBLISHER_URL": "www.cypressbook.co.kr",
+                "AUTHOR": "카네다 코보",
+                "SERIES_TITLE": "",
+                "KDC": "657.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4663409_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4663409_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015016545",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997125814",
+                "INPUT_DATE": "20150616",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "만화 쉽게 배우기-캐릭터 손&발",
+                "PUBLISH_PREDATE": "20150707",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

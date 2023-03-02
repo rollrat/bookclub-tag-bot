@@ -1,0 +1,67 @@
+{
+    "otitle": "커피 얼룩의 비밀",
+    "oauthor": "송현수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "커피 얼룩의 비밀 (흐르고, 터지고, 휘몰아치는 음료 속 유체역학의 신비)",
+                "link": "https://search.shopping.naver.com/book/catalog/32477644945",
+                "image": "https://shopping-phinf.pstatic.net/main_3247764/32477644945.20221019132349.jpg",
+                "author": "송현수",
+                "discount": "13500",
+                "publisher": "MID",
+                "pubdate": "20181116",
+                "isbn": "9791187601821",
+                "description": "음료를 통해 살펴보는 흔히 볼 수 있지만 무심코 지나치기 쉬운 과학 현상!\n\n우리가 일상에서 흔히 마주치곤 하는 음료 8가지를 통해 충돌과 거품, 표면장력과 점성 등에 관한 이야기를 풀어낸 『커피 얼룩의 비밀』. 우유부터 맥주와 와인, 커피, 초콜릿, 칵테일, 홍차에 이르기까지 우리가 일상생활에서 쉽게 접할 수 있는 음료에서 과학을 접할 수 있도록 돕는 책이다. \n\n‘커피 얼룩은 왜 항상 바깥쪽 테두리가 더 진할까?’, ‘맥주 거품은 왜 생겼다가 사라지는 걸까?’, ‘우유의 왕관 효과는 신선한 우유에서만 확인할 수 있을까?’와 같은 질문에 대한 답을 찾는 과정에서 표면장력이나 과냉각, 모세관 현상, 코리올리 힘 등 우리가 한 번쯤은 들어 봤을 법한 과학 개념들을 실생활의 경험들과 연관 지어 쉽게 이해할 수 있도록 설명한다. 과학의 울타리를 넘어 예술, 역사, 스포츠, 심리학 등 다양한 이야기를 함께 전하며 읽는 재미를 더한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "MID(엠아이디)",
+                "DDC": "530.42",
+                "UPDATE_DATE": "20190108",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "송현수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "420.42",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6984274_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "283 p.",
+                "CONTROL_NO": "CIP2018035371",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187601821",
+                "INPUT_DATE": "20181101",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "커피 얼룩의 비밀",
+                "PUBLISH_PREDATE": "20181116",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

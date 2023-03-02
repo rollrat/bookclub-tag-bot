@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 니체처럼 살기로 했다",
+    "oauthor": "나타나엘 마슬로 저/이정은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 니체처럼 살기로 했다 (니체에게 듣는 아모르 파티 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442366013",
+                "image": "https://shopping-phinf.pstatic.net/main_3244236/32442366013.20221228073826.jpg",
+                "author": "나타나엘 마슬로",
+                "discount": "13500",
+                "publisher": "행성B",
+                "pubdate": "20210528",
+                "isbn": "9791164711451",
+                "description": "삶의 주인이 나 자신임을 선언한 자, 기존의 가치를 깨뜨리며 행복을 노래한 자, 스스로 심리학자라고 선언하며 인생을 다각도로 해석한 자, 모두 위대한 철학자 니체를 향하는 말이다. 《나는 니체처럼 살기로 했다》는 니체가 남긴 핵심적인 삶의 태도 34가지를 추려 니체처럼 자유롭고, 니체처럼 생각하고, 니체처럼 자신을 사랑하는 법을 소개한다. \n\n\n\n프랑스의 니체 전문가 ‘나타나엘 마슬로’가 쓴 이 책은 니체의 대표적인 아포리즘과 함께 풍부한 해석을 담아 보다 쉽게 니체를 만날 수 있도록 안내한다. 또 누구나 알지만 제대로 알긴 어려운 니체의 사상을 바탕으로 체계적이고 유기적인 질문을 책 전반에 걸쳐 던져준다. 이 질문을 따라가다 보면 니체 사상에 익숙해짐은 물론 자기철학의 힘도 강해짐을 느낄 수 있다. \n\n\n\n《나는 니체처럼 살기로 했다》는 자신의 믿음을 돌아보고, 사유의 범주를 평가하고, 삶에 진단을 내리도록 돕는 니체 입문서이자 생각의 체험이다. 뿐만 아니라 풍부하게 인용된 니체 대표 저서의 핵심 문장으로 독서의 즐거움도 충족시킨다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "행성B(행성비)",
+                "DDC": "",
+                "UPDATE_DATE": "20210622",
+                "EA_ADD_CODE": "03160",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "나타나엘 마슬로 지음 ;이정은 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164711451",
+                "INPUT_DATE": "20210503",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 니체처럼 살기로 했다",
+                "PUBLISH_PREDATE": "20210528",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

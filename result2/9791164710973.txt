@@ -1,0 +1,78 @@
+{
+    "otitle": "경계에서의 글쓰기",
+    "oauthor": "오민석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:59 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "경계에서의 글쓰기 (오민석 산문집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485585335",
+                "image": "https://shopping-phinf.pstatic.net/main_3248558/32485585335.20221019143426.jpg",
+                "author": "오민석",
+                "discount": "12600",
+                "publisher": "행성B",
+                "pubdate": "20200425",
+                "isbn": "9791164710973",
+                "description": "이쪽과 저쪽 사이, 경계에서 바라본 \n잔혹하지만 아름다운 우리 삶의 풍경들\n\n『경계에서의 글쓰기』는 인문학자이자 시인인 오민석 교수가 가혹하지만 아름다운 우리 삶의 풍경에 대해 쓴 산문집이다. 지난 5년간 《중앙일보》 ‘삶의 향기’에 연재한 글을 엮었다. 저자는 이쪽과 저쪽 사이, 경계의 위치에서 글을 썼다. 날 선 외줄에서 균형을 잡아 가며 써 내려간, 예리한 통찰과 따듯한 인문 정신이 배어든 글들이다.\n\n이 산문은 짧은 역사 동안 급격한 변화를 겪은 한국 사회가 여전히 품고 있는 전근대의 ‘신화’와 ‘다중(多衆)의 시대’라는 경계, 그리고 한국 정치의 갈수록 심각해지는 ‘진영’과 ‘진영’의 경계에서 적어 내려간, ‘이쪽’과 ‘저쪽’의 소통을 위한 거침없는 제안이다. 저자는 우리 사회가 추구해야 할 가치로 ‘사건으로서의 사랑’, 즉 공동선을 꼽고 문학과 일상에서 그 징표를 길어낸다."
+            },
+            {
+                "title": "[큰글씨책] 경계에서의 글쓰기 (오민석 산문집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456480696",
+                "image": "https://shopping-phinf.pstatic.net/main_3245648/32456480696.20221228074358.jpg",
+                "author": "오민석",
+                "discount": "21600",
+                "publisher": "행성B",
+                "pubdate": "20201111",
+                "isbn": "9791164711277",
+                "description": "이쪽과 저쪽 사이, 경계에서 바라본 \n잔혹하지만 아름다운 우리 삶의 풍경들 \n\n단국대학교 영미인문학과 오민석 교수가 지난 5년간 [중앙일보] 「삶의 향기」에 연재한 칼럼을 책으로 엮었다. 짧은 역사 동안 급격한 변화를 겪은 한국 사회가 여전히 품고 있는 전근대의 ‘신화’와 ‘다중(多衆)의 시대’라는 경계, 그리고 한국 정치의 갈수록 심각해지는 ‘진영’과 ‘진영’의 경계에서 적어 내려간, ‘이쪽’과 ‘저쪽’의 소통을 위한 거침없는 제안이다. 저자는 우리 사회가 추구해야 할 가치로 ‘사건으로서의 사랑’, 즉 공동선을 꼽고 문학과 일상에서 그 징표를 길어낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "행성비",
+                "DDC": "",
+                "UPDATE_DATE": "20200428",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "지은이: 오민석",
+                "SERIES_TITLE": "",
+                "KDC": "330.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/04/14/9791164710973.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "246 p.",
+                "CONTROL_NO": "CIP2020014816",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164710973",
+                "INPUT_DATE": "20200409",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "경계에서의 글쓰기",
+                "PUBLISH_PREDATE": "20200425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

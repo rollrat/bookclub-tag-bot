@@ -1,0 +1,67 @@
+{
+    "otitle": "하는 일마다 인정받는 사람들의 비밀",
+    "oauthor": "이은재 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하는 일마다 인정받는 사람들의 비밀",
+                "link": "https://search.shopping.naver.com/book/catalog/32438201849",
+                "image": "https://shopping-phinf.pstatic.net/main_3243820/32438201849.20221229074224.jpg",
+                "author": "이은재",
+                "discount": "13500",
+                "publisher": "다연",
+                "pubdate": "20190211",
+                "isbn": "9791187962168",
+                "description": "어떻게 상사와 부하에게 인정받을 것인가?\n직장생활 30년 차 기업 임원이 알려주는 상사 · 부하 사용설명서\n\n직장생활에서 필요한 기법이나 행동 요령은 어느 조직이나 비슷하다. 다 사람 사는 세상이고 사람이 주인공이라서 그렇다. 그래서 직장생활을 잘하고 싶다면, 먼저 사람의 마음부터 이해해야 한다. 이 책은 직장생활 30년 차 기업 임원이 그간의 경험으로 터득한 ‘하는 일마다 인정받는 사람들의 직장생활 노하우’를 현실적으로 보여주고 있다. 어떻게 하면 상사 및 부하에게 인정받고 나아가 회사에서 인정받는 리더로 자리매김할 수 있는지 이 책이 그 실마리를 풀어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다연",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20190221",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이은재 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7136528_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7136528_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "CIP2019003283",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187962168",
+                "INPUT_DATE": "20190128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "하는 일마다 인정받는 사람들의 비밀",
+                "PUBLISH_PREDATE": "20190211",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "문명의 그물",
+    "oauthor": "조홍식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "문명의 그물 (유럽 문화의 파노라마)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493596172",
+                "image": "https://shopping-phinf.pstatic.net/main_3249359/32493596172.20221019101239.jpg",
+                "author": "허성욱",
+                "discount": "25200",
+                "publisher": "책과함께",
+                "pubdate": "20180806",
+                "isbn": "9791188990054",
+                "description": "유럽을 통해 본 현대 지구 문명의 파노라마!\n\n인류 문명의 근본인 언어, 종교, 문화에서부터 정치, 경제, 전쟁, 나아가 평등과 축구라는 근대의 산물에 이르기까지 유럽에 펼쳐진 문명의 그물들을 보여주는 『문명의 그물』. 10대부터 유럽에서 살며 파리정치대학(시앙스포)에서 유럽 통합으로 정치학 박사학위를 받으며 온 삶으로 유럽을 겪고 연구해온 조홍식 교수가 유럽의 수천 년을 거시적으로 통찰하면서도, 간결하고 명쾌한 글맛으로 지적 쾌감을 선사하는 책이다. \n\n유럽 문명을 형성하는 12개 대표 키워드를 선정하여 다양한 그물을 차근차근 소개해나간다. 언어나 종교 등 문화의 핵심부터 시작하여 미술, 음악, 학문 등으로 확장하여 문명의 다양한 그물을 묘사하고 정치, 경제, 사회 분야에서 중추적인 역할을 하는 왕족 및 귀족, 전쟁, 도시 등을 살펴본 뒤 경제적 자본과 정치적 평등의 그물을 검토한다. 마지막으로 유럽의 해외 진출과 세계 지배에 결정적인 역할을 담당한 교통을 살펴보고, 이 모든 그물의 종합판으로서 근대에 생겨난 축구의 그물로 이야기를 마친다.\n\n유럽의 각국 언어의 인사말을 시작으로 주요 성당, 박물관, 궁전, 기차역, 축구 경기장 등 각 장을 여는 12개의 지도 인포그래픽은 유럽에 펼쳐진 문명의 그물들을 한눈에 보여준다. 경제적 중요성과 낭만의 여행지 같은 현실의 유용성은 물론이거니와, 오늘날의 세계와 우리 시대의 근간을 형성한 유럽이라는 문명권 속에서 지속된 경쟁과 협력의 경험은 곧 동아시아, 나아가 세계의 현실을 비추어 볼 수 있는 거울이다. 이 책을 통해 유럽이 어떻게 세계를 재편하고, 대립을 넘어 통합을 이루었는지 제대로 살펴보고 배울 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책과함께",
+                "DDC": "940",
+                "UPDATE_DATE": "20180808",
+                "EA_ADD_CODE": "03920",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조홍식 지음",
+                "SERIES_TITLE": "",
+                "KDC": "920",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6811638_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "28000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6811638_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6811638_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "679 p.",
+                "CONTROL_NO": "CIP2018022346",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188990054",
+                "INPUT_DATE": "20180716",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "문명의 그물",
+                "PUBLISH_PREDATE": "20180806",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

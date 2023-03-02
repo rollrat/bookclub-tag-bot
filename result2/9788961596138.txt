@@ -1,0 +1,78 @@
+{
+    "otitle": "스칼렛 (Scarlet)",
+    "oauthor": "마리사 마이어 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:59 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "SCARLET(스칼렛)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438186735",
+                "image": "https://shopping-phinf.pstatic.net/main_3243818/32438186735.20220524184445.jpg",
+                "author": "Madarame Hiro",
+                "discount": "0",
+                "publisher": "조은세상",
+                "pubdate": "20110511",
+                "isbn": "9788961596138",
+                "description": "『SCARLET(스칼렛)』. 대학생인 아키오는 잘생긴 동급생 료와 사귀고 있었다. 하지만 외로움을 많이 타고 밀어붙이는 것에 약한 료는 여자들의 유혹을 거절하지 못하고 매번 사귀고 만다. 어느 날 아키오는 료에게 결혼을 생각하고 있다는 여자를 소개받고 관계를 정리할 결심을 하는데···. 가슴 떨리는 충격의 러브스토리 등장!!"
+            },
+            {
+                "title": "[POD] 스칼렛 핌퍼넬 : The Scarlet Pimpernel (영문판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504368729",
+                "image": "https://shopping-phinf.pstatic.net/main_3250436/32504368729.20220521120818.jpg",
+                "author": "바로네스 오르치",
+                "discount": "17600",
+                "publisher": "부크크(bookk)",
+                "pubdate": "20190207",
+                "isbn": "9791127261092",
+                "description": "스칼렛 핌퍼넬 : The Scarlet Pimpernel (영문판)\n\nWorld Classic Reading Book\n(세계고전문학리딩북)\n\n1903년 희곡 작품을 소설로 재구성한 이야기! \n\n헝가리 출생의 \"바로네스 오르치\" 극작가의 1905년 작품.\n\n여남작의 스칼렛 핌퍼넬(The Scarlet Pimpernel)은\n슈퍼 히어로의 원조격인 슈퍼맨&베트맨의 이중생활을 하면서\n악당 맞서 싸우고 정의를 쟁취하는 이야기 구조를 띠고 있다.\n\n프랑스 혁명기에 가면을 쓰고 \n프랑스 귀족을 구출하는 모험을 그린 작품!\n\n의적 스칼렛 핌퍼넬 시리즈로 유명하다.\n1905년 1 월 5 일 런던의 웨스트 엔드 (West End) 에서 개장 한 스칼렛 핌 페넬 (Scarlet Pimpernel) 은 영국 관중들에게 인기를 얻었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "조은세상,",
+                "DDC": "",
+                "UPDATE_DATE": "20110801",
+                "EA_ADD_CODE": "07830",
+                "PUBLISHER_URL": "https://blog.naver.com/goodworld24",
+                "AUTHOR": "저자: Madarame Hiro ;번역: 이지혜",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "4800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961596138",
+                "INPUT_DATE": "20110401",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "Scarlet ",
+                "PUBLISH_PREDATE": "20110511",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

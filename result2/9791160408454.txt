@@ -1,0 +1,67 @@
+{
+    "otitle": "공부하는 사람들을 위한 글쓰기",
+    "oauthor": "졸리 젠슨 저/임지연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공부하는 사람들을 위한 글쓰기 (스트레스 없이, 생산성 있게 쓰고 싶은 사람들을 위한 매뉴얼)",
+                "link": "https://search.shopping.naver.com/book/catalog/33941465624",
+                "image": "https://shopping-phinf.pstatic.net/main_3394146/33941465624.20221019150652.jpg",
+                "author": "졸리 젠슨",
+                "discount": "14400",
+                "publisher": "한겨레출판사",
+                "pubdate": "20220809",
+                "isbn": "9791160408454",
+                "description": "모든 공부하는 사람들을 위한 글쓰기 자기 계발서\n써야만 하는, 쓰고 싶은 사람들을 위한 글쓰기 비법\n\n학부생, 대학원생, 모든 공부하는 사람들을 위한 글쓰기 자기계발서. 학계에 몸담은 사람뿐만 아니라, 공부하는 사람이라면 누구나 글을 써야만 한다. 어떻게 하면 덜 스트레스 받으면서, 수월하게, 즐겁게 글을 쓸 수 있을까? 저자는 작가들을 방해하는 장애물을 발견하고, 생산성을 유지하는 해결책을 제공한다. 압박감이나 부끄러움 없이, 자주 효율적으로 쓰는 법을 배우자.  \n저자가 제시하는 효과적인 글쓰기 방법은 세 가지로 이루어진다. 첫째, 연구 과제 상자(project box) 만들기. 둘째, 감정 환기 파일(ventilation file) 쓰기. 셋째, 매일 최소 15분 동안 글쓰기. 연구 과제 상자는 지금 쓰고 있는 글과 관련한 자료를 모아놓는 상자다. 물리적인 상자여도 좋고, 데이터로 된 폴더여도 좋다. 감정 환기 파일은 글을 쓰는 중에 불안에 휩싸일 때 머릿속 생각을 여과 없이 적는 파일이다. 무슨 내용이 됐든 이 파일에 적어보자. 시간이 흐른 뒤에 이 파일을 읽어보면, 자신이 어떤 미신 때문에 불안과 두려움에 휩싸였는지 파악할 수 있다. 매일 15분 동안 글을 쓰기 위해서 저자가 조언하는 요령은 세 가지로, 글을 쓰는 공간과 시간, 에너지를 마련하는 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한겨레출판 :한겨레엔 ",
+                "DDC": "",
+                "UPDATE_DATE": "20220826",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://www.hanibook.co.kr",
+                "AUTHOR": "지은이: 졸리 젠슨 ;옮긴이: 임지연",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160408454",
+                "INPUT_DATE": "20220708",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "공부하는 사람들을 위한 글쓰기",
+                "PUBLISH_PREDATE": "20220809",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

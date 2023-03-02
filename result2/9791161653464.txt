@@ -1,0 +1,67 @@
+{
+    "otitle": "일본어회화 100일의 기적",
+    "oauthor": "윤선경 저/고마츠자키 유키타카 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일본어회화 100일의 기적 (100일 후에는 나도 일본어로 말한다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483268792",
+                "image": "https://shopping-phinf.pstatic.net/main_3248326/32483268792.20230103164722.jpg",
+                "author": "윤선경",
+                "discount": "11700",
+                "publisher": "넥서스",
+                "pubdate": "20180520",
+                "isbn": "9791161653464",
+                "description": "외우기 좋은 책, 100일의 기적 시리즈. 일본어 기초 회화를 100일 동안 학습할 수 있도록 구성되어 있다. 길 묻기, 음식 주문하기 등 일본 여행을 갔을 때 꼭 하게 되는 말, 그리고 일본에서 생활하면서 흔히 경험하게 되는 일상생활 회화 표현들이 담겨 있다. 왕초보 학습자도 그대로 외워서 바로 말할 수 있는, 활용도 100% 생활 일본어 표현들이다. 첫걸음 책을 끝낸 다음에 일본어 기초를 복습하면서 회화 공부를 하고 싶은 분이나, 일본어를 공부한 지는 좀 됐는데 회화가 잘 안 되는 분들이 보기에 좋다. 원어민 MP3 파일과 저자 해설강의를 무료로 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "495.68",
+                "UPDATE_DATE": "20180614",
+                "EA_ADD_CODE": "13730",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "윤선경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "737.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6660702_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6660702_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "CIP2018014532",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161653464",
+                "INPUT_DATE": "20180509",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "일본어회화 100일의 기적",
+                "PUBLISH_PREDATE": "20180520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

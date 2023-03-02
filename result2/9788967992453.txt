@@ -1,0 +1,78 @@
+{
+    "otitle": "그림과 함께 읽는 365일 니체",
+    "oauthor": "석산 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:34 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "그림과 함께 읽는 365일 니체",
+                "link": "https://search.shopping.naver.com/book/catalog/32436268682",
+                "image": "https://shopping-phinf.pstatic.net/main_3243626/32436268682.20221227204558.jpg",
+                "author": "석산",
+                "discount": "13050",
+                "publisher": "북오션",
+                "pubdate": "20160111",
+                "isbn": "9788967992453",
+                "description": "매일 그림과 함께 음미하는 \n위대한 철학자 니체의 가르침\n\n‘인생의 목적은 끊임없는 전진이다.’ 이처럼 인생의 본질을 꿰뚫어본 니체의 가르침들은 우리의 삶이 버겁고 힘들 때마다 찾게 되는 ‘인생의 길잡이’가 되어준다. 인생은 우리가 매일의 결정을 어떻게 바꾸어 나가느냐에 달려 있다. 이 책에 실린 니체의 가르침과 그림을 통해서 하루를 시작하다 보면 매일을 ‘최고의 하루’로 만들 수 있다. \n\n이 책은 니체의 가르침 중에서도 가장 핵심적이고 유용한 구절들을 골라 우리 삶에 어떻게 활용할 수 있는지를 설명하며 니체의 아름다운 시적 감각을 되살리고자 생기 넘치는 구어체로 서술하였다. 또한, 일 년 동안 하루 한 편씩 생활 습관처럼 접할 수 있도록 구성되었다. 이 책을 통해 니체를 만나고, 그의 말에 귀를 기울일수록 현실의 무게에 짓눌려 점점 쪼그라들던 당신의 심장은 다시 고동칠 것이다."
+            },
+            {
+                "title": "그림과 함께 읽는 365일 탈무드",
+                "link": "https://search.shopping.naver.com/book/catalog/32490769709",
+                "image": "https://shopping-phinf.pstatic.net/main_3249076/32490769709.20220527030317.jpg",
+                "author": "이동연",
+                "discount": "13050",
+                "publisher": "북오션",
+                "pubdate": "20151230",
+                "isbn": "9788967992446",
+                "description": "『그림과 함께 읽는 365일 탈무드』는 유대인들의 지혜와 철학의 정수인 [탈무드]의 365가지 이야기를 그림과 함께 하루 한 편씩 감상할 수 있도록 하는 책으로서 독자들에게 인생의 큰 감동과 울림을 선사한다. ‘헬조선’이라는 멸칭까지 나올 정도로 미래가 어둡고 혼란스러운 이 시대, 우리 인생의 방향을 바로 잡아줄 멘토가 꼭 필요한 시점이다. 이 책을 통해 고민을 해결해보는 것은 어떨까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북오션",
+                "DDC": "193",
+                "UPDATE_DATE": "20160203",
+                "EA_ADD_CODE": "03160",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "석산",
+                "SERIES_TITLE": "",
+                "KDC": "165.77",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5087877_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5087877_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "280",
+                "CONTROL_NO": "CIP2015034029",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788967992453",
+                "INPUT_DATE": "20151209",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "그림과 함께 읽는 365일 니체",
+                "PUBLISH_PREDATE": "20160105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

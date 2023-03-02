@@ -1,0 +1,67 @@
+{
+    "otitle": "Python 파이썬 2학년 스크래핑의 구조",
+    "oauthor": "모리 요시나오 저/이영란 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "파이썬(Python) 2학년 스크래핑의 구조 (체험으로 배우고! 대화 형식으로 공부!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445538567",
+                "image": "https://shopping-phinf.pstatic.net/main_3244553/32445538567.20221019151927.jpg",
+                "author": "모리 요시나오",
+                "discount": "15300",
+                "publisher": "성안당",
+                "pubdate": "20211117",
+                "isbn": "9788931556896",
+                "description": "데이터 수집이나 해석, 분석에 대해 알기 쉽게 설명!\n\n파이썬은 인공지능의 기초 언어로 배우기 쉬우면서 각종 데이터 분석에 사용되는 프로그래밍 언어로 절정의 인기를 누리고 있다. 기존이 파이썬 책이 선뜻 입문하기 어려운 감이 있었다면 이 책은 염소 박사와 강아지 다솜 양의 친근한 일러스트를 도립해 책 전체가 쉬워보이며 실제로도 코드 설명이나 설치법, 버튼 안내가 큼직큼직한 주제의 만화와 대화체 방식으로 구성하여 매우 쉽게 느껴진다. \n\n인터넷에 공개된 데이터를 수집하는 일을 ‘크롤링(Crawling)’, 이 데이터를 해석해 필요한 데이터를 구하는 일을 ‘스크래핑(Scaping)’이라고 하는데, 파이썬은 인터넷에 액세스할 수 있는 라이브러리가 풍부해 이 두가지 모두 쉽고 편하게 할 수 있는 언어로 널리 알려져 있다. 이 책에서는 스크래핑을 하는 라이브러리 ‘Beautiful Soup4’아 데이터를 분석하는 라이브러리 ‘판다스(pandas)’를 사용해 실제로 파이썬의 핵심 기능에 접근할 수 있도록 한다. \n \n1학년 시리즈 중 독보적인 인기를 누렸던『파이썬 1학년』의 인기에 힘입어 『파이썬 2학년 데이터 분석 구조』가 나왔고 이 책이 원서로는 2학년 시리즈중 먼저 나왔으나 번역자 이영란 박사가 국내 사정에 맞게 코드나 사이트를 정리하여 이번에 선보이게 되었다. \n\n이 책의 예제 코드와 함께 홈페이지 회원들에게만 제공하는 회원특전 PDF는 예제와 라이브러리 사용법 간이 매뉴얼로 성안당 홈페이지(www.cyber.co.kr) [도서몰]에 회원가입 후 [자료실]-[자료실] 바로가기에서 도서 검색을 통해 다운로드할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20220111",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "모리 요시나오 지음 ;이영란 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/10/26/9788931556896.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*250",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931556896",
+                "INPUT_DATE": "20211026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "파이썬 2학년 스크래핑의 구조",
+                "PUBLISH_PREDATE": "20211117",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

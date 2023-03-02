@@ -1,0 +1,67 @@
+{
+    "otitle": "블록체인이 세상을 바꾼다",
+    "oauthor": "김종현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "블록체인이 세상을 바꾼다 (4차산업혁명을 위한 블록체인 기반 디지털자산혁신)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445259660",
+                "image": "https://shopping-phinf.pstatic.net/main_3244525/32445259660.20221229071400.jpg",
+                "author": "김종현",
+                "discount": "24300",
+                "publisher": "진한엠앤비",
+                "pubdate": "20210314",
+                "isbn": "9791129020314",
+                "description": "『블록체인이 세상을 바꾼다』는 블록체인 비즈니스 설계자와 기술입문자의 요구를 동시에 충족시키는 입문서로 자리매김하고자 한다. 1~3장은 주로 금융분야, 4~5장은 비금융분야의 적용에 대한 기술전망을 기술하였고, 6장은 블록체인 기술입문자를 위한 기술 자체에 대한 내용으로 구성된다. 한국이 세계 10위권 경제규모로 성장했지만, 내수시장 규모는 각 산업에서 세계 시장의 1~2%에 불과하다. 한때 전 세계 시장의 20%를 차지했던 가상자산 거래는 우리나라의 뜨거운 열기를 통해 미래를 밝혀줄 것으로 기대한다. 우리의 역량을 블록체인에 집중한다면 블록체인 기반의 디지털자산 생태계를 선도하는 한국의 위상을 회복하는 계기가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Jinhan M&B(진한엠앤비)",
+                "DDC": "",
+                "UPDATE_DATE": "20210407",
+                "EA_ADD_CODE": "93320",
+                "PUBLISHER_URL": "http://www.jinhanbook.co.kr/",
+                "AUTHOR": "김종현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "27000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "360 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791129020314",
+                "INPUT_DATE": "20210224",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "블록체인이 세상을 바꾼다",
+                "PUBLISH_PREDATE": "20210314",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

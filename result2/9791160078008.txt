@@ -1,0 +1,67 @@
+{
+    "otitle": "초개인주의",
+    "oauthor": "상효이재 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초개인주의 (가장 자기다운 인간, 조직 그리고 경영에 대하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463182914",
+                "image": "https://shopping-phinf.pstatic.net/main_3246318/32463182914.20221019124451.jpg",
+                "author": "상효이재",
+                "discount": "27000",
+                "publisher": "한스미디어",
+                "pubdate": "20220426",
+                "isbn": "9791160078008",
+                "description": "기술에서 다시 인간으로\n\n불안의 시대, 어떻게 생존하고 성장할 것인가?\n모든 것이 불확실하고 불안한 시대,\n우리는 어떻게 생존하고 성장해야 할까?\n세상의 새로운 질서를 이해하며 자기다움을 찾는,\n삶과 경영의 태도에 대한 지극히 과학적인 이야기\n\n신간 《초개인주의》는 기술 중심이 아닌 인간에 초점을 맞추어 우리가 어떤 태도를 가져야 하는지, 나아가 어떻게 조직을 관리하고 경영해야 하는지를 다룬 책이다. \n이 책에서 말하는 초개인주의(over-individualism)는, ① 고유의 자기다움을 가진 한 개인으로, 동시에 ② 개인을 초월해 연대하는 인간으로, 인간 존중의 삶과 경영을 추구하는 태도를 의미한다. “모든 것이 불확실하고 불안한 시대, 우리는 어떻게 생존하고 성장해야 할까?”라는 질문에 대해 《초개인주의》는 ① 세상의 새로운 질서를 이해한 가운데 ② (인간) 자기다움을 찾아 그 고유함에 바탕한 ③ ‘존중의 경영’을 해야 한다고 답한다.\n다만 초개인주의와 초개인주의 경영은 단순한 직관이 담긴 주장이 결코 아니다. 《초개인주의》는 과거 우리가 ‘과학적’이라 믿었던 세상, 개인, 조직, 경영에 대한 다양한 가정과 믿음이 사실은 지극히 비과학적인 산물임을 차분히 논증하고, 현대 과학의 연구결과, 방향성을 핵심 근거를 바탕으로 방향성과 구체적 방법론을 제시한 ‘다시 쓰는 과학적 경영(관리)법’이다.\n200자 원고지 3000여 매에 달하는 방대한 분량만큼이나 저자는 혼신의 힘을 다해 오랜 기간 축적한 경험과 지식, 내공을 이 한권의 책에 담아냈다. 코로나 팬데믹 이후 달라진 인간과 조직, 그리고 경영에 대한 완벽한 바이블이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어(한즈미디어)",
+                "DDC": "",
+                "UPDATE_DATE": "20220526",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "상효이재 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "575 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160078008",
+                "INPUT_DATE": "20220406",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "초개인주의",
+                "PUBLISH_PREDATE": "20220510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

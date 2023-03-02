@@ -1,0 +1,67 @@
+{
+    "otitle": "또 올게요, 오래가게",
+    "oauthor": "서진영 저/루시드로잉 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "또 올게요, 오래가게 (기꺼이 단골이 되고 싶은 다정하고 주름진 노포 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466544206",
+                "image": "https://shopping-phinf.pstatic.net/main_3246654/32466544206.20221019124700.jpg",
+                "author": "서진영",
+                "discount": "25020",
+                "publisher": "아르테(arte)",
+                "pubdate": "20210908",
+                "isbn": "9788950996727",
+                "description": "우리 동네에 있었으면 싶고\n기꺼이 단골이 되고 싶은 오래된 가게를 만나다!\n24곳 노포의 다정하고 주름진 역사\n\n동네 골목 한쪽에 세월을 짐작할 수 없는 오래된 가게가 있다. 이 오래된 가게는 어떤 주름진 역사를 만들며 100년에 가까운 시간을 이어온 걸까? 『또 올게요, 오래가게』는 서로 다른 것을 만들고 파는 노포의 얼굴과 목소리를 담아낸 책이다. 24곳 가게의 주인들이 들려준 그들의 작은 역사가, 시간의 더께가 쌓인 건물의 그림이 동네에 하나쯤 있던 가게에 대한 추억을 떠올리게 한다. \n3대째 한결같은 마음으로 문을 열어온 가게, 매일 새벽 거리를 쓸며 하루를 시작하는 가게들을 들여다보면 그 꾸준한 삶에 대한 존경심마저 샘솟는다. 이 책을 덮으며 오래된 가게의 ‘오래된’이 낡은 것이 아니라 오래도록 존재할 만큼 값진 것으로 읽히길 바란다. 더불어 우리 곁의 오래된 것들을 따뜻한 시선으로 바라보는 기회가 되었으면 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Arte(북이십일)",
+                "DDC": "",
+                "UPDATE_DATE": "20211020",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "글: 서진영 ;그림: 루시드로잉",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "27800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950996727",
+                "INPUT_DATE": "20210706",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "또 올게요, 오래가게",
+                "PUBLISH_PREDATE": "20210908",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "올어바웃바디",
+    "oauthor": "이낙림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "올 어바웃 바디(All About Body) (몸에 대한 모든 것을 알게 될 때 비로소 보이는 인생의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506469694",
+                "image": "https://shopping-phinf.pstatic.net/main_3250646/32506469694.20221229072309.jpg",
+                "author": "이낙림",
+                "discount": "15300",
+                "publisher": "치읓",
+                "pubdate": "20190107",
+                "isbn": "9791196309770",
+                "description": "많은 사람들이 말하는 성공하기 위해 갖추어야 할 요건들 중 빠지지 않고 등장하는 두 가지가 있다. 의지와, 노력이다. 그러나 이 책은 그 두 가지의 힘을 온전히 발휘하기 위해서는 그전에 반드시 몸과 마음의 균형을 먼저 찾아야 한다고 말한다. 아무리 의지를 갖추고 꾸준히 노력하려고 한다 한들, 몸과 마음이 불균형한 상태에서는 그것을 오래 지속시킬 수 없다는 것이다.\n\n\n\n자신의 의지로 정신을 컨트롤할 수 있고, 정신으로 몸을 컨트롤 할 수 있다고 말하는 사람들이 있다. 그러나 무의식은 몸에 스며든다. 다리를 꼬고 앉거나, 다리를 떨거나, 눈을 자주 깜빡이거나, 쩝쩝거리며 밥을 먹는 등 나도 모르는 사이 무의식에 의해 정신은 지배당하고 만다. 도리어 몸이 정신을 지배하는 것이다.\n\n\n\n이 책은 인생을 교정하고 싶다면 가장 기본이 되는 몸에서부터 시작해야 함을 강조한다. 몸에서부터 차근히 교정을 시작하여, 결국 세상과 나의 연결고리가 되는 부분까지 균형을 맞추는 것, 그것이야말로 결국 성공에 이르게 하는 ‘인생교정의 기술’인 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "치읓",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20190213",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이낙림",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7005352_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7005352_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "335 p.",
+                "CONTROL_NO": "CIP2018037401",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196309770",
+                "INPUT_DATE": "20181114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "올어바웃바디",
+                "PUBLISH_PREDATE": "20190107",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

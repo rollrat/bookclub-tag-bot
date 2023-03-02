@@ -1,0 +1,67 @@
+{
+    "otitle": "나비가 되고 싶어",
+    "oauthor": "글,그림 엠마누엘레 베르토시 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나비가 되고 싶어",
+                "link": "https://search.shopping.naver.com/book/catalog/32496304773",
+                "image": "https://shopping-phinf.pstatic.net/main_3249630/32496304773.20230217105552.jpg",
+                "author": "엠마누엘레 베르토시",
+                "discount": "10800",
+                "publisher": "북극곰",
+                "pubdate": "20120821",
+                "isbn": "9788997728015",
+                "description": "1998년 보르다노 일러스트레이션 어워드 대상 수상작이자 엠마누엘레 베르토시의 데뷔작이다. 베르토시는 해, 달, 데이지 꽃, 풀밭, 어린이, 달팽이, 개미, 벌, 부엉이 등 가장 자연스럽고 순수한 캐릭터들로 캔버스를 아름답게 수놓으면서도 ‘아름다운 다름’이라는 자연의 메시지를 환상적인 이야기로 전해주고 있다.\n\n\n\n예쁜 나비가 된 데이지가 무시했던 달팽이와 개미와 벌은 모두 놀라운 철학자이면서 아름다운 친구들이었다. 결국 아름다운 외모만으로 친구들을 판단했던 데이지는 나비가 되어 달팽이, 개미, 벌들의 이야기를 들으며 내면의 아름다움과 자연의 섭리를 이해하고 깨닫고 배우게 된다.\n\n\n\n데이지와 작은 동물들과의 대화는 마치 오만한 제자와 깨달음을 주려는 스승 사이의 토론처럼 흥미진진하다. ‘언젠간 모두 집으로 돌아간다’, ‘누구나 자기한테 맞는 시간이 있다’, ‘따뜻한 봄과 무더운 여름과 시원한 가을이 지나면 언제나 추운 겨울이 온다’ 등의 대답은 너무나 당연한 말이지만 곱씹어 생각할수록 깊은 여운과 지혜가 담긴 명언이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20120904",
+                "EA_ADD_CODE": "77880",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "엠마누엘레 베르토시 글과그림 ;이순영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997728015",
+                "INPUT_DATE": "20120713",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나비가 되고 싶어",
+                "PUBLISH_PREDATE": "20120821",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

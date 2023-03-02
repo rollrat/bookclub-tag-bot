@@ -1,0 +1,67 @@
+{
+    "otitle": "감염병이 바꾼 세계사",
+    "oauthor": "나이토 히로후미 저/서수지 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "감염병이 바꾼 세계사 (인류와 바이러스의 끝없는 공방전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464885445",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464885445.20230103165115.jpg",
+                "author": "나이토 히로후미",
+                "discount": "14400",
+                "publisher": "탐나는책",
+                "pubdate": "20211022",
+                "isbn": "9791189550547",
+                "description": "감염병의 대유행은 인류의 생존을 위협했지만\n새로운 시대의 태동으로도 이어졌다!\n\n세계는 코로나-19라는 신종 바이러스 감염병으로 아수라장이 되었다. 2019년 12월에 중국 우한에서 시작된 코로나-19는 세계 곳곳으로 퍼져 나갔고 이내 감염자가 속출했다. 2021년 8월 기준으로 전 세계 감염자는 2억 명을 돌파했고 사망자는 400만 명을 넘어섰다.\n\n예부터 인류는 감염병으로부터 끊임없이 생존을 위협받았다. 하지만 감염병의 유행은 새로운 시대의 태동으로도 이어졌다. 14세기 유럽에서 대유행한 페스트는 크리스트교 지배 체계뿐 아니라 봉건 영주가 주도하는 사회 구조를 붕괴시켰다. 페스트가 봉건 사회에 마침표를 찍고 절대 왕정 시대를 맞이하는 밑거름이 된 것이다. 19세기에 감염병의 원인을 규명하는 역학이 발전하며 감염병을 극복하는 듯 보였으나 대규모 개발과 세계화는 미지의 감염병을 불러왔다. 코로나-19 팬데믹 이후에는 어떤 세상이 기다리고 있을까? 감염병이 바꿔놓은 세계의 역사를 살펴보며 앞으로의 세상을 예상해 보는 것은 어떨까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "탐나는책",
+                "DDC": "",
+                "UPDATE_DATE": "20220113",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "나이토 히로후미 지음 ;서수지 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "266 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189550547",
+                "INPUT_DATE": "20210910",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "감염병이 바꾼 세계사",
+                "PUBLISH_PREDATE": "20211022",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

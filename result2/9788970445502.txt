@@ -1,0 +1,67 @@
+{
+    "otitle": "세계 중요 동식물 일반명 명감",
+    "oauthor": "윤실",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계중요 동식물 일반명 명감 (영명, 국명, 학명 상호대조)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497564621",
+                "image": "https://shopping-phinf.pstatic.net/main_3249756/32497564621.20221019132311.jpg",
+                "author": "윤실",
+                "discount": "10800",
+                "publisher": "전파과학사",
+                "pubdate": "19941001",
+                "isbn": "9788970445502",
+                "description": "동식물 3만여 종의 영명.국명.학명을 실었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19941014",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "윤실 편",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970445501",
+                "INPUT_DATE": "19941014",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "세계 중요 동식물 일반명 명감",
+                "PUBLISH_PREDATE": "19941030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

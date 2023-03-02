@@ -1,0 +1,67 @@
+{
+    "otitle": "당신도 걸으면 좋겠습니다",
+    "oauthor": "남난희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신도 걸으면 좋겠습니다 (남난희의 지리산 살이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492264689",
+                "image": "https://shopping-phinf.pstatic.net/main_3249226/32492264689.20221019115522.jpg",
+                "author": "남난희",
+                "discount": "13320",
+                "publisher": "마인드큐브",
+                "pubdate": "20200520",
+                "isbn": "9791188434282",
+                "description": "이 책은 지리산 자락에서 살고 있는 산악인 남난희의 네 번째 책으로, 그녀가 10년 만에 내놓는 에세이집이다. 이 책에서 저자는 걷는 일의 즐거움에 대해, 그리고 시골살이의 행복에 대해 소개하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Mindcube(마인드큐브)",
+                "DDC": "",
+                "UPDATE_DATE": "20200610",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "남난희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*182",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "301 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188434282",
+                "INPUT_DATE": "20200415",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "당신도 걸으면 좋겠습니다",
+                "PUBLISH_PREDATE": "20200520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

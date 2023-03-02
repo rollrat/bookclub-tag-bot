@@ -1,0 +1,67 @@
+{
+    "otitle": "학교에서 가르쳐주지 못한 우리 역사",
+    "oauthor": "원유상 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "학교에서 가르쳐주지 못한 우리 역사 (우리가 몰랐던 숨어있는 한국사 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492651603",
+                "image": "https://shopping-phinf.pstatic.net/main_3249265/32492651603.20221230074728.jpg",
+                "author": "원유상",
+                "discount": "11520",
+                "publisher": "좋은날들",
+                "pubdate": "20130715",
+                "isbn": "9788998625023",
+                "description": "청소년 인문교양 시리즈 2권. 선생님이 수업 시간에 못 다한 우리 역사 이야기를 80여 테마로 나누어 재미있게 들려준다. 고대에서부터 고려, 조선, 근현대에 이르기까지 우리가 미처 몰랐거나 혹은 역사의 참모습을 이해하는 데 도움이 될 이야기, 흥미로운 역사 에피소드들을 한 권에 담았다.\n\n\n\n삼국시대의 첩보 작전, 당한 만큼 복수한 신라의 실성왕, 몽골 항쟁에 대한 바른 역사인식, 동전 던지기로 결정 난 한양 천도, 세도정치와 지역 차별의 역사, 장례식을 두 번 치러야 했던 명성황후 등 우리 역사에 대한 바른 이해와 재미를 더해줄 이야기들이 흥미롭게 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "좋은날들",
+                "DDC": "951.9",
+                "UPDATE_DATE": "20130718",
+                "EA_ADD_CODE": "43910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "원유상 지음",
+                "SERIES_TITLE": "",
+                "KDC": "911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2802889_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2802889_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2802889_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013010676",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998625023",
+                "INPUT_DATE": "20130701",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "학교에서 가르쳐주지 못한 우리 역사 ",
+                "PUBLISH_PREDATE": "20130715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

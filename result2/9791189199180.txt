@@ -1,0 +1,67 @@
+{
+    "otitle": "세계 문화 여행 - 이스라엘",
+    "oauthor": "제프리 게리,메리언 르보 공저/이정아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계 문화 여행 : 이스라엘 (세계의 풍습과 문화가 궁금한 이들을 위한 필수 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492925775",
+                "image": "https://shopping-phinf.pstatic.net/main_3249292/32492925775.20221229072432.jpg",
+                "author": "제프리 게리^메리언 르보",
+                "discount": "10350",
+                "publisher": "시그마북스",
+                "pubdate": "20180820",
+                "isbn": "9791189199180",
+                "description": "이스라엘의 역사, 관습, 문화, 생활, 삶\n\n이 책은 『세계 문화 여행』시리즈의 이스라엘 편으로 이스라엘의 역사, 관습, 문화, 생활, 삶에 대한 전반적인 내용을 다루고 있다. 비즈니스 때문에 이스라엘을 방문하든 단순한 여행이든, 이스라엘에서 더욱 풍성하고 기억에 남는 시간을 보내는 데 많은 도움이 될 것이다. 이 책에는 이스라엘 현지 역사와 종교 및 정치, 풍습과 전통, 이스라엘 사람들의 가정과 직장과 여가생활, 의식주, 의사소통 등에 대한 내용이 담겨 있다.\n\n이스라엘의 배경과 가치, 현지인의 가치관 등 여행에 필요한 필수 정보를 제공하고, 낯선 땅에서 맞닥뜨릴 익숙하지 않은 상황을 어떻게 이해하고 어떻게 대처해야 할지 안내한다. 파란만장하고 방대한 이스라엘의 역사를 다루는 데에 있어서도 1948년 독립 이전과 이후의 역사적 사건 중 핵심만을 정리해 이해하기 쉽게 다루고 있다. 역동적이며 다채롭고 역설적인 나라 이스라엘과 친절하고 예의바르며, 탁월한 여행자인 이스라엘 사람들에 대해 알고자 하는 사람이라면 이 책을 통해 그들의 역사와 문화, 전통 등 많은 것을 배울 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "306.095694",
+                "UPDATE_DATE": "20180906",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "제프리 게리,메리언 르보 지음 ;이정아 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "309.11863",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6824257_6.txt",
+                "SET_ISBN": "9788984459113",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6824257_3.jpg",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "229 p.",
+                "CONTROL_NO": "CIP2018023353",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189199180",
+                "INPUT_DATE": "20180725",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(세계 문화 여행) 이스라엘",
+                "PUBLISH_PREDATE": "20180820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

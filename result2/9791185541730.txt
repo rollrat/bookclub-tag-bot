@@ -1,0 +1,67 @@
+{
+    "otitle": "누구나 좋아하는 사람들의 비밀",
+    "oauthor": "상승미소(이명로) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "누구나 좋아하는 사람들의 비밀 (일만 명의 사람에게 배운 공감의 대화법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32452842718",
+                "image": "https://shopping-phinf.pstatic.net/main_3245284/32452842718.20221229073143.jpg",
+                "author": "이명로(상승미소)",
+                "discount": "13320",
+                "publisher": "스마트북스",
+                "pubdate": "20180430",
+                "isbn": "9791185541730",
+                "description": "어떻게 관계를 맺고, 어떻게 관계를 유지해야 하는지, 우리의 진심과 마음이 누군가에게 잘 전달되도록 표현하는 방법에 대해 기술하고 있다. 저자는 10년 동안 약 1만 명의 사람들을 만나왔다. 그들의 인생 멘토이자 카운슬러로 활동해온 그는 수많은 만남과 이야기 속에서 관계에 대한 어떤 특별한 공통점을 깨닫게 되었다. 그것은 바로 ‘공감’이었다.\n\n\n\n까칠하게 혼자 살아도, 미움 받으며 홀로 살아도, 타인을 신경 쓰지 않고 살아도 결국 우리는 모든 문제를 사람과의 관계 속에서 풀어나갈 수밖에 없는 삶을 살아가고 있다. 사람 그리고 관계는 우리가 인생을 살아가는 데 있어서 떼려야 뗄 수 없는 매우 중요한 생존 전략이자 자산인 것이다.\n\n\n\n누군가의 마음을 얻기 위해 돈도 시간도 노력도 쏟아붓고 있지만 관계가 좁혀지지 않아 고민이라면? 그것은 바로 상대의 마음을 얻지 못했기 때문이다. 애인일 수도, 직장 상사일 수도, 고객일 수도 있다. 지금 이 순간, 가까워지고 싶고 설득하고 싶은 누군가가 있다면 이 책을 읽고 내 안에 잠들어 있는 공감 온도부터 1℃ 올려보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스마트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20180517",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "http://www.smartbooks21.com",
+                "AUTHOR": "이명로 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185541730",
+                "INPUT_DATE": "20180413",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "누구나 좋아하는 사람들의 비밀",
+                "PUBLISH_PREDATE": "20180430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

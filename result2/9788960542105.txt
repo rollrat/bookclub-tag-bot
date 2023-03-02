@@ -1,0 +1,67 @@
+{
+    "otitle": "대한민국 진로백서",
+    "oauthor": "정철상 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "대한민국 진로백서 (어쩌다 어른이 된 청춘들을 위한 진로 가이드)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458167640",
+                "image": "https://shopping-phinf.pstatic.net/main_3245816/32458167640.20221019132801.jpg",
+                "author": "정철상",
+                "discount": "14850",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20181210",
+                "isbn": "9788960542105",
+                "description": "* ‘젊은이들의 무릎팍도사’ No. 1 커리어코치 정철상 교수가 전하는 진로 해법!\n* 진로 선택의 갈림길에 선 청춘들의 필독서! \n* 4차 산업혁명시대 진로 지침서!\n\n20년간 인재개발에 전념해온 No. 1 커리어코치 정철상 교수가 진로와 인생을 고민하는 청춘들을 위해 모든 노하우를 전수한다. 저자는 1만 번 이상의 상담과 강연을 통해 취업을 준비하고 있는 학생들은 물론 사회초년생, 커리어 변경을 고민하는 어른들에게까지 도움이 될 내용을 제시한다.\n단순히 취업을 위한 기술을 사전식으로 나열하거나 그것에 초점을 맞춘 것이 아니라 직업을 대하는 마음가짐과 더불어 어떻게 인생을 설계해가야 할지에 대한 인생조언까지 총체적으로 제시하고 있다. 취업을 준비하고 있는 학생, 사회초년생, 자신의 직업과 진로를 고민 중인 직장인들에게 이 책은 명확한 조언과 지침을 제공할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙경제평론사",
+                "DDC": "378.19425",
+                "UPDATE_DATE": "20181128",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "정철상 지음",
+                "SERIES_TITLE": "",
+                "KDC": "377.268",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7001169_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7001169_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "409 p.",
+                "CONTROL_NO": "CIP2018036848",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960542105",
+                "INPUT_DATE": "20181113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "대한민국 진로백서",
+                "PUBLISH_PREDATE": "20181210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

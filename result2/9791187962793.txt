@@ -1,0 +1,67 @@
+{
+    "otitle": "인생을 어떻게 살면 좋겠냐고 묻는 딸에게",
+    "oauthor": "한창욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인생을 어떻게 살면 좋겠냐고 묻는 딸에게",
+                "link": "https://search.shopping.naver.com/book/catalog/32463511059",
+                "image": "https://shopping-phinf.pstatic.net/main_3246351/32463511059.20221019105352.jpg",
+                "author": "한창욱",
+                "discount": "13500",
+                "publisher": "다연",
+                "pubdate": "20191017",
+                "isbn": "9791187962793",
+                "description": "아직은 삶이 서툰 딸에게 아빠가 들려주는 인생 조언!\n\n외동딸을 둔 아버지가 오늘날의 힘겨운 시절을 살아가고 있는 딸에게 건네는 인생 조언 『인생을 어떻게 살면 좋겠냐고 묻는 딸에게』. 갖가지 인생 문제를 어떻게 해결할 것인지, 즉 어떻게 인생을 살 것인지를 간결한 호흡으로 명료하게 풀어낸 이 책은 깊은 혜안과 더불어 아빠의 절절한 부정이 고스란히 담겨있다.  \n\n살아가다 보면 여러 상황에 부딪히기 마련이다. 어떤 것들은 명확하게 행복과 불행으로 나뉘지만, 대개는 혼재되어 있다. 책 속의 아빠는 그럴 때는 주저하지 말고 행복을 선택해야 한다고 말한다. 상황에 따라서 차이는 있겠지만 행복한 사람은 행복을 선택하고, 불행한 사람은 불행을 선택한다고 이야기하며 스스로 행복하다고 믿을 때 행복해진다고 조언하는 등 총 6장에 걸쳐 원포인트 인생 레슨을 담아 딸이 인생에서 가장 빛나는 순간을 만들고 이어갈 수 있도록 이끌어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다연",
+                "DDC": "",
+                "UPDATE_DATE": "20191108",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "한창욱 지음",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/16/9791187962793.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "262 p.",
+                "CONTROL_NO": "CIP2019040371",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187962793",
+                "INPUT_DATE": "20191010",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "인생을 어떻게 살면 좋겠냐고 묻는 딸에게",
+                "PUBLISH_PREDATE": "20191017",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

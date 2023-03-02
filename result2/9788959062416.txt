@@ -1,0 +1,67 @@
+{
+    "otitle": "미국은 세계를 어떻게 훔쳤는가",
+    "oauthor": "강준만 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미국은 세계를 어떻게 훔쳤는가 (주제가 있는 미국사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466829593",
+                "image": "https://shopping-phinf.pstatic.net/main_3246682/32466829593.20220527062920.jpg",
+                "author": "강준만",
+                "discount": "14400",
+                "publisher": "인물과사상사",
+                "pubdate": "20130930",
+                "isbn": "9788959062416",
+                "description": "자본주의 국가에 절대적인 영향을 끼친 미국을 이분법적 잣대를 버리고 객관적으로 접근한 미국사 파노라마\n\n『미국은 세계를 어떻게 훔쳤는가』는 경제와 군사, 라이프 스타일과 언어, 대중문화 등 수많은 나라와 국민을 사로잡은 미국을 친미와 반미라는 이분법을 버리고, 있는 그대로의 미국을 보고자 제안한 쿨한 미국사 파노라마를 소개한 책이다. 미국이 어떻게 초강대국이 되었는지, 빠른 속도로 ‘거대한 괴수’가 된 미국을 서부개척을 통한 프런티어 문화, 아메리칸 드림, 인종의 문화정치학, 폭력과 범죄, 처세술과 성공학, 자동차 공화국 등의 중요한 주제들이 날카로운 필치로 전개된다.\n\n프런티어는 미국 역사의 중심축이며 서부의 역사로 서부개척의 가능성을 통해 미국 민주주의가 형성되었다는 사관을 보여준다. 난폭한 카우보이 기질과 인종차별주의, 물질주의 소비주의가 드러나지만, 동전의 양면처럼 그 이면의 특성인 미국의 활력이자 저력인 점을 보여준다. 또한, 20세기 초반의 자동차가 가져다 준 이동성은 전통적인 마을의 성역과 금기를 깨는 혁명을 몰고 왔고, 아메리칸 드림인 동시에 소외되고 왜소해지는 인간의 마지막 피난처의 모습을 통해 포드가 마르크스를 쫓아낼 수 있는 이유를 제시하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과 사상",
+                "DDC": "973",
+                "UPDATE_DATE": "20131008",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "강준만",
+                "SERIES_TITLE": "",
+                "KDC": "942",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2995278_3_1.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2995278_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2995278_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013019098",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959062416",
+                "INPUT_DATE": "20130925",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "미국은 세계를 어떻게 훔쳤는가",
+                "PUBLISH_PREDATE": "20130930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

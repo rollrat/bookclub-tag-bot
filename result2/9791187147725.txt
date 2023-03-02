@@ -1,0 +1,67 @@
+{
+    "otitle": "작은 것들이 만든 거대한 세계",
+    "oauthor": "멀린 셸드레이크 저/김은영 역/홍승범 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "작은 것들이 만든 거대한 세계 (균이 만드는 지구 생태계의 경이로움)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478316629",
+                "image": "https://shopping-phinf.pstatic.net/main_3247831/32478316629.20221228075126.jpg",
+                "author": "멀린 셸드레이크",
+                "discount": "17280",
+                "publisher": "아날로그(글담)",
+                "pubdate": "20210423",
+                "isbn": "9791187147725",
+                "description": "“세상을 부패시키는 존재가 세계를 만든다”\n인간의 상상을 초월하는 미시 세계의 잠재력을 탐구하다!\n\n지구상에 존재하는 모든 생명의 근원은 바로 곰팡이, 즉 우리 눈에 잘 보이지 않는 작은 균에서 시작되었다. 곰팡이가 없었더라면 세상은 지금의 형태로 만들어지지 못했을 것이다. 개체수, 종수, 종의 나이 등에서 인류보다도 훨씬 압도적인 이 곰팡이라는 존재에 대해 우리는 아는 것이 거의 없다. 그러나 곰팡이가 지닌 능력과 잠재력은 인간의 상상을 초월한다. 곰팡이는 돌을 먹고 흙을 만들며, 식물을 자라게 하고 우주에서도 살아남을 수 있는데다 지구 대기의 성분에도 영향을 미친다. 심지어 이 놀라운 생물을 이용한다면 우리는 당면한 플라스틱 쓰레기 문제는 물론이고 지구 온난화, 식량 생산 문제까지 인류가 마주하고 있는 많은 위기를 극복할 수 있을지도 모른다. 이 책은 시적인 문체와 과학적 사실들, 그리고 아름다운 일러스트를 한데 엮어내, 상대적으로 덜 알려진 곰팡이의 놀라운 세계를 들여다본다. 곰팡이, 즉 균이 만들어내는 우리 자연의 경이로움을 살펴보면 지금까지 우리가 알지 못했던 생태계의 긴밀한 네트워크에 대해 다시 한번 생각하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아날로그 :글담출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20210518",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 멀린 셸드레이크 ;옮긴이: 김은영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "447 p., 도판 [16] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187147725",
+                "INPUT_DATE": "20210310",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "작은 것들이 만든 거대한 세계",
+                "PUBLISH_PREDATE": "20210423",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "제임스 글릭의 타임 트래블",
+    "oauthor": "제임스 글릭 저/노승영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "제임스 글릭의 타임 트래블 (과학과 철학, 문학과 영화를 뒤흔든 시간여행의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441640524",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441640524.20230207164012.jpg",
+                "author": "제임스 글릭",
+                "discount": "18000",
+                "publisher": "동아시아",
+                "pubdate": "20190529",
+                "isbn": "9788962622867",
+                "description": "인문학과 과학의 통섭, 현란하고 매혹적인 시간여행의 역사!\n\n시간여행이라는 개념이 왜 우리를 사로잡았는지, 세상을 얼마나 바꾸었는지 흥미롭게 보여주는 『제임스 글릭의 타임 트래블』. 시간여행은 소설에서 시작된 단순한 아이디어였다. 과학과 철학 등 여러 분야에 영향을 주었지만, 어쨌든 우리가 시간여행을 가장 많이 접하는 것은 문학과 영화, 드라마 등 시간여행에 관한 ‘이야기’다. 그렇다면 우리는 왜 이렇게 시간여행 이야기에 매혹되는가?\n\n저명한 교양과학 저술가인 제임스 글릭은 이 책에서 자신의 영역을 문학과 영화, 대중문화 일반으로 넓힌다.  과학과 철학, 문학과 다양한 예술 장르가 ‘시간여행’이라는 매개를 통해 어떻게 소통하고 교류했는지 흥미진진하게 보여주며 독자들을 지적으로, 그리고 예술적으로도 한껏 자극한다. 노승영 번역자의 깔끔하고도 재치 있는 번역도 읽는 맛을 더하며 기존의 과학 독자뿐 아니라 인문학이나 문학 독자에게도 새로운 지적 경험을 선사한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "",
+                "UPDATE_DATE": "20190610",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "제임스 글릭 지음 ;노승영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "420.12",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "383 p.",
+                "CONTROL_NO": "CIP2019019410",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962622867",
+                "INPUT_DATE": "20190516",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(제임스 글릭의) 타임 트래블",
+                "PUBLISH_PREDATE": "20190529",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

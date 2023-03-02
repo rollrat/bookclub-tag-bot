@@ -1,0 +1,67 @@
+{
+    "otitle": "그레이트 스피치",
+    "oauthor": "하이웰 윌리엄스 저/정지현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그레이트 스피치 (마음을 움직이는 말의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467521501",
+                "image": "https://shopping-phinf.pstatic.net/main_3246752/32467521501.20221229073316.jpg",
+                "author": "하이웰 윌리엄스",
+                "discount": "13500",
+                "publisher": "소소의책",
+                "pubdate": "20171215",
+                "isbn": "9791196101237",
+                "description": "사람들은 왜 그들의 목소리에 귀를 기울이는가\n\n세상을 향해 외친 중대하고도 생생한 목소리, 공감하는 설득의 힘 『그레이트 스피치』는 현대 역사의 중심에 섰던 세계 정상들의 열정과 용기, 그리고 희망 어린 통찰을 담고 있다. 오랫동안 대중의 기억 속에 남아 있는 35명의 개성 넘치고 당당한 ‘그레이트 스피치’는 오늘날의 리더들에게까지 그 영향력을 미치고 있다. 변화하는 상황을 명확하게 인식하고 세상을 향해 자신의 목소리를 높였던 이들은 상대방의 마음을 움직이는 말의 힘과 기술을 가장 효과적으로 활용했다. 인권과 자유, 빈부 격차, 전쟁과 평화, 강자와 약자, 개인과 집단 등 국내외적인 문제뿐만 아니라 인류 보편의 원리에 입각해 다양한 관계 속의 갈등을 해결해나가는 모습은 시공간을 뛰어넘어 우리에게 많은 메시지를 던져준다. 품위와 존중은 내던져버리고 상대방을 헐뜯거나 협잡하는 말로 생채기를 내는 시대에 꼭 읽어야 할 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "808.5",
+                "UPDATE_DATE": "20171213",
+                "EA_ADD_CODE": "03340",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하이웰 윌리엄스 지음 ;정지현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "802.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6421553_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6421553_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6421553_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6421553_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "298 p.",
+                "CONTROL_NO": "CIP2017029336",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196101237",
+                "INPUT_DATE": "20171107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "그레이트 스피치",
+                "PUBLISH_PREDATE": "20171215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

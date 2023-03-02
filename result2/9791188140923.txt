@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 영원히 살아있네",
+    "oauthor": "장 도르메송 저/정미애 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 영원히 살아있네 (장 도르메송 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462308920",
+                "image": "https://shopping-phinf.pstatic.net/main_3246230/32462308920.20221019152344.jpg",
+                "author": "장 도르메송",
+                "discount": "13950",
+                "publisher": "북레시피",
+                "pubdate": "20190927",
+                "isbn": "9791188140923",
+                "description": "박식하고 열정적이며 친절한 대지식인의 에너지 넘치는 이야기를 통해 듣게 되는 인류의 역사!\n\n프랑스 국민작가이자 철학가인 장 도르메송이 그려낸 인류의 역사 『나는 영원히 살아있네』. 늘 대중 곁에 있던 프랑스 국민지식인의 마지막 소설로, 인류 역사를 일인칭인 '나'로 써 내려간 작품이다. 소설 속의 '나'는 선사시대부터 그리스 로마 신화의 시대를 거쳐 온갖 문명이 흥하고 또 쇠하는 것을 지켜보며 지금 이 순간까지 살아있는 화자로, 동굴에서 지내던 시절부터 현재까지 인류의 모든 이야기를 들려준다. \n\n'나'는 아프리카인, 수메르인, 트로이인, 아킬레우스와 율리시스의 친구, 로마시민, 유랑하는 유대인의 모습으로 쉼 없이 환생하며 인쇄술발명과 신대륙 발견, 1789년 프랑스 혁명, 과학의 진보와 발전을 가까이서 지켜본다. 그리고 뱃사람, 생트 주느비에브 산 인근의 선술집 여종업원, 유명한 화가나 천문학자의 집사, 황제의 연인으로 예루살렘, 비잔틴, 베네치아, 뉴욕에서 살아간다. 풍자와 쾌활함이 넘쳐나는 이 거대한 탐사와 동경의 대상을 쫓아가는 긴 여정은 저자 자신의 지성의 자서전이라 할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북레시피",
+                "DDC": "",
+                "UPDATE_DATE": "20191014",
+                "EA_ADD_CODE": "03860",
+                "PUBLISHER_URL": "www.bookrecipe.co.kr",
+                "AUTHOR": "지은이: 장 도르메송 ;옮긴이: 정미애",
+                "SERIES_TITLE": "",
+                "KDC": "863",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "347 p.",
+                "CONTROL_NO": "CIP2019035978",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188140923",
+                "INPUT_DATE": "20190910",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 영원히 살아있네",
+                "PUBLISH_PREDATE": "20190927",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

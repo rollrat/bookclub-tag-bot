@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 안드로이드 앱 프로그래밍 - 개정8판",
+    "oauthor": "정재곤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 안드로이드 앱 프로그래밍 (자바로 모바일 앱 개발하기, 개정8판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463158654",
+                "image": "https://shopping-phinf.pstatic.net/main_3246315/32463158654.20230110162658.jpg",
+                "author": "정재곤",
+                "discount": "34560",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20210628",
+                "isbn": "9791163032625",
+                "description": "안드로이드 분야 1위 도서!\n《Do it! 안드로이드 앱 프로그래밍》 개정 8판이 나왔다!\n\n안드로이드 11 버전과 안드로이드 스튜디오 4.2 버전을 반영한 《Do it! 안드로이드 앱 프로그래밍》의 개정 8판이 나왔다. 이번 개정판에도 입문자를 위한 안드로이드 스튜디오 사용법을 담았고, 그동안 독자에게 받은 질문 등을 반영해 편의와 완성도를 높였다. 또한 소스 코드의 호환성을 검증하고 최근 경향에 맞게 예제를 직접 설계하고 다듬었다. 강사를 길러 내는 명강사로 알려진 안드로이드 전문가이자 프로그래머인 저자의 명쾌한 설명과 함께 모바일 앱 개발을 시작해 보자. 저자의 동영상 강의를 유튜브에서 무료로 시청할 수 있어서 전문 학원에 다니는 것처럼 배울 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱(주)",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "저자 : 정재곤",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정8판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "40,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "800",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163032625",
+                "INPUT_DATE": "20210601",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "N",
+                "TITLE": "Do it! 안드로이드 앱 프로그래밍(개정8판)",
+                "PUBLISH_PREDATE": "20210623",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

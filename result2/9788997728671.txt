@@ -1,0 +1,89 @@
+{
+    "otitle": "곰아, 자니?",
+    "oauthor": "조리 존 글/벤지 데이비스 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:26 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "곰아, 자니?",
+                "link": "https://search.shopping.naver.com/book/catalog/32441199245",
+                "image": "https://shopping-phinf.pstatic.net/main_3244119/32441199245.20230207165656.jpg",
+                "author": "조리 존",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20150321",
+                "isbn": "9788997728671",
+                "description": "곰을 못 살게 구는 오리가 있습니다. 이 오리가 폭력을 사용하느냐? 아닙니다. 그러면 곰의 ‘덩치가 작으냐?’ 하면 그것은 더더욱 아닙니다. 곰의 덩치, 산만합니다. 오리의 열 배쯤 된다고 보시면 됩니다. 왜 산만한 곰이 작은 오리에게 괴롭힘을 당하는지 궁금하지 않으신가요? [곰아, 자니?]는 ‘내 얘기’ 같아 친근한 우정에 관한 즐거운 이야기를 들려줍니다."
+            },
+            {
+                "title": "곰아, 자니?",
+                "link": "https://search.shopping.naver.com/book/catalog/32505588941",
+                "image": "https://shopping-phinf.pstatic.net/main_3250558/32505588941.20220527031008.jpg",
+                "author": "조리 존",
+                "discount": "0",
+                "publisher": "북극곰",
+                "pubdate": "20150915",
+                "isbn": "9788997728978",
+                "description": "『곰아, 자니?』는 곰을 못 살게 구는 한 오리의 이야기입니다. 투박하면서 덤덤한 곰과 익살과 장난으로 가득한 오리는 썩 잘 맞는 사이는 아니지만, 서로의 다른 면에 끌려 오랫동안 사이 좋게 지낸 친구입니다. 아무렇지 않은 척 ‘놀자’는 오리와 그런 오리 때문에 너무 괴로운 곰의 표정은 따뜻하고 익살스런 그림으로 만나보세요."
+            },
+            {
+                "title": "Goodnight Already! (『곰아, 자니?』원서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478434682",
+                "image": "https://shopping-phinf.pstatic.net/main_3247843/32478434682.20221227210219.jpg",
+                "author": "Jory John",
+                "discount": "7200",
+                "publisher": "HarperCollins",
+                "pubdate": "20150326",
+                "isbn": "9780008101350",
+                "description": "곰을 못 살게 구는 오리가 있습니다.\n이 오리가 폭력을 사용하느냐? 아닙니다. 그러면 곰의 ‘덩치가 작으냐?’ 하면 그것은 더더욱 아닙니다.\n곰의 덩치, 산만합니다. 오리의 열 배쯤 된다고 보시면 됩니다.\n왜 산만한 곰이 작은 오리에게 괴롭힘을 당하는지 궁금하지 않으신가요?\n'내 얘기’ 같아 친근한 우정에 관한 즐거운 이야기를 들려줍니다.\n\nA hilarious bedtime story from debut children’s book author Jory John, and Benji Davies, illustrator of Storm Whale.\n\nMeet Bear. He's exhausted. All he wants is to go to sleep. Meet Duck, Bear's persistent next-door neighbour. All he wants is to hang out . . . with Bear."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20150401",
+                "EA_ADD_CODE": "77840",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "조리 존 글; 벤지 데이비스 그림; 이순영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4399717_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4399717_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015005970",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997728671",
+                "INPUT_DATE": "20150223",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "곰아, 자니?",
+                "PUBLISH_PREDATE": "20150321",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

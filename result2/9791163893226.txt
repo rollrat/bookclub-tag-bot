@@ -1,0 +1,67 @@
+{
+    "otitle": "농구의 신",
+    "oauthor": "키자키 나나에 저/미즈노 미나미 그림/김동주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "농구의 신 (평화로운 부활동 시작 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493055887",
+                "image": "https://shopping-phinf.pstatic.net/main_3249305/32493055887.20220527031606.jpg",
+                "author": "키자키 나나에",
+                "discount": "10800",
+                "publisher": "소미미디어",
+                "pubdate": "20190228",
+                "isbn": "9791163893226",
+                "description": "그래도 역시 농구가 좋아.\n모두와 함께 승리하고 싶다. 그것뿐이야――! \n\n누구보다 최선을 다했던 탓에 자신의 의지와는 반대로 \n농구부 안에서 외톨이가 된 이쿠.\n\n더 이상 부활동은 하지 않겠다고 결심한 이쿠는, \n아는 사람이 전혀 없는 고등학교로 진학한다.\n \n하지만 중학 시절 이쿠의 플레이를 기억하고 있던 농구부 부장이 \n집요하게 농구부에 들어올 것을 권유한다. \n그런 부장의 열의에 꺾인 이쿠는 저도 모르게 내뱉고 말았다. \n‘다시 한 번 농구를 하고 싶다’고. \n\n목표는 전국대회. \n한번은 농구를 포기했던 소년들의 열혈 청춘 그라피티!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20190410",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "키자키 나나에 지음 ;미즈노 미나미 일러스트 ;김동주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "273 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163893226",
+                "INPUT_DATE": "20190116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "농구의 신",
+                "PUBLISH_PREDATE": "20190228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

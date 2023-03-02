@@ -1,0 +1,67 @@
+{
+    "otitle": "신체의 소사전",
+    "oauthor": "다카하시 나가오 저/강석영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "신체의 소사전 (약보다 더 효용이 있는 몸의 사전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485094192",
+                "image": "https://shopping-phinf.pstatic.net/main_3248509/32485094192.20221229072806.jpg",
+                "author": "다카하시 나가오",
+                "discount": "4500",
+                "publisher": "전파과학사",
+                "pubdate": "19800201",
+                "isbn": "9788970440187",
+                "description": "사람은 일생동안 몇 가지 일을 기억할 수 있을까? 코로부터 증발하는 하루의 수량은? 현대의학이 밝혀주는 인간의 몸의 신비, 스마트한 화제로 가득찬 책. 이 책에는 여러분의 신체의 비밀이 씌어 있습니다.\n어느 페이지부터 읽어도 됩니다. 여러분의 신체의 어느 부분에든 눈이 번쩍 뜨이는 조화의 묘가 번뜩입니다. 최신 과학이 알려주는 신체의 '백과사전' 참신하고 신기한 화제가 가득 찬 여러분의 신체의 안내서입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19930427",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "다카하시 나가오 저 ; 강석영 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "3000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970440186",
+                "INPUT_DATE": "19930427",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "N",
+                "TITLE": "신체의 소사전",
+                "PUBLISH_PREDATE": "19930530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

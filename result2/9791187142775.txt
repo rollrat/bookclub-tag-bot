@@ -1,0 +1,67 @@
+{
+    "otitle": "리비우스 로마사 2",
+    "oauthor": "티투스 리비우스 저/이종인 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "리비우스 로마사 2 (끝나지 않는 전쟁)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466694769",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466694769.20221019134327.jpg",
+                "author": "티투스 리비우스",
+                "discount": "19800",
+                "publisher": "현대지성",
+                "pubdate": "20190320",
+                "isbn": "9791187142775",
+                "description": "생생하게 펼쳐지는 로마의 역사적인 순간들!\n\n로마와 관련된 가장 중요한 저작물인 『리비우스 로마사』. 트로이에서 탈출한 아이네아스(Aeneas)가 이탈리아에 정착한 이야기(기원전 753년)에서 시작하여 로물루스(Romulus)와 레무스(Remus)의 로마 건국을 지나 리비우스 자신이 살았던 아우구스투스(Octavianus Gaius Julius Caesar) 시대까지, 약 744년간의 로마를 다루고 있다. 『리비우스 로마사』 제2권은 원서 6-10권을 담은 것으로, 기원전 389년에서 기원전 293년까지 약 백 년 동안 벌어진 끝나지 않는 전쟁을 흥미진진하게 다루고 있다. 티투스 리비우스는 화려한 문장으로 장엄한 장면을 연출하기도 하고, 긴박한 상황에서는 문장을 짧게 해 긴박감을 더하고, 전투를 묘사할 때는 극적인 어휘를 사용하여 사실감을 주며 사실이 나열된 딱딱한 역사서를 읽는 것이 아니라, 마치 블록버스터 영화를 보는 듯한 느낌을 주는데, 이러한 특징으로 2000년이 넘는 시간 동안 많은 사람의 사랑을 받고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20190402",
+                "EA_ADD_CODE": "04920",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자: 티투스 리비우스 ;역자: 이종인",
+                "SERIES_TITLE": "리비우스 로마사",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791187142331",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "502 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9791187142775",
+                "INPUT_DATE": "20190307",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "리비우스 로마사",
+                "PUBLISH_PREDATE": "20190320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04920 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

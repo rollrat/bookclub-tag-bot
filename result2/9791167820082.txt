@@ -1,0 +1,67 @@
+{
+    "otitle": "어제 그거 봤어?",
+    "oauthor": "이자연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어제 그거 봤어? (TV 속 여자들 다시 보기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464111693",
+                "image": "https://shopping-phinf.pstatic.net/main_3246411/32464111693.20221227204402.jpg",
+                "author": "이자연",
+                "discount": "12960",
+                "publisher": "상상출판",
+                "pubdate": "20210802",
+                "isbn": "9791167820082",
+                "description": "드라마·예능·영화·다큐·애니를 여성주의 시선으로 낱낱이 분석하다!\n우리가 알지도 못한 채 사라져 버린 TV 속 여자들의 이야기\n\n브런치에 올린 [하이킥 시리즈에는 책상이 없다]라는 글이 트위터를 비롯한 각종 커뮤니티에서 ‘충격 주의!’라는 제목으로 회자되면서 저자 이자연의 통찰력이 화제가 되었다. 이 책은 이토록 섬세한 시선을 지닌 7년 차 에디터이자 칼럼니스트인 저자가 예능·드라마·영화·다큐·애니 29가지를 꼽아 여성주의 관점으로 낱낱이 분석한 문화비평에세이다.\n\n우리가 흔히 즐겨 보는 프로그램에서 자연스럽게 등장하는 젠더 차별과 여성 간의 연대를 날카롭게 집어냈으며, TV의 오락적인 요소일 뿐이라며 지극히 사소하고 당연한 것으로 치부하던 문제들을 수면 위로 올렸다. 화면에서 미뤄지고, 배제되고, 지워진 여자들의 진짜 모습이 드디어 우리 눈앞에 등장한 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210910",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이자연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167820082",
+                "INPUT_DATE": "20210714",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "어제 그거 봤어?",
+                "PUBLISH_PREDATE": "20210802",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

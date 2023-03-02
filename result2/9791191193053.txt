@@ -1,0 +1,67 @@
+{
+    "otitle": "그날, 그곳에서",
+    "oauthor": "이경희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그날, 그곳에서 (이경희 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466648665",
+                "image": "https://shopping-phinf.pstatic.net/main_3246664/32466648665.20230131165220.jpg",
+                "author": "이경희",
+                "discount": "11700",
+                "publisher": "안전가옥",
+                "pubdate": "20210129",
+                "isbn": "9791191193053",
+                "description": "《테세우스의 배》 이경희 작가가 선보이는 처연하고도 뜨거운 타임리프 SF 신작!\n\n시간을 되돌릴 수 있다면, 과거로 돌아갈 수 있다면 지금 우리는 모두 함께 행복할지도 모르는데…! 엄마 대신 목숨을 구했다는 죄책감에 괴로워하던 2045년의 해미에게 시간을 거슬러 2025년의 엄마를 살릴 기회가 주어진다. \n\n누구에게나 가정법의 세계가 존재한다. 그 세계에 매몰된 누군가는 평생 도돌이표처럼 후회하며 불행을 자처하기도 한다. ‘만약 그날 그런 말을 하지 않았더라면….’ ‘만약 그곳에서 좀 더 일찍 벗어났더라면….’ 다시는 나처럼 후회할 일을 만들지 않겠다는 듯 물속으로 뛰어들어 사람을 구하는 일을 직업으로 택했지만, 어쩔 수 없이 생명을 떠나보낼 때마다 거듭 상처 입으며 살아가고 있는 2045년의 해미. 그런 그녀에게 도저히 거부할 수 없는 제안이 들어온다. 시간여행을 할 수 있는 기회. 2025년의 그날 그곳으로 가서 엄마를 살릴 수 있는 기회. 과연 그녀는 엄마를 살리고 엉망으로 뒤틀려 버린 인생을 구할 수 있을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "안전가옥",
+                "DDC": "",
+                "UPDATE_DATE": "20210309",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이경희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "420 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191193053",
+                "INPUT_DATE": "20210119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "그날, 그곳에서",
+                "PUBLISH_PREDATE": "20210129",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

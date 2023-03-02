@@ -1,0 +1,67 @@
+{
+    "otitle": "위대한 환자들의 정신병리",
+    "oauthor": "이병욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "위대한 환자들의 정신병리 (천재적인 예술가들의 삶과 죽음을 돌아보다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506502620",
+                "image": "https://shopping-phinf.pstatic.net/main_3250650/32506502620.20220527075454.jpg",
+                "author": "이병욱",
+                "discount": "0",
+                "publisher": "학지사",
+                "pubdate": "20150911",
+                "isbn": "9788999707681",
+                "description": "[위대한 환자들의 정신병리]는 음악과 무용의세계, 색채와조형의 세계, 시의 세계, 소설과 희곡의 세계, 자살한 천재들에 대해 다룬다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)학지사",
+                "DDC": "616.85",
+                "UPDATE_DATE": "20151021",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.hakjisa.co.kr",
+                "AUTHOR": "이병욱 저",
+                "SERIES_TITLE": "",
+                "KDC": "513.85",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4816003_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4816003_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "400",
+                "CONTROL_NO": "CIP2015022698",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788999707681",
+                "INPUT_DATE": "20150818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "위대한 환자들의 정신병리",
+                "PUBLISH_PREDATE": "20150911",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

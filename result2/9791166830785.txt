@@ -1,0 +1,78 @@
+{
+    "otitle": "초등 영어책 읽기의 기적",
+    "oauthor": "미쉘 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:08 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "초등 영어책 읽기의 기적 (혼자서도 영어책 술술 읽는 아이로 키우기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474283813",
+                "image": "https://shopping-phinf.pstatic.net/main_3247428/32474283813.20230218110637.jpg",
+                "author": "미쉘",
+                "discount": "13830",
+                "publisher": "넥서스",
+                "pubdate": "20210825",
+                "isbn": "9791166830785",
+                "description": "평생 영어 실력은 영어책 읽기가 결정한다.\n영어가 유창해지는 다독의 힘\n\n사교육 없이 독서를 즐기는 아이로 키운 미쉘 선생님의 현실적 교육 안내서\n우리 아이들이 당장 읽을 수 있는 수준별 추천 영어책 500권\n\n엄마표 영어 교육을 하기 위해 어떤 책이 좋으며 언제, 어떤 방식으로 영어를 노출해야 하는지 많은 엄마들이 궁금해 한다. 그런데 이보다 더 중요하고 신중하게 고려해야 할 것은 어떻게 아이와 관계를 형성하고, 아이에게 사랑을 표현하느냐이다. 이렇게 아이와 먼저 정신적으로 서로 준비를 한 후에 영어 노출과 습관을 어떤 식으로 할 것인가 고민해야만 성공적인 엄마표 교육이 될 수 있다."
+            },
+            {
+                "title": "가성비 영어 (초등 영어, 짬짬이 영어책 읽기의 기적)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492748109",
+                "image": "https://shopping-phinf.pstatic.net/main_3249274/32492748109.20221228073043.jpg",
+                "author": "박소윤",
+                "discount": "12150",
+                "publisher": "팬덤북스",
+                "pubdate": "20170727",
+                "isbn": "9791161690087",
+                "description": "에는 사교육의 체계와 엄마표 맞춤 교육의 장점이 한데 담겨 있다. 집에서 가르치자니 이렇게 해도 되는 걸까 싶고, 막상 학원에 보내자니 아이가 흥미를 잃어 맞춤 교육을 해야 하나 싶은 엄마들에게 방향성을 제시한다. \n\n\n\n짬짬이 영어책을 읽는 것만으로도 초등 영어의 기틀을 다지기는 충분하며, 영어책 읽기가 영어 교육에 어떤 영향을 미치는지 이 책을 통해 밝히고자 한다. 그와 더불어 아이들이 영어책에 푹 빠지게 만드는 전략과 효과적으로 영어책을 읽게 하는 방법도 함께 제시한다. \n\n\n\n특히 아이의 상상력과 창의력을 자극하는 창의적 독후 활동에는 다년간 아이들을 가르쳐 온 저자만의 특별한 노하우가 담겨 있다. 책을 읽기 전 아이의 마음을 사로잡는 방법, 독후 활동의 핵심인 대화를 이끌어 내는 법, 사고를 확장하는 쓰기 활동 등 책 한 권으로 다양한 활동을 전개할 수 있는 방법이 나와 있다. 누군가를 가르치는 것이 처음인 엄마들도 쉽게 따라 할 수 있도록 각 단계별로 친절한 설명도 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20210923",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "미쉘 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "299 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166830785",
+                "INPUT_DATE": "20210426",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "초등 영어책 읽기의 기적",
+                "PUBLISH_PREDATE": "20210825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

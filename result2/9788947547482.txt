@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 아파트 대신 강꼬빌딩을 산다",
+    "oauthor": "황준석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 아파트 대신 강꼬빌딩을 산다 (신흥 슈퍼리치들이 선택한 부의 레벨업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486483402",
+                "image": "https://shopping-phinf.pstatic.net/main_3248648/32486483402.20230226071230.jpg",
+                "author": "황준석",
+                "discount": "15560",
+                "publisher": "한국경제신문",
+                "pubdate": "20210914",
+                "isbn": "9788947547482",
+                "description": "꼬마빌딩 하면 돈을 많이 버는 사람, 재산을 많이 물려받은 사람들이 주인이라고 지레짐작하며 감히 건물주가 될 꿈도 꾸지 않는다. 그래서 관심을 두지 않고 재테크 방법으로 고려하지도 않는다. 그러나 꼬마빌딩 주인들은 특별한 사람들이 아니다. \n\n\n\n의사나 변호사 같은 전문직도 있지만 택시 기사, 회사원, 공무원 등 대부분 평범한 직업의 보통 사람들이다. 큰돈을 버는 사업가나 많은 재산을 물려받은 사람만이 아니라 평범한 직장인도 건물주가 될 수 있다. 분명한 목표를 세우고 공부해나가면 레버리지를 활용해 얼마든지 가능한 일이다.\n\n\n\n이 책은 강남에서만 여러 채의 빌딩을 매입하고 직접 건축하며 임대관리회사까지 운영하고 있는 ‘연금형부동산 연구소’ 황준석 소장의 신작이다. 그는 우리나라 월급쟁이들이 열심히 일하고도 퇴사 후 수중에 아파트 한 채가 전부여서 노후가 준비되지 않는 현실을 안타까워하며, 아파트가 아닌 꼬마빌딩으로 더 빠른 경제적 자유와 노후 불안에서 벗어날 것을 제안한다. 그리고 오랫동안 강남에서 꼬마빌딩을 매입하고, 짓고, 관리하며 얻은 노하우를 이 책에 모두 풀어놓았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20211006",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "황준석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947547482",
+                "INPUT_DATE": "20211006",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "나는 아파트 대신 강꼬빌딩을 산다",
+                "PUBLISH_PREDATE": "20210914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

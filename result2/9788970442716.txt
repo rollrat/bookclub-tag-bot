@@ -1,0 +1,67 @@
+{
+    "otitle": "쉽게 배우는 중요 과학법칙 163가지 해설",
+    "oauthor": "윤실 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "중요 과학 법칙 163가지 해설 (쉽게배우는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32495811716",
+                "image": "https://shopping-phinf.pstatic.net/main_3249581/32495811716.20221019134840.jpg",
+                "author": "윤실",
+                "discount": "10800",
+                "publisher": "전파과학사",
+                "pubdate": "20100325",
+                "isbn": "9788970442716",
+                "description": "『중요과학법칙 163가지 해설』은 과학의 발전사에서 가장 중요하면서, 과학 교과서와 잡지 및 신문방송에 자주 등장하는 법칙과 이론 164가지를 모아, 그것이 알려진 연대순에 따라 과학의 역사를 곁들여 해설한 것이다. 각 항목은 연관된 법칙까지 소개하고 있어 전체적으로 200개 이상의 과학법칙을 소개하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "43400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "윤실 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970442716",
+                "INPUT_DATE": "20100309",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(쉽게 배우는) 중요 과학 법칙 163가지 해설 ",
+                "PUBLISH_PREDATE": "20100325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

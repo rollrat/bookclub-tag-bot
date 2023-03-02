@@ -1,0 +1,67 @@
+{
+    "otitle": "굿 컴퍼니, 착한 회사가 세상을 바꾼다",
+    "oauthor": "로리 바시,에드 프라운헤임앤 맥무러,래리 코스텔로 공저/퓨처디자이너스 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "굿 컴퍼니: 착한 회사가 세상을 바꾼다 (위대한 기업을 지속가능하게 만드는 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456304656",
+                "image": "https://shopping-phinf.pstatic.net/main_3245630/32456304656.20220527062008.jpg",
+                "author": "로리 바시",
+                "discount": "0",
+                "publisher": "틔움출판",
+                "pubdate": "20121122",
+                "isbn": "9788998171025",
+                "description": "착한 회사를 만드는 7가지 정치ㆍ경제ㆍ사회적 압력을 주목하라!\n\n『굿 컴퍼니: 착한 회사가 세상을 바꾼다』은 '착한회사지수'를 통해 포춘 100대 기업은 물론 우리 주변의 회사를 평가할 수 있는 방법론을 제시한다. 우선 사회적 가치의 시대를 개괄적으로 보여주고 조직의 관점에서 사회적 가치를 어떻게 볼 것인가에 대해 설명한다. 이어 본격적으로 착한 회사가 되기 위한 필수 요소들을 자세히 살펴보고, 아시아 지역에서 이런 개념들이 어떻게 적용되고 있는지 둘러본다. 기업에 대한 직원과 소비자의 객관적인 평가, 처벌과 벌금형을 받은 기업 분석 자료, 과도한 경영진 보수 지급 내역, 자선 활동 등 방대한 자료 분석을 기반으로 개발된 '착한회사지수'는 기업의 미래를 결정하는 선행지표로 충분히 활용가능할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "틔움출판",
+                "DDC": "",
+                "UPDATE_DATE": "20130322",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.tiumbooks.com",
+                "AUTHOR": "로리 바시,에드 프라운헤임,단 맥무러,래리 코스텔로 지음 ;퓨처디자이너스,정지훈,송인혁,최형욱,류한석,박다혜,장인형 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998171025",
+                "INPUT_DATE": "20130227",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "굿컴퍼니 ",
+                "PUBLISH_PREDATE": "20120204",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

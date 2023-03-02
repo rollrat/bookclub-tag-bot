@@ -1,0 +1,67 @@
+{
+    "otitle": "크게외쳐",
+    "oauthor": "박현숙 글/김지현 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "크게 외쳐",
+                "link": "https://search.shopping.naver.com/book/catalog/32436152458",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436152458.20221019131704.jpg",
+                "author": "박현숙",
+                "discount": "8550",
+                "publisher": "살림어린이",
+                "pubdate": "20110530",
+                "isbn": "9788952215741",
+                "description": "건강한 삶의 힘을 느끼게 해줄게!\n\n2006년 대전일보 신춘문예에 동화가 당선되어 문단에 나온 동화작가 박현숙의 『크게 외쳐』. 한센병 후유증으로 우리 사회에서 소외받는 사람들과 그들의 가족에 대한 이야기를 담고 있다. 엄마와 함께 한센병을 앓은 적이 있는 사람들이 가족과 함께 살아가는 다래촌으로 이사오게 된 소녀 '슬비'를 중심으로 이야기를 이끌어나간다. 슬비는 모든 것이 낯설고 두렵기만 하다. 학교 친구들에게 다래촌에 산다는 사실을 감추느라 스스로를 두려움과 원망 속에 가둔다. 하지만 다래촌 친구 강산이가 친절하게 대해주는 것도 못마땅하다. 그런데 학교 친구들에게 다래촌에 사는 아이라고 따돌림을 받아도 의연하게 행동해온 강산이가 의정이가 던진 한마디에 주먹을 날리는 사건이 발생하는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20170725",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "박현숙 글 ;김지현 그림",
+                "SERIES_TITLE": "살림 5·6학년 창작 동화 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "188 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "04",
+                "EA_ISBN": "9788952215741",
+                "INPUT_DATE": "20110621",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "크게 외쳐!",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

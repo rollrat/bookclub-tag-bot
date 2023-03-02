@@ -1,0 +1,67 @@
+{
+    "otitle": "체리토마토파이",
+    "oauthor": "베로니크 드 뷔르 저/이세진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "체리토마토파이",
+                "link": "https://search.shopping.naver.com/book/catalog/32444874958",
+                "image": "https://shopping-phinf.pstatic.net/main_3244487/32444874958.20221230071714.jpg",
+                "author": "베로니크 드 뷔르",
+                "discount": "13500",
+                "publisher": "청미",
+                "pubdate": "20190320",
+                "isbn": "9791189134044",
+                "description": "프랑스 편집자이자 작가인 베로니크 드 뷔르가 2017년에 발표한 두 번째 소설. 주인공 잔은 아흔 살, 외딴 시골 농가에서 혼자 사는 할머니다. 아흔 번째 봄을 맞던 날, 잔은 일기를 쓰기로 결심한다. 별일 없는 나날 속에서도 그날그날의 기분을 기록하고 문득 떠오르는 추억을 적어보기로 한 것이다. \n\n\n\n늙은이의 특권이라면 자유로이 쓸 수 있는 시간이 아주 많다는 것, 잔은 이 넘쳐나는 시간을 자기가 하고 싶은 일로 채우며 살기를 원한다. 그녀는 언제까지나 자기 집 정원에서 꽃이 피는 광경을 보고 싶고. 친구들과 백포도주 한잔을 즐기고 싶다. \n\n\n\n유일한 이웃인 옆집 농가 부부의 좌충우돌을 언제까지나 지켜보고 싶고, 벤치에 누운 채 아무 생각 없이 하늘의 별을 바라보면서 내년에도 이 별들을 다시 볼 수 있기를 소망한다. 잔은 자식 손자 들을 위해 냉장고에 맛있는 음식을 채워두기 좋아하지만 혼자 살기를 좋아한다. 이 일 년 동안의 일기는 노년의 소소한 행복, 인생에서 피할 수 없는 슬픔을 우리에게 고스란히 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청미",
+                "DDC": "",
+                "UPDATE_DATE": "20190404",
+                "EA_ADD_CODE": "03860",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "베로니크 드 뷔르 지음 ;이세진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "863",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "427 p.",
+                "CONTROL_NO": "CIP2019008823",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189134044",
+                "INPUT_DATE": "20190307",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "체리토마토파이",
+                "PUBLISH_PREDATE": "20190320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

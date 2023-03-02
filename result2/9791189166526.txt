@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 예쁘지 않습니다",
+    "oauthor": "배리나 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 예쁘지 않습니다 (화장을 지우고 페미니스트가 되다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444878046",
+                "image": "https://shopping-phinf.pstatic.net/main_3244487/32444878046.20221227204000.jpg",
+                "author": "배리나",
+                "discount": "13320",
+                "publisher": "북로그컴퍼니",
+                "pubdate": "20181024",
+                "isbn": "9791189166526",
+                "description": "현재 10~30대 여성들 사이에서는 ‘탈코르셋’이 화두로 떠오르고 있다. 화장, 날씬한 몸매, 제모, 긴 머리 등 사회가 여성들에게 강요하는 외모 기준을 코르셋이라 하는데, 이러한 이상적인 여성적 아름다움을 거부하는 선언적 움직임을 탈코르셋이라 한다.\n\n\n\n탈코르셋 운동에서 가장 화제가 되는 인물은 단언컨대 배리나다. 이 책의 저자이자, 그 유명한 탈코르셋 영상 &lt;나는 예쁘지 않습니다&gt;(2018.6)를 찍은 뷰티 유튜버. 다른 사람도 아닌 뷰티 유튜버가 화장을 지우고 탈코르셋 선언을 한 이 영상은 한 달 만에 조회수 200만, 누적 조회수 500만에 육박할 정도로 큰 화제를 불러일으켰다.\n\n\n\n배리나의 이야기이지만, 동시에 모든 여성의 이야기이기도 하다. 한국에서 사는 여성이라면 누구나 한 번쯤 느꼈을 감정들, 상황들… 읽어 내려가다 보면 ‘이건 내 얘긴데?’ 하는 지점이 반드시 보인다. 다시 말해 외모 강박과 코르셋은 배리나의 개인적인 경험담에 국한되지 않는다. 모든 여성들을 옥죄고 있는 그물과도 같다.\n\n\n\n이 책은 코르셋이 무엇이며 탈코르셋을 어떻게 해야 하는지 알려주는 이론서가 아니다. 현실적으로 코르셋을 놓기 힘들어하는 여성들에게 건네는 따뜻한 위로이자, 외모 강박에서 벗어나려는 사람들에게 보내는 응원이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로그컴퍼니",
+                "DDC": "305.4",
+                "UPDATE_DATE": "20181030",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "배리나 지음",
+                "SERIES_TITLE": "",
+                "KDC": "337.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6945863_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6945863_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6945863_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "236 p.",
+                "CONTROL_NO": "CIP2018032502",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189166526",
+                "INPUT_DATE": "20181010",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 예쁘지 않습니다",
+                "PUBLISH_PREDATE": "20181024",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

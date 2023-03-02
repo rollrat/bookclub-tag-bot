@@ -1,0 +1,67 @@
+{
+    "otitle": "개혁교의학 개요",
+    "oauthor": "헤르만 바빙크 저/원광연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "개혁교의학 개요 (하나님의 큰 일)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463206358",
+                "image": "https://shopping-phinf.pstatic.net/main_3246320/32463206358.20221019105731.jpg",
+                "author": "헤르만 바빙크",
+                "discount": "22500",
+                "publisher": "CH북스(크리스천다이제스트)",
+                "pubdate": "20171222",
+                "isbn": "9788944724572",
+                "description": "『개혁교의학 개요』는 바빙크가 자신의 방대한 분량의 《개혁교의학》을 직접 요약한 것이다. 그는 성도들이 《개혁교의학》을 쉽게 이해할 수 있도록 평이한 언어로 쓰기 위해 노력했다. 바빙크는 이 책을 통해 과학, 철학, 기독교 역사, 기독교 신학을 명료하게 정리하고 있다. 방대한 사상과 지식과 역사를 다루기 때문에 내용이 어려울 수 있지만, 배경지식이 없는 독자들도 쉽게 접근할 수 있도록 각 내용마다 친절하게 안내한다. 또한 이 책은 성경을 수없이 인용하여 성경의 근본 가르침을 선명하고 명확하게 드러낸다. 이러한 면에서 이 책은 교리서임에 분명하다. 그러나 어떤 면에서 바빙크 자신의 신앙고백이라고 할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "CH북스 :크리스천다이제스트",
+                "DDC": "",
+                "UPDATE_DATE": "20180105",
+                "EA_ADD_CODE": "04230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자: 헤르만 바빙크 ;역자: 원광연",
+                "SERIES_TITLE": "세계 기독교 고전",
+                "KDC": "",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788944700002",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "0*0",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "715 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788944724572",
+                "INPUT_DATE": "20171204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "개혁교의학 개요",
+                "PUBLISH_PREDATE": "20171222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04230 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

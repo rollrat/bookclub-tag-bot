@@ -1,0 +1,67 @@
+{
+    "otitle": "삼천아살 2",
+    "oauthor": "십사랑 저/서미영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "삼천아살 2",
+                "link": "https://search.shopping.naver.com/book/catalog/32439706668",
+                "image": "https://shopping-phinf.pstatic.net/main_3243970/32439706668.20221019152914.jpg",
+                "author": "십사랑",
+                "discount": "13050",
+                "publisher": "한스미디어",
+                "pubdate": "20210428",
+                "isbn": "9791160076011",
+                "description": "[줄거리]\n상고시대, 대연국의 중신 좌상이 적국인 천원국과 내통하여 대연국은 멸망한다.\n대연국 황제의 딸 제희는 조양대에서 〈동풍도화〉라는 곡으로 천하에 다시없을 춤을 추어 화려한 이름을 떨친 인물이다. 나라가 멸망할 때 가까스로 몸을 피한 그녀는 선을 수련하는 곳인 향취산에 숨어 담천이라는 이름의 심부름꾼으로 살아간다. 천하가 요괴를 부리는 천원국의 노예가 되는 고통을 목도하며, 백성을 구하기 위하여 요괴를 막기 위해 목숨을 걸고 어떤 귀물을 찾기로 맹세했기 때문이다.\n그리고 그곳에서 그녀는 자신을 배신한 옛 연인과, 오랜 옛날부터 자신을 지켜봐온 일편단심의 남자를 만나게 되는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어(한즈미디어)",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "04820",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "십사랑 ;서미영",
+                "SERIES_TITLE": "삼천아살",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791160075991",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "362 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9791160076011",
+                "INPUT_DATE": "20210412",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "삼천아살",
+                "PUBLISH_PREDATE": "20210428",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04820 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

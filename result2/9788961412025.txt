@@ -1,0 +1,67 @@
+{
+    "otitle": "그림으로 쉽게 배우는 실전 축구 골키퍼 기술",
+    "oauthor": "박영수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그림으로 쉽게 배우는 실전 축구 골키퍼 기술 (GK 입문자와 프로 선수는 물론 지도자를 위한 완벽 기술서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441454788",
+                "image": "https://shopping-phinf.pstatic.net/main_3244145/32441454788.20221129171706.jpg",
+                "author": "박영수",
+                "discount": "0",
+                "publisher": "중앙생활사",
+                "pubdate": "20170520",
+                "isbn": "9788961412025",
+                "description": "국내 최초 AFC 골키퍼 강사가 알려주는 GK 스킬의 모든 것! \n\n축구에서 최후의 방어막으로 골문을 지키는 골키퍼는 팀의 승패에 결정적인 역할을 하는 매우 중요한 포지션이다. 이 책은 골키퍼 출신으로, 남자축구 대표팀을 비롯한 다수의 대표팀 코치를 역임하였으며, 국내 최초로 AFC(아시아축구연맹) 골키퍼 강사로 활동 중인 박영수 코치가 알려주는 골키퍼 핵심 스킬의 모든 것을 담았다. 어떻게 하면 세계적인 골키퍼를 육성할 수 있을지 고민해온 저자가 골키퍼 이론과 기술, 코칭법까지 그림과 사진을 곁들여 정리한 이 책이 GK 입문자와 프로 선수는 물론 지도자에게 큰 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)중앙생활사",
+                "DDC": "382",
+                "UPDATE_DATE": "20170621",
+                "EA_ADD_CODE": "03690",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "박영수",
+                "SERIES_TITLE": "",
+                "KDC": "326.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6206942_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6206942_3.jpg",
+                "PRE_PRICE": "19500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "264페이지",
+                "CONTROL_NO": "CIP2017010027",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788961412025",
+                "INPUT_DATE": "20170420",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "그림으로 쉽게 배우는 실전 축구 골키퍼 기술",
+                "PUBLISH_PREDATE": "20170520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

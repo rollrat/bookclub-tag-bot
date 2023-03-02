@@ -1,0 +1,67 @@
+{
+    "otitle": "초3부터 진로 코칭",
+    "oauthor": "김기영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초3부터 진로 코칭 (유튜브 시대, 어떻게 내 아이의 경쟁력을 갖출까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444951713",
+                "image": "https://shopping-phinf.pstatic.net/main_3244495/32444951713.20230214163647.jpg",
+                "author": "김기영",
+                "discount": "10800",
+                "publisher": "넥서스",
+                "pubdate": "20201210",
+                "isbn": "9791191209471",
+                "description": "초3부터 내 아이를 상위 1%로 만들기 위한 전략\n디지털 시대를 대비하는 10대와 부모님이 꼭 읽어야 할 책"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20210209",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "김기영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "372.68",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/26/9791191209471.JPG",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "206 p.",
+                "CONTROL_NO": "CIP2020050523",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191209471",
+                "INPUT_DATE": "20201126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "초3부터 진로코칭",
+                "PUBLISH_PREDATE": "20201210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

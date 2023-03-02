@@ -1,0 +1,67 @@
+{
+    "otitle": "한 줄 정리의 힘",
+    "oauthor": "아사다 스구루 저/황혜숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한 줄 정리의 힘 (모든 지식을 한 줄로 압축하고, 설명하는 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445563644",
+                "image": "https://shopping-phinf.pstatic.net/main_3244556/32445563644.20221019124238.jpg",
+                "author": "아사다 스구루",
+                "discount": "13500",
+                "publisher": "센시오",
+                "pubdate": "20191216",
+                "isbn": "9791190356077",
+                "description": "배운 것을 업무에 활용하는 한 줄 정리법!\n\n배우는 행위 그 자체에 만족하고 당장의 호기심을 충족시키는 방식으로 학습해서는 배운 것을 오래 기억할 수 없을뿐더러 업무에 활용할 수도 없다. 내가 배운 것을 수입으로 이어지게 하려면 한 줄로 요약하고 표현하는 힘이 있어야 한다. 『한 줄 정리의 힘』은 무엇을 위해 이것을 배우는지 목적을 명확히 하고, 내용의 핵심과 본질을 파악하기 위해 저자가 고안한 획기적인 학습법인 ‘20자, 한 줄 정리법’을 소개하는 책이다.\n\n사람은 누구나 What, Why, How의 의문으로 사물을 이해한다. 각자의 성향에 따라 무게 중심을 두는 의문사가 다를 뿐이다. 저자는 이 책에서 자신이 깨달은 것을 각 의문사에 대입하여 미리 질문을 만들고, 그에 답하는 방식으로 지식을 정리하여 타인에게 제대로 설명하는 방법을 키우도록 도와준다. 이를 통해 하는 일이 무엇이든 나의 만족이 아니라 타인에게 도움을 주는 언어로 표현하는 것, 이것이 지식을 수익으로 연결하는 포인트임을 일깨워준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "센시오",
+                "DDC": "",
+                "UPDATE_DATE": "20191220",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "아사다 스구루 지음 ;황혜숙 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "373.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/19/9791190356077.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "213 p.",
+                "CONTROL_NO": "CIP2019037944",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190356077",
+                "INPUT_DATE": "20190924",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "한 줄 정리의 힘",
+                "PUBLISH_PREDATE": "20191216",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

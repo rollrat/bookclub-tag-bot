@@ -1,0 +1,67 @@
+{
+    "otitle": "탐정 혹은 살인자",
+    "oauthor": "지웨이란 저/김락준 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "탐정 혹은 살인자",
+                "link": "https://search.shopping.naver.com/book/catalog/32492212415",
+                "image": "https://shopping-phinf.pstatic.net/main_3249221/32492212415.20221229072616.jpg",
+                "author": "지웨이란",
+                "discount": "13320",
+                "publisher": "북로드",
+                "pubdate": "20180326",
+                "isbn": "9791158790837",
+                "description": "스토리콜렉터 62권. 지웨이란의 첫 소설로, 대학에서 은퇴하고 사설탐정 사무소를 차린 우청이 연쇄 살인범으로 몰리면서 벌어지는 이야기를 그린 블랙 코미디 소설이자 탐정 소설이다. 발표되자마자 타이완 문학계에 큰 파문을 일으키며 불과 두 달 만에 5쇄를 찍고 수많은 베스트셀러 차트 상위를 차지했다. \n\n\n\n또한 타이베이 국제 도서전 대상, 「중국시보」 문학상, 금정상(도서 부문) 등 타이완에서 최고 권위를 자랑하는 굵직한 문학상을 휩쓸었으며, 「아시아 위클리」 선정 중국 소설 TOP 10, 타이완 문학상에 노미네이트됐다. 금마장 영화제 신인 감독상을 수상한 장영치 감독이 2018년 현재 이 소설을 원작으로 영화 제작을 계획하고 있다. \n\n\n\n대학 교수이자 유명한 극작가 우청. 그는 자신이 극본을 쓴 연극의 뒤풀이 자리에서 끔찍한 주사를 부리고 만다. 결국 자괴감에 빠져 대학 강단과 연극계까지 떠나 허름한 뒷골목에서 사설탐정으로 변신, 은둔 생활을 시작한다. 타이완 최고(?) 사설탐정이라고 자부하지만, 현실은 남의 불륜이나 캐고 다니는 신세.\n\n\n\n첫 의뢰를 해결하기 위해 고군분투하던 어느 날, 이 오래되고 조용한 동네에 타이완 최초의 계획적인 연쇄  살인 사건이 일어난다. 특별한 공통점이나 목격자도 없고 믿을 건 오로지 CCTV뿐. 경찰은 살해 현장과 피해자 주변을 담은 CCTV를 분석하고 그중 두 명의 피해자와 공통적으로 함께 찍힌 용의자를 찾아낸다. 경찰서로 불려간 우청은 눈앞에 놓인 CCTV 화면 속 용의자의 모습을 바라보며 속으로 외친다. '아니, 내가 왜 저기에 있지?'"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로드 :더난콘텐츠그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20180412",
+                "EA_ADD_CODE": "03820",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "지은이: 지웨이란 ;옮긴이: 김락준",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "427 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158790837",
+                "INPUT_DATE": "20180223",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "탐정 혹은 살인자",
+                "PUBLISH_PREDATE": "20180326",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

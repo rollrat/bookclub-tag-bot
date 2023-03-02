@@ -1,0 +1,78 @@
+{
+    "otitle": "시시콜콜 조선복지실록",
+    "oauthor": "박영서 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:23 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "시시콜콜 조선복지실록 (단 한 명의 백성도 굶어 죽지 않게 하라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440571527",
+                "image": "https://shopping-phinf.pstatic.net/main_3244057/32440571527.20230218110553.jpg",
+                "author": "박영서",
+                "discount": "13500",
+                "publisher": "들녘",
+                "pubdate": "20220210",
+                "isbn": "9791159257155",
+                "description": "조선을 복지국가로서 규정하고 조선의 사례를 통해 오늘날 우리 사회의 더 나은 미래를 고민하게 하는 책. 조선의 통치자는 안녕하지 못한 상태에 있는 백성을 구제하고자 끊임없이 노력하였고, 백성들은 민소를 써내는 등 제한적이나마 정치에 참여하여 정책의 수혜를 입고자 노력하였다. 특히 백성을 구휼하려는 통치자의 의지는 ‘단 한 명의 백성도 굶어 죽지 않게 하라’는 목표로 축약된다.\n\n\n\n이 책은 조선 복지 정책의 핵심에 사람에 대한 존중과 사랑, 즉 인(仁)이 자리하고 있었던 까닭이라고 분석한다. 조선의 설계자들은 빈곤층을 포함하여 모든 사람이 인격적 완성을 이룰 가능성을 가지고 있다고 믿었다. 그리하여 복지 정책을 통해 모두가 공동체의 일원으로 참여하게 되고 인의 가치가 확장되는 이상 사회를 꿈꿨다. 그랬기에 빈곤자를 돕는 일을 결코 낭비로 여기지 않았다."
+            },
+            {
+                "title": "시시콜콜 조선복지실록 (큰글자도서) (단 한 명의 백성도 굶어 죽지 않게 하라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489144768",
+                "image": "https://shopping-phinf.pstatic.net/main_3248914/32489144768.20221229071758.jpg",
+                "author": "박영서",
+                "discount": "35000",
+                "publisher": "들녘",
+                "pubdate": "20220510",
+                "isbn": "9791159257285",
+                "description": "조선을 복지국가로서 규정하고 조선의 사례를 통해 오늘날 우리 사회의 더 나은 미래를 고민하게 하는 책. 조선의 통치자는 안녕하지 못한 상태에 있는 백성을 구제하고자 끊임없이 노력하였고, 백성들은 민소를 써내는 등 제한적이나마 정치에 참여하여 정책의 수혜를 입고자 노력하였다. 특히 백성을 구휼하려는 통치자의 의지는 ‘단 한 명의 백성도 굶어 죽지 않게 하라’는 목표로 축약된다.\n\n\n\n이 책은 조선 복지 정책의 핵심에 사람에 대한 존중과 사랑, 즉 인(仁)이 자리하고 있었던 까닭이라고 분석한다. 조선의 설계자들은 빈곤층을 포함하여 모든 사람이 인격적 완성을 이룰 가능성을 가지고 있다고 믿었다. 그리하여 복지 정책을 통해 모두가 공동체의 일원으로 참여하게 되고 인의 가치가 확장되는 이상 사회를 꿈꿨다. 그랬기에 빈곤자를 돕는 일을 결코 낭비로 여기지 않았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20220314",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "박영서 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*223",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159257155",
+                "INPUT_DATE": "20220121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "시시콜콜 조선복지실록",
+                "PUBLISH_PREDATE": "20220210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

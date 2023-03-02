@@ -1,0 +1,67 @@
+{
+    "otitle": "아빠, 경영학이 뭐예요?",
+    "oauthor": "심윤섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아빠, 경영학이 뭐예요? (아빠가 들려주는 10대를 위한 경영 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32559382827",
+                "image": "https://shopping-phinf.pstatic.net/main_3255938/32559382827.20230218110454.jpg",
+                "author": "심윤섭",
+                "discount": "10800",
+                "publisher": "예문당",
+                "pubdate": "20120105",
+                "isbn": "9788970015538",
+                "description": "다양한 경영의 원리와 기법 그리고 자기 경영의 기틀을 마련하기 위한 교훈이자 실천서이다. 아빠와 미래(딸)의 대화 형식을 통해 생활 속 곳곳에 숨어 있는 경영학의 원리를 청소년의 눈높이에 맞추어 쉽게 설명하고 있어서 아이에서 어른까지 재미있게 볼 수 있고, 사회와 기업에 대한 이해의 폭을 넓히고, 나아가 자신의 꿈과 목표를 효율적으로 경영할 수 있게 해준다.\n\n\n\n아직 경영학이 무엇인지 알지 못하는 청소년들도 이 책에서 들려주는 아빠와 딸의 대화를 따라가다 보면 기업과 자본의 흐름, 생산과 유통, 조직문화에 대해 이해하고 스스로 경영에 대한 궁금증을 가지고 배워나가게 될 것이다. 또한 자기 경영으로 성공적인 삶을 이끌어낸 사람들이 주는 교훈을 통해 각자의 인생을 올바로 경영할 수 있게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문당",
+                "DDC": "",
+                "UPDATE_DATE": "20120104",
+                "EA_ADD_CODE": "43320",
+                "PUBLISHER_URL": "www.yemundang.com",
+                "AUTHOR": "심윤섭 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2527373_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2527373_3_1.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2527373_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2527373_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2011005556",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970015538",
+                "INPUT_DATE": "20111109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "아빠, 경영학이 뭐예요? ",
+                "PUBLISH_PREDATE": "20120105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

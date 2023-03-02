@@ -1,0 +1,67 @@
+{
+    "otitle": "마흔이 처음이라",
+    "oauthor": "황상열 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마흔이 처음이라 (흔들리는 불혹을 위한 인생 공부)",
+                "link": "https://search.shopping.naver.com/book/catalog/35464707627",
+                "image": "https://shopping-phinf.pstatic.net/main_3546470/35464707627.20221101113507.jpg",
+                "author": "황상열",
+                "discount": "13500",
+                "publisher": "바이북스",
+                "pubdate": "20221115",
+                "isbn": "9791158773151",
+                "description": "흔들리는 불혹을 위한 인생 공부. 많은 사람들에게 글쓰는 삶을 널리 전파하는 메신저로 활동하는 《닥치고 글쓰기》의 저자 황상열이 흔들리는 불혹을 위한 인생 공부인 《마흔이 처음이라》를 신작으로 세상에 내놓는다. 아직은 부족하지만 마흔 이후에 어떻게 살아야 할지에 대해 소개하고 같이 나누고 싶은 마음을 담았다. 이 책은 마흔과 쉰 사이 인생 전환기를 준비하는 중년에게 성장을 위해 시간을 견디는 노하우를 공유한다. “인생이 힘들고 지친 사람들이 글쓰기를　통해 인생의 반전을 일으킬 수 있도록 돕는 것”이 사명인 저자와 함께 마흔이, 쉰이 처음이 사람들이 삶의 나침반을 발견하기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20221221",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황상열 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221115",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "200 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158773151",
+                "INPUT_DATE": "20221020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "마흔이 처음이라",
+                "PUBLISH_PREDATE": "20221115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

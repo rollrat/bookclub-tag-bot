@@ -1,0 +1,67 @@
+{
+    "otitle": "사강의 말",
+    "oauthor": "야마구치 미치코 저/정수윤 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사강의 말 (삶은 고독과 사랑으로 가득 차 있다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483316028",
+                "image": "https://shopping-phinf.pstatic.net/main_3248331/32483316028.20221019131849.jpg",
+                "author": "야마구치 미치코",
+                "discount": "14400",
+                "publisher": "해냄출판사",
+                "pubdate": "20210915",
+                "isbn": "9791167145109",
+                "description": "프랑수아즈 사강의 사랑과 고독에 관한 말을 엮어낸 『사강의 말』.  사강은 인생에 대한 사탕발림 같은 환상을 벗어버리고 냉정하고 담담한 시선으로 인간의 고독과 사랑의 본질을 그리는 작가이다. 도덕에 얽매이지 않는 자유로운 감성과 섬세한 심리묘사로 여전히 전 세계의 많은 독자들의 사랑을 받고 있는 프랑수아즈 사강. 『사강의 말』에서 사강은 사랑과 고독은 인생에서 가장 중요하게 다뤄야 하는 것이라고 말한다. 사랑과 고독 없이 우리는 살아갈 수 없다며 사랑과 고독, 인생에 대한 이야기를 풀어낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄(해냄출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20211006",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "야마구치 미치코 지음 ;정수윤 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "119*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "229 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167145109",
+                "INPUT_DATE": "20210726",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사강의 말",
+                "PUBLISH_PREDATE": "20210915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

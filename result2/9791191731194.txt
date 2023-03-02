@@ -1,0 +1,67 @@
+{
+    "otitle": "그때그때 가볍게 산다",
+    "oauthor": "장성숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그때그때 가볍게 산다",
+                "link": "https://search.shopping.naver.com/book/catalog/32475054657",
+                "image": "https://shopping-phinf.pstatic.net/main_3247505/32475054657.20221019120706.jpg",
+                "author": "장성숙",
+                "discount": "12960",
+                "publisher": "새벽세시",
+                "pubdate": "20220418",
+                "isbn": "9791191731194",
+                "description": "심리학계의 전설, 장성숙 교수의  \n마음이 괴로운 이들을 위한 \n명쾌한 인생 처방전!\n\n“지금 여기에서, 스스로 행복하지 못하면 영원히 행복해질 수 없다. \n  행복은 남이 줄 수 없으며, 과거에 있지도 미래에서 오지도 않기 때문이다.”\n\n가톨릭대학교 심리학과 상담 전공 교수인 저자가 30년 이상 상담 활동을 하며 깨닫게 된 사실이다. 사는 게 힘들다고 아우성치는 사람들의 마음을 살펴보면, 마음이 언제나 ‘과거’에 머물고 있거나 ‘미래’에 가 있다. 과거는 분노나 후회의 감정에 휩싸이게 하고, 미래는 불안이나 두려움을 잔뜩 가져오는 탓이다. 게다가 행복은 외적 조건과도 아무런 관련이 없다. 아주 부유하다거나, 사회에서 우러러보는 직업을 가졌거나, 빼어난 미모를 가졌다거나 하는 것들은 행복을 보장해주는 ‘절대 수표’가 아니다. 저자는 말한다. 행복은 ‘지금 여기’에만 있고, 남이 만들어주거나 외부 상황들이 만드는 것이 아니라고. 장성숙 교수는 이 책에서 흔들리지 않고 살아갈 수 있도록 ‘마음의 뿌리’를 다루는 법을 담았다. 그 어떤 상황이 펼쳐지든, 그 누굴 만나든 그 해결책은 근본적으로 같기 때문이다. 독자들은 이 책을 통해, 다양한 상황 속에서 불행을 확실하게 끊어내고, 더 자유롭고 행복하게 살 수 있는 힘을 얻게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "새벽세시 :스몰빅미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20220602",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "www.smallbigmedia.com",
+                "AUTHOR": "장성숙 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/02/24/9791191731194.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191731194",
+                "INPUT_DATE": "20220224",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "그때그때 가볍게 산다",
+                "PUBLISH_PREDATE": "20220418",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

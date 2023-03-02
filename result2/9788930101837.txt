@@ -1,0 +1,67 @@
+{
+    "otitle": "여기, 우리가 만나는 곳",
+    "oauthor": "존 버거 저/강수정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여기 우리가 만나는 곳",
+                "link": "https://search.shopping.naver.com/book/catalog/32473025126",
+                "image": "https://shopping-phinf.pstatic.net/main_3247302/32473025126.20221019104754.jpg",
+                "author": "존 버거",
+                "discount": "13500",
+                "publisher": "열화당",
+                "pubdate": "20180705",
+                "isbn": "9788930101837",
+                "description": "존 버거의 2005년 작 소설. 우리 삶 속에 깊숙이 스며들어와 있는, '세상을 떠난 이들의 모습과 목소리'에 관한 이야기이다. 존 버거는 자신과 동일한 이름, 나이, 배경을 지닌 주인공을 등장시킴으로써 픽션과 에세이의 구분이라는 한계를 자유롭게 넘나든다.\n\n\n\n주인공 존은 유럽의 여러 도시를 다니면서 누군가를 떠올리고, 만나고, 대화를 나눈다. 그들은 다름 아닌 죽은 자들이고 이미 세상을 떠났지만, 존이 발 딛는 곳마다 어김없이 나타나 말을 건넨다. 돌아가신 어머니와 아버지, 옛 스승, 친구와 애인, 그리고 이름 모를 선사시대 예술가까지, 그들은 과거에 존과 함께 경험했던 일들을 추억하고, 존이 알지 못했던 것들을 일깨워주는 듯한 충고를 던지기도 한다.\n\n\n\n존 버거는 자신의 모든 작품을 관통하고 있는 철학적 주제ㅡ인간의 소명과 양심, 용기와 딜레마, 문명과 도시화에 의한 인간소외 등ㅡ를 결코 과장되지 않은, 극도로 명료한 문장으로 풀어낸다. 특히 생의 후반기에 접어든 노작가가 이 소설에서 선택한 '죽은 이'들의 목소리는, 세상을 보고 듣고 생각하고 추억하는 '또 다른 방법'이다.\n\n\n\n그는 나지막한 목소리를 통해 인간이 공유해야 할 가장 중요한 가치들을 하나씩 깨달아 가자고 역설한다. 우리가 던지는 수많은 질문들에 대한 해답은 그리 멀지 않으며, 아주 가까이 , 바로 '여기, 우리가 만나는 곳'에 있다는 암시가 소설 전반에 흐른다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열화당",
+                "DDC": "",
+                "UPDATE_DATE": "20060401",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.youlhwadang.co.kr",
+                "AUTHOR": "존 버거 [저];강수정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8930101836",
+                "INPUT_DATE": "20060401",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여기, 우리가 만나는 곳",
+                "PUBLISH_PREDATE": "20060320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

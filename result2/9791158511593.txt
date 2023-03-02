@@ -1,0 +1,67 @@
+{
+    "otitle": "억만장자 시크릿",
+    "oauthor": "라파엘 배지아그 저/박선령 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "억만장자 시크릿 (부의 공식을 뒤집은 자수성가 억만장자들의 20가지 전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482750938",
+                "image": "https://shopping-phinf.pstatic.net/main_3248275/32482750938.20230110162759.jpg",
+                "author": "라파엘 배지아그",
+                "discount": "14690",
+                "publisher": "토네이도",
+                "pubdate": "20191202",
+                "isbn": "9791158511593",
+                "description": "무일푼에서 시작해 큰 성공을 이룬 억만장자에게서 듣는 성공법칙!\n\n‘21세기의 나폴레온 힐’이라고 불리는 자기계발 전문가 라파엘 배지아그가 미국, 유럽을 비롯해 한국, 태국, 중국 등 전 세계를 누비며 5년간 직접 취재한 끝에 알아낸 최고 자산가들의 20가지 성공전략을 담은 『억만장자 시크릿』. 어떤 언론이나 책에서도 공개된 적 없는 이 시대 최고 슈퍼리치들의 사업과 세상을 바라보는 시각을 날카롭게 통찰한다. \n\n카카오 김범수 의장을 비롯해 압도적 성공을 거둔 21명의 자수성가 억만장자를 만난 저자는 그들만의 사업전략, 동기, 사고방식, 성장배경 등을 물어봤다. 국적도, 업계도 모두 제각각이었지만 21명의 슈퍼리치들에게는 놀랍게도 나름의 공통적인 특징이 있었고, 저자는 그렇게 알아낸 성공비결을 쉽게 따라 할 수 있도록 20가지로 정리했다.\n\n절대 어떤 것도 낭비하지 않으며 극도의 효율성을 추구하고, 늘 이른 아침에 일어나 간단한 운동을 빼먹지 않고 독서를 즐기는 등 자신이 세운 규칙을 엄격하게 따르고, 관성에서 벗어나 한 번도 꿔보지 않았던 꿈을 꾸고 뜨거운 열정으로 밀어붙인다면 누구나 성공할 수 있다고 이야기한다. 저자는 변화하는 시대, 전통적인 부자들이 아닌 자신만의 방식으로 맨손에서 부를 일궈낸 신흥부자들의 라이프스타일, 비즈니스 모델, 그 밖의 모든 것을 낱낱이 파헤친 이 책을 통해 인생의 새로운 반열에 오를 수 있기를 바라고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Tornado(토네이도)",
+                "DDC": "",
+                "UPDATE_DATE": "20191206",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.tornadobook.com",
+                "AUTHOR": "라파엘 배지아그 지음 ;박선령 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*223",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "CIP2019045434",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158511593",
+                "INPUT_DATE": "20191108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "억만장자 시크릿",
+                "PUBLISH_PREDATE": "20191202",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

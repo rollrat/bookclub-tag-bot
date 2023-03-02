@@ -1,0 +1,67 @@
+{
+    "otitle": "과학하고 앉아있네 2",
+    "oauthor": "원종우,이명현 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학하고 앉아있네 2: 이명현의 외계인과 UFO (외계 문명과 UFO는 있다? 없다?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444890717",
+                "image": "https://shopping-phinf.pstatic.net/main_3244489/32444890717.20221019134913.jpg",
+                "author": "원종우",
+                "discount": "6750",
+                "publisher": "동아시아",
+                "pubdate": "20150120",
+                "isbn": "9788962620948",
+                "description": "『과학하고 앉아있네 2: 이명현의 외계인과 UFO』는 팟캐스트 방송 ‘과학하고 앉아있네’를 책으로 엮은 교양과학 시리즈 중 그 두 번째 책이다. 과학이 어렵고 딱딱한 것이 아니라는 인식을 대중들에게 널리 퍼뜨리는 데 앞장서면서, 대중들과 함께 재미있는 과학 이야기를 하고자 하는 고품격 콜라보레이션을 추구한다. 다양한 과학자 및 과학 관계자들을 공개적으로 만나볼 수 있는 장을 마련하며, 그들과 함께하는 유쾌한 과학 토크쇼를 접할 수 있다는 것은 과학을 좋아하는 사람들에게는 사막의 오아시스와 같은 기쁨과 즐거움으로 다가올 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동아시아",
+                "DDC": "500",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "04400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "원종우, 이명현",
+                "SERIES_TITLE": "과학하고 앉아있네",
+                "KDC": "400",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4292362_6.txt",
+                "SET_ISBN": "9788962620924",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4292362_3.jpg",
+                "PRE_PRICE": "7500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015001361",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788962620948",
+                "INPUT_DATE": "20150112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "과학하고 앉아있네 2 이명현의 외계인과 UFO",
+                "PUBLISH_PREDATE": "20150120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04400 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

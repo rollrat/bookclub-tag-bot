@@ -1,0 +1,34 @@
+{
+    "otitle": "인도 100문 100답",
+    "oauthor": "이광수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:05 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "인도 100문 100답 (우리는 인도에 대해 너무 잘못 알고 있다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442705686",
+                "image": "https://shopping-phinf.pstatic.net/main_3244270/32442705686.20221019114437.jpg",
+                "author": "이광수",
+                "discount": "14850",
+                "publisher": "앨피",
+                "pubdate": "20180615",
+                "isbn": "9791187430278",
+                "description": "이 책은 저자의 강한 개성이 배어 있는 구어체 문투에 철저한 상대주의적 관점을 유지한다. 우리 시선과 관점이 아닌 인도의 관점, 인도인의 시각에서 인도의 과거사, 아픈 현대사, 복잡한 대외사, 오묘한 종교사, 관습과 삶의 태도를 이야기한다. ‘인도’라는 두 글자에 덧씌워진 각종 오해와 고정관념을 정면에서 반박하면서 그들이 얼마나 부지런하고 정치적이며 치열한지, 얼마나 웅숭깊고 자유롭고 억압적인지, 얼마나 민주적인 동시에 남성 위주에 모순됐는지 가감 없이 유쾌하게 정리해 나간다."
+            },
+            {
+                "title": "인도 100문 100답(큰글씨책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456408723",
+                "image": "https://shopping-phinf.pstatic.net/main_3245640/32456408723.20221019110757.jpg",
+                "author": "이광수",
+                "discount": "36000",
+                "publisher": "앨피",
+                "pubdate": "20210915",
+                "isbn": "9791190901536",
+                "description": "가볍게 묻고 뜨겁게 답하는\n최고 인도 전문가의 “이것이 진짜 인도다!”"
+            }
+        ]
+    }
+}

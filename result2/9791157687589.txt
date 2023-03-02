@@ -1,0 +1,67 @@
+{
+    "otitle": "비거니즘, 완벽하지 않아도 괜찮아",
+    "oauthor": "오지구요 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비거니즘, 완벽하지 않아도 괜찮아 (매일매일 행복해지는 가장 쉬운 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481691911",
+                "image": "https://shopping-phinf.pstatic.net/main_3248169/32481691911.20221019150833.jpg",
+                "author": "오지구요",
+                "discount": "13950",
+                "publisher": "동양북스",
+                "pubdate": "20211208",
+                "isbn": "9791157687589",
+                "description": "“왜 비건을 지향해야 하나요?”\n\n하루에 한 번, 비거니즘이 필요하다!\n사소한 시작으로 행복해지는 지구 공존 라이프\n\n〈비거니즘, 완벽하지 않아도 괜찮아〉는 인스타그램에서 비거니즘 실천 인스타툰을 연재했던 오지구요 작가의 비거니즘 입문서다. 저자가 직접 겪은 이야기를 포함하여 '왜' 비거니즘을 실천해야 하는지를 환경, 동물권, 건강 세 파트로 나누어 친절하게 설명한다. 더불어 비건과 관련하여 알아두면 좋은 상식들을 전한다. 귀여운 그림으로 그려져 있어 쉽고 가볍게 읽을 수 있으면서도 전하고자 하는 내용이 알차게 담겨 있어, 읽고 나면 당장이라도 지구를 위해 무언가를 실천하고 싶게 만드는 책이다.\n비거니즘 실천과 책을 제작하는 일은 환경 보호 측면에서 일정 부분 상충하지만, 책 한 권으로 많은 사람에게 선한 영향을 끼쳤으면 하는 마음과 종이 소비를 최소화하고자 수없이 고민하며 책을 펴냈다. FSC 인증을 받은 종이와 콩기름 잉크를 사용하여 인쇄하는 것은 물론, 속표지 바로 뒤에 목차가 등장하는 등의 파격적인 본문 구성으로 총 페이지를 줄여 남는 종이가 없도록 했다.\n\n아무 말 없이 우리를 품고 있는 거대한 지구는 계속해서 위험 신호를 보내고 있다. 말을 하지 못하는 지구를 대신하여 이 책은 말한다. ‘완벽하지 않아도 된다’고. 한 사람이 완벽하게 친환경 생활을 하는 것보다 여러 사람이 하루에 한 번이라도 노력해주는 것이 지구에 더 큰 도움이 된다고 말이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220117",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오지구요 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/11/26/9791157687589.jpg",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157687589",
+                "INPUT_DATE": "20211104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "비거니즘, 완벽하지 않아도 괜찮아",
+                "PUBLISH_PREDATE": "20211208",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

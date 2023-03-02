@@ -1,0 +1,78 @@
+{
+    "otitle": "섬마을 스캔들",
+    "oauthor": "김연진 글/양정아 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:21 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "섬마을 스캔들 (제2회 살림어린이 문학상 동화 부문 대상 수상작)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492053208",
+                "image": "https://shopping-phinf.pstatic.net/main_3249205/32492053208.20221019141847.jpg",
+                "author": "김연진",
+                "discount": "8550",
+                "publisher": "살림어린이",
+                "pubdate": "20130314",
+                "isbn": "9788952224187",
+                "description": "『섬마을 스캔들』은 전교생이 3명뿐이 학교가 폐교되지 않도록 힘쓰는 할머니들의 통쾌한 노력이 그려진 책이다. 아빠와 새엄마와 떨어져 새 외할머니와 함께 살기 위해 섬 ‘온도’로 건너온 다율이가 안정을 되찾고 성장한다. 세대 간의 교감, 따듯한 우정, 귀중한 가족애, 공부를 할 수 있는 환경의 소중함 등을 일깨워준다."
+            },
+            {
+                "title": "섬마을 스캔들 (제2회 살림어린이 문학상 동화 부문 대상 수상작)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497818634",
+                "image": "https://shopping-phinf.pstatic.net/main_3249781/32497818634.20221019150031.jpg",
+                "author": "김연진",
+                "discount": "8550",
+                "publisher": "살림",
+                "pubdate": "20120628",
+                "isbn": "9788952217547",
+                "description": "초등학교 고학년을 위한 「살림 5ㆍ6학년 창작동화」 제7권 『섬마을 스캔들』. 2008년 동화 《엄마의 정원》으로 제6회 푸른문학상 새로운 작가상을 수상한 후 2010년 문화일보 신춘문예에 동화 《나의 아름다운 세탁소》가 당선된 저자의 첫 번째 장편동화다. 엄마가 돌아가신 후 보육원에 맡겨졌던 경험이 있는 소녀 '다율이'가, 아빠와 새엄마와 떨어져 새 외할머니와 함께 살기 위해 섬 '온도'로 건너와 온도 분교에 다니면서 한 뼘 성장하는 이야기를 담아냈다. 특히 폐교 위기가 닥친 학교를 살리려는 할머니들의 통쾌한 반란을 그려내고 있다. 세대 간의 교감부터 따뜻한 우정, 귀중한 가족애뿐 아니라, 공부를 할 수 있는 환경의 소중함 등을 일깨운다. 그림작가 양정아의 개성 넘치는 밝고 경쾌한 그림을 함께 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "김연진 글 ;양정아 그림",
+                "SERIES_TITLE": "살림 5·6학년 창작 동화 ",
+                "KDC": "",
+                "EDITION_STMT": "개정 증보판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "07",
+                "EA_ISBN": "9788952224187",
+                "INPUT_DATE": "20130311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "섬마을 스캔들 ",
+                "PUBLISH_PREDATE": "20130220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "의학, 인문으로 치유하다",
+    "oauthor": "예병일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "의학, 인문으로 치유하다",
+                "link": "https://search.shopping.naver.com/book/catalog/32482024707",
+                "image": "https://shopping-phinf.pstatic.net/main_3248202/32482024707.20230223071001.jpg",
+                "author": "예병일",
+                "discount": "13050",
+                "publisher": "한국문학사",
+                "pubdate": "20150305",
+                "isbn": "9788987527390",
+                "description": "융합과 통섭의 지식 콘서트 4권. 다양한 분야와 관련된 의학을 소개함으로써 실험실 속에 갇혀 있는 의학이 아니라 무엇보다 인간 삶에 밀착된 의학이란 학문을 좀 더 가깝게 느끼도록 해준다.\n\n\n\n흔히 의학은 전문가만이 다룰 수 있는 어려운 학문으로 여겨진다. 그러나 사람의 생명을 다루는 학문인 만큼 의학은 거의 모든 학문이 의학 발전을 위해 기여할 정도로 광대한 분야를 섭렵한다. 환자는 의사가 과학적 근거가 분명한 처방으로 질병을 바로잡아주기를 기대하지만 그 과정에서 의사의 말투나 병원 분위기, 다른 사람과의 관계, 사회문화적 환경 등 수많은 요소가 치료에 직접적인 영향을 미친다. \n\n\n\n이것이 바로 의학을 역사, 예술, 문화와 사회, 윤리와 법, 첨단과학 등과 관련지어 융합의 눈으로 바라봐야 하는 이유다. 이에 발맞춰 오늘날 전 세계 의과대학에서도 과학적 의학 외에 인문학적 의학에 대한 교육을 강화하고 있다.\n\n\n\n현재 연세대학교 원주의과대학에서 의학도들을 길러내고 있는 저자는 이러한 취지의 일환으로 의학이 지닌 다양한 측면을 소개하면서, 의학이란 학문을 이해하는 방법과 그것이 나아가야 할 방향을 제시한다. 정재승 교수의 추천사처럼, “인간을 생명이 붙어 있는 살덩어리로만 바라보지 않고 세상과 상호작용하고 내성을 통해 자신을 바라보는 주체, 즉 의식을 가진 생명체로 바라보며 치유를 모색”하는 것이 바로 의학의 역할이라고 저자는 말한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)한국문학사",
+                "DDC": "",
+                "UPDATE_DATE": "20150421",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "예병일",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788987527390",
+                "INPUT_DATE": "20150129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "의학, 인문으로 치유하다",
+                "PUBLISH_PREDATE": "20150305",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

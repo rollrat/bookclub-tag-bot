@@ -1,0 +1,67 @@
+{
+    "otitle": "그저 그런 날에, 특별한 식탁",
+    "oauthor": "주현진,안주희,이지원 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그저 그런 날에, 특별한 식탁 (40만 팔로어가 인정한 메이스매거진 히트 레시피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492195008",
+                "image": "https://shopping-phinf.pstatic.net/main_3249219/32492195008.20221227205535.jpg",
+                "author": "주현진^안주희^이지원",
+                "discount": "15300",
+                "publisher": "브.레드",
+                "pubdate": "20181205",
+                "isbn": "9791196404116",
+                "description": "40만 팔로어가 인정한 &lt;메이스매거진&gt; 히트 레시피를 담았다. 카페에 가면 신메뉴부터 주문하고, 먹방 피드를 달군 메뉴는 꼭 만들어본다. 맛있는 것을 사랑하고, 음식을 만들 때면 뒷모습까지 즐거워지는 사람들이다. 이 호기심 많고 열정 넘치는 요리 탐험가들의 레시피를 소개한 요리웹진 &lt;메이스매거진&gt;에서 가장 반응이 뜨거웠던 메뉴 88가지를 골라 모았다. \n\n\n\n'메이스테이블'의 푸드스타일리스트들이 직접 만들어보고 마치 탐험을 하듯 '테스트키친'을 거쳐 찾아낸 전문가의 검증된 레시피가 담겨 있다. \"다마고샌드위치의 달걀구이는 유산지를 덮어 오븐에 구우면 예쁜 노란색이 된다\", \"로스트비프를 만들 때는 양념을 바른 덩어리 고기는 실온에 두었다가 구워야 겉과 속이 골고루 익는다\" 등 누구나 실패 없이 맛있는 음식을 완성할 수 있는 한 끗 차 요리 팁이 요긴하다.\n\n\n\n한번 만들어두면 특별한 반찬이나 디저트가 되고, 요리의 맛을 살리는 결정적 역할을 하는 저장식과 소스 레시피를 소개했으며,  메이스테이블 요리스튜디오에서 애용하는 식초와 소금, 향신료 등 음식 맛을 좌우하는 식재료와 치즈 그레이터, 나무 강판 등 음식 모양새를 업그레이드 시켜주는 도구 리스트를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "브.레드 컴퍼니(B.READ Company)",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20191119",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 안주희;저자 : 이지원;저자 : 주현진;",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7018755_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/18/9791196404116.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7018755_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "253",
+                "CONTROL_NO": "CIP2018037970",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196404116",
+                "INPUT_DATE": "20181119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "그저 그런 날에, 특별한 식탁",
+                "PUBLISH_PREDATE": "20181205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

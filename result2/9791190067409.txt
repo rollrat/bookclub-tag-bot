@@ -1,0 +1,67 @@
+{
+    "otitle": "서른의 규칙",
+    "oauthor": "수정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서른의 규칙 (서른이지만 열일곱입니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32460061126",
+                "image": "https://shopping-phinf.pstatic.net/main_3246006/32460061126.20230207162914.jpg",
+                "author": "수정",
+                "discount": "13050",
+                "publisher": "센세이션",
+                "pubdate": "20210225",
+                "isbn": "9791190067409",
+                "description": "“서른이지만 열일곱입니다”\n\n열일곱, 부모의 사랑과 보살핌이 필요한 어린 나이에 눈앞에서 엄마를 잃는 비극을 맞이했던 저자는, 그동안 가정의 비극으로 인해 생긴 깊은 상처를 철저하게 잘 숨겼다고 생각했다. 그런데 어느새 그 상처는 각종 트라우마와 습관이 되어 저자의 일상을 둘러싸고 있었다. 지금은 그때와 정반대의 삶을 살아가는 저자는 어디선가 자신과 비슷한 어려움을 겪는 사람들을 그대로 두고 볼 수 없어서 평생 숨긴 채 살고 싶었던 자신의 인생을 이 책을 통해 최초로 고백하기로 했다.\n\n“치료하지 않은 상처에는 흉터가 남는다”\n\n사랑에 집착하면서 혼자 있을 때 느끼는 불안과 공포의 근본적인 이유를 모르고 지내온 저자는, 과거의 트라우마로 생긴 분리불안 장애가 그 원인이라는 것을 28년 만에 알게 되었다. 그렇게 뼛속 깊이 묻혀 있던 상처의 근본적인 이유를 알게 된 후, 자신의 삶을 변화시키고자 이를 악물고 다양한 방법을 시도했다. 여러 권의 책을 읽거나 유명인의 강의를 듣기도 하고 할 수 있는 건 다 해봤다. 수많은 실패와 연이은 도전 끝에 이윽고 자기만의 자존감과 자신감을 되찾은 저자는, 자신이 실행했던 방법들을 한 권의 책에 모두 담아 나누고자 한다.\n\n“그동안 고생 많았어, 괜찮아.”\n\n‘내 삶을 이렇게 극복했으니 봐달라!’라는 고상한 이야기가 아니다. 저자는 여전히 자신의 삶 속에서 사랑하는 사람들과 생존하고 싶어 하는 지극히 평범한 인간이다. 하지만 생존하기 위해 수단과 방법을 가리지 않고 악을 쓰며 노력했고, 그 결과 예전과는 달라진 자신의 태도와 변화하고 있는 삶에 스스로 놀라고 있다. 이 놀라운 경험을 더 많은 사람에게 알리고, 함께 행복한 일상으로 한 걸음 내딛기를 바라는 저자는, 책을 통해 이 시대를 살아가는 청춘에게 꼭 필요한 따뜻한 진심을 건넨다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Sensation(센세이션)  :책인사",
+                "DDC": "",
+                "UPDATE_DATE": "20210707",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "수정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/01/27/9791190067409.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "248 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190067409",
+                "INPUT_DATE": "20210127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "서른의 규칙",
+                "PUBLISH_PREDATE": "20210225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

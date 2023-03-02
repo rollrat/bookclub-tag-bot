@@ -1,0 +1,67 @@
+{
+    "otitle": "물건으로 읽는 세계사",
+    "oauthor": "미야자키 마사카츠 저/박현아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "물건으로 읽는 세계사 (세계사에서 포착한 물건들의 파란만장한 연대기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503869906",
+                "image": "https://shopping-phinf.pstatic.net/main_3250386/32503869906.20230226071239.jpg",
+                "author": "미야자키 마사카츠",
+                "discount": "10620",
+                "publisher": "현대지성",
+                "pubdate": "20181205",
+                "isbn": "9791187142652",
+                "description": "커피가 어떻게 최초의 보험을 만들었을까?\n설탕은 어떻게 자본주의 경제를 일으켰을까?\n일상 속에서 발견한 역사 이야기\n\n‘이것’ 없이 여태껏 어떻게 살았을까 싶을 정도로 당연한 일상의 물건들. 이 평범한 물건에 대단한 역사가 숨겨져 있다면 어떨까? 베스트셀러 『하룻밤에 읽는 세계사』를 비롯해 다양한 각도에서 역사를 바라보던 미야자키 마사카츠가 이제는 무심코 지나치던 우리 주변의 물건들에 대해 이야기한다. 『물건으로 읽는 세계사』는 고대부터 21세기까지, 역사 속 물건들의 파란만장한 연대기를 파헤친다. 큰 강 유역, 대초원, 대양, 산업도시, 글로벌 사회까지, 세계사의 주요 무대가 된 장소들을 따라가며 역사의 순간마다 자리한 물건들의 숨겨진 이야기를 우리 앞에 펼쳐낸다. \n\n커피 하우스가 어떻게 세계 최초의 보험을 탄생시켰을까? 어쩌다 토마토가 정력의 상징이 되었을까? 흔히 알려진 역사에서는 알 수 없는 생활의 세계사를 만나보자. 꼬리에 꼬리를 무는 물건들의 이야기를 따라가다 보면 어느새 5,000년의 역사를 관통한 자신을 만날 수 있다. 책을 읽고 나면 동전, 커피, 설탕, 자동차, 슈퍼마켓, 냉장고처럼 우리가 매일 보던 물건들이 새롭게 보일 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20181213",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "미야자키 마사카츠 지음 ;박현아 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "213 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187142652",
+                "INPUT_DATE": "20181119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "물건으로 읽는 세계사",
+                "PUBLISH_PREDATE": "20181205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

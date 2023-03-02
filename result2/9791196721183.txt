@@ -1,0 +1,67 @@
+{
+    "otitle": "알아두면 쓸모가 생길지도 모르는 과학책",
+    "oauthor": "마티유 비다르 저/김세은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "알아두면 쓸모가 생길지도 모르는 과학책 (뭘 이런 것까지, 191가지 과학 드립)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482705719",
+                "image": "https://shopping-phinf.pstatic.net/main_3248270/32482705719.20230121071403.jpg",
+                "author": "마티유 비다르",
+                "discount": "13500",
+                "publisher": "반니",
+                "pubdate": "20191114",
+                "isbn": "9791196721183",
+                "description": "프랑스 국민 과학 라디오 프로그램, ‘라 테트 오 카레’ 10주년 기념작. 방송을 하면서 귀가 번쩍 뜨이는 흥미진진한 내용은 물론 궁금한 점, 새롭게 알게 된 사실을 빠짐없이 기록으로 남겼다. 일목요연한 목록과 분류, 다채로운 일화와 삽화는 물론, 백과사전식 설명과 주제에 따른 연대기 분석으로 이해의 폭을 넓히고 깊이를 더했다. \n\n\n\n인류의 지적 수준으로 끌어올리겠다며 천재들의 정자를 모아 은행을 만든 사업가가 있었다. 노벨상 수상자의 정자로 인류를 재편성하고자했던 그의 남다른 포부는 어떻게 되었을까? 태어난 아이 아빠가 내가 아니라면 얼마나 황당할까? \n\n\n\n낯선 곳에 도착한 첫날 밤, 유난히 밤잠을 설치는 이유가 있었다면 내가 유난히 예민한 게 아니라고 위로할 수 있을까? 인류의 역사 속에는 이해하기 힘든 속출한다. 과학적 증명이 가능하든 그렇지 않든 우리는 꾸준히 그 근원이 되는 과학적 사실을 파헤치려 노력한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마티유 비다르 ;김세은",
+                "SERIES_TITLE": "",
+                "KDC": "404",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p. ",
+                "CONTROL_NO": "CIP2019042793",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196721183",
+                "INPUT_DATE": "20191024",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "알아두면 쓸모가 생길지도 모르는 과학책 ",
+                "PUBLISH_PREDATE": "20191107",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

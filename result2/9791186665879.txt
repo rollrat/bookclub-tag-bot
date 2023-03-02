@@ -1,0 +1,67 @@
+{
+    "otitle": "요점만 말하는 책",
+    "oauthor": "조엘 슈월츠버그 저/곽성혜 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "요점만 말하는 책 (핵심만 콕 짚어 강력하게 말하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441638294",
+                "image": "https://shopping-phinf.pstatic.net/main_3244163/32441638294.20221230074759.jpg",
+                "author": "조엘 슈월츠버그",
+                "discount": "11240",
+                "publisher": "유노북스",
+                "pubdate": "20180307",
+                "isbn": "9791186665879",
+                "description": "핵심을 정확히 파악하고 전달하는 비법!\n\n읽고 시도해 보는 것만으로 흐리멍덩하고 횡설수설하는 사람에서, 요점을 갖추고 자신 있게 말하는 사람으로 바뀔 수 있도록 도와주는 『요점만 말하는 책』. 미국 토론협회 명예의 전당에 오른 토론 챔피언이 요점과 말하기의 9가지 비법을 들려주는 책이다. 막연한 생각으로 말끝을 흐리는 사람, 다른 사람들의 평가에 눈치를 많이 보는 사람, 자꾸 다른 얘기를 한다고 핀잔을 듣는 사람들에게 횡설수설하지 않고 요점만 말할 수 있는 방법을 알려준다.\n\n내 생각의 요점을 찾는 법, 요점을 정리하는 법, 요점을 제대로 전달하는 법을 다양한 예시와 사례를 들어 이해하기는 물론 바로 실습해 보기 쉽게 설명한다. 안 좋은 말 습관, 낮은 자신감 등이 요점을 흐릿하게 만들어 걱정인 사람들을 위해 세심한 말기술까지 담았다. 실제 상황에 대비한 7가지 시나리오까지 준비했고, 요점을 정리해 공고하게 만드는 법, 조리 있게 말하는 법, 이메일과 파워포인트에서도 쓰이는 요점 활용법 등을 통해 맥락과 상관없는 군더더기를 없애고 나의 생각과 상대방이 알아야 할 정보를 효과적으로 말할 수 있도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노북스",
+                "DDC": "658.45",
+                "UPDATE_DATE": "20180316",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조엘 슈월츠버그 지음 ;곽성혜 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.26",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6554454_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6554454_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "222 p.",
+                "CONTROL_NO": "CIP2018005168",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186665879",
+                "INPUT_DATE": "20180212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "요점만 말하는 책",
+                "PUBLISH_PREDATE": "20180307",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

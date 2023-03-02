@@ -1,0 +1,67 @@
+{
+    "otitle": "TAKE OFF 테이크 오프",
+    "oauthor": "이상규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Take Off(테이크 오프) (치열한 온라인 시장에서 마케팅 차별화를 위한 12가지 법칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436244909",
+                "image": "https://shopping-phinf.pstatic.net/main_3243624/32436244909.20221019131541.jpg",
+                "author": "이상규",
+                "discount": "16200",
+                "publisher": "나비의활주로",
+                "pubdate": "20211020",
+                "isbn": "9791190865470",
+                "description": "기업, 정부, 소상공인 전문 마케팅 컨설턴트가 2000회에 달하는 마케팅 컨설팅을 통해 얻어낸 제품, 서비스, 사람 간 시너지를 최적화하는 온라인 마케팅의 필수법칙\n마케팅 분야 톱 텐 4주 연속 1위\n《대한민국 리더들이 모르는 온라인 마케팅의 함정》 후속작"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나비의 활주로",
+                "DDC": "",
+                "UPDATE_DATE": "20220526",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이상규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "302 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190865470",
+                "INPUT_DATE": "20210929",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "테이크 오프",
+                "PUBLISH_PREDATE": "20211020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

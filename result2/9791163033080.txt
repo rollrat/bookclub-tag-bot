@@ -1,0 +1,89 @@
+{
+    "otitle": "Do it! 자바스크립트 입문",
+    "oauthor": "고경희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:37 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "Do it! 자바스크립트 입문",
+                "link": "https://search.shopping.naver.com/book/catalog/32454965958",
+                "image": "https://shopping-phinf.pstatic.net/main_3245496/32454965958.20230131162742.jpg",
+                "author": "고경희",
+                "discount": "16200",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20211101",
+                "isbn": "9791163033080",
+                "description": "프런트엔드, 백엔드에 모두 쓰는 자바스크립트 실무 문법\n웹 도서 1위 저자와 함께 한 권으로 끝내자!\n\n웹 개발 입문자부터 실무에서 자바스크립트를 사용할 현업 개발자까지 꼭 알아야 할 자바스크립트 필수 기초 문법을 웹 분야 베스트셀러 저자인 고경희 선생이 모두 모아서 한권에 담았다. 문법의 기본 사용 방법뿐 아니라 간단한 계산기 프로그램부터 폼 요소를 적용한 회원 가입 프로그램까지 11가지 프로그램을 직접 만들어 본다. 이를 통해 실무에서자바스크립트를어떻게 활용하는지 자연스럽게 익힐 수 있을 것이다.공부를 마친 후에는 [필수 개념&문법 퀴즈]와 [도전! 응용 문제]로 배운 내용을 점검하고 응용해 볼 수 있으며,더 많은 프로그램을 만들며 공부할 수 있도록 6가지 실전 프로젝트가 담긴 PDF 전자책까지 특별 부록으로 제공한다.\n\n※ 이 책은 2019년에 출간된 《Doit! 웹 프로그래밍을 위한 자바스크립트 기본 편》에ES6 이상의 문법과 최신 경향 등 독자의 요청을 반영한 개정판입니다."
+            },
+            {
+                "title": "Do it! 자바스크립트+제이쿼리 입문 (기본부터 실무까지, 쉽게 배우고 화려하게 표현한다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493226624",
+                "image": "https://shopping-phinf.pstatic.net/main_3249322/32493226624.20220527053057.jpg",
+                "author": "정인용",
+                "discount": "25200",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20140731",
+                "isbn": "9788997390434",
+                "description": "복사와 붙여넣기로 기초 없이 자바스크립트와 제이쿼리를 사용하는 웹 퍼블리셔와 개발자, 기획자, 이제는 코딩도 해야 하는 웹 디자이너에게 해답을 주는 책! 《Do it! 자바스크립트+제이쿼리 입문》은 자바스크립트, 제이쿼리 기본부터 접근성을 준수한 실무 활용까지 가능하도록 이끌어주는 책이다. 이 책에서는 자바스크립트 기초 문법과 제이쿼리를 익히고, 사이트 메인 페이지를 제작하여 GNB, 탭 메뉴, 롤링 배너, 슬라이드 배너, 퀵 메뉴 등을 실제로 적용해 본다. 또한 UX/UI 개발에 이슈가 되고 있는 어도비 에지의 핵심 사용법을 다뤄, 프로그래밍을 모르는 개발자도 동적인 HTML 콘텐츠를 제작할 수 있는 법을 소개했다. 또한 각 장의 핵심 내용을 뽑아 제작한 저자의 무료 동영상 강의는, 더 쉽게 이 책을 이해할 수 있게 도와줄 것이다."
+            },
+            {
+                "title": "Do it! 자바스크립트 + 제이쿼리 입문 (155개 예제로 기본 잡고, 반응형 웹부터 실무 활용 플러그인까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444023756",
+                "image": "https://shopping-phinf.pstatic.net/main_3244402/32444023756.20230207163954.jpg",
+                "author": "정인용",
+                "discount": "18000",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20180406",
+                "isbn": "9791163030034",
+                "description": "4년 연속 베스트셀러! 전면 개정판으로 출간!\n자바스크립트, 제이쿼리의 기본부터 실전에 필요한 핵심까지 모두 담았다!\n‘두잇 시리즈 최고 작품’이라 평가받은 책! 전면 개정판으로 더욱 알차게 만들었습니다! 이제는 웹 개발자뿐만 아니라 웹 퍼블리셔와 디자이너에게도 코딩 능력이 필요한 시대! 자바스크립트를 1도 모르겠다면? 프런트엔드 실무 교육 경력 10년 강사가 엄선한 155개의 예제로 기본부터 실무 활용까지 완벽하게 대비하세요. 실제 사이트에 적용하는 ‘반응형 웹 UI 만들기’까지 실습하고 나면 실무가 두렵지 않은 자신을 발견할 수 있을 것입니다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20211126",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "고경희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "345 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163033080",
+                "INPUT_DATE": "20211018",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(Do it!) 자바스크립트 입문",
+                "PUBLISH_PREDATE": "20211101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

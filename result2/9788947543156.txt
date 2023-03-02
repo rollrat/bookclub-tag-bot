@@ -1,0 +1,67 @@
+{
+    "otitle": "당신이 내게 최면을 걸었나요?",
+    "oauthor": "리안 모리아티 저/김소정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신이 내게 최면을 걸었나요? (사랑에 빠진 사람은 가끔 미치고 만다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485101785",
+                "image": "https://shopping-phinf.pstatic.net/main_3248510/32485101785.20221019152740.jpg",
+                "author": "리안 모리아티",
+                "discount": "14220",
+                "publisher": "마시멜로",
+                "pubdate": "20180208",
+                "isbn": "9788947543156",
+                "description": "전 세계를 사로잡은 《허즈번드 시크릿》, 《커져버린 사소한 거짓말》, 《정말 지독한 오후》의 저자 리안 모리아티의 또 하나의 매력적인 소설 『당신이 내게 최면을 걸었나요?』가 마시멜로에서 출간되었다. 그간 결혼한 여성의 삶과 가족 문제를 토대로 탁월한 가정 소설을 선보였던 리안 모리아티가 이번에는 결혼을 앞둔 싱글 여성의 삶과 연애 이야기로 돌아왔다. \n\n“사랑에 빠진 사람은 아주 미치고 만다”는 지그문트 프로이트의 강렬한 메시지로 첫 페이지를 여는 이 소설은, 사랑에 빠진 사람이라면 누구나 한번쯤 해봤을 법한 ‘미친 짓들’을 주요 소재로 다루면서도 결코 진부하지 않은 현실 공감 로맨스를 풀어나간다. 결혼 전 배우자를 찾기 전까지 남녀 사이에서 겪게 되는 무수히 많은 시행착오와 갈등은 물론, 주변에서 흔히 볼 수 있는 고민들(데이트 폭력-스토킹, 혼전임신, 싱글맘 · 싱글대디와의 연애 등)을 통해 우리 삶의 현실적인 문제들을 밀도감 있게 파헤친다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마시멜로",
+                "DDC": "",
+                "UPDATE_DATE": "20180226",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "리안 모리아티 지음 ;김소정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "627 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947543156",
+                "INPUT_DATE": "20180212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "당신이 내게 최면을 걸었나요?",
+                "PUBLISH_PREDATE": "20180208",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

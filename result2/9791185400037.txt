@@ -1,0 +1,78 @@
+{
+    "otitle": "이야기 체조",
+    "oauthor": "오쓰카 에이지 저/선정우 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:42 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "이야기 체조 (이야기를 만들기 위한 6가지 레슨)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490341670",
+                "image": "https://shopping-phinf.pstatic.net/main_3249034/32490341670.20221019135023.jpg",
+                "author": "오쓰카 에이지",
+                "discount": "13500",
+                "publisher": "북바이북",
+                "pubdate": "20140725",
+                "isbn": "9791185400037",
+                "description": "『이야기 체조』는 저자 오쓰카 에이지의 소설 작법서로 이야기의 기본 구조를 이용해 소설 쓰는 법을 알려주는 6개의 강의로 구성된 책이다. 저자는 누구나 소설을 쓰는 힘을 가지고 있기 때문에 약간의 재활 훈련을 하면 누구나 멋진 이야기를 만들 수 있다고 말한다. 책에서 제시한 매뉴얼을 충실하게 실행한다면 한 번도 소설을 써본 적이 없거나, 혹은 쓴 적은 있지만 완성하지 못했던 이들도 쉽게 이야기를 만들어낼 수 있을 것이다."
+            },
+            {
+                "title": "도포입고 ABC 갓 쓰고 맨손체조 (신문화의 발상지 배재학당 이야기) (배재학당 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/33435600679",
+                "image": "https://shopping-phinf.pstatic.net/main_3343560/33435600679.20221229072412.jpg",
+                "author": "윤성렬",
+                "discount": "9000",
+                "publisher": "학민사",
+                "pubdate": "20040925",
+                "isbn": "9788971931660",
+                "description": "이 책은 120년 전 학당 설립에서부터 일제 강점 하 민족의 암흑기까지 활동했던 배재학당에 대해 테마별로 엮어 쓴 신교육 이야기이자 신문화 이야기, 민족운동 이야기이다. 또한 개화기 민중들의 전근대적 삶과 생각이 신문화를 만나 충돌하고 갈등하면서 새로운 삶의 형태로 전화되어 가는 과정에서 일어난 여러 에피소드들은 이 책을 읽는 재미와 즐거움을 듬뿍 안겨준다...."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "808.3",
+                "UPDATE_DATE": "20141007",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오쓰카 에이지",
+                "SERIES_TITLE": "",
+                "KDC": "802.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3766651_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3766651_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014020594",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400037",
+                "INPUT_DATE": "20140707",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이야기 체조",
+                "PUBLISH_PREDATE": "20140721",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

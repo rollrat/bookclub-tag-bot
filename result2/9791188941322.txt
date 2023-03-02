@@ -1,0 +1,89 @@
+{
+    "otitle": "고고학의 역사",
+    "oauthor": "브라이언 페이건 저/성춘택 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:11 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "고고학의 역사 (인류 역사의 발자취를 찾다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445174622",
+                "image": "https://shopping-phinf.pstatic.net/main_3244517/32445174622.20230103162756.jpg",
+                "author": "브라이언 페이건",
+                "discount": "20700",
+                "publisher": "소소의책",
+                "pubdate": "20191018",
+                "isbn": "9791188941322",
+                "description": "매력적인 고고학의 세계!\n\n지금으로부터 약 250년 전에 탄생한 고고학의 출발점부터 전 세계적인 학문으로 자리 잡은 현재에 이르기까지의 과정을 통해 인간의 생태학적·문화적인 다양성을 이해하는 교양의 토대가 되어주는 『고고학의 역사』. 한국 독자들에게도 낯익은, 고고학과 인류학계에서 세계적으로 널리 알려진 학자이자 베스트셀러 작가인 브라이언 페이건은 이 책에서 고고학에 대한 뛰어난 통찰과 능수능란한 문체를 구사하여 독자들을 고고학의 매력적인 세계로 안내한다.\n\n고고학이 학문으로 태동하던 18세기에서 시작해 고고학사에서 중요한 발견이나 발굴, 새로운 전환점이 된 학설이나 체계, 기술 등의 역사를 40개 챕터로 나누어 이야기하며, 매우 유명한 고고학자들의 업적을 바탕으로 우연한 관찰로부터 21세기의 체계적인 연구조사단에 이르기까지 고고학의 역사를 말한다."
+            },
+            {
+                "title": "수중 고고학의 역사",
+                "link": "https://search.shopping.naver.com/book/catalog/32456409688",
+                "image": "https://shopping-phinf.pstatic.net/main_3245640/32456409688.20221227204833.jpg",
+                "author": "김도현",
+                "discount": "30600",
+                "publisher": "한국학술정보",
+                "pubdate": "20181101",
+                "isbn": "9788926886076",
+                "description": "우리나라에서 수중고고학 탐사나 발굴조사가 시작된 지 어언 40년이 흐른 지금도, 수중고고학이 학문적으로 정립되지 않은 것으로 생각된다. 그러므로 그간의 발굴조사 성과를 정리, 분석하고, 외국의 주요 사례들과 비교ㆍ검토하여 수중고고학의 발달과정과 현황을 정리해 볼 필요가 있다. 아울러 연구 방법, 방향 등을 제시할 수 있다면, 우리나라 수중고고학의 발전에 도움이 될 수 있을 것이다."
+            },
+            {
+                "title": "100대 미스터리 1: 신비한 보물 역사 고고학 (신비한 보물과 미스터리 / 역사와 문화 속의 미스터리 / 고고학의 미스터리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496629716",
+                "image": "https://shopping-phinf.pstatic.net/main_3249662/32496629716.20220527025406.jpg",
+                "author": "편집부",
+                "discount": "40500",
+                "publisher": "황우",
+                "pubdate": "20160601",
+                "isbn": "9791157026449",
+                "description": "현대문명을 뛰어넘은 거대한 역사 속 보물들!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "",
+                "UPDATE_DATE": "20191023",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "브라이언 페이건 지음 ;성춘택 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "902.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "415 p.",
+                "CONTROL_NO": "CIP2019036776",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188941322",
+                "INPUT_DATE": "20190918",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "고고학의 역사",
+                "PUBLISH_PREDATE": "20191018",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

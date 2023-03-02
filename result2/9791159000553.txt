@@ -1,0 +1,67 @@
+{
+    "otitle": "어차피 일할 거라면, Porto",
+    "oauthor": "하경화,이혜민 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어차피 일할 거라면, Porto",
+                "link": "https://search.shopping.naver.com/book/catalog/32490731478",
+                "image": "https://shopping-phinf.pstatic.net/main_3249073/32490731478.20221228072749.jpg",
+                "author": "하경화^이혜민",
+                "discount": "17820",
+                "publisher": "포북(forbook)",
+                "pubdate": "20190720",
+                "isbn": "9791159000553",
+                "description": "\"하고 싶은 일을 하고 싶어서 회사를 차렸는데 행복하지 않았다.\" '디에디트'의 하경화 & 이혜민, 두 대표는 회사를 통째로 옮겨 보자 결심한다. \"낯선 도시에 살면서 일하는 것, 재밌을 것 같지 않아?\" 그리하여 떠난다. 포르투갈의 북쪽, 아직 유명하진 않지만 이야깃거리가 넘치는 도시 포르투로.\n\n\n\n공원에서의 피크닉. 한 낮의 레몬 맥주. 1유로로 즐기는 스페셜티 커피. 유럽에서 업무 스트레스에 대처하는 방법은 이런 사소한 기쁨들을 누리는 것. 그렇다고 마냥 판타지 속에서 사는 것만은 아니다. 가족이 아닌 사람과 한 달을 부대끼며 사는 것도, 서툴게 집안일을 하는 것도, 다시 닥쳐오는 불안감과 싸우는 것도 모두 그녀들의 몫이었다. \n\n\n\n물보다 싼 와인과 맥주를 끼니마다 비워 내며 깔깔대다가도 종내 낯선 도시에서 나의 도시 '서울'을 그리워하는 속정 깊은 여자 둘. 그녀들의 시선으로 풀어내는 포르투 이야기는 웃기면서 따뜻하고, 낯선 데도 공감하게 되는 매력이 있다.   \n\n\n\n'디에디트'의 포르투 출근 프로젝트는 이미 유튜브 영상으로 화제가 된 바 있다. 영상에는 미처 담지 못한 차고 넘치는 이야기와 사진을 책에 꾹꾹 눌러 담았다. 담백하고 담담히 풀어가는 이야기 속에 툭툭 터지는 농담이 있고, 이상하리만치 마음에 오래 남는 문장들이 있다. 책을 덮어도 눈에 선한 포르투의 풍경도 남는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "For Book",
+                "DDC": "",
+                "UPDATE_DATE": "20190820",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 하경화,이혜민 ;사진: 조형섭,김기은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "289 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159000553",
+                "INPUT_DATE": "20190625",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "Porto",
+                "PUBLISH_PREDATE": "20190720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "99점은 100점이 아니다",
+    "oauthor": "류나리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "99점은 100점이 아니다 (마지막 1점을 완성하는 입학사정관의 치열한 24시간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463521485",
+                "image": "https://shopping-phinf.pstatic.net/main_3246352/32463521485.20221019135912.jpg",
+                "author": "류나리",
+                "discount": "12960",
+                "publisher": "미다스북스",
+                "pubdate": "20220217",
+                "isbn": "9788966373352",
+                "description": "“마지막 1점을 완성하는\n입학사정관의 치열한 24시간!”\n\n학생부종합전형, 면접전형, 논술전형, \n입시의 공정성, 대입제도의 현실과 문제,\n교육열, 저출산, 고령화까지!   \n\n이화외고, 이화여대, 서울교대, 서강대, 울산대의대, \n5개 학교 9년 경력 입학사정관이 말하는 생생한 교육현장과 \n성적을 넘어 성장을 향한 미래 교육 입시전략!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220603",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "류나리 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*206",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "224 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966373352",
+                "INPUT_DATE": "20220128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "99점은 100점이 아니다",
+                "PUBLISH_PREDATE": "20220217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "서재걸의 New 해독주스",
+    "oauthor": "서재걸 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서재걸의 New 해독주스 (대한민국 최고의 해독 전문가가 알려주는 해독의 완결판)",
+                "link": "https://search.shopping.naver.com/book/catalog/34343990618",
+                "image": "https://shopping-phinf.pstatic.net/main_3434399/34343990618.20221019105955.jpg",
+                "author": "서재걸",
+                "discount": "13050",
+                "publisher": "비타북스",
+                "pubdate": "20170901",
+                "isbn": "9791158461843",
+                "description": "아침에 한 잔, 저녁에 한 잔으로 건강을 되찾자!\n\n5년 전, ‘해독’이라는 단어를 소개하며 해독 열풍을 몰고 온 해독 전문가 서재걸 박사의 《서재걸의 해독주스》의 최종 완결판 『서재걸의 New 해독주스』. 채소와 과일을 삶고 갈아서 만든 해독주스는 서재걸 원장이 직접 먹어 효능을 경험하고 끊임없이 연구한 내용을 통해 개발한 건강 주스로, 특별한 약 없이 오직 채소와 과일만으로 건강을 되찾을 수 있다. \n\n저자는 몸속을 깨끗이 비우는 해독의 비법으로 ‘해독주스’를 제안한다. 채소와 과일을 생으로 먹었을 때 5%인 흡수율을 삶고 갈아서 90%까지 높인 해독주스는 항산화 성분, 항염 성분, 식이섬유가 고농축으로 들어 있어 대사장애, 소화장애, 위장 기능 저하, 대장질환, 염증질환 등의 치료에 도움이 된다. 뿐만 아니라 만성피로, 생리불순, 간 기능 장애, 콜레스테롤 이상, 변비, 피부질환, 부종, 아토피, 비만 등에 탁월한 효과가 있다. \n\n이번 개정판에는 지난 5년간 수많은 사람들의 다양한 임상 사례를 바탕으로 완성도를 높인 해독주스, 건강과 다이어트를 동시에 잡는 주스까지 담았다. 내 몸이 스스로 건강해질 수 있도록 돕는 해독주스 레시피를 소개하고, 건강을 목적으로 하는 이들을 위해 ‘주5일 평일 해독 프로그램’과 ‘주말 해독 프로그램’을 제시하고, 체중 감량을 목적으로 하는 이들을 위해 주말 동안만 시행하는 초간단 주말 해독 프로그램인 ‘해독주스 다이어트 48시간’ 등 해독주스 프로그램 가이드 구성했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비타북스 :헬스조선",
+                "DDC": "615.854",
+                "UPDATE_DATE": "20170907",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "서재걸 지음",
+                "SERIES_TITLE": "",
+                "KDC": "512.54",
+                "EDITION_STMT": "최신개정판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6326301_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6326301_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6326301_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "277 p.",
+                "CONTROL_NO": "CIP2017021003",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158461843",
+                "INPUT_DATE": "20170818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(New) 서재걸의 해독주스",
+                "PUBLISH_PREDATE": "20170901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

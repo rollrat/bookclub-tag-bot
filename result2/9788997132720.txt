@@ -1,0 +1,78 @@
+{
+    "otitle": "세상을 바꾼 다섯가지 상품이야기",
+    "oauthor": "홍익희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:50 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "세상을 바꾼 다섯 가지 상품 이야기 (소금, 모피, 보석, 향신료 그리고 석유)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455620839",
+                "image": "https://shopping-phinf.pstatic.net/main_3245562/32455620839.20221019123612.jpg",
+                "author": "홍익희",
+                "discount": "17100",
+                "publisher": "행성B",
+                "pubdate": "20150618",
+                "isbn": "9788997132720",
+                "description": "상품의 역사를 통해 세계 경제의 흐름을 통찰한 인문교양서!\n\n베스트셀러 《유대인 이야기》와 《세 종교 이야기》의 저자 홍익희가 22년 동안 KOTRA에서 근무하며 세계 곳곳의 무역 현장을 누빈 경험을 십분 살린 책으로 돌아왔다. 셀 수도 없이 수많은 상품들 가운데 문명의 발달과 인류의 삶, 세계 경제의 흐름을 바꾼 5가지 상품을 골라, 세계 역사와 경제, 인류의 삶을 통찰하는 새로운 시각을 제공한다. \n\n책에서 다루고 있는 상품은 소금, 모피, 보석, 향신료, 석유이며, 5가지 상품에는 들지 않았지만 대표적 기호상품인 커피에 대해서도 언급한다. 저자는 인류의 삶이 좀 더 풍요로워지고 문명이 발달하는 데 영향을 끼친 상품들의 과거와 현재를 살펴봄으로써, 상품에 대한 고민을 놓지 말아야 한다는 경제적인 관점 역시 놓치지 않는다. \n\n이 책은 기존에 출간된 문명사나 문화사 책들이 대부분 국외 저자인 데 반해, 국내 무역 전문가의 저작이라는 점에서 차별화된다. 서술 대상이 되는 상품들을 우리만의 시각으로 파악하기 때문에 현실적으로 더 와 닿는 부분이 많다. 또한, 본문 곳곳에 있는 저자의 조언들은 경제 성장의 동력이 약화되는 우리나라의 현실에서 매우 소중한 필드의 목소리라고 할 수 있겠다."
+            },
+            {
+                "title": "세상을 바꾼 다섯 가지 상품 이야기(큰글씨책) (소금, 모피, 보석, 향신료 그리고 석유)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441768774",
+                "image": "https://shopping-phinf.pstatic.net/main_3244176/32441768774.20221019151451.jpg",
+                "author": "홍익희",
+                "discount": "26100",
+                "publisher": "행성B",
+                "pubdate": "20191130",
+                "isbn": "9791164710638",
+                "description": "상품의 역사를 통해 \n문명의 발달과 인류의 삶, 세계 경제의 흐름을 \n흥미롭게 통찰한 인문교양서!\n\nㆍ소금 ── 모든 문명 발상지의 공통점은 소금이다?\nㆍ모피 ── 시베리아 개발과 북아메리카 서부 개척의 동력은?\nㆍ보석 ── 공산주의와 자본주의 핵심이론이 보석을 둘러싼 전쟁에서 나왔다?\nㆍ향신료 ─ 근대의 시작, 그 뒤에 향신료가 있었다?\nㆍ석유 ── 근현대사의 명암은 석유를 빼놓고 말할 수 없다?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)행성비",
+                "DDC": "909",
+                "UPDATE_DATE": "20150706",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.planetb.co.kr",
+                "AUTHOR": "홍익희",
+                "SERIES_TITLE": "",
+                "KDC": "909",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4638308_3.jpg",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4638308_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015015449",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997132720",
+                "INPUT_DATE": "20150603",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "세상을 바꾼 다섯 가지 상품 이야기",
+                "PUBLISH_PREDATE": "20150618",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "How to Study 공부책",
+    "oauthor": "조지 스웨인 저/윤태준 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공부책 How to Study (하버드 학생들도 몰랐던 천재 교수의 단순한 공부 원리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441029428",
+                "image": "https://shopping-phinf.pstatic.net/main_3244102/32441029428.20221227205722.jpg",
+                "author": "조지 스웨인",
+                "discount": "8100",
+                "publisher": "유유",
+                "pubdate": "20140124",
+                "isbn": "9791185152066",
+                "description": "진짜 교육은 선생의 역할이 중요하다!\n\n미국의 하버드대학교와 MIT에서 교편을 잡았던 조지 스웨인은 이 똑똑한 학생들이 단순히 교과서의 내용을 암기하고 응용하는 데는 뛰어나지만, 그 내용을 유기적으로 활용할 줄은 모른다는 사실에 충격을 받았다. 그는 학생들이 좀 더 근본적인 공부법을 몸에 익히기를 바랐다. 『공부책』은 기본적으로 선생과 학생이 있는 교육을 중심에 두고 공부법을 설명한다. 학생의 자주성은 물론 공부의 중요 덕목이지만 스스로 대학교수였던 저자 스웨인은 선생의 역할이 중요함을 강조한다.\n\n삶에서 부딪히는 문제를 해결해 나가게 하고, 잠재 능력을 최대한으로 발휘하도록 하는 것이 교육의 목적이라고 말하는 그는 이 책에서 가장 먼저 올바른 마음가짐을 갖추고, 배운 것을 이해하기 위해 어디까지 아는지 스스로 응용해 보도록 이른다. 그리고 자기 자신만의 생각을 갖도록 끝없이 배운 것을 되새김질하라고 충고한다. 다시 구체적으로 소소한 팁을 일러 주고, 마지막으로 육체적인 활동으로 건강을 잃지 않도록 하라고 권한다. 그는 이 모든 것을 간명한 설명과 명제와 확언으로 정리한다.\n\n스웨인이 바라는 올바른 교육은 공부의 가장 근본적이고 중요한 진리를 가르치고 배우는 것이다.  이 책은 단순히 많은 걸 외우는 지식 습득이 아닌 삶의 기초와 기조를 든든하게 챙길 공부를 원하는 사람들을 위한 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)유유",
+                "DDC": "371.30281",
+                "UPDATE_DATE": "20140219",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "조지 스웨인",
+                "SERIES_TITLE": "",
+                "KDC": "373.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3249273_3.jpg",
+                "PRE_PRICE": "9000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3249273_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014001280",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185152066",
+                "INPUT_DATE": "20140113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "공부책",
+                "PUBLISH_PREDATE": "20140124",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

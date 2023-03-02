@@ -1,0 +1,67 @@
+{
+    "otitle": "환락송 2",
+    "oauthor": "아나이 저/허유영,주은주 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "환락송 2 (미드나잇, 마가리타)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445203794",
+                "image": "https://shopping-phinf.pstatic.net/main_3244520/32445203794.20221019132758.jpg",
+                "author": "아나이",
+                "discount": "12600",
+                "publisher": "팩토리나인",
+                "pubdate": "20200813",
+                "isbn": "9791165342135",
+                "description": "환락송 22층에서 벌어지는 다섯 여자들의 맛있는 이야기\n\n‘환락송歡樂頌’은 주인공들이 사는 아파트 이름이자, 베토벤의 교향곡 ‘합창’에 등장하는 ‘환희의 송가To ode to joy’를 이르는 말이다. 소설 《환락송》은 하이시라는 대도시를 배경으로 환락송 아파트 22층에서 함께 살게 된 다섯 여자의 우정과 사랑 그리고 일과 삶에 대한 에피소드들을 담고 있다. \n환락송 아파트 한 채를 빌려 룸메이트로 함께 살고 있는 판성메이, 관쥐얼, 츄잉잉은 옆집에 새로 이사 온 취샤오샤오, 앤디와 만나게 되고, 각종 사건사고를 겪으며 이웃에서 절친이 된다. 이들은 각각 성격도, 집안도, 직업도, 연애관도 다르다. 겉으로는 대도시에 사는 멋있는 커리어 우먼 같지만, 화려해 보이는 이면에는 각자 아픔과 고충을 가지고 살아간다. \n\n《환락송》은 조회수 183억 뷰를 돌파하며 ‘직장인 퇴근시간을 앞당긴 드라마’로 불린 동명 드라마 ‘환락송歡樂頌’의 원작 소설이다. 드라마 ‘환락송’은 시청자들의 요청에 힘입어 시즌 2까지 방영될 정도로 큰 사랑을 받았고, 방송 1주일 만에 주요 온라인 동영상 사이트의 조회수가 30억 뷰를 돌파, 방송 5주차까지 평균 클릭수가 200억 회에 달했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팩토리나인(쌤앤파커스)",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03820",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "아나이 ;허유영;주은주",
+                "SERIES_TITLE": "",
+                "KDC": "823.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "142*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "512 p. ",
+                "CONTROL_NO": "CIP2020032036",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165342135",
+                "INPUT_DATE": "20200731",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "환락송",
+                "PUBLISH_PREDATE": "20200810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

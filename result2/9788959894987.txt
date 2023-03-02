@@ -1,0 +1,67 @@
+{
+    "otitle": "고수의 질문법",
+    "oauthor": "한근태 저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고수의 질문법 (최고들은 무엇을 묻는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466686195",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466686195.20230223071207.jpg",
+                "author": "한근태",
+                "discount": "11700",
+                "publisher": "미래의창",
+                "pubdate": "20180312",
+                "isbn": "9788959894987",
+                "description": "허를 찌르는 질문에 당황한 적 있는가? 그것이 바로 ‘질문’이라는 무기의 힘이다!\n\n말을 잘하는 사람은 많지만 질문을 잘하는 사람은 드물다. 단번에 핵심을 짚는 질문이 백 마디 설명보다 훨씬 더 효과적이다. 질문은 단순히 궁금한 것을 묻는 행위가 아니다. 나의 의도를 상대에게 가장 빠르고 강력하게 전달하는 기술이다. 사람을 움직이는 최고의 방법은 내가 하고 싶은 말을 그 사람이 하게끔 만드는 것이다. 그리고 이때 필요한 것이 바로 ‘질문’이다.\n\n흔히 이야기하는 ‘성공’에는 여러 가지 모습이 있다. 삶의 보람, 하루의 충만감, 목표 달성, 다채롭고 진득한 인간관계, 비즈니스에서의 자랑스런 성과……. 대부분의 사람들은 이러한 성공을 좇으며 걷거나 뛰고 있다. 그러나 저자는 성공에 대한 맹목적인 욕망을 품기 전에, 먼저 내가 진정으로 붙잡고 싶은 것이 무엇인지 질문해보기를 권한다. 그것도 아주 집요한 질문을 통해서.\n\n이 책은 바로 그 집요한 질문의 방법을 알려준다. 삶의 보람을 찾기 위해 어떤 질문을 던져야 하는지, 목표를 명확히 하고 바른 길로 나아가기 위해서는 무엇을 묻고 답을 구해야 하는지, 신뢰로 맺어진 깊은 인간관계에 필수적인 질문 대화 방법은 어떤 것인지, 그리고 비즈니스의 본질에 대해 끊임없이 질문을 되새겨야 하는 이유는 무엇인지를 저자 특유의 위트 있는 어조로 들려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미래의창",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20180312",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.miraebook.co.kr",
+                "AUTHOR": "한근태 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6553317_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "CIP2018005133",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959894987",
+                "INPUT_DATE": "20180212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "고수의 질문법",
+                "PUBLISH_PREDATE": "20180312",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

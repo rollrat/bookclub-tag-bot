@@ -1,0 +1,78 @@
+{
+    "otitle": "나의 비거니즘 만화",
+    "oauthor": "보선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:32 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나의 비거니즘 만화 (어느 비건의 채식&동물권 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445206890",
+                "image": "https://shopping-phinf.pstatic.net/main_3244520/32445206890.20230214163904.jpg",
+                "author": "보선",
+                "discount": "14850",
+                "publisher": "푸른숲",
+                "pubdate": "20200130",
+                "isbn": "9791156758075",
+                "description": "다른 존재의 고통을 조금이라도 줄이고 싶다면,\n\n비건이 직접 쓰고 그린 비거니즘에 대한 만화가 처음으로 출간된다. 《나의 비거니즘 만화》는 트위터에서 비건들끼리 정보를 주고받을 때 쓰는 해시태그 \"#나의_비거니즘_일기\"에서 따온 제목이다. 나, ‘아멜리’는 비인간 동물의 고통을 외면할 수 없어 비건이 되었다. ‘비거니즘’이란 단순히 ‘고기, 생선, 유제품을 먹지 않는 것’만을 의미하지 않는다. 그것은 일종의 ‘삶의 태도’이며 그러한 태도로 살아가는 사람이 ‘비건’이다. 비거니즘이라는 가치관을 소개하기 위해 이 만화는 나와 다른 존재를 존중하는 법, 동물을 몰개성화하거나 대상화하지 않는 태도, 육식의 불편한 진실, 비인도적인 동물 착취 등에 대해 다룬다. 또한 비건으로서의 일상과 다양한 비건食에 대해서도 그린다."
+            },
+            {
+                "title": "나의 비거니즘 만화 (리커버 한정판) (어느 비건의 채식 & 동물권 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492119754",
+                "image": "https://shopping-phinf.pstatic.net/main_3249211/32492119754.20220520210924.jpg",
+                "author": "보선",
+                "discount": "14850",
+                "publisher": "푸른숲",
+                "pubdate": "20220203",
+                "isbn": "9791156759386",
+                "description": "비건이 직접 쓰고 그린 비거니즘에 대한 만화가 처음으로 출간된다. 《나의 비거니즘 만화》는 트위터에서 비건들끼리 정보를 주고받을 때 쓰는 해시태그 “#나의_비거니즘_일기”에서 따온 제목이다. 작가 자신을 투영한 인물이자 화자인 나, ‘아멜리’는 비인간 동물의 고통을 외면할 수 없어 비건이 되었다. \n\n\n\n‘비거니즘’이란 단순히 ‘고기, 생선, 유제품을 먹지 않는 것’만을 의미하지 않는다. 그것은 일종의 ‘삶의 태도’이며 그러한 태도로 살아가는 사람이 ‘비건’이다. 비거니즘이라는 가치관을 소개하기 위해 이 만화는 나와 다른 존재를 존중하는 법, 동물을 몰개성화하거나 대상화하지 않는 태도, 육식의 불편한 진실, 비인도적인 동물 착취 등에 대해 다룬다. 또한 비건의 일상과 다양한 비건食에 대해서도 그린다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20200217",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "보선 글·그림",
+                "SERIES_TITLE": "",
+                "KDC": "517.548",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "459 p.",
+                "CONTROL_NO": "CIP2020001643",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156758075",
+                "INPUT_DATE": "20200113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나의 비거니즘 만화",
+                "PUBLISH_PREDATE": "20200130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "지금 이 순간 튀니지",
+    "oauthor": "권기정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 이 순간 튀니지 (일곱 빛깔 지중해의 조용한 천국)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496242990",
+                "image": "https://shopping-phinf.pstatic.net/main_3249624/32496242990.20230223071048.jpg",
+                "author": "권기정",
+                "discount": "12510",
+                "publisher": "상상출판",
+                "pubdate": "20150302",
+                "isbn": "9791186163917",
+                "description": "튀니지는 이슬람 지역이지만 일찍부터 개방정책을 시행한 덕분에 ‘북아프리카의 파리’라고 불릴 정도로 특별한 곳이다. 튀니지안 블루의 절정을 맛볼 수 있는 도시 ‘시디 부 사이드’뿐만 아니라 고대 카르타고와 로마의 유적지, 화려함의 극치를 뽐내는 카이로우안 이슬람 사원, 북아프리카에서 가장 큰 규모를 자랑하는 엘젬 원형경기장 같은 볼거리로 가득 찬 곳이 바로 튀니지다. \n\n\n\n저자는 출장 때문에 방문한 튀니지가 어린 시절 동경했던 한니발 장군의 고향이라는 것을 알게 된 뒤 그 매력에 흠뻑 빠지게 되었다고 한다. 이후 그는 튀니지의 수도뿐만 아니라 튀니스의 구석구석을 직접 몸으로 체험하며 느낀 것들을 글과 사진으로 담아내기 시작했는데, 튀니지의 황량하지만 아름다운 풍경을 담아낸 그의 사진과 글을 따라가다 보면 금세 뜨거운 태양 아래에서 튀니지인들과 함께 호흡하고 있는 나를 만나게 된다. \n\n\n\n매년 수많은 유럽인이 여름휴가를 즐기기 위해 방문하는 관광지이지만 아직 우리에게는 낯설기만 한 튀니지. 난생처음 튀니지를 만나는 이들에게 아프리카 여행의 베테랑인 저자의 글은 막막하기만 한 사막을 호젓하게 걷는 낙타처럼 든든한 길잡이가 되어 줄 것이다. 당신이 알던 아프리카는 이제 잊어라! 꿈만 꾸어도 좋은 곳, 그곳이 바로 튀니지다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "916.1104",
+                "UPDATE_DATE": "20150317",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "권기정",
+                "SERIES_TITLE": "",
+                "KDC": "983.1402",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4365179_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4365179_3.jpg",
+                "PRE_PRICE": "13900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015004226",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186163917",
+                "INPUT_DATE": "20150206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "지금 이 순간 튀니지",
+                "PUBLISH_PREDATE": "20150302",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

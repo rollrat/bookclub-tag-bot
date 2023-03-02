@@ -1,0 +1,67 @@
+{
+    "otitle": "초보자를 위한 주가차트 보는 법",
+    "oauthor": "김정환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초보자를 위한 주가 차트 보는 법 (기술적 분석을 모르고 주식투자하지 마라!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489135636",
+                "image": "https://shopping-phinf.pstatic.net/main_3248913/32489135636.20220527051539.jpg",
+                "author": "김정환",
+                "discount": "0",
+                "publisher": "이레미디어",
+                "pubdate": "20101224",
+                "isbn": "9788991998490",
+                "description": "주식 초보를 위한 맞춤 주식 안내서\n\n기술적 분석의 모든 것을 차트와 함께 자세히 소개한  저자, 김정환이 쉽게 풀어 쓴 주식시장 입문자용 안내서. 지난 10여 년 동안 증권사에서 일하면서 \"주식시장에 대한 이해 없이 무작정 뛰어드는 초보들이 너무나 많다\"는 것을 느낀 저자가 초보들이 반드시 알아야 할 내용들을 엄선하여 이해하기 쉽게 풀어썼다. 저자가 직접 겪은 일들을 대화 형식으로 풀어낸 이 책은 탄탄한 이론과 함께 투자의 자세를 가다듬도록 도울 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20101221",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김정환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991998490",
+                "INPUT_DATE": "20101130",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "주가 차트 보는 법 ",
+                "PUBLISH_PREDATE": "20101224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

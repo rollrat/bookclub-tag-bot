@@ -1,0 +1,67 @@
+{
+    "otitle": "리더의 마음챙김",
+    "oauthor": "마크 레서 저/김잔디 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "리더의 마음챙김 (어떤 문제 앞에서도 흔들리지 않는 7가지 마음챙김 훈련법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473019887",
+                "image": "https://shopping-phinf.pstatic.net/main_3247301/32473019887.20221019152224.jpg",
+                "author": "마크 레서",
+                "discount": "15120",
+                "publisher": "카시오페아",
+                "pubdate": "20211025",
+                "isbn": "9791190776998",
+                "description": "“리더가 할 일의 99%는 자신의 마음을 다스리는 일이다.”\n구글이 개발한 궁극의 리더십 ‘내면 검색 리더십 프로그램’의 정수를 담다\n\n《리더의 마음챙김》은 미국 선불교의 큰 스승인 스즈키 순류를 잇는 명상의 권위자이자 구글의 ‘내면 검색(Search Inside Yourself) 리더십 프로그램’을 공동 개발한 저자가 리더십 향상 및 일과 삶의 조화를 위해 마음챙김 명상을 일상에서 실천할 수 있는 실용적인 방법들을 알려주는 책이다. \n\n30년간 명상 수련을 하고, 뉴욕대에서 MBA학위를 따고 스타트업을 성공적으로 운영한 저자는 ‘마음챙김’과 ‘비즈니스’를 통합하는 길이 있음을 깨닫고 그에 헌신하기로 마음먹는다. 이후 그는 리더들에게 명상붐을 일으킨 구글의 ‘내면 검색 프로그램’의 공동 창업자이자 ‘내면 검색 리더십 연구소’의 CEO가 되어 리더와 비즈니스 세계를 바꿀 귀중한 도구로서 마음챙김을 알려준다. 이 책은 수십 년간 ‘마음챙김’과 ‘비즈니스’를 접목하기 위해 애썼던 저자가 이 시대의 리더들에게 전하는 마음챙김 수련의 핵심 정수만을 모았다. 구글, SAP, 제네텍, 트위터 등 세계 유수의 기업들이 채택한 단순하지만 핵심적인 마음챙김 명상 수련의 노하우가 가득하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "카시오페아(카시오페아 출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20211102",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://blog.naver.com/cassiopeiabo",
+                "AUTHOR": "마크 레서 지음 ;김잔디 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/23/9791190776998.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "299 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190776998",
+                "INPUT_DATE": "20210923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "리더의 마음챙김",
+                "PUBLISH_PREDATE": "20211025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

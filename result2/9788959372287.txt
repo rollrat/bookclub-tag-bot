@@ -1,0 +1,67 @@
+{
+    "otitle": "365일 매일 읽는 향기로운 시 한 편",
+    "oauthor": "용혜원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "365일 매일 읽는 향기로운 시 한편",
+                "link": "https://search.shopping.naver.com/book/catalog/32441653874",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441653874.20221019105740.jpg",
+                "author": "용혜원",
+                "discount": "11520",
+                "publisher": "나무생각",
+                "pubdate": "20110221",
+                "isbn": "9788959372287",
+                "description": "시를 만나고, 보고, 느끼는 순간 365일이 달라진다!\n\n사랑을 노래하고 웃음을 강의하는 시인 용혜원이 전하는 4행시를 엮은 시집 『365일 매일 읽는 향기로운 시 한편』. 365일 매일 새로운 시를 한 편씩 읽으며 세상을 따뜻하고 아름답게 바라볼 수 있게 안내했다. 서정적인 감성으로 우리네 삶 속에서 보고, 느끼는 순간들을 짧고 서정적인 4행시로 표현하였으며, 시인의 눈과 감성으로 세상을 바라볼 수 있도록 이끈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20170712",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "namu@namubook.co.kr",
+                "AUTHOR": "용혜원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "389 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959372287",
+                "INPUT_DATE": "20110127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "(365일 매일 읽는) 향기로운 시 한편",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

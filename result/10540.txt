@@ -1,0 +1,23 @@
+{
+    "otitle": "제로에서 무한으로",
+    "oauthor": "콘스탄스 레이드 저/임승원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "제로에서 무한으로 (수론의 세계를 찾아서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456287686",
+                "image": "https://shopping-phinf.pstatic.net/main_3245628/32456287686.20220524185349.jpg",
+                "author": "콘스탄스 리드",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "19950901",
+                "isbn": "9788970445663",
+                "description": "인도인이 발명한 제로, 컴퓨터에 응용된 편리한 2진법, 소수의 이야기, 완전수의 불가사의, 무한과 모순 등 수에 얽힌 재미있는 성질을 다루고 있다."
+            }
+        ]
+    }
+}

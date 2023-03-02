@@ -1,0 +1,67 @@
+{
+    "otitle": "마스터리의 법칙",
+    "oauthor": "로버트 그린 저/이수경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마스터리의 법칙 (내 안에 숨겨진 최대치의 힘을 찾는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441654395",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441654395.20230216071124.jpg",
+                "author": "로버트 그린",
+                "discount": "21150",
+                "publisher": "살림",
+                "pubdate": "20130627",
+                "isbn": "9788952226792",
+                "description": "자신이 속한 분야에서 거장이 되는 법칙\n\n많은 사람이 ‘마스터리’가 특정한 소위 ‘레젼드급’의 천재들만 획득할 수 있는 힘이라고 생각한다. 그렇지만 아무리 평범한 사람도 일생에 한번쯤은 ‘마스터리’라는 힘을 경험하게 된다. 인간의 잠재된 능력을 최대치까지 끌어올린 힘을 로버트 그린은 ‘마스터리'라고 명명했는데, 보통 사람들에게는 일반적으로 데드라인(마감시간)이 정해진 상황에서 발휘되곤 한다. 저자 로버트 그린은 단언코 ‘마스터리’는 천재의 전유물이 아니라 일정한 법칙에 따라 자신의 분야를 정하고 그 분야에서 적절한 수련기를 겪으면 누구나 끌어낼 수 있는 힘이라 말한다. \n\n어린 나이에 모차르트가 그의 독창적인 작품들을 남겼기에 사람들은 그를 하늘이 내린 천재라고 오해한다. 그러나 모차르트가 독창적인 작품을 쓰기 시작한 것은 작곡을 시작한 지 10년이 넘어서였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20130701",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "로버트 그린 지음 ;이수경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952226792",
+                "INPUT_DATE": "20130603",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마스터리의 법칙 ",
+                "PUBLISH_PREDATE": "20130627",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

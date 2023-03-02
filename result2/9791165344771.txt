@@ -1,0 +1,67 @@
+{
+    "otitle": "이익이란 무엇인가?",
+    "oauthor": "헤르만 지몬,유필화 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이익이란 무엇인가? (가장 중요하지만, 가장 간과하는 경영의 제1원칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490332703",
+                "image": "https://shopping-phinf.pstatic.net/main_3249033/32490332703.20221019115650.jpg",
+                "author": "헤르만 지몬^유필화",
+                "discount": "19800",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20220315",
+                "isbn": "9791165344771",
+                "description": "“이익을 내서 망한 회사는 없다!”\n\n세계적인 경영 사상가이자 유럽의 피터 드러커로 불리는 헤르만 지몬 박사와 30년간 2,000회가 넘는 강연으로 10만 리더들을 열광시킨 경영 구루 유필화 성균관대 명예교수가 오랜 연구, 분석을 마치고 세상에 내놓은 역작이 바로 이 책 《이익이란 무엇인가?》이다. 이익이란 무엇이고, 어떤 관점에서 바라보아야 할까? 이익을 높이려면 어디서부터 시작해야 할까? 이 책은 이익의 여러 정의를 자세히 알아보며 불순한 의도로 투자자를 헷갈리게 만드는 이익개념도 파헤친다. 또한 코로나19 이후의 전 세계 경영상황과 나라별, 산업별 이익동향을 간추려 보여주고, ‘가격-판매량-원가’라는 3가지 이익동인에 대해 집중적으로 분석해 어려운 시기에 이익을 끌어올리는 방책을 알아본다. 시대와 국가, 업종과 산업을 불문하고 ‘이익’을 고민하는 모든 경영자에게 뿌리에서부터 뽑아 올린 명료하고 적확한 해답을 알려줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20220324",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "헤르만 지몬,유필화 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "395 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165344771",
+                "INPUT_DATE": "20220124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "이익이란 무엇인가?",
+                "PUBLISH_PREDATE": "20220315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

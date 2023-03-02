@@ -1,0 +1,67 @@
+{
+    "otitle": "화교 부자수업",
+    "oauthor": "오시로 다이 저/홍주영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "화교 부자수업 (거물 화교 사장에게 배운 부와 성공의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492200277",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492200277.20221228073353.jpg",
+                "author": "오시로 다이",
+                "discount": "12420",
+                "publisher": "타커스",
+                "pubdate": "20170811",
+                "isbn": "9788998658434",
+                "description": "이 책은 2014년에 출간된 《장사를 하려면 화교상인처럼》의 개정판으로, 30대의 평범한 회사원이 화교 사회의 거물 사장에게 사사한 뒤 회사를 세운 첫 해에 아르바이트 직원과 단 둘이 연매출 10억 원을 달성하고 현재 여러 개의 사업체를 운영하게 된 비법이 소개되어 있다. \n\n\n\n저자는 평범한 회사원 시절부터 창업을 염두에 두고 화교 사장을 찾아가 2년간 매달린 끝에 제자로 들어갔다. 이후 노점상부터 해외무역, 상장기업과의 거래협상까지 매번 새로운 비즈니스에 도전하며 화교 비즈니스의 모든 비법을 전수받았다. 그 비법들과 자신이 직접 사업체를 운영하면서 쌓은 경험과 방법론을 이 책에 모두 담아냈다. \n\n\n\n이 책은 일본에서 출간되자마자 경제?경영 분야 베스트셀러 1위에 오르며 큰 화제를 불러일으켰고 책의 인기와 더불어 ‘화교 배우기’ 열풍도 일어났다. 장기불황에도 불구하고 한층 더 세력을 확장해가는 화교 거부들의 경영비법과 평생 돈 걱정 안 하는 화교의 비즈니스 노하우를 배우려는 사람들이 많아졌다. 이 책의 저자가 ‘화교 비즈니스 실천회’를 운영하며 그 비법을 전수하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "타커스",
+                "DDC": "658.401",
+                "UPDATE_DATE": "20171123",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오시로 다이 지음 ;홍주영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.1",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6289863_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6289863_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6289863_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "246 p.",
+                "CONTROL_NO": "CIP2017017891",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998658434",
+                "INPUT_DATE": "20170720",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "화교 부자수업",
+                "PUBLISH_PREDATE": "20170811",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

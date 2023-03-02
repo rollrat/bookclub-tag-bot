@@ -1,0 +1,67 @@
+{
+    "otitle": "속산 100의 테크닉",
+    "oauthor": "나카무라 기사쿠 저/김현숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "속산 100의 테크닉 (이것으로 당신도 계산의 명인)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466596726",
+                "image": "https://shopping-phinf.pstatic.net/main_3246659/32466596726.20221019123425.jpg",
+                "author": "나카무라 기사쿠",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20170724",
+                "isbn": "9788970441672",
+                "description": "이 책에서는 속산 문제를 모두 100문제 준비하여 각 문제마다 간단한 설명을 붙여서, 속산의 기법을 발견하는 단서가 되도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20180309",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "저자 : 나카무라 기사쿠 ",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "19941015",
+                "TITLE_URL": "",
+                "PRE_PRICE": "5000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "13000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970441670",
+                "INPUT_DATE": "19941004",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "속산 100의 테크닉 ",
+                "PUBLISH_PREDATE": "19941015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

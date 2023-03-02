@@ -1,0 +1,23 @@
+{
+    "otitle": "아인슈타인의 생애",
+    "oauthor": "쓰즈키 다쿠지 저/현원복 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아인슈타인의 생애 (블루백스 시리즈 47)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441612777",
+                "image": "https://shopping-phinf.pstatic.net/main_3244161/32441612777.20221229072657.jpg",
+                "author": "쓰즈키 다쿠지",
+                "discount": "4500",
+                "publisher": "전파과학사",
+                "pubdate": "19851231",
+                "isbn": "9788970440477",
+                "description": "이 책은 아인슈타인의 연구와 그 생활을 소개하고 있다. 그의 연구업적 뿐만 아니라 주위 환경의 어려움을 극복한 강인한 용기에도 주목할 필요가 있다."
+            }
+        ]
+    }
+}

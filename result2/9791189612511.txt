@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘의 화가 어제의 화가",
+    "oauthor": "이경남 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘의 화가 어제의 화가 (시대를 대표하는 거장들과 나누는 예술과 삶에 대한 뒷담화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493187755",
+                "image": "https://shopping-phinf.pstatic.net/main_3249318/32493187755.20221229073617.jpg",
+                "author": "이경남",
+                "discount": "15750",
+                "publisher": "북스고",
+                "pubdate": "20191224",
+                "isbn": "9791189612511",
+                "description": "예술은 삶과 밀접하게 연관되어 있으면서도 ‘예술’이라는 단어의 어감 때문인지 어렵게 느껴질 때가 있다. 하지만 거장이라 일컬어지는 사람들 역시 당시의 소시민이자 골리앗이었다. 다만 삶을 살아내고 어느 순간 병들고 나약해지더라도 치열한 또는 치열했던 그들의 삶을 예술로 옮겨 다시 생명을 불어넣었던, 그 모든 것이 시대를 아우르는 ‘예술’이자 ‘명작’으로 인정받고 있는 것이다. \n?오늘의 화가 어제의 화가?는 시대를 대표하는 거장들이 소개하는 삶과 예술에 대한 이야기를 그들의 목소리로 들을 수 있다. ‘오늘의 화가’인 이경남 작가가 13명의 ‘어제의 화가’를 만나 각 시대에 존재하는 그들의 일상 속으로 들어가 인터뷰하며 때로는 그들의 가장 빛나고 치열했던 모습 속에서 함께 하기도 하고, 마지막을 정리하며 죽음을 마주하기도 한다. 13명의 거장 모두 자신의 사랑 앞에 당당했으며 비록 삶이 궁핍하더라도 예상치 못한 장애가 생기더라도 예술에 대한 열정을 놓지 않았다는 공통점이 있다. 그 열정이 오늘날 그들을 ‘거장’이라는 이름으로 불리게 만든 것은 아닌지. 이 책에서 그들의 열정 넘치는 삶과 예술 속으로 빠져들어 이야기하는 ‘오늘의 화가’가 바로 당신이 되길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Booksgo(북스고)",
+                "DDC": "",
+                "UPDATE_DATE": "20200226",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.booksgo.co.kr",
+                "AUTHOR": "이경남 지음",
+                "SERIES_TITLE": "",
+                "KDC": "650.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "CIP2019051667",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189612511",
+                "INPUT_DATE": "20191216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "오늘의 화가 어제의 화가",
+                "PUBLISH_PREDATE": "20191224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

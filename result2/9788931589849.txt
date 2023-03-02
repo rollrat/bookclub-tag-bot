@@ -1,0 +1,67 @@
+{
+    "otitle": "사이코지만 괜찮아 1",
+    "oauthor": "조용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사이코지만 괜찮아 1 (사랑에 관한 조금 이상한 로맨틱 코미디)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455872630",
+                "image": "https://shopping-phinf.pstatic.net/main_3245587/32455872630.20221019132114.jpg",
+                "author": "조용",
+                "discount": "10800",
+                "publisher": "호우야",
+                "pubdate": "20200730",
+                "isbn": "9788931589849",
+                "description": "“괜찮아”라는 따스한 위안 들고 찾아와, 헛헛한 마음 온기로 채워준\ntvN 화제의 드라마 〈사이코지만 괜찮아〉 작가판 대본집 출간!!\n\n조용 작가가 이 시대 ‘상처 있는’ 어른들을 위해 써 내려간 드라마 〈사이코지만 괜찮아〉 드라마가 대본집으로 출간됐다! 〈사이코지만 괜찮아〉는 버거운 삶의 무게로 사랑을 거부하는 정신병동 보호사 ‘문강태’와 태생적 결함으로 사랑을 모르는 동화 작가 ‘고문영’이 서로의 상처를 보듬고 치유해가는 한 편의 판타지 동화 같은, 사랑에 관한 조금 이상한 로맨틱 코미디물이다. 〈사이코지만 괜찮아〉에서 가장 돋보이는 것은 주인공 캐릭터다. 문강태는 정신병동 보호사로, 자폐 스펙트럼을 지닌 형 상태를 돌본다. 상태는 고기능 자폐 스펙트럼 장애자이다. 고문영은 성공한 동화 작가로, 반사회적 인격 장애를 지녔다. 고문영 역시 심각한 결핍을 갖고 있다. 드라마는 장애와 결핍의 문제를 전면에 내세운다. 반사회적 인격 장애를 지닌 문영은 타인의 감정에 무관심하고, 충동적이고 공격적인 행동을 한다. 과거 강태의 어머니는 상태에게만 애정을 쏟았다. 어린 강태에겐 책임감만 부여했다. 강태는 제멋대로 행동하는 문영과의 만남을 통해 억압하고 회피해왔던 자신의 욕망을 돌아본다.\n\n▶ 부록으로 제공되는 〈드라마 명대사 엽서 8종〉은 도서 마지막장에 제본된 형태로 제공됩니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "호우야 :성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20200818",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "조용 극본 ;잠산 일러스트",
+                "SERIES_TITLE": "사이코지만 괜찮아",
+                "KDC": "812.68",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788931589832",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/15/9788931589849.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "499 p.",
+                "CONTROL_NO": "CIP2020029735",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788931589849",
+                "INPUT_DATE": "20200716",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사이코지만 괜찮아",
+                "PUBLISH_PREDATE": "20200730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

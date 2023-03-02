@@ -1,0 +1,78 @@
+{
+    "otitle": "참 애썼다 그것으로 되었다",
+    "oauthor": "정영욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:24 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "참 애썼다 그것으로 되었다 (10만부 판매 기념 한정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444119861",
+                "image": "https://shopping-phinf.pstatic.net/main_3244411/32444119861.20230222102004.jpg",
+                "author": "정영욱",
+                "discount": "12100",
+                "publisher": "부크럼",
+                "pubdate": "20191115",
+                "isbn": "9791162141885",
+                "description": "〈편지할게요〉 저자 정영욱의 두 번째 스테디셀러\n10만 부 판매 기념 한정판 스페셜 에디션 출시!\n\n〈편지할게요〉 저자 정영욱의 두 번째 스테디셀러 10만 부 판매 기념 한정판 스페셜 에디션. 굳이 무언가 보여주려고만 하는 당신의 삶에게. 어딘가에서 잃어버린 무언가를 되찾으려는 당신의 사랑에게. 또 아물지 못해 숨기려고만 했던 당신의 상처들에게. 이 책은, 참 애썼다고 또 그것으로 되었다고 말한다. 그 어느 것에도 정답은 없다.\n\n단지 나는 이랬노라고 또 누구는 저랬노라고 그러한 것들의 이야기를 한데 모아 당신에게 전한다. 페이지 한 장 한 장 어떤 의미로 전해질지는 모르겠지만, 그럼에도 애써 전한다. 삶의, 사랑의, 상처의 불안을 떨쳐내지 못하는 당신에게 권하는 책. 소중한 사람에게 권하고 싶은 책. 사랑하는 사람아. 참 애썼다 그것으로 되었다.\n\n* 이번 한정판 스페셜 에디션에는 새롭게 바뀐 10여개의 글들이 있습니다."
+            },
+            {
+                "title": "참 애썼다 그것으로 되었다(큰글씨책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472136777",
+                "image": "https://shopping-phinf.pstatic.net/main_3247213/32472136777.20221019120139.jpg",
+                "author": "정영욱",
+                "discount": "45500",
+                "publisher": "부크럼",
+                "pubdate": "20210708",
+                "isbn": "9791162143667",
+                "description": "굳이 무언가 보여주려고만 하는 당신의 삶에게. 어딘가에서 잃어버린 무언가를 되찾으려는 당신의 사랑에게. 또 아물지 못해 숨기려고만 했던 당신의 상처들에게. 이 책은, 참 애썼다고 또 그것으로 되었다고 말한다. 그 어느 것에도 정답은 없다. \n단지 나는 이랬노라고 또 누구는 저랬노라고 그러한 것들의 이야기를 한데 모아 당신에게 전한다. 페이지 한 장 한 장 어떤 의미로 전해질지는 모르겠지만, 그럼에도 애써 전한다. \n삶의, 사랑의, 상처의 불안을 떨쳐내지 못하는 당신에게 권하는 책. 소중한 사람에게 권하고 싶은 책. 사랑하는 사람아. 참 애썼다 그것으로 되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Bookrum",
+                "DDC": "",
+                "UPDATE_DATE": "20200924",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://www.bookrum.co.kr",
+                "AUTHOR": "지은이: 정영욱",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "285 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162141885",
+                "INPUT_DATE": "20180815",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "참 애썼다 그것으로 되었다 ",
+                "PUBLISH_PREDATE": "20191108",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

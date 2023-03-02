@@ -1,0 +1,67 @@
+{
+    "otitle": "우아한 승부사",
+    "oauthor": "조윤제 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우아한 승부사 (품위 있게 할 말 다하는 사람들의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444742648",
+                "image": "https://shopping-phinf.pstatic.net/main_3244474/32444742648.20221019142124.jpg",
+                "author": "조윤제",
+                "discount": "13830",
+                "publisher": "21세기북스",
+                "pubdate": "20191120",
+                "isbn": "9788950984250",
+                "description": "“말에는 내공이, 대화에는 품격이 있어야 한다”\n천년의 고전에서 찾은 대화의 9가지 무기\n\n내공 있는 한마디는 무엇이 다른가!\n“싸우지 않고 굴복시키는 것이 최고의 경지다.”\n\n거친 말이 난무하는 세상에서 품격 있는 대화로 상황을 주도하는 사람들의 비밀을 담은 《우아한 승부사》. 20만 독자들을 사로잡은 《다산의 마지막 공부》 조윤제 작가가 대화의 내공과 품격을 키울 수 있는 9가지 방법을 소개한다. \n공자의 배려, 맹자의 호연지기, 노자의 겸손, 장자의 여유, 한비자의 지략, 손자의 전략은 시대를 초월한 대화의 원칙과 기술을 담고 있다. 책은 《논어》, 《맹자》, 《장자》 등 20여 권의 고전에서 대화의 무기가 되는 문장만을 엄선해 현대인들이 삶에 적용할 수 있도록 풀어낸다. 고전의 가르침을 통해 대화의 내공과 품격을 기른다면 어떤 사람 앞에서도 당당하고, 어떤 상황도 멋지게 지배하고, 어떤 순간에도 품위 있게 자신을 드러내는 “우아한 승부사”로 거듭날 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191209",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "조윤제 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20191120",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "18,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "342 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950984250",
+                "INPUT_DATE": "20191120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우아한 승부사",
+                "PUBLISH_PREDATE": "20191127",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

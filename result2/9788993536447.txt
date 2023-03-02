@@ -1,0 +1,67 @@
+{
+    "otitle": "살면서 꼭 한 번은 손자병법",
+    "oauthor": "임성훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "평생에 한 번은 꼭 손자병법을 읽어라 (치열한 삶의 전쟁터에서 찾아낸 행복한 삶)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497547052",
+                "image": "https://shopping-phinf.pstatic.net/main_3249754/32497547052.20221019143619.jpg",
+                "author": "손자",
+                "discount": "10800",
+                "publisher": "주변인의길",
+                "pubdate": "20150703",
+                "isbn": "9788993536447",
+                "description": "《손자병법》은 고대 중국의 병법서이나, 단순히 전쟁의 지혜를 담는 것을 넘어서서 인간의 심리에 대한 깊은 통찰을 전하고 있다. 따라서 고금을 막론하고 전쟁터를 방불케 하는 삶의 현장에서 지혜와 아량을 키워 행복을 찾을 수 있도록 하는 데에도 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)주변인의길,새론북스",
+                "DDC": "",
+                "UPDATE_DATE": "20150915",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.jubyunin.co.kr",
+                "AUTHOR": "손무 지음 / 김이리 엮음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993536447",
+                "INPUT_DATE": "20150618",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "평생에 한 번은 꼭 손자병법을 읽어라",
+                "PUBLISH_PREDATE": "20150703",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

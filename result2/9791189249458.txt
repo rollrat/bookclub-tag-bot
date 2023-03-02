@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 앱테크로 기적을 만들었다",
+    "oauthor": "엠찌 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 앱테크로 기적을 만들었다 (스마트폰 하나로월 100만 원 파이프라인 만드는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493291294",
+                "image": "https://shopping-phinf.pstatic.net/main_3249329/32493291294.20221227204952.jpg",
+                "author": "엠찌",
+                "discount": "13500",
+                "publisher": "빈티지하우스",
+                "pubdate": "20201210",
+                "isbn": "9791189249458",
+                "description": "돈도 시간도 경험도 필요 없다!\n누구나 성공하는 엄마표 재테크!\n\n돈은 없지만 재테크를 하고 싶다면…\n시간은 없지만 부수입을 얻고 싶다면…\n소비를 유지하며 절약생활을 하고 싶다면…\n\n아침에 눈을 뜨고 잠들기 전까지 우리 손에 늘상 들려 있는 것이 스마트폰이다. 스마트폰을 재테크에 활용할 수 있는 방법들은 무궁무진하고, 마음만 먹으면 눈뜨는 순간부터 잠들기 직전까지 일상 자체가 재테크가 될 수 있다.\n《나는 앱테크로 기적을 만들었다》의 저자 엠찌는 매일같이 앱을 돌려 출석체크를 하고 룰렛을 돌리는 좁은 의미의 재테크가 아니라, 가계부 작성부터 각종 금융 상품 가입, 안전자산에 대한 소액투자 모두가 스마트폰을 활용한 ‘앱테크’가 된다고 말한다.\n그저 생활비나 조금 줄여볼까 하고 시작했던 앱테크로 ‘월 생활비 40만 원’과 ‘월 부수입 100만 원’의 기적을 만들어내고 있는 저자는 육아와 외벌이의 악조건에서도 말 그대로 기적을 만들어낸 이야기와 지금 당장 활용 가능한 쏠쏠한 앱테크 플러스팁을 이 책에 모두 담아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빈티지하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20210224",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "엠찌 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189249458",
+                "INPUT_DATE": "20201126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 앱테크로 기적을 만들었다",
+                "PUBLISH_PREDATE": "20201210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "무리수의 불가사의",
+    "oauthor": "호리바 요시카즈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "무리수의 불가사의",
+                "link": "https://search.shopping.naver.com/book/catalog/32504728837",
+                "image": "https://shopping-phinf.pstatic.net/main_3250472/32504728837.20221227203928.jpg",
+                "author": "호리바 요시카즈",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "19941201",
+                "isbn": "9788970441733",
+                "description": "무리수의 연구에서 초월수의 증명으로 수의 연구가 진행되어 실수의 세계에서 수론은 더욱 깊숙한 연구가 계속되고 있다. 이 책은 독자들에게 무리수에 대한 이해를 더욱 심화할 수 있는 흥미를 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19941205",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "호리바 요시카르 저 ; 임승원 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "5000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970441735",
+                "INPUT_DATE": "19941205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "무리수의 불가사의",
+                "PUBLISH_PREDATE": "19941220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

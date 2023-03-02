@@ -1,0 +1,67 @@
+{
+    "otitle": "허영만의 3천만원 2",
+    "oauthor": "허영만 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "허영만의 3천만원 2: 타이밍을 잡아라 (왕초보 허영만의 주식투자 도전기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440952910",
+                "image": "https://shopping-phinf.pstatic.net/main_3244095/32440952910.20221019124727.jpg",
+                "author": "허영만",
+                "discount": "12510",
+                "publisher": "가디언",
+                "pubdate": "20180330",
+                "isbn": "9788994909097",
+                "description": "고수들의 투자 노하우가 고스란히 그려지다.\n\n금과옥조 주식 격언과 함께 투자금 3천만원이 성장하는 과정을 그대로 그려낸 본격 주식투자 지침서! 자신의 돈 3000만원을 직접 투자하며 그려낸 생생한 이야기가 담겨 있다. 과연 투자란 무엇인가. 식객, 타짜 등 명작을 완성시킨 저자 허영만은 '투자'의 세계를 직접 경험하기에 이른다. 주식투자 전문가들의 자문을 받아, 자신의 실제 돈을 직접 투자하여 현실성을 더했다.\n\n1권 수익률을 상회하는 2권의 수익률은? 2권에서 눈여겨볼 가장 큰 변화는 투자자문단의 변화다. 개인투자자와 투자자문회사, 로보어드바이저 등 다섯 명으로 구성되었던 자문단에, 가치투자의 고수로 널리 알려진 ‘남산주성’ 김태석 자문위원이 합류하여 전체 자문단은 여섯 명으로 늘었다. 지속적인 상승세를 보였던 코스피와 코스닥 시장의 호조, 최근 다우지수의 급락에 이르기까지의 상황 속에서 각 자문단의 추천 종목과 시장에 대한 분석, 매매 스타일의 차이를 지켜보는 것도 재미를 더한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가디언",
+                "DDC": "332.6322",
+                "UPDATE_DATE": "20180411",
+                "EA_ADD_CODE": "14320",
+                "PUBLISHER_URL": "www.sirubooks.com",
+                "AUTHOR": "글·그림: 허영만",
+                "SERIES_TITLE": "허영만의 3천만원",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788994909066",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13900",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6565662_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "324 p.",
+                "CONTROL_NO": "CIP2018006087",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788994909097",
+                "INPUT_DATE": "20180221",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(허영만의) 3천만원",
+                "PUBLISH_PREDATE": "20180323",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14320 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

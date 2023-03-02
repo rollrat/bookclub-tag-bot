@@ -1,0 +1,78 @@
+{
+    "otitle": "똑같네 똑같아",
+    "oauthor": "김숭현 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:15 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "똑같네 똑같아",
+                "link": "https://search.shopping.naver.com/book/catalog/32436249594",
+                "image": "https://shopping-phinf.pstatic.net/main_3243624/32436249594.20230117163351.jpg",
+                "author": "김숭현",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20190320",
+                "isbn": "9791189164515",
+                "description": "네이버 그라폴리오X서울와우북페스티벌\n제4회 상상만발 책그림전 당선작\n\n“이성적 접근을 통해 감성적 주제로 끌어 올린 좋은 작품이다.”\n-심사위원 이경국\n\n“쉽고 재미있고 귀엽고 유쾌하다! 엄지 척!”\n-심사위원 이루리\n\n어느 날 갑자기 뱀이 다가와 친구들을 놀리기 시작합니다. “하하하하. 똑같네 똑같아!” 친구들은 자기 옆에 놓인 물건을 보며 어리둥절하지요. “뭐라고?” “내가 얘랑?” “말도 안 돼!” 친구들은 뱀의 말을 부인하지만 뱀의 놀림은 끝날 줄 모릅니다. 도대체 무엇이 무엇과 똑같다는 걸까요?"
+            },
+            {
+                "title": "똑같네 똑같아(빅북) (김숭현 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441030361",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441030361.20221019124241.jpg",
+                "author": "김숭현",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20200319",
+                "isbn": "9791190300704",
+                "description": "북극곰 빅북(Big Book) 출시\n더 크게! 더 재미있게! 더 생생하게!\n\n독자들에게 사랑받는 북극곰 그림책이 빅북(Big Book)으로 출간되었습니다. 빅북(Big Book)은 일반 그림책보다 1.5~2배 정도 크게 만든 체험형 그림책이에요. 글자도 커지고, 그림도 커져서 재미와 감동을 더 생생하게 느낄 수 있어요. 원본 그림책의 비율을 그대로 살린 커다란 판형의 책으로 학교나 도서관에서 읽어 주기 좋고 함께 보기에도 좋아요. 그밖에 전시, 독서 치료, 어르신들에게 그림책 읽어 주기 등에 적극 활용할 수 있습니다. 어느 날 갑자기 뱀이 다가와 친구들을 놀리기 시작합니다. “하하하하. 똑같네 똑같아!” 친구들은 자기 옆에 놓인 물건을 보며 어리둥절하지요. “뭐라고?” “내가 얘랑?” “말도 안 돼!” 친구들은 뱀의 말을 부인하지만 뱀의 놀림은 끝날 줄 모릅니다. 도대체 무엇이 무엇과 똑같다는 걸까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20190329",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 김숭현",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/28/9791189164515.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[40] p.",
+                "CONTROL_NO": "CIP2019007865",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189164515",
+                "INPUT_DATE": "20190228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "똑같네 똑같아",
+                "PUBLISH_PREDATE": "20190320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

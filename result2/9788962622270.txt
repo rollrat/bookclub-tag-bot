@@ -1,0 +1,67 @@
+{
+    "otitle": "과학하고 앉아있네 9",
+    "oauthor": "원종우,김우재 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학하고 앉아있네 9: 김우재의 초파리 사생활 엿보기 (초파리, 진화론과 분자생물학을 통합하다 | 초파리로 읽는 유전학의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484717062",
+                "image": "https://shopping-phinf.pstatic.net/main_3248471/32484717062.20221019142845.jpg",
+                "author": "원종우^김우재",
+                "discount": "6750",
+                "publisher": "동아시아",
+                "pubdate": "20180502",
+                "isbn": "9788962622270",
+                "description": "“초파리, 진화론과 분자생물학을 통합하다”\n\n캐나다 오타와대학 김우재 교수\n초파리로 읽는 유전학의 정수\n\n듣는 재미에서 읽는 즐거움으로, 더욱 논리적이고 풍부한 지적 경험.\n\n초파리는 생물학의 두 갈래를 극적으로 통합한 가교, 판문점 역할을 한다. 그렇기 때문에 초파리는 생물학사에서 매우 중요한 모델생물이다. 초파리 연구의 대부 격인 토마스 헌트 모건의 제자들은 ‘초파리’를 가지고 유전체 분석을 통한 종(種)분화 연구, 염기 서열 분석을 통한 유전자 분석 연구 등을 진화생물학과 실험생물학 두 분야를 넘나들며 광범위하게 수행했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "500",
+                "UPDATE_DATE": "20180517",
+                "EA_ADD_CODE": "04400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "원종우,김우재 지음",
+                "SERIES_TITLE": "",
+                "KDC": "400",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6640727_6.txt",
+                "SET_ISBN": "9788962620924",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "7500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "127 p.",
+                "CONTROL_NO": "CIP2018012658",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962622270",
+                "INPUT_DATE": "20180423",
+                "SET_EXPRESSION": "",
+                "VOL": "9",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학하고 앉아있네",
+                "PUBLISH_PREDATE": "20180502",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04400 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "직장인 사춘기 고민 상담소",
+    "oauthor": "최현정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "직장인 사춘기 고민 상담소 (성장욕구와 매너리즘 사이에 낀 직장인들을 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467031621",
+                "image": "https://shopping-phinf.pstatic.net/main_3246703/32467031621.20221227203153.jpg",
+                "author": "최현정",
+                "discount": "11700",
+                "publisher": "팜파스",
+                "pubdate": "20150630",
+                "isbn": "9791170260004",
+                "description": "“버틸 것인가? 버릴 것인가?” \n마음이 갈팡질팡 펄럭이는 직장인들을 위한 고민 상담소 \n\n\n직장인이라면 누구나 직장에 대한 고민이 극에 달하는 시기가 찾아온다. 이리저리 치이며 열심히 업무를 배우고, 전에 본 적 없는 별의별 사람들을 만나며 적응하기 위해 애쓰다가 비로소 자신을 돌아보게 되고 내가 가고 있는 길이 맞는지 고민하게 되는 시기가 오는 것이다. \n다니는 직장을 계속 다니는 것이 좋을지, 아니면 더 늦기 전에 대학원에 가거나 이직 혹은 전직을 해야 하는 것은 아닌지에 대한 고민이 생기기도 하고, 발전 없이 반복되는 업무에 매너리즘에 빠지기도 한다. 또한, 조직개편과 상사의 해고를 눈으로 직접 보면서 신입사원 때는 몰랐던 회사의 다양한 모습에 많은 고민과 내적갈등이 쓰나미처럼 밀려오기도 한다.\n입사만 하면 승승장구하고 모든 일이 잘 풀릴 거라 생각했지만 직장인으로서 당신이 겪은 현실은 결코 녹록치 않다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20150706",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "최현정",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4640012_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4640012_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015015544",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170260004",
+                "INPUT_DATE": "20150604",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "직장인 사춘기 고민 상담소",
+                "PUBLISH_PREDATE": "20150630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

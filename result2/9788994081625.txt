@@ -1,0 +1,67 @@
+{
+    "otitle": "피아니스트의 뇌",
+    "oauthor": "후루야 신이치 저/홍주영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "피아니스트의 뇌 (뇌과학으로 풀어낸 음악과 인체의 신비)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491379699",
+                "image": "https://shopping-phinf.pstatic.net/main_3249137/32491379699.20221228075053.jpg",
+                "author": "후루야 신이치",
+                "discount": "13500",
+                "publisher": "끌레마",
+                "pubdate": "20160520",
+                "isbn": "9788994081625",
+                "description": "오늘날 세계 뇌과학 연구자들이 가장 관심을 갖고 있는 주제 중 하나가 '예술가의 뇌'이다. 그중에서도 음악을 연주할 때 인간의 뇌와 신체에 어떤 변화가 일어나는지에 대해 활발하게 연구가 진행되고 있다. 이러한 분위기 속에서 피아니스트의 뇌와 신체가 어떻게 상호작용하여 기능을 극대화하는지를 다양한 연구와 실험을 토대로 흥미진진하게 풀어낸 책이다.\n\n\n\n저자 후루야 신이치는 의학박사이자 조치대학 이공학부 교수로, 여러 음악대회에서 입상하고 연주회를 연 수준급 피아니스트이자, 의학.공학.음악을 융합시킨 '음악연주과학'이라는 새로운 학문 분야를 탄생시킨 신진 학자이다. 그는 세 살 때부터 피아노를 치기 시작해 오랫동안 피아노 연습법에 대한 다양한 궁금증을 가져오다 대학시절 무리한 연습으로 손을 다친 것을 계기로 '피아노와 신체의 움직임'을 연구 분야로 삼았다.\n\n\n\n저자는 피아니스트의 민첩하고 정확한 손가락 기교와 정교한 몸 사용법은 어릴 때부터 누적된 연습으로 특수하게 발달한 뇌가 만들어낸 것이라는 사실을 입증해 보여준다. 그 근거로 뇌과학, 신체운동학, 의학, 공학의 수많은 논문과 최신 연구사례, 다양한 실험이 소개되어 있으며, '음악연주과학'이라는 접근법으로 피아니스트의 뇌와 신체를 분석하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "끌레마",
+                "DDC": "612.82",
+                "UPDATE_DATE": "20160525",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "후루야 신이치",
+                "SERIES_TITLE": "",
+                "KDC": "511.1813",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5357228_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5357228_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "276",
+                "CONTROL_NO": "CIP2016009367",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994081625",
+                "INPUT_DATE": "20160411",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "피아니스트의 뇌",
+                "PUBLISH_PREDATE": "20160520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

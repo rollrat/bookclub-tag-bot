@@ -1,0 +1,67 @@
+{
+    "otitle": "모험과 교류의 문명사",
+    "oauthor": "주경철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모험과 교류의 문명사",
+                "link": "https://search.shopping.naver.com/book/catalog/32497564857",
+                "image": "https://shopping-phinf.pstatic.net/main_3249756/32497564857.20221230071754.jpg",
+                "author": "주경철",
+                "discount": "16200",
+                "publisher": "산처럼",
+                "pubdate": "20150425",
+                "isbn": "9788990062581",
+                "description": "인류의 역사를 수놓은 지혜의 교류!\n\n『모험과 교류의 문명사』는 다면적인 인간의 역사를 소통과 교류의 측면에서 살펴본 책이다. 저자는 다양한 자료를 통해 자연 생태계 중간 이하를 유지하던 인류가 지구를 장악하게 된 이유, 문명 발전의 성과들은 서로 어떻게 전해지고 수용되었으며 또 어떤 효과를 가져왔는지 다각도로 짚어본다. 또한 기존의 역사적 통설들을 뒤집거나 다시 생각할 여지를 주어 역사에 대한 균형 잡힌 시각을 제시했다. 책 전체에는 130여 컷의 도판을 컬러로 실어 독자들의 쉬운 이해를 도왔다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산처럼",
+                "DDC": "",
+                "UPDATE_DATE": "20150603",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "https://www.sanbooks.com",
+                "AUTHOR": "주경철 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990062581",
+                "INPUT_DATE": "20150603",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "모험과 교류의 문명사 ",
+                "PUBLISH_PREDATE": "20150425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

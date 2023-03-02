@@ -1,0 +1,67 @@
+{
+    "otitle": "길에서 행복해져라",
+    "oauthor": "신정일 저/신하늬 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "길에서 행복해져라 (문화사학자 신정일이 길에서 만난 세상 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506079211",
+                "image": "https://shopping-phinf.pstatic.net/main_3250607/32506079211.20221019110346.jpg",
+                "author": "신정일",
+                "discount": "11700",
+                "publisher": "상상출판",
+                "pubdate": "20110822",
+                "isbn": "9788994799124",
+                "description": "걸어라, 그래서 행복해져라!\n\n문화사학자 신정길이 전하는 길 위에서 보낸 40여 년의 기록『길에서 행복해져라』. 이 책은 그동안 강길, 산길, 바닷가 길 그리고 옛 사람들의 자취가 남아 있는 역사의 길을 걸으며 많은 사람들을 만나온 저자가 마주한 길의 사상, 길의 철학을 담고 있다. 나는 누구인가, 나는 어디만큼 서 있는가, 나는 어디로 가는가를 항상 물으며 걸었던 저자는 온갖 위험과 고독 속에서 홀로 또는 여럿이 걸으며 깨달은 것은 길 위에서 내가 나를 만난다는 것이었다고 말한다. 길 위에서 만났던 모든 사람, 모든 사물 그리고 시간 속에서 기억되었다가 사라져가는 길에 대한 이야기를 통해 오로지 나만이 걸어갈 수밖에 없는 인생의 길을 어떻게 걸어갈 것인지 생각하게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판,",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "신정일 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994799124",
+                "INPUT_DATE": "20110728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "길에서 행복해져라 ",
+                "PUBLISH_PREDATE": "20110822",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

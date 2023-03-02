@@ -1,0 +1,67 @@
+{
+    "otitle": "컴퓨터는 어떻게 만들어졌나요?",
+    "oauthor": "카와조에 아이 저/이영희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "컴퓨터는 어떻게 만들어졌나요?",
+                "link": "https://search.shopping.naver.com/book/catalog/32477550140",
+                "image": "https://shopping-phinf.pstatic.net/main_3247755/32477550140.20221019135829.jpg",
+                "author": "카와조에 아이",
+                "discount": "13500",
+                "publisher": "로드북",
+                "pubdate": "20200205",
+                "isbn": "9788997924479",
+                "description": "바야흐로 코딩의 시대다. 하지만 코딩을 잘하기 위해서는 먼저 “컴퓨터란 무엇인지” 반드시 학습을 해야 한다. 코딩을 해서 만들어진 프로그램이 컴퓨터에서 돌아가기 때문이다. 이 책은 과거 고대 이집트 수준의 문명을 가진 요정의 나라가 지구의 천재 컴퓨터 청년의 도움을 받아 컴퓨터를 만든다는 스토리를 통해 컴퓨터의 구조를 쉽게 설명하고 있다. 컴퓨터의 역사부터, 논리학과 수학, 공학의 만남을 거쳐 어떻게 컴퓨터가 만들어졌는지 재미있는 여행을 떠나보자.\n\n대상 독자\n우리가 사는 공간을 넘어 우주에 대해 궁금해 하듯, 우리는 우리가 매일 사용하는 컴퓨터라는 작업 공간의 너머에 무엇이 있는지 지적 호기심을 항상 가지고 있다. 누구나 그 지적 호기심을 어느 정도 충족할 때 우리는 한발 더 나아갈 수 있는 지혜를 얻을 수 있을 것이다. 컴퓨터공학뿐만 아니라 이공계 신입생이라면 반드시 알아야 할 상식 수준의 내용이며, 코딩에 관심이 있는 중고등학생에겐 미리 알아두면 좋을 컴퓨터과학의 기초지식이고, 일반인들은 좀더 수준 높은 컴퓨터 관련 지식을 습득할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20200317",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "카와조에 아이 지음 ;이영희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*213",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "232 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924479",
+                "INPUT_DATE": "20200107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "컴퓨터는 어떻게 만들어졌나요?",
+                "PUBLISH_PREDATE": "20200205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

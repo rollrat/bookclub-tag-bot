@@ -1,0 +1,67 @@
+{
+    "otitle": "재미있는 미래 과학 이야기",
+    "oauthor": "김수병 글/유남영 그림/이광형 추천",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재미있는 미래 과학 이야기 (교과학습 시사상식 논술대비까지 해결하는 초등학교 통합교과서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436143401",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436143401.20221227204150.jpg",
+                "author": "김수병",
+                "discount": "10800",
+                "publisher": "가나출판사",
+                "pubdate": "20131210",
+                "isbn": "9788957365854",
+                "description": "생생한 사진과 그림으로 미래 과학에 모든 것을 배우다!\n\n교과학습, 시사상식, 논술대비까지 해결하는 초등학교 통합교과서 「신문이 보이고 뉴스가 들리는 재미있는 이야기」 제10권 『미래 과학 이야기』. 자칫 딱딱하고 어려울 수 있는 미래 과학에 대해서 호기심을 유발하는 질문 형식으로 묻고, 이에 친절하게 대답하는 형식으로 이루어져 아이들에게 쉽게 친근하게 다가갈 수 있도록 구성한 책이다. 아이들의 눈높이에 맞춘 재미있는 만화를 통해 다시 한 번 본문의 내용을 파악하고, 첨단 과학의 현재와 미래를 보여 주는 생생한 과학 사진이 가득 담겨 있다.\n\n주제와 관련된 영화를 보며 첨단 기술로 변화한 미래 세상을 구체적으로 그려보고, 가상의 인물들의 인터뷰를 통하여 생명 경시, 사생활 침해, 환경 문제 등 첨단 과학 기술의 숨은 문제까지 두루 고민해볼 계기를 마련한다. 어린이들은 이 책을 통해 신문과 뉴스에 나오는 첨단 과학을 쉽게 이해하고, 스스로 미래를 준비하는 능동적인 어린이로 성장할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "74500",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "글 김수병/ 그림 유남영",
+                "SERIES_TITLE": "",
+                "KDC": "500",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3045410_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3045410_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013021721",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957365854",
+                "INPUT_DATE": "20131022",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "신문이 보이고 뉴스가 들리는 재미있는 미래과학 이야기",
+                "PUBLISH_PREDATE": "20131115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

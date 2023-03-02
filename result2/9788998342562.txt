@@ -1,0 +1,67 @@
+{
+    "otitle": "현명한 자산배분 투자자",
+    "oauthor": "윌리엄 번스타인 저/김성일 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "현명한 자산배분 투자자 (위험을 최소화하면서 연수익 10% 이상의 포트폴리오를 어떻게 만들 것인가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487795010",
+                "image": "https://shopping-phinf.pstatic.net/main_3248779/32487795010.20221019134550.jpg",
+                "author": "윌리엄 번스타인",
+                "discount": "16200",
+                "publisher": "에이지21",
+                "pubdate": "20191025",
+                "isbn": "9788998342562",
+                "description": "자신의 인생을 조망하며 재무 상태를 체계적으로 설계하고 싶은 사람들을 위한 지침서!\n\n위험을 최소화하고 수익을 극대화하는 현명한 자산배분 투자자를 위한 로드맵을 제시하는 『현명한 자산배분 투자자』. 투자의 비밀이나 마술과 같은 해결책을 제시하는 대신, 과거 데이터를 바탕으로 투자의 안정성, 장기적 관점에서 설계한 포트폴리오 구축과 관리 방법을 제공한다. 어떤 자산에 투자함으로써 위험은 낮추고 수익을 개선시킬 수 있는지, 나아가 투자자의 투자 기간에 따른 적절한 포트폴리오는 어떤 것이 있는지 다양한 사례를 통해 이해할 수 있도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "에이지21",
+                "DDC": "",
+                "UPDATE_DATE": "20200205",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윌리엄 번스타인 지음 ;김성일 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "375 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998342562",
+                "INPUT_DATE": "20191015",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "현명한 자산배분 투자자",
+                "PUBLISH_PREDATE": "20191025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "수상한 빵집과 52장의 카드",
+    "oauthor": "요슈타인 가아더 저/백설자 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수상한 빵집과 52장의 카드",
+                "link": "https://search.shopping.naver.com/book/catalog/32491437381",
+                "image": "https://shopping-phinf.pstatic.net/main_3249143/32491437381.20221019115953.jpg",
+                "author": "요슈타인 가아더",
+                "discount": "13320",
+                "publisher": "현암사",
+                "pubdate": "20160323",
+                "isbn": "9788932317847",
+                "description": "요슈타인 가아더의『카드의 비밀』이『수상한 빵집과 52장의 카드』라는 이름으로 다시 독자들을 만나게 됐다. 『소피의 세계』로 널리 이름을 알린 요슈타인 가아더의 상상력과 철학적 통찰이 돋보이는 이 책은 한 소년이 엄마를 찾기 위해 여행을 떠나는 친숙한 플롯에 ‘책 속의 책’이라는 흥미로운 구성으로 독자들을 몰입하게 한다. 열두 살 소년 한스 토마스가 아버지와 함께 노르웨이에서 아테네까지 육로로 여행하면서 만난 한 노인으로부터 이야기는 시작된다. 루트비히라는 이름의 늙은 제빵사가 준 빵 속에서 돋보기로만 읽을 수 있는 아주 작은 책이 발견되는데, 그 책 속의 환상적인 이야기와 한스 토마스의 실제 삶이 뒤엉키며 현실과 상상을 넘나드는 이야기가 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)현암사",
+                "DDC": "839.828",
+                "UPDATE_DATE": "20160405",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "요슈타인 가아더",
+                "SERIES_TITLE": "",
+                "KDC": "859.82",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5302695_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5302695_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "452",
+                "CONTROL_NO": "CIP2016007099",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932317847",
+                "INPUT_DATE": "20160315",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "수상한 빵집과 52장의 카드",
+                "PUBLISH_PREDATE": "20160323",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "내연기관 및 미래형자동차",
+    "oauthor": "정구섭,정용욱 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내연기관 및 미래형 자동차",
+                "link": "https://search.shopping.naver.com/book/catalog/32504755052",
+                "image": "https://shopping-phinf.pstatic.net/main_3250475/32504755052.20221228072602.jpg",
+                "author": "정구섭^정용욱",
+                "discount": "29100",
+                "publisher": "GS인터비전",
+                "pubdate": "20200130",
+                "isbn": "9791155763209",
+                "description": "전반부에서는 자동차용 내연기관을 중심으로 엔진전반에 대한 이해와 엔진 신기술 등 새로운 기술에 관해서 순서에 맞도록 저자 개인의 대학에서의 강의 내용과 여러 문헌을 참조하여 내연기관의 기초와 실제를 이해하기 쉽도록 엮는데 노력하였다. \n\n\n\n후반부에서는 현재 출시 단계에 있고, 머지않을 미래에 대중화 될 친환경자동차인 하이브리드자동차, 플러그 인 하이브리드 전기자동차, 배터리 전기자동차, 연료전지자동차에 대한 개요, 구조, 원리, 개발동향, 전망 등에 대하여 알기 쉽게 기술하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "GS인터비전",
+                "DDC": "",
+                "UPDATE_DATE": "20200103",
+                "EA_ADD_CODE": "93550",
+                "PUBLISHER_URL": "http://www.gsintervision.co.kr",
+                "AUTHOR": "정구섭,정용욱 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "558 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155763209",
+                "INPUT_DATE": "20191127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "내연기관 및 미래형자동차",
+                "PUBLISH_PREDATE": "20200130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

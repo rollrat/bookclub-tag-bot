@@ -1,0 +1,67 @@
+{
+    "otitle": "해법코드로 설명한 심층강화학습",
+    "oauthor": "이승익 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "해법코드로 설명한 심층강화학습 (한국어판) (반복 강화학습,정책 그라디언트,TRPO)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466624150",
+                "image": "https://shopping-phinf.pstatic.net/main_3246662/32466624150.20221227204011.jpg",
+                "author": "Maxim Lapan",
+                "discount": "13500",
+                "publisher": "홍릉",
+                "pubdate": "20200313",
+                "isbn": "9791156007401",
+                "description": "▶ 이 책은 컴퓨터공학/과학개론을 다룬 이론서입니다. 컴퓨터공학/과학개론의 기초적이고 전반적인 내용을 학습할 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "홍릉",
+                "DDC": "",
+                "UPDATE_DATE": "20200406",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "Maxim Lapan 지음 ;이승익 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20200309",
+                "TITLE_URL": "",
+                "PRE_PRICE": "39000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "15,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "xvi, 568 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156007401",
+                "INPUT_DATE": "20200303",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "해법코드로 설명한 심층강화학습",
+                "PUBLISH_PREDATE": "20200309",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

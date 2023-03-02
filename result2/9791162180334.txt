@@ -1,0 +1,67 @@
+{
+    "otitle": "우리 만나서 커피 한잔 합시다",
+    "oauthor": "용혜원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리 만나서 커피 한잔 합시다 (용혜원 제85시집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476101285",
+                "image": "https://shopping-phinf.pstatic.net/main_3247610/32476101285.20230219103212.jpg",
+                "author": "용혜원",
+                "discount": "9000",
+                "publisher": "나무생각",
+                "pubdate": "20180920",
+                "isbn": "9791162180334",
+                "description": "용혜원 시인은 살아가면서 숨을 고를 수 있는 작은 위로의 매개체로 즐겨 마시는 ‘커피’를 답으로 내놓는다. 시인에게 커피는 위로이자 휴식이며, 만남이고 여행이다. 쓰디쓴 인생살이, 커피 한잔에 담아서 삼키고 훌훌 떠날 수 있다면 얼마나 좋을까. 지나온 시간, 짓누른 삶의 무게, 절대 고독을 커피 한잔으로 완전히 털어낼 수는 없겠지만, 시인은 그 한 조각의 위로조차 허용되지 않는다면 얼마나 불쌍한 인생인지 묻는다. 커피를 소재로 한 연작시를 다수 수록한 『우리 만나서 커피 한잔 합시다』에는 인생에 대한 시인의 긍정적인 시선과 솔직한 감성이 커피 향처럼 잘 스며들어 있다. 1장 ‘당신의 시간들이 외로울 때’는 「우리 만나서 커피 한잔 합시다」 연작시 외에 커피를 소재로 한 다양한 작품이 수록되어 있고, 2장 ‘어느 날 그 길 위에서’에는 길 위에서 시인이 만난 사람들과 커피와의 인연, 3장 ‘그저 나인 듯 너인 듯’에서는 각양의 자연과 사물에 대한 시인의 애정과 감성이 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무생각",
+                "DDC": "895.714",
+                "UPDATE_DATE": "20181012",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 용혜원",
+                "SERIES_TITLE": "",
+                "KDC": "811.62",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6882745_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "167 p.",
+                "CONTROL_NO": "CIP2018027630",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162180334",
+                "INPUT_DATE": "20180827",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우리 만나서 커피 한잔 합시다",
+                "PUBLISH_PREDATE": "20180920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

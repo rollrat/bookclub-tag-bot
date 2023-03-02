@@ -1,0 +1,67 @@
+{
+    "otitle": "사회학 아는 척하기",
+    "oauthor": "존 네이글 저/피에로 그림/양영철 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사회학 아는 척하기 (만화처럼 재미있게 읽는 말랑말랑한 사회학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467047692",
+                "image": "https://shopping-phinf.pstatic.net/main_3246704/32467047692.20221228073411.jpg",
+                "author": "존 네이글",
+                "discount": "12150",
+                "publisher": "팬덤북스",
+                "pubdate": "20210108",
+                "isbn": "9791161691428",
+                "description": "‘누군가’의 사회학이 아니라 ‘우리 모두가 알아야 할’ 사회학\n\n대부분의 사람들은 사회학은 재미없는 학문, 대중과는 거리가 먼 학문이라고 생각한다. 또는 사회학에 관심 있는 일부 사람들만의 학문으로 치부하기도 한다. 하지만 사회학에는 더 나은 사회와 더 나은 세상을 열망하는 모두에게 필요한 지식이 담겨 있어 우리가 한 번쯤은 꼭 들여다볼 학문이다. 『사회학 아는 척하기』는 사회학이란 학문이 어렵고 복잡하고 교과서처럼 딱딱하고 재미없다는 편견과 고정관념을 무너뜨려, 사회학을 처음 접하는 일반인들이 사회학이란 낯선 학문에 한 발짝 다가갈 수 있도록 구성했다. 사회학을 아는 것은 우리가 앞으로 어떤 사회와 세상에 살고 싶은지 생각하고 고민하는 것과 다름없다. 공정한 사회 건설에 필요한 지식을 담고 있는 사회학, 우리 모두에게 꼭 필요한 학문이 아닐까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210222",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "존 네이글 지음 ;피에로 그림 ;양영철 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "182 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161691428",
+                "INPUT_DATE": "20201214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "사회학 아는 척하기",
+                "PUBLISH_PREDATE": "20210115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

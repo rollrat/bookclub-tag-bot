@@ -1,0 +1,67 @@
+{
+    "otitle": "혼자 먹는 메론빵",
+    "oauthor": "이현서 외 글/김하랑 외 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "혼자 먹는 메론빵",
+                "link": "https://search.shopping.naver.com/book/catalog/32436277524",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436277524.20221229074657.jpg",
+                "author": "이현서 외 29명",
+                "discount": "9900",
+                "publisher": "북극곰",
+                "pubdate": "20200228",
+                "isbn": "9791190300605",
+                "description": "곡성 서봉 마을 어린이들의 두 번째 시와 그림\n\n심심산골의 작은 마을, 곡성 서봉 마을. 길작은도서관은 서봉 마을의 어엿한 문화 공간입니다. 김선자 관장님은 아이들과 소통하기 위해 처음 시 수업을 시작했습니다. 아이들이 시를 쓰며 마음을 드러내고, 위로를 얻기 바랐던 관장님의 귀중한 마음이 전해졌나 봅니다. 자신의 마음을 표현하는 데 서툴던 아이들은 이제 망설이지 않고 시로 자신을 표현합니다. 시와 그림으로 타인을 사랑하고 이해하는 방법을 터득한 것 같습니다. 『혼자 먹는 메론빵』은 『잘 보이고 싶은 날』에 이은, 곡성 어린이들의 두 번째 시집입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20200512",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "이현서 외 29명 시 ;김하랑 외 10명 그림",
+                "SERIES_TITLE": "",
+                "KDC": "811.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/02/19/9791190300605.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "158 p.",
+                "CONTROL_NO": "CIP2020007565",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190300605",
+                "INPUT_DATE": "20200219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "혼자 먹는 메론빵",
+                "PUBLISH_PREDATE": "20200228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

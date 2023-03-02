@@ -1,0 +1,56 @@
+{
+    "otitle": "커피 칵테일",
+    "oauthor": "제이슨 클라크 저/박지웅 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:48 +0900",
+        "total": 4,
+        "start": 1,
+        "display": 4,
+        "items": [
+            {
+                "title": "커피 칵테일 (세계적인 바텐더 제이슨 클라크가 알려주는 커피 칵테일 레시피 60)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462974671",
+                "image": "https://shopping-phinf.pstatic.net/main_3246297/32462974671.20221228074157.jpg",
+                "author": "제이슨 클라크",
+                "discount": "22500",
+                "publisher": "시그마북스",
+                "pubdate": "20200817",
+                "isbn": "9791190257657",
+                "description": "세계적인 바텐더 제이슨 클라크가 알려주는 커피 칵테일 레시피 책. 커피와 칵테일의 매력에 빠진 저자가 20년 넘게 주류 업계에 종사하며 자신이 개발한 커피 칵테일 레시피를 소개하고 다양한 팁을 전수한다. 입문자부터 숙련된 바텐더와 바리스타까지 모든 수준의 독자가 커피와 술이라는 인생의 즐거움을 창의적이고 맛있게 즐길 수 있도록 지식을 전수하고 동기와 영감을 불어넣는다."
+            },
+            {
+                "title": "카페음료 커피칵테일 (기본음료 인기카페음료 카피칵테일 모든 레시피를 한권에)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484549437",
+                "image": "https://shopping-phinf.pstatic.net/main_3248454/32484549437.20220527023836.jpg",
+                "author": "강란기^채동진^황호림^박영순",
+                "discount": "0",
+                "publisher": "유강",
+                "pubdate": "20150202",
+                "isbn": "9788997601615",
+                "description": "『카페음료 커피칵테일』은 기본음료, 인기 카페음료, 커피 칵테일 등 모든 레시피를 한권에 담은 책이다. 커피전문가를 염원하는 독자들의 '카페음료 마스터' 자격증 취득을 위해 카페 음료의 본질을 잘 이해하고 그 매력을 잘 표현할 수 있도록 구성했다."
+            },
+            {
+                "title": "카페음료 커피칵테일",
+                "link": "https://search.shopping.naver.com/book/catalog/32496891676",
+                "image": "https://shopping-phinf.pstatic.net/main_3249689/32496891676.20220527023753.jpg",
+                "author": "김연주",
+                "discount": "0",
+                "publisher": "유강",
+                "pubdate": "20141015",
+                "isbn": "9788997601493",
+                "description": "커피 전문점에서 판매되는 다양한 카페음료의 간단한 이론과 실기 레시피를 담은 교재다. 기본적인 커피의 종류부터 응용되는 카페의 음료들의 제조방법을 수록하였다. 카페 실무자들에게 유용하며, 카페음료 전문가 자격증인 [카페음료마스터] 자격증을 취득하는데 유용한 책이다."
+            },
+            {
+                "title": "카페 음료 & 커피 칵테일(Cafe Beverage & Coffee Cocktail)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492853642",
+                "image": "https://shopping-phinf.pstatic.net/main_3249285/32492853642.20220527055438.jpg",
+                "author": "강란기^황호림",
+                "discount": "0",
+                "publisher": "유강",
+                "pubdate": "20150302",
+                "isbn": "9788997601677",
+                "description": "[카페 음료 & 커피 칵테일(Cafe Beverage & Coffee Cocktail)]은 커피 전문점에서 판매되는 다양한 카페음료의 간단한 이론과 실기 레시피를 담은 교재이다. 책에는 기본적인 커피의 종류부터 응용되는 카페의 음료들의 제조방법을 수록되어 있다."
+            }
+        ]
+    }
+}

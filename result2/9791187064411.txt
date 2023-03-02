@@ -1,0 +1,67 @@
+{
+    "otitle": "책의 민족",
+    "oauthor": "맥스 I. 디몬트 저/김구원 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "책의 민족 (유대인 디아스포라 4천 년의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478523058",
+                "image": "https://shopping-phinf.pstatic.net/main_3247852/32478523058.20221228074623.jpg",
+                "author": "맥스 I. 디몬트",
+                "discount": "27000",
+                "publisher": "교양인",
+                "pubdate": "20191007",
+                "isbn": "9791187064411",
+                "description": "유대인은 수천 년간 수많은 역경과 도전을 이겨냈다. 이집트의 노예 생활, 가나안의 방랑기, 바빌론의 포로 생활을 거쳐 헬레니즘 세계에 융화되었고, 로마 제국의 흥망을 지켜본 후 이슬람 문명권과 르네상스기 유럽에서 번성했으며, 중세 암흑기와 나치 강제 수용소에서 살아남았다. 수많은 문명과 종교와 민족이 역사에서 사라지거나 흡수되었을 때 유대인은 어떻게 활력을 유지할 수 있었을까?\n\n\n\n이 책은 유대인이 문화를 창조하는 공동체로서 발전할 수 있었던 이유, 즉 유대인 특유의 '사상'을 바탕으로 삼아 유대 역사를 깊이 있게 조명한다. 유대 정체성을 확립하게 하고 유대 사상을 이웃 민족과 구별하게 해준 '모세 율법'부터, 유대교의 바탕이 된 '토라', 포로 생활에서 생존하기 위해 새로운 신 개념을 만들어낸 예언자들, 그리스 문학과 과학 저술을 아랍에 전한 번역가들, 유대 사상을 지식 체계로 구체화한 &lt;탈무드&gt;까지 유대인들은 자신들의 고유한 신념과 사상을 가슴에 품고 끈질기게 살아남았다.\n\n\n\n한 민족이 소멸의 위험에 맞서 전진과 후퇴, 도전과 응전을 거듭해 온 기나긴 투쟁의 서사시이자, 유대인이 수천 년 역사를 관통하며 인류의 영적·지적 성취에 어떻게 기여했는지를 보여주는 생동감 넘치고 매혹적인 이야기다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "교양인",
+                "DDC": "",
+                "UPDATE_DATE": "20191017",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 맥스 I. 디몬트 ;옮긴이: 김구원",
+                "SERIES_TITLE": "",
+                "KDC": "918.63",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "715 p.",
+                "CONTROL_NO": "CIP2019036560",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187064411",
+                "INPUT_DATE": "20190917",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "책의 민족",
+                "PUBLISH_PREDATE": "20191015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

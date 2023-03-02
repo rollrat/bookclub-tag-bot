@@ -1,0 +1,67 @@
+{
+    "otitle": "왜 기후변화가 문제일까?",
+    "oauthor": "공우석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왜 기후변화가 문제일까? (10대에게 들려주는 기후변화 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473332027",
+                "image": "https://shopping-phinf.pstatic.net/main_3247333/32473332027.20230214162658.jpg",
+                "author": "공우석",
+                "discount": "11700",
+                "publisher": "반니",
+                "pubdate": "20180327",
+                "isbn": "9791187980537",
+                "description": "기후변화에 담긴 인류의 미래,\n생명다양성 문제를 마주하다\n\n지구 온난화가 계속되면 지구는 어떻게 될까?\n왜 폭설과 폭우, 폭염이 늘어난 걸까?\n숨 막히는 미세먼지의 원인은 무엇일까?\n기후변화를 줄이기 위해 전 세계는 어떤 노력을 하고 있을까?\n\n인류 앞에 놓인 시급하고 중요한 과제, 기후변화의 원인과 문제점을 살펴보며\n지속 가능한 생태계를 만들 수 있는 실천 방법을 고민해본다.\n\n환경문제에서 가장 중요한 것은 작은 하나라도 ‘실천’하는 것이다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "20180511",
+                "EA_ADD_CODE": "43300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "공우석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "453.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6593061_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "175 p.",
+                "CONTROL_NO": "CIP2018008532",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187980537",
+                "INPUT_DATE": "20180314",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "왜 기후변화가 문제일까?",
+                "PUBLISH_PREDATE": "20180327",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

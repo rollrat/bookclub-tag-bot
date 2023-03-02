@@ -1,0 +1,67 @@
+{
+    "otitle": "법에 그런 게 있었어요?",
+    "oauthor": "강병철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "법에 그런 게 있었어요? (법적 분쟁에 엮이지 않는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492334680",
+                "image": "https://shopping-phinf.pstatic.net/main_3249233/32492334680.20230218110658.jpg",
+                "author": "강병철",
+                "discount": "13500",
+                "publisher": "모아북스",
+                "pubdate": "20210531",
+                "isbn": "9791158491475",
+                "description": "“아니, 이게 범죄가 된다구요?”\n한번 얽히면 몸과 마음이 모두 상하는 법률 분쟁\n알고 나면 강력한 무기가 되는 법률 상식\n현직 검찰수사관이 알려주는 일상 속 사건사고 예방법\n\n누구나 자신이 ‘법 없이도 살 사람’이라고 생각하지만, 현실에서는 사건과 사고에 휘말리고 타인과 얼굴을 붉히는 일이 수시로 일어난다. 일이 벌어지고 나서 ‘그럴 생각이 아니었고, 그런 법이 있는 줄 몰랐다’라고 모두 말하지만 범죄가 성립되고 처벌을 받아야 하는 상황이 되면 당황하지 않을 수 없다.\n현직 검찰수사관인 저자는 사람들이 일상적으로 하는 행동과 범법 행위 사이에 법률 지식에 대한 이해가 없음을 안타깝게 여기고, 성실하고 건강한 시민으로서 이 사회에서 살아가기 위해 기본적으로 알아야 할 상식과 법률 지식을 소개한다.\n다양한 일상 사례를 통해 불필요한 분쟁에 엮이지 않고 자유롭고 마음 편히 생활할 수 있는 법률 지식을 제공한다. 생소한 법률 용어는 자세하게 해설했고, 사례별로 사건의 시작과 결말을 상세하게 소개하고 있어서 현실 상황에 바로 적용할 수 있는 실용적인 가이드북이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "모아북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210723",
+                "EA_ADD_CODE": "03360",
+                "PUBLISHER_URL": "http://www.moabooks.com",
+                "AUTHOR": "강병철 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "396 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158491475",
+                "INPUT_DATE": "20210514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "법에 그런 게 있었어요?",
+                "PUBLISH_PREDATE": "20210604",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

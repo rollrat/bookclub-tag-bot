@@ -1,0 +1,67 @@
+{
+    "otitle": "저 독신 아니에요, 지금은 강아지랑 살고 있어요",
+    "oauthor": "도도 시즈코 저/김수현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "저 독신 아니에요, 지금은 강아지랑 살고 있어요. (견생 전반전 하나와 인생 후반전 도도 씨의 괜찮은 일상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496179080",
+                "image": "https://shopping-phinf.pstatic.net/main_3249617/32496179080.20221227202752.jpg",
+                "author": "도도 시즈코",
+                "discount": "12420",
+                "publisher": "빌리버튼",
+                "pubdate": "20181022",
+                "isbn": "9791188545315",
+                "description": "61세 여성과 한 살 애견의 삶, 1인 1견 라이프\n\n“나는 혼자지만 내 곁에는 늘 강아지 하나가 있다.\n지금의 내가 좋다. 강아지 하나와 함께 흘러가는 세월을 맞이하는 지금이 좋다. 그래, 이게 행복이지.”\n\n소설가이자 에세이스트인 도도 시즈코가 예순한 살의 나이에 한 살이 된 강아지 하나와 함께한 날들의 이야기를 책으로 펴냈다. 오랜 시간 작가와 함께해온 강아지 리키가 무지개다리를 건넌 뒤, 4개월이 된 강아지 하나가 리키의 빈자리를 채웠다. 씩씩한 리키와 정반대의 성격을 가진 새침한 새끼 강아지 하나. 리키가 도도 씨를 지켜줬다면, 하나는 도도 씨가 지켜줘야만 하는 존재다. 그런 하나와 함께하며 일어나는 일들과 느긋하게 나이 먹는 이야기를 유쾌하고 덤덤하게 풀어낸다. 작가는 말한다. “누군가는 예순한 살의 나이에 강아지 한 마리와 사는 나를 안쓰럽게 여길지도 모르겠지만, 나는 하나와 함께 산책을 하는 그 순간이 가장 행복하다” 누구나 자신에게 맞는 확실한 행복의 순간이 있다. 타인의 시선 때문에 나만의 행복한 순간을 지나치지 않고 소중히 여기는 한 사람의 이야기를 담아낸 이 책은, 사소하지만 소중한 것을 떠올리게 하는 상쾌한 에세이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "895.686",
+                "UPDATE_DATE": "20181031",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "도도 시즈코 지음 ;김수현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "838",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6932226_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6932226_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6932226_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "CIP2018031451",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188545315",
+                "INPUT_DATE": "20181001",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "저 독신 아니에요, 지금은 강아지랑 살고 있어요",
+                "PUBLISH_PREDATE": "20181022",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

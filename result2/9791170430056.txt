@@ -1,0 +1,67 @@
+{
+    "otitle": "살아가는 데 꼭 필요한 최소한의 보험상식",
+    "oauthor": "김용현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "살아가는 데 꼭 필요한 최소한의 보험상식",
+                "link": "https://search.shopping.naver.com/book/catalog/32473657896",
+                "image": "https://shopping-phinf.pstatic.net/main_3247365/32473657896.20221227210241.jpg",
+                "author": "김용현",
+                "discount": "13500",
+                "publisher": "원앤원북스",
+                "pubdate": "20190812",
+                "isbn": "9791170430056",
+                "description": "아는 만큼 보이는 보험의 모든 것!\n보험가입부터 리모델링까지 당신의 보험을 점검하라!\n\n누구나 가입하는 보험이지만 잘 가입하고 손해 보지 않기 위해서는 최소한의 보험상식이 필요하다. 이 책은 17년 차 베테랑 보험설계사가 보험가입 시 꼭 알아야 하는 상식만 콕콕 집어 엮은 보험바이블이다. 가입할 때 무엇을 확인해야 하는지, 보험료 조정은 어떻게 해야 하는지, 자신에게 맞는 보험에 가입한 것인지 확인하고 싶다면 이 책에 주목하자. 보험회사에 속지 않고 보험에 가입할 수 있는 실전 지식을 얻을 수 있을 것이다.\n\n이 책은 보험에 가입하기 전 알아야 하는 필수 상식과 보험에 가입할 때 확인해야 하는 사항, 보험에 가입하고 나서 보장을 받을 때 빠짐없이 보장받는 법, 보험료를 관리하고 리모델링하는 법까지 차근차근 설명해준다. 덧붙여 어디에도 물어보지 못한 사소한 궁금증에 대해서도 속시원히 답해준다. 보험에 가입할 때는 최소한 어떤 목적으로, 언제 얼마나 준비해야 하는지 고민해볼 필요가 있다. 보험에 대해 궁금하다면 당장 이 책을 펼쳐보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190827",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김용현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "328",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "CIP2019029005",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170430056",
+                "INPUT_DATE": "20190724",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(살아가는 데 꼭 필요한 최소한의) 보험상식",
+                "PUBLISH_PREDATE": "20190812",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

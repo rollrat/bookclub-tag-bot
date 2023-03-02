@@ -1,0 +1,67 @@
+{
+    "otitle": "내 모든 습관은 여행에서 만들어졌다",
+    "oauthor": "김민식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 모든 습관은 여행에서 만들어졌다",
+                "link": "https://search.shopping.naver.com/book/catalog/32441020102",
+                "image": "https://shopping-phinf.pstatic.net/main_3244102/32441020102.20230226071239.jpg",
+                "author": "김민식",
+                "discount": "13500",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20190524",
+                "isbn": "9791190065696",
+                "description": "설렘을 안고 떠난 여행길에서 새로운 습관을 만나고 새로운 나를 만났다!\n\n《영어책 한 권 외워봤니?》, 《매일 아침 써봤니?》의 저자 김민식 PD의 30여 년의 여행 이야기 중 정수만을 뽑아낸 『내 모든 습관은 여행에서 만들어졌다』. 지금 하는 일이 재미가 없다면 재미있기 위해 무엇을 할지 생각하고 궁리하며 살다 보니 여행을 다니고 글을 쓰고, 영어 공부를 하고 있었던 저자는 물건보다 경험에 돈을 쓴 삶, 돈이 없어도 즐길 수 있는 삶, 출근이 괴로우면 출근길이라도 즐겁게 만드는 삶이 모두 30여 년 동안 다닌 여행에서 배운 것이라고 이야기한다.\n\n산티아고를 꿈꾸지만 현실이 여의치 않을 땐 동네 뒷산이라도 매일 걸으며 자신을 단련시켰고, 어려서 미워했던 아버지와 화해하기 위한 방법으로 아버지와 단둘이 여행을 떠났고, 스무 살 달렸던 자전거 종주의 설렘을 생각하며 나이 50에 다시 자전거 전국 일주를 떠났다. 하고 싶은 게 많아서 매일 매일이 즐겁다는 김민식 PD는 20대의 위기는 영어로, 30대의 위기는 글쓰기로, 40대의 위기는 여행으로 극복하였고, 현재의 ‘재미주의자’ 김민식이 존재한다고 말한다. \n\n여행이라고 해서 거창한 것은 아니다. 동네 뒷산부터 아시아, 유럽, 미국, 아프리카까지 안 가본 데 빼고 다 가본 저자는 ‘되는지 안 되는지 떠나보기 전에는 모른다’라는 생각으로 발길이 닿는 곳 어디든 떠난 저자의 이야기를 통해 망설여졌던 삶에서 ‘일단 직진’ 해보는 삶으로 바뀔 것이다. 공짜로 즐기는 여행 코스를 비롯하여 따로 또 같이 즐기는 가족 여행, 국내 걷기 좋은 길, 누구나 쉽게 도전할 수 있는 자전거 종주 등 저자가 소개하는 여행 정보도 가득 실려 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스 :위즈덤하우스 미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20190603",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김민식 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/03/9791190065696.JPG",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "299 p.",
+                "CONTROL_NO": "CIP2019017628",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190065696",
+                "INPUT_DATE": "20190503",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "내 모든 습관은 여행에서 만들어졌다",
+                "PUBLISH_PREDATE": "20190524",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

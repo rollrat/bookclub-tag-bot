@@ -1,0 +1,67 @@
+{
+    "otitle": "런던 셀프트래블 : 2019-2020 최신판",
+    "oauthor": "박정은,전혜진 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "런던 셀프트래블(2019-2020) (믿고 보는 해외여행 가이드북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486076478",
+                "image": "https://shopping-phinf.pstatic.net/main_3248607/32486076478.20230207163030.jpg",
+                "author": "박정은",
+                "discount": "14400",
+                "publisher": "상상출판",
+                "pubdate": "20190403",
+                "isbn": "9791189856083",
+                "description": "한 권으로 즐겁고, 신나게 만끽하는 런던 여행!\n\n여행지의 볼거리, 먹거리, 쇼핑 숍, 숙소 등 스폿별 여행 정보를 현지 가이드처럼 친절하게 소개하는 해외여행 가이드북 시리즈 「셀프트래블」. 많은 여행자가 꼭 한 번 가고 싶은 여행지로 꼽는 유럽. 유럽의 수많은 여행지 중에서도 빼놓을 수 없는 필수 코스는 단연 런던이다. 『런던 셀프트래블』에서 전통과 역사가 담긴 풍경, 유서 깊은 왕실의 로열 문화, 혁신적이고 개성 넘치는 분위기까지 런던이 가진 모든 매력을 만나볼 수 있다.\n\n웨스트민스터, 소호, 켄싱턴 & 첼시, 더 시티, 사우스워크, 쇼디치와 같은 런던의 핵심 지역 7곳을 다루고 있다. 각 장의 관광명소는 여행자의 동선을 중심으로 구성해 효율적인 여행을 돕는다. 여기에 워너 브라더스 스튜디오, 라이, 옥스퍼드, 햄프턴 코트 팰리스, 케임브리지 등 런던에서 가까운 근교 지역의 정보까지 아낌없이 담았다. \n\n또 못 보고 지나치기에는 아쉬운 런던의 여행지와, 런던을 더 즐길 수 있도록 도와주는 재밌는 이야기도 스페셜 페이지에 가득 실었다. 런던 타워의 유령 이야기, 웨스트민스터 사원에 잠든 유명인 등 명소와 관련된 역사 이야기와 런던의 왕립 공원, 웨스트앤드 뮤지컬, 애프터눈 티 핫 스폿, 《노팅 힐》, 《러브 액츄얼리》 등 영화 속 촬영지 정보까지 모두 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20190417",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박정은,전혜진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "982.402",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186517109",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "CIP2019009602",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189856083",
+                "INPUT_DATE": "20190313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(셀프트래블) 런던",
+                "PUBLISH_PREDATE": "20190403",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

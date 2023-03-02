@@ -1,0 +1,67 @@
+{
+    "otitle": "늙지 않는 최고의 식사",
+    "oauthor": "후지타 고이치로 저/황미숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "늙지 않는 최고의 식사 (50세부터는 고기가 약이다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472605626",
+                "image": "https://shopping-phinf.pstatic.net/main_3247260/32472605626.20221019150001.jpg",
+                "author": "후지타 고이치로",
+                "discount": "11700",
+                "publisher": "예문아카이브",
+                "pubdate": "20190222",
+                "isbn": "9791163860136",
+                "description": "고기의 힘을 제대로 활용해 젊은 몸과 마음으로 활기차게 인생을 살아가는 방법!\n\n잘못된 건강 상식을 바로잡고 건강장수의 비법을 담은 『늙지 않는 최고의 식사』. 신체 노화가 본격적으로 시작되는 50세 이후에는 식사법도 달라져야 한다. 일본 최고 권위의 면역학 의사이자 81세 현역인 저자는  50세가 넘으면 일주일에 두 번 스테이크를 먹어야 한다고 단언하면서, 고기를 먹고 건강하게 장수하기 위한 지혜와 고기를 올바르게 먹는 방법에 대해 구체적으로 알려준다. \n\n실제로 식사법만으로 당뇨병을 완치한 경험이 있는 저자는 건강한 장수를 위한 식사를 연구하며 육식의 중요성을 깨닫고, 고기가 신체의 노화를 완화시키고 건강과 젊음을 유지시키는 핵심이라고 강조한다. 고기와 함께 먹으면 좋은 식재료, 고기 먹는 순서, 스테이크를 익히는 정도 등과 같이 고기의 힘을 효과적으로 얻는 방법을 비롯해 체내시계에 맞춘 식사법, 젊음을 유지시키는 마음가짐, 튼튼한 장을 만드는 비결 등 생활습관에 대한 유익한 정보를 집약해 건강장수를 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문아카이브",
+                "DDC": "613.2",
+                "UPDATE_DATE": "20190409",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "후지타 고이치로 지음 ;황미숙 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "517.549",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7131046_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7131046_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7131046_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7131046_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "CIP2019002913",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163860136",
+                "INPUT_DATE": "20190124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "늙지 않는 최고의 식사",
+                "PUBLISH_PREDATE": "20190222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

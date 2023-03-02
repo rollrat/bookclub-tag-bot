@@ -1,0 +1,67 @@
+{
+    "otitle": "뭘 하고 싶은지 뭘 할 수 있는지 모르겠지만",
+    "oauthor": "김시옷 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뭘 하고 싶은지 뭘 할 수 있는지 모르겠지만 (일단 나에게 좋은 사람이 되고 싶어)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496221203",
+                "image": "https://shopping-phinf.pstatic.net/main_3249622/32496221203.20221230072537.jpg",
+                "author": "김시옷",
+                "discount": "11970",
+                "publisher": "채륜서",
+                "pubdate": "20201210",
+                "isbn": "9791185401515",
+                "description": "때로 우리를 웃게 만드는 것은 \n단단한 위로가 아니라 힘 뺀 농담이다\n\n남들보다 뒤처진 것 같을 때 자책보다는 착실하게 로또를 하는 편이다. 어떻게 해도 도무지 힘이 나지 않을 때면 아이스크림을 실컷 퍼먹고 잠을 잔다. 온탕은 너무 뜨겁고 냉탕은 너무 차가워 “뜨뜻미지근한 것이 짱이여!”를 외친다. 어쩐지 고개를 끄덕이게 되는 작가의 인생 기술은 책을 덮고도 생각나 미소를 짓게 만든다. 지친 오늘을 웃어넘기게 만들어주는 힘은 단단한 위로가 아니라 힘 뺀 농담에서 나오는 것일지도 모른다.\n\n『뭘 하고 싶은지 뭘 할 수 있는지 모르겠지만』은 단순하면서도 감각적인 그림, 일상의 단상과 감회를 솔직하게 풀어내는 김시옷 작가의 에세이집이다. SNS를 통해 큰 반응을 얻었던 컷들을 책에 맞게 모두 새롭게 그렸고 시간 순서대로 재배치했다. 다수의 미공개 컷과 SNS에서 다루지 않았던 글을 책에서 처음 만날 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "채륜서",
+                "DDC": "",
+                "UPDATE_DATE": "20210319",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.chaeryun.com",
+                "AUTHOR": "쓰고 그린이: 김시옷",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*185",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "224 p.",
+                "CONTROL_NO": "CIP2020046621",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185401515",
+                "INPUT_DATE": "20201102",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "뭘 하고 싶은지 뭘 할 수 있는지 모르겠지만",
+                "PUBLISH_PREDATE": "20201210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

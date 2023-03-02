@@ -1,0 +1,67 @@
+{
+    "otitle": "딱 한 번만이라도",
+    "oauthor": "마스다 미리 저/권남희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "딱 한 번만이라도 (마스다 미리 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440991654",
+                "image": "https://shopping-phinf.pstatic.net/main_3244099/32440991654.20230218110328.jpg",
+                "author": "마스다 미리",
+                "discount": "11930",
+                "publisher": "소미미디어",
+                "pubdate": "20220117",
+                "isbn": "9791138404341",
+                "description": "“일 년에 한 번이라도 좋아,\n뜨겁고 뜨겁게 빛날 수 있는 밤을 갖고 싶어.”\n★《수짱의 연애》 《5년 전에 잊어버린 것》 작가 마스다 미리 \n  《안나의 토성》에 이어 발표한 두 번째 장편소설\n★당신이 아직 만나지 못한, 진짜 당신의 이야기\n\n■ 줄거리\n\n함께 사는 자매인 야요이와 히나코도 어느새 30대 중반. 돌싱인 언니 야요이의 직업은 요양보호사, 솔로 생활을 오래한 동생 히나코는 평범한 회사의 파견 직원이다. 성격도 살아온 길도 다른 둘이지만 공통점이 생겼다. 현실적으로 생각하고 행동하느라 꿈도 환상도 생각할 여유가 없어진 거다. 그런 자매의 일상에 화려한 삶을 사는 기요코 이모가 폭탄과도 같은 제안을 한다. 한 사람당 180만 엔이 드는 브라질 패키지여행을 함께 떠나지 않겠느냐고. 이모를 따라 충동적으로 브라질을 떠난 히나코를 어이없어 하면서도 야요이 역시 작은 일탈을 계획한다. 평소에는 하지 않을, ‘매일 새로운 일을 하는 룰’을 정해 하나씩 기록해나가기로 한 것이다. 히나코는 브라질의 화려한 카니발을 보면서, 야요이는 평소와 다른 모습의 일상에서 새로운 모습의 자신을 발견한다. 둘에게도 지금까지와 다른 내일이 시작되려는 걸까? 서로 다른 곳, 서로 다른 두 사람의 이야기가 각자의 빛을 드러낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20220125",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자: 마스다 미리 ;옮긴이: 권남희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "113*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "190 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791138404341",
+                "INPUT_DATE": "20210930",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "딱 한 번만이라도",
+                "PUBLISH_PREDATE": "20220117",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

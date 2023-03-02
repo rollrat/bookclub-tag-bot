@@ -1,0 +1,78 @@
+{
+    "otitle": "십대를 위한 재미있는 어휘 교과서",
+    "oauthor": "서보건 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:58 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "십대를 위한 재미있는 어휘 교과서",
+                "link": "https://search.shopping.naver.com/book/catalog/32486055801",
+                "image": "https://shopping-phinf.pstatic.net/main_3248605/32486055801.20221019141557.jpg",
+                "author": "서보건",
+                "discount": "9510",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20110222",
+                "isbn": "9788958073215",
+                "description": "청소년들이 꼭 알아야 할 어휘·표현을 정리한 교재『십대를 위한 재미있는 어휘 교과서』. 교과서 설명이 충분하지 못해 아쉽거나 신문 기사 등에 널리 쓰이지만 그 의미가 모호하거나 포털 사이트 지식검색에서 다수의 청소년들이 궁금해 하는 것을 위주로 선별하여 설명한다. 어휘의 탄생 배경이 무엇인지, 그 말이 유행하게 된 시대 상황 및 사회적 배경은 무엇인지, 원뜻은 무엇인지 등을 다양한 예와 함께 살펴본다. 어휘 설명 안에 파생어와 비슷한 표현 등 관련 어휘를 다루고 있다."
+            },
+            {
+                "title": "십대를 위한 재미있는 어휘 교과서 2 (교양도 학습도 스마트하게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466932641",
+                "image": "https://shopping-phinf.pstatic.net/main_3246693/32466932641.20221019120636.jpg",
+                "author": "서보건",
+                "discount": "10370",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20120229",
+                "isbn": "9788958073673",
+                "description": "세상과 통하는 유쾌한 시사 읽기!\n\n청소년들이 꼭 알아야 할 어휘·표현을 정리한『십대를 위한 재미있는 어휘 교과서』제2권. 책과 신문 읽기를 어려워하는 독자들을 대상으로, 교과서에 수록된 어휘와 세상을 읽는 데 꼭 필요한 어휘 중 100개를 선별하여 구성한 책이다. 시사, 문화, 역사, 과학 등 다양한 분야의 어휘를 대상으로 하였으며, 어휘의 사전적 의미는 물론, 확장된 의미와 파생된 의미까지 두루 밝히며 유래와 예문을 통해 입체적으로 살펴볼 수 있도록 하였다. 특히 하나의 표제어에서 다른 표제어로 넘어갈 때 꼬리에 꼬리를 물며 이어지도록 하여 자연스럽게 학습에 재미를 붙일 수 있다. 어휘에 담긴 유래와 다양한 의미를 통해, 사회가 지향하는 점, 구성원들의 의식, 당대의 풍습 등을 읽어낼 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20110304",
+                "EA_ADD_CODE": "13700",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "서보건",
+                "SERIES_TITLE": "",
+                "KDC": "714",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2459158_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2459158_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2011000555",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958073215",
+                "INPUT_DATE": "20110304",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "십대를 위한 재미있는 어휘교과서 ",
+                "PUBLISH_PREDATE": "20110222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

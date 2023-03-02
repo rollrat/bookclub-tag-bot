@@ -1,0 +1,67 @@
+{
+    "otitle": "좋아하는 일을 계속해보겠습니다",
+    "oauthor": "키미앤일이 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋아하는 일을 계속해보겠습니다 (흔들리지 않고, 마음먹은 대로 | 키미앤일이 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442172344",
+                "image": "https://shopping-phinf.pstatic.net/main_3244217/32442172344.20230214163638.jpg",
+                "author": "키미앤일이",
+                "discount": "12420",
+                "publisher": "가나출판사",
+                "pubdate": "20190222",
+                "isbn": "9788957369982",
+                "description": "SNS 8만 명의 독자가 애정하는 \n키미앤일이의 첫 그림 에세이\n좋아하는 일을 오래하기 위해, 꼭 해내야 하는 일상을 담다.\n\n출판계와 SNS에서 가장 주목받는 일러스트레이터 키미앤일이의 첫 번째 그림 에세이. \n과감한 색상 표현과 이국적인 그림체로 많은 팬을 확보해 나가고 있는 키미앤일이의 ‘키미’는 그림을 그리는 아내 김희은에서 따온 이름이고 ‘일이’는 디렉팅과 글쓰기를 하는 남편 김대일에서 따왔다. 부부는 부산과 남해를 오고 가며, 이상과 현실의 경계를 넘나들며, 살고 싶은 삶을 고민하는 순간순간에 느낀 감정을 글과 그림으로 표현했다. 작가는 여전히 어디에도 정착하지 못하고 이상도 현실도 아닌, 애매한 곳을 표류하며 살아가고 있지만 불행하진 않으니 이 정도면 그럭저럭 괜찮은 삶이라고 말한다. 평화로운 아침을 누리고, 바닷가에서 물수제비를 뜨고, 작은 시골집에서 작업을 하는 단순하고 느리지만 온전히 ‘자신’에게 집중하는 삶을 보여줌으로서 스스로 주인이 되지 못하는 삶을 사는 이들에게 신선한 자극을 준다. 책의 페이지를 펼칠 때마다 잊고 있던 가슴 뛰는 로망이 되살아난다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가나문화콘텐츠",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20190218",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "글·그림: 키미앤일이",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7120895_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7120895_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "219 p.",
+                "CONTROL_NO": "CIP2019002011",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957369982",
+                "INPUT_DATE": "20190117",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "좋아하는 일을 계속해보겠습니다",
+                "PUBLISH_PREDATE": "20190222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

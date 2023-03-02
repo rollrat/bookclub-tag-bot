@@ -1,0 +1,67 @@
+{
+    "otitle": "사물의 민낯",
+    "oauthor": "김지룡,갈릴레오 SNC 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사물의 민낯 (잡동사니로 보는 유쾌한 사물들의 인류학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505736527",
+                "image": "https://shopping-phinf.pstatic.net/main_3250573/32505736527.20221019120659.jpg",
+                "author": "김지룡",
+                "discount": "15120",
+                "publisher": "애플북스",
+                "pubdate": "20120416",
+                "isbn": "9788994353173",
+                "description": "일상적인 사물들의 특별한 역사를 만난다!\n\n잡동사니로 보는 유쾌한 사물들의 인류학 『사물의 민낯』. 사물이 가진 역사를 추적한 이 책은 해당 사물의 이야기뿐만 아니라 인류 전체의 역사적 문명, 그 발전 과정까지 고스란히 담아냈다. 이제는 너무나도 당연해진 일상용품들의 초기 모습과 어원, 변천 과정, 관련 에피소드, 결정적인 영향을 끼친 인물, 유통 과정 등의 과정을 만나볼 수 있다. 은밀한 것들, 익숙한 것들, 맛있는 것들, 신기한 것들, 재미있는 것들로 나누어 흥미로운 사물들의 역사를 충실한 사진 자료와 함께 공개한다. 우리가 누리고 있는 평범한 오늘은 사실 놀라운 발견들의 결정체임을 이 책을 통해 확인할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "비전비엔피·애플북스",
+                "DDC": "001",
+                "UPDATE_DATE": "20120413",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김지룡, 갈릴레오 SNC 지음",
+                "SERIES_TITLE": "",
+                "KDC": "001",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2546059_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20120416",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2546059_3.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "17300",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012001394",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994353173",
+                "INPUT_DATE": "20120321",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "사물의 민낯 ",
+                "PUBLISH_PREDATE": "20120416",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

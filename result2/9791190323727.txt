@@ -1,0 +1,67 @@
+{
+    "otitle": "고급일식조리 (개정판)",
+    "oauthor": "이훈희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고급일식조리 (개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441009247",
+                "image": "https://shopping-phinf.pstatic.net/main_3244100/32441009247.20220527022626.jpg",
+                "author": "이훈희",
+                "discount": "0",
+                "publisher": "백산출판사",
+                "pubdate": "20200220",
+                "isbn": "9791190323727",
+                "description": "▶ 일본요리에 관한 내용을 담은 전문서적입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "백산출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20200316",
+                "EA_ADD_CODE": "93590",
+                "PUBLISHER_URL": "http://www.ibaeksan.kr",
+                "AUTHOR": "이훈희 저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*250",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "216 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190323727",
+                "INPUT_DATE": "20200213",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "고급일식조리",
+                "PUBLISH_PREDATE": "20200220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "삶의 변화를 이끄는 한마디",
+    "oauthor": "라 브뤼예르 저/서정운 편역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:39 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "삶의 변화를 이끄는 한마디 (라 브뤼예르의 말)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455464620",
+                "image": "https://shopping-phinf.pstatic.net/main_3245546/32455464620.20221227204241.jpg",
+                "author": "라 브뤼예르",
+                "discount": "12420",
+                "publisher": "다른상상",
+                "pubdate": "20191110",
+                "isbn": "9791196711191",
+                "description": "몽테뉴, 라 로슈푸코와 함께 프랑스를 대표하는 잠언집\n삶의 관점을 변화시키는 400년 현자의 인생 격언\n“모순과 가식을 떨쳐내는 순간, 삶은 극적으로 바뀐다”\n\n몽테뉴, 라 로슈푸코의 저작과 함께 프랑스를 대표하는 잠언집으로 일컬어지며 저자 사후에도 제9판까지 출간된 당대 최고의 베스트셀러! 프루스트에게 영향을 준 아름다운 문장! 17세기 프랑스 작가 라 브뤼예르가 남긴 《인간성격론》을 현대적 감각으로 재편집한 책!\n\n중류 계급이었던 브뤼예르는 당시 대귀족 저택의 도서실 관리를 맡게 되면서 책을 가까이 하고 귀족들과도 대화할 수 있었다. 귀족 사회의 민낯을 가까이서 관찰한 덕분에 유려한 문장으로 인간의 모순과 가식을 폭로하면서 특히 귀족들의 행태를 유머러스하게 풍자한 작품을 남겼다. 라 브뤼예르의 말은 비단 귀족 계층의 한계뿐만 아니라 인간이라면 누구나 가진 모순과 가식을 밝게 드러내준다. 귀족과 권력에 도전하는 동시에 모든 인간이 스스로 반성함으로써 가식과 모순을 떨치고 새로운 변화를 맞기를 바랐던 그의 작품에는 인간의 심리를 간파하는 통찰력이 녹아 있다. 따라서 독자들은 그의 훌륭한 문장을 즐기는 동시에 스스로의 모순과 가식을 깨닫고 이를 극복하여 변화된 자기 자신을 만날 수 있을 것이다."
+            },
+            {
+                "title": "삶의 변화를 이끄는 종교",
+                "link": "https://search.shopping.naver.com/book/catalog/33434703677",
+                "image": "https://shopping-phinf.pstatic.net/main_3343470/33434703677.20221004122047.jpg",
+                "author": "강연정",
+                "discount": "0",
+                "publisher": "동문사",
+                "pubdate": "20170225",
+                "isbn": "9788982519062",
+                "description": "『삶의 변화를 이끄는 종교』는 모두 6단원으로 나누어 구성되었다. 기독교 학교부터 비전, 리더십, 가정, 성품, 만남 등의 주제로 나누어 삶의 변화를 이끄는 종교에 대해 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른상상",
+                "DDC": "",
+                "UPDATE_DATE": "20200129",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 라 브뤼예르 ;편역자: 서정운",
+                "SERIES_TITLE": "",
+                "KDC": "199.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "187 p.",
+                "CONTROL_NO": "CIP2019037691",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196711191",
+                "INPUT_DATE": "20190923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "삶의 변화를 이끄는 한마디",
+                "PUBLISH_PREDATE": "20191110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "세상 모든 판타스틱 슈퍼카",
+    "oauthor": "탈것발전소 기획/안명철 글/김필수 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상 모든 판타스틱 슈퍼카",
+                "link": "https://search.shopping.naver.com/book/catalog/32466610762",
+                "image": "https://shopping-phinf.pstatic.net/main_3246661/32466610762.20221227202749.jpg",
+                "author": "안명철",
+                "discount": "12420",
+                "publisher": "주니어골든벨",
+                "pubdate": "20210625",
+                "isbn": "9791158065249",
+                "description": "슈퍼맨이 있다면 슈퍼카도 있어요. 화려한 겉모습에 처음 반하고, 엄청난 성능에 두 번 반하지요.\n레이싱 카로 출발하여 속도를 중시하던 스포츠카는 성능을 계속 높여가며 슈퍼카로 거듭났습니다.\n일반 자동차와 비교하여 어떤 차이가 있는 것일까요?\n슈퍼카를 ‘슈퍼’로 만들어주는 슈퍼 요소에 대해 알아봅시다.\n그뿐인가요~ 어떤 회사에서 만들어지고 있는지, 유명한 모델은 무엇인지 다양한 궁금증을 모두 풀어드릴게요. 이 책 한 권이면 충분합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "주니어골든벨",
+                "DDC": "",
+                "UPDATE_DATE": "20210913",
+                "EA_ADD_CODE": "73550",
+                "PUBLISHER_URL": "www.gbbook.co.kr",
+                "AUTHOR": "저자: 안명철",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "220*270",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "47 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158065249",
+                "INPUT_DATE": "20210722",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "세상 모든 판타스틱 슈퍼카",
+                "PUBLISH_PREDATE": "20210625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

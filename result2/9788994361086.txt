@@ -1,0 +1,78 @@
+{
+    "otitle": "전쟁 연대기 2",
+    "oauthor": "조셉 커민스 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:32 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "전쟁 연대기 2: 프랑스 혁명전쟁부터 이란-이라크 전쟁까지 (프랑스 혁명전쟁부터 이란-이라크 전쟁까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442134936",
+                "image": "https://shopping-phinf.pstatic.net/main_3244213/32442134936.20221019104756.jpg",
+                "author": "조셉 커민스",
+                "discount": "31500",
+                "publisher": "니케북스",
+                "pubdate": "20130615",
+                "isbn": "9788994361086",
+                "description": "『전쟁 연대기』 제2권 《프랑스 혁명전쟁부터 이란-이라크 전쟁까지》 편. 세계사를 바꾼 결정적인 전쟁을 다양한 각도로 깊이 있게 들여다보는 역작이다. 저자 조셉 커민스는 전쟁사의 놀라운 사실과 중요한 일화들을 흥미진진하게 풀어나가면서 마치 타임머신을 탄 듯 우리를 역사 속 전투 현장에 데려다 놓는다. 그뿐 아니라 전술과 무기에 관한 상세 정보, 숨은 이야기를 간직한 인물과 아직도 풀리지 않은 역사의 수수께끼 등 다채로운 이야기를 쉴 새 없이 들려준다."
+            },
+            {
+                "title": "고구려 연대기 2: 외투겐의 별들 (고구려 역사판타지 소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466988680",
+                "image": "https://shopping-phinf.pstatic.net/main_3246698/32466988680.20220527051403.jpg",
+                "author": "표광배",
+                "discount": "13500",
+                "publisher": "장수하늘소",
+                "pubdate": "20160730",
+                "isbn": "9788994627564",
+                "description": "고구려 역사판타지 소설 『고구려 연대기』 제2권 《외투겐의 별들》. 책은 동아시아와 중앙아시아의 두 제국 고구려와 투르크, 나아가 동아시아와 서역의 네트워크가 되어 준 ‘초원길’을 무대로, 한족과의 전쟁과 무역, 문명 교류라는 격동의 세기를 그려낸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "니케북스",
+                "DDC": "355.0209",
+                "UPDATE_DATE": "20200413",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조셉 커민스",
+                "SERIES_TITLE": "전쟁 연대기",
+                "KDC": "392.19",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788994361062",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2722415_3.jpg",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2722415_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013006858",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994361086",
+                "INPUT_DATE": "20130521",
+                "SET_EXPRESSION": "(세트)",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "전쟁 연대기",
+                "PUBLISH_PREDATE": "20130615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

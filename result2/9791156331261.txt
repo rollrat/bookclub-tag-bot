@@ -1,0 +1,67 @@
+{
+    "otitle": "반전이 있는 동아시아사",
+    "oauthor": "권재원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "반전이 있는 동아시아사 (색안경을 벗고 보는 일본 중국 타이완 홍콩 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466533447",
+                "image": "https://shopping-phinf.pstatic.net/main_3246653/32466533447.20221019110746.jpg",
+                "author": "권재원",
+                "discount": "11700",
+                "publisher": "다른",
+                "pubdate": "20161117",
+                "isbn": "9791156331261",
+                "description": "지금도 우리는 미국이나 유럽보다 일본, 중국, 타이완 등 동아시아 여러 나라들과 훨씬 더 자주 마주친다. 그럼에도 학교에서 배우는 내용은 턱없이 부족하기만 하다. 잘 모르는 만큼 오해도 많이 쌓인 이웃 나라들, 색안경을 벗고 이들의 진짜 얼굴을 들여다보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)다른",
+                "DDC": "",
+                "UPDATE_DATE": "20161128",
+                "EA_ADD_CODE": "43910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "권재원",
+                "SERIES_TITLE": "",
+                "KDC": "910",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5867003_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5867003_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "216",
+                "CONTROL_NO": "CIP2016026251",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156331261",
+                "INPUT_DATE": "20161031",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "반전이 있는 동아시아사",
+                "PUBLISH_PREDATE": "20161117",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

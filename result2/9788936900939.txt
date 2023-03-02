@@ -1,0 +1,78 @@
+{
+    "otitle": "집에서 기르는 야생화",
+    "oauthor": "강은희 저/김태정 사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:14 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "집에서 기르는 야생화",
+                "link": "https://search.shopping.naver.com/book/catalog/32486435671",
+                "image": "https://shopping-phinf.pstatic.net/main_3248643/32486435671.20221019104946.jpg",
+                "author": "김태정",
+                "discount": "7650",
+                "publisher": "대원사",
+                "pubdate": "20041230",
+                "isbn": "9788936900939",
+                "description": "근래에는 야생화의 아름다움을 직장이나 집안으로 끌어들여 이를 취미로 가꾸고 기르고자 하는 사람들이 늘고 있다. 따라서 종자 채취와 옮겨 심는 법, 넓은 뜰에서 가꾸는 법, 물 주고 거름 주는 법과 겨울에도 기르는 야생화를 소개하고 있다. 야생화의 종류, 생김새, 꽃피는 시기, 생장 조건 등을 자세히 설명하는 전문적인 야생화 재배 소개서이다."
+            },
+            {
+                "title": "집에서 기르는 야생화 (내 집 베란다와 정원에 야생화가 핀다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484725862",
+                "image": "https://shopping-phinf.pstatic.net/main_3248472/32484725862.20221231084220.jpg",
+                "author": "강은희",
+                "discount": "14850",
+                "publisher": "현암사",
+                "pubdate": "20100225",
+                "isbn": "9788932315393",
+                "description": "20년 동안 야생화를 직접 기르며 터득한 자신의 재배 노하우를 담은 책. 야생화를 곁에 가까이 두고픈 이들에게 집에서 성공적으로 야생화를 기를 수 있는 방법을 가르쳐 준다. 저자도 처음에는 취미로 시작했다가 갖가지 시행착오를 거치며 야생화 기르기의 노하우를 터득하였기에 그의 20년 경험을 담은 글과 그림은 구체적이고 알아보기 쉽다. 특히 야생화를 심거나 번식시킬 때 눈여겨 보아야 할 부분을 표현한 그림은 글로 이해하기 어려운 실제 작업시의 상황을 효과적으로 이해할 수 있게 하였다.\n\n\n\n사람들이 많이 좋아하고 기르기 쉬우며 원예식물과 어울림도 좋은 야생화 100종을 골라 그것을 기를 때 유의해야 할 점들을 일러주고, 야생화가 잘 자라는 장소, 자신에게 잘 맞는 야생화를 선택하는 방법, 야생화를 심을 때 필요한 도구, 흙의 종류, 화분에 흙을 담는 순서, 병충해 관리법, 분갈이 하는 방법, 식물 상태 진단법 등-을 별도의 장(章)으로 마련하여 야생화 기르기에 필요한 기초지식을 익힐 수 있게 하였다. 또한, 야생화가 사는 곳, 꽃 피는 시기를 비롯하여 학명과 과명, 약재용 이름과 다른 이름 등에 대한 정보도 함께 수록하여 야생화 도감으로서도 이용할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "대원사",
+                "DDC": "",
+                "UPDATE_DATE": "20170109",
+                "EA_ADD_CODE": "00480",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김태정 글,사진",
+                "SERIES_TITLE": "빛깔있는 책들",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "3500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "301-1",
+                "EA_ISBN": "8936900935",
+                "INPUT_DATE": "20170109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "(집에서 기르는)야생화",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

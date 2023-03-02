@@ -1,0 +1,67 @@
+{
+    "otitle": "소심이 병은 아니잖아요?",
+    "oauthor": "이지아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "소심이 병은 아니잖아요? (스몰 마인드 자기 긍정학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503504901",
+                "image": "https://shopping-phinf.pstatic.net/main_3250350/32503504901.20221228074826.jpg",
+                "author": "이지아",
+                "discount": "13050",
+                "publisher": "델피노",
+                "pubdate": "20201015",
+                "isbn": "9791196757397",
+                "description": "“쿨한 척, 괜찮은 척은 그만! 당당하게 소심하자”\n소심해서 쭈그러드는 당신을 위한 힐링과 공감의 에세이\n\n혼자서 소심한 사람은 없다. 소심은 결국 ‘관계’의 문제다. 누구나 사람 앞에서 자꾸 작아진다. 특히 좋아하는 사람, 잘 보이고 싶은 사람 앞일수록 더욱 소심해진다. 대부분 사람은 하나같이 자기를 ‘소심하다’고 생각한다. 이 세상에는 ‘소심하다’는 성격만 존재하는 게 아닐까 싶을 정도로 모두가 소심한 사람들이다. 정도의 차이가 있고 분야의 차이만 있을 뿐, 남 눈치 안 보고 내 의견, 내 목소리 다 내면서 사는 사람은 없다. 완벽하게 소심한 사람은 없다. 누군가에게는 큰 목소리 낼 때도 있고, 또 어딘가에서는 잔뜩 웅크린 채로 살기도 한다. 그래서 같은 한 사람을 두고도 누군가는 ‘소심하다’고 말하고, 다른 이는 ‘자신감 있다’라고도 말하는 것이 아닐까. 바꾸고 싶었던 내 소심함을 이제는 인정해주자. 조금 용기를 낸 날은 칭찬해주고, 이렇게까지 소심하나 싶어서 내가 못나 보일 때는 괜찮다고 말해주는 것이다. 그렇게 살아도 꽤 살만한 세상이다. 저자도 소심과 덜 소심 사이에서 오늘은 조금 더 용기 내 보고, 내일은 또 더욱 쭈그러들기를 반복한다. 이 책은 조금 소심한 사람, 조금 더 소심한 사람, 예전에는 소심했지만, 지금은 조금 덜 소심한 사람. 어쨌든지 소심한, 세상의 모든 당신을 위한 힐링과 공감의 메시지다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "델피노",
+                "DDC": "",
+                "UPDATE_DATE": "20201028",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.delpinobooks.com",
+                "AUTHOR": "이지아 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/09/23/9791196757397.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "253 p.",
+                "CONTROL_NO": "CIP2020040964",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196757397",
+                "INPUT_DATE": "20200923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "소심이 병은 아니잖아요?",
+                "PUBLISH_PREDATE": "20201015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

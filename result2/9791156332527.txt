@@ -1,0 +1,78 @@
+{
+    "otitle": "동물원에 동물이 없다면",
+    "oauthor": "노정래 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:46 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "동물원에 동물이 없다면 (동물 복지부터 생물 다양성까지공존을 꿈꾸는 동물원)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443154117",
+                "image": "https://shopping-phinf.pstatic.net/main_3244315/32443154117.20230131163154.jpg",
+                "author": "노정래",
+                "discount": "10800",
+                "publisher": "다른",
+                "pubdate": "20190703",
+                "isbn": "9791156332527",
+                "description": "동물원 건축사, 조경사, 동물 연구가, 수의사, 사육사,\n큐레이터, 생태 교육가, 예술가, 공무원…\n\n종 보전을 위한 인간의 역할을 고민하다\n\n동물 복지, 멸종 위기 종 복원, 생물 다양성 등\n인간과 동물의 평화로운 공존을 꿈꾸는 동물원 이야기"
+            },
+            {
+                "title": "[큰글자도서] 동물원에 동물이 없다면 (동물 복지부터 생물 다양성까지 공존을 꿈꾸는 동물원)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504659667",
+                "image": "https://shopping-phinf.pstatic.net/main_3250465/32504659667.20220521125453.jpg",
+                "author": "노정래",
+                "discount": "25000",
+                "publisher": "다른",
+                "pubdate": "20210111",
+                "isbn": "9791156333197",
+                "description": "큰글자도서 라이브러리 시리즈, 서울대공원장을 지낸 저자 노정래가 인간과 동물의 평화로운 공존을 위한 동물원의 역할을 이야기한다. 왕이 권력을 과시하기 위해 희귀한 동물을 수집하면서 시작된 동물원의 역사를 소개하고, 동물 복지 의식이 발전함에 따라 동물원의 목적이 ‘동물 소장’에서 ‘자연 보호’로 바뀌는 과정을 보여 준다. \n\n\n\n또한 동물원과 관련된 다양한 직업을 소개한다. 동물의 습성에 맞게 동물원을 설계하고 꾸미는 동물원 건축사와 조경사, 균형 있는 식단으로 동물의 건강을 관리하는 동물 영양사, 종 복원과 서식지 보전 연구를 하는 생태 복원가, 질병을 예방하고 아픈 동물을 치료하는 수의사, 동물의 습성을 반영해 전시 방식을 구상하는 동물원 큐레이터 등 여러 직업을 다룬다. \n\n\n\n각각의 직업을 소개하는 데서 그치지 않는다. 어떤 공부를 해야 하는지도 구체적으로 설명한다. 사육사가 되려면 생물학과나 동물자원학과, 수의학과에서 공부하고, 생태 복원가가 되려면 생물학과나 과학교육과, 산림자원학과에서 공부하라며 실용적인 정보를 제공한다. 청소년 독자가 정확한 지식을 바탕으로 관심사를 탐색하고 진로 계획을 세울 수 있게 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른",
+                "DDC": "",
+                "UPDATE_DATE": "20190806",
+                "EA_ADD_CODE": "44000",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "노정래 지음",
+                "SERIES_TITLE": "지식 더하기 진로",
+                "KDC": "490.69",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791156332503",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/06/20/9791156332527.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "CIP2019024184",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9791156332527",
+                "INPUT_DATE": "20190620",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "동물원에 동물이 없다면",
+                "PUBLISH_PREDATE": "20190703",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44000 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

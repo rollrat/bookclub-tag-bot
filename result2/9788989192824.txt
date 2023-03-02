@@ -1,0 +1,78 @@
+{
+    "otitle": "어디서 봤더라?",
+    "oauthor": "조두현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:27 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "어, 어디서 봤더라? (자연이 선물한 첨단 과학의 세계로!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438199705",
+                "image": "https://shopping-phinf.pstatic.net/main_3243819/32438199705.20221230072020.jpg",
+                "author": "강현옥",
+                "discount": "8820",
+                "publisher": "파란자전거",
+                "pubdate": "20080331",
+                "isbn": "9788989192824",
+                "description": "천방지축 미믹 남매의 일상생활을 통해 15가지 '생체모방 과학 기술'을 소개한다. 자연에 존재하는 수많은 생물체는 수십억 년간 지구의 환경에 적응하면서 끊임없이 변화해 가장 적절한 기능과 형태를 갖추었다. 이런 생물체의 구조와 원리를 응용해 과학으로 발전시킨 것이 바로 생체모방공학, '바이오미메틱스'다.\n\n\n\n신발이나 가방, 우주선에서 물건을 고정시키는 데 쓰이는 찍찍이 벨크로테이프, 홍합의 끈끈이를 응용한 초강력 접착제, 물에 젖지 않는 연잎의 원리를 이용한 방수천과 방수 필름, 나비의 구조색을 응용한 흰색 립스틱, 곤충을 닮은 초소형 비행체 등 그 종류도 무궁무진하다. 책은 각 주제에 따른 과학기술이 어떠한 계기로, 어떤 생물을 모방해 만들어졌는지 안내하고, 또 그 생물의 특성을 좀 더 발전시키는 방법을 일러준다.\n\n\n\n풍부한 사진자료와 코믹한 삽화가 아이들이 답을 찾아가는 길에 활력소가 되어준다. 각 장 끝에는 '아는 만큼 커지는 생각 보따리' 코너를 두었다. 논리적이고 과학적인 사고란 무엇이며, 과학 공부를 잘하려면 어떻게 해야 하는지, 그리고 환경문제와 글쓰기를 잘하기 위한 좋은 습관 등을 소개하는 공간이다."
+            },
+            {
+                "title": "어디서 봤더라(조두현 동시집) (조두현 동시집)",
+                "link": "https://search.shopping.naver.com/book/catalog/33436249719",
+                "image": "https://shopping-phinf.pstatic.net/main_3343624/33436249719.20221227210013.jpg",
+                "author": "조두현",
+                "discount": "7200",
+                "publisher": "모아북스",
+                "pubdate": "20060515",
+                "isbn": "9788990539397",
+                "description": "『어디서 봤더라?』는 조두현 시인의 마음속에 살고 있는 열살쯤 되는 '아이'의 눈으로 바라본 세계로 작품마다 아이다운 생각과 느낌이 바탕에 깔려 있어 아이다운 느낌을 가진 동시집으로 읽을 수 있다...."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "파란자전거",
+                "DDC": "",
+                "UPDATE_DATE": "20161021",
+                "EA_ADD_CODE": "73400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강현옥,김은경 글 ;김동원 그림",
+                "SERIES_TITLE": "",
+                "KDC": "400",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2359767_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2359767_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2359767_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2359767_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2009002838",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788989192824",
+                "INPUT_DATE": "20080624",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "어, 어디서 봤더라? ",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

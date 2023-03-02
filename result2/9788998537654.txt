@@ -1,0 +1,67 @@
+{
+    "otitle": "남은 요리 활용 사전",
+    "oauthor": "김미주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "남은 요리 활용 사전 (너무 쉬운 그림 요리책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455552234",
+                "image": "https://shopping-phinf.pstatic.net/main_3245555/32455552234.20230103164721.jpg",
+                "author": "김미주",
+                "discount": "11700",
+                "publisher": "팜파스",
+                "pubdate": "20141010",
+                "isbn": "9788998537654",
+                "description": "남은 요리 활용하기의 특급 비밀을 공개한다!\n\n『남은 요리 활용 사전』은 처치곤란한 남은 음식들을 맛있는 요리로 변신시키는 마법의 레시피를 소개한다. 남은 치킨은 깔끔한 치킨월남쌈으로, 족발은 매콤한 맛이 유혹하는 족발볶음으로 다시 태어난다. 저자의 깔끔한 일러스트로 모든 요리법을 소개하고 있는 이 책은 음식에 대한 따뜻하고 다정한 이야기까지 수록하여 요리에 대한 무한 매력을 발산하고 있다.\n\n‘시킬 땐 몰랐지, 네가 남을 줄-배달편’, ‘명절은 지났지만, 음식은 남고-명절편’, ‘주전부리의 색다른 변신-군것질편’의 3개 파트로 나누어져 있으며, 특히 남은 음식 보관법까지 수록하여 음식에 대한 고민거리를 해결해 준다. 남은 요리 활용하기의 특급 비밀은 물론, 지금 색다른 음식을 먹고 싶은 당신에게 원하는 요리의 레시피를 제공할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20141022",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "김미주",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3947080_3.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3947080_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014025628",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998537654",
+                "INPUT_DATE": "20140827",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "남은 요리 활용 사전",
+                "PUBLISH_PREDATE": "20141010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

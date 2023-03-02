@@ -1,0 +1,67 @@
+{
+    "otitle": "행복은 주름살이 없다",
+    "oauthor": "안가엘 위옹 저/이세진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "행복은 주름살이 없다",
+                "link": "https://search.shopping.naver.com/book/catalog/32466623992",
+                "image": "https://shopping-phinf.pstatic.net/main_3246662/32466623992.20221019125210.jpg",
+                "author": "안가엘 위옹",
+                "discount": "14400",
+                "publisher": "청미",
+                "pubdate": "20210910",
+                "isbn": "9791189134273",
+                "description": "프랑스 아마존 베스트셀러 1위 \n\n★★★★★ “톡톡 튄다! 재미있다! 감동적이다! 당장 읽어야 할 책!”\n                                                  \n★★★★★ “이 소설은 한 줄기 햇살, 맛있게 고른 단어들의 꽃다발이다. 폴레트는 \n당신을 기쁘게 할 것이다. 나는 그녀를 사랑한다!”  \n                                                                                \n★★★★★ “우정과 함께하는 것의 중요성에 관한 책.”        \n\n★★★★★ “마음의 향유, 얼마나 행복한가!” \n\n★★★★★ “진정하고 풋풋한 생명력을 불어넣는 소설!” \n\n★★★★★ “이 캐릭터들을 떠난 지 거의 두 달이 지났습니다. 하지만 그들은 여전히 ??내 안에 살고 있고, 그들은 내 생각 속에 있고 내 마음 속에 작은 자리를 찾았습니다.”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청미(청미출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20211007",
+                "EA_ADD_CODE": "03860",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 안가엘 위옹 ;옮긴이: 이세진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "405 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189134273",
+                "INPUT_DATE": "20210826",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "행복은 주름살이 없다",
+                "PUBLISH_PREDATE": "20210910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

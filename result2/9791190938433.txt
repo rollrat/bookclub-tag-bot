@@ -1,0 +1,67 @@
+{
+    "otitle": "언젠가 한번쯤 유네스코 세계문화유산",
+    "oauthor": "김후영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "언젠가 한 번쯤 유네스코 세계문화유산 (책 속에서 쉽고 편하게 즐기는 경이로운 문화유산 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492771166",
+                "image": "https://shopping-phinf.pstatic.net/main_3249277/32492771166.20220527031941.jpg",
+                "author": "김후영",
+                "discount": "15210",
+                "publisher": "상상출판",
+                "pubdate": "20201026",
+                "isbn": "9791190938433",
+                "description": "유럽에서부터 아메리카에 이르기까지 전 세계의 세계문화유산 58곳을 소개한다. 세계문화유산은 인류가 창조한 유산 중 역사적, 미적 가치가 충만해 인류가 관리·보호·보존해야 하는 것들을 유네스코가 엄선해 지정한 것이다. 그만큼 쉽게 넘볼 수 없는 아름다운 형상을 드러내고, 여행가에게는 꼭 한 번쯤 가보길 꿈꾸는 존재가 된다.\n\n\n\n화려한 유럽의 도시부터 이집트의 피라미드, 페루의 맞추픽추 역사보호지구, 중국의 만리장성, 남미 세렝게티 평원에서부터 이집트의 피라미드, 호주의 산호초와 남미대륙의 바로크풍 성당에 이르기까지, 널리 알려져 이미 익숙한 문화유산과 함께, 다소 낯설지만 꼭 알아둬야 할 만한 숨은 유산을 모두 다루고 있다.\n\n\n\n본문에 등장하는 세계유산을 더 쉽고, 깊게 이해하기 위해 본문에 앞서 세계지도를 배치했다. 책에서 소개하는 문화유산의 위치가 어디쯤인지 알고, 유산을 하나하나 살펴보면 더욱 쉽게 이해할 수 있고, 이후에 여행을 떠날 때도 도움이 될 것이다. \n\n\n\n유산마다 국가명, 위치, 등재연도와 같은 기본 정보와 간단한 지도를 함께 수록했고, 세계유산을 소개하는 에세이와 함께 저자가 직접 아름답게 포착한 수준급의 사진도 가득 담았다. 여기에 먼 미래에 한 번쯤 꿈꾸던 여행을 떠나게 될 독자를 위해 여행하기 좋은 계절, 날씨, 간단한 교통 정보까지 수록했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20201103",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김후영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "909",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "363 p.",
+                "CONTROL_NO": "CIP2020041696",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190938433",
+                "INPUT_DATE": "20200928",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(언젠가 한번쯤) 유네스코 세계문화유산",
+                "PUBLISH_PREDATE": "20201026",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

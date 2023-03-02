@@ -1,0 +1,67 @@
+{
+    "otitle": "암으로 죽지 않는 식사",
+    "oauthor": "가미오 데쓰오 저/장은주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "암으로 죽지 않는 식사 (기적의 요리사가 알려주는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436007964",
+                "image": "https://shopping-phinf.pstatic.net/main_3243600/32436007964.20221228074821.jpg",
+                "author": "가미오 데쓰오",
+                "discount": "11700",
+                "publisher": "한국경제신문",
+                "pubdate": "20171215",
+                "isbn": "9788947542869",
+                "description": "일본 아마존 베스트셀러 \n\n태초먹거리 학교 이계호 교수 추천! \n\n여명 제로인 말기암 선고 후 14년 간 암을 다스려온 방법 공개 \n\n생명을 살리는 식사법, 암과 멀어지는 생활수칙, 암을 이기는 마음가짐 수록\n\n\n\n『암으로 죽지 않는 식사』는 저자 가미오 데쓰오가 살기 위해 실천한 것들의 기록이며, 동시에 세상에서 암을 줄이기 위한 그의 간절함도 담겨 있다. 자신의 몸을 실험 대상으로, 몸에 좋은 것과 나쁜 것을 선별하는 식재료 선택을 수없이 반복하고 조리법을 궁리하면서 몸 상태가 안정되는 식생활을 끊임없이 모색하고 실천해왔던 것들을 아낌없이 전하고 있다. 자신처럼 암으로 고통 받는 사람이 없기를 바라는 마음으로 또 비록 암에 걸렸다 하더라도 건강하게 일상생활을 오랜 기간 해나갈 수 있는 방법을 알려주려는 그의 진정성이 느껴지는 가르침이 깊은 울림과 깨우침을 전해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문",
+                "DDC": "",
+                "UPDATE_DATE": "20171229",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "가미오 데쓰오 지음 ;장은주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947542869",
+                "INPUT_DATE": "20171219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(기적의 요리사가 알려주는) 암으로 죽지 않는 식사",
+                "PUBLISH_PREDATE": "20171215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

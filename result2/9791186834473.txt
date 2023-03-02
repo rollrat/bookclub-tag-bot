@@ -1,0 +1,67 @@
+{
+    "otitle": "하루 1분 인생영어",
+    "oauthor": "YM기획 편저/성재원 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하루 1분 인생 영어 (때로는 위로를, 때로는 통찰을 일깨워주는 1분의 기적)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490363161",
+                "image": "https://shopping-phinf.pstatic.net/main_3249036/32490363161.20221229073735.jpg",
+                "author": "YM기획",
+                "discount": "13500",
+                "publisher": "베프북스",
+                "pubdate": "20170929",
+                "isbn": "9791186834473",
+                "description": "세상을 리드한 혁명가부터 삶과 아름다움을 사랑한 예술가까지 하루1분, 다양한 분야의 명사들에게서 \n삶의 지혜를 배우다!\n\n경영학의 아버지라 불리는 피터 드러커에게 큰 영감을 준 독서법은? 애플의 아이폰이 탄생하게 된 것은 마이크로 소프트사의 직원 때문이다? 대통령의 말에는 특별한 것이 있다? 영어공부와 상식, 그리고 통찰력과 감수성까지 하나라도 놓칠 수 없는 사람들을 위한 인생 영어책! \n경제, 경영, 철학, 예술, 스포츠 등 매주 다양한 분야의 인물 또는 테마에 관한 에피소드나 정보와 함께 그 주차 인물의 명언을 매일 한 문장씩 영어로 만날 수 있도록 한 권의 책에 모두 담았다. 하루에 딱 1장, 때로는 위로를 주고 때로는 삶의 통찰을 일으키는 명언을 읽고 관련 단어와 숙어를 익혀나가다 보면 어느새 300여 개의 영문장 속 영단어, 숙어들이 마스터 되는 것을 경험할 수 있다. 뿐만 아니라, 책 중간 중간 삽입된 큐알코드를 찍으면 관련 강연이나 인터뷰 영상을 감상할 수도 있어 영어공부에 지친 학생과 직장인들이 부담스럽지 않으면서 지속적이고 재미있는 영어공부가 가능하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "베프북스",
+                "DDC": "428",
+                "UPDATE_DATE": "20171010",
+                "EA_ADD_CODE": "14320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "YM기획 엮음",
+                "SERIES_TITLE": "하루1분 영어시리즈",
+                "KDC": "747",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6363177_6.txt",
+                "SET_ISBN": "9791186834466",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6363177_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "CIP2017024225",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186834473",
+                "INPUT_DATE": "20170914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "하루 1분 인생영어",
+                "PUBLISH_PREDATE": "20170929",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14320 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

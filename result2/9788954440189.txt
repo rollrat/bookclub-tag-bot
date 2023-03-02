@@ -1,0 +1,67 @@
+{
+    "otitle": "공공연한 고양이",
+    "oauthor": "최은영,조남주,정용준,이나경,강지영,박민정,김선영,김멜라,양원영,조예은 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공공연한 고양이 (고양이 시점 짧은 소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492916683",
+                "image": "https://shopping-phinf.pstatic.net/main_3249291/32492916683.20221227205256.jpg",
+                "author": "최은영^조남주^정용준^이나경^강지영^박민정^김선영^김멜라^양원영^조예은",
+                "discount": "11700",
+                "publisher": "자음과모음",
+                "pubdate": "20191025",
+                "isbn": "9788954440189",
+                "description": "이제는 우리에게 친숙하고 소중한 존재가 된 '고양이'에 관한 열 편의 짧은 소설을 모은 작품집이다. 제목 '공공연한 고양이'는 다양한 의미로 해석될 수 있다. 우리의 삶에 없어서는 안 될 '공공연한 존재'가 되었다는 의미로도, 고양이와 인간이 맺고 있는 다양한 관계의 방식들을 '공공연하게' 드러낸다는 의미로도 생각해볼 수 있다. \n\n\n\n고양이를 테마로 기획된 이번 작품집에는 &lt;쇼코의 미소&gt; &lt;내게 무해한 사람&gt;으로 독자들의 많은 사랑을 받으며 '레오' '미오' '마리' '포터' 네 마리 고양이와 함께 생활하고 있는 최은영 작가와 &lt;82년생 김지영&gt;으로 사회적?정서적 공감대를 불러일으켰으며 동사(凍死)의 위기해서 구출된 치즈태비 코숏 '봄'과 살고 있는 조남주 작가.\n\n\n\n그리고 &lt;안드로이드여도 괜찮아&gt;에서 안드로이드를 따뜻한 보살핌과 정서적 지지를 제공하는 가족으로 그려낸, 묘령 열다섯 살 고양이와 지내고 있는 양원영 작가를 비롯해 고양이와 특별한 인연을 가지고 있는 정용준, 이나경, 강지영, 박민정, 김선영, 김멜라, 조예은 작가가 고양이와 우리의 삶이 어떻게 연결되어 있는지 다정하고, 따스하게 그려내고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "자음과모음",
+                "DDC": "",
+                "UPDATE_DATE": "20191202",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 최은영,조남주,정용준,이나경,강지영,박민정,김선영,김멜라,양원영,조예은",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/26/9788954440189.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*186",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "189 p.",
+                "CONTROL_NO": "CIP2019038409",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954440189",
+                "INPUT_DATE": "20190926",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "공공연한 고양이",
+                "PUBLISH_PREDATE": "20191025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

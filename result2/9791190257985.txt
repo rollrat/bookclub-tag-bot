@@ -1,0 +1,67 @@
+{
+    "otitle": "지도로 읽는 땅따먹기 세계사",
+    "oauthor": "이와타 슈젠 감수/박지운 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지도로 읽는 땅따먹기 세계사 (68개 이슈로 한 번에 정리하는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481990238",
+                "image": "https://shopping-phinf.pstatic.net/main_3248199/32481990238.20230131162702.jpg",
+                "author": "이와타 슈젠",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20210105",
+                "isbn": "9791190257985",
+                "description": "인류 5000년 역사를 비주얼로 한눈에 볼 수 없을까?\n\n세계 역사를 읽다 보면 내가 텍스트를 읽는 건지, 텍스트가 나를 보는 건지 헷갈리는 순간이 있다. 글자 자체는 이해하지만, 머릿속에 하나로 응축되어 박히는 이미지가 없어 직관적으로 이해하기가 힘든 것이다. 당시 상황을 나타내는 지도가 참고자료로 나오는 책도 있지만, 그것조차 책 전체로 보면 극히 일부이다. 일반 역사책에서는 어느 지역, 어느 시대에 어떤 세력이 있고 그 결과가 어떻게 되었는지를 한눈에 보기가 쉽지 않다.\n이 책은 인류 5000년 역사에서 일어난 영토 다툼, 패권 경쟁, 혹은 세력 충돌을 68개 테마로 나누었다. 그래서 세계 역사의 변화와 흐름을 파악하는 데 유용하다. 세계사를 잘 모르더라도 시뮬레이션 게임과 같은 지도와 일러스트로 한눈에 파악할 수 있도록 정리하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210223",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "이와타 슈젠 감수 ;박지운 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*197",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "190 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257985",
+                "INPUT_DATE": "20201201",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(68개 이슈로 한 번에 정리하는) 지도로 읽는 땅따먹기 세계사",
+                "PUBLISH_PREDATE": "20210105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

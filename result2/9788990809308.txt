@@ -1,0 +1,67 @@
+{
+    "otitle": "빼앗긴 대지의 꿈",
+    "oauthor": "장 지글러 저, 양영란 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빼앗긴 대지의 꿈 (장 지글러, 서양의 원죄와 인간의 권리를 말하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438174132",
+                "image": "https://shopping-phinf.pstatic.net/main_3243817/32438174132.20220527070748.jpg",
+                "author": "장 지글러",
+                "discount": "11520",
+                "publisher": "갈라파고스",
+                "pubdate": "20100305",
+                "isbn": "9788990809308",
+                "description": "서양에 상처 입은 22억 사람들의 기억. 그것은 오늘날 세계를 어떤 위기로 몰아가는가?\n\n8년간 유엔 인권위원회 식량특별조사관으로 활동한 장 지글러의 최신작『빼앗긴 대지의 꿈』. 와 에 이어 인간다운 삶에 대해 말하는 세 번째 작품이다. 가 아버지와 아들의 대화형식을 빌려 기아의 문제를 차근차근 설명하고, 는 거기서 한 걸음 더 나아가 기아라는 현상의 역사적인 배경과 저변을 속속들이 파헤치면서 문제의 근원과 해결책을 제시했다면, 이 책 『빼앗긴 대지의 꿈』은 과거부터 현재에 이르기까지 서구 열강의 그늘이 짙게 드리운 남반구의 비극적인 상황을 생생하게 조명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라파고스",
+                "DDC": "306.342",
+                "UPDATE_DATE": "20100323",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "장 지글러 지음;양영란 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "330.904",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2390113_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2390113_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2390113_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2010000713",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990809308",
+                "INPUT_DATE": "20100224",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "빼앗긴 대지의 꿈 ",
+                "PUBLISH_PREDATE": "20100305",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "프루스트 효과",
+    "oauthor": "유예진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "프루스트 효과 (프루스트를 사랑한 작가들의 글쓰기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467514716",
+                "image": "https://shopping-phinf.pstatic.net/main_3246751/32467514716.20221019133152.jpg",
+                "author": "유예진",
+                "discount": "13500",
+                "publisher": "현암사",
+                "pubdate": "20170915",
+                "isbn": "9788932318714",
+                "description": "『프루스트 효과』는 연세대 불어불문학과 유예진 교수가 20세기 문학에 가장 큰 영향을 미친 작가 가운데 하나로 평가받는 마르셀 푸르스트와, 그를 사랑한 여덟 작가들의 이야기를 담은 책이다. 버지니아 울프와 블라디미르 나보코프, 나탈리 사로트, 아니 에르노 같은 소설가부터 극작가 베케트, 문학 이론가 제라르 주네트, 질 들뢰즈와 롤랑 바르트 같은 철학자까지, 프루스트를 사랑한 여덟 명의 작가들이 남긴 저서와 기록들을 통해 이들이 각자 프루스트에게 어떤 영향을 받았는지, 또 그를 얼마나 흠모하며 동시에 얼마나 그에게서 벗어나고자 했는지 추적한 다. 20세기 최고의 작가들과 그들에게 사랑받은 ‘작가들의 작가’ 프루스트의 이야기를 읽다 보면 20세기와 21세기까지 이어지는 다양한 문학의 양상 속에서 프루스트가 얼마나 큰 영향을 미쳤는지 엿볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "843.912",
+                "UPDATE_DATE": "20171012",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "유예진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "863.09",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6350549_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6350549_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6350549_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "CIP2017023122",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932318714",
+                "INPUT_DATE": "20170831",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "프루스트 효과",
+                "PUBLISH_PREDATE": "20170915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

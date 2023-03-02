@@ -1,0 +1,78 @@
+{
+    "otitle": "Cortex-M4 이론과 실무",
+    "oauthor": "정금섭,김현환,정용섭 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:32 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "Cortex-M4 이론과 실무 (ARM Core STM 32  마스터하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492202524",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492202524.20221227205911.jpg",
+                "author": "정금섭^김현환^정용섭",
+                "discount": "17100",
+                "publisher": "광문각",
+                "pubdate": "20210305",
+                "isbn": "9788970934839",
+                "description": "32비트 마이크로컨트롤러의 범용 기능들을\n쉽게 따라 할 수 있도록 구성\n\n본 교재는 32비트 마이크로컨트롤러의 범용 기능들을 쉽게 사용할 수 있도록 이론적인 배경은 배제하고 쉽게 따라 할 수 있도록 구성하였다. 일반적으로 32비트 프로세서를 활용해서 프로젝트를 구현하려면 관련된 많은 지식과 값비싼 컴파일러가 요구된다. 또한, 복잡한 환경 구축이 필수이며 이를 체계적으로 정리하지 않으면 매번 다시 시작해야 하는 수고로움이 동반되고 하고자 하는 사기를 떨어뜨리며 경우에 따라서는 포기하게 만든다. 따라서 본서는 컴파일러와 개발 툴이 결합되어 있고 무료로 다운로드해서 사용할 수 있는 ST사의 STM32CubeIDE(STM32CubeMX +TureSTUDIO) 개발 툴을 사용하며  내용은  간략하게 기술하고 따라 할 수 있도록 쉽게 기술하고자 하였다.  마이크로컨트롤러를 활용하는 기술자나 학생들의 목표는 32비트 ARM Core를 마음대로 활용하는 것이 아닐까 한다. 이 책을 접하시는 분들에게 조금이나마 도움이 되었으면 한다. 책의 주요 내용은 다음과 같다.\n\n1. 최소한의 STM32F의 지식: 1,2장 \n    개요 및 개발 환경\n2. 필수 내용: 3장~11장\n    GPIO, 시리얼 통신, EXTI, Timer, PWM, ADC/DAC, CLCD, FreeRTOS\n3. 응용분야: 12장, 13장, 14장, 15장, 16장\n    SDIO, Ethernet, HTTP Web server, Semaphore, Software Timers"
+            },
+            {
+                "title": "Cortex-M4 이론과 실무: 기초활용편 (ARM Core STM 32  마스터하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465086694",
+                "image": "https://shopping-phinf.pstatic.net/main_3246508/32465086694.20221019113813.jpg",
+                "author": "정금섭",
+                "discount": "20700",
+                "publisher": "광문각",
+                "pubdate": "20211001",
+                "isbn": "9788970935690",
+                "description": "32비트 마이크로컨트롤러 유닛의 범용 기능들을\n쉽게 따라 할 수 있도록 구성\n\n본 교재는 32비트 마이크로컨트롤러 유닛(MCU)의 범용 기능들을 쉽게 사용할 수 있도록 이론적인 배경은 배제하고 쉽게 따라 할 수 있도록 구성하였다. 일반적으로 32비트 프로세서를 활용해서 프로젝트를 구현하려면 관련된 많은 지식과 값비싼 컴파일러가 요구된다. 또한, 복잡한 환경 구축이 필수이며 이를 체계적으로 정리하지 않으면 매번 다시 시작해야 하는 수고로움이 동반되고, 하고자 하는 사기를 떨어뜨리며, 경우에 따라서는 포기하게 만든다. 따라서 본서는 컴파일러와 개발 툴이 결합되어 있고 무료로 다운로드해서 사용할 수 있는 ST사의 STM32CubeIDE(STM32CubeMX + TureSTUDIO) 개발 툴을 사용하며 내용은  간략하게 기술하고 따라 할 수 있도록 쉽게 기술하고자 하였다. 마이크로컨트롤러 유닛을 활용하는 기술자나 학생들의 목표는 32비트 ARM Core를 마음대로 활용하는 것이 아닐까 한다. 이 책을 접하시는 분들에게 조금이나마 도움이 되었으면 한다. 책의 주요 내용은 다음과 같다.\n\n1. 최소한의 STM32의 지식: 1,2장 \n    개요 및 개발 환경\n2. 필수 내용: 3장~11장\n    GPIO, 시리얼통신, EXTI, Timer, ADC, 디스플레이 장치, FreeRTOS\n3. 응용 분야: 12장 \n    딜레이 함수 만들기, 초음파센서, 압력센서, Load Cell, 서미스터"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "光文閣",
+                "DDC": "",
+                "UPDATE_DATE": "20210419",
+                "EA_ADD_CODE": "93560",
+                "PUBLISHER_URL": "http://www.kwangmoonkag.co.kr",
+                "AUTHOR": "정금섭,김현환,정용섭 공저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970934839",
+                "INPUT_DATE": "20210316",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "Cortex-M4 이론과 실무",
+                "PUBLISH_PREDATE": "20210305",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

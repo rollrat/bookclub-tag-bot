@@ -1,0 +1,67 @@
+{
+    "otitle": "우먼월드",
+    "oauthor": "아민더 달리왈 저/홍한별 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우먼월드 : 여자만 남은 세상 (여자만 남은 세상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466807579",
+                "image": "https://shopping-phinf.pstatic.net/main_3246680/32466807579.20221230073547.jpg",
+                "author": "아민더 달리왈",
+                "discount": "13500",
+                "publisher": "롤러코스터",
+                "pubdate": "20200102",
+                "isbn": "9791196874902",
+                "description": "‘남자가 멸종한 세계’라는 기발한 설정으로 인스타그램에 연재되며 20~30대 여성들의 폭발적 반응을 얻은 페미니즘 그래픽노블. 연재 당시 평균 3만~4만 개, 최고 11만여 개의 ‘좋아요’와 1000여 개의 댓글이 달렸고, 현재 저자의 팔로워는 23만 명을 넘어섰다. 2019년에는 이그나츠상(Ignatz Award 2019)을 수상하고, 현재 디즈니 계열사를 투자를 받아 TV시리즈로 만드는 작업을 하고 있다. \n\n\n\n미래의 어느 날 유전적 이상으로 남자들이 일찍 죽거나 더 이상 태어나지 않게 되고, 여기에 전 세계적으로 엄청난 자연재해가 겹쳐온다. 과거 문명은 거의 모두 사라졌고, 지구에는 맨손의 여성들만이 남아 있다. 이 책은 그중 ‘비욘세의 허벅지’ 마을 사람들의 일상 속으로 들어간다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "롤러코스터",
+                "DDC": "",
+                "UPDATE_DATE": "20200110",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "아민더 달리왈 지음 ;니컬러스 일릭 채색 ;홍한별 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/05/9791196874902.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "CIP2019050042",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196874902",
+                "INPUT_DATE": "20191205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우먼월드",
+                "PUBLISH_PREDATE": "20200102",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

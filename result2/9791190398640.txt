@@ -1,0 +1,67 @@
+{
+    "otitle": "탁월한 생각은 어떻게 만들어지는가",
+    "oauthor": "팀 허슨 저/강유리 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "탁월한 생각은 어떻게 만들어지는가 (생산성, 창의성, 혁신성을 높이는 6단계 생각법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457175433",
+                "image": "https://shopping-phinf.pstatic.net/main_3245717/32457175433.20221019151703.jpg",
+                "author": "Tim Hurson",
+                "discount": "16200",
+                "publisher": "현대지성",
+                "pubdate": "20200608",
+                "isbn": "9791190398640",
+                "description": "‘괜찮은’ 생각 대신 ‘탁월한’ 생각이 필요할 때\n나와 팀과 조직을 바꾸는 생산적 사고의 힘\n\n** 전 세계 MBA 교과서** \n** 포춘 500대 기업 CEO 추천 도서**\n\n순전히 재능이 있다고 해서 생산적이고 창의적인 생각을 할 수 있는 것은 아니다. 생각은 단순한 재능이 아니라 일종의 ‘기술’이다. 즉, 누구나 배우고 연습하고 발전시킬 수 있다. 많은 조직들은 현상 유지에 만족하지만 최고의 조직들은 다르다. 그들은 그럭저럭 만족스러운 ‘안전한’ 길에서 벗어나 놀라운 아이디어로 혁신을 일으킨다. 이럴 때 필요한 것이 생산적 사고다. 『탁월한 생각은 어떻게 만들어지는가』는 생산성, 창의성, 혁신성을 높이는 생산적 사고를 소개한다. 세상을 다르게 보는 방법에서 시작하여 텅 빈 머릿속을 아이디어로 가득 채우는 법, 쏟아지는 아이디어를 현실로 끄집어내는 법, 괜찮은 아이디어를 탁월한 해결책으로 변화시키는 방법까지 생산적 사고의 모든 것을 한 권에 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20200617",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "팀 허슨 지음 ;강유리 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/05/20/9791190398640.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "397 p.",
+                "CONTROL_NO": "CIP2020020843",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190398640",
+                "INPUT_DATE": "20200520",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "탁월한 생각은 어떻게 만들어지는가",
+                "PUBLISH_PREDATE": "20200608",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

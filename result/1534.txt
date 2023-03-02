@@ -1,0 +1,34 @@
+{
+    "otitle": "그 사람은 왜 나를 아프게 할까",
+    "oauthor": "크리스티안 노스럽 저/이은경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:16 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "그 사람은 왜 나를 아프게 할까 (상처받는 나와 상처주는 너를 위한 심리학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464768630",
+                "image": "https://shopping-phinf.pstatic.net/main_3246476/32464768630.20221019145902.jpg",
+                "author": "크리스티안 노스럽",
+                "discount": "12600",
+                "publisher": "행성B",
+                "pubdate": "20181120",
+                "isbn": "9791187525875",
+                "description": "▶ 교양심리에 관한 내용을 담은 전문서적입니다."
+            },
+            {
+                "title": "[큰글씨책] 그 사람은 왜 나를 아프게 할까 (상처받는 나와 상처주는 너를 위한 심리학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493285367",
+                "image": "https://shopping-phinf.pstatic.net/main_3249328/32493285367.20220521012313.jpg",
+                "author": "크리스티안 노스럽",
+                "discount": "21600",
+                "publisher": "행성B(행성비)",
+                "pubdate": "20200625",
+                "isbn": "9791164710225",
+                "description": ""
+            }
+        ]
+    }
+}

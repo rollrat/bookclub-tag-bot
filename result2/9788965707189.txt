@@ -1,0 +1,67 @@
+{
+    "otitle": "캣치",
+    "oauthor": "바네사 반 에드워즈 저/김문주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "캣치 (마음을 훔치는 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504189644",
+                "image": "https://shopping-phinf.pstatic.net/main_3250418/32504189644.20221227205542.jpg",
+                "author": "바네사 반 에드워즈",
+                "discount": "13500",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20181203",
+                "isbn": "9788965707189",
+                "description": "형광등 100개를 켠 듯 유난히 돋보이는 그 사람의 비밀? \n“나는 내 방식으로 9만 명을 사귀었다.” \n \n수많은 사람 사이에서 형광펜을 그은 것처럼 유난히 돋보이는 사람이 있다. 특별한 게 없어 보이는데 빛이 나는 사람이 있다. 눈빛과 손짓만으로 신뢰를 끌어내는 인간행동 탐구가, 9만 명의 학생이 대인관계를 주도하도록 이끌어온 바네사 에드워즈는 말한다. “인간행동의 본능을 알면 누구를 만나도 편안하게 어울릴 수 있고, 첫 5분 안에 마음을 훔칠 수 있다.”고. ≪캣치≫는 마음을 훔치는 14가지 공식을 담고 있다. 임팩트 있는 첫인상을 남기는 첫 5초 전략, 밤새도록 나를 생각나게 만드는 대화의 스파크, 까다로운 상대를 다루는 방법 등 실용적인 팁들과 매혹적인 연구 사례들로 가득하다. 사람들을 푹 빠져들게 만들고 싶은가? 이제 당신이 주인공이 될 차례다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "302",
+                "UPDATE_DATE": "20181128",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "바네사 반 에드워즈 지음 ;김문주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "331.18",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6973942_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6973942_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "CIP2018034643",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965707189",
+                "INPUT_DATE": "20181026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "캣치",
+                "PUBLISH_PREDATE": "20181203",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

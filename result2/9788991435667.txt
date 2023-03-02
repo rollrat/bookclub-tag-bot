@@ -1,0 +1,78 @@
+{
+    "otitle": "설득의 신",
+    "oauthor": "이정훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:20 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "설득의 신 (감정을 흔드는 1% 다른 설득법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496598746",
+                "image": "https://shopping-phinf.pstatic.net/main_3249659/32496598746.20220527044444.jpg",
+                "author": "이정훈",
+                "discount": "0",
+                "publisher": "리더북스",
+                "pubdate": "20160205",
+                "isbn": "9788991435667",
+                "description": "설득의 노하우는 모든 것에 우선한다!\n\n이 책에는 설득의 고수들이 사람들의 감정을 흔드는 1% 다른 설득법의 핵심이 총망라되어 있다. 이 설득법은 일상생활이나 직장에서, 비즈니스에서, 면접, 프레젠테이션에서 이미 가공할 만한 위력을 발휘했다. 우리가 알고 있는 상식의 허를 찌르는 이 비법들은 당장 실행하고 그 결과를 즉시 확인할 수 있는 것들이다. 사람들의 필요와 욕구를 적절한 순간에 자극하고, 때로는 이성과 논리로, 때로는 감정과 욕망에 호소하여 사람의 마음을 움직이는 이 설득법은 기업에서 최고 평점을 받은 저자의 설득 강의를 책으로 엮은 것이다."
+            },
+            {
+                "title": "설득의 신 (내가 원하는 세상은 내가 만든다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456302634",
+                "image": "https://shopping-phinf.pstatic.net/main_3245630/32456302634.20221019105835.jpg",
+                "author": "김한규",
+                "discount": "11700",
+                "publisher": "상상예찬",
+                "pubdate": "20130910",
+                "isbn": "9788986089349",
+                "description": "『설득의 신』은 한국인만의 고유한 행동 양식이 만들어진 이유를 지리· 역사학적 관점으로 접근하고, 심리학적 특징들을 분석하여 그에 들어맞는 설득 비법을 제시한다. 또한 상대방의 심리를 알고 설득하면 성공할 수 있다는 것을 한국과 세계의 성공 사례를 통해 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리더북스",
+                "DDC": "",
+                "UPDATE_DATE": "20161129",
+                "EA_ADD_CODE": "04190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이정훈",
+                "SERIES_TITLE": "이정훈 명강의 컬렉션1",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788991435650",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991435667",
+                "INPUT_DATE": "20160202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "설득의 신",
+                "PUBLISH_PREDATE": "20160205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04190 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

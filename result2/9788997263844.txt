@@ -1,0 +1,67 @@
+{
+    "otitle": "친절한 인문학 길잡이",
+    "oauthor": "경이수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "친절한 인문학 길잡이 (초보자를 위한 인문학 사용설명서 | 일상의 행복을 위한 인문학 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493612780",
+                "image": "https://shopping-phinf.pstatic.net/main_3249361/32493612780.20221129173257.jpg",
+                "author": "경이수",
+                "discount": "12600",
+                "publisher": "책비",
+                "pubdate": "20141201",
+                "isbn": "9788997263844",
+                "description": "인문고전을 읽으면 내가 보인다!\n\n인문학 열풍이 거세다. 관련 강연은 연일 사람들이 가득하고, 다양한 인문 서적들이 그 어느 때보다 많이 출간되고 있다. 기업의 입사시험에도 인문학 관련 소양을 묻는 질문들이 빠지지 않는다. 하지만 단순히 지식을 쌓기 위해 머리로만 인문학을 배우고자 한다면, 그 방대함과 난해함으로 인해 제대로 시작하기도 전에 배움을 포기할 수 있다. 이에 이 책 『친절한 인문학 길잡이』는 머리가 아닌 ‘마음’으로 배우는 인문학을 소개한다.\n\n지금의 우리가 공통적으로 가지고 있는 고민들, 공감할 수 있는 질문들로 이야기를 시작하며, 인문학을 공부하는 첫걸음으로 ‘인문고전 읽기’를 제시한다. 우리네 인생과 일상을 보다 쉽고 실감나게 들여다볼 수 있도록 인생의 15가지 질문들과 고전들을 결부시켜 마음으로 고전을 이해하고 자기 자신을 알아가도록 이끈다. 인문학이란 소크라테스나 공자를 알고자 하는 것이 아니라, 세상을 배우고 결국에는 나 자신을 알아가는 공부이기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책비",
+                "DDC": "",
+                "UPDATE_DATE": "20141229",
+                "EA_ADD_CODE": "13810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "경이수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997263844",
+                "INPUT_DATE": "20141229",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "친절한 인문학 길잡이 ",
+                "PUBLISH_PREDATE": "20141201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "번역가 K가 사는법",
+    "oauthor": "김택규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "번역가 K가 사는 법 (이대로 죽을 수는 없다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505138831",
+                "image": "https://shopping-phinf.pstatic.net/main_3250513/32505138831.20221019123548.jpg",
+                "author": "김택규",
+                "discount": "11700",
+                "publisher": "더라인북스",
+                "pubdate": "20200902",
+                "isbn": "9791188403219",
+                "description": "이런 번역가 또 없습니다!\n독보적인 캐릭터 번역가 K의 번역 인생과 기획 이야기\n\n전작 『번역가 되는 법』에서 출판번역가의 미래가 암울할지라도 ‘고분고분 죽을 마음이 없다’고 일갈했던 번역가 K가 돌아왔다. 인공지능의 습격 앞에서 조만간 사라질 직업 1위로 꼽히는 번역가. 하지만 번역가 K는 여전히 “이대로 죽을 수는 없다”고 선언한다.\n독서와 글쓰기로 단련된 모국어 전문가, 문학을 사랑하는 문장가, 중국의 살아있는 문화가 담긴 도서를 소개하는 중계인, 능력과 열정이 있는데도 마땅한 일감을 찾지 못하는 번역가들을 위한 프로젝트를 추진하는 기획자. 이 모든 역할을 넘나드는 번역가 K는 남들이 앞서간 길을 따라가기보다 언제나 새로운 도전을 시도하며, 오늘도 새로운 길을 만들어 나간다.\n자기 삶을 주도적으로 기획하는 번역가 K의 눈물겨우면서도 통쾌한 생존기는 번역가 지망생뿐 아니라 불안한 현대 사회를 살아가는 우리 모두에게 한 줄기 희망을 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더라인미디어",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "13820",
+                "PUBLISHER_URL": "http://www.thelinemi.com",
+                "AUTHOR": "저자 : 김택규",
+                "SERIES_TITLE": "",
+                "KDC": "727",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/11/9791188403219.jpg",
+                "PRE_PRICE": "13,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "143*202",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "250",
+                "CONTROL_NO": "CIP2020033875",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188403219",
+                "INPUT_DATE": "20200812",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "번역가 K가 사는 법",
+                "PUBLISH_PREDATE": "20200831",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

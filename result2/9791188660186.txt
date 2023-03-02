@@ -1,0 +1,67 @@
+{
+    "otitle": "고시원 기담",
+    "oauthor": "전건우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고시원 기담 (전건우 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478631953",
+                "image": "https://shopping-phinf.pstatic.net/main_3247863/32478631953.20230117165555.jpg",
+                "author": "전건우",
+                "discount": "11700",
+                "publisher": "CABINET",
+                "pubdate": "20180813",
+                "isbn": "9791188660186",
+                "description": "\"한 평짜리 작은 공간, 그 곳에도 삶이 있다. \n쇠락한 고시원을 배경으로 펼쳐지는 기묘하고도 환상적인 이야기\n\n변두리 시장 통에 자리한 고문고시원. 1990년대 불어 닥친 고시원 열풍에 편승해 지어진 고문고시원의 원래 이름은 ‘공문고시원’이었다. ‘공부의 문’이라는 뜻으로 지은 이름이었으나, 어느 날인가 ‘공’자 밑의 이응이 떨어져나가 ‘고문고시원’이 되고 말았다. 처음에는 고시원 원장의 저가 전략에 힘입어 다양한 사람들이 고문고시원에 둥지를 틀었다. 하지만 세월이 흐르고 시설이 낙후되면서 곧 하나 둘 떠나게 되고, 원장이 고시원을 허물겠다고 발표한 이후에는 대부분이 방을 비워 지금은 단 여덟 명만이 고문고시원에 거주하고 있다. 고문고시원 사람들은 모두 숨을 죽인 채 살아간다. 마치 유령처럼, 존재하지만 존재하지 않는 존재가 된 그들은 각자의 방에 틀어박혀 한 평짜리 삶을 이어가고 있다. \n\n 『고시원 기담』은 유령이 되어 살아가는 사람들이 겪게 되는 기묘한 이야기들을 담고 있다. 옴니버스 구성으로 전개되는 이들 각각의 이야기는 추리, SF, 무협, 스릴러 등 서로 다른 장르를 통해 저마다의 색으로 다채롭게 펼쳐진다. 이들의 기묘하고 환상적인 이야기들은 마지막에 하나의 사건과 이야기로 합쳐지고, 거대한 음모와 맞닥뜨리게 되면서 기적 같은 순간으로 이어진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Cabinet :올댓스토리",
+                "DDC": "",
+                "UPDATE_DATE": "20180829",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.allthatstory.co.kr",
+                "AUTHOR": "지은이: 전건우",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "428 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188660186",
+                "INPUT_DATE": "20180719",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "고시원 기담 ",
+                "PUBLISH_PREDATE": "20180813",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

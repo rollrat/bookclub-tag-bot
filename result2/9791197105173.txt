@@ -1,0 +1,67 @@
+{
+    "otitle": "우리도 아파트에 삽니다",
+    "oauthor": "김도요,이광식 글",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리도 아파트에 삽니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32491898740",
+                "image": "https://shopping-phinf.pstatic.net/main_3249189/32491898740.20221019123934.jpg",
+                "author": "김도요^이광식",
+                "discount": "11700",
+                "publisher": "동행(사회복지법인)",
+                "pubdate": "20211111",
+                "isbn": "9791197105173",
+                "description": "우리도 아파트에 삽니다\n\n'적응의 시간은 장애인과 비장애인 모두에게 필요하다.'\n\n지금까지 대부분의 장애인 거주 시설은 최대한 도심과는 멀리 떨어진 곳에, 교통이 불편한 곳에 있었다. 그런데 지역사회 한 가운데에 있는 아파트에 장애인들이 산다. 보통의 삶을 살고 싶은 장애인이 있고, 그런 장애인이 불편한 주민들이 있다. \n'아파트’라는 곳에서 마주한 우리 사회의 차가운 민낯부터 사람 사는 세상의 따뜻함까지 두루 겪은 경험담을 담은 책."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동행",
+                "DDC": "",
+                "UPDATE_DATE": "20211122",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김도요,이광식 ;삽화: 심희영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/10/27/9791197105173.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "131*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197105173",
+                "INPUT_DATE": "20211027",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우리도 아파트에 삽니다",
+                "PUBLISH_PREDATE": "20211111",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

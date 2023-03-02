@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 그냥 비를 맞기로 했다",
+    "oauthor": "INFP,SUE,변지영,정복이,슬슬,권현정,예나랑드 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 그냥 비를 맞기로 했다.",
+                "link": "https://search.shopping.naver.com/book/catalog/32495676630",
+                "image": "https://shopping-phinf.pstatic.net/main_3249567/32495676630.20221230071509.jpg",
+                "author": "INFP^SUE^변지영^정복이^슬슬^권현정(도라.K)^예나랑드",
+                "discount": "13000",
+                "publisher": "키효북스",
+                "pubdate": "20200710",
+                "isbn": "9791197084805",
+                "description": "마음의 평안은 채움이 아닌 비움에서 비로소 시작된다고 믿는다. 글을 짓고 문장을 만들고 마침표를 찍어도 우리 인생이 딱히 달라지는 건 없지만 빈 화면을 까만 글자로 채우는 동안 만큼은 평안했기를 저자는 바란다. 머릿속을 뱅글뱅글 돌아다녔던 무형의 감정을 글자로 엮어 쏟아냈으니 우리는 분명히 이책의 무게만큼은 가벼워질 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "키효북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200729",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: INFP,SUE,변지영,정복이,슬슬,권현정,예나랑드",
+                "SERIES_TITLE": "",
+                "KDC": "810.82",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/22/9791197084805.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "200 p.",
+                "CONTROL_NO": "CIP2020026224",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197084805",
+                "INPUT_DATE": "20200623",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 그냥 비를 맞기로 했다",
+                "PUBLISH_PREDATE": "20200710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

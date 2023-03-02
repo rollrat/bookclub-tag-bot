@@ -1,0 +1,67 @@
+{
+    "otitle": "천 개의 성공을 이끈 작은 관찰의 힘",
+    "oauthor": "이재준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "천 개의 성공을 이끈 작은 관찰의 힘 (창조 혁신의 기회는 관찰하지 않는 순간 사라진다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505935345",
+                "image": "https://shopping-phinf.pstatic.net/main_3250593/32505935345.20220527032634.jpg",
+                "author": "이재준",
+                "discount": "0",
+                "publisher": "리더북스",
+                "pubdate": "20150115",
+                "isbn": "9788991435483",
+                "description": "[천 개의 성공을 이끈 작은 관찰의 힘]은 평범한 일상을 관찰하여 문제를 해결한 사람들과 시장을 선도하는 창조적 상품을 만들어낸 창조ㆍ혁신 기업의 사례를 중심으로 모든 성공을 이끈 작은 관찰의 힘을 이야기하고 있다. 저자는 이 세상의 모든 성공을 이끈 작은 관찰의 힘과 관찰의 메커니즘, 본질을 밝혀내는 통찰력, 성취의 맥을 잡는 법, 문제 해결 중심의 조직운용법, 관찰하고 분석하는 시스템 등을 상세하게 제시하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리더북스",
+                "DDC": "",
+                "UPDATE_DATE": "20150724",
+                "EA_ADD_CODE": "04190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이재준",
+                "SERIES_TITLE": "상위 10%의 성과론",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788991435551",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "6500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991435483",
+                "INPUT_DATE": "20150106",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "천 개의 성공을 이끈 작은 관찰의 힘",
+                "PUBLISH_PREDATE": "20150115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04190 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

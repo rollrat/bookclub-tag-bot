@@ -1,0 +1,67 @@
+{
+    "otitle": "스스로 품위를 지키는 삶, 자존",
+    "oauthor": "손은경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스스로 품위를 지키는 삶, 자존 (있는 그대로의 나를 사랑하기 힘들 때 버티는 비결)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466937889",
+                "image": "https://shopping-phinf.pstatic.net/main_3246693/32466937889.20221230071941.jpg",
+                "author": "손은경",
+                "discount": "11700",
+                "publisher": "바이북스",
+                "pubdate": "20200630",
+                "isbn": "9791158771713",
+                "description": "조금 특별한 직장인의 자존 생존기. 지금 흔들리는 많은 사람들, 특히 청춘에게 필요한 것이 자존이라고 생각하는 저자 손은경이 자존은 타고나는 것이 아니라 꽃에 물을 주듯 조금씩 키워나가는 것이라는 사실을 전하고 싶어 《스스로 품위를 지키는 삶, 자존》이라는 책을 낸다. \n\n\n\n그녀만의 자존 생존기인 이 책에는 있는 그대로의 나를 사랑하기 힘들 때 버티는 비결이 담겨 있다. 본격적인 변화는 누군가에게 사랑받기를 기대하는 마음보다, 나부터 나를 사랑하는 것에서부터 시작할 수 있다. 그것이 가장 빠른 변화의 시작이면서, 가장 어려운 시작이다. 그 길에 이 책이 함께하기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200702",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "손은경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158771713",
+                "INPUT_DATE": "20200611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "스스로 품위를 지키는 삶, 자존",
+                "PUBLISH_PREDATE": "20200630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

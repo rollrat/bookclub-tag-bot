@@ -1,0 +1,67 @@
+{
+    "otitle": "비행기, 하마터면 그냥 탈 뻔했어",
+    "oauthor": "아라완 위파 저/전종훈 역/최성수 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비행기, 하마터면 그냥 탈 뻔했어 (기내식에 만족하지 않는 지적 여행자를 위한 비행기와 공항 메커니즘 해설 교과서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467384703",
+                "image": "https://shopping-phinf.pstatic.net/main_3246738/32467384703.20221227205142.jpg",
+                "author": "아라완 위파",
+                "discount": "11700",
+                "publisher": "보누스",
+                "pubdate": "20181120",
+                "isbn": "9788964943564",
+                "description": "금연 구역인 기내 화장실에 재떨이가 있는 이유는? 좌석에 알파벳 ‘I’가 없는 이유는 무엇일까? 비행기를 탈 때마다 궁금했던 이야기 98가지를 담았다. 자연 현상과 사고에 대처하는 조종사의 운항 기술, 공항과 관제탑의 메커니즘까지 항공 덕후들도 몰랐던 비행기와 공항 속 과학 이야기가 기다리고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보누스",
+                "DDC": "387.7",
+                "UPDATE_DATE": "20181119",
+                "EA_ADD_CODE": "03550",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "아라완 위파 지음 ;전종훈 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "326.37",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6971246_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6971246_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "254 p.",
+                "CONTROL_NO": "CIP2018034460",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964943564",
+                "INPUT_DATE": "20181025",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "비행기, 하마터면 그냥 탈 뻔했어",
+                "PUBLISH_PREDATE": "20181120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

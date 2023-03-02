@@ -1,0 +1,67 @@
+{
+    "otitle": "진짜 나로서기",
+    "oauthor": "김문재 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "진짜 나로서기 (모건스탠리에서 나사(Nasa)로)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441199020",
+                "image": "https://shopping-phinf.pstatic.net/main_3244119/32441199020.20221228073631.jpg",
+                "author": "김문재",
+                "discount": "12420",
+                "publisher": "포북(forbook)",
+                "pubdate": "20180815",
+                "isbn": "9791159000461",
+                "description": "13전 14기 끝에 모건스탠리에 입사했다. 다 이루었다 믿었다. 그런데 이상하다. 왜 행복하지가 않지? 사표를 던졌다. 그리고 다시 시작했다.\n미항공우주국, NASA에서 기회를 주었다. 나는 웃었고, 감사했다. 그런데…… 여기라면 괜찮을까? 행복한 나로서기, 이 꿈을 이룰 수 있을까?\n\n세계 최고의 금융 회사에 입사했지만, 자신만의 꿈을 찾으라는 내면의 목소리를 따라간 젊은이의 나로서기 스토리를 담은 책. 지은이는 선택의 순간들에서 ‘홀로 서기’ 위해 고민하고 방황했던 경험들, 그리고 그 경험들을 통해 자신이 진정으로 원했던 꿈을 찾아 ‘나로서기’에 성공한 과정을 솔직 담백하게 풀어낸다. 어쩌면 무모해 보일 수도 있는 지은이의 선택 뒤에 어떤 단단한 신념과 확신이 뒷받침 되었는지, 이 책을 통해 엿볼 수 있다. 나로 서기를 꿈꾸는 청춘들에게 이루고 싶은 꿈, 좋아하는 일을 찾아갈 수 있는 사고의 전환과 실행 방법을 저자의 경험을 통해 알려 준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "For book",
+                "DDC": "",
+                "UPDATE_DATE": "20180822",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김문재 쓰다",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "257 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159000461",
+                "INPUT_DATE": "20180803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "진짜의 나로서기",
+                "PUBLISH_PREDATE": "20180815",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

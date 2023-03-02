@@ -1,0 +1,67 @@
+{
+    "otitle": "벚꽃 아래서 기다릴게",
+    "oauthor": "아야세 마루 저/이연재 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "벚꽃 아래서 기다릴게",
+                "link": "https://search.shopping.naver.com/book/catalog/32441100902",
+                "image": "https://shopping-phinf.pstatic.net/main_3244110/32441100902.20221213170655.jpg",
+                "author": "아야세 마루",
+                "discount": "11520",
+                "publisher": "소미미디어",
+                "pubdate": "20170420",
+                "isbn": "9791157108596",
+                "description": "고향이 그리워지는 계절, 봄.\n고향으로 돌아간 다섯 사람, 다섯 개의 이야기.\n\n다섯 개의 단편에 등장하는 사람들의 모습과 처지는 제각각이다. 할머니를 도우러 낯선 시골로 간 대학생 손자, 상견례를 하러 약혼자의 고향 후쿠시마로 향하는 여자, 돌아가신 어머니와 사이가 좋지 않았던 30대 남자, 외할아버지네 집에는 처음 가보는 초등학생 손녀가 모두 같은 신칸센에 타고 고향으로 향한다. 그 목적도 행선지도 제각각이지만 도착한 그곳에서 모두 각자의 문제에 대한 답을 얻게 된다. 누군가가 나를 기다려준다는 것의 소중함, 미처 보지 못했던 또는 잊어버리고 있었던 ‘관계’에 대한 깨달음을 얻고서 돌아오는 길은 한결 홀가분하고 편안하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20170711",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "아야세 마루 지음 ;이연재 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "216 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157108596",
+                "INPUT_DATE": "20170221",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "벚꽃 아래서 기다릴게 ",
+                "PUBLISH_PREDATE": "20170420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

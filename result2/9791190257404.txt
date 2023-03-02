@@ -1,0 +1,67 @@
+{
+    "otitle": "세계 문화 여행 - 싱가포르",
+    "oauthor": "앤절라 밀리건,트리시아 부트 저/조유미 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계 문화 여행 : 싱가포르 (세계의 풍습과 문화가 궁금한 이들을 위한 필수 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492663885",
+                "image": "https://shopping-phinf.pstatic.net/main_3249266/32492663885.20221230071312.jpg",
+                "author": "앤절라 밀리건^트리시아 부트",
+                "discount": "10350",
+                "publisher": "시그마북스",
+                "pubdate": "20200520",
+                "isbn": "9791190257404",
+                "description": "세계의 풍습과 문화가 궁금한 이들을 위한 필수 안내서\n\n『세계 문화 여행』 시리즈는 세계 여러 나라의 관습, 문화, 생활, 삶을 알려주는 안내서다. 각국 사람들의 신념, 태도, 행동에 관한 정보가 담겨 있어 현지의 예의범절과 민감한 문제를 이해할 수 있다. 또한 외국에서 할 수 있는 난처한 실수를 방지하고 현지인들과 관계를 원만하게 맺으며 방문의 효과를 극대화하는 데 도움이 될 것이다. 『세계 문화 여행』 시리즈는 현재 일본, 중국, 터키, 포르투갈, 몽골, 스위스, 베트남, 이탈리아, 스페인, 홍콩, 쿠바, 그리스, 뉴질랜드, 이스라엘, 멕시코, 오스트리아, 헝가리, 덴마크, 노르웨이, 네덜란드, 싱가포르편이 출간되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200601",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "앤절라 밀리건,트리시아 부트 지음 ;조유미 옮김",
+                "SERIES_TITLE": "세계 문화 여행",
+                "KDC": "309.11469",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788984459113",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/03/19/9791190257404.jpg",
+                "PRE_PRICE": "11500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "209 p.",
+                "CONTROL_NO": "CIP2020011901",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257404",
+                "INPUT_DATE": "20200319",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "싱가포르",
+                "PUBLISH_PREDATE": "20200520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

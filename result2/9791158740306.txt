@@ -1,0 +1,67 @@
+{
+    "otitle": "놀이와 게임으로 만나는 코딩의 세계",
+    "oauthor": "짐 크리스티안 저/전성민 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "놀이와 게임으로 만나는 코딩의 세계 (생각하는 코더가 될래요)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436041643",
+                "image": "https://shopping-phinf.pstatic.net/main_3243604/32436041643.20221228073246.jpg",
+                "author": "짐 크리스티안",
+                "discount": "13320",
+                "publisher": "미디어숲",
+                "pubdate": "20180125",
+                "isbn": "9791158740306",
+                "description": "산업혁명의 나라 영국은 이미 4차 산업혁명이 시작됐음을 알고 2014년부터 초·중·고에서 코딩 공교육을 도입했다. 당시 영국 교육부 장관은 “산업혁명의 동력은 수학이었다. 4차 산업혁명에선 코딩이 수학과 같은 역할을 할 것이다.”라고 말했다. 미국과 프랑스, 중국, 일본 등도 발 빠르게 코딩 교육에 박차를 가하고 있다. 우리나라도 2018년부터 초·중·고에서 코딩의 정규 교육이 시작된다. 이제 코딩은 선택이 아닌 필수가 되었다.\n\n\n\n이 책은 코딩이 왜 필요한지, 어디에 사용하는지, 어떻게 구현하고 또 어떤 적용 사례가 있는지, 어떻게 배울 수 있는지 등과 같은 질문에 대한 답을 친절하게 들려준다. 기초 설명부터 코딩에 필요한 용어까지 쉽게 풀이하여 코딩을 처음 접한다고 해도 이 책을 읽고 나면 코딩의 모든 것을 깨칠 수 있다. 코딩을 본격적으로 시작하기 전 꼭 알아야 할 교양과 개념, 코딩을 위한 생각법을 재미있는 일상 속 문제로 만든 퍼즐과 예제로 보여 준다. 코딩의 즐거움을 알게 하는 좋은 길잡이가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미디어숲",
+                "DDC": "",
+                "UPDATE_DATE": "20180226",
+                "EA_ADD_CODE": "73000",
+                "PUBLISHER_URL": "http://www.mfbook.co.kr",
+                "AUTHOR": "짐 크리스티안 지음 ;전성민 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "005.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6470615_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "147 p.",
+                "CONTROL_NO": "CIP2017033724",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158740306",
+                "INPUT_DATE": "20171212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "놀이와 게임으로 만나는 코딩의 세계",
+                "PUBLISH_PREDATE": "20180125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

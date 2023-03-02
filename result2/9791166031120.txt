@@ -1,0 +1,67 @@
+{
+    "otitle": "너는 어떤 꿈을 꾸고 있니?",
+    "oauthor": "심소정 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "너는 어떤 꿈을 꾸고 있니? (14인의 전문가가 들려주는 진로와 책(영화)에 관한 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493531725",
+                "image": "https://shopping-phinf.pstatic.net/main_3249353/32493531725.20221230072839.jpg",
+                "author": "심소정^하정화^한재현^심종보^공기헌^류으뜸^황은지^최세경^여태문^허경아^안승렬^손지윤^임예빈^김영식",
+                "discount": "13500",
+                "publisher": "이담북스",
+                "pubdate": "20201019",
+                "isbn": "9791166031120",
+                "description": "청소년들을 만난 어른들은 “너의 꿈은 무엇이니?” 하고 묻고 싶어집니다. 청소년들 중에는 그런 질문을 부담스러워하는 아이들도 있습니다. 왜냐하면 어떤 꿈을 가질까? 하고 고민하고, 탐색하는 아이들에게 마치 강요하는 것처럼 느껴지기도 하기 때문입니다. 이 책에서는 우리 주변의 인생 선배들은 어떤 꿈을 꾸었고, 어떻게 그 꿈을 실현했으며 보람이나 아쉬움은 없었는지 먼저 이야기로 들려주는 장을 마련해보았습니다. 사람들은 누구나 성공을 꿈꾸지만, 성공의 기준은 사람마다 다 다를 수밖에 없습니다. 따라서 주변에서 만나는 다양한 사람들의 경험담을 들어보는 것은 꿈을 꾸고자 하는 청소년들에게 보다 현실감 있는 이야기로 다가갈 수 있으리라 기대합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20210311",
+                "EA_ADD_CODE": "13810",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "지은이: 심소정,하정화,한재현,심종보,공기현,류으뜸,황은지,최세경,여태문,허경아,안승렬,손지윤,임예빈,김영식",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "182 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166031120",
+                "INPUT_DATE": "20200923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "너는 어떤 꿈을 꾸고 있니?",
+                "PUBLISH_PREDATE": "20201019",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

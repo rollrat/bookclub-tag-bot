@@ -1,0 +1,67 @@
+{
+    "otitle": "놀랍게 쉬운 인공지능의 이해와 실습",
+    "oauthor": "한선관,류미영,김태령,고병철,서정원 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "놀랍게 쉬운 인공지능의 이해와 실습 (인공지능 사고를 키워주는 누구나 읽어야 할 AI 교양 교육 필독서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486005114",
+                "image": "https://shopping-phinf.pstatic.net/main_3248600/32486005114.20230218110655.jpg",
+                "author": "한선관^류미영^김태령^고병철^서정원",
+                "discount": "22500",
+                "publisher": "성안당",
+                "pubdate": "20210111",
+                "isbn": "9788931556841",
+                "description": "이론과 실전을 겸비한 AI 교육 마스터액션플랜!\n놀랍게 쉬운 인공지능의 이해와 실습\n\n미래 교육은 인공지능 인재 양성에 성패가 달려 있다 해도 과언이 아니다. 교과부의 최근 발표에 따르면 유치원은 놀이를 통한 AI 관련 교육을, 초·중학생은 수준에 맞는 AI 수업을, 고등학생에게는 2021년 2학기부터 〈AI 기초〉와 〈AI 수학〉이라는 진로선택 과목이 신설된다. 온 세상이 인공지능으로 무엇을 어떻게 가르칠 것인지 앞을 다투어 연구가 진행 중이고 교육자들은 관련 커리큘럼 개발과 방향을 고민 중이다. 이런 가운데 AI 교육에 대한 이론과 실습을 병행할 수 있는 한국인공지능교육학회 한선관 학회장 팀의 교재가 출간되어 이런 고민을 해결해 줄 것으로 보인다.  \n\n이 책은 인공지능을 제대로 이해하고 이론과 실습 어느 한쪽에 치우치지 않고 균형 있게 교육함으로써 인공지능에 대한 활용도와 인공지능 사고를 높일 수 있도록 길잡이 역할을 해준다. 인공지능을 제대로 이해할 수 있도록 이론적인 부분은 인공지능의 이론적인 각 분야를 제대로 설명하며 1부 매 장 말미의 [시뮬레이션]에서는 알고리즘이나 실습을, [코딩으로 체험하기]에서는 프로그래밍을, [AI 토픽]에서는 최신 인공지능 관련 이슈가 소개되어 읽는 재미가 있다. 특히 내용 이해를 확인하는 평가 문제도 마련되어 있다. 2부는 실습으로 ML4Kids, 스크래치3, 엠블록(mBlock)을 활용한 블록 프로그래밍 프로젝트로 인공지능을 해볼 수 있다. \n\n인공지능 교육에 대한 마스터 플랜(기본 계획)과 액션 플랜(실행 계획)을 이 책 한 권으로 해결 가능하며 특히 1부 15장, 2부 17장 구성으로 1학기 강의 과정 교재로도 좋다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210319",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "한선관,류미영,김태령,고병철,서정원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "004.73",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/14/9788931556841.jpg",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "415 p.",
+                "CONTROL_NO": "CIP2020052924",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931556841",
+                "INPUT_DATE": "20201214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(놀랍게 쉬운) 인공지능의 이해와 실습",
+                "PUBLISH_PREDATE": "20210111",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

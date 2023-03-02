@@ -1,0 +1,67 @@
+{
+    "otitle": "하루 5분 습관 수업",
+    "oauthor": "요시이 마사시 저/장은주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하루 5분 습관 수업 (의지가 약해도 할 수 있는 아주 작은 습관 만들기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474265166",
+                "image": "https://shopping-phinf.pstatic.net/main_3247426/32474265166.20221129175210.jpg",
+                "author": "요시이 마사시",
+                "discount": "11700",
+                "publisher": "현대지성",
+                "pubdate": "20210111",
+                "isbn": "9791191280340",
+                "description": "“의지도, 의욕도, 재능도 필요 없다”\n진짜 게으른 사람들을 위한 \n세상에서 가장 쉬운 습관 만들기\n\n정말 하루 5분으로 인생을 바꿀 수 있을까? 물론이다. 의지도, 의욕도, 재능도 필요 없다. 당신에게 필요한 건 단 하나, 뇌를 속이는 것이다! 우리 뇌는 ‘꼭 해야 한다’, ‘이렇게 하는 게 옳다’라는 생각만으로는 움직이지 않는다. 뇌는 어떤 일이 ‘즐겁다’고 느끼면 애쓰지 않아도 그 일을 계속하려 한다. 그러니 작은 일이라도 시도하고 성취감이라는 즐거움을 느끼면 힘들이지 않고도 습관을 만들 수 있다. \n\n이 책은 운동, 다이어트, 공부, 업무 습관, 관계를 개선하는 말 습관까지 나만의 작은 루틴을 만들 수 있는 가장 쉬운 비결을 알려 준다. 어떤 습관이라도 좋다. 하루에 딱 5분만 투자해 보자. 무엇을 했느냐가 아니라 얼마나 꾸준히 했는가에 따라 당신의 인생은 완전히 달라질 것이다.\n\nㆍ거듭되는 사업 실패로 무기력에 빠졌던 저자를 일으킨 ‘100일간 엽서쓰기’\nㆍ만년 꼴찌였던 영업사원, 습관 하나로 1등이 되다\nㆍ평범한 회사원, 10년간 ‘종이 한 장’ 습관으로 글로벌 경영자로\nㆍ말 습관 하나로 10kg 감량에 성공하다"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20210218",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "요시이 마사시 지음 ;장은주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "234 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191280340",
+                "INPUT_DATE": "20201224",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "하루 5분 습관 수업",
+                "PUBLISH_PREDATE": "20210111",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

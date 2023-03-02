@@ -1,0 +1,67 @@
+{
+    "otitle": "골목의 아이들",
+    "oauthor": "이병승 글/강창권 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "골목의 아이들",
+                "link": "https://search.shopping.naver.com/book/catalog/32472987572",
+                "image": "https://shopping-phinf.pstatic.net/main_3247298/32472987572.20221227205823.jpg",
+                "author": "이병승",
+                "discount": "9900",
+                "publisher": "북멘토",
+                "pubdate": "20150727",
+                "isbn": "9788963191447",
+                "description": "북멘토 가치동화 시리즈 17권. 놀이에 대한, 놀이의 난장이 펼쳐졌던 골목에 대한, 놀이에 울고 웃던 아이들에 대한 동화이다. 노는 아이들도, 골목을 누비는 아이들도 만나기 어려워진 오늘, 이 동화는 아이들에게 함께 노는 재미와 방법을 알게 하는 동시에 함께 살아가는 의미와 가치에 대해서도 생각하게 해 줄 것이다.\n\n\n\n1976년 서울의 골목길은 여느 때처럼 평화롭고 유쾌했다. 멜빵바지를 입고 미제 초콜릿을 입에 문 석구가 이사 오기 전까지는 말이다. 으리으리한 이층집에 새로 이사 온 석구가 그동안에는 볼 수 없었던 쇠구슬을 앞세워 동네 아이들의 구슬을 몽땅 따먹어 버렸다.\n\n\n\n동네의 구슬은 전부 석구의 차지가 되어 버리고, 더 이상 아무도 구슬치기를 할 수 없게 되고 만다. 주인공 건우도 여자 친구인 정옥이에게서 선물 받은 하얀 사기구슬마저 잃고 말았다. 건우는 석구 것보다 더 위력적인 쇠구슬을 사기 위해 아버지의 연탄 배달을 돕지만 자장면 다섯 그릇과 맞먹는 쇠구슬 값을 모으기에는 턱없이 부족했는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20150803",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.bookmentorbooks.co.kr",
+                "AUTHOR": "이병승",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4712790_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4712790_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015018465",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963191447",
+                "INPUT_DATE": "20150706",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "골목의 아이들",
+                "PUBLISH_PREDATE": "20150727",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

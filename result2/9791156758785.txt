@@ -1,0 +1,67 @@
+{
+    "otitle": "조현병의 모든 것",
+    "oauthor": "E. 풀러 토리 저/정지인 역/권준수 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조현병의 모든 것 (35년의 연구 결과를 축적한 조현병 바이블)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476734969",
+                "image": "https://shopping-phinf.pstatic.net/main_3247673/32476734969.20221230072120.jpg",
+                "author": "E. 풀러 토리",
+                "discount": "30240",
+                "publisher": "심심",
+                "pubdate": "20210512",
+                "isbn": "9791156758785",
+                "description": "정신의학자이자 조현병 연구의 대가 E. 풀러 토리가 조현병의 원인, 진단과 증상, 치료와 경과, 예후에 관한 최신 정보를 총망라한, 조현병 환자와 가족을 위한 안내서. 1983년 미국에서 처음 출간, 지금까지 7판을 거듭하며 누적 50만 부가 팔린 이 책은 지금까지 수많은 환자와 가족, 정신건강 전문가에게 도움을 주어 조현병에 관한 명실상부한 지침서라는 찬사를 받아왔다.\n\n\n\n이 책의 원제는 ‘조현병에서 생존하기Surviving Schizophrenia’다. 조현병에 걸린 여동생을 둔, 조현병 환자의 가족이기도 한 저자는 이 책에서 입원 치료와 좋은 의사 찾는 법(6장), 항정신병약물의 종류와 구체적인 치료 계획(7장), 재활 치료(8장), 조현병의 10대 주요 문제(10장), 환자와 가족이 가져야 할 올바른 태도와 생존 전략(11장), 도움이 될 옹호 단체와 피해야 할 단체(15장) 등 조현병 환자와 가족들이 비난과 수치로 인한 재앙에서 살아남을 수 있도록 구체적인 정보와 실질적인 방법들을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "심심 :푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20210628",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "E. 풀러 토리 지음 ;정지인 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "758 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156758785",
+                "INPUT_DATE": "20210416",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "조현병의 모든 것",
+                "PUBLISH_PREDATE": "20210517",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "SPSS에의한통계분석입문",
+    "oauthor": "정한열 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "SPSS에 의한 통계 분석 입문",
+                "link": "https://search.shopping.naver.com/book/catalog/32466468643",
+                "image": "https://shopping-phinf.pstatic.net/main_3246646/32466468643.20221229074224.jpg",
+                "author": "이지현",
+                "discount": "15000",
+                "publisher": "한올출판사",
+                "pubdate": "20100825",
+                "isbn": "9788983259363",
+                "description": "불확실한 경여환경에서 정확하고 안정적인 의사결정을 할 뿐 아니라, 불확실한 미래를 예상할 수 있는 통계 분석 능력을 향상시킬 수 있도록 SPPSS에 의한 통계분석에 대해 설명한다. 예제를 풍부하게 담아 실무에서도 활용할 수 있도록 구성되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한올출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20080326",
+                "EA_ADD_CODE": "93320",
+                "PUBLISHER_URL": "http://www.hanol.co.kr",
+                "AUTHOR": "저자: 노형진,정한열",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788983259363",
+                "INPUT_DATE": "20080326",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "SPSS에 의한 통계분석 입문 ",
+                "PUBLISH_PREDATE": "20080120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "고양이와 함께 티테이블 위 세계정복",
+    "oauthor": "길정현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고양이와 함께 티테이블 위 세계정복 (스물아홉 개의 디저트로 기억하는 스물아홉 번의 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466686072",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466686072.20221230071852.jpg",
+                "author": "길정현",
+                "discount": "13500",
+                "publisher": "빈티지하우스",
+                "pubdate": "20200417",
+                "isbn": "9791189249281",
+                "description": "스페인의 산티아고 순례길이나 티베트의 카일라스를 목적지로 선택한 것이 아니라면, 여행은 낯선 맛을 찾아나서는 시간이다. 밀크티와 땡모반, 에그타르트가 우리의 발걸음을 홍콩과 치앙마이의 야시장으로, 또 리스본의 골목으로 향하게 만드는 것처럼 말이다. (그리고 어쩌면 산티아고에서든 티베트에서든 기어코 맛을 찾아내는 '위'대한 인류도 있을지 모를 일이다.)\n\n\n\n물론 여행지의 맛을 주변에서 찾아볼 수 없는 것은 아니다. 대만도 아닌데 흑당버블티가 흔하고, 안트베르펜이 아니어도 맛있는 벨기에 와플을 맛볼 수 있다. 피렌체, 마드리드가 아니라 조금만 큰 마트에 가면 이탈리아산 프로슈토와 스페인산 하몽을 살 수 있는 시대지만, 그럼에도 우리는 여전히 낯선 맛을 그리며 또 다른 여행을 계획한다.\n\n\n\n하지만 예민한 고양이 '감자'와 함께 사는 집사에게 여행은 언제나 계획으로 그친다. 여행을 사랑하고, 여행과 가장 가까운 일을 하고 있지만 여느 집사가 그렇듯 꼼짝없이 집순이가 될 수밖에 없었던 작가는 그래서 조금 다른 방식의 여행을 선택했다. 티테이블 위에서 감자와 함께 먹고, 마시고, 기록하는 여행. 그렇게 &lt;고양이와 함께 티테이블 위 세계정복&gt;은 시작됐다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빈티지하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20200421",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "길정현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*170",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "268 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189249281",
+                "INPUT_DATE": "20200313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "고양이와 함께 티테이블 위 세계정복",
+                "PUBLISH_PREDATE": "20200417",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

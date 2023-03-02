@@ -1,0 +1,67 @@
+{
+    "otitle": "추사난화",
+    "oauthor": "이성현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "추사난화 秋史蘭話 (난화에 심어놓은 조선 정치가의 메시지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489593737",
+                "image": "https://shopping-phinf.pstatic.net/main_3248959/32489593737.20221228074907.jpg",
+                "author": "이성현",
+                "discount": "31500",
+                "publisher": "들녘",
+                "pubdate": "20180209",
+                "isbn": "9791159253140",
+                "description": "추사 선생과 추사 난화에 대한 \n미술사가들의 외눈박이 해설을 거부한다.\n\n추사 선생의 작품에 대한 미술사가들의 치사致辭가 화려함의 도를 더해갈수록 추사 선생은 오히려 초라해져만 간다. 선생의 본뜻을 간취하지 못한 채 모호한 미사여구로 꿰어 맞추고 심지어 글귀까지 바꿔가며 제멋대로 해석하더니, 급기야 예술가의 개성이란 괴팍한 것이니 너그럽게 봐주잔다. 어이없는 일이다.…… \n그러나 이런 엉뚱한 해석이 나오게 된 것이야말로 추사 선생이 의도한 바였다. 조선 말기의 세도정치 하에서 정적의 서슬 퍼런 감시를 따돌리고 눈 밝은 개혁동지를 가름하고 규합하여 시대의 모순을 혁파하고자 한 추사 선생은 난화蘭畵 속에 난화蘭話를 심어두어 뜻을 전달하려 하였다. 교묘한 유도로誘導路를 설계하여 세도가와 고루한 주자성리학 쟁이들의 시선을 딴 데로 돌리고, 선생의 의중을 알아챈 선비들로 하여금 나라 바로 세우는 일에 나서도록 심혈을 기울여 난을 쳐냈다.\n추사 선생의 난향蘭香을 온전히 음미하기 위해서는 난蘭의 향香이란 본래 어떠한 것이었는지부터 알아야 한다. 화지畵紙에 쓰인 글귀만을 쫓다가 막혀 억지 향기를 쥐어짜내지 말고, 추사 선생이 추구했던 정치사상의 핵심이 어디서부터 발원하는지 더듬어내야 한다. \n이 책은 추사 선쟁의 [불이선란佛二禪蘭]을 중심에 놓고 그 밖의 난화와 선비문예 작품들을 하나하나 들춰가며 조선의 개혁정치가가 전하고자 했던 메시지를 읽어낸다. 이를 통해 추사 선생과 그의 작품에 대한 현대 주류(?) 미술사가들의 해설이, 마치 조선후기 추사의 정적들이 그러했던 것처럼, 엉뚱한 방향으로 왜곡ㆍ축소되어 있음을 밝혀낸다. 그간의 외눈박이 해설들을 내려놓고, 호기심과 의문을 붙들며 추사 선생의 붓끝을 세밀히 따라가다 보면 [시경詩經]의 은유가 보이고, [대학大學]의 도道가 드러나며, 곳곳에서 번득이는 [초사楚辭ㆍ이소離騷]의 정신을 만나게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "745.6109519",
+                "UPDATE_DATE": "20180306",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "이성현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "640.911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6531152_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "165*225",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6531152_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "472 p.",
+                "CONTROL_NO": "CIP2018003147",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159253140",
+                "INPUT_DATE": "20180126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "추사난화",
+                "PUBLISH_PREDATE": "20180209",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

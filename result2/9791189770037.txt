@@ -1,0 +1,67 @@
+{
+    "otitle": "끝없는 살인",
+    "oauthor": "니시자와 야스히코 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "끝없는 살인 (니시자와 야스히코 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487792895",
+                "image": "https://shopping-phinf.pstatic.net/main_3248779/32487792895.20221019110420.jpg",
+                "author": "니시자와 야스히코",
+                "discount": "13500",
+                "publisher": "아프로스미디어",
+                "pubdate": "20191125",
+                "isbn": "9791189770037",
+                "description": "미궁에 빠진 연쇄 살인 사건의 진상을 파헤치는 안락의자 탐정들의 릴레이식 추리 향연\n\n일본의 본격 미스터리 작가 중 한 사람인 니시자와 야스히코의 장편 미스터리 소설 『끝없는 살인』이 출간되었다. 의사, 초등학생, 노인, 회사원 등을 대상으로 무차별 연쇄 살인 사건이 발생하고, 그들 중 유일한 생존자인 한 여성은 미스터리 작가와 전직 형사 등이 멤버인 추리 집단 〈연미회〉에 사건 조사를 의뢰한다. 수년 동안 범인이 잡히지 않아 공포와 불안의 나날을 보내는 그녀는 범인의 행방과 범행 동기를 밝혀낼 수 있을까. 과연 추리 전문가들의 가설과 새롭게 밝혀진 증거로 진실에 다다를 수 있을까.\n\n소설 『끝없는 살인』은 추리 전문 집단의 설전과 종반에 드러나는 충격적인 진실로 본격 미스터리의 다양한 매력을 보여 주고 있다. 범행의 동기와 피해자들의 연결 고리를 찾아내는 ‘미씽링크’, 현장에서 연기처럼 사라진 범인의 ‘밀실트릭’, 정교한 복선의 ‘서술트릭’을 통하여 ‘와이더닛’과 ‘후더닛’의 수수께끼 풀이를 하는 묘미를 느낄 수 있다. 또한 종반의 충격적인 반전과 함께 인간의 어두운 심리를 파헤치는 ‘이야미스’까지 담고 있는 미스터리 종합 선물 같은 작품이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아프로스미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20200108",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.aphrosmedia.com",
+                "AUTHOR": "지은이: 니시자와 야스히코 ;옮긴이: 주자덕",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/29/9791189770037.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "423 p.",
+                "CONTROL_NO": "CIP2019043563",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189770037",
+                "INPUT_DATE": "20191029",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "끝없는 살인",
+                "PUBLISH_PREDATE": "20191125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

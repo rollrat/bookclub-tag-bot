@@ -1,0 +1,67 @@
+{
+    "otitle": "15분이면 뚝딱! 와인 안주 요리",
+    "oauthor": "최주리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "15분이면 뚝딱! 와인 안주 요리 (편의점, 배달 음식, 간편식을 활용한 와인 100배 즐기기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466663728",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466663728.20230131162556.jpg",
+                "author": "최주리",
+                "discount": "16650",
+                "publisher": "설렘(SEOLREM)",
+                "pubdate": "20220401",
+                "isbn": "9791167850652",
+                "description": "편의점 제품과 배달 음식 등 간편식으로\n누구나 손쉽게 즐길 수 있는 와인 페어링과\n초보 와인 입문자를 위한 와인 선택법까지\n이 책 한 권에 담았다!\n\n혼술, 혼밥은 이제 하나의 문화로 자리 잡았지만 감염병의 장기화로 마음 놓고 밖에서 즐길 수 없는 상황이 되었습니다. 집 안에 있는 시간이 늘어나며 혼술족들도 자연스럽게 집에서 즐기는 ‘홈술족’으로 변모하고 있죠. 그리고 와인은 사회적 거리두기에도 국내 와인 시장의 30%가 성장할 정도로 홈술 시장의 최고 ‘수혜주(酒)’로 불리고 있습니다.\n 국민 술 타이틀을 넘보는 와인을 제대로 맛보고 싶으신가요? 《15분이면 뚝딱! 와인 안주 요리》는 편의점 제품, 배달 음식 등으로 누구나 손쉽게 즐길 수 있는 와인 페어링을 소개합니다. 와인 기초 지식부터 푸드별·상황별 와인 추천, 남은 와인 활용 레시피까지 담은 이 책으로 간편하고 확실한 와인 페어링을 즐겨 보세요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "설렘 :슬로디미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20220630",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최주리 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/03/11/9791167850652.jpg",
+                "PRE_PRICE": "18500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "196 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167850652",
+                "INPUT_DATE": "20220311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(15분이면 뚝딱!) 와인 안주 요리",
+                "PUBLISH_PREDATE": "20220401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

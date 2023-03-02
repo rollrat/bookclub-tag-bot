@@ -1,0 +1,67 @@
+{
+    "otitle": "실력의 배신",
+    "oauthor": "박남기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "실력의 배신 (왜 우리는 열심히 노력해도 여전히 불행한가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492773078",
+                "image": "https://shopping-phinf.pstatic.net/main_3249277/32492773078.20221019151424.jpg",
+                "author": "박상완",
+                "discount": "18000",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20181203",
+                "isbn": "9788965707257",
+                "description": "실력주의에 대한 환상이 만들어낸 한국 사회의 불편한 현실을 어떻게 해결할 것인가? 저자는 소득 격차 심화, 세대 및 계층 간 갈등 심화, 사교육에 대한 과도한 집착과 공교육의 파행 등과 같은 사회, 교육 문제들의 뿌리가 ‘무한경쟁 승자독식’의 실력주의에 긴밀히 닿아 있다고 주장한다. 우리 사회 문제의 뿌리가 실력주의에 닿아 있음에도 불구하고 모두가 더욱 완벽한 실력주의를 만들고자 하기 때문에 문제가 더욱 악화된다는 것. 또한 우리의 믿음과는 정반대로 학벌을 타파하면 실력주의가 구현되는 것이 아니라 오히려 실력주의가 학벌사회를 만든 원인임을 치밀하게 분석하고, ‘신실력주의 사회’를 대안으로 제시한다.\n실력은 노력만이 아니라 타고난 재능과 특성, 부모님, 학교 선생님, 우연히 만난 주위 사람, 행운 등 많은 요인이 작용한 결과로 형성된다. 이 책은 실력이 개인의 의식적인 노력의 결과이고, 따라서 자신이 쌓은 부(명성, 권력 포함) 또한 자신만의 것이라는 착각에서 벗어나도록 도와준다. 지금껏 우리 사회가 그토록 공정하고 정의로운 것이라 믿었던 실력주의에 대한 환상을 직시하고 한국 사회의 거대한 불평등의 해결 방안을 모색한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "379",
+                "UPDATE_DATE": "20181212",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "박남기 지음",
+                "SERIES_TITLE": "",
+                "KDC": "371",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6994554_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "435 p.",
+                "CONTROL_NO": "CIP2018036203",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965707257",
+                "INPUT_DATE": "20181108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "실력의 배신",
+                "PUBLISH_PREDATE": "20181203",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

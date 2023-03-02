@@ -1,0 +1,67 @@
+{
+    "otitle": "일상적이지만 절대적인 양자역학지식 50",
+    "oauthor": "조앤 베이커 저/배지은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일상적이지만 절대적인 양자역학지식 50 (슈뢰딩거부터 양자컴퓨터까지 양자세계에 관한 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465492658",
+                "image": "https://shopping-phinf.pstatic.net/main_3246549/32465492658.20221228073047.jpg",
+                "author": "조앤 베이커",
+                "discount": "11700",
+                "publisher": "반니",
+                "pubdate": "20160525",
+                "isbn": "9791185435770",
+                "description": "양자역학은 원자의 구조와 힘의 본질 등 눈에 보이지 않는 아주 작은 세계를 다루는 학문이다. 하지만 원자보다 작은 세계에서는 앞뒤가 맞지 않는 일들이 자주 일어나 많은 과학자들을 당혹스럽게 했다. 파동처럼 움직이던 빛이 어느 순간 입자처럼 행동하거나, 갑자기 나타났다 순식간에 사라지는 입자들이 그런 예다. 이처럼 과학자들도 골머리를 앓는 학문이다 보니, 양자역학은 난해하다는 생각에 지레 겁을 먹는 경우가 다반사다. \n\n\n\n이처럼 직관적으로 파악할 수 없는 양자역학의 세계를 좀 더 쉽게 이해할 수 있도록 도와주는 친절한 안내서다. 저자는 양자역학이 발전해온 순서에 따라 이 분야의 선구자들의 해결하기 위해 붙들고 씨름했던 문제들을 하나하나 되짚어본다. 에너지에 관한 연구부터 힉스 입자의 발견까지, 쟁쟁한 물리학자들의 이야기와 그들의 연구를 찬찬히 따라가다 보면 양자역학에 대한 두려움은 어느덧 사라질 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판) 반니",
+                "DDC": "530.12",
+                "UPDATE_DATE": "20160531",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조앤 베이커",
+                "SERIES_TITLE": "",
+                "KDC": "420.13",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5416625_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5416625_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "272쪽",
+                "CONTROL_NO": "CIP2016011318",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185435770",
+                "INPUT_DATE": "20160503",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "일상적이지만 절대적인 양자역학지식 50",
+                "PUBLISH_PREDATE": "20160525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

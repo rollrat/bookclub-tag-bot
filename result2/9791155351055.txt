@@ -1,0 +1,67 @@
+{
+    "otitle": "우리의 미니멀 생활 일기",
+    "oauthor": "SE 편집부 편저/오연경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리의 미니멀 생활 일기 (최소한의 물건으로 단순하게, 무리하지 않으면서 나답게, 일본의 인스타그래머와 블로거 24인이 기록한 생활 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466592682",
+                "image": "https://shopping-phinf.pstatic.net/main_3246659/32466592682.20221229072534.jpg",
+                "author": "SE 편집부",
+                "discount": "12420",
+                "publisher": "미메시스",
+                "pubdate": "20170405",
+                "isbn": "9791155351055",
+                "description": "좋아하는 물건만 지니는 나름의 방식으로 미니멀 라이프를 즐기고 있는 인기인스타그래머와 블로거 24인의 기록을 담았다. 집을 말쑥하게 유지하는 자신만의 규칙, 옷을 시작으로 집 안의 물건과 식생활의 미니멀화, 미니멀 라이프를 자신답게 만들어 가는 사람들의 사고방식 등을 사진과 함께 소개한다. \n\n\n\n소개된 미니멀리스트들은 직장 생활과 살림으로 바쁜 일상 속에서 복잡하고 귀찮은 집안일을 간편하게 줄이는 노하우를 공개해 팔로워들의 지지를 얻고 있다. 그들이 주장하는 건 대부분 비슷하다. 생활 속 작은 습관을 바꾸면 정리와 청소가 즐거워지고 삶이 훨씬 단순하고 행복하게 변화한다는 것! \n\n\n\n각자 자신의 집을 모델로 어떻게 정리하고 청소하고 있는지 사진과 함께 상세히 보여 주고 있으며, 실용적인 살림살이 아이디어들을 제시한다. 의자를 사도 서로 포개 놓을 수 있는 걸 고르거나 테이블로도 쓸 수 있는 것을 구입하고, 냉장고 틈새를 활용하거나 아이들이 그린 그림으로 벽 장식하기 등 누구나 쉽게 따라 하고 실천하기 쉬운 것들이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미메시스",
+                "DDC": "645",
+                "UPDATE_DATE": "20170420",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "www.mimesisart.co.kr",
+                "AUTHOR": "SE 편집부",
+                "SERIES_TITLE": "",
+                "KDC": "595.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6179619_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6179619_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6179619_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6179619_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "304",
+                "CONTROL_NO": "CIP2017007580",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155351055",
+                "INPUT_DATE": "20170323",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "우리의 미니멀 생활 일기",
+                "PUBLISH_PREDATE": "20170405",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

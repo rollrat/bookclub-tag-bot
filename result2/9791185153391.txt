@@ -1,0 +1,67 @@
+{
+    "otitle": "작가의 마감",
+    "oauthor": "나쓰메 소세키 등저/안은미 편역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "작가의 마감 (일본 유명 작가들의 마감분투기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463461655",
+                "image": "https://shopping-phinf.pstatic.net/main_3246346/32463461655.20221019145120.jpg",
+                "author": "나쓰메 소세키",
+                "discount": "13500",
+                "publisher": "정은문고",
+                "pubdate": "20210225",
+                "isbn": "9791185153391",
+                "description": "쓸 수 없다, 그래도 써야 한다\n30명의 일본 유명 작가 마감분투기\n\n이 책에 등장하는 일본 작가들은 하나같이 글 잘 쓰기로 너무나도 유명한 대문호들이다. 그들은 펜만 들면 글이 술술 풀려나갈 것 같은가? 천만의 말씀! 마감을 앞두고 쓰지 못하는 괴로움이 한 편 한 편 절절하다. 첫 장을 여는 다자이 오사무는 아니야, 아니야 외치며 원고를 찢고 또 찢는다. 창작을 위해 책 읽을 시간이 모자란다는 나쓰메 소세키도 있다. 아쿠타가와상으로 유명한 아쿠타가와 류노스케는 글쓰기라는 천벌을 받은 것 같다고 토로한다. 또 어떤 것을 쓸지 고민하다가 밤을 지새우는 모리 오가이도 있다. 글 잘 쓰기로 유명한 이 작가들의 마감분투기도 또 하나의 명문이 탄생하는 순간이다. 하지만 대문호답게 절절매는 자신을 그린 문장도 모두 명문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "정은문고",
+                "DDC": "",
+                "UPDATE_DATE": "20210318",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "https://blog.naver.com/jungeunbooks",
+                "AUTHOR": "다자이 오사무,유메노 규사쿠,우메자키 하루오,호조 다미오,기타하라 하쿠슈,요코미쓰 리이치,마키노 신이치,호리 다쓰오,다네다 산토카,사카구치 안고,다카무라 고타로,나쓰메 소세키,요시카와 에이지,다야마 가타이,아쿠타가와 류노스케,무로 사이세이,모리 오가이,나가이 가후,다니자키 준이치로,기쿠치 간,에도가와 란포,하야시 후미코,나오키 산주고,이즈미 교카,야마모토 슈고로,미야모토 유리코,오구마 히데오,이토 노에,이사카와 다쿠보쿠,기시다 구니오, 『반장난』편집부 지음 ;안은미 엮고 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/01/26/9791185153391.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "296 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185153391",
+                "INPUT_DATE": "20210126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "작가의 마감 ",
+                "PUBLISH_PREDATE": "20210225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

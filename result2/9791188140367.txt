@@ -1,0 +1,67 @@
+{
+    "otitle": "세븐이브스 3",
+    "oauthor": "닐 스티븐슨 저/송경아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세븐이브스 3: 5천 년 후(완결) (5천 년 후, 완결)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504588889",
+                "image": "https://shopping-phinf.pstatic.net/main_3250458/32504588889.20221019120227.jpg",
+                "author": "닐 스티븐슨",
+                "discount": "14400",
+                "publisher": "북레시피",
+                "pubdate": "20180901",
+                "isbn": "9791188140367",
+                "description": "이렇다 할 원인도, 전조도 없이 달이 폭발했다!\n\n재앙적 가설에서 출발해 새로운 지구와 새로운 인류의 생존가능성을 탐색한 닐 스티븐슨의 소설 『세븐이브스』 제3권 《5천 년 후》. “달이 폭발했다.”로 시작해 무려 5천 년이라는 시간의 경과를 담아낸 소설로, 세계의 해체와 재건, 인류의 재탄생이라는 엄청난 주제를 다루고 있다. 우주물리학, 양자역학, 로켓공학, 로봇공학, 인공지능, 생물학, 유전공학, 무선전신 및 프로그래밍 언어학, 철학, 문화인류학, 심리학, 정치학 등 방대하지만 검증 가능한 이론들이 정교하게 맞물려 흥미진진하게 펼쳐진다. \n\n어느 날 아무런 징후도 이유도 없이 달이 폭발하고, 지구는 2년 뒤 거대한 운석들이 수천 년 동안 폭풍처럼 쏟아져 내리는 하드레인을 마주하게 된다. 결국, 인간이 생존할 수 없는 환경으로 변모될 것이라는 관측과 함께 인간들은 인류의 보존을 위하여 노아의 방주와 같은 우주선에 인류를 대변할 소수의 선택된 사람들을 태워 우주로 보낼 계획을 수립한다. \n\n그러나 우주 정거장도 은하계의 잇따른 재해를 피해갈 수 없었고 많은 사람들, 특히 많은 남자 사상자가 발생한다. 마침내 평정을 되찾았을 때 단 일곱 명의 인간만이, 그것도 모두 여자들만(seven eves) 살아남는다. 그로부터 5000년 후, 7개의 종족으로 나뉜 30억 명의 인간들이 또 한 번 미지의 세계를 향해 대담한 여정에 나선다. 대재앙과 오랜 시간을 거치며 완전히 낯설게 변한 세계, 지구로…. 완결."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북레시피",
+                "DDC": "813.54",
+                "UPDATE_DATE": "20180917",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "www.bookrecipe.co.kr",
+                "AUTHOR": "지은이: 닐 스티븐슨 ;옮긴이: 송경아",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6857543_6.txt",
+                "SET_ISBN": "9791188140237",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6857543_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "419 p.",
+                "CONTROL_NO": "CIP2018025581",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188140367",
+                "INPUT_DATE": "20180813",
+                "SET_EXPRESSION": "",
+                "VOL": "3",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "세븐이브스",
+                "PUBLISH_PREDATE": "20180901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04840 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

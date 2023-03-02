@@ -1,0 +1,67 @@
+{
+    "otitle": "알 게 뭐야, 내가 좋다는데",
+    "oauthor": "이해범 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "알 게 뭐야, 내가 좋다는데 (모로 가도 뭐든 하면 되지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487798236",
+                "image": "https://shopping-phinf.pstatic.net/main_3248779/32487798236.20221019142325.jpg",
+                "author": "이해범",
+                "discount": "13320",
+                "publisher": "들녘",
+                "pubdate": "20210928",
+                "isbn": "9791159256639",
+                "description": "삶에서 진정으로 좋아하는 것을 찾기란 쉽지 않다. 찾았더라도 마음 편히 즐기기란 더욱 어렵다. 생애주기에 맞추어 꼭 할 수밖에 없는 것들, 입시와 대입, 졸업과 취업, 결혼과 내 집 마련, 출산과 육아로 이어지는 과정. 이 과정에서 하나라도 빼놓으려 한다면 이 징검다리는 무너지고 그는 ‘엉뚱한’ 문제아가 된다. 그렇게 삶을 즐기기는커녕 남의 말에 이끌리고 사회의 기준에 자신을 맞추려 급급하다.\n탄탄대로를 따라 목표를 향해 직진하는 것도 참 좋겠다. 그러나 저자는 이 엉뚱한 길에서 만난 사람들, 이야기들과 풍경들에서 소중함을 찾았다. 그리고 행복하다고 말한다. 저마다 소중한 것은 다를지도 모르겠다. 하지만 조금 헤매고 돌아가는 것처럼 보일지 모르는 여러분의 삶에서, 그 누구도 마주하지 못한 더 근사한 풍경을 당신 역시 마주할 수 있을 것이다. 오른쪽으로도 가보고, 왼쪽으로도 가보면서. 때로는 길을 잃고 비틀거리더라도 생각보다 큰 문제는 없으리라."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "이해범 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "236 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159256639",
+                "INPUT_DATE": "20210914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "알 게 뭐야, 내가 좋다는데",
+                "PUBLISH_PREDATE": "20210928",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

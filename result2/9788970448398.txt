@@ -1,0 +1,67 @@
+{
+    "otitle": "과학사의 진실",
+    "oauthor": "이찌바 야스오 저/손영수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학사의 진실 (교과서에도 없는 진실의 드라마)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436257380",
+                "image": "https://shopping-phinf.pstatic.net/main_3243625/32436257380.20221230074108.jpg",
+                "author": "이찌바 야스오",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20181127",
+                "isbn": "9788970448398",
+                "description": "여태껏 몰랐던 숨겨진 과학사의 이야기\n\n이 책은 일반적인 과학책이나 교과서에서는 볼 수 없는 잘못된 학설이라든가 불모의 논쟁, 과학사상의 사기 사건 등을 소개하고 있다. 이를 통해 성공한 학설이나 이론의 내용만 아는 것이 아니라 다른 각도에서 한층 더 깊게 이해할 수 있게 된다. 또한 실패를 이겨내는 과정에서 과학에 대한 태도나 사고를 구체적으로 살펴볼 수 있다.\n평범한 사람들처럼 방황하고, 고민하고, 궁리해 나가는 과학자들의 드라마를 통해 과학사의 이면을 들여다보자. 멀게만 느껴졌던 과학이 어느새 친숙하게 느껴질 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20181210",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "이찌바 야스오 지음 ;손영수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "218 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448398",
+                "INPUT_DATE": "20181008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(99의 ?) 과학사의 진실 ",
+                "PUBLISH_PREDATE": "20181127",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

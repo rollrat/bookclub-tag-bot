@@ -1,0 +1,67 @@
+{
+    "otitle": "전공기초수학",
+    "oauthor": "오세열 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기초전공수학",
+                "link": "https://search.shopping.naver.com/book/catalog/32456485975",
+                "image": "https://shopping-phinf.pstatic.net/main_3245648/32456485975.20221228072620.jpg",
+                "author": "오호세^신경철^김준안",
+                "discount": "19000",
+                "publisher": "형설출판사",
+                "pubdate": "20170220",
+                "isbn": "9788947281300",
+                "description": "전문대학생을 위한 기초과정 수학의 지도서로서 이공계 계열 및 전공에서 전공분야의 학문을 연구하는데 충분한 도움이 되도록 하였으며, 치밀한 수학적인 사고력을 바탕으로 깊은 통찰과 고도의 독창력을 발휘하여 산업기술 교육연마에 밑거름이 되도록 하였다.\n\n\n\n또한, 자연과학과 공학의 근간이 되는 수학의 여러 분야를 종합하여 학생들에게 수학의 기초개념을 이해시키고 그 응용방법을 익히게 하는데 목적을 두고 학생들의 이해를 돕기 위하여 가능한 한 많은 예제를 수록하였고 각 절마다 다양한 연습문제를 직접적으로 다룸으로써 학생 스스로 교과 내용을 학습하고 깊이 있게 이해할 수 있도록 구성하였다.\n\n\n\n각 장의 연습문제는 독자들의 문제 풀이 능력을 발전시키고 때로는 지식을 넓혀주려는 의도 아래서 세밀하게 작성되었으며 또한 혼자 힘으로도 충분히 해결할 수 있도록 연습문제에 대한 풀이를 첨가하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "형설출판사",
+                "DDC": "510",
+                "UPDATE_DATE": "20161205",
+                "EA_ADD_CODE": "93410",
+                "PUBLISHER_URL": "http://www.hyungseul.co.kr",
+                "AUTHOR": "오호세,신경철,김준안",
+                "SERIES_TITLE": "",
+                "KDC": "410",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5853405_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5853405_3.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "292페이지",
+                "CONTROL_NO": "CIP2016025783",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947281300",
+                "INPUT_DATE": "20161025",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "기초전공수학",
+                "PUBLISH_PREDATE": "20170220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "바로 만들어 바로 써먹는 미술 레시피",
+    "oauthor": "안현이 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바로 만들어 바로 써먹는 미술 레시피",
+                "link": "https://search.shopping.naver.com/book/catalog/32476463658",
+                "image": "https://shopping-phinf.pstatic.net/main_3247646/32476463658.20221229071839.jpg",
+                "author": "김보연^박정인^안우재^안현이^정유진^최찬경^한다운^한정숙^홍철",
+                "discount": "14400",
+                "publisher": "성안당",
+                "pubdate": "20210510",
+                "isbn": "9788931557381",
+                "description": "\"온ㆍ오프라인 미술 수업 활동을 위한 과정과 방법 소개\"\n\"ZOOM을 이용한 온라인 미술 수업 시작하기\"\n\n“바로 만들어 바로 써먹는 미술 레시피”는 코로나로 인한 어려운 상황에서 온라인과 오프라인을 넘나드는 미술교육의 필요성을 느껴 9명의 미술 선생님들이 끊임없이 고민하고 힘을 합해 새롭고 다양한 내용으로 구성한 미술교육 방법이 가득 수록된 미술 수업 레시피이자 미술교육 지침서이다. \n 이 책은 미술교육의 본질을 생각하며 학생들의 체험뿐 아니라 변화된 도구로 다양한 역량을 이끌어낼 수 있는 수업들을 제시하였으며, 올바른 미술교육의 방향과 다양한 교수 학습 방법을 찾기 위한 미술 선생님들의 노력을 담아냈다. 현장에서 치열하게 교육 방법을 고민한 선생님들의 노하우를 한 번에 따라 하기 쉽도록 온라인 수업과 오프라인 수업으로 구분하여 구성하였다. 또한 실기가 중심인 미술교육에서 가장 기본적인 교육의 소통마저 힘들게 된 현 시점에서 현장에서 바로 활용할 수 있는 내용들을 수록하였고, 활동지도 함께 제공하여 실용적으로 수업에 도움을 줄 수 있도록 하였다.  \n 코로나19 사태로 인한 갑작스런 변화 속에서 새로운 변화에 적응해야 하는 미술을 사랑하는 많은 분들에게 미술교육의 중요성과 발전에 긍정적인 영향을 주길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210701",
+                "EA_ADD_CODE": "13600",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "지은이: 김보연,박정인,안우재,안현이,정유진,최찬경,한다운,한정숙,홍철",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "215*252",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "159 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931557381",
+                "INPUT_DATE": "20210504",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "(바로 만들어 바로 써먹는) 미술 레시피",
+                "PUBLISH_PREDATE": "20210510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

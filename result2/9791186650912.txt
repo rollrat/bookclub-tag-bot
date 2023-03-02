@@ -1,0 +1,67 @@
+{
+    "otitle": "부모는 쉽게 가르치고 아이는 바로 이해하는 초등수학",
+    "oauthor": "론 아하로니 글/양원정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부모는 쉽게 가르치고 아이는 바로 이해하는 초등 수학 (유대인 수학교수가 알려주는 집에서도 잘 가르치는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487757622",
+                "image": "https://shopping-phinf.pstatic.net/main_3248775/32487757622.20221228074055.jpg",
+                "author": "론 아하로니",
+                "discount": "12100",
+                "publisher": "글담출판",
+                "pubdate": "20200715",
+                "isbn": "9791186650912",
+                "description": "수학은 가르쳐야겠는데, \n학원도 방문 학습지도 불안하고 어려운 요즘,\n집에서 초등 수학을 쉽게 가르치는 방법!\n\n“유대인 부모들이 아이에게 처음 수학을 가르칠 때 반드시 사는 책” \n\n이러닝(e-Learning)만으로는 부족한 것 같고, 학원이나 방문 학습지는 불안한 요즘, 아이의 수학 공부를 어떻게 도와줘야 할까? 『부모는 쉽게 가르치고 아이는 바로 이해하는 초등수학』은 유대인 수학 교수가 집에서 수학을 가르치는 가장 쉬운 방법을 알려 준다. 엄마표로 가르치고 싶어도 쉽사리 엄두가 나지 않던 부모도 부담 없이 실천하여 초등 수학의 기초 개념을 탄탄하게 잡아 주는 방법을 알려 준다. 유대인 부모 사이에서도 그 방법이 화제가 되어 아이가 수학을 배우기 시작하면 꼭 사는 필독서가 되었다. 미국, 싱가포르 등 8개국에 번역 출간되기도 하였다. \n초등 아이가 배우는 방식에 기초한 다양한 수학 지도법들은 저자가 경험을 통해 터득한 것들이다. 그만큼 초등 아이 맞춤 수학 교육법으로, 수 개념을 가르칠 때 유의해야 할 사항, 연산에서 아이들이 가장 많이 하는 실수, 복잡한 문제를 만났을 때 쉽게 푸는 방법 등 수학 전문가만이 짚어 줄 수 있는 조언과 도움이 가득하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "글담출판(글담출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20200807",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "http://www.geuldam.com",
+                "AUTHOR": "론 아하로니 지음 ;양원정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "410.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/11/9791186650912.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "CIP2020024376",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186650912",
+                "INPUT_DATE": "20200611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(부모는 쉽게 가르치고 아이는 바로 이해하는) 초등수학",
+                "PUBLISH_PREDATE": "20200715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "우리가 함께 걷는 시간",
+    "oauthor": "이규영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:07 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "우리가 함께 걷는 시간 (하루 중 제일 달콤한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436153848",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436153848.20221019110805.jpg",
+                "author": "이규영",
+                "discount": "11700",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20180805",
+                "isbn": "9791196438302",
+                "description": "역대급 심쿵주의!\n100만 SNS 독자를 소환한\n독보적 감성 그림에세이!\n\n때론 달콤하게, 때론 편안하게, 때론 심쿵하게\n연애세포를 자극하는 감성 그림에세이"
+            },
+            {
+                "title": "우리가 함께 걷는 시간 커플 D-DAY 캘린더 (커플 D-DAY 캘린더)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493030935",
+                "image": "https://shopping-phinf.pstatic.net/main_3249303/32493030935.20221227203338.jpg",
+                "author": "이규영",
+                "discount": "7200",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20190715",
+                "isbn": "9791190032179",
+                "description": "《우리가 함께 걷는 시간》 이규영 작가의 커플을 위한 D-DAY 캘린더. 이번 달력은 예쁜 사랑을 하고 있는 커플을 위해 만들어졌다. 사랑하는 연인 사이에 특별히 기억하고 싶은 순간을 디데이로 정해 기념하는 디데이 탁상 달력으로, 소중한 사람과의 첫 순간을 잊고 싶지 않은 연인에게 특별한 선물이 될 것이다.\n\n\n\n사랑하는 사람을 처음 만난 날, 마음을 고백한 날, 커플 아이템을 맞춘 날 등 9개의 첫 순간 중에서 기념하고 싶은 날을 선택해보자. 만약 이 중에 마음에 드는 기념일이 없다면 직접 적어서 사용할 수도 있다. 기념일 카드마다 &lt;우리가 함께 걷는 시간&gt;의 예쁜 일러스트가 그려져 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스books :GCC",
+                "DDC": "750.2",
+                "UPDATE_DATE": "20180829",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이규영 글·그림",
+                "SERIES_TITLE": "",
+                "KDC": "650.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6824322_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6824322_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6824322_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*192",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[192] p.",
+                "CONTROL_NO": "CIP2018023314",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196438302",
+                "INPUT_DATE": "20180724",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "(하루 중 제일 달콤한) 우리가 함께 걷는 시간",
+                "PUBLISH_PREDATE": "20180805",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

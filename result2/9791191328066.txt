@@ -1,0 +1,67 @@
+{
+    "otitle": "가치투자 처음공부",
+    "oauthor": "이성수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가치투자 처음공부 (기초부터 탄탄하게  바로 써먹는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463534518",
+                "image": "https://shopping-phinf.pstatic.net/main_3246353/32463534518.20221228073808.jpg",
+                "author": "이성수",
+                "discount": "17550",
+                "publisher": "이레미디어",
+                "pubdate": "20210325",
+                "isbn": "9791191328066",
+                "description": "주식 초보자 눈높이에 맞춘 가치투자 ‘처음공부’ \n기업가치를 파악하고 좋은 가격에 투자하는 가치투자의 모든 것을 배운다!\n\n코로나19로 인한 팬데믹 이후에도 주가가 무섭게 치솟고 있다. 최근 증시 버블에 대한 우려에도 주식시장은 아랑곳 않고 랠리를 이어가고 있다. 남들 다하고 있는데 안 하자니 불안하고, 이미 과열된 부동산에는 뛰어들 자본은 없고, 1퍼센트 대의 낮은 이율의 저축은 더더욱 매력이 없다. 막상 주식투자를 시작했지만 어떻게 해야 할지 막막하기만 한 주식 입문자를 위해 ‘처음공부’ 시리즈의 두 번째 책 《가치투자 처음공부》가 출간됐다. 초보자의 눈높이에 맞춘 친절하고 상세한 설명, 실제 재무제표와 사업보고서 자료와 다양한 차트를 포함하여 누가 보아도 금방 이해할 수 있도록 구성한 점이 가장 큰 특징이다. 최근 시장에 첫발을 들인 초보 투자자를 위해 주식시장에서 살아남을 수 있는 ‘무기’가 되게끔 한 권을 꽉 채웠다. 좋은 회사를 찾는 방법, 재무제표 속 숫자들 보는 법, 가치평가 도구들과 계산법, 가치측정법 비교, 업황과 선행지표 읽기, 리스크 관리 등 기업가치를 파악하고 좋은 가격에 투자하는 방법 등 모든 것을 배울 수 있다. 초보 투자자를 위해 가치투자의 기초 개념, 가치투자 대가들의 철학, 재무제표와 가치평가 방법까지 초보자 눈높이에 맞춰 쉽게 설명한 책 《가치투자 처음공부》로 성공적인 투자 첫걸음을 뗄 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20210401",
+                "EA_ADD_CODE": "04320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이성수 지음",
+                "SERIES_TITLE": "처음공부",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791191328059",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/02/9791191328066.jpg",
+                "PRE_PRICE": "19500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "167*236",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "452 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191328066",
+                "INPUT_DATE": "20210202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(기초부터 탄탄하게 바로 써먹는) 가치투자 처음공부",
+                "PUBLISH_PREDATE": "20210325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04320 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

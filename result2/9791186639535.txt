@@ -1,0 +1,67 @@
+{
+    "otitle": 1984,
+    "oauthor": "조지 오웰 저/한기찬 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "1931-1940 한국 명작소설 2: 모던보이, 문학을 만나다 (문학사를 이해하는 관점, ’시대를 읽는 한국문학’)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440934516",
+                "image": "https://shopping-phinf.pstatic.net/main_3244093/32440934516.20230117164831.jpg",
+                "author": "이태준^김유정^채만식^박영준^주요섭",
+                "discount": "13050",
+                "publisher": "애플북스",
+                "pubdate": "20170420",
+                "isbn": "9791186639535",
+                "description": "시대와 삶을 돌아볼 수 있게 해주며 문학적 상상력과 즐거움을 주는 소설 중에서 정수만을 가려 뽑은 [한국문학을 권하다] 단편 모음집『1931-1940 한국 명작소설』제2권. ‘시대를 읽는 한국문학’이란 콘셉트로 근대소설의 포문을 연 이인직의 [혈의 누], 계몽소설을 대표하는 이광수의 [소년의 비애], 풍자와 해학, 골계미를 추구한 김유정의 [동백꽃], 모더니즘의 절정을 보여준 이상의 [날개]에 이르기까지 각각 1900~1930년대와 1940년대로 나눠 총 21명의 작가와 작품으로 이루어진 한국문학의 큰 기둥이 되었던 대표 작품을 시대별로 모아 문학과 시대를 동시에 만끽할 수 있도록 했다. 문학 독자가 사랑했던 시대를 대표하는 로맨스, 풍자와 해학, 계몽 등 각 시대마다 독자들의 가슴을 쥐락펴락했던 인기 작품을 문학사의 이해를 돕는 설명과 함께 만날 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "애플북스",
+                "DDC": "895.733",
+                "UPDATE_DATE": "20170425",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이태준,김유정,채만식,주요섭,계용묵,유진오,박영준,이효석,김정한,이상",
+                "SERIES_TITLE": "",
+                "KDC": "813.61",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6180438_6.txt",
+                "SET_ISBN": "9791186639511",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6180438_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "360",
+                "CONTROL_NO": "CIP2017007769",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186639535",
+                "INPUT_DATE": "20170327",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "1931-1940 한국 명작소설 2",
+                "PUBLISH_PREDATE": "20170420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

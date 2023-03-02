@@ -1,0 +1,67 @@
+{
+    "otitle": "10대를 위한 인문학 강의",
+    "oauthor": "송용구 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "10대를 위한 인문학 강의 (인간, 어떻게 살 것인가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443922385",
+                "image": "https://shopping-phinf.pstatic.net/main_3244392/32443922385.20221227203245.jpg",
+                "author": "송용구",
+                "discount": "13320",
+                "publisher": "글라이더",
+                "pubdate": "20201024",
+                "isbn": "9791170410423",
+                "description": "인간, 어떻게 살 것인가?\n- ‘인간다운 인간’으로 살아갈 길 찾기\n\n사춘기를 맞이한 청소년은 전과 다른 고민을 하게 된다. ‘인간이란 어떤 존재인가?’ ‘가장 인간다운 인간이란 어떤 모습인가?’ ‘어떻게 사는 게 사람다운 것인가?’ 고민을 풀어보고자 관련 주제가 담긴 책을 읽거나 삶의 현장에서 직접 체험을 한다. 인간다움을 탐구하는 인문학의 본질에 접근하는 것이다.\n이 책은 열두 편의 책에 담긴 ‘인간다운 인간의 길’을 보여준다. 꼭 한 번 읽으면 좋은 책(《수레바퀴 아래서》, 《사람은 무엇으로 사는가》, 《오만과 편견》, 《레 미제라블》, 《민주주의와 교육》, 《자본론》 등)을 제시하여 청소년기에 인성을 성숙시키기 위한 정신 요소가 무엇인지 일깨워준다. 헤르만 헤세, 톨스토이, 빅토르 위고, 윌리엄 셰익스피어, 장 자크 루소 등 인류의 정신문화 발전에 이바지한 위대한 작가와 사상가를 만나 인간다운 삶으로 나아가는 데 필요한 지혜와 교훈을 배울 수 있다.\n서로 다른 분야의 고전을 비교하고 연관 지으며 접점을 찾아가는 ‘통섭의 책 읽기’는 우리의 삶을 더욱 풍요롭게 한다. 고전의 깊은 바다에서 이성의 빛을 받고 감성의 향기를 맛보게 하기 때문이다. 이 책은 청소년들의 ‘인문학 멘토’로서 인간다운 인간으로 성장하는 데 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "글라이더",
+                "DDC": "",
+                "UPDATE_DATE": "20201112",
+                "EA_ADD_CODE": "43330",
+                "PUBLISHER_URL": "gliderbooks@hanmail.net",
+                "AUTHOR": "지은이: 송용구",
+                "SERIES_TITLE": "",
+                "KDC": "001",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "CIP2020039730",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170410423",
+                "INPUT_DATE": "20200915",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "10대를 위한 인문학 강의",
+                "PUBLISH_PREDATE": "20201024",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

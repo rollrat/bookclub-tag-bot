@@ -1,0 +1,39 @@
+{
+    "otitle": "바다 야채",
+    "oauthor": "오후사 쓰요시 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:59 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "바다 야채 (건강을 위한 해조 독본)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493401643",
+                "image": "https://shopping-phinf.pstatic.net/main_3249340/32493401643.20220521013212.jpg",
+                "author": "오후사 쓰요시",
+                "discount": "7600",
+                "publisher": "전파과학사",
+                "pubdate": "19910615",
+                "isbn": "5000055804",
+                "description": "해조의 효용과 건강을 위한 해조의 활용방법을 소개한다."
+            },
+            {
+                "title": "바다야채 (건강을 위한 해조 독본)",
+                "link": "https://search.shopping.naver.com/book/catalog/33434887618",
+                "image": "https://shopping-phinf.pstatic.net/main_3343488/33434887618.20221228073128.jpg",
+                "author": "오후사 쓰요시",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "20160110",
+                "isbn": "9788970445816",
+                "description": "건강을 위한 해조 독본 [바다야채]. ㄷ"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "0",
+        "docs": [],
+        "PAGE_NO": "1"
+    }
+}

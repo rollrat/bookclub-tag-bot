@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 장국영",
+    "oauthor": "오유정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 장국영 (“봄 여름 가을 겨울이 얼마나 좋을까 그대가 여전히 함께 한다면”)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441654253",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441654253.20221227205637.jpg",
+                "author": "오유정",
+                "discount": "8560",
+                "publisher": "코난북스",
+                "pubdate": "20210401",
+                "isbn": "9791188605194",
+                "description": "아무튼 시리즈 41번째 이야기는 장국영이다. 스타라는 말이 어울리는 사람, 전설이라는 말도 참 잘 어울리는 사람, 그래서일까, 그렇게 별이 되고 전설이 된 장국영. 그가 떠난 지 이제 20년에 가까워지고 있지만 팬들은 아직도 그를 기리고 그리워하고 사랑한다. 저자도 마찬가지다. 어린 시절 우연히 본 영화에서 시작해 지금에 이르기까지 20년 넘는 '꺼거' 사랑을 이어온 저자의 이야기를 따라가다 보면 좋아한다는 것, 그리워한다는 것이 무엇인지 그 아련한 마음의 온기가 스며들 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "코난북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210518",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 오유정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "165 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188605194",
+                "INPUT_DATE": "20210222",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 장국영",
+                "PUBLISH_PREDATE": "20210401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

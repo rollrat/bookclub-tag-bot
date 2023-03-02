@@ -1,0 +1,67 @@
+{
+    "otitle": "초요갱",
+    "oauthor": "박지영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초요갱 (박지영 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505717886",
+                "image": "https://shopping-phinf.pstatic.net/main_3250571/32505717886.20221019134917.jpg",
+                "author": "박지영",
+                "discount": "11700",
+                "publisher": "네오픽션",
+                "pubdate": "20160624",
+                "isbn": "9791157401376",
+                "description": "시대를 꿰뚫는 한 여인의 가혹한 운명!\n\n한성 제일의 기녀 초요갱의 일대기를 담은 소설 『초요갱』. 궁중 악사인 박연의 수제자로 조선왕조실록에 열여섯 번이나 이름이 오른 여인 초요갱의 삶과 사랑 그리고 사람을 담았다. 세종부터 문종, 단종을 거쳐 세조 대에 이르기까지 역사가 격변하는 시기를 거치며 활동해온 초요갱. 궁중악의 유일한 전승자로 기녀보다 예인에 가까웠던 그녀는 그동안 정사에 기록된 팜므파탈 정도로만 생각되어 왔지만, 저자는 면밀한 조사 끝에 그녀의 새로운 모습을 발견했고 그 특별한 이야기를 우리에게 들려준다. 초요갱은 예인의 운명을 타고난 어린 여자아이였지만, 평원대군과의 만남을 통해 왕실과 연을 맺게 되면서 정치사에 휘말린다. 다사다난한 운명을 지나, 그녀는 모든 은원을 정리하고 재예에 힘을 쏟으며 박연의 수제자로서 궁중악을 이어나가는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "네오북스",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20160704",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박지영",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791157401215",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5536753_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5536753_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 448페이지 내외",
+                "CONTROL_NO": "CIP2016014754",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157401376",
+                "INPUT_DATE": "20160614",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "초요갱",
+                "PUBLISH_PREDATE": "20160624",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

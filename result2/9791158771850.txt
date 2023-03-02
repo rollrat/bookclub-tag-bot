@@ -1,0 +1,67 @@
+{
+    "otitle": "10일 안에 쓰고 100일 동안 고친다",
+    "oauthor": "추교진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "10일 안에 쓰고 100일 동안 고친다 (딱! 10일 만에 초고를 쓰는 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440933985",
+                "image": "https://shopping-phinf.pstatic.net/main_3244093/32440933985.20221231084031.jpg",
+                "author": "추교진",
+                "discount": "12600",
+                "publisher": "바이북스",
+                "pubdate": "20200810",
+                "isbn": "9791158771850",
+                "description": "힘겨운 책 쓰기 과정을 돕는 페이스메이커. 플라이펜 책 쓰기 대표로 책을 쓰고 싶어 하는 이들을 위해 책 쓰기 지도와 강의를 하고 있는 저자 추교진이 10일 만에 초고를 쓰는 비법을 담은 《10일 안에 쓰고 100일 동안 고친다》를 세상에 내놓는다. \n\n\n\n책을 쓰는 과정에서 오는 좌절, 자기 의심과 불안, 때에 따라 오는 수많은 감정 기복을 느낄 사람들을 다독이는 책이다. 이 책은 단순히 책을 빨리 쓰는 요령을 가르쳐주는 것이 아니라, 글에 향기를 담으려고 노력하는 사람들을 응원한다. 저자는 이 책이 독자에게 방향을 알려주는 북극성이 되기를 바란다. 그래서 머지않아 각자의 책으로 서로 인사 나누는 날을 기대한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200810",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "추교진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "200 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158771850",
+                "INPUT_DATE": "20200721",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "10일 안에 쓰고 100일 동안 고친다",
+                "PUBLISH_PREDATE": "20200810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

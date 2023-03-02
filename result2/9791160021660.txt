@@ -1,0 +1,67 @@
+{
+    "otitle": "이쁘게 말하는 당신이 좋다",
+    "oauthor": "임영주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이쁘게 말하는 당신이 좋다 (주변에 사람이 모여드는 말 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455918233",
+                "image": "https://shopping-phinf.pstatic.net/main_3245591/32455918233.20230110165627.jpg",
+                "author": "임영주",
+                "discount": "13500",
+                "publisher": "메이트북스",
+                "pubdate": "20180824",
+                "isbn": "9791160021660",
+                "description": "행복을 부르는 기적같은 말의 힘!\n\n내 안의 자존감이 행복을 결정한다!\n\n이 세상 단 하나뿐인 소중한 나를 찾는 지혜를 담은 책이다. 낮아진 자존감의 눈금을 높이고 싶은 당신에게 즐거운 자극이 될 것이다. 이 책의 저자 선안남은 이 시대를 살아가는 독자들에게 마음의 길잡이가 되어줄 다양한 주제의 책들을 출간해 주목받은 ‘글 쓰는 심리상담사’다. 저자는 나를 사랑하고 존중하는 데는 어떤 조건도 필요하지 않다고 강조한다. 우리가 상처받기 쉬운 마음의 취약성이 있는 존재인 동시에 모든 상처를 극복할 수 있는 회복력이 있는 존재라는 것을 깨닫고, 자존감이 우리 마음의 취약성과 회복력에 핵심적인 역할을 하는 것을 알리기 위해 이 책을 썼다. 이 책을 통해 나를 소중히 여기는 마음의 중심을 잡고, 어떤 조건과 기준의 잣대를 들이대지 않고 있는 그대로의 나를 진심으로 사랑할 수 있을 것이다. \n많은 사람이 스스로를 소중히 여기지 않고 있다. 나를 소중히 여기고 사랑하지 못하기에 타인의 관심과 사랑에 지나치게 민감하고 상처를 받으며, 자기 자신과 멀어진 채 우울하고 불행하게 살아가고 있다. 저자는 당신이 지금 행복하지 않다면 그건 나를 잘 모르고 나와 잘 지내지 못하기 때문이라고 말한다. 스스로 마음을 받아들이지 못해 모든 고통과 아픔이 시작되는 것이다. 이 책이 당신의 흔들리는 자존감을 마음의 항구에 조금 더 단단하게 정박시키는 데 큰 도움이 될 것이다. 행복은 내 마음을 소중히 여기고 자신을 사랑하는 모든 과정에 깃들어있다. 우리는 모두 이 세상에 단 한 명밖에 없는 유일무이하고 소중한 사람이고, 다시 올 수 없는 소중한 순간을 지금 여기에서 살고 있음을 기억하자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메이트북스 :원앤원콘텐츠그룹",
+                "DDC": "158.2",
+                "UPDATE_DATE": "20180829",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "임영주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6841717_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6841717_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "143*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "253 p.",
+                "CONTROL_NO": "CIP2018024494",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160021660",
+                "INPUT_DATE": "20180803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "이쁘게 말하는 당신이 좋다",
+                "PUBLISH_PREDATE": "20180824",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

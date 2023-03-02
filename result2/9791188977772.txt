@@ -1,0 +1,67 @@
+{
+    "otitle": "인공지능 생존 수업",
+    "oauthor": "조중혁 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인공지능 생존 수업 (인공지능 시대가 불안한 사람들에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455467938",
+                "image": "https://shopping-phinf.pstatic.net/main_3245546/32455467938.20221228073205.jpg",
+                "author": "조중혁",
+                "discount": "14400",
+                "publisher": "슬로디미디어",
+                "pubdate": "20210410",
+                "isbn": "9791188977772",
+                "description": "****** 페이스북 코리아 정기현 대표 추천 도서!\n****** 젝시믹스 창업자 강민준 대표 추천 도서!\n****** 한국창업진흥원 김광현 원장 추천 도서!\n\n인공지능 무한경쟁 시대, 이래야 생존한다!\n인공지능과 함께 살아가야 할 당신을 위한 최소한의 생존법\n미래가 두렵다면 당장 머리맡에 두고 읽어야 할 책!\n\n인공지능은 우리가 생각한 것보다 훨씬 더 발전되어 있고 그 속도와 파급력은 상상을 뛰어넘는 수준에까지 이르렀다. 하지만 아직까지 인간의 존속성에 대한 우려를 이야기하는 사람은 드물다. 점점 일자리는 사라지고 있고, 언론에서도 어떤 일자리가 매해 얼마나 사라지고 있으며 앞으로 얼마나 더 사라질 것인지 구체적인 데이터를 들며 이야기한다.\n생각하는 기계는 사람에게 위협이 된다. 최근 들어 사람이 발전하는 속도보다 기계가 발전하는 속도가 더 빠르게 되었고, 이대로라면 몇십 년 내로 사람을 능가하는 기계가 나올 수도 있을 것이\n다. 이제는 인공지능과 사람이 공존하며 사는 법을 배워야 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어(슬로디미디어그룹)",
+                "DDC": "",
+                "UPDATE_DATE": "20210510",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조중혁 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/18/9791188977772.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188977772",
+                "INPUT_DATE": "20210318",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "인공지능 생존 수업",
+                "PUBLISH_PREDATE": "20210410",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

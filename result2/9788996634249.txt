@@ -1,0 +1,67 @@
+{
+    "otitle": "돈 좀 굴려봅시다",
+    "oauthor": "홍춘욱 저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "돈 좀 굴려봅시다 (한국형 탑다운 투자전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483620831",
+                "image": "https://shopping-phinf.pstatic.net/main_3248362/32483620831.20221019152627.jpg",
+                "author": "홍춘욱",
+                "discount": "15380",
+                "publisher": "스마트북스",
+                "pubdate": "20120620",
+                "isbn": "9788996634249",
+                "description": "한국경제는 세계경제의 채찍 끝에 있다!\n\n『돈 좀 굴려봅시다』는 경제전문가로 20년째 일하며 풍부한 실전경험을 쌓은 저자 홍춘욱이 한국의 자산들이 어떻게 움직이는지 자산 간 상관관계를 파헤친 책이다. 특히 공급사슬의 끝에 있을수록 수요의 왜곡으로 인해 경기변동이 극심해진다는 '채찍효과'가 한국 경제와 자산시장에 어떤 영향을 미치는지를 살펴보고, 국내 일반 투자자들이 어떻게 대응해야 하는지를 설명한다. 일반인들이 한국 경제와 세계 경제, 그리고 경기변동 등을 쉽게 이해할 수 있도록 풍부한 사례를 함께 실었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스마트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20120613",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.smartbooks21.com",
+                "AUTHOR": "홍춘욱 지음",
+                "SERIES_TITLE": "「경제공부는 경제저축이다」시리즈 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "5",
+                "EA_ISBN": "9788996634249",
+                "INPUT_DATE": "20120529",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "돈 좀 굴려봅시다 ",
+                "PUBLISH_PREDATE": "20120620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

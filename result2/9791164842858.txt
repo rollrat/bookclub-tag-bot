@@ -1,0 +1,67 @@
+{
+    "otitle": "ESG 파이코노믹스",
+    "oauthor": "알렉스 에드먼스 저/이우종,정아름 감수/송정화 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "ESG 파이코노믹스 (사회적 가치와 이윤을 동시에 창출하는 전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483727703",
+                "image": "https://shopping-phinf.pstatic.net/main_3248372/32483727703.20221229073857.jpg",
+                "author": "알렉스 에드먼스",
+                "discount": "15560",
+                "publisher": "매일경제신문사",
+                "pubdate": "20210521",
+                "isbn": "9791164842858",
+                "description": "“사회적 가치와 이윤은 양자택일의 대상이 아니다!”\n런던비즈니스스쿨의 세계적 석학이 새로 쓴 자본주의 성공 원칙 \n\n★〈파이낸셜타임스〉선정 2020 비즈니스 북\n★ 서울대학교 경영대학 이우종 교수 · SK 사회적가치연구원 감수\n\n착한 기업에서 위대한 기업으로 나아가기 위한 비즈니스 어젠다와 해결책을 제시하는 책. 런던비즈니스스쿨의 저명한 재무학 교수인 알렉스 에드먼스는 이 책에서 사회 전체의 파이를 키우는 새로운 비즈니스 원칙 ‘파이코노믹스(Pieconomics)’를 제창하며, 실행 방법으로 ‘파이 키우기’ 전략을 제시한다. 여기서 파이(pie)는 전통적인 의미의 ‘이윤’을 넘어 ‘사회적 가치’를 나타낸다. 이윤은 파이의 한 부분일 뿐이다. 따라서 ‘사람과 이윤 사이에서 하나만 선택해야 한다’는 자본주의 이분법을 철저한 증거로 반론하며, 사회적 가치 창출을 통해 더 큰 이윤을 만들 수 있다는 사실을 애플, 머크, 파타고니아, 레킷벤키저, 보다폰, 어도비 등의 다양한 기업 사례와 체계적인 연구결과로 보여준다.\n전세계적 화두로 떠오르며 경영의 핵심 키워드로 자리 잡은 ‘ESG(환경-사회-지배구조 담론)’에 근거해, 기업의 파이 키우기 전략은 기존의 자본주의가 강요하는 ‘제로섬 게임’이 아닌 리더와 직원, 투자자, 주주, 사회, 환경, 시민 모두를 위한 ‘협업 게임’이 될 수 있다는 희망을 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210629",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "알렉스 에드먼스 지음 ;송정화 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/05/10/9791164842858.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "454 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164842858",
+                "INPUT_DATE": "20210510",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "ESG 파이코노믹스",
+                "PUBLISH_PREDATE": "20210521",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

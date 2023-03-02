@@ -1,0 +1,67 @@
+{
+    "otitle": "린다 브렌트 이야기",
+    "oauthor": "해리엇 제이콥스 저/이재희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "린다 브렌트 이야기 (어느 흑인 노예 소녀의 자서전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506164255",
+                "image": "https://shopping-phinf.pstatic.net/main_3250616/32506164255.20220527051114.jpg",
+                "author": "해리엇 제이콥스",
+                "discount": "0",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20110214",
+                "isbn": "9788964620113",
+                "description": "열다섯 살, 성적 착취와 학대에 맞선 흑인 노예 소녀의 전쟁이 시작되었다!\n\n흑인 노예 여성이 쓴 최초의 자서전『린다 브렌트 이야기』. 미국에서 남북전쟁이 발발하기 직전인 1861년, 해리엇 제이콥스라는 흑인 노예 여성이 발표한 자서전으로 미국 노예해방운동의 기념비적인 작품이다. 노예제의 비인간적인 실상을 폭로하고 노예 여성에 대한 성적 착취와 학대 문제를 본격적으로 제기하여 당시 신문 연재가 중단될 만큼 충격적인 반향을 불러일으켰다. 실화로 인정받지 못했던 이 작품은 역사학자 진 패이건 옐린이 1981년 사실을 입증할 자료를 발굴해 소개함으로써 진위 여부를 잠재웠다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "305.567092",
+                "UPDATE_DATE": "20110222",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "해리엇 제이콥스 지음 ;이재희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "332.6099",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2457264_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2457264_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2011000443",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964620113",
+                "INPUT_DATE": "20110128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "린다 브렌트 이야기 ",
+                "PUBLISH_PREDATE": "20110218",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

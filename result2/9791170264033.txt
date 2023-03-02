@@ -1,0 +1,67 @@
+{
+    "otitle": "독립은 잘 의지하는 거예요",
+    "oauthor": "진예지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "독립은 잘 의지하는 거예요",
+                "link": "https://search.shopping.naver.com/book/catalog/32451941300",
+                "image": "https://shopping-phinf.pstatic.net/main_3245194/32451941300.20221230074648.jpg",
+                "author": "미스페니",
+                "discount": "13500",
+                "publisher": "팜파스",
+                "pubdate": "20210520",
+                "isbn": "9791170264033",
+                "description": "나를 책임지는 삶, 독립\n완전한 독립을 꿈꾼다면 내가 기댈 곳을 찾으세요!\n\n의존적인 사람은 최악이라고 생각했고, 어른이 되면 혼자 할 수 있는 게 많아져야 하고 그래야 진정으로 자립한다고 생각했다. 하지만 진정한 자립이란 가능한 많은 사람에 의존하는 것이라는 책 속 한 줄을 읽은 후 ‘진정한 독립’에 대한 생각이 완전히 바뀌었다. 내가 완벽하지 않다는 것, 완벽할 수 없다는 것을 인정하고 타인의 도움을 받을 때 더욱 완전해질 수 있다. 혼자라도 괜찮은 척, 완벽한 척하는 것보다 도움이 필요할 때 기댈 수 있어야 진정한 독립이 가능하다. 결국 어른이란 어디에도 기대지 않고 홀로서는 사람이 아니라, 현명하게 기대는 법을 아는 사람이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20210628",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "진예지 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170264033",
+                "INPUT_DATE": "20210420",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "독립은 잘 의지하는 거예요",
+                "PUBLISH_PREDATE": "20210520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

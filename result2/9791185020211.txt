@@ -1,0 +1,67 @@
+{
+    "otitle": "4주 해독다이어트",
+    "oauthor": "박용우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "4주 해독다이어트 (대한민국 다이어트 멘토 박용우 박사의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436397958",
+                "image": "https://shopping-phinf.pstatic.net/main_3243639/32436397958.20221019101525.jpg",
+                "author": "박용우",
+                "discount": "12420",
+                "publisher": "비타북스",
+                "pubdate": "20140205",
+                "isbn": "9791185020211",
+                "description": "대한민국 다이어트 멘토 박용우 박사가 소개하는 『4주 해독 다이어트』. ‘해독 다이어트’란 몸속 체중조절시스템을 망가뜨리는 현대사회의 유해한 환경과 나쁜 음식들을 ‘독소’로 규정하고, 이를 몸 밖으로 배출시킴으로써 단 4주 만에 체지방과 독소를 한꺼번에 빼는 다이어트 방법이다. 이 책은 21세기의 다이어트 방법은 이전과 어떻게 달라져야 하는지, 무엇에 집중해야 제대로 살이 빠지는지를 상세히 소개한다. 아울러 누구나 따라할 수 있도록 4단계 해독다이어트 프로그램도 수록했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "646.75",
+                "UPDATE_DATE": "20140320",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "박용우",
+                "SERIES_TITLE": "",
+                "KDC": "593.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3263597_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3263597_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014001990",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185020211",
+                "INPUT_DATE": "20140117",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "박용우의 4주 해독다이어트",
+                "PUBLISH_PREDATE": "20140131",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

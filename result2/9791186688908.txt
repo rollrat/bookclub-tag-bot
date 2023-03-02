@@ -1,0 +1,67 @@
+{
+    "otitle": "할 말 다 해도 괜찮습니다",
+    "oauthor": "이토 아키라 저/이정환 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "할 말 다 해도 괜찮습니다 (속 시원하게 말하고도 절대 미움받지 않는 대화법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466238375",
+                "image": "https://shopping-phinf.pstatic.net/main_3246623/32466238375.20221019152700.jpg",
+                "author": "이토 아키라 외",
+                "discount": "11520",
+                "publisher": "나무생각",
+                "pubdate": "20170601",
+                "isbn": "9791186688908",
+                "description": "할 말 다 하고도 미움받지 않는 대화법!\n\n하고 싶은 말을 꾹 눌러 참을수록 불행지수는 수직상승한다. 누군가는 그냥 참으라고 하지만 참아봤자 일만 꼬이고, 스트레스는 배가 되며 관계에서도 불협화음이 생겨버린다. 일본의 심리학자이자 베스트셀러 작가인 이토 아키라는 『할 말 다 해도 괜찮습니다』를 통해 할 말 다 하고도 상대의 마음을 얻는 비결로 ‘한마디의 위대함’과 ‘한마디의 무서움’을 강조하고 있다. 말 한마디의 무게가 얼마나 값어치가 있는지, 한마디로 인생에 커다란 선물을 받고, 한마디로 인생을 망칠 수 있음을 심리학에 기반하여 상황별로 섬세하게 안내한다. \n\n책은 가장 이상적인 인간관계를 추구하며 자신과 타인을 동시에 존중하는 균형감을 갖춘 대화법을 제시한다. 상대의 입장을 이해하고 솔직하고 분명한 메시지로 동의와 지원을 이끌어내는 것이다. 미움 받을까 봐 할 말 못하거나 문제의 핵심을 놓치고 헛발질만 하기보다, 상황에 따라 명확하게 말하고 긍정적인 변화를 이끌어내는 화법을 구사하는 방법이다. 저자가 오랫동안 연구한 비즈니스 심리학 및 남녀 심리학을 기반으로 기업 연수, 기업 컨설팅, 심리 상담을 해온 덕분에 각각의 상황과 화법에 대한 심리적 분석이 더해져 결코 가볍지 않다. 축적된 경험과 노하우, 객관적인 분석, 재치 있고 유쾌한 해석이 독자들에게 깊은 공감을 불러일으킬 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)나무생각",
+                "DDC": "808.56",
+                "UPDATE_DATE": "20170605",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이토 아키라",
+                "SERIES_TITLE": "",
+                "KDC": "802.56",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6224056_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6224056_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "224",
+                "CONTROL_NO": "CIP2017011686",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186688908",
+                "INPUT_DATE": "20170516",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "할 말 다 해도 괜찮습니다",
+                "PUBLISH_PREDATE": "20170601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

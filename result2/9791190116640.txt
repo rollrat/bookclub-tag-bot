@@ -1,0 +1,67 @@
+{
+    "otitle": "다시 생각하는 원자력",
+    "oauthor": "어근선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다시 생각하는 원자력 (원자력의 올바른 이해를 위하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478410841",
+                "image": "https://shopping-phinf.pstatic.net/main_3247841/32478410841.20221019113927.jpg",
+                "author": "어근선",
+                "discount": "14400",
+                "publisher": "엠아이디",
+                "pubdate": "20220512",
+                "isbn": "9791190116640",
+                "description": "원자력은 X선의 발견을 통해 인류의 문명사에 편입된 지 이제 겨우 백년을 넘긴 젊은 에너지다. 이 강력한 원자력은 한때 전쟁에서 쓰이기도 했고, 친환경적이고 자원 부족 국가에게는 필수적인 에너지원으로 각광받고 있다. 한편 후쿠시마 원전 사고 등으로 인해 원자력이 과연 안전한 에너지인지, 더 안전하게 쓸 수 있는 방법은 없는지 원자력을 다시 생각할 시간이 인류에게 찾아왔다.\n〈다시 생각하는 원자력〉은 오랜 기간 원자력 업계에서 현장 업무를 해 온 원자력 전문가가 과학자의 태도를 견지하며 쓴 책이다. 우주의 탄생부터 원자력의 현대적 활용까지, 사건사고의 기록을 비롯해 방대한 데이터를 한 눈에 요약한 원자력 현황까지 종횡무진 다룬다. 또한 현장에서 오랜 기간 일하면서 느낀 소회와 각종 현안과 에너지 정책 그리고 진솔한 제언을 통해, 원자력의 전반을 균형 잡힌 시각으로 살펴본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "MID(엠아이디미디어)",
+                "DDC": "",
+                "UPDATE_DATE": "20220719",
+                "EA_ADD_CODE": "93400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "어근선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190116640",
+                "INPUT_DATE": "20220418",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "다시 생각하는 원자력",
+                "PUBLISH_PREDATE": "20220512",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "너의 말이 좋아서 밑줄을 그었다",
+    "oauthor": "림태주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "너의 말이 좋아서 밑줄을 그었다 (림태주 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482010572",
+                "image": "https://shopping-phinf.pstatic.net/main_3248201/32482010572.20221019150653.jpg",
+                "author": "림태주",
+                "discount": "12960",
+                "publisher": "웅진지식하우스",
+                "pubdate": "20211015",
+                "isbn": "9788901253060",
+                "description": "“나와 당신의 언어들이 우리 사이를 채웠으면 좋겠다”\n진심을 담은 가장 단순한 삶의 문장들과\n마음의 사이를 잇는 보통의 언어에 대하여\n\n뜨겁지도 차갑지도 않은 적정한 온도로 배어드는 관계의 언어가 있다. 수십만 수백만 개의 말들 중 바로 그 언어가 우리 사이를 채운다. 시인은 말한다. 인생이란 결국 어떤 사람에게 선을 잇고 어떤 언어에 줄을 그을 것인가를 선택하는 일이라고. 세상의 많고 많은 말들 중에 내가 밑줄을 그은 말들이 나의 언어가 된다고. 그리고 끊임없이 묻는다. 당신이 어떤 언어를 사랑했는지, 어떤 환상을 좇았는지, 어떤 빛이 되고 싶어 했는지. 시인의 언어를 따라다가 보면, 나의 언어로 누군가의 어두운 마음을 어떻게 비출 수 있을지 헤아리게 된다. 그리고 깨닫게 된다. 상대의 말을 온 마음으로 들을 때 비로소 ‘우리’라는 관계가 피어난다는 사실을.\n결국 이 책은 언어로 이룬 관계에 대한 에세이다. 오늘 당신이 밑줄을 그어 사랑하는 사람에게 건네고 싶은 언어는 무엇인가? 그 언어가 마음의 사이를 이어줄 것이다. 시인의 진심을 담은 삶의 문장으로 채워진 페이지를 넘기며 밑줄을 그어도 좋다. 지금 떠오르는 바로 그 사람에게 밑줄 가득한 이 책을 건네보는 건 어떨까. 그렇게 ‘우리’가 시작될지도 모르는 일이니 말이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진지식하우스 :웅진씽크빅",
+                "DDC": "",
+                "UPDATE_DATE": "20211026",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 림태주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788901253060",
+                "INPUT_DATE": "20210906",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "너의 말이 좋아서 밑줄을 그었다",
+                "PUBLISH_PREDATE": "20211015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "경영·인문·사회계열 진로 로드맵",
+    "oauthor": "김종찬, 배수정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "경영·인문·사회계열 진로 로드맵 (빅데이터로 조망하는 경영컨설턴트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32495362636",
+                "image": "https://shopping-phinf.pstatic.net/main_3249536/32495362636.20221231084217.jpg",
+                "author": "김종찬^배수정",
+                "discount": "15120",
+                "publisher": "미디어숲",
+                "pubdate": "20200320",
+                "isbn": "9791158740672",
+                "description": "경영·인문·사회계열 진학 준비를 위한 모든 것\n최고 전문가들이 제시하는 나만의 진로 로드맵!\n\n빅데이터 시대에 경영·통계학과 인문·사회학에서는 어떤 변화가 일어나고 있으며, 무엇을 준비해야 할까? \n10년 전에는 세계 10위 기업 중 7곳이 석유회사와 금융회사였다. 하지만 지금은 7곳이 데이터를 보유하고 활용하는 기업인, 마이크로소프트, 아마존, 애플, 알페벳, 페이스북, 알리바바, 텐센트 기업이다. 그만큼 빅데이터가 혁신과 경쟁력을 가져다준다는 것을 증명한다. 기업은 빠르게 변화하는 시대에 ‘인공지능과 디지털 기술을 개발하기 위한 인문·사회학을 전공한 창의적인 인재’를 선발하여 고객의 감성을 자극하는 서비스를 제공하고자 한다. 애플이 성공한 이유도 애플의 DNA인 인문학을 기술에 결합해 감성 마케팅으로 성공을 거둘 수 있었다.\n\n 『경영·인문·사회계열 진로 로드맵』은 “미래 경영은 어떻게 발전할지”, “4차 산업혁명시대에 인문·사회학은 왜 필요한지”, “꿈을 이루기 위해선 어떤 준비를 해야 하는지” 등을 살펴보고 나만의 로드맵을 찾을 수 있게 돕는다. 또한책의 특징으로는 관련학과 소개, 비교과활동 소개, 추천동영상과 도서소개 등을 통해 세부적인 계획을 세우고 실천할 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미디어숲 :다빈치하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20200427",
+                "EA_ADD_CODE": "43370",
+                "PUBLISHER_URL": "http://www.mfbook.co.kr",
+                "AUTHOR": "김종찬,배수정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "372.68",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/02/25/9791158740672.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "CIP2020008489",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158740672",
+                "INPUT_DATE": "20200225",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "경영·인문·사회계열 진로 로드맵",
+                "PUBLISH_PREDATE": "20200320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

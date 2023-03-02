@@ -1,0 +1,78 @@
+{
+    "otitle": "혜수, 해수 1",
+    "oauthor": "임정연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:58 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "혜수, 해수 1: 영혼 포식자 (임정연 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458946026",
+                "image": "https://shopping-phinf.pstatic.net/main_3245894/32458946026.20221019131504.jpg",
+                "author": "임정연",
+                "discount": "13500",
+                "publisher": "산지니",
+                "pubdate": "20210430",
+                "isbn": "9788965457183",
+                "description": "옷을 입고 거울 앞에 섰다. 검정 슈트의 어깨를 손으로 툭툭 털었다."
+            },
+            {
+                "title": "혜수, 해수 1: 영혼 포식자(큰글씨책) (임정연 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/34492361633",
+                "image": "https://shopping-phinf.pstatic.net/main_3449236/34492361633.20221019134939.jpg",
+                "author": "임정연",
+                "discount": "25200",
+                "publisher": "산지니",
+                "pubdate": "20220830",
+                "isbn": "9791168610811",
+                "description": "커피 매니아 저승사자와 상큼발랄 여고생의 악령 퇴치기\n2003년 서울신문 신춘문예로 등단하여 지난해 『지옥 만세』를 출간한 임정연 작가의 장편소설. 여고생 선무당 혜수와 앳된 저승사자 해수가 무당과 신장으로 연결되어 고난과 어려움을 함께 헤쳐 나가는 과정을 그렸다. 글을 쓰는 데 장르를 고려하지 않고, 그냥 누군가 잠깐 여유시간에 꺼내 읽으며 웃고 즐거워할 수 있는 소설을 쓰고 싶다는 작가의 말처럼, 흥미로운 설정에 가독성이 좋아 빠르게 읽히는 이 소설은 읽는 이에게 한 번 잡았다 하면 손 떼지 못할 즐거움을 선사한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20210712",
+                "EA_ADD_CODE": "44810",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "지은이: 임정연",
+                "SERIES_TITLE": "청소년소설",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788965457206",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/14/9788965457183.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "248 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788965457183",
+                "INPUT_DATE": "20210419",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "혜수, 해수",
+                "PUBLISH_PREDATE": "20210430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

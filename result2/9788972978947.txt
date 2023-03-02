@@ -1,0 +1,67 @@
+{
+    "otitle": "아주 오래된 질문들",
+    "oauthor": "한국철학사상연구회정암학당 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아주 오래된 질문들 (고전철학의 새로운 발견)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482751524",
+                "image": "https://shopping-phinf.pstatic.net/main_3248275/32482751524.20221019105436.jpg",
+                "author": "한국철학사상연구회",
+                "discount": "11700",
+                "publisher": "동녘",
+                "pubdate": "20170831",
+                "isbn": "9788972978947",
+                "description": "『아주 오래된 질문들』은 고대 그리스 철학이 고전에 머무르지 않고 현재를 살아가는 우리에게 과거의 사유가 어떻게 다가올 수 있는지를 질문하고 나름의 답변을 제시한다. 지금까지 이어지는 그리스 고전은 2,500년 전에 탄생한 오래된 이야기일 수도 있으나, 호모 사피엔스인 인류가 시작된 25만 년 전에 비한다면 아주 최근 이야기이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "180",
+                "UPDATE_DATE": "20170907",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "한국철학사상연구회,정암학당,정준영,김재홍,연효숙,김남우,서영화,문성원,최종덕,이정은,이기백,한길석,김성우,서유석,이정호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "160.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6323309_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6323309_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6323309_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "320 p.",
+                "CONTROL_NO": "CIP2017020850",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972978947",
+                "INPUT_DATE": "20170817",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "아주 오래된 질문들",
+                "PUBLISH_PREDATE": "20170831",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

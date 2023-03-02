@@ -1,0 +1,67 @@
+{
+    "otitle": "지금 바로 돈 버는 기술",
+    "oauthor": "김정환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 바로 돈 버는 기술 (한 번 보면 누구나 쉽게 따라 할 수 있는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445846932",
+                "image": "https://shopping-phinf.pstatic.net/main_3244584/32445846932.20221019114329.jpg",
+                "author": "김정환",
+                "discount": "14400",
+                "publisher": "유노북스",
+                "pubdate": "20191114",
+                "isbn": "9791189279813",
+                "description": "경제적 자유를 꿈꾸는 이들에게 새로운 인생을 안내한다!\n\n여기, 사업가 친구의 도움을 받아 8개월 만에 0원에서 월 매출 3,500만 원을 달성한 이가 있다. 퇴사 후 방황하던 중 유튜버 신사임당에게서 ‘창업 다마고찌 프로젝트’를 제안 받아 사업가로 성장할 기회를 얻었다. 신사임당은 저자에게 사업할 때 필요한 기술과 마인드 A부터 Z까지를 아낌없이 가르쳐 주고, 촬영해서 유튜브에 올려 왔다. 구독자들 사이에서 ‘창업 콘텐츠’라는 새로운 카테고리를 형성할 만큼 폭발적인 반응을 불러일으키며, 6개월 만에 누적 조회 수 100만 이상을 달성했다.\n\n『지금 바로 돈 버는 기술』은 그간 유튜브에서 공유하지 못했던 솔직한 후기와 알짜배기 정보들을 나누고자 한다. 어떻게 돈을 벌지 막막할 누군가와 지금 이 시대를 적극적으로 활용하는 방법과 기회를 찾는 요령을 공유하고 싶었던 저자는 이 책에서 신사임당의 가르침을 따르며 겪은 여러 시행착오와 월 수익 500만 원에서 1,000만 원을 달성하기까지 직접 발견한 노하우도 아낌없이 정리해 자세하게 들려준다. 사업 기초부터 돈 굴리는 마인드까지 인생의 경제적 자유를 빠르고 정확하게 실현할 수 있도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200102",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김정환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.21",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/29/9791189279813.JPG",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "291 p.",
+                "CONTROL_NO": "CIP2019043670",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189279813",
+                "INPUT_DATE": "20191029",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(한 번 보면 누구나 쉽게 따라 할 수 있는) 지금 바로 돈 버는 기술",
+                "PUBLISH_PREDATE": "20191114",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

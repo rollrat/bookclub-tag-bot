@@ -1,0 +1,67 @@
+{
+    "otitle": "세상을 움직이는 수학개념100",
+    "oauthor": "라파엘 로젠 저/김성훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상을 움직이는 수학개념 100",
+                "link": "https://search.shopping.naver.com/book/catalog/32462361929",
+                "image": "https://shopping-phinf.pstatic.net/main_3246236/32462361929.20230110163810.jpg",
+                "author": "라파엘 로젠",
+                "discount": "13500",
+                "publisher": "반니",
+                "pubdate": "20160329",
+                "isbn": "9791185435725",
+                "description": "당신의 삶을 풍요롭게 만들 수학개념들!\n\n『세상을 움직이는 수학개념 100』은 수학을 비롯한 자연과학과 글쓰기의 접점에 관심이 많았던 라파엘 로젠의 저서로, 누구나 한번쯤 스치듯 의문을 품었을 법한 것들을 놓치지 않고 포착하여 수학 개념으로 명쾌하게 분석한다. 우리가 주의를 기울이면 기울일수록 많이 발견할 수 있는 주제들은 수학의 새로운 면을 발견하도록 이끈다. 호기심을 자극하고 지적 탐색을 유혹하는 개념들은 삶의 지혜를 한결 깊고 풍부하게 만들 것이다.\n\n확률 말고도 마란고니 효과, 클라인 병, 매듭이론, 가우스곡률, 카테너리 곡선, 도박사의 오류, 튜링 테스트, 내시 균형, 공평 분할, 순회 세일즈맨의 문제, 사이트스왑, 검사의 오류, 죄수의 딜레마, 탈척도 상관관계, 갯 심각성 지수, 알갱이 대류, 쪽매맞춤, 비둘기 집 원리, 그래프이론, 4색정리, 불 대수, 생일 역설, 안식각, 피보나치 수열 등 여러 가지를 수학 개념을 다룬다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판) 반니",
+                "DDC": "510",
+                "UPDATE_DATE": "20160412",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "라파엘 로젠",
+                "SERIES_TITLE": "",
+                "KDC": "410",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5310136_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5310136_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "268",
+                "CONTROL_NO": "CIP2016007341",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185435725",
+                "INPUT_DATE": "20160317",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "세상을 움직이는 수학개념 100",
+                "PUBLISH_PREDATE": "20160329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

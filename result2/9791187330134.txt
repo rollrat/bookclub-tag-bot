@@ -1,0 +1,67 @@
+{
+    "otitle": "몸에도 미니멀리즘",
+    "oauthor": "황민연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "몸에도 미니멀리즘 (단순한 음식은 어떻게 단순한 삶을 완성하는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490317622",
+                "image": "https://shopping-phinf.pstatic.net/main_3249031/32490317622.20221229072519.jpg",
+                "author": "황민연(베지미나)",
+                "discount": "13500",
+                "publisher": "사이몬북스",
+                "pubdate": "20191215",
+                "isbn": "9791187330134",
+                "description": "단순한 음식은 어떻게 단순한 삶을 완성하는가?\n\n여기 한명의 여성이 있다. 야근도 마다하지 않고 일했으며 디자이너로서 나름의 성취를 일궈냈다. 세상이 가르쳐준 대로 열심히 욕심껏 살았다. 교과서에서 배운 것처럼 아무거나 골고루 먹었으며, 남들처럼 배달음식도 마다하지 않았다. 그러나 아랫배가 나오고 몸이 아프기 시작했다. 병원을 전전했다.\n\n시중에 유행하는 다이어트를 다 시도해보았다. 닭가슴살도 먹었고 피부에 좋다는 한약도 먹어보았다. 그러나 살은 빠지는 듯 하다가 도로 쪘고, 몸은 더 아파왔으며 피부도 거칠어졌다. 어느 날 작심한 듯 채식(자연식물식)으로 바꾸었다. 독소가 빠져나가면서 변비도 뱃살도 여드름도 사라졌다. 몸이 날아갈 듯 가벼워졌다.\n\n가벼워진 몸은 맑은 영혼을 불러왔으며, 삶이 바뀌기 시작했다. 음식이 단순해지자 삶도 단순해지기 시작한 것이다. 옷가지와 세간을 정리했다. 화장품을 버리고 물 세안과 물로만 머리감기를 시작했다. 잘 나가던 회사를 정리하고 내가 좋아하는 일을 시작했다. 끌려가던 삶에서 끌고 가는 삶을 시작한 것이다.\n\n『몸에도 미니멀리즘』에서 먹는 음식을 바꾸고 영혼이 바뀌는 것을 몸소 증명해낸 저자의 이야기를 만나볼 수 있다. 뱃살이 빠지고 질병이 나았을 뿐 아니라 단순한 삶으로 방향을 틀게 한 이유가 바로 음식이었다는 것을 생생하게 보여주며, 참 행복을 누리고 있는 자신의 이야기를 들려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사이몬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200729",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황민연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/08/9791187330134.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "288 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187330134",
+                "INPUT_DATE": "20191108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "몸에도 미니멀리즘",
+                "PUBLISH_PREDATE": "20191215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

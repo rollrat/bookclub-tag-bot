@@ -1,0 +1,67 @@
+{
+    "otitle": "강해질 권리",
+    "oauthor": "김민후 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "강해질 권리 (나약한 삶에서 단단한 삶으로)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480517766",
+                "image": "https://shopping-phinf.pstatic.net/main_3248051/32480517766.20221229074359.jpg",
+                "author": "김민후",
+                "discount": "12100",
+                "publisher": "프롬북스",
+                "pubdate": "20210615",
+                "isbn": "9791188167470",
+                "description": "“위로받지 않아도 강해질 수 있습니다!”\n\n자존감, 공감, 욜로, 소확행, 다 괜찮다는 말… \n우리 사회에 넘쳐나는 달콤한 유행어와 거짓 위로에 속아 \n독립과 책임에서 도피한 이들을 향한 정신과 의사의 조언\n자존감을 높이라고 한다. 공감이 마음의 상처를 치유한다고 한다. 화나면 화내고, 하다못해 소리 내어 울어버리라고 한다. 한 번뿐인 인생, 남 시선 신경 쓰지 말고 살고 싶은 대로 살라고 한다. TV에서, 강연에서, 베스트셀러에서 전문가들이 하는 조언이다. 이에 대해 『강해질 권리』의 저자인 현직 정신과의사 김민후는 “이런 식의 달콤한 꼬드김은 얼핏 듣기에 솔깃할 뿐 결국 헛소리”라고 말한다.\n저자는 요즘 우리 사회에 유행하는 자존감, 공감, 욜로, 소확행, 온갖 위로의 말들이 정신력이 나약한 사람들에게 ‘약’ 아닌 ‘독’이 되고 있음을 경고한다. 이른바 심리 문제 전문가들의 잘못된 처방으로 인해 사람이라면 누구에게나 필연적으로 찾아오는 고통을 극복하려고 노력하기보다 포기하고, 의지하고, 남 탓, 환경 탓하는 사람들이 늘어나고 있음을 비판한다. 또한 모든 인생에 주어진 과업, 즉 ‘독립’과 ‘책임’을 감당하기 위해서는 강해져야 하며, 그 방법으로서 ‘스스로를 동정하지 말고’, ‘신체를 단련하며’, ‘열등감을 변화의 원동력 삼으며,’ ‘인생의 목표를 자기 기분 두지 않는’ 등 다양한 지침을 제안한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "프롬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210727",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김민후 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/05/26/9791188167470.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "254 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188167470",
+                "INPUT_DATE": "20210526",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "강해질 권리",
+                "PUBLISH_PREDATE": "20210615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

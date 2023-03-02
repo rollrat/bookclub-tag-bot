@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘부터, 처음 텃밭 가꾸기",
+    "oauthor": "석동연 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘부터, 처음 텃밭 가꾸기 (베란다 텃밭부터 노지 텃밭까지 완전 정복)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441429650",
+                "image": "https://shopping-phinf.pstatic.net/main_3244142/32441429650.20221019104503.jpg",
+                "author": "석동연",
+                "discount": "15230",
+                "publisher": "빌리버튼",
+                "pubdate": "20220307",
+                "isbn": "9791191228779",
+                "description": "베란다 한 편의 조그만 텃밭부터\n100평 규모의 커다란 텃밭까지\n실패하지 않고 수확하는 특급 비법\n\n저자는 베란다 텃밭부터 옥상 텃밭, 100평 규모의 노지 텃밭까지 17년간 크고 작은 텃밭에서 작물을 가꾸었다. 때로는 성공하고 때로는 실패하면서 얻은 노하우를 이 책에 담았다. 잎채소, 열매채소, 뿌리채소 등 다양한 작물을 파종부터 수확까지 모든 과정을 친절하게 설명한다. 그래서 어떤 작물을 키우더라도 고민하지 않고 씨와 모종을 구매할 용기를 낼 수 있도록 해준다.\n\n텃밭에서 직접 기른 채소를 수확하는 즐거움은 크다. 내 손으로 키웠다는 뿌듯함을 느낄 수 있고 시장에 갈 필요 없이 싱싱한 채소를 마음껏 따먹을 수 있으니 가계 경제에 보탬도 된다. 또 이 책은 천연비료와 친환경 농약을 사용하여 작물을 키우고 병충해를 이겨내는 방법을 담고 있다. 살충제, 잔류농약 걱정 없이 마음 놓고 먹을 수 있는 작물을 얻을 수 있게 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "",
+                "UPDATE_DATE": "20220413",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글·그림: 석동연",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/02/15/9791191228779.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "185*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "265 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191228779",
+                "INPUT_DATE": "20220209",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "오늘부터, 처음 텃밭 가꾸기",
+                "PUBLISH_PREDATE": "20220307",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

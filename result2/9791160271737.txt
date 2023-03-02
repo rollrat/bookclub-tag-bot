@@ -1,0 +1,67 @@
+{
+    "otitle": "한잔 술, 한국의 맛",
+    "oauthor": "이현주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한잔 술, 한국의 맛 (알고 마시면 인생이 즐겁다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445420639",
+                "image": "https://shopping-phinf.pstatic.net/main_3244542/32445420639.20221230074551.jpg",
+                "author": "이현주",
+                "discount": "15120",
+                "publisher": "소담출판사",
+                "pubdate": "20191105",
+                "isbn": "9791160271737",
+                "description": "추운 겨울날 포장마차에 앉아 마시는 소주 한잔, 더운 여름날 땀 흘리고 마시는 시원한 맥주 한 캔, 비 오는 날 창가에 앉아 빗소리 들으며 먹는 파전에 막걸리 한 병. 이렇듯 술이란 누구와 어디에서 어떻게 마시는지에 따라 천차만별의 매력을 보여준다. 그렇다면 전통주는 언제 어떻게 무엇과 함께 마셔야 그 맛을 최대로 끌어올릴 수 있을까?\n\n『한잔 술, 한국의 맛』에서는 수백 년 전부터 이어져 내려온 전통주부터 이제 막 걸음마를 시작한 신생 양조장들이 선보이는 새로운 전통주들을 소개하며 술에 담긴 가치를 전한다. 농림축산식품부가 설립한 [전통주 갤러리]의 초대 관장, 전통주 소믈리에 이현주는 그간 보고 듣고 마시고 느낀 증류주, 약주, 탁주 등 다양한 전통주에 대한 이야기들을 『한잔 술, 한국의 맛』에 가득 담았다. 전통주의 맛을 제대로 알고 즐길 수 있도록, 취하는 것만이 능사는 아니라는 것을 알려주는 안내자 역할을 자처한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소담출판사 :태일소담",
+                "DDC": "",
+                "UPDATE_DATE": "20191119",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이현주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "573.10911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "157*223",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "336 p.",
+                "CONTROL_NO": "CIP2019042620",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160271737",
+                "INPUT_DATE": "20191023",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "한잔 술, 한국의 맛",
+                "PUBLISH_PREDATE": "20191105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

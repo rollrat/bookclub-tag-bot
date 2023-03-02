@@ -1,0 +1,67 @@
+{
+    "otitle": "인사이트 좀 있는 사람",
+    "oauthor": "박병태 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인사이트 좀 있는 사람 (새로운 부를 이끄는 생각과 관점의 대전환)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436149712",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436149712.20221019110100.jpg",
+                "author": "박병태",
+                "discount": "16200",
+                "publisher": "리더북스",
+                "pubdate": "20210408",
+                "isbn": "9791190616324",
+                "description": "“인사이트 좀 있는 사람들이 새로운 부를 재편하고 있다!”\n세상과 사람을 읽는 경영학 박사 박병태의 \n상식을 넘어 생각의 힘을 길러주는 인사이트 매뉴얼\n\n포스트 코로나로 4차 산업혁명 시대는 빠르게 각 산업 분야가 융합을 이루면서 대변혁을 만들어가고 있다. 이 책은 사회과학에서 인문학까지, 현장에서 학술 이론까지 통섭의 모범 사례를 전개해 나가면서 개인과 조직에 꼭 필요한 인사이트를 제공한다. \n생각하는 힘을 기르기 위해서는 관점과 습관을 과감하게 바꾸고 고정관념에서 벗어나 융복합 안목으로 현상을 볼 줄 알아야 한다. 이 책은 융복합 안목과 참신한 질문이 창의력의 원천이라는 주장과 함께 흥미로운 사례들을 제시하고 있다. 현장에서 찾아낸 보석 같은 값진 지식이며 클래스가 다른 인사이트 명강의다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리더북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210518",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박병태 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "414 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190616324",
+                "INPUT_DATE": "20210401",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "인사이트 좀 있는 사람",
+                "PUBLISH_PREDATE": "20210408",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

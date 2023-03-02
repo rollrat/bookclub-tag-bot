@@ -1,0 +1,67 @@
+{
+    "otitle": "인간연대의 자본론",
+    "oauthor": "유키오카 요시하루 저/김기섭 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인간연대의 자본론 (오류와 망상의 &lt;자본론&gt; 해체 노트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492747725",
+                "image": "https://shopping-phinf.pstatic.net/main_3249274/32492747725.20221230074357.jpg",
+                "author": "유키오카 요시하루",
+                "discount": "16200",
+                "publisher": "들녘",
+                "pubdate": "20170530",
+                "isbn": "9791159252570",
+                "description": "칼 마르크스의 &lt;자본론&gt;에 대한 기존의 가치판단과 통념을 일거에 전복시킨다. &lt;자본론&gt; 비판을 목적으로 하는 우파적 해석은 물론이고, &lt;자본론&gt;의 기본주제를 옹립하고자 하는 좌파적 해석도 마찬가지다. 저자의 &lt;자본론&gt; 해체 작업을 따라가다 보면, 먼저 그 주장의 새로움과 낯섦에 경악하게 되고, 이어서 그가 비판의 근거로 제시하는 논증들이 매우 합당하다는 것에 감탄하게 된다.\n\n\n\n&lt;자본론&gt;이 한계도 있으나 동시에 현대사회에 유용성도 있다는 스승들의 견해를 따라, 저자는 &lt;자본론&gt;에 대한 경외감과 의심마저 버릴 생각은 하지 않았다. 그러나 풀리지 않는 의문을 붙들어 안고 &lt;자본론&gt;을 본격적으로 독해한 결과, 저자는 &lt;자본론&gt;이 마르크스의 언어로 구축된 마르크스의 우주(언어세계)라는 것을 가장 먼저 깨달았다고 말한다. 가령 사람 찾으러 간 사람이 그 사람에 빠져 돌아오지 않게 되는 것처럼, 누구나 한번 &lt;자본론&gt;에 빠지면 마르크스의 언어로 사고하고 마르크스의 언어로 세계를 이해하게 된다는 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "335.4",
+                "UPDATE_DATE": "20170629",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "유키오카 요시하루; 조한소, 김기섭 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "320.17",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6229648_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6229648_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "360",
+                "CONTROL_NO": "CIP2017012317",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159252570",
+                "INPUT_DATE": "20170523",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "인간연대의 자본론",
+                "PUBLISH_PREDATE": "20170530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

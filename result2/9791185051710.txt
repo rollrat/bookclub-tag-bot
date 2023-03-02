@@ -1,0 +1,67 @@
+{
+    "otitle": "괴담의 집",
+    "oauthor": "미쓰다 신조 저,현정수 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "괴담의 집 (미쓰다 신조 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494082339",
+                "image": "https://shopping-phinf.pstatic.net/main_3249408/32494082339.20230219103340.jpg",
+                "author": "미쓰다 신조",
+                "discount": "12420",
+                "publisher": "북로드",
+                "pubdate": "20150703",
+                "isbn": "9791185051710",
+                "description": "호러와 미스터리의 경계, 사실과 허구의 경계가 여지없이 무너진다!\n\n호러와 미스터리의 융합이라는 새로운 장르를 개척하여 한일 양국에서 ‘미쓰다 월드’라 불리는 마니아층을 형성할 정도로 독보적인 위치를 구축한 미쓰다 신조의 『괴담의 집』. 저자가 직접 괴담의 수집가이자 해설가로 등장해 집을 배경으로 한 다섯 가지 괴담을 소개한다. \n\n호러 미스터리 작가인 ‘나’는 괴담을 좋아하는 모 출판사 편집자와 만나 종종 괴담을 주제로 수다 삼매경에 빠진다. 작가와 편집자는 어느 날 시공간이 전혀 다른 집을 배경으로 한 다섯 가지 괴담 이야기 속에 기이한 유사점을 느끼면서 그 느낌의 정체를 추리해보기로 한다. 다섯 가지 공포 체험담 사이사이에 각 이야기의 수집 과정이 논픽션처럼 실감나게 서술되면서, 독자들은 이 괴담들이 실제인지 허구인지 헛갈릴 수밖에 없다. 미쓰다 신조에 관심 있는 팬이라면, 이번 작품은 작가와 작품에 대해 가장 잘 파악할 수 있는 최고의 선물이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로드",
+                "DDC": "895.636",
+                "UPDATE_DATE": "20150717",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "미쓰다 신조",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4681105_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20150703",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4681105_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "15,800",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015017264",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185051710",
+                "INPUT_DATE": "20150623",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "괴담의 집",
+                "PUBLISH_PREDATE": "20150703",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

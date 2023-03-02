@@ -1,0 +1,67 @@
+{
+    "otitle": "염증에 걸린 마음",
+    "oauthor": "에드워드 불모어 저/정지인 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "염증에 걸린 마음 (우울증에 대한 참신하고 혁명적인 접근)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494101647",
+                "image": "https://shopping-phinf.pstatic.net/main_3249410/32494101647.20221019140340.jpg",
+                "author": "에드워드 불모어",
+                "discount": "16200",
+                "publisher": "심심",
+                "pubdate": "20200512",
+                "isbn": "9791156758211",
+                "description": "“우울증 약이 잘 듣지 않는다고요?\n그렇다면 당신의 우울증은 염증 때문일 겁니다”\n\n‘뇌 속에 세로토닌 호르몬이 모자라면 우울증에 걸린다’는 가설을 기반으로 만들어진 항우울제는 지난 30년간 꽤 많은 사람에게 효과가 있었다. 그러나 우울증을 겪는 모든 이에게 효과를 낸 것은 아니다. 우울증 인구의 3분의 1에 해당하는 이들에게 항우울제는 ‘안 먹기엔 불안하지만 먹는다고 좋아지는 법은 없는’ 존재였다. 왜 이들에게는 항우울제가 듣지 않는 걸까? 환자 개인의 신체 특성이나 생활습관 차이 때문일까? 그간의 우울증 연구가 놓치고 있던 것이 무엇일까?\n《염증에 걸린 마음》은 우울증의 원인을 ‘염증’으로 지목한다. 몸의 염증이 뇌에까지 영향을 미쳐 우울증을 일으킨다는 것이다. 1990년대에 처음 도입한 fMRI 연구에 참여하며 인간의 뇌 지도를 그리는 데 공헌해온 세계적인 신경면역학자이자 케임브리지대학교 정신의학과 교수인 에드워드 불모어는 “염증이 우울증의 원인이 된다”고 단언한다. 불모어 교수는 이 책에서 최신 과학인 신경면역학과 면역정신의학을 기반으로 몸속 염증이 뇌에 변화를 일으키는 과정을 밝혀내고 그동안 우리가 우울증을 이해해온 방식을 완전히 뒤집으며 우울증 치료의 혁명적 변화를 예고한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "심심 :푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20200515",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "지은이: 에드워드 불모어 ;옮긴이: 정지인",
+                "SERIES_TITLE": "",
+                "KDC": "513.8525",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "325 p.",
+                "CONTROL_NO": "CIP2020013834",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156758211",
+                "INPUT_DATE": "20200402",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "염증에 걸린 마음",
+                "PUBLISH_PREDATE": "20200512",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

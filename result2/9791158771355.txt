@@ -1,0 +1,67 @@
+{
+    "otitle": "아빠 육아 처음이지?",
+    "oauthor": "하태욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아빠 육아 처음이지? (예비아빠, 초보아빠를 위한 육아 필살기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455033533",
+                "image": "https://shopping-phinf.pstatic.net/main_3245503/32455033533.20230131163039.jpg",
+                "author": "하태욱",
+                "discount": "12600",
+                "publisher": "바이북스",
+                "pubdate": "20191120",
+                "isbn": "9791158771355",
+                "description": "예비아빠, 초보아빠를 위한 육아 필살기를 담은 지침서. 10여 년 경력의 사회복지사이자 사람들에 웃음을 주는 MC인 저자 하태욱이 홀로 육아에 지친 아내를 돕는 아빠가 많아지기를 바라는 마음으로 《아빠 육아 처음이지?》를 세상에 내놓는다. 아내에게 홀로 육아의 짐을 지우고 싶지 않지만 현실적인 어려움에 봉착한 아빠들에게 자신의 경험을 바탕으로 유용한 팁을 제공하고 있다. 아빠 육아가 무슨 특별한 방법이 있는 것이 아니다. 그냥 아이와 함께 놀아주고 호흡하면 되는 것이다. 이 책에 나온 다양한 방법을 나름대로 변용해서 아빠가 그리운 아이들을 위해 이제 아빠 육아를 시작해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191119",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하태욱 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "211 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158771355",
+                "INPUT_DATE": "20191031",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "아빠 육아 처음이지?",
+                "PUBLISH_PREDATE": "20191120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

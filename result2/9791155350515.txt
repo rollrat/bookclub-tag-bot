@@ -1,0 +1,67 @@
+{
+    "otitle": "뉴욕의 스노우캣",
+    "oauthor": "스노우캣 글,그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뉴욕의 스노우캣",
+                "link": "https://search.shopping.naver.com/book/catalog/32441653852",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441653852.20221019140246.jpg",
+                "author": "권윤주",
+                "discount": "12420",
+                "publisher": "미메시스",
+                "pubdate": "20150620",
+                "isbn": "9791155350515",
+                "description": "『뉴욕의 스노우캣』은 『스노우캣의 혼자 놀기』, 『스노우캣의 지우개』 이후 스노우캣이 3년 만에 그린 일러스트 작품집이다. 스노우캣이 본 뉴욕은 한마디로 《사람을 변화시키는 도시》이다. 무슨 일이든 일어날 수 있고, 어떤 것이든 찾아낼 수 있는 이 도시에서 스노우캣 역시 조금씩 변화했다. 1년 반이 넘는 시간 동안 스노우캣은 집 밖으로 나와 뉴욕, 특히 맨해튼의 곳곳을 찾아다니며 거리의 풍경을 화폭에 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미메시스",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "07940",
+                "PUBLISHER_URL": "www.mimesisart.co.kr",
+                "AUTHOR": "스노우캣(권윤주)",
+                "SERIES_TITLE": "",
+                "KDC": "810",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791155350539",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4625123_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4625123_5.txt",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015015023",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155350515",
+                "INPUT_DATE": "20150529",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "N",
+                "TITLE": "뉴욕의 스노우캣",
+                "PUBLISH_PREDATE": "20150615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "07810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "아들러 심리학 나쁜 기억 세탁소",
+    "oauthor": "고현진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아들러 심리학 나쁜 기억 세탁소 (개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/34512904628",
+                "image": "https://shopping-phinf.pstatic.net/main_3451290/34512904628.20221019134528.jpg",
+                "author": "고현진",
+                "discount": "16200",
+                "publisher": "바이북스",
+                "pubdate": "20220920",
+                "isbn": "9791158773083",
+                "description": "《아들러 심리학 나쁜 기억 세탁소》의 개정판. 나쁜 기억에 좌절하지 않고 맞서 자신을 진정으로 이해하도록 돕는 자기 고백 에세이다. 저자 고현진은 아들러 심리학을 바탕으로 어릴 때 성격 형성에 영향을 미쳤던 ‘나쁜 기억’들을 소환해 자신을 진정으로 이해하고 사랑하는 방법을 보여준다. 저자의 솔직한 자기 고백을 듣다 보면 독자들도 마음속의 나쁜 기억을 어떻게 마주하고 극복해야 하는지 저절로 깨닫게 될 것이다. 인생을 가볍게 살기 위해 세상에 하나뿐인 나쁜 기억 세탁소를 찾아가보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20221024",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고현진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20220920",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158773083",
+                "INPUT_DATE": "20220830",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "아들러 심리학 나쁜 기억 세탁소",
+                "PUBLISH_PREDATE": "20220920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

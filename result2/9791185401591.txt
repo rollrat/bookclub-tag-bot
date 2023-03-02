@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘이 좋아지는 연습",
+    "oauthor": "성스런 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘이 좋아지는 연습 (지친 몸과 마음을 회복하는 루틴 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441792135",
+                "image": "https://shopping-phinf.pstatic.net/main_3244179/32441792135.20221229074000.jpg",
+                "author": "성스런",
+                "discount": "11970",
+                "publisher": "채륜서",
+                "pubdate": "20210510",
+                "isbn": "9791185401591",
+                "description": "어제보다 오늘 더 선명하게 살아가기 위해 루틴을 만들고 생활을 가꿔가는 사람의 에세이다. 어느 것 하나 확실하지 않은 시대에 스스로를 지키기 위한 최소한의 방법으로 루틴을 안내한다. 작가는 어디서부터 잘못됐는지 알 수도 없었던 지난 경험을 솔직하게 들려주며, 숨 고르기부터 시작하자고 말한다.\n\n\n\n어떤 상황이든 무조건 버텨주기만을 바라는 것이 아니라 몸과 마음이 잘 자랄 수 있는 환경부터 만들기를 권한다. 몸과 마음을 꾸준히 관찰하고 기록해서 자신만의 체크리스트를 만드는 방법을 알려준다. 자책과 무기력함을 뒤로하고 스스로를 아낄 줄 아는 사람이 되길 응원한다. 우리는 누구나 보다 좋은 것을 취할 힘이 있으니까 말이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "채륜서",
+                "DDC": "",
+                "UPDATE_DATE": "20210722",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.chaeryun.com",
+                "AUTHOR": "지은이: 성스런",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "238 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185401591",
+                "INPUT_DATE": "20210415",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘이 좋아지는 연습",
+                "PUBLISH_PREDATE": "20210510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

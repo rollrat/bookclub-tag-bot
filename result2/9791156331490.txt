@@ -1,0 +1,67 @@
+{
+    "otitle": "그림책 쓰기의 모든 것",
+    "oauthor": "앤 위트포드 폴 저/방진이 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그림책 쓰기의 모든 것 (아이와 어른 모두를 매혹하는 이야기를 써라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484727663",
+                "image": "https://shopping-phinf.pstatic.net/main_3248472/32484727663.20221019114153.jpg",
+                "author": "앤 위트포드 폴",
+                "discount": "18900",
+                "publisher": "다른",
+                "pubdate": "20170331",
+                "isbn": "9791156331490",
+                "description": "그림책은 보통 글을 읽을 줄 모르는 아이에게 어른이 읽어주는 책을 말한다. 아이들의 집중 시간은 매우 짧다. 그러니 원고 분량도 적어야 한다. 또한 그림책은 글과 그림 모두를 담아야 하므로 그림책 작가는 정말 필요한 단어만을 골라 써야 한다. 그림책 쓰기는 예술이기 이전에 기술인 것이다. 이 책 《그림책 쓰기의 모든 것》은 그림책 작법에 관한 모든 과정을 다룬다. 플롯 구성에서부터 출간에 이르기까지. 상상력만으로는 좋은 그림책을 쓸 수 없다. \n\n글을 잘 쓰고 싶다면 자신의 글을 비평하는 법을 최대한 잘 배우는 수밖에 없다. 적당한 거리를 유지하고 제3자가 되어 글을 읽는 법을 익혀야 한다. 이 책은 제3자의 눈을 얻는 참신한 방법을 다룬다. 자신의 작품을 객관적으로 평가하고 글을 탄탄하게 다지는 데 필요한 기술들을 소개한다. 모든 장의 마지막에는 원고를 냉정하게 보고 어떤 방향으로 고쳐나가야 할지에 대해 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)다른",
+                "DDC": "808.068",
+                "UPDATE_DATE": "20170417",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "앤 위트포드 폴 지음/ 방진이 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "802.068",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6165512_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6165512_3.jpg",
+                "PRE_PRICE": "21000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6165512_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "352",
+                "CONTROL_NO": "CIP2017006595",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156331490",
+                "INPUT_DATE": "20170313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "그림책 쓰기의 모든 것",
+                "PUBLISH_PREDATE": "20170331",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

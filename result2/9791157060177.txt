@@ -1,0 +1,67 @@
+{
+    "otitle": "거의 모든 인터넷의 역사",
+    "oauthor": "정지훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "거의 모든 인터넷의 역사 (우리가 지금껏 알지 못했던 인터넷 혁명의 순간들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441030052",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441030052.20230214162509.jpg",
+                "author": "정지훈",
+                "discount": "13500",
+                "publisher": "메디치미디어",
+                "pubdate": "20140930",
+                "isbn": "9791157060177",
+                "description": "기술을 넘어 문화로 자리잡은 인터넷의 탄생과 발전, 그리고 그 미래의 이야기!\n\n언제 어디서든지 인터넷에 접속하여 길을 찾고, 쇼핑을 하고, 원하는 것을 검색할 수 있는 시대. 인터넷 없는 삶은 상상할 수 없는 오늘날, 그 인터넷의 탄생과 발전, 그리고 인터넷의 현재와 미래의 전망은 어떨까. 미래학자이자 IT전문가인 정지훈이 인터넷이 탄생할 수 밖에 없었던 다양한 역사적인 사건과 배경, 주요 인물들의 생각과 철학, 그리고 그 발전 과정과 미래에 대해 인문학적 시선으로 조망한다. \n\n이 책은 1940년대 2차 세계대전 시기를 인터넷의 태동시기로 보고 이야기를 시작한다. 이어 권위적인 미국 동부를 떠나 서부에서 IT산업을 개척해나가는 실리콘밸리의 탄생, 오늘날 네트워크 개념을 가능케 해준 이더넷과 TCP/IP를 만들어낸 과학기술의 공로자들, 유닉스와 리눅스라는 놀라운 운영체제, 그리고 월드와이드웹의 탄생, 현재 최고를 시절을 맞고 있는 구글과 페이스북 등에 대한 이야기를 풀어놓는다.\n\n저자는 거의 70여 년에 이르는 인터넷의 태동과 발전, 미래를 짚어보면서 그 전체의 역사를 관통하는 한 가지 기본 정신은 바로, 인터넷은 과학기술이 아니라는 것이다. 인터넷의 역사를 살펴보면, 단순히 새로운 기술을 통해 경제적 이익을 얻으려는 이들이 아닌 세상을 변화시키고 발전시켜 사회적 가치를 높이고자 하는 이들이 있었다. 이는 기술 이전에 사회와 문화에 관점을 두는 인문학적 마인드에서부터 비롯된 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20141020",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정지훈",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157060177",
+                "INPUT_DATE": "20140916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "거의 모든 인터넷의 역사",
+                "PUBLISH_PREDATE": "20140930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

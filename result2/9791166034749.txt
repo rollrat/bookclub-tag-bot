@@ -1,0 +1,78 @@
+{
+    "otitle": "올 댓 코스메틱",
+    "oauthor": "김동찬 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:26 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "올 댓 코스메틱 (화장품 연구원의 똑똑한 화장품 멘토링, 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439055756",
+                "image": "https://shopping-phinf.pstatic.net/main_3243905/32439055756.20221228074618.jpg",
+                "author": "김동찬",
+                "discount": "13500",
+                "publisher": "이담북스",
+                "pubdate": "20210730",
+                "isbn": "9791166034749",
+                "description": "매일 사용하는 화장품, 제대로 알고 쓰자! ‘화장품 만드는 남자’가 알려주는 화장품의 A to Z. 화장품의 종류가 많아질수록 내게 꼭 맞는 제품을 찾는 일은 점점 더 어려워지고 있다. 이 책은 10여 년간 화장품을 연구해온 전문가가 피부 타입별 궁금증 해결은 물론, 화장품에 들어간 성분부터 올바른 화장품 사용법까지 모두 담아낸 것이다. 또 기술의 급격한 발전에 따라 최근 화장품에 적용된 그리고 적용될 수 있는 새로운 기술도 설명했다.\n\n\n\n완벽한 피부 관리를 위해선 가장 먼저 자신의 피부 상태를 정확하게 아는 것이 중요하다. 이 책을 통해 분명 자신의 피부에 딱 맞는 화장품을 찾을 수 있을 것이다. 화장품 만드는 남자의 멘토링을 받아 보다 똑똑하게 화장품을 사용해보자."
+            },
+            {
+                "title": "올 댓 코스메틱 (화장품 연구원의 똑똑한 화장품 멘토링)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455925743",
+                "image": "https://shopping-phinf.pstatic.net/main_3245592/32455925743.20220530155305.jpg",
+                "author": "김동찬",
+                "discount": "9450",
+                "publisher": "이담북스",
+                "pubdate": "20180903",
+                "isbn": "9788926885246",
+                "description": "‘화장품 만드는 남자’가 들려주는 화장품의 A to Z\n\n화장대 위에 빼곡하게 일렬종대하고 있는 스킨, 에센스, 에멀전, 크림, 선크림… \n거기에 파우치 속의 각종 메이크업 제품들까지. 우리 생활에서 화장품은 떼려야 뗄 수 없는 동반자다. 매일 시시각각 사용하지만, 화장품에 대해서는 모르는 것 투성이고 질문이 꼬리에 꼬리를 문다. \n\n“계절마다 화장품을 바꿔야 할까?”\n“겨울에도 자외선 차단제를 발라야 할까?”\n“각질을 제거하는 필링은 왜 해야 할까?”\n“온천수가 함유된 화장품은 과연 효과가 있을까?”\n“아침과 저녁에 궁합이 맞는 화장품이 따로 있을까?”\n“남성이 여성용 화장품을 사용해도 될까?”\n“가장 많이 사용되는 화장품의 원료는 무엇일까?”\n“코슈메티컬 화장품이란 무엇일까?”\n   \n10여 년간 화장품을 연구하고 만들어온 전문가가 화장품을 구성하는 성분부터 효과적으로 화장품을 사용하는 법까지 한 권에 보다 쉽고 알차게 담았다. 화장품 만드는 남자의 멘토링으로 더욱더 똑똑하게 화장품을 사용해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담북스 :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20210902",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "김동찬 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "133*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "206 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166034749",
+                "INPUT_DATE": "20210629",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "올 댓 코스메틱",
+                "PUBLISH_PREDATE": "20210730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "otitle": "원숭이 그림자",
+    "oauthor": "이윤희 글/공정은 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:33 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "원숭이 그림자",
+                "link": "https://search.shopping.naver.com/book/catalog/32462018672",
+                "image": "https://shopping-phinf.pstatic.net/main_3246201/32462018672.20230218110519.jpg",
+                "author": "이윤희",
+                "discount": "10800",
+                "publisher": "하마",
+                "pubdate": "20210523",
+                "isbn": "9791190521338",
+                "description": "맞아. \n어쩌면 내가 원숭이가 아닌지도 몰라. \n\n남을 흉내 내는 것을 좋아하는 원숭이가 있어요. 남의 흉내를 내느라 바쁜 원숭이 때문에 원숭이 그림자는 매일 너무 힘들답니다. 햇볕이 따뜻한 어느 날, 거꾸로 매달려 있던 원숭이 그림자는 원숭이 몸에서 빠져나와 해바라기 그림자 속으로 들어갔어요. 자신의 자리가 없어진 해바라기 그림자는 원숭이 그림자의 자리로 들어갔지요. 원숭이와 해바라기 그림자. 생각만 해도 우습지요. 원숭이는 자신의 그림자가 자신을 닮지 않은 이유는 어쩌면 원숭이가 아닌 다른 생물일지도 모른다 생각했어요. 그리곤 해바라기 그림자와 닮기 위해 허리를 쭉 펴고, 잎사귀와 비슷하게 다리를 힘껏 벌린 채 오랫동안 서 있었어요. 그 모습을 본 원숭이 그림자는 한참을 웃었지요."
+            },
+            {
+                "title": "원숭이 그림자 (강기희 장편 우화소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494126807",
+                "image": "https://shopping-phinf.pstatic.net/main_3249412/32494126807.20220527063701.jpg",
+                "author": "강기희",
+                "discount": "11700",
+                "publisher": "작가",
+                "pubdate": "20160523",
+                "isbn": "9788994815602",
+                "description": "강기희의 장편 우화소설 『원숭이 그림자』. 권력의 심장부를 정면으로 풍자한 작품이다. 타락한 세상을 살고 있는 사람들이 그 타락함에 얼마나 속수무책으로 찌들어 있는지를 마주하도록 한다. 그러면서 동시에 타락한 대항을 향한 비판의 언어를 내뱉는다."
+            },
+            {
+                "title": "원숭이 할아버지와 그림자",
+                "link": "https://search.shopping.naver.com/book/catalog/32492178680",
+                "image": "https://shopping-phinf.pstatic.net/main_3249217/32492178680.20221019134545.jpg",
+                "author": "박진홍",
+                "discount": "10800",
+                "publisher": "북랩",
+                "pubdate": "20220120",
+                "isbn": "9791168361508",
+                "description": "원숭이 할아버지는 꾀를 내어 동물들의 그림자를 모았습니다.\n그리고 동물들은 그림자가 아무런 쓸모가 없다고 생각했습니다.\n\n하지만 꼭 그런 것만은 아니었어요!\n\n그림자의 소중함을 몰랐던 동물들은 어떻게 되었을까요? 여우는 왜 그림자의 소중함을 알았던 것일까요? 박진홍 그림작가의 기발하고 신기한 상상력이 만든 이야기 속으로 들어가 봐요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20211101",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 이윤희 ;그림: 공정은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "240*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[40] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190521338",
+                "INPUT_DATE": "20210126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "원숭이 그림자",
+                "PUBLISH_PREDATE": "20210425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

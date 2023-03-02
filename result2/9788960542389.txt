@@ -1,0 +1,78 @@
+{
+    "otitle": "인코텀즈 2020 7일만에 쉽게 끝내는 무역실무",
+    "oauthor": "이기찬 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:21 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "인코텀즈 2020: 7일만에 쉽게 끝내는 무역실무 (실전에 바로 활용하는 무역실무 최강 입문서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480472464",
+                "image": "https://shopping-phinf.pstatic.net/main_3248047/32480472464.20221019152651.jpg",
+                "author": "이기찬",
+                "discount": "14850",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20200108",
+                "isbn": "9788960542389",
+                "description": "무역현장에서 바로 활용하는 핵심 지식 총망라!\n실무에 꼭 필요한 개정 인코텀즈 2020 주요 내용 수록!\n\n이 책은 무역실무자들이 무역을 좀 더 효과적으로 이해할 수 있도록 무역현장에서 반드시 필요한 핵심 내용만 담은 최고의 입문서다. 이론적인 부분은 과감히 생략하고, 실무적으로 중요한 부분은 쉽고 상세한 설명을 곁들여 무역을 처음 시작하는 초보자들도 이 책 한 권이면 얼마든지 자신있게 무역업무를 처리할 수 있도록 했다."
+            },
+            {
+                "title": "인코텀즈 2020: 7일만에 쉽게 끝내는 무역영어 (실전에 바로 활용하는 무역영어 최강 입문서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456211677",
+                "image": "https://shopping-phinf.pstatic.net/main_3245621/32456211677.20221019110007.jpg",
+                "author": "이기찬",
+                "discount": "14850",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20200110",
+                "isbn": "9788960542396",
+                "description": "*무역영어 이것만 알면 정말 쉽다!\n*실전에 바로 활용하는 핵심 영문표현 총망라!\n\n이 책은 영어에 대한 두려움을 떨쳐버리고 누구나 자신있게 무역영어를 구사할 수 있도록 무역영어의 핵심만 소개한 최고의 입문서다. 영문계약서를 비롯한 다양한 영문서식은 물론 현장에서 자주 쓰는 표현을 엄선하여 소개해 무역을 처음 시작하는 초보자들도 실전에 바로 활용할 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙경제평론사",
+                "DDC": "",
+                "UPDATE_DATE": "20200303",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "이기찬 지음",
+                "SERIES_TITLE": "",
+                "KDC": "326.23",
+                "EDITION_STMT": "개정초판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/28/9788960542389.jpg",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "CIP2019048735",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960542389",
+                "INPUT_DATE": "20191128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(인코텀즈 2020) 7일만에 쉽게 끝내는 무역실무",
+                "PUBLISH_PREDATE": "20200108",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

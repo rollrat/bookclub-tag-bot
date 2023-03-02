@@ -1,0 +1,67 @@
+{
+    "otitle": "대통령을 위한 수학",
+    "oauthor": "조지 슈피로 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "대통령을 위한 수학 (민주주의를 애태운 수학의 정치적 패러독스)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440938678",
+                "image": "https://shopping-phinf.pstatic.net/main_3244093/32440938678.20221019113958.jpg",
+                "author": "조지 G. 슈피로",
+                "discount": "13500",
+                "publisher": "살림",
+                "pubdate": "20121207",
+                "isbn": "9788952222473",
+                "description": "각종 선거 제도가 지닌 수학적 오류!\n\n민주주의를 애태운 수학의 정치적 패러독스 『대통령을 위한 수학』. 민주주의의 가장 소중한 절차에 내재된 문제와 위협에 대한 역사적 고찰이자 해석을 담은 책이다. 고대 그리스와 로마의 사상가였던 플라톤과 플리니우스로부터 출발해 중세시대의 라몬 유이와 니콜라스 쿠에스, 프랑스혁명의 영웅이자 희생자인 장-샤를 보르다, 미국 건국의 아버지들을 살펴보고 애로, 기버드, 새터스웨이트, 영, 밸린스키와 같은 현대 학자들의 사상을 들어보며 민주절차와 관련된 문제와 해결책을 찾기 위한 시도를 쉽게 풀어내고자 한다. \n\n민주주의의 가장 소중한 절차, 즉 투표와 선거에 담긴 문제가 어떻게 민주주의를 위협하고 있는지 살펴보는 이 책에서 저자는 민주주의가 시작된 시대로부터 지금에 이르기까지 어떻게 민주주의가 완성되었는지를 역사적으로 서술하며 그 시대가 요구하고 있던 가치와 이상향을 어떻게 현실에 적용하고 제도로써 실현해 왔는지 보여주고 있다. 미완의 민주주의가 제 모습을 찾기까지의 과정을 기하학 수준을 넘어서지 않는 선에서 보여주며 중학교 수준의 수학지식만 있으면 내용을 이해할 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20121220",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "조지 슈피로 지음 ;차백만 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952222473",
+                "INPUT_DATE": "20121220",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "대통령을 위한 수학 ",
+                "PUBLISH_PREDATE": "20121207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

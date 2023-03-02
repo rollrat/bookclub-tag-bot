@@ -1,0 +1,67 @@
+{
+    "otitle": "여행을 바꾸는 여행 트렌드",
+    "oauthor": "김다영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여행을 바꾸는 여행 트렌드 (완전히 달라질 경험의 가치, 변화는 이미 시작됐다)",
+                "link": "https://search.shopping.naver.com/book/catalog/33217597668",
+                "image": "https://shopping-phinf.pstatic.net/main_3321759/33217597668.20230223071059.jpg",
+                "author": "김다영",
+                "discount": "15300",
+                "publisher": "미래의창",
+                "pubdate": "20220706",
+                "isbn": "9791191464979",
+                "description": "“다시 여행하는 시대, 가장 최신의 변화를 읽다!”\n워케이션부터 랜선 투어, 우주관광, 에코 투어리즘까지\n새로워진 여행의 판을 이해하기 위한 모든 것\n\n코로나19 사태로 인해 여행 산업은 거대한 위기를 맞았다. 하지만 그만큼 없던 것이 새롭게 탄생할 여백이 많아지기도 했다. 해외여행이 어려워지면서 사람들은 국내여행으로 시선을 돌렸고, 부킹닷컴이나 익스피디아 같은 글로벌 여행 플랫폼 대신 로컬 플랫폼에 관심을 가지기 시작했다. 유명 관광지가 아닌 ‘핫플에서의 인증샷’을 원하는 MZ세대가 여행 소비의 주축으로 떠올랐고, 상품이 아닌 경험과 가치를 구매하는 이들은 ‘지속가능한 여행’을 고민하고 있다. 그런가 하면 화상회의에 익숙해진 사람들은 줌으로 랜선 여행을 떠났으며, 원격근무가 일상이 되고 휴양지로 업무공간을 옮기는 워케이션이 주목받았다. 엄혹한 환경 속에서도 국내외에 수많은 여행 스타트업들이 등장한 것은 전염병이 창궐해도 여행을 향한 인류의 욕구는 줄어들지 않는다는 것을 보여주었다. 메타버스·NFT·인공지능·핀테크 등 첨단기술들이 투입되며 트래블테크의 발전은 그 어느 때보다 활발히 이뤄지는 중이다. \n다시 문이 열리고, 이제 묵혀두었던 여행가방을 꺼낼 때가 다가오고 있다. 앞으로 우리가 만나게 될 여행은 어떤 모습일까? 사람들은 어떤 여행을 사랑하고 즐기게 될까? 그 변화 속에는 어떤 의미가 숨어 있을까? 모든 궁금증에 대한 답을 이 책에서 만나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미래의창",
+                "DDC": "",
+                "UPDATE_DATE": "20220725",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김다영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "327 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191464979",
+                "INPUT_DATE": "20220609",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(여행을 바꾸는) 여행 트렌드",
+                "PUBLISH_PREDATE": "20220706",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

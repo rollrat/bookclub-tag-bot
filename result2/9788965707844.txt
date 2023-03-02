@@ -1,0 +1,67 @@
+{
+    "otitle": "장사, 이제는 콘텐츠다",
+    "oauthor": "김유진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "장사, 이제는 콘텐츠다 (장사의 신 김유진의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461054924",
+                "image": "https://shopping-phinf.pstatic.net/main_3246105/32461054924.20230214162648.jpg",
+                "author": "김유진",
+                "discount": "15120",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20190328",
+                "isbn": "9788965707844",
+                "description": "베스트셀러 《장사는 전략이다》 김유진의 신작. ‘장전 김유진 아카데미’를 운영하는 저자의 노하우를 배워 간 중소 자영업자들 수만 10만 명, 그렇게 해서 오른 매출은 최대 300%에 이른다. 죽음의 불경기에서도 살아남은 5%들의 탑 시크릿, 밥이 아닌 콘텐츠를 팔고, 빠져나가는 고객의 발걸음을 되돌리고, 누구도 따라 할 수 없는 자기만의 필살기로 고객의 뇌에 ‘인두질’을 하는 업그레이드된 전략과 특급 노하우를 차곡차곡 담았다.\n《장사, 이제는 콘텐츠다》는 냉정한 현실 속에서 확실히 경쟁 우위를 점하고 승기를 거머쥘 수 있는 최고의 솔루션을 담아낸 보물지도와 같다. ‘지나가던 고객을 멈춰 세우고, 별 기대 없이 방문한 고객을 단골로 만들고, 단골 고객을 충성 고객으로 만들고, 심지어 충성 고객이 자발적으로 내 가게를 홍보해주기까지 한다면...?’ 이런 상상은 허황된 기대일까? 이 책은 그런 날을 상상하는 모든 이들의 꿈을 현실로 만들어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20190415",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "지은이: 김유진",
+                "SERIES_TITLE": "",
+                "KDC": "325.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "CIP2019009091",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965707844",
+                "INPUT_DATE": "20190308",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "장사, 이제는 콘텐츠다",
+                "PUBLISH_PREDATE": "20190328",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

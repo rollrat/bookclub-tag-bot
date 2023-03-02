@@ -1,0 +1,67 @@
+{
+    "otitle": "머릿속에 쏙쏙! 환경과학 노트",
+    "oauthor": "사이토 가쓰히로 저/곽범신 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "머릿속에 쏙쏙! 환경과학 노트",
+                "link": "https://search.shopping.naver.com/book/catalog/32491355619",
+                "image": "https://shopping-phinf.pstatic.net/main_3249135/32491355619.20230207163847.jpg",
+                "author": "사이토 가쓰히로",
+                "discount": "14400",
+                "publisher": "시그마북스",
+                "pubdate": "20210804",
+                "isbn": "9791191307535",
+                "description": "환경 문제란 도대체 뭘까?\n한눈에 보는 환경오염 이슈와 환경과학의 모든 것!\n\n온난화, 수질오염, 대기오염, 해양오염 등 환경 문제와 관련된 단어들이 미디어에 자주 등장한다. 제로 웨이스트, 용기내(용기사용) 챌린지, 지속 가능한 개발 등 환경 문제와 관련한 다양한 신조어들도 등장하고 있다. 작년보다 뜨거워진 날씨, 기록적인 폭우와 기온, 갈수록 거대해지는 태풍 등 이제는 남의 일이 아니라 내 주변의 일이 되고 있다. 이렇게 자주 듣고 접하고 누구나 잘 알고 있을 것 같지만, 환경 문제는 생각보다 막연하고 낯설다.\n이 책은 환경과 환경 문제에 관한 과학적 지식을 소개한다. 환경 문제가 어떻게 발생했는지 역사적 근원을 따져보고, 각 분야별로 환경 문제의 원인과 진행 상황, 향후 전망 등을 59개 이슈로 정리한다. 『머릿속에 쏙쏙! 환경과학 노트』를 통해 놀라운 환경과학의 세계를 탐험할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210907",
+                "EA_ADD_CODE": "03450",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "사이토 가쓰히로 지음 ;곽범신 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "277 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191307535",
+                "INPUT_DATE": "20210607",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(머릿속에 쏙쏙!) 환경과학 노트",
+                "PUBLISH_PREDATE": "20210804",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

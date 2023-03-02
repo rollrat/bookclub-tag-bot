@@ -1,0 +1,67 @@
+{
+    "otitle": "궁금해서 밤새 읽는 세계사",
+    "oauthor": "김경묵,우종익,구학서 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "궁금해서 밤새 읽는 세계사 (한권으로 압축한 세계사 완결판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441031820",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441031820.20230131165210.jpg",
+                "author": "김경묵^우종익^구학서",
+                "discount": "16200",
+                "publisher": "청아출판사",
+                "pubdate": "20160820",
+                "isbn": "9788936810917",
+                "description": "문명의 시작에서부터 제2차 세계대전까지 펼쳐지는 사건들과 인물들의 이야기!\n\n『궁금해서 밤새 읽는 세계사』는 세계 4대 문명의 시작에서부터 제2차 세계대전까지의 역사의 바다에서 핵심적인 사건들과 인물들만 뽑아 세계사를 풀어냈다. 각 장 첫머리에 개요를 정리해 거대한 흐름을 이해하기 쉽게 도왔으며 관련 지도나 삽화를 삽입해 전달력을 높였다. 물론 압축 정리하다 보니 더욱 자세하고 많은 내용을 담기에는 한계가 있지만 세계사에 관심을 갖고 전체적인 흐름과 지식을 얻기에는 손색이 없을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "909",
+                "UPDATE_DATE": "20161202",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김경묵; 우종익; 구학서",
+                "SERIES_TITLE": "",
+                "KDC": "909",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5659139_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5659139_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "504",
+                "CONTROL_NO": "CIP2016018800",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936810917",
+                "INPUT_DATE": "20160803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "궁금해서 밤새 읽는 세계사",
+                "PUBLISH_PREDATE": "20160820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

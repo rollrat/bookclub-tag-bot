@@ -1,0 +1,89 @@
+{
+    "otitle": "금융 오디세이",
+    "oauthor": "차현진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:47 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "금융 오디세이 (돈과 인간 그리고 은행의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482022846",
+                "image": "https://shopping-phinf.pstatic.net/main_3248202/32482022846.20221019101135.jpg",
+                "author": "차현진",
+                "discount": "15560",
+                "publisher": "메디치미디어",
+                "pubdate": "20210830",
+                "isbn": "9791157068647",
+                "description": "《숫자 없는 경제학》의 저자 차현진이 돈과 은행의 본질에 대해 이야기한다. 돈의 정체와 가치, 은행에 대해 경제학 교과서를 넘어 철학과 역사 등 인류문명사를 통해 들여다본다. 이 책에서 저자는 돈, 은행, 중앙은행과 같이 현대 경제에서 중요한 축을 맡고 있는 개념들은 우연과 필연이 교차하는 역사 속에서 다듬어졌으며, 경제학을 제대로 이해하기 위해서는 경제학 교과서를 넘어 철학과 역사 등 인류문명사를 들여다보아야 한다고 말한다. 또한 금융에 대해 알기 위해 금융이 다루는 돈의 정체와 가치에 관한 논쟁의 현장으로 우리를 인도한다."
+            },
+            {
+                "title": "금융 오디세이",
+                "link": "https://search.shopping.naver.com/book/catalog/32505863051",
+                "image": "https://shopping-phinf.pstatic.net/main_3250586/32505863051.20220524183201.jpg",
+                "author": "차현진",
+                "discount": "0",
+                "publisher": "인물과사상사",
+                "pubdate": "20130415",
+                "isbn": "9788959062348",
+                "description": "우리의 삶을 쥐고 흔들어 온 돈과 은행, 하지만 우리는 너무 모른다!\n\n『금융 오디세이』는 《숫자 없는 경제학》의 저자이자 한국은행 기업협력국장 차현진이 금융이 무엇인지 알기 위하여 금융이 다루는 돈의 정체와 가치, 은행에 대해 경제학 교과서를 넘어 철학과 역사 등 인류문명사 통해 들여다본다. 돈이 생겨나고 은행이 발명되고 그 금융 시스템의 정점에 중앙은행이 존재하게 되기까지 벌어지는 일을 살펴보면서 지금까지 우리가 금융에 대해 알지 못하거나 오해하고 있었던 부분을 알려준다. 은행은 하루아침에 만들어지지 않았으며, 그렇게 되기까지는 수많은 시행착오를 거쳐 왔고, 지금 우리가 맞닥뜨린 글로벌 금융위기 또한 경제학이 풀어야 하는 새로운 숙제를 안겨주는 사건이라는 점이다."
+            },
+            {
+                "title": "회맹탈출을 위한 3주간의 회계여행 (회계 오디세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436330814",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436330814.20221019140059.jpg",
+                "author": "정명환^이장희",
+                "discount": "14220",
+                "publisher": "한올",
+                "pubdate": "20220310",
+                "isbn": "9791166471964",
+                "description": "이 책의 형식은 하루 한 테마를 익히는 것을 기본으로 하여 구성하였다. \n\n그러나 회계 초학자에게 필요한 주제의 내용은 더하고, 부담스러운 주제의 내용은 과감히 뛰어 넘었다. \n\n그러다 보니 단순한 분량으로만 보면 하루 하루의 분량에 편차가 꽤 있을 수도 있지만 각 주제의 내용을 조정한 결과이다. \n\n그리고 매주 마지막 날에는 지난 6일 간의 학습내용을 정리하여 마무리하는 Wrap Up으로 꾸몄다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20210914",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "차현진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "423 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157068647",
+                "INPUT_DATE": "20210804",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "금융 오디세이",
+                "PUBLISH_PREDATE": "20210830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

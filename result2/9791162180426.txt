@@ -1,0 +1,67 @@
+{
+    "otitle": "하마터면 행복을 모르고 죽을 뻔했다",
+    "oauthor": "바바라 버거 저/강주헌 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하마터면 행복을 모르고 죽을 뻔했다 (바바라 버거의 행복 결정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455551938",
+                "image": "https://shopping-phinf.pstatic.net/main_3245555/32455551938.20230207163836.jpg",
+                "author": "바바라 버거",
+                "discount": "13050",
+                "publisher": "나무생각",
+                "pubdate": "20181107",
+                "isbn": "9791162180426",
+                "description": "『하마터면 행복을 모르고 죽을 뻔했다』에서 저자는 그동안 왜 우리가 행복해지지 못했는지, 행복을 그토록 찾아 헤맬 수밖에 없었는지, 그 이유를 자신의 경험에서 우러나오는 메시지들과 함께 담담하게, 때로는 단호하게 일러준다. 또한 ‘우리가 경험하는 것은 삶 자체가 아니라, 삶에 대한 우리의 해석이다’라는 그의 말처럼 삶의 대법칙, 행복의 기준은 너무나도 평범한 것이어서 우리가 놓치고 있었던 것은 아닌지 새삼 되돌아보게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무생각",
+                "DDC": "158",
+                "UPDATE_DATE": "20181114",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "바바라 버거 지음 ;강주헌 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "189",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6952811_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "302 p.",
+                "CONTROL_NO": "CIP2018033084",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162180426",
+                "INPUT_DATE": "20181015",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "하마터면 행복을 모르고 죽을 뻔했다",
+                "PUBLISH_PREDATE": "20181107",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

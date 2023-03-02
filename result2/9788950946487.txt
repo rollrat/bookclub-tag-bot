@@ -1,0 +1,67 @@
+{
+    "otitle": "로스차일드 2",
+    "oauthor": "니얼 퍼거슨 저/박지니 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "로스차일드 2: 세계의 은행가 1849-1999 (세계의 은행가(1849~1999), 전설의 금융 가문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436281153",
+                "image": "https://shopping-phinf.pstatic.net/main_3243628/32436281153.20221019135333.jpg",
+                "author": "니얼 퍼거슨",
+                "discount": "34200",
+                "publisher": "21세기북스",
+                "pubdate": "20130319",
+                "isbn": "9788950946487",
+                "description": "세계 금융의 지배자 로스차일드가의 8대에 걸친 신화를 낱낱이 파헤친다!\n\n『전설의 금융 가문 로스차일드』 제2권 《세계의 은행가(1849-1999)》편. 하버드 대학 역사학 교수이자 비즈니스 스쿨 교수인 니얼 퍼거슨이 18~20세기에 걸쳐 전 세계 금융계를 장악한 유대계 최대의 금융 가문 로스차일드와 당시의 역사, 그리고 어떻게 부를 쌓아 운용해나가는지에 대해 서술했다. 로스차일드 형제들 중 셋째인 나탄 마이어가 영국에 도착한 1798년부터 1999년까지 로스차일스 가문의 200년사를 철저한 고증과 연구를 바탕으로 세밀하게 그려냈다. \n\n로스차일드 가문은 근대 국제 채권 시장을 형성하고 지배했으며, 고속 커뮤니케이션의 신기원을 이루었다. 정치ㆍ경제적 세력으로서 그들의 엄청난 지배력은 위기의 시대에 그들에게 의존하지 않은 정부가 거의 없을 정도로 강력했다. 이 책은 로스차일드 가문의 놀라운 경제적 성공 이면에 놓인 비밀들을 밝히고, 이 가문의 방대한 정치적 네트워크를 자세히 소개한다. 그리고 가족의 단합이 얼마나 중요한지를 비롯하여 로스차일드 사람들의 삶에 유대교가 얼마나 강력한 역할을 했는지를 탐구한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)북21",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "04990",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "저자 : 니알 퍼거슨 ",
+                "SERIES_TITLE": "전설의 금융 가문 로스타일드 1,2권 세트",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788950946494",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "38,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "160*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "852",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788950946487",
+                "INPUT_DATE": "20210614",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "N",
+                "TITLE": "전설의 금융 가문 로스차일드 2",
+                "PUBLISH_PREDATE": "20130227",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04990 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

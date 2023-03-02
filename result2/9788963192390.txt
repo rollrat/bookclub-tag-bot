@@ -1,0 +1,78 @@
+{
+    "otitle": "수상한 식당",
+    "oauthor": "박현숙 글/장서영 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:20 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "수상한 식당",
+                "link": "https://search.shopping.naver.com/book/catalog/32476116270",
+                "image": "https://shopping-phinf.pstatic.net/main_3247611/32476116270.20230218110307.jpg",
+                "author": "박현숙",
+                "discount": "9900",
+                "publisher": "북멘토",
+                "pubdate": "20170727",
+                "isbn": "9788963192390",
+                "description": "아이들에게 가장 익숙한 생활공간이자 따뜻하고 즐거워야 할 곳에서 벌어지는 ‘수상한’ 사건을 통해 우리 사회의 병폐를 유쾌하게 꼬집는 박현숙 작가의 수상한 시리즈 완결편이다.\n\n\n\n그동안 아파트, 교실, 학원, 친구 집을 통해서 이웃 간 소통, 서늘한 교실 생태계, 사교육 문제, 가정폭력에 대한 관심을 환기시켜 온 작가가 마지막으로 조명을 비춘 곳은 바로 ‘식당’. 작가는 먹을 것이 넘쳐나지만 정작 안심하고 먹을 수 있는 먹거리는 점점 귀해지고, 이기적인 어른들로 인해 어린이들의 건강이 위협받는 현실을 걱정하며 여진이를 수상한 식당으로 들여보냈다. \n\n\n\n요리를 배우러 간 식당은 어느새 수상한 장소가 되고, 이제 막 사춘기를 맞이한 열세 살 아이들은 지켜야 할 것과 밝혀야 할 것 사이에서 고민한다. 요리 관련 프로그램이 넘쳐나고, ‘요리사’가 인기 직업이 된 요즘, 하지만 그 어느 때보다 먹거리 안전이 위협받는 요즘, 요리사가 꿈인 여진이에게 식당은 어쩌면 꼭 한번 거쳐야 하는 공간이었다. 북멘토 가치동화 스물세 번째 이야기이자 ‘수상한 시리즈’의 완결편, 은 눈앞의 이익에 빠져 본질을 잊은 어른들을 향한 여진이의 날카로운 외침이자, 우리 삶의 기본이 되어야 할 ‘양심’과 ‘정직’의 가치를 되새겨 보게 하는 작품이다."
+            },
+            {
+                "title": "단추 마녀의 수상한 식당",
+                "link": "https://search.shopping.naver.com/book/catalog/32441088647",
+                "image": "https://shopping-phinf.pstatic.net/main_3244108/32441088647.20221019114436.jpg",
+                "author": "정란희",
+                "discount": "9000",
+                "publisher": "키다리",
+                "pubdate": "20140125",
+                "isbn": "9791185299426",
+                "description": "정란희 동화『단추 마녀의 수상한 식당』. 어린이들에게 한 번만 들어도 잔소리 같은 편식에 관한 이야기를 상상력과 결합시킨 이 책은 아이들에게 ‘올바른 식습관’을 전해 줄 그 어떤 잔소리보다 더 효과적인 동화이다. 나와 같은 아이 ‘민수’, 편식을 하는 어른 ‘선생님’을 통해 편식하는 모든 어린이 독자들을 비춰내고 있다. 급식 식판 아래로 오이를 골라내 버리고, 강낭콩 당근 등을 먹기 싫어하는 선생님과 민수의 이야기는 편식이 단순히 어린이들의 문제가 아니며, 누구에게나 적용되는 것임을 들려준다.\n\n밥을 먹을 때마다 당근과 강낭콩을 꼭 골라내는 편식대장 민수는 늘 골골거린다. 오늘도 아침부터 엄마에게 잔소리를 들으며 학교에 갔다. 그런데 점심시간, 학교 급식 메뉴를 보니, 민수는 한숨만 나왔다. 선생님이 학교에서 건강검진이 있을 것이라고 얘기한 다음 날, 민수네 학교에는 수상한 의사 할머니가 찾아왔는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.bookmentorbooks.co.kr",
+                "AUTHOR": "글쓴이: 박현숙 ;그린이: 장서영",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6275772_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20170727",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6275772_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "13,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215p.",
+                "CONTROL_NO": "CIP2017016567",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963192390",
+                "INPUT_DATE": "20170710",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "수상한 식당",
+                "PUBLISH_PREDATE": "20170727",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

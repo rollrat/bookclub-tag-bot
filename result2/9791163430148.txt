@@ -1,0 +1,67 @@
+{
+    "otitle": "주식의 바다에서 서핑하듯 투자하라",
+    "oauthor": "알렉스 강 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "주식의 바다에서 서핑하듯 투자하라 (누구나 성공할 수 있는 ’대세 상승기 투자법!’)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473671306",
+                "image": "https://shopping-phinf.pstatic.net/main_3247367/32473671306.20221019143553.jpg",
+                "author": "알렉스 강",
+                "discount": "15660",
+                "publisher": "스마트비즈니스",
+                "pubdate": "20190503",
+                "isbn": "9791163430148",
+                "description": "누구나 성공하는 ‘대세 상승기 주식투자법!’\n\n주식투자의 바다에서\n파도를 거슬러 헤엄치지 말고, \n파도를 타고 ‘서핑하듯 투자하라!’"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Smart Business(스마트비즈니스)",
+                "DDC": "",
+                "UPDATE_DATE": "20190726",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "알렉스 강 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17400",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "292 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163430148",
+                "INPUT_DATE": "20190409",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "주식의 바다에서 서핑하듯 투자하라",
+                "PUBLISH_PREDATE": "20190503",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

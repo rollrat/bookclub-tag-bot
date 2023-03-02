@@ -1,0 +1,67 @@
+{
+    "otitle": "만능 양념",
+    "oauthor": "이현주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "만능양념 (국.찌개.반찬 걱정 없는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436437642",
+                "image": "https://shopping-phinf.pstatic.net/main_3243643/32436437642.20220527045753.jpg",
+                "author": "최윤서",
+                "discount": "10800",
+                "publisher": "비타북스",
+                "pubdate": "20151001",
+                "isbn": "9791158460235",
+                "description": "간단하고 편리하게 요리하는 ‘만능 양념’\n\n요리 초보, 요리 고수 할 것 없이 요리를 하는 사람이라면 매일 먹을 메뉴를 걱정하기 마련이다. 이에 2천 5백만 명이 방문하고 4년 연속 네이버 요리 부문에 파워 블로그로 선정된 ‘리즈쿡(Lee’s  Cook) 잠꾸러기의 한식제철밥상’을 운영하는 이현주의 간단하지만 비법이 가득 담긴 양념장들과 그 활용 레시피를 소개한다. 만능찌개장, 만능된장, 만능양념장, 만능드레싱과 과일&채소청이라면 요리하는 시간이 단축되고, 음식 맛이 놀랍도록 좋아진다.  \n\n이 책에는 20여 년간의 요리 노하우가 집약된 양념장과 이를 바탕으로 간편한 과정의 레시피가 가득 담겼다. 한 번 양념장을 만들어두면 국, 찌개, 반찬, 샐러드, 음료까지 어떤 요리에든 활용할 수 있고, 요리할 때마다 양념 재료를 늘어놓고 계량하는 수고를 덜 수 있다. 그동안 요리를 어려워했다면 ‘만능’ 양념장과 레시피를 만나보자. 요리 시간이 더욱 즐겁고 행복해질 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "641.59519",
+                "UPDATE_DATE": "20151023",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "이현주",
+                "SERIES_TITLE": "",
+                "KDC": "594.51",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4894645_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4894645_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "160페이지",
+                "CONTROL_NO": "CIP2015025450",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158460235",
+                "INPUT_DATE": "20150915",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "국&찌개&반찬 걱정 없는 만능 양념",
+                "PUBLISH_PREDATE": "20151001",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

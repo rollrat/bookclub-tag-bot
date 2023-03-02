@@ -1,0 +1,67 @@
+{
+    "otitle": "아무런 대가 없이 건네는 다정",
+    "oauthor": "하태완 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무런 대가 없이 건네는 다정 (어쩌면 내게 꼭 필요했던 위로)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466563618",
+                "image": "https://shopping-phinf.pstatic.net/main_3246656/32466563618.20221019145013.jpg",
+                "author": "하태완",
+                "discount": "14850",
+                "publisher": "빅피시",
+                "pubdate": "20211203",
+                "isbn": "9791191825169",
+                "description": "70만 부 돌파 베스트셀러\n≪모든 순간이 너였다≫ 하태완 작가의 3년 만의 신작\n\n지치고 힘들어서 기댈 곳이 필요한 순간, 뜻밖에 마주한 단 한 줄의 진심 어린 문장은 때로 그 순간을, 하루를, 1년을 이겨낼 힘을 준다. 그렇게 삶의 여러 순간마다 의지하고 기댈 수 있는 문장. 함께했기에 일상을 더욱 빛나게 하는 문장을 쓰는 하태완 작가가 3년 만에 신작 에세이로 찾아왔다. ≪아무런 대가 없이 건네는 다정≫이라는, 빛나는 단어들로 가득한 위로와 응원을 전하며. \n오랜 기다림 끝에 독자들을 만나는 것인 만큼, 작가는 이번 책에 긴 시간 고르고 가다듬어온 문장들을 담았다. 걱정이 밀려오는 순간, 인간관계가 유난히 어려운 날, 삶의 방향이 고민될 때, 자존감이 떨어질 때, 사랑과 이별의 순간 등 일상에서 마주하는 여러 장면마다 이 문장들은 빛을 발하며 지친 마음에 힘이 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빅피시",
+                "DDC": "",
+                "UPDATE_DATE": "20220302",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 하태완",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "334 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191825169",
+                "INPUT_DATE": "20210906",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무런 대가 없이 건네는 다정",
+                "PUBLISH_PREDATE": "20211220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

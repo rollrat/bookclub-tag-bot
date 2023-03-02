@@ -1,0 +1,67 @@
+{
+    "otitle": "헌책방 기담 수집가",
+    "oauthor": "윤성근 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "헌책방 기담 수집가 (사연 있는 책을 찾아드립니다. 수수료는 당신 삶의 이야기!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32550074579",
+                "image": "https://shopping-phinf.pstatic.net/main_3255007/32550074579.20230224102436.jpg",
+                "author": "윤성근",
+                "discount": "12960",
+                "publisher": "프시케의숲",
+                "pubdate": "20211206",
+                "isbn": "9791189336462",
+                "description": "사연 있는 책을 찾아드립니다 \n수수료는 당신 삶의 이야기!\n\n감동과 미스터리가 어우러진 실화 29편 \n“나는 벌써 속편을 기다린다”_장강명 소설가\n\n누군가 홀로 어둑어둑한 책방 계단을 따라 올라간다. 그가 머뭇거리며 주인과 인사하고, 둘은 서로 가만히 마주 앉는다. 주인이 수첩을 펼치며 어떤 책을 찾고 있는지 묻는다. 손님은 서지사항을 말해주며 이미 오래전에 절판된 책인데 과연 찾을 수 있을지 궁금해한다. “해봐야죠, 손님. 대신 수수료는 왜 그 책을 찾으시는지, 책과 얽힌 삶의 이야기를 들려주시는 겁니다.”\n\n헌책방에서 오랫동안 일해온 저자는 10년 넘게 갖가지 삶의 이야기들을 수집해왔다. 손님들에게 책을 찾아주는 대신 왜 그 책을 찾는지 사연을 들려달라고 한 것이다. 의뢰인들은 때론 기묘하고 때론 감동적인 이야기를 저자에게 찬찬히 풀어놓았다. 이 책은 그중 스물아홉 편의 사연을 가려 뽑아, 감동과 미스터리가 어우러진 특별한 여정으로 독자들을 안내한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "프시케의숲",
+                "DDC": "",
+                "UPDATE_DATE": "20211230",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 윤성근 ;그림: 남서연,황정하",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189336462",
+                "INPUT_DATE": "20211101",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "헌책방 기담 수집가",
+                "PUBLISH_PREDATE": "20211206",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

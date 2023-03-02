@@ -1,0 +1,78 @@
+{
+    "otitle": "미래의무기",
+    "oauthor": "요시후지 오리 저/황세정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:42 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "미래의 무기 (열중할 수 있는 일을 발견하는 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455611960",
+                "image": "https://shopping-phinf.pstatic.net/main_3245561/32455611960.20230207163425.jpg",
+                "author": "요시후지 오리",
+                "discount": "12420",
+                "publisher": "세개의소원",
+                "pubdate": "20220321",
+                "isbn": "9791191573084",
+                "description": "가르쳐줄 수도 상상할 수도 없는 미래. 삶의 이유와 가치를 스스로 찾아가는 수업\n나를 알아가고, 좋아하는 일을 찾고, 길을 만들어가는 멘토가 되어주는 책\n\n학교에 적응하지 못하고, 친구도 사귀지 못했던 소년. 수학도 물리도, 프로그래밍이 무엇인지도 몰랐던 외톨이 소년은 신체적 장애 등으로 강제적 고독 상태에 놓인 사람도 원격을 통해 사회에 참여하도록 하는 로봇을 개발하여 전 세계가 주목하는 발명가가 되었다. 남들과 다른 자신을 인정하고, 좋아하는 일을 발견하고, 스스로를 알아가고, 점점 더 원하는 인생으로 나아가는 성장의 이야기. 그는 어떤 과정을 지나, 어떤 경험을 쌓고, 어떤 깨달음을 얻었을까!\n내일을 살아갈 미래 세대에게 꼭 필요한 삶의 방식과 가치관, 그리고 현실적이고 다정한 조언. 부모와 선생님이 먼저 읽어야 하고, 아직 삶의 주제를 찾지 못한 청춘이라면 반드시 읽어야 하는 중요한 이야기!"
+            },
+            {
+                "title": "미래전쟁 (첨단무기와 미래의 전장환경)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456285368",
+                "image": "https://shopping-phinf.pstatic.net/main_3245628/32456285368.20220527075348.jpg",
+                "author": "이진호",
+                "discount": "19000",
+                "publisher": "북코리아",
+                "pubdate": "20110915",
+                "isbn": "9788963241272",
+                "description": "『미래전쟁』에서는 이러한 군사혁신의 산물인 첨단무기와 이들 각각의 무기를 연결하여 성능을 배가시킬 수 있는 새로운 무기체계의 특징을 서술하였으며, 첨단 무기체계와 현대 및 미래의 전장환경을 살펴보았다. 또한 21세기 전쟁양상, 미래전쟁의 로봇, 스마트 시대에 맞춰 만들어진 여러가지 최첨단 무기의 소개하면서 다양한 미래전쟁양의 양상을 보여주고 있다. 이 책은 대한민국 국군은 물론, 장차 군인이 되고자 하는 사관생도 및 ROTC 사관후보생 등 예비 군인들에게 현대 및 미래 전장환경을 이해하는 데 큰 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세개의소원",
+                "DDC": "",
+                "UPDATE_DATE": "20220427",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "요시후지 오리 지음 ;황세정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "258 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191573084",
+                "INPUT_DATE": "20220112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "미래의 무기",
+                "PUBLISH_PREDATE": "20220321",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

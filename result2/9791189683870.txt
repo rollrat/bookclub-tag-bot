@@ -1,0 +1,67 @@
+{
+    "otitle": "죽음의 청기사",
+    "oauthor": "로라 스피니 저/전병근 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "죽음의 청기사 (1918년의 ‘코로나19’, 스페인독감의 세계문화사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439439604",
+                "image": "https://shopping-phinf.pstatic.net/main_3243943/32439439604.20221227205155.jpg",
+                "author": "로라 스피니",
+                "discount": "19010",
+                "publisher": "유유",
+                "pubdate": "20210424",
+                "isbn": "9791189683870",
+                "description": "2020년 벽두부터 지금까지 전 세계를 뒤흔든 화두는 단연 코로나19다. 사람들은 이런 일이 처음 만나는 지구적 재앙인 듯 허둥대다 이내 원인과 치료법을 찾기 시작했고 그 일은 여전히 현재 진행형이다. 하지만 이런 사달이 과연 처음일까? 이 모든 일이 예측 불가능했을까?\n\n\n\n저널리스트 로라 스피니는 코로나19 시대와 놀랍도록 비슷한 일이 딱 100년 전에도 있었다고 말한다. 그것은 1918년 발병한 스페인독감이다. &lt;죽음의 청기사&gt;에서 저자는 탁월한 탐사 기량을 바탕으로 당시의 언론 보도부터 개인의 사연, 학계의 최신 연구 성과까지 흩어진 데이터를 그러모아 스페인독감을 바라보는 시야를 확장시킨다. \n\n\n\n또한 스페인독감이 어떻게 사람들의 기억 속에 자리했고 나아가 어떻게 흐려졌는지를 추적하며 전염병을 기억하는 방식에 대한 새로운 논의를 펼친다. 즉 이 책은 코로나19 시대를 맞이한 우리를 비추어 볼 수 있는, 스페인독감에 관한 가장 입체적이고 전방위적인 논픽션이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유유",
+                "DDC": "",
+                "UPDATE_DATE": "20210526",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "uupress.co.kr",
+                "AUTHOR": "로라 스피니 지음 ;전병근 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "551 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189683870",
+                "INPUT_DATE": "20210322",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "죽음의 청기사",
+                "PUBLISH_PREDATE": "20210424",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

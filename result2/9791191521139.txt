@@ -1,0 +1,67 @@
+{
+    "otitle": "위닝 컬러 WINNING COLOR",
+    "oauthor": "이랑주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "위닝 컬러(Winning Color) (사람의 욕망을 움직이는 10가지 색의 법칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481474858",
+                "image": "https://shopping-phinf.pstatic.net/main_3248147/32481474858.20230103162830.jpg",
+                "author": "이랑주",
+                "discount": "14520",
+                "publisher": "지와인",
+                "pubdate": "20220515",
+                "isbn": "9791191521139",
+                "description": "인간 의사결정의 85퍼센트를 좌우하는 컬러의 힘\n“똑같은 제품도 색을 바꾸면 매출이 10배로 달라진다”\n최고의 비주얼 전략가가 말하는 \n성공과 행운을 부르는 색의 비밀!\n\n영국 템스강의 한 다리를 녹색으로 칠한 다음부터 극단적 선택을 하려는 사람들의 수가 3분의 1로 줄었다고 한다. 똑같은 물건도 색이 달라지면 85퍼센트가 선호를 바꾼다는 연구 결과도 있다. 이처럼 색은 인간의 심리와 의사결정에 엄청난 영향을 미친다. 없던 소비자를 만들고 팔리지 않던 물건을 팔리게 하며, 처음 봐도 강한 호감을 이끌어 내는 색의 법칙들은 무엇일까. 오프라인에서 온라인까지, 놀라운 변화를 만들어냈던 흥미로운 사례들을 바탕으로 사람의 욕망을 움직이는 색의 법칙을 만나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "지와인",
+                "DDC": "",
+                "UPDATE_DATE": "20220615",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이랑주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "232 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191521139",
+                "INPUT_DATE": "20220412",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "위닝 컬러",
+                "PUBLISH_PREDATE": "20220515",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

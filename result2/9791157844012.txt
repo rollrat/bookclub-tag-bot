@@ -1,0 +1,67 @@
+{
+    "otitle": "이기적 유인원",
+    "oauthor": "니컬러스 머니 저/김주희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이기적 유인원 (끝없는 진화를 향한 인간의 욕심, 그 종착지는 소멸이다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464880691",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464880691.20230207165257.jpg",
+                "author": "니컬러스 머니",
+                "discount": "15300",
+                "publisher": "한빛비즈",
+                "pubdate": "20200403",
+                "isbn": "9791157844012",
+                "description": "‘호모 데우스’라는 착각에 빠진 ‘호모 나르키소스’\n인간의 오만한 나르시시즘을 일갈한 문제작!\n\n10만 년 전 현생인류가 아프리카를 떠나 전 세계로 이동한 이래로, 인류는 자신들이 만든 과학 기술의 혜택을 마음껏 누리며 살아왔다. 반대로, 지구는 황폐해지며 다른 생물 종이 멸종해가고 있는데도, 인류는 지금의 쾌적한 생활을 버릴 생각이 없다. 바로 인간의 이기심 때문이다. \n\n그동안 인류는 스스로를 지혜로운 인간 ‘호모 사피엔스(Homo Sapiens)’라 불렀고, 오늘날에는 더욱 나아가 신과 같은 권력을 지닌 종족, 즉 ‘호모 데우스(Homo Deus)’로 여기는 오만함에 빠져 있다. 생물학자 니컬러스 머니(Nicholas P. Money)는 우리 인간에게 진정으로 잘 어울리는 이름은 자아도취의 전형인 ‘호모 나르키소스(Homo Narcissus)’라고 새롭게 정의한다.\n\n지구 온난화로 인해 현재 지구는 암 말기 환자와 같은 상태에 있다. 하지만 인류는 문제의 심각성을 알면서도 계속 이 사실을 외면하고 있다. 『이기적 유인원』에게 말하는 엄중한 경고는 다음과 같다. 인류는 신의 계시가 아니라도 조만간 멸종할 것이라고. 지구 온난화로 인한 각종 기후 재앙과 생태계 파괴, 그리고 인구 포화에 의해서 말이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20200416",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "니컬러스 머니 지음 ;김주희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "220 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157844012",
+                "INPUT_DATE": "20200311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "이기적 유인원",
+                "PUBLISH_PREDATE": "20200403",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

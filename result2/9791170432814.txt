@@ -1,0 +1,67 @@
+{
+    "otitle": "일잘러는 노션으로 일합니다",
+    "oauthor": "김대중 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일잘러는 노션으로 일합니다 (창업자, 스타트업, 프리랜서, 1인 기업가가 알아야 할 실전 노션 활용법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32477550364",
+                "image": "https://shopping-phinf.pstatic.net/main_3247755/32477550364.20230207165653.jpg",
+                "author": "김대중",
+                "discount": "14400",
+                "publisher": "원앤원북스",
+                "pubdate": "20220217",
+                "isbn": "9791170432814",
+                "description": "잘 배운 노션 하나 열 애플리케이션 안 부럽다\n내일의 나를 ‘일잘러’로 만들어줄 실전 노션 활용법!\n\n스마트워크 시대가 열리면서 각종 생산성 애플리케이션이 주목받고 있는 요즘, 일 잘하는 직장인, 일잘러가 되고 싶은 당신에게 꼭 필요한 책이 나왔다. 2016년에 출시된 노션은 기존의 에버노트, 구글킵, 드롭박스페이퍼 등에서 한 단계 진화한 형태를 갖춰 호평을 받고 있는 생산성 앱이다.\n개인적인 일정 관리부터 일 처리 프로세스 구축, 콘텐츠 제작과 홍보 등 손쉽게 업무 효율을 극대화할 수 있는 노션을 사용해 상사와 팀원들, 클라이언트에게 인정받는 일잘러가 되어보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220314",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김대중 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/01/25/9791170432814.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170432814",
+                "INPUT_DATE": "20220106",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "일잘러는 노션으로 일합니다",
+                "PUBLISH_PREDATE": "20220217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

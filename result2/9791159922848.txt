@@ -1,0 +1,67 @@
+{
+    "otitle": "왜 우리는 살찌는가",
+    "oauthor": "게리 타우브스 저,강병철 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왜 우리는 살찌는가 (비만에 대한 모든 과학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465445687",
+                "image": "https://shopping-phinf.pstatic.net/main_3246544/32465445687.20221019120559.jpg",
+                "author": "게리 타우브스",
+                "discount": "14850",
+                "publisher": "알마",
+                "pubdate": "20200106",
+                "isbn": "9791159922848",
+                "description": "왜 어떤 사람은 마르고 어떤 사람은 살이 찌는가? \n저탄고지 식단의 폭발적인 열풍에 도화선이 된 책!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Alma(알마)",
+                "DDC": "",
+                "UPDATE_DATE": "20200129",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 게리 타우브스 ;옮긴이: 강병철",
+                "SERIES_TITLE": "",
+                "KDC": "513.398",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "330 p.",
+                "CONTROL_NO": "CIP2019050936",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159922848",
+                "INPUT_DATE": "20191211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "왜 우리는 살찌는가",
+                "PUBLISH_PREDATE": "20200106",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

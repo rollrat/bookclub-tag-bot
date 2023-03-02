@@ -1,0 +1,67 @@
+{
+    "otitle": "옛 그림 보면 옛 생각 난다",
+    "oauthor": "손철주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "옛 그림 보면 옛 생각 난다 (하루 한 점만 보아도 하루 한 편만 읽어도 온종일 행복한 그림 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497186638",
+                "image": "https://shopping-phinf.pstatic.net/main_3249718/32497186638.20221019151933.jpg",
+                "author": "손철주",
+                "discount": "13500",
+                "publisher": "현암사",
+                "pubdate": "20110527",
+                "isbn": "9788932315904",
+                "description": "그리워라, 다정다감한 우리 옛 그림\n\n미술 컬럼니스트 손철주의『옛 그림 보면 옛 생각 난다』. 정감 있는 우리의 옛 그림 68편을 감상할 수 있는 그림에세이다. 봄, 여름, 가을, 겨울의 사계절로 나누어 물 흐르듯이 읽으면서 우리 고유의 정취를 보고 느낄 수 있도록 했다. 컬러로 수록한 그림들은 대부분 조선시대 회화들로서, 널리 알려진 그림부터 쉽게 보기 어려운 낯선 그림까지 망라하고 있다. 각 그림마다 짧지만 알차게 수록된 저자의 해제는 그림이 전하는 이야기와 속뜻을 우리말의 아름다움을 담뿍 담아 전한다. 아침저녁으로 아무 쪽이나 펼쳐 멋진 그림 한 점 보고, 맛난 글 한 편 읽으면서 부담 없이 옛 그림을 즐길 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "759.9519",
+                "UPDATE_DATE": "20110617",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "손철주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "653.11",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2480851_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2480851_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2480851_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2011002055",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932315904",
+                "INPUT_DATE": "20110517",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "옛 그림 보면 옛 생각 난다 ",
+                "PUBLISH_PREDATE": "20110527",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "반전이 있는 베트남사",
+    "oauthor": "권재원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "반전이 있는 베트남사 (가깝고도 낯선, 작지만 강한 나라베트남 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486455552",
+                "image": "https://shopping-phinf.pstatic.net/main_3248645/32486455552.20221019150734.jpg",
+                "author": "권재원",
+                "discount": "11700",
+                "publisher": "다른",
+                "pubdate": "20190617",
+                "isbn": "9791156332497",
+                "description": "반만년의 역사를 자랑하는 베트남, \n우리는 얼마나 알고 있을까?\n\n현재 우리나라와 베트남의 관계는 역사상 그 어느 때보다도 긴밀하다. 우리나라 사람들에게 베트남은 이색적인 볼거리와 풍부한 먹거리를 즐길 수 있는 여행지로 인기가 많고, 베트남 사람들에게는 우리나라의 드라마와 케이팝, 베트남 축구 국가대표팀 감독 박항서의 인기가 높아지면서 서로간의 문화적 친밀감이 급속도로 높아졌다. 이러한 현상이 있기 전부터 우리나라 기업들은 베트남에 지속적인 투자를 이어가고 있으며, 지난 2019년 2월에는 베트남의 수도 하노이에서 2차 북미 정상회담이 개최되는 등 베트남은 우리나라 매스컴의 문화·경제·정치면 어디에서나 가장 뜨거운 이슈를 불러일으키고 있는 나라다.\n\n사실 베트남은 매스컴 속에서만 가까운 나라가 아니다. 수많은 베트남 사람이 우리의 가족으로, 이웃으로, 동료로 일상을 함께한 지 오래다. 다문화 사회로 접어든 우리나라의 가장 중요한 동반자로 자리매김한 것이다. 그럼에도 우리는 여전히 베트남에 대한 낡은 오해와 편견으로부터 벗어나지 못했다. ‘동족상잔의 베트남전쟁’, ‘폐쇄적인 공산주의 국가’, ‘동남아시아의 개발도상국’…. 풍문처럼 흘려들은 수십 년 전 베트남의 모습만으로 반만년의 역사를 지닌 베트남을 속단하게 된 것은 어디에서도 베트남에 대해 제대로 배울 기회를 가지지 못한 탓이다. 앞으로 더 많이 마주하고 부딪히며 공동의 역사를 만들어가게 될 우리 곁의 베트남 이야기에 주목해야 할 때이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른",
+                "DDC": "",
+                "UPDATE_DATE": "20190709",
+                "EA_ADD_CODE": "43910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "권재원 지음",
+                "SERIES_TITLE": "",
+                "KDC": "914.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/31/9791156332497.JPG",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "167 p.",
+                "CONTROL_NO": "CIP2019021818",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156332497",
+                "INPUT_DATE": "20190531",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "반전이 있는 베트남사",
+                "PUBLISH_PREDATE": "20190617",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "단순함이 너의 모든 것을 바꾼다",
+    "oauthor": "리오 바바우타 저/허형은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "단순함이 너의 모든 것을 바꾼다 (일은 더 적게 하면서 더 큰 성과를 얻는 비결)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466988771",
+                "image": "https://shopping-phinf.pstatic.net/main_3246698/32466988771.20221019135650.jpg",
+                "author": "리오 바바우타",
+                "discount": "11700",
+                "publisher": "경원북스",
+                "pubdate": "20170625",
+                "isbn": "9791195914227",
+                "description": "삶을 단순화하고 핵심에 집중하는 법!\n\n『단순함이 너의 모든 것을 바꾼다』에서 추구하는 단순함이란 내가 하는 모든 일에 있어서의 단순함, 더 많이 하는 게 아니라 더 적게 하면서 대신 현명한 선택을 내려 최대의 효과를 내는 것이다. 이 책에서 저자는 핵심을 파악하고, 나머지는 제거하는 이 두 단계의 과정을 일과 개인생활에 두루 적용하는 방법에 대해 이야기한다.\n\n책의 1부에서는 주개념인 ‘덜 하기’의 바탕이 되는 여섯 가지 법칙에 대해 설명한다. 2부 실전 편에서는 일과 개인적인 삶 전반에 걸친 핵심적인 부분들에 이러한 법칙을 어떻게 실질적으로 적용시킬지에 대해 이야기한다. 결국에 저자가 강조하는 이야기는 두 가지 단계, 즉 핵심에 집중하고 나머지는 제거한다는 개념으로 귀결된다. 이 두 가지만 실천하면 스트레스는 덜 받으면서 훨씬 만족스러운 삶을, 훨씬 더 생산적인 삶을 영위할 수 있음을 강조한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "경원북스",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "리오 바바우타 ",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6249495_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6249495_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판(152*225)",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6249495_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "약 250페이지 내외",
+                "CONTROL_NO": "CIP2017014174",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195914227",
+                "INPUT_DATE": "20170531",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "단순함이 너의 모든 것을 바꾼다",
+                "PUBLISH_PREDATE": "20170625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 매일매일 주말처럼 산다",
+    "oauthor": "현영호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 매일매일 주말처럼 산다 (종잣돈 2,200만 원으로 시작한 어느 파이어족의 경제적 자유를 얻는 법!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467269962",
+                "image": "https://shopping-phinf.pstatic.net/main_3246726/32467269962.20230117165527.jpg",
+                "author": "현영호",
+                "discount": "14400",
+                "publisher": "슬로디미디어",
+                "pubdate": "20210905",
+                "isbn": "9791167850294",
+                "description": "종잣돈 2,200만 원으로 시작한 \n어느 파이어족의 경제적 자유를 얻는 법\n\n파이어족의 꿈을 이루는 방법은 부동산, 주식, 펀드, 가상화폐 같은 곳에 투자하거나 창업하는 등 다양한 방법이 있지만 각자의 성향에 맞는 방법을 선택해야 성공 가능성이 높다. 자신에게 맞는 방법을 찾은 후에는 그와 관련된 법규, 시장 변화 등을 계속 주시하고 예산에 맞는 대상을 찾아 적절한 타이밍에 맞춰 실행에 옮기는 것으로 시작해야 한다. 대부분의 투자가 그렇지만 부동산의 경우에는 특히 긴 호흡으로 투자해야 성공 기회를 잡을 가능성이 높다.\n《나는 매일매일 주말처럼 산다》는 40대 후반에 파이어족으로의 변신에 성공한 저자 부부의 이야기이다. 파이어족이 되고자 하는 열망은 있지만 엄두를 내지 못하는 사람, 조기 은퇴·경제적 자유와 같은 것은 금수저만 이룰 수 있는 것으로 생각하고 일찌감치 포기한 사람, 노력은 했지만 수 없이 실패한 사람, 혹은 사회 초년생으로 하루빨리 파이어족이 되고 싶은데 갈피를 잡지 못하고 있는 사람들에게 이 책을 권한다. 또한 그 가능성에 대한 확신과 꿈을 이룰 수 있는 단초를 제공하여 지금보다 많은 사람이 파이어족이 되거나 보다 안정적이고 행복한 노후를 마련할 수 있는 기회가 되면 좋겠다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어(슬로디미디어그룹)",
+                "DDC": "",
+                "UPDATE_DATE": "20211026",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "현영호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/20/9791167850294.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "196 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167850294",
+                "INPUT_DATE": "20210813",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 매일매일 주말처럼 산다",
+                "PUBLISH_PREDATE": "20210905",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "그림책이 세상을 물들일 때",
+    "oauthor": "박선아,손미영,조유정 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:38 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "그림책이 세상을 물들일 때 (테마로 읽는 2010년대 우리 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496633655",
+                "image": "https://shopping-phinf.pstatic.net/main_3249663/32496633655.20221019142313.jpg",
+                "author": "박선아^손미영^조유정",
+                "discount": "13320",
+                "publisher": "이담북스",
+                "pubdate": "20210430",
+                "isbn": "9791166034091",
+                "description": "2010년대 우리 그림책의 성장과 변화를 3편의 여는 글과 30편의 그림책 서평으로 소개하는 책이다. 그림책을 읽다 그 매력에 흠뻑 빠져 그림책 활동가이자 연구자의 길에 들어선 저자와 함께 2010년대 우리 그림책과 정답게 대화를 나누는 자리에 초대한다."
+            },
+            {
+                "title": "그림책이 세상을 물들일 때(큰글자도서) (테마로 읽는 2010년대 우리 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/34398322625",
+                "image": "https://shopping-phinf.pstatic.net/main_3439832/34398322625.20221019135033.jpg",
+                "author": "박선아^손미영^조유정",
+                "discount": "31500",
+                "publisher": "이담북스",
+                "pubdate": "20220919",
+                "isbn": "9791168016446",
+                "description": "[큰글자도서]2010년대 우리 그림책의 성장과 변화를 3편의 여는 글과 30편의 그림책 서평으로 소개하는 책이다. 그림책을 읽다 그 매력에 흠뻑 빠져 그림책 활동가이자 연구자의 길에 들어선 저자와 함께 2010년대 우리 그림책과 정답게 대화를 나누는 자리에 초대한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담북스 :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20210623",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "지은이: 박선아,손미영,조유정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "281 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166034091",
+                "INPUT_DATE": "20210406",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "그림책이 세상을 물들일 때",
+                "PUBLISH_PREDATE": "20210430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

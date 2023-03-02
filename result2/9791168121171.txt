@@ -1,0 +1,67 @@
+{
+    "otitle": "우리가 만난 아이들",
+    "oauthor": "이근아,김정화,진선민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리가 만난 아이들 (소년, 사회, 죄에 대한 아홉 가지 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441018388",
+                "image": "https://shopping-phinf.pstatic.net/main_3244101/32441018388.20230223071020.jpg",
+                "author": "이근아^김정화^진선민",
+                "discount": "14850",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20211222",
+                "isbn": "9791168121171",
+                "description": "100명의 소년범을 만난 300일의 기록\n벼랑 끝 소년에게 손 내미는 사람은 없었다\n\n이십 대 기자 세 명이 일 년 동안 100여 명의 소년범을 만났다. 심층 인터뷰와 설문 조사를 통해 소년범의 삶을 깊이 있게 들여다본 것은 ‘국내 언론 사상 첫 시도’이다. 매년 충격적인 소년범죄가 일어나고 있다. 그만큼 소년범을 향한 여론의 분노가 들끓고 있으며 소년범에 대한 논쟁이 활발하다. 범죄를 저지른 소년범은 처벌받아야 마땅하다. 하지만 처벌을 강화한다고 해서 소년범죄가 줄어들까? “좋은 어른을 만나본 적 없다”고 말하는 아이들의 모습은 우리 사회를 향해 “이대로 괜찮은가?” 하는 근본적인 질문을 던진다. 많은 사람이 소년범을 ‘괴물’이나 ‘악마’로 규정하고 엄중한 ‘처벌’만을 요구하고 있지만, 사회적 성찰 없는 ‘엄벌’은 대책이 될 수 없다. 소년범죄는 ‘양극화’ ‘결손가정’ ‘가정폭력’ ‘공교육의 붕괴’ ‘물질만능주의’ 등 우리 사회의 구조적인 모순이 주된 원인이기 때문이다. 범죄를 저지른 아이들을 처벌한다고 해서 우리 사회의 책임이 사라지는 걸까? 우리 사회가 공동으로 나눠야 할 책임을, 아이들에게 오롯이 묻는 것이 과연 책임 있는 사회와 국가의 역할일까? 이 질문들은 우리가 일상에서 마주쳤지만, 애써 외면했던 아이들의 이야기를 지금 들어야 할 이유다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20220124",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "지은이: 이근아,김정화,진선민",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "321 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168121171",
+                "INPUT_DATE": "20211206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우리가 만난 아이들",
+                "PUBLISH_PREDATE": "20211222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

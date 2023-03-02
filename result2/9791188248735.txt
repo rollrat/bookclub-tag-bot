@@ -1,0 +1,67 @@
+{
+    "otitle": "단어의 사연들",
+    "oauthor": "백우진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "단어의 사연들 (내가 모르는 단어는 내가 모르는 세계다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436257424",
+                "image": "https://shopping-phinf.pstatic.net/main_3243625/32436257424.20230110163352.jpg",
+                "author": "백우진",
+                "discount": "11700",
+                "publisher": "웨일북(whalebooks)",
+                "pubdate": "20181228",
+                "isbn": "9791188248735",
+                "description": "말할 수 없는 것까지 말하기 위한 단어 공부!\n\n20여 년간 활자 매체에서 기사를 써온 백우진. 시간이 빌 때마다 약 2,400쪽인 사전을 한 단어 한 단어 읽으면서 눈에 띄는 표제어를 적어나갔던 그가 단어를 실마리로 우리가 생각하는 방식을, 생각을 소리에 실어내는 방식을 포착해 풀어낸 『단어의 사연들』. 저자는 이 책에서 한국인으로 살아오면서 수없이 주고받았던 단어들을 마치 어린아이가 처음 말을 배우듯이 낯설게 바라본다. \n\n먼저 저자는 다른 언어와의 비교를 통해 우리말 고유의 맛이나 무늬를 찾아본다. 또 단어가 오래전 태어난 사연, 즉 유래를 찾아본다. 한 사회의 언어에는 그 사회의 발자국이 찍혀 있기 때문이다. 이어서 우리말의 조어 방식, 단어가 헤치고 모여든 사연을 짚어본다. 마지막으로 단어가 그동안 숨었던 사연을 살펴본다. 곱고 귀한데 쓰이지 않았던 말을 통해 우리말을 더 우리말답고 풍성하게 빚어갈 수 있도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Whale Books(웨일북)",
+                "DDC": "495.78",
+                "UPDATE_DATE": "20190117",
+                "EA_ADD_CODE": "03700",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "백우진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "714",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7047775_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "CIP2018040169",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188248735",
+                "INPUT_DATE": "20181206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "단어의 사연들",
+                "PUBLISH_PREDATE": "20181228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

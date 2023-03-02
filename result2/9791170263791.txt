@@ -1,0 +1,67 @@
+{
+    "otitle": "포코그란데의 손뜨개 소품",
+    "oauthor": "강보송 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "포코그란데의 손뜨개 소품",
+                "link": "https://search.shopping.naver.com/book/catalog/32436334643",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436334643.20221227202824.jpg",
+                "author": "강보송",
+                "discount": "15560",
+                "publisher": "팜파스",
+                "pubdate": "20210125",
+                "isbn": "9791170263791",
+                "description": "실과 대바늘로 차근차근 그려내는\n패턴 이야기\n\n내가 좋아하는 패턴들로 만들어진 소품은 언제나 행복을 느끼게 합니다. 실과 대바늘만 있다면 어떤 모양이든 어렵지 않게 패턴 뜨기를 시작할 수 있습니다. 먼저 대바늘뜨기의 기초를 익힌 후 패턴을 뜨기 위해 알아야 할 코 줄이기, 바늘비우기, 실 바꾸기와 실 정리하기, 코줍기와 코 오므리기 등 기초 방법을 익힙니다. 패턴 뜨기를 시작해보세요. 곰돌이 문양을 넣은 수세미와 고양이 문양을 넣은 쿠션을 뜨면서 패턴 뜨기의 기초를 다집니다. 처음부터 완벽하지 않아도 괜찮아요. 사진과 함께 제공되는 뜨기 방법들을 따라 하다 보면 패턴 뜨기가 더 이상 어렵지 않게 느껴질 것입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20210309",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "강보송 지음",
+                "SERIES_TITLE": "",
+                "KDC": "592.27",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*250",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "CIP2020054966",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170263791",
+                "INPUT_DATE": "20201228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "포코그란데의 손뜨개 소품",
+                "PUBLISH_PREDATE": "20210125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

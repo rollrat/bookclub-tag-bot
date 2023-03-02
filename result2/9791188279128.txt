@@ -1,0 +1,67 @@
+{
+    "otitle": "주식 매매하는 법",
+    "oauthor": "제시 리버모어 저/박성환 번역해설",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "주식  매매하는 법 (주식투자위 영원한 고전, 무삭제 완역 출간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486449618",
+                "image": "https://shopping-phinf.pstatic.net/main_3248644/32486449618.20230218110413.jpg",
+                "author": "제시 리버모어",
+                "discount": "13050",
+                "publisher": "이레미디어",
+                "pubdate": "20180330",
+                "isbn": "9791188279128",
+                "description": "제시 리버모어의 『주식 매매하는 법』 무삭제 완역판\n주식투자의 영원한 고전이면서, 현대 주식투자자의 필독서!\n\n고전이란 단순히 오래된 책을 뜻하기보다 ‘시간이 지나도 널리 가치를 인정받는 책’을 말한다. \n『주식 매매하는 법』은 이러한 의미에서 주식투자자의 고전으로 일컬으며, 지금까지도 많은 사람에게 투자의 영감을 불어넣는 책이다. 이 책은 윌리엄 오닐, 잭 슈웨거, 알렉산더 엘더 등의 투자의 대가들이 추천함은 물론이고, 지금도 펀드매니저와 트레이더의 필독서로도 꼽힌다.  \n『주식 매매하는 법』은 월스트리트 역사상 가장 위대한 투자자로 알려진 제시 리버모어의 원전 《How to Trade in Stocks》을 그대로 완역하였다. 여기에 제시 리버모어의 비밀노트까지 담겨있어 생생한 그의 트레이딩을 엿볼 수 있다. 편저자가 덧붙인 풍부한 해설과 설명은 원전의 이해를 도와 누구나 읽기 편하다는 점도 특징이다. 『주식 매매하는 법』을 통해 월스트리트의 스승이 된 제시 리버모어의 매매법을 살펴보고, 투자하는 인간의 변하지 않는 속성까지 생각해본다면 읽는 즐거움이 배가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "332.6322",
+                "UPDATE_DATE": "20180411",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "제시 리버모어 지음 ;박성환 번역해설",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6574290_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6574290_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "302 p.",
+                "CONTROL_NO": "CIP2018006795",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188279128",
+                "INPUT_DATE": "20180227",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "주식 매매하는 법",
+                "PUBLISH_PREDATE": "20180330",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

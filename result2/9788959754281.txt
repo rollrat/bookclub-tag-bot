@@ -1,0 +1,67 @@
+{
+    "otitle": "한국추리소설 걸작선 2",
+    "oauthor": "김내성 외 43인 지음 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한국추리소설 걸작선 2",
+                "link": "https://search.shopping.naver.com/book/catalog/32497239808",
+                "image": "https://shopping-phinf.pstatic.net/main_3249723/32497239808.20221019105504.jpg",
+                "author": "김재희^한이",
+                "discount": "15300",
+                "publisher": "한스미디어",
+                "pubdate": "20120829",
+                "isbn": "9788959754281",
+                "description": "한국 추리소설의 다채로운 세계로 초대합니다!\n\n한국의 걸작 추리 작품 44편을 소개하는 단편 추리소설 모음집 『한국추리소설 걸작선』 제2권. 1983년에 창립하여 현재까지 왕성한 활동을 펼치고 있는 한국추리작가협회의 결산물이라 할 수 있는 작품집이다. 회원 스스로 우수 단편을 가려냈으며, 작고 회원의 작품은 추천작이나 대표작 중에서 선택하여 모두 44편의 작품을 2권의 책에 나누어 담았다. 한국 현대 추리문학의 아버지로 불리는 김내성의 1937년 작품 《가상범인》부터 홍성호의 2012년 작품 《B사감 하늘을 날다》까지, 근대에서 현대까지의 작품들을 아우르고 있다. 이 작품들을 통해 한국 추리소설의 변천사와 한국 추리소설의 역사적 가치를 엿볼 수 있다. 또한 《가상범인》을 제외하면, 1970년대부터 2010년대까지 당대의 사회상을 적나라하게 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "김내성 등저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959754281",
+                "INPUT_DATE": "20120814",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "한국추리소설걸작선 2",
+                "PUBLISH_PREDATE": "20120829",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

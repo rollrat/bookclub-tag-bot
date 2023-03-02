@@ -1,0 +1,67 @@
+{
+    "otitle": "나이보다 젊어지는 행복한 뇌",
+    "oauthor": "서유헌 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나이보다 젊어지는 행복한 뇌 (치매 없이 젊게 사는 7가지 뇌 건강 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438315771",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438315771.20221019115502.jpg",
+                "author": "서유헌",
+                "discount": "12600",
+                "publisher": "비타북스",
+                "pubdate": "20141001",
+                "isbn": "9791185020532",
+                "description": "뇌도 젊어질 수 있다! 치매 없이 젊은 뇌 만들기\n\n치매 없이 젊어지는 7가지 뇌 건강 습관『나이보다 젊어지는 행복한 뇌』. 이 책은 뇌와 치매 연구의 세계적인 석학 서유헌 교수가 중년의 뇌 건강관리의 중요성을 강조한다. 저자는 우리나라 중년의 뇌 건강이 위협 받는 이유로 흡연, 음주, 스트레스, 수면 부족 등을 문제점으로 지적하며 각종 뇌 질환과 치매에 대한 자세한 설명과 그 예방법을 ‘뇌 기능 향상을 위한 7가지 뇌 건강 습관’에 담아 정리하였다.\n\n 40여 년간 ‘뇌’분야 만을 외골수로 연구한 저자는 뇌를 다스려야 신체도 활력을 띠고 삶의 질도 높아져 사회적으로 큰 문제가 되고 있는 치매를 늦추거나 예방할 수 있다는 것을 밝혀내었다. 이에 국내외 수많은 연구결과를 토대로 만든 뇌 활력 증진법과 치매를 예방하는 7가지 뇌 건강 습관을 알려준다. 다스리기, 배우기, 움직이기, 먹기, 표현하기, 잘 쉬기, 음주 흡연 스트레스 줄이기의 방법을 소개하며 건강한 노후를 준비할 수 있도록 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "616.89",
+                "UPDATE_DATE": "20150113",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "서유헌",
+                "SERIES_TITLE": "",
+                "KDC": "517.34",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3987155_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3987155_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014027268",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185020532",
+                "INPUT_DATE": "20140917",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "나이보다 젊어지는 행복한 뇌, 치매 없이 젊게 사는 7가지 뇌 건강 습관",
+                "PUBLISH_PREDATE": "20141001",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

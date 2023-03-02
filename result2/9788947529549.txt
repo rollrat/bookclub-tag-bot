@@ -1,0 +1,67 @@
+{
+    "otitle": "어떻게 의욕을 끌어낼 것인가",
+    "oauthor": "하이디 그랜트 할버슨,토리 히긴스 공저/강유리 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어떻게 의욕을 끌어낼 것인가 (컬럼비아대학교 인간성향 대탐구)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441033405",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441033405.20220527022548.jpg",
+                "author": "하이디 그랜트 할버슨^토리 히긴스",
+                "discount": "0",
+                "publisher": "한국경제신문사",
+                "pubdate": "20140515",
+                "isbn": "9788947529549",
+                "description": "동기 성향에 숨겨진 비밀을 탐구하다!\n\n컬럼비아대학교 인간성향 대탐구『어떻게 의욕을 끌어낼 것인가』. 컬럼비아대학교 동기과학센터 부소장인 하이디 그랜트 할버슨과 소장인 토리 히긴스가 똑같은 상황에서도 사람들이 전혀 다른 방식으로 판단하고 결정하는 이유는 무엇인지, 인간의 동기 성향에 대해 묻고 그에 대한 해답을 제시한 책이다. \n\n저자들은 사람들이 세상을 이해하고 행동하는 방식이 정확하게 둘로 나뉜다는 데 주목하여 ‘성취지향’과 ‘안정지향’의 두 가지 행동 동기가 있음을 밝히고, 이 가운데 어떤 동기가 더 지배적인가에 따라 ‘성취지향형’과 ‘안정지향형’으로 나눌 수 있음을 알려준다. 업무를 대하는 태도뿐만 아니라 자녀 양육, 연애, 의사결정 방식 등 성향이 미치는 영향을 다양한 사례를 통해 살피고, 성향을 활용하는 방법과 필요에 따라 성향을 전환하는 방법을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20140514",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "하이디 그랜트 할버슨,토리 히긴스 지음 ;강유리 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947529549",
+                "INPUT_DATE": "20140514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "어떻게 의욕을 끌어낼 것인가",
+                "PUBLISH_PREDATE": "20140515",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

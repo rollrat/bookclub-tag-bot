@@ -1,0 +1,67 @@
+{
+    "otitle": "게임 프로그래머로 산다는 것",
+    "oauthor": "김성완,정재원,이국현,김상천,김용준,최영준 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "게임 프로그래머로 산다는 것 (프로그래머의 길을 생각한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465471709",
+                "image": "https://shopping-phinf.pstatic.net/main_3246547/32465471709.20221228072913.jpg",
+                "author": "김성완^정재원^이국현^김상천^김용준",
+                "discount": "14400",
+                "publisher": "로드북",
+                "pubdate": "20160314",
+                "isbn": "9788997924196",
+                "description": "게임을 만드는 사람들의 이야기다. “나는 이렇게 살고 있는데, 여러분은 어떻습니까?”라고 동료로서 선배로서 그들의 진솔한 이야기를 들려준다. 예비 프로그래머라면 앞으로 걸어갈 다양한 길을 간접적으로 경험할 수 있다. 현업 개발자라면 함께 가는 이 길에 대해 공감하고 다시 한번 진지한 고민과 성찰을 해볼 수 있다. 행복한 게임 프로그래머가 되기 위한 길을 함께 찾아보는 여정이 되는 것, 이 책의 소박한 목표이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20160401",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "김상천, 김성완, 김용준, 이국현, 정재원, 최영준",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "420",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924196",
+                "INPUT_DATE": "20160223",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "게임 프로그래머로 산다는 것",
+                "PUBLISH_PREDATE": "20160228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

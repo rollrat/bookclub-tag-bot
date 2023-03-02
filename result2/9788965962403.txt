@@ -1,0 +1,67 @@
+{
+    "otitle": "잘 팔리는 한 줄 카피",
+    "oauthor": "가와카미 데쓰야 저/이자영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잘 팔리는 한 줄 카피 (길거리 POP부터 TV광고까지 실전 카피 쓰기의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485533631",
+                "image": "https://shopping-phinf.pstatic.net/main_3248553/32485533631.20221019142911.jpg",
+                "author": "가와카미 데쓰야",
+                "discount": "0",
+                "publisher": "흐름출판",
+                "pubdate": "20171207",
+                "isbn": "9788965962403",
+                "description": "일본 최고의 카피라이터에게 배우다!\n대박 판매를 이끈 한 줄의 힘!\n\n시대가 변해도 마케터와 기획자가 고민하는 것이 있다. 바로 카피다. 잘 쓴 카피는 상품의 판매를 높여줄 뿐만 아니라 사람들의 인식과 가치관까지도 바꿔버린다. 그런데 카피를 잘 쓰기만 해서 과연 상품이 잘 팔릴까? 이 책에서는 그저 잘 쓰기만 한 카피가 아니라 반드시 팔릴 수 있는 한 줄에 대해 알아본다.\n\n저자 가와카미 데쓰야는 도쿄 카피라이터 클럽 신인상, 광고 데쓰상 등 다수의 광고상을 휩쓴 일본 최고의 카피라이터로 그동안의 경험을 통해 깨달은 카피라이팅 방법을 법칙화하고 유형화하여 설명한다. 그저 이론에서만 머무는 게 아니라 바로 현장에서 적용할 수 있는 진짜 잘 팔리는 카피 쓰기 방법을 제시한다.\n\n어떻게 하면 잘 팔리는 카피를 쓸 수 있을까? 인간에게는 어떤 시대를 살든 변하지 않는 보편적인 본능과 욕구가 있다. 따라서 인간의 본능과 욕구를 자극하는 한 줄을 쓰면 팔릴 확률은 높아진다. 이 책에서는 애플워치, 하인즈케첩, 다이슨청소기 등의 사례를 통해 불티나게 팔린 한 줄을 알아본다. 무엇을 말할 것인가(WHAT TO SAY)와 어떻게 말할 것인가(HOW TO SAY)의 차이를 명확히 제시하고 팔리는 법칙과 유형 5W10H를 정리한다. 또한 길거리 POP부터 TV광고까지 다수의 사례를 분석하며 실제로 기획, 네이밍, 제목(타이틀), 캐치프레이즈 등 한 줄의 효과로 대박 판매로 이어진 경우를 알아본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판 :넥스트웨이브미디어",
+                "DDC": "659.132",
+                "UPDATE_DATE": "20171207",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "가와카미 데쓰야 지음 ;이자영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.751",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6414417_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6414417_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "226 p.",
+                "CONTROL_NO": "CIP2017028699",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965962403",
+                "INPUT_DATE": "20171101",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "잘 팔리는 한 줄 카피",
+                "PUBLISH_PREDATE": "20171207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

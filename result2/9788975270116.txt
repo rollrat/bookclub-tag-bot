@@ -1,0 +1,78 @@
+{
+    "otitle": "패션 디자이너 되기",
+    "oauthor": "문미영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:51 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "패션 디자이너 되기 (스타일에 날개를 달아주는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474460886",
+                "image": "https://shopping-phinf.pstatic.net/main_3247446/32474460886.20221227204546.jpg",
+                "author": "문미영",
+                "discount": "10800",
+                "publisher": "들녘",
+                "pubdate": "20141028",
+                "isbn": "9788975270116",
+                "description": "푸른들녘 미래탐색 시리즈 5권. 패션 디자이너라는 멋진 직업의 세계로 항해를 떠나는 청소년들을 위한 책이다. 특별한 꿈을 가진 사람, 그리고 이 세계에 대해 궁금한 게 많은 사람을 위한 맞춤형 책이다. 그래서 인터넷 서핑 결과물이나 신문기사 등 누구나 다 얻을 수 있는 공개된 정보가 아니라 실제 현장에서 일한 사람만이 알 수 있는 비밀스러운 정보들을 가득 담았다.\n\n\n\n현실적인 정보, 쓸모 있는 정보, 그리고 꿈을 세우고 이를 실현하기 위해 계획을 세우는 데 필요한 정보들을 알차게 모았다는 뜻이다. 패션 디자이너가 되는 데 필요한 자질, 노력, 디자이너로 입문한 다음 어떤 과정을 거쳐 한 팀을 꾸리는 실장이 되는지에 이르기까지 저자의 경험을 온전히 담은 이 책은 청소년들의 험난한 탐험 길에 든든한 나침반이 될 것이다."
+            },
+            {
+                "title": "우리들의 별별 캐릭터 보물섬 (패션.장난감.페이퍼.홈파티.캐릭터 디자이너 되기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493321451",
+                "image": "https://shopping-phinf.pstatic.net/main_3249332/32493321451.20230103162719.jpg",
+                "author": "창의콘텐츠연구소",
+                "discount": "9000",
+                "publisher": "해람북스(구 북스홀릭)",
+                "pubdate": "20190525",
+                "isbn": "9791188450336",
+                "description": "해람북스에서 자체적으로 개발한 ‘캐릭터 보물섬’ 프로그램을 이용하여 저학년 학생들이 쉽고 재미있게 컴퓨터와 친숙해질 수 있도록 하였습니다. 프로그램 속 다양한 캐릭터들을 사용하여 지갑, 휴대폰 케이스, 쿠폰 등을 직접 꾸며 보고 출력해서 사용함으로써 수업에 대한 흥미를 높일 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "646.302",
+                "UPDATE_DATE": "20141224",
+                "EA_ADD_CODE": "14370",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "문미영",
+                "SERIES_TITLE": "",
+                "KDC": "592.004",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4039583_6.jpg",
+                "SET_ISBN": "9788975276484",
+                "REAL_PUBLISH_DATE": "20141028",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4039583_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4039583_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "14,000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014029830",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788975270116",
+                "INPUT_DATE": "20141016",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "스타일에 날개를 달아주는 패션 디자이너 되기",
+                "PUBLISH_PREDATE": "20141028",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14370 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

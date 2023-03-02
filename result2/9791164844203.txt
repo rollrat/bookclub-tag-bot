@@ -1,0 +1,67 @@
+{
+    "otitle": "C테크 레이스",
+    "oauthor": "매일경제 국민보고대회팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "C테크 레이스 (기후변화 대응기술의 미래)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445370654",
+                "image": "https://shopping-phinf.pstatic.net/main_3244537/32445370654.20221019151458.jpg",
+                "author": "매일경제 국민보고대회팀",
+                "discount": "15300",
+                "publisher": "매일경제신문사",
+                "pubdate": "20220525",
+                "isbn": "9791164844203",
+                "description": "C테크, 대한민국 미래성장의 동력!\n기후변화에 따른 지구온난화 대책을 기술로 마련하다\n\n지구의 평균 온도가 오르고 있다. 벌써부터 제주도 앞바다 수온이 올라가고 아열대 어종의 출현은 물론 감태가 사라졌다. 남극은 어떠한가? 빙붕이 무너지면서 해수면이 오른다. 이 모두가 이산화탄소 배출로 인한 기후변화 모습이다.\n\n산업 전반에 걸쳐 기술 혁신이 필요하다. 이 책은 전 세계 C테크 산업 동향을 통해 한국 산업의 미래 가치를 확인하고 C테크 강국으로 거듭나기 위한 승리공식을 살핀다. 기후기술 강국이 되는 그날까지 탄소 배출 제로를 향한 레이스는 계속된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20220623",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "매일경제 국민보고대회팀 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "276 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164844203",
+                "INPUT_DATE": "20220504",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "C테크 레이스",
+                "PUBLISH_PREDATE": "20220525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

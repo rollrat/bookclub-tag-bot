@@ -1,0 +1,67 @@
+{
+    "otitle": "꽤 유쾌하고 쓸모 있는 과학",
+    "oauthor": "빅토리아 윌리엄스 저/박지웅 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "꽤 유쾌하고 쓸모 있는 과학",
+                "link": "https://search.shopping.naver.com/book/catalog/32471591912",
+                "image": "https://shopping-phinf.pstatic.net/main_3247159/32471591912.20221229074411.jpg",
+                "author": "빅토리아 윌리엄스",
+                "discount": "15300",
+                "publisher": "하이픈",
+                "pubdate": "20210625",
+                "isbn": "9791190149587",
+                "description": "과학 워밍업이 필요한 아이들,\n까맣게 잊은 과학 지식을 돌려받고 싶은 어른들\n과학 지식 한 권에 요약해 드립니다!\n\n과학은 흔히 ‘졸업하고 나면 쓸모없는 것’으로 여겨지곤 한다. 하지만 과학은 교과서 속에만 있는 것이 아니다. 우리는 숨 쉬듯 과학을 활용하고 있다. 스마트폰에 연결된 와이파이에도, 지금 신은 신발 밑창에도, 이 글을 읽을 수 있는 이유에도 과학이 있다. 그러나 바쁜 이 시대에 과학자처럼 과학 공부할 수는 없는 노릇! 따라서 『꽤 유쾌하고 쓸모 있는 과학』에 알아두면 좋은 과학 지식을 총망라해 담았다. 이제 막 과학 공부를 시작한 청소년 독자들에게는 워밍업이 되어주고, 과학을 까맣게 잊고 살았던 성인 독자들에게는 지식을 되찾아줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다온북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210804",
+                "EA_ADD_CODE": "04400",
+                "PUBLISHER_URL": "없음",
+                "AUTHOR": "빅토리아 윌리엄스 지음 ;박지웅 역",
+                "SERIES_TITLE": "한 번에 이해하는 단숨 지식 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791190149600",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/26/9791190149587.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "221 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791190149587",
+                "INPUT_DATE": "20210429",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "꽤 유쾌하고 쓸모 있는 과학",
+                "PUBLISH_PREDATE": "20210625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04400 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

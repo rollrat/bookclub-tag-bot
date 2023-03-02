@@ -1,0 +1,67 @@
+{
+    "otitle": "으라차차 길고양이 나가신다!",
+    "oauthor": "안오일 글/방현일 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "으라차차 길고양이 나가신다!",
+                "link": "https://search.shopping.naver.com/book/catalog/32463163206",
+                "image": "https://shopping-phinf.pstatic.net/main_3246316/32463163206.20221019135211.jpg",
+                "author": "안오일",
+                "discount": "9900",
+                "publisher": "뜨인돌어린이",
+                "pubdate": "20200515",
+                "isbn": "9788958077589",
+                "description": "“두렵다고 숨기만 하면 절대 바뀌지 않아!”\n제 모습 그대로를 드러내기 어려운 연두, 예전처럼 행복한 동네를 만들고 싶은 깜이, 대장 고양이 양모스에게 맞설 용기가 없는 동네 고양이들까지, 이 동화에는 저마다 다른 이유로 동네 곳곳에 숨어 사는 길고양이들이 등장합니다. 빈 창고, 폐차 밑 등의 장소에서 각자 하루하루를 버텨 온 길고양이들에게 화창한 날이 찾아올 수 있을까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌어린이 :뜨인돌출판",
+                "DDC": "",
+                "UPDATE_DATE": "20200618",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "안오일 글 ;방현일 그림",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "185*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "111 p.",
+                "CONTROL_NO": "CIP2020015792",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958077589",
+                "INPUT_DATE": "20200416",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "으라차차 길고양이 나가신다!",
+                "PUBLISH_PREDATE": "20200515",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

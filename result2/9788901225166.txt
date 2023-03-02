@@ -1,0 +1,67 @@
+{
+    "otitle": "시무룩 고양이 네코노히 1",
+    "oauthor": "큐라이스 글그림/손나영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "네코노히 1 (시무룩 고양이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32502507871",
+                "image": "https://shopping-phinf.pstatic.net/main_3250250/32502507871.20220530150030.jpg",
+                "author": "큐라이스",
+                "discount": "0",
+                "publisher": "재미주의",
+                "pubdate": "20180625",
+                "isbn": "9788901225166",
+                "description": "언짢은 표정마저 사랑스러운 시무룩한 고양이, 네코노히!\n\n뚱뚱하고 소심한 고양이 ‘네코노히’의 시무룩한 표정이 매력인 네 컷 만화 『네코노히』 제1권. 트위터라는 누구나 접근할 수 있는 SNS를 플랫폼 삼아 성공한 이 작품은 일본 만화계의 변화를 이끄는 작품으로 평가받고 있다. 참치 캔을 따려다 고리만 떨어지는 대참사를 맞이하는 것처럼 우리가 흔히 겪는 일상 속 소소한 실패들을 열심히 사는 고양이 네코노히를 통해 그려냈다.\n\n짧은 네 컷 안에서 대사 한마디 없이도 내 이야기를 하는 것 같은 공감을 선사하는 탁월한 연출력으로 묘생도 그렇듯 우리 인생도 맑을 날이 있다는 교훈적인 메시지를 던진다. 한번 집어 들면 뒷이야기가 궁금해서 손에서 놓질 못하는 흡입력 강한 이 작품을 보다 보면 네코노히의 시무룩한 표정으로 힐링하고, 이번엔 꼭 성공해서 ‘SUCCESS’라고 외치기를 응원하는 자신을 발견하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진씽크빅",
+                "DDC": "",
+                "UPDATE_DATE": "20180824",
+                "EA_ADD_CODE": "07650",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글·그림: 큐라이스 ;옮긴이: 손나영",
+                "SERIES_TITLE": "네코노히",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788901225159",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "133 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788901225166",
+                "INPUT_DATE": "20180523",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "시무룩 고양이 네코노히",
+                "PUBLISH_PREDATE": "20180625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "07650 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

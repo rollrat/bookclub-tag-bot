@@ -1,0 +1,67 @@
+{
+    "otitle": "나혼자 끝내는 러시아어 단어장",
+    "oauthor": "레나 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나혼자 끝내는 러시아어 단어장 (MP3 무료 제공, 단어암기 동영상 무료 제공)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456299284",
+                "image": "https://shopping-phinf.pstatic.net/main_3245629/32456299284.20221228073945.jpg",
+                "author": "레나",
+                "discount": "12420",
+                "publisher": "넥서스",
+                "pubdate": "20191028",
+                "isbn": "9791161657936",
+                "description": "『나혼자 끝내는 러시아어 단어장』은 러시아어 독학자들이 혼자서 30일 만에 단어를 암기할 수 있도록 구성되어 있습니다. 기초 단어 600여 개를 포함하여 일상생활에서 활용도가 높은 필수 단어 약 2,000개를 수록하고 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20191104",
+                "EA_ADD_CODE": "13790",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "레나 지음",
+                "SERIES_TITLE": "",
+                "KDC": "792.84",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/10/9791161657936.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*192",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "스프링제본",
+                "PAGE": "216 p.",
+                "CONTROL_NO": "CIP2019040305",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161657936",
+                "INPUT_DATE": "20191010",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "(나혼자 끝내는) 러시아어 단어장",
+                "PUBLISH_PREDATE": "20191028",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

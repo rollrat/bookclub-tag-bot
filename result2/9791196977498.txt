@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 삶을 읽어나갑니다",
+    "oauthor": "이성갑 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 삶을 읽어나갑니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32436448750",
+                "image": "https://shopping-phinf.pstatic.net/main_3243644/32436448750.20220527063848.jpg",
+                "author": "이성갑",
+                "discount": "0",
+                "publisher": "Storehouse(스토어하우스)",
+                "pubdate": "20200701",
+                "isbn": "9791196977498",
+                "description": "“당신의 꿈은 무엇입니까?”\n“좋아하는 게 무엇입니까?”\n\n꿈은 결코 돈벌이가 아니고 대단한 것도 아니다. 사소함과 소소함이 꿈의 시작이다. 그렇게 시작 된 것이 책이었다. 책을 사고 책을 읽는 것이 삶의 낙이었고 책 때문에 돈을 벌었다. 어느 날 보니 책이 전부가 되어 따뜻한 남쪽 나라 부산에서 ‘주책공사’라는 동네 책방을 운영하며 책을 팔고 있다. \n\n주책공사에 가면 책이 좋아서 망할 때까지 나누며 사는 한 사람이 있다. 그 책방 주인이 책을 썼는데 신기한 책이다. 책 속에 자신의 이야기는 중간중간 숨겨놨고 책 속에서도 하는 이야기는 다른 작가들의 책 이야기다. 그것도 무려 100권. 그러면서 책 속에 담긴 책과 작가님들이 더 알려지길 바라는 사람이다. \n\n「오늘도 삶을 읽어나갑니다」는 책을 소개하는 책이지만 스포가 없는 책이다. 이 책을 읽게 되면 그 속에서 마음이 열리는 또 다른 책으로 인도해주는 역할을 하게 될 것이다. 책 100권을 한 권에 담아 읽어나가면서 사색할 수 있다는 것. 이보다 더 행복한 일이 있을까? 「오늘도 삶을 읽어나갑니다」라는 책 한 권을 통해 책 100권을 알게 된다면 또 다른 기쁨과 선물이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Storehouse(스토어하우스)",
+                "DDC": "",
+                "UPDATE_DATE": "20200806",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이성갑 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/05/28/9791196977498.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "CIP2020021953",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196977498",
+                "INPUT_DATE": "20200528",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘도 삶을 읽어나갑니다",
+                "PUBLISH_PREDATE": "20200701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

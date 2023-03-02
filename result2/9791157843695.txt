@@ -1,0 +1,67 @@
+{
+    "otitle": "절대수익 20%",
+    "oauthor": "이재웅 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "절대수익 20% (불확실한 시대의 가장 확실한 주식투자 전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443890653",
+                "image": "https://shopping-phinf.pstatic.net/main_3244389/32443890653.20221227205609.jpg",
+                "author": "이재웅",
+                "discount": "14850",
+                "publisher": "한빛비즈",
+                "pubdate": "20191028",
+                "isbn": "9791157843695",
+                "description": "저금리, 저성장 시대에 오르는 주식을 찾아내고 연평균 수익률을 수성하는 합리적인 주식투자 방법은 무엇일까? 《절대수익 20%》의 이재웅 저자가 350회 기업탐방 끝에 얻은 결론은 ‘발로 뛰어 찾은 종목은 배신하지 않는다’였다. \n\n\n\n한때 차트와 기술적 분석에 의지한 투자로 금융위기의 주식시장에서 낙오했던 그는 기업탐방으로 찾은 내실 있는 저점의 알짜 종목을 발굴하여 연평균 수익률 20%를 유지하는 ‘절대수익 주식투자법’을 확립했다. 시장이 요동치던 2015~2017년을 살펴보면, 시장 평균 수익률이 14%, -2%, 24%를 기록할 때, 저자는 60%, 25%, 33%의 수익을 거두었다.\n\n\n\n그가 찾는 종목들은 저평가 되었으며, 성장성이 강하고, 업황의 흐름이 좋으며, 모멘텀이 강한 종목들이다. 이러한 알짜 저평가주를 찾아내는 과정을 ‘종목 선정 10단계의 법칙’으로 담아냈다. 또한, 냉철한 투자 판단의 지침이 되었던 ‘투자노트 작성법’을 정리해 심리적으로 휩쓸리기 쉬운 주식시장에서 나의 원칙대로 투자하는 방법을 다루었다.\n\n\n\n저자가 실제로 사용했던 5개 종목의 투자노트를 살펴보면 투자 판단의 근거와 매수 타이밍, 주가가 내려갈 때 추가매수 할 것인가 손절매인가, 목표 수익을 실현하고도 주가가 계속 오를 때 수익 실현인가 계속 갈 것인가에 대한 실질적이고 살아있는 조언을 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20191030",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "이재웅 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157843695",
+                "INPUT_DATE": "20191007",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "절대수익 20%",
+                "PUBLISH_PREDATE": "20191028",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 걸었고, 음악이 남았네",
+    "oauthor": "황우창 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 걸었고, 음악이 남았네 (세상의 끝에서 만난 내 인생의 노래들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506892020",
+                "image": "https://shopping-phinf.pstatic.net/main_3250689/32506892020.20221229074248.jpg",
+                "author": "황우창",
+                "discount": "13500",
+                "publisher": "오픈하우스",
+                "pubdate": "20161214",
+                "isbn": "9791186009918",
+                "description": "미시령 고갯길에서 세상의 끝 피니스테레까지\n길 위에서 마주한 내 인생의 노래들\n\nKBS, MBC, CBS 라디오에서 음악방송 작가와 진행자로 활동하며, 음악에 관한 글을 꾸준히 써온 음악평론가 황우창의 첫 번째 산문집 『나는 걸었고, 음악이 남았네』가 오픈하우스에서 출간되었다. 전 세계를 여행하며 다양한 음악을 듣고 그에 담긴 문화와 정서에 대해 깊은 관심을 가져온 저자는, 강원도 미시령 고갯길에서 세상의 끝 피니스테레까지 여행 중에 틈틈이 기록해온 삶과 음악에 관한 이야기를 한 권의 책으로 엮었다. 책 속에는 스비아토슬라프 리흐테르, 레너드 코헨, 메르세데스 소사, 김민기 등 시대와 국적, 장르를 초월하여 저자와 평생을 함께해온 ‘내 인생의 노래’ 스물여덟 곡과 그에 얽힌 일화들이 담겨 있다. 우리는 여행지에서 들었던 음악으로 그 순간을 기억해 내고, 낯선 나라의 음악을 들으며 그곳으로의 여행을 꿈꾼다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)오픈하우스퍼블리셔스",
+                "DDC": "780.2",
+                "UPDATE_DATE": "20170418",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "황우창",
+                "SERIES_TITLE": "",
+                "KDC": "670.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5948758_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5948758_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "200페이지 내외",
+                "CONTROL_NO": "CIP2016029425",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186009918",
+                "INPUT_DATE": "20161130",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "나는 걸었고, 음악이 남았네",
+                "PUBLISH_PREDATE": "20161214",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

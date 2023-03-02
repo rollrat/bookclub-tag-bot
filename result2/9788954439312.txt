@@ -1,0 +1,67 @@
+{
+    "otitle": "서울 백년 가게",
+    "oauthor": "이인우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서울 백년 가게 (골목 구석구석에 숨은 장안 최고古의 가게 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441619061",
+                "image": "https://shopping-phinf.pstatic.net/main_3244161/32441619061.20221230071744.jpg",
+                "author": "이인우",
+                "discount": "13050",
+                "publisher": "꼼지락",
+                "pubdate": "20190111",
+                "isbn": "9788954439312",
+                "description": "“여전해서 좋은 장소가 있습니다”\n\n서울에서 백년을 한결같이 사랑받은 가게 24곳\n서울시장 박원순·방송인 김제동 강력 추천!\n\n서울에 이런 가게가 있었어?”\n꼭 한번 가보고 싶은\n토박이만 아는 오래된 공간들\n\n유럽을 여행하다 보면 연원이 중세시대로까지 거슬러 올라가는 오래된 카페나 서점, 장인의 가게가 눈길을 사로잡는다. 과거에 지어졌으나 여전히 원래의 용도에 맞게 그 쓰임을 다하는 가게들은 골목을 더욱 매력적으로 만들며 언제 찾아와도 변함없는 추억의 장면을 선사한다. 이러한 명소는 지역을 활성화하는 기업이자 살아 있는 문화재로 기능하며 현지인은 물론 관광객으로부터 한결같이 사랑을 받는다. \n인구 천만의 서울에도 반세기 이상 연륜을 쌓아온 가게들이 드물지 않게 존재한다. 런던이나 도쿄처럼 유구한 역사를 지니고 있지는 못하지만, 역사적 아픔과 급속한 산업화의 격랑을 숨 가쁘게 겪은 우리에게는 그 어떤 퍼브(선술집)나 노포(老鋪) 못지않은 소중한 ‘문화재’이다.  \n《서울 백년 가게》는 서울에 존재하는 역사가 오래된 가게의 탄생과 성장, 그리고 성공에 관한 이야기를 담은 책이다. 총 24곳의 백년 가게는 카페, 전시 공간, 서점, 음식점, 양복점, 대장간 등 다양하다. 각 가게 주인과의 진솔한 인터뷰를 통해 완성된 이 책은 성공 비결, 장사 철학, 경영 노하우를 들려주는데, 그들의 이야기는 그대로 서울과 서울 사람들의 애환 서린 생활과 풍속의 역사가 된다. 이 책은 그런 서울의 숨은 역사를 함께 이야기하고 나누기 위해 써졌다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꼼지락",
+                "DDC": "658.401",
+                "UPDATE_DATE": "20190122",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이인우 ;사진: 한겨레 출판국 출판사진부 ;일러스트: 김경래",
+                "SERIES_TITLE": "",
+                "KDC": "325.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7037057_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*214",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "286 p.",
+                "CONTROL_NO": "CIP2018039383",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954439312",
+                "INPUT_DATE": "20181130",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "서울 백년 가게",
+                "PUBLISH_PREDATE": "20190111",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "도쿄! 만화의 풍경을 산책하다",
+    "oauthor": "이지성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도쿄! 만화의 풍경을 산책하다 (덕력충만, 도쿄여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466668507",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466668507.20221019104820.jpg",
+                "author": "이지성",
+                "discount": "15120",
+                "publisher": "이담북스",
+                "pubdate": "20180914",
+                "isbn": "9788926885031",
+                "description": "일본 만화, 애니메이션 매니아를 위한 성지순례 가이드!\n\n『도쿄! 만화의 풍경을 산책하다』는 국내에서 인기를 끈 최신 애니메이션부터 추억을 곱씹으며 이야기보따리를 풀 수 있는 만화까지, 캐릭터가 등장하고 사건이 일어난 실제 장소, 먹었던 음식 등을 그대로 느껴보고자 하는 사람들을 위한 성지순례 가이드북이다. 《너의 이름은.》의 타키와 미츠하가 서로를 의식한 계단, 《러브라이브》의 뮤즈가 돌아다녔던 아키하바라, 《4월은 너의 거짓말》에서 카오리가 좋아하던 가게의 카눌레 등 23개 작품의 성지순례 스폿을 모았다. 도쿄 지역 근방이라 쉽게 방문할 수 있는 곳으로 엄선하여 주소, 영업시간, 휴일, 역에서 걸리는 시간까지 상세하게 저술했다. 또 에세이 형식을 띠어 저자의 발자국을 따라 가장 효율적인 루트와 주의할 점을 쉽게 알 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20181001",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "이지성 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "365 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926885031",
+                "INPUT_DATE": "20180907",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "도쿄! 만화의 풍경을 산책하다",
+                "PUBLISH_PREDATE": "20180914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

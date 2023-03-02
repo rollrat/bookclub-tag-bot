@@ -1,0 +1,67 @@
+{
+    "otitle": "걸으면 보이는 도시, 서울",
+    "oauthor": "이종욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "걸으면 보이는 도시, 서울 (드로잉에 담은 도시의 시간들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463472637",
+                "image": "https://shopping-phinf.pstatic.net/main_3246347/32463472637.20230103163301.jpg",
+                "author": "이종욱",
+                "discount": "15300",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20211125",
+                "isbn": "9788958078791",
+                "description": "《걸으면 보이는 도시, 서울》은 뚜벅뚜벅 걸으며 드로잉으로 담아낸 서울의 시간과 공간들을 선보인다. 서울역을 중심으로 도심과 골목의 익숙한 장소들에 서린 근현대의 레이어를 소개함으로써 우리 주변 도시공간의 인문적 가치를 재발견하게 한다. 시각적 쾌감을 주는 스케치와 드로잉을 통해 그곳들의 아름다움을 새삼 만끽하는 가운데, 경로 곳곳에 적층된 시·공간의 정체성을 목격하는 ‘서울 인문 산책+드로잉 에세이’이다. \n\n이 책은 ‘위드 코로나’ 시대의 대안적 여행법을 찾는 이들을 위한, 총 일곱 개의 서울 도시 산책의 경로를 제시한다. 경로상의 주요 도시공간들을 담아낸 시원시원한 그림이 독자의 눈을 사로잡아, 평소 자주 지나면서도 눈여겨보지 못했던 장소들에 대한 새로운 주목을 이끈다. 공간과 건축, 도시에 대한 탁월한 감식안을 지닌 지은이가 선보이는 인문적 도시 걷기를 통해, 서울의 근현대 생활·문화사를 간접 체험하며 ‘나의 도시는 과연 어떤 곳인지’ 재발견하는 기회가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌(뜨인돌출판)",
+                "DDC": "",
+                "UPDATE_DATE": "20211223",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "이종욱 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "166*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "327 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958078791",
+                "INPUT_DATE": "20211108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "걸으면 보이는 도시, 서울",
+                "PUBLISH_PREDATE": "20211125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

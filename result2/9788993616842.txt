@@ -1,0 +1,67 @@
+{
+    "otitle": "삶을 바꾸는 10분 자기경영",
+    "oauthor": "김형환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "삶을 바꾸는 10분 자기 경영 (어떻게 원하는 것을 얻을 것인가 고민하는 당신에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496618764",
+                "image": "https://shopping-phinf.pstatic.net/main_3249661/32496618764.20221019105007.jpg",
+                "author": "김형환",
+                "discount": "13500",
+                "publisher": "책이있는풍경",
+                "pubdate": "20150730",
+                "isbn": "9788993616842",
+                "description": "일과 삶의 고민들에 대한 해답을 제시하다!\n\n『삶을 바꾸는 10분 자기 경영』은 한국경영리더십 컨설팅 대표이자 글로벌 경영 전문교수인 김형환의 팟캐스트에 올라온 고민들 중에서 가장 많이 공감한 것들을 추린 것으로, 특히 삶과 일에서 어떻게 원하는 것을 얻을 것인가에 관한 문제를 담고 있다. 사회에 첫 발을 디딘 이들의 고민, 직장 초년병에서 벗어나 실무에서 인정받고 싶은 이들의 문제, 피하고 싶은 사람과 마주해야 하는 문제, 핵심 인재로 성장하는 조건과 리더십 등에 대한 따뜻하지만 날카로운 조언을 아끼지 않는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책이있는풍경",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20150723",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://chaekpung.com",
+                "AUTHOR": "김형환",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4698589_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4698589_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4698589_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015017881",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993616842",
+                "INPUT_DATE": "20150630",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "삶을 바꾸는 10분 자기경영",
+                "PUBLISH_PREDATE": "20150730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

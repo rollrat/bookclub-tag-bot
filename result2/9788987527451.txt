@@ -1,0 +1,67 @@
+{
+    "otitle": "과학, 인문으로 탐구하다",
+    "oauthor": "박민아,선유정,정원 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학, 인문으로 탐구하다",
+                "link": "https://search.shopping.naver.com/book/catalog/32476834960",
+                "image": "https://shopping-phinf.pstatic.net/main_3247683/32476834960.20221229074712.jpg",
+                "author": "박민아^선유정^정원",
+                "discount": "13050",
+                "publisher": "한국문학사",
+                "pubdate": "20150903",
+                "isbn": "9788987527451",
+                "description": "인문학과 경제학.건축.수학.의학의 만남에 이어, 인문학과 과학의 만남을 다룬 '융합과 통섭의 지식 콘서트' 시리즈 5권. 과학의 기본 개념과 기원, 과학과 타 분야의 만남으로 빚어지는 다양한 현상을 역사 속 또는 오늘날의 구체적 사례를 들어 살펴봄으로써 과학의 본모습을 알고, 현대과학에서 융합의 중요성을 이해하고자 한다.\n\n\n\n과학이 본래 융합적인 학문이라는 데 초점을 맞추고 예술.철학.사상.문화 등 다양한 분야와 과학의 관계를 살펴봄으로써 과학의 진면목을 이해하고, 현대과학과 다른 학문 간 융합의 필요성을 이해하고자 한다. 역사 속의 과학 및 그 안에 담긴 철학적 의미와 관련된 내용은 박민아 교수가 주로 맡아 썼고, 과학의 역사에서 일어난 구체적인 사건이 사회에 미친 영향과 관련된 글은 정원 교수가 썼으며, 선유정 교수는 한국을 비롯한 동양의 과학, 첨단과학기술, 최근 문화 콘텐츠에 접목된 과학 이야기를 맡았다.\n\n\n\n단순히 과학과 타 분야 간의 융합을 보여주기보다 융합이 왜 필요한지를 설명한다. 그러기 위해 먼저 과학이란 학문의 본질을 논하고, 과학의 본모습이 갖는 특성에서 융합의 필요성을 찾는다. 이를 통해 과학의 실용적.경제적 가치에만 몰두하는 경향에서 벗어나 순수과학의 필요성을 일깨우고, 오늘날의 과학, 그리고 현대과학이 앞으로 나아갈 길을 함께 고민해볼 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)한국문학사",
+                "DDC": "",
+                "UPDATE_DATE": "20150903",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박민아, 선유정, 정원",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "392",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788987527451",
+                "INPUT_DATE": "20150805",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학, 인문으로 탐구하다",
+                "PUBLISH_PREDATE": "20150903",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

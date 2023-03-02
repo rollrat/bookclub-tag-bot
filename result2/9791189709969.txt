@@ -1,0 +1,67 @@
+{
+    "otitle": "어메이징 디스커버리 2 부탄",
+    "oauthor": "김재훈 글그림/윌리엄 리 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어메이징 디스커버리 2: 부탄 (교양만화로 배우는 글로벌 인생 학교)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486532019",
+                "image": "https://shopping-phinf.pstatic.net/main_3248653/32486532019.20221019150952.jpg",
+                "author": "김재훈",
+                "discount": "12420",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20190227",
+                "isbn": "9791189709969",
+                "description": "확실한 행복의 나라로 초대합니다!\n\n새로운 세대에게 세상을 보는 시선이 넓고 깊은 사람으로 자라날 수 있는 글로벌 지식과 긍정의 가치관을 심어주는 『어메이징 디스커버리』 시리즈. 우리가 꿈꾸는 행복한 삶의 대안을 보여줄 나라를 여행하며 다양한 문화와 역사를 생생하게 만나볼 수 있다. 작가가 직접 여행을 떠나 현장을 취재했으며, 꼼꼼한 지식을 만화로 녹여 일상의 삶과 그 바탕을 이룬 역사, 문화, 종교, 언어, 지리 등을 쉽고 건강하게 익힐 수 있도록 했다.\n\n『어메이징 디스커버리』 2권은 국민 97%가 행복한 나라로 알려진 《부탄》 편이다. 히말라야산맥 한 자락의 잘 알려지지 않은 나라 부탄의 행복 비밀을 이 책에서 만날 수 있다. 부족함이 없을 정도로 큰 기업을 일궈낸 장 회장. 그러나 마음의 공허함을 끝없이 느끼고 손주에게 물려줘야 할 유산이 단순히 돈이 아니라는 것을 깨닫는다. 과연 채워진 삶이란 어떤 것일까? 장 회장은 프로젝트 팀을 모집해 다른 세계를 탐험하고 행복한 삶에 대해 가장 훌륭한 보고서를 써오는 팀에게 거액의 상금을 주겠다고 약속한다. \n\n장 회장이 선정한 나라로 탐험을 떠나는 주인공들은 각자 팀을 꾸려 최고의 보고서를 작성하기 위해 궁리한다. 첫 번째 덴마크에 이어 부탄으로 떠난 주인공들. 여행을 가기도 쉽지 않아서 듣도 보도 못한 히말라야 산자락의 작은 나라가 선정되어 의아해하는데, 부탄을 고른 배경에는 장 회장의 꿍꿍이가 숨어 있다. 찬찬히 부탄 사회를 둘러보던 주인공들은 인정하지 않을 수 없는 한 가지 결론에 도달하는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사) 위즈덤하우스미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20200623",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "저자 : 김재훈",
+                "SERIES_TITLE": "어메이징 디스커버리",
+                "KDC": "915",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7149242_6.txt",
+                "SET_ISBN": "9791189709976",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7149242_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "312",
+                "CONTROL_NO": "CIP2019004279",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189709969",
+                "INPUT_DATE": "20190208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "어메이징 디스커버리 2 부탄",
+                "PUBLISH_PREDATE": "20190227",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

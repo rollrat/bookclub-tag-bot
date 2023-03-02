@@ -1,0 +1,67 @@
+{
+    "otitle": "미국을 만든 50개 주 이야기",
+    "oauthor": "김동섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미국을 만든 50개 주 이야기 (이름에 숨겨진 매혹적인 역사를 읽다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32460978915",
+                "image": "https://shopping-phinf.pstatic.net/main_3246097/32460978915.20230131164750.jpg",
+                "author": "김동섭",
+                "discount": "13830",
+                "publisher": "미래의창",
+                "pubdate": "20210210",
+                "isbn": "9791197293467",
+                "description": "오늘날 우리가 아는 미국은 어떻게 만들어졌을까?\n미국 50개 주 이름으로 떠나는 흥미로운 역사 문화 기행!\n\nㆍ 미국에서 백인이 가장 많은 주는 어디일까?\nㆍ 최초의 식민지, 로아노크의 사람들은 어디로 사라졌을까?\nㆍ 캘리포니아는 스페인 소설에 등장하는 섬 이름이었다\nㆍ 멕시코는 어떻게 텍사스를 빼앗겼나?\nㆍ 미네소타, 미주리, 미시간… 왜 미국엔 ‘미’로 시작하는 지명이 많을까?\nㆍ 알래스카는 정말 쓸모없는 땅이었을까?\nㆍ 미국은 왜 굳이 하와이까지 영토에 편입했을까?\n \n이 책은 50개 주와 도시의 이름을 통해 미국 역사를 한눈에 펼쳐낸다. 지명 속에는 그 지방을 건설한 민족의 이야기와 역사가 녹아 있다. 종교의 자유를 찾아온 영국인, 캐나다에 정착한 프랑스인, 가장 먼저 식민지를 건설한 스페인인, 그리고 이 땅의 원래 주인이었던 원주민들까지. 과연 북미 대륙은 어떤 역사를 거쳐, 누구의 손에 들어갔을까? 이들이 어떻게 북미 대륙에 자신들만의 세계를 만들었는지는 그들이 남긴 이름을 보면 알 수 있다. 언어학자인 저자는 언어학, 인류학, 신화학을 넘나들며 다채로운 미국의 모습을 풀어낸다. 미국이 대서양에서 태평양까지 영토를 확장한 과정뿐만 아니라, 고향을 빼앗긴 원주민들의 애환과 각 주의 독특한 문화와 에피소드도 실려 있어 미국이라는 나라를 전방위로 이해할 수 있다. 50개 주 이야기를 여행하듯이 읽다보면, 어느새 미국의 역사가 머릿속에 통째로 들어와 있음을 발견하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미래의창",
+                "DDC": "",
+                "UPDATE_DATE": "20210226",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김동섭 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "303 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197293467",
+                "INPUT_DATE": "20210112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "미국을 만든 50개 주 이야기",
+                "PUBLISH_PREDATE": "20210210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

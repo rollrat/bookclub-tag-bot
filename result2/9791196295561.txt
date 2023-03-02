@@ -1,0 +1,67 @@
+{
+    "otitle": "경찰관속으로",
+    "oauthor": "원도 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "경찰관속으로 (언니에게 부치는 편지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490754935",
+                "image": "https://shopping-phinf.pstatic.net/main_3249075/32490754935.20230214162456.jpg",
+                "author": "원도",
+                "discount": "12600",
+                "publisher": "이후진프레스",
+                "pubdate": "20190927",
+                "isbn": "9791196295561",
+                "description": "늘 보아왔지만 깊게 알 수는 없었던 경찰관의 이야기!\n\n2019년 봄, 독립서점에서 입소문을 타고 독립출판물로만 5천부 이상 판매된, 현직 경찰관의 목소리가 생생하게 담긴 에세이 『경찰관속으로』. 경찰로 일하면서 수많은 사건을 겪었고 그 안에서 다양한 사람들을 만난 저자는 경찰관이기 이전에 한 인간으로서 상처 받은 이야기, 가슴에 묻어 둘 수 없었던 이야기들을 언니에게 쓰는 편지 형식으로 풀어 들려준다.\n\n경찰에 대한 사회적 편견을 없애줄 가장 인간적인 이야기이자, 경찰관으로서 수많은 사건들을 겪으며 결코 지나칠 수 없었던 사람들에 대한 이야기를 통해 저자는 과연 죄란 무엇이고 형벌은 무엇인지에 대해 묻는다. 경찰관으로 일하며 부딪힌 한계와 경찰 조직에 대한 비판도 서슴지 않는 이 책은 경찰관의 내밀한 이야기가 담겨 있기에 ‘경찰관 속으로’이기도 하지만, 경찰관이기 이전에 한 인간으로서의 고민과 상처 먹먹한 고백들은 ‘경찰 관 속으로’라고 들리기도 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이후진프레스",
+                "DDC": "",
+                "UPDATE_DATE": "20190819",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 원도",
+                "SERIES_TITLE": "",
+                "KDC": "816.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/15/9791196295561.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "120*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "208",
+                "CONTROL_NO": "CIP2019032087",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196295561",
+                "INPUT_DATE": "20190815",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "경찰관속으로",
+                "PUBLISH_PREDATE": "20190927",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

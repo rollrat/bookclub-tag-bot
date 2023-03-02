@@ -1,0 +1,23 @@
+{
+    "otitle": "이코노컨스트럭션",
+    "oauthor": "박선구,권주안 저/대한건설정책연구원 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이코노컨스트럭션 (한 권으로 끝내는 건설과 주택)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440991625",
+                "image": "https://shopping-phinf.pstatic.net/main_3244099/32440991625.20221019134652.jpg",
+                "author": "대한건설정책연구원(RICON)^권주안",
+                "discount": "18000",
+                "publisher": "매일경제신문사",
+                "pubdate": "20211125",
+                "isbn": "9791164843510",
+                "description": "경제 전문가가 쉽게 풀어주는\n건설과 주택시장의 어제와 오늘\n한국 경제의 큰 축, 건설업을 들여다보다!\n주택시장의 미래는 어떤 모습일까?"
+            }
+        ]
+    }
+}

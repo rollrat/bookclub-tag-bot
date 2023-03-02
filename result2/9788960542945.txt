@@ -1,0 +1,67 @@
+{
+    "otitle": "어쩌다 직업상담사",
+    "oauthor": "강미교 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어쩌다 직업상담사 (시험 준비부터 현장 실무까지 503일의 기록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464145268",
+                "image": "https://shopping-phinf.pstatic.net/main_3246414/32464145268.20221019135309.jpg",
+                "author": "강미교",
+                "discount": "16200",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20220328",
+                "isbn": "9788960542945",
+                "description": "* 직업상담사의, 직업상담사에 의한, 직업상담사를 위한 현실밀착 시크릿북!\n* 현직 직업상담사가 전하는 자격증 시험과 현장 실무 노하우!\n\n평생직장의 의미가 사라져 전 국민 자격증 시대가 되었다. 지금은 안정적이고 4차 산업혁명시대에도 살아남을, 취업에 유용한 자격증으로 사람들의 관심이 쏟아지고 있다. 이 책은 저자가 직업상담사로 일하며 직간접적으로 경험한 모든 이야기들을 담아냈다. 직업상담사란 어떤 직업인지, 그리고 전망에 대해 이야기한다. 게다가 직업상담사 자격증 취득 공부법부터, 내담자와 진정한 교감을 통해 책임의식을 가진 프로 직업상담사로 거듭날 수 있는 비결까지 여러 이야기들을 전하고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙경제평론사",
+                "DDC": "",
+                "UPDATE_DATE": "20220425",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "강미교 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/03/04/9788960542945.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "323 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960542945",
+                "INPUT_DATE": "20220304",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "어쩌다 직업상담사",
+                "PUBLISH_PREDATE": "20220328",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

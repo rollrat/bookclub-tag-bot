@@ -1,0 +1,67 @@
+{
+    "otitle": "가짜뉴스는 위험해",
+    "oauthor": "김창룡 글/석윤주 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가짜뉴스는 위험해 (슬기로운 어린이를 위한 미디어 리터러시 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456294881",
+                "image": "https://shopping-phinf.pstatic.net/main_3245629/32456294881.20221019135858.jpg",
+                "author": "김창룡",
+                "discount": "11700",
+                "publisher": "봄나무",
+                "pubdate": "20210324",
+                "isbn": "9791156131533",
+                "description": "국내 최고의 언론 전문가가 쓴\n어린이를 위한 미디어 리터러시 교양서\n\n스마트폰과 SNS, 컴퓨터와 TV 등 다양한 미디어에서 다양한 정보와 뉴스가 쏟아지고 있어요. 편리해진 인터넷 세상에서 국내 최고의 언론 전문가가 인터넷과 미디어의 올바른 사용 지혜를 한 권에 정리했습니다.\n진짜와 가짜의 경계 없이 쏟아지는 정보와 뉴스의 홍수에서 국내 최고의 언론 전문가 김창룡 교수님이 어린이들을 위해 미디어 리터러시 교양서를 집필해 주셨어요. 오랜 현장 특파원과 기자 생활, 언론 재단 위원 경험을 통해 쌓아 온 생생한 지혜와 정보를 보는 통찰력. 이 모두를 모아 어린이들 눈높이에 맞추어 꼭 필요한 미디어 리터러시 교양서로 꾸몄답니다.\n\n《가짜뉴스는 위험해》는 모두 4장으로 꾸며져 있습니다. 1장에서는 수많은 거짓 정보는 어떤 종류가 있는지 다섯 가지로 소개하고 있어요. 유형별 다양한 정보를 통해 거짓 정보를 바라보는 눈을 기를 수 있도록 구성했습니다. 2장에서는 이런 거짓 정보들이 언제부터 어떻게 이어져 내려왔는지 역사의 흐름을 살펴보도록 꾸몄어요. 누가 왜 만들어 퍼트리는지도 소개한답니다. 3장에서는 이런 거짓 정보를 아울러 이르는 ‘가짜뉴스’란 정확히 무엇인지 소개해요. 그리고 가짜뉴스가 왜 위험한지 핵심을 정리했어요. 4장에서는 이런 가짜뉴스를 어떻게 대해야 진실에 다가갈 수 있는지 비판적 사고력을 기르는 법과 지혜로운 대응법을 담았습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "봄나무",
+                "DDC": "",
+                "UPDATE_DATE": "20210629",
+                "EA_ADD_CODE": "73070",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김창룡 글 ;석윤주 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/04/9791156131533.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "173*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "152 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156131533",
+                "INPUT_DATE": "20210304",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "가짜 뉴스는 위험해",
+                "PUBLISH_PREDATE": "20210324",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

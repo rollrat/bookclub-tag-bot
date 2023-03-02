@@ -1,0 +1,67 @@
+{
+    "otitle": "돈을 좋아하는 사람 돈이 좋아하는 사람",
+    "oauthor": "사쿠라가와 신이치 저/하진수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "돈을 좋아하는 사람 돈이 좋아하는 사람 (30억 빚을 30억 자산으로 만든 저자의 부자가 되는 습관 30)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497221631",
+                "image": "https://shopping-phinf.pstatic.net/main_3249722/32497221631.20221227204928.jpg",
+                "author": "사쿠라가와 신이치",
+                "discount": "11700",
+                "publisher": "경원북스",
+                "pubdate": "20190304",
+                "isbn": "9791196372798",
+                "description": "생활습관을 개선해 부자의 길을 걷는 방법!\n\n부자와 가난한 사람의 작지만 확실히 다른 40가지 습관을 담은 『돈을 좋아하는 사람 돈이 좋아하는 사람』. 열심히 노력해도 가난에서 탈피하지 못하고 있는 사람을 위해 가난을 탈피하고 부자가 되는 요령과 구체적인 방법을 정리한 책이다. 저자는 가난한 사람과 부자의 일상생활에서의 사고방식 및 행동에 소소한 차이가 있는데, 그 소소한 차이에 변화를 주면 부자가 되는 첫발을 내디딜 수 있다고 강조하며 40항목으로 가난한 사람과 부자를 비교해 돈을 좋아하는 사람이 아니라 돈이 좋아하는 사람이 될 수 있도록 이끌어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "경원북스",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20190311",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "사쿠라가와 신이치 지음 ;하진수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7149190_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/05/9791196372798.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7149190_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7149190_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "CIP2019004196",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196372798",
+                "INPUT_DATE": "20190207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "돈을 좋아하는 사람 돈이 좋아하는 사람",
+                "PUBLISH_PREDATE": "20190304",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

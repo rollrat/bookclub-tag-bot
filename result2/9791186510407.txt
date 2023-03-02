@@ -1,0 +1,67 @@
+{
+    "otitle": "칸트, 근세 철학을 완성하다",
+    "oauthor": "강성률 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "칸트, 근세 철학을 완성하다 (비판철학의 선구자 칸트, 인간의 도덕법칙을 살려내다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467098620",
+                "image": "https://shopping-phinf.pstatic.net/main_3246709/32467098620.20221019120120.jpg",
+                "author": "강성률",
+                "discount": "12420",
+                "publisher": "글라이더",
+                "pubdate": "20170325",
+                "isbn": "9791186510407",
+                "description": "『칸트, 근세 철학을 완성하다』는 칸트의 생애와 그의 사상, 철학은 물론 그의 대표작 《순수이성비판》에 대해서 청소년들이 이해하기 쉽게 풀어내고 있다. 이 책을 통해 그동안 비판철학의 창시자, 시계바늘처럼 정확한 생활 습관의 소유자로만 알고 있었던 철학자 칸트의 진면목을 샅샅이 알게 되고, 칸트가 강조하는 도덕률을 통해 청소년들에게 도덕적 양심의 도덕법칙을 살려낼 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "글라이더",
+                "DDC": "",
+                "UPDATE_DATE": "20170414",
+                "EA_ADD_CODE": "44160",
+                "PUBLISHER_URL": "gliderbooks@hanmail.net",
+                "AUTHOR": "강성률",
+                "SERIES_TITLE": "",
+                "KDC": "165",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6156564_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6156564_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6156564_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판 변형",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "256",
+                "CONTROL_NO": "CIP2017005965",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186510407",
+                "INPUT_DATE": "20170305",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "칸트, 근세 철학을 완성하다",
+                "PUBLISH_PREDATE": "20170325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

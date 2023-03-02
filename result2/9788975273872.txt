@@ -1,0 +1,78 @@
+{
+    "otitle": "책 - 사람이 읽어야 할 모든 것",
+    "oauthor": "크리스티아네 취른트 저/조우호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:29 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "책 (사람이 읽어야 할 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506871662",
+                "image": "https://shopping-phinf.pstatic.net/main_3250687/32506871662.20220527033311.jpg",
+                "author": "크리스티아네 취른트",
+                "discount": "0",
+                "publisher": "들녘",
+                "pubdate": "20031020",
+                "isbn": "9788975273872",
+                "description": "지식 범람의 시대, 꼭 읽어야 할 책 100選!\n\n『책 : 사람이 읽어야 할 모든 것』. 인류의 문화지식을 풍성하게 해 주었던 100여 권의 책이 소개되어 있다. 독자들에게 꾸준히 사랑을 받아온 스테디셀러 의 시리즈 중 하나로, 교양ㆍ역사ㆍ예술과 같이 우리가 평생 동안 꼭 읽어야 할 책에 대해 알려준다. \n\n편에서는 고전을 소개하면서 지금 우리시대가 요구하는 지식의 새로운 가능성을 제시한다. 세계에서부터 사랑, 경제, 여성, 소설, 아동도서까지 다양한 서적들을 소개한다. 특히 고전에 대한 새로운 해석과 문화적 시각, 읽는다는 행위에 대한 설명 등 쉽제 않은 테마들을 자연스럽게 전달한다.\n\n정치나 경제, 사회학과 같은 사회과학 서적들도 추상적이고 도식적으로 설명하지 않는다. 일상 속에서 그 의미를 분명하게 알아챌 수 있도록 가이드해 주며, 다양한 책들 속에서 우리의 공감을 불러낸다. 지식이 범람하고 있는 지금, 진정한 지식 문화에 대한 나침반을 제시해 주는 책이다. [양장본]"
+            },
+            {
+                "title": "사람이 알아야 할 모든 것 : 과학",
+                "link": "https://search.shopping.naver.com/book/catalog/32441620235",
+                "image": "https://shopping-phinf.pstatic.net/main_3244162/32441620235.20220518182922.jpg",
+                "author": "존 그리빈",
+                "discount": "0",
+                "publisher": "들녘",
+                "pubdate": "20041120",
+                "isbn": "9788975274527",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20070208",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "크리스티아네 취른트 지음;조우호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8975273873",
+                "INPUT_DATE": "20050404",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "책",
+                "PUBLISH_PREDATE": "20050615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "여전히 사랑이라고 너에게 말할 거야",
+    "oauthor": "밥티스트 볼리유 등저/자크 콕 그림/김수진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여전히 사랑이라고 너에게 말할 거야 (전 세계 젊은 작가 200명이 다시 사랑을 말하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32453128768",
+                "image": "https://shopping-phinf.pstatic.net/main_3245312/32453128768.20221228074806.jpg",
+                "author": "밥티스트 볼리유",
+                "discount": "13500",
+                "publisher": "더숲",
+                "pubdate": "20190923",
+                "isbn": "9791186900970",
+                "description": "단 하나의 의미로 함축되지 않는 사랑!\n\n시대를 불문하고 우리 곁에 함께해온 보편적인 질문, 사랑에 관한 정의를 다시 묻는 『여전히 사랑이라고 너에게 말할 거야』. 프랑스, 영국, 뉴질랜드, 미국, 러시아 등 우리 시대 전 세계 200명의 젊은 작가들의 목소리를 모아 각기 다른 사랑의 정의를 담아낸 책이다. 프랑스의 유명 일러스트레이터 자크 콕이 200개의 사랑의 정의를 200개의 사랑스러운 일러스트로 표현했다.\n\n이 책에서 비춰지는 사랑은 모두 다른 장면을 보여주지만, 누구나 한 번쯤 경험해봤을 법한 장면들이다. 때로는 달콤하고, 슬프고, 장난스럽고, 신랄하고, 잔인하기까지 한 200개의 사랑의 정의는 200개의 다양한 사랑의 형태와 표현을 담아낸다. 공감과 감탄, 깨달음으로 다가오는 각각의 사랑의 정의는 한 편의 시처럼 읽히고, 일상에서 마주할 법한 이야기들로 단숨에 우리를 사랑의 세계로 빠져들게 한다. \n\n저자들은 침대에서, 지하철에서, 카페에서, 아무 곳에서나 이 책의 아무 페이지를 펼쳐 읽어보기를 권한다. 200개의 사랑의 이야기는 우리에게 질문을 던지는 동시에 기억을 더듬고, 치유하고, 그 의미를 되새기게 하며 잊고 있던 사랑이 행복했던, 기뻤던, 짜증났던, 화났던 그 모든 순간에 늘 우리와 함께였다는 것을 깨닫게 한다. 어떤 형상을 하고 있든 어떤 옷을 걸치고 있든 여전히, 그리고 언제까지나 본질은 사랑임을 일깨워준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더숲",
+                "DDC": "",
+                "UPDATE_DATE": "20191007",
+                "EA_ADD_CODE": "02860",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "밥티스트,볼리유 외 글 ;자크 콕 그림 ;김수진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.71",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/07/29/9791186900970.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "418 p.",
+                "CONTROL_NO": "CIP2019029530",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186900970",
+                "INPUT_DATE": "20190729",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여전히 사랑이라고 너에게 말할 거야",
+                "PUBLISH_PREDATE": "20190923",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

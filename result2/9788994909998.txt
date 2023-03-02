@@ -1,0 +1,67 @@
+{
+    "otitle": "색채의 연상",
+    "oauthor": "조영수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "색채의 연상 (언어와 문화가 이끄는 색채의 상징)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466011668",
+                "image": "https://shopping-phinf.pstatic.net/main_3246601/32466011668.20221230073321.jpg",
+                "author": "조영수",
+                "discount": "15300",
+                "publisher": "가디언",
+                "pubdate": "20170616",
+                "isbn": "9788994909998",
+                "description": "색채는 나라마다 특정의미를 가질 수 있을까,\n아니면 보편적인 의미를 갖고 있을까? \n\n저자 조영수 교수는 1970년대 초 미국 대학원에 재학하던 당시, 베르톨트 브레히트(Bertolt Brecht)의 시에 쓰인 동사가(Valenz)를 분석하는 수업에서 깜짝 놀라는 경험을 한다. 담당 교수가 시에서 표현된 ‘회색’의 의미를 묻고 학생들이 대답하던 순간이었다. 최인훈의 소설 《광장》에 나타난 바 있는 회색에 대한 한국인의 일률적인 감각, 즉 ‘애매한’, ‘회색분자’, ‘이러지도 저러지도 못하는’ 등과 같은 답은 한 명도 없었던 것이다. \n\n그 대신 동료 대학원생들은 ‘세련된’, ‘우울한’, ‘도회적인’ 등으로 회색을 표현했다. 색채를 명확하게 느낀다고 여겼던 저자에게는 문화적인 충격이었다. 음악을 감상하며 느끼는 감동이 나라마다 비슷하듯, 색채에 대한 학생들의 느낌도 별반 다르지 않을 것이라는 막연한 생각은 그렇게 깨졌다고 저자는 고백한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가디언",
+                "DDC": "752",
+                "UPDATE_DATE": "20170627",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "www.sirubooks.com",
+                "AUTHOR": "조영수",
+                "SERIES_TITLE": "",
+                "KDC": "651",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6227167_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6227167_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 240페이지 내외",
+                "CONTROL_NO": "CIP2017012028",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994909998",
+                "INPUT_DATE": "20170519",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "색채의 연상",
+                "PUBLISH_PREDATE": "20170622",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

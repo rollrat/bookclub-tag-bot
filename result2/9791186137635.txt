@@ -1,0 +1,67 @@
+{
+    "otitle": "회계사 최병철의 개미마인드",
+    "oauthor": "최병철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "회계사 최병철의 개미마인드 (재무제표로 주식투자하라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458978106",
+                "image": "https://shopping-phinf.pstatic.net/main_3245897/32458978106.20221227203930.jpg",
+                "author": "최병철",
+                "discount": "17820",
+                "publisher": "베가북스",
+                "pubdate": "20180305",
+                "isbn": "9791186137635",
+                "description": "500만 개미투자자를 위한 주식투자 수익률 증대 프로젝트\n\n투기가 아닌 투자를 위해 반드시 필요한 지식! ‘개미’들의 주식투자는 재무제표 읽기부터!!\n여의도 증권사 TOP 강사 최병철 회계사가 펼치는 500만 개미투자자를 위한 주식투자 수익률 증대 프로젝트! \n\n초보자도 성공하는 비결은 재무제표/ 공시/ 사업보고서 읽기다.\n생생한 30여 케이스 스터디를 통한 주식투자 실전 전략 공개.\n \n주식시장에서 흔히 “개미”로 불리는 개인투자자들은 본업을 따로 두고 있으면서 이런저런 이유로 주식투자에 뛰어들어 어떻게든 자산을 불려보려고 안간힘을 쓰는 이들을 가리킨다. 이들에겐 전문투자자나 외국인-기관투자자 등에 비해 투자에 쏟을 시간도 현저히 부족하고, 무엇보다 상장기업들에 관한 유의미한 정보가 절대적으로 부족하다. 정보 입수 또한 너무 늦다. 그러다 보니 상승할 종목이 시작되기 직전에 손해를 감수하면서 보유주식을 팔아치운다든가, 하락할 종목이 닥치기까지 멍하니 주식을 들고 있다가 한창 폭락이 이루어지는데도 아까워서 못 팔고 벌벌 떨다가 투자금의 대부분을 날리기도 한다.   \n\n그렇다면, 정말 이런 개미들은 주식투자로 돈을 벌지 못할 운명인가?\n절대 그렇지 않다. \n\n주식투자에 성공하는 ‘개미’는 왜 극소수일까? 이 책이 중점적으로 던지는 질문이다. 개미들의 보편적인 투자마인드를 살펴보고 꾸준한 수익 달성을 위한 ‘개미마인드 극복’ 비법을 공개하고 실제로 주식시장에서 재무제표를 활용해 꾸준히 높은 수익률을 달성한 투자전략을 살펴본다. 그리고 나에게 적합한 ‘개미마인드’ 탈출 전략을 확립할 수 있도록 한다. 재무제표와 공시가 주는 신호와 정보는 포트폴리오의 수익률을 더욱 높여줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "베가북스",
+                "DDC": "332.6322",
+                "UPDATE_DATE": "20190702",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "www.vegabooks.co.kr",
+                "AUTHOR": "최병철 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6563007_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6563007_3.jpg",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6563007_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "335 p.",
+                "CONTROL_NO": "CIP2018005832",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186137635",
+                "INPUT_DATE": "20180213",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(회계사 최병철의) 개미마인드",
+                "PUBLISH_PREDATE": "20180305",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

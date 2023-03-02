@@ -1,0 +1,67 @@
+{
+    "otitle": "아마존 뱅크가 온다",
+    "oauthor": "다나카 미치아키 저/류두진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아마존 뱅크가 온다 (2025 미래 금융 시나리오)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443839543",
+                "image": "https://shopping-phinf.pstatic.net/main_3244383/32443839543.20221019124907.jpg",
+                "author": "다나카 미치아키",
+                "discount": "17820",
+                "publisher": "21세기북스",
+                "pubdate": "20200211",
+                "isbn": "9788950986049",
+                "description": "기존 질서를 뒤엎는 금융 디스럽터(Disruptor)들이 온다!\n아마존, 알리바바, 라인-야후재팬…\n타이탄 기업들이 그리는 차세대 금융 시나리오와 핀테크의 미래\n\n아마존페이·아마존캐시·아마존렌딩... 고객 제일주의와 스피드를 무기로 금융업까지 진출하려는 아마존. 제프 베조스가 은행을 만들면 무엇이 달라질까? 이 책은 아마존이 선도하고, 알리바바와 텐센트, 라인-야후재팬 등이 주도하는 ‘테크놀로지 기업 vs 기존 금융기관’의 전쟁을 파헤친다. 중국을 세계 핀테크 대국으로 만든 알리바바와 텐센트의 전략은 무엇인가? 싱가포르 DBS 은행이 세계 최고의 디지털 은행으로 거듭난 비결은 무엇인가? 이에 맞서는 골드만삭스와 JP모건의 역습 전략은? 시대가 바뀌고 가치관이 변화면 금융도 달라져야 한다. ‘새로운 금융의 가치를 어디서 찾을 것인가?’ 저자는 이러한 질문을 따라 ‘2025년 차세대 금융 시나리오’를 새롭게 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200309",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "다나카 미치아키 지음 ;류두진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "395 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950986049",
+                "INPUT_DATE": "20200212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "아마존 뱅크가 온다",
+                "PUBLISH_PREDATE": "20200212",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

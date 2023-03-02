@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 리액트 네이티브 앱 프로그래밍",
+    "oauthor": "전예홍 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 리액트 네이티브 앱 프로그래밍 (타입스크립트와 훅으로 나만의 인스타그램 앱 만들기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463968656",
+                "image": "https://shopping-phinf.pstatic.net/main_3246396/32463968656.20230131164757.jpg",
+                "author": "전예홍",
+                "discount": "22500",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20210509",
+                "isbn": "9791163032427",
+                "description": "모바일 앱 제작 방식이 바뀐다! \n페이스북이 권장하는 방식 그대로 안드로이드와 iOS 앱을 한 번에 만들자!\n\n이 책은 크로스플랫폼 방식의 모바일 앱 개발 프레임워크인 리액트 네이티브를 다룬다. 리액트 네이티브로 개발한 앱을 플랫폼별 코드로 빌드하면 안드로이드와 iOS 앱을 한 번에 만들 수 있어 시간과 비용을 아낄 수 있다. 특별히 이 책은 리액트 진영의 최신 개발 트렌드인 타입스크립트와 함수 컴포넌트를 이용해 모바일 앱을 개발하며, 앱의 여러 가지 기능은 페이스북이 권장하는 리액트 훅 방식으로 작성한다. 그리고 모든 실습을 마치면 역동적인 애니메이션 기능까지 구현된 나만의 인스타그램 앱을 실제 스마트폰에서 동작해 볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20210628",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "전예홍 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "42000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "852 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163032427",
+                "INPUT_DATE": "20210408",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(Do it!) 리액트 네이티브 앱 프로그래밍",
+                "PUBLISH_PREDATE": "20210506",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "제5의 기원",
+    "oauthor": "로버트 L. 켈리 저/이재경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "제5의 기원 (600만 년 인류의 역사가 알려주는 우리의 미래)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485079109",
+                "image": "https://shopping-phinf.pstatic.net/main_3248507/32485079109.20221227203634.jpg",
+                "author": "로버트 L. 켈리",
+                "discount": "13500",
+                "publisher": "반니",
+                "pubdate": "20191205",
+                "isbn": "9791190467018",
+                "description": "고고학자의 눈으로 바라본 인류의 미래!\n기술, 문화, 농경, 국가조직의 기원을 거쳐 제5의 기원이 시작된다\n\n나는 과거에 인류가 달라진 이유를 알면 미래가 현재와 달라질 이유도 알 수 있다고 믿는다. 나는 기술부터 정치와 국제질서, 심지어 인류의 성격 자체까지 모든 것이 가까운 장래에 근본적으로 변할 것으로 기대한다. 사실상 선사시대 연구가 나를 이런 결론으로 이끌었다. 여러분은 이렇게 반박할 거다. “모든 것이 변할 거라는 말은 맞아요. 우리 모두 지옥으로 곤두박질치고 있으니까요!” 지옥행 급행열차 가능성을 완전히 배제할 수는 없다. 하지만 적어도 인류 진화의 600만 년에서 도출되는 교훈은 그렇지 않다. 오늘날 인류는 또 다른 임계점, 제5의 기원에 이르렀다!\n\n이 책에서는 인류가 지난 600만 년 동안 이 같은 임계점을 네 번 거쳤음을 논고한다. 나는 이 임계점들을 기원 beginning으로 부른다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "20200417",
+                "EA_ADD_CODE": "93900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "로버트 L. 켈리 지음 ;이재경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "909",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "278 p.",
+                "CONTROL_NO": "CIP2019046018",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190467018",
+                "INPUT_DATE": "20191112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "제5의 기원",
+                "PUBLISH_PREDATE": "20191205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

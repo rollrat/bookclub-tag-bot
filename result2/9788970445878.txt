@@ -1,0 +1,78 @@
+{
+    "otitle": "위상공간으로 가는 길",
+    "oauthor": "혼마 다쓰오 저/임승원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:55 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "위상공간으로 가는 길 (직관적 토폴로지의 세계)",
+                "link": "https://search.shopping.naver.com/book/catalog/38225809622",
+                "image": "https://shopping-phinf.pstatic.net/main_3822580/38225809622.20230225071020.jpg",
+                "author": "혼마 다쓰오",
+                "discount": "16200",
+                "publisher": "전파과학사",
+                "pubdate": "20230221",
+                "isbn": "9788970445878",
+                "description": "토폴로지적 사고방식을 탐구하다. 유클리드 이래 기하의 전통을 지키는 것은 토폴로지(위상기하)다. 학문으로서의 체계를 갖춘 것은 20세기부터니까 토폴로지의 역사는 아직 짧다. 그러나 토폴로지적인 사고방식은 옛날부터 있었고, 사람들은 일상생활 속에서 무의식중에 이 토폴로지적 사고방식을 가까이하고 있다. 사회의 표면에 직접 드러나는 일은 적지만 인간의 사상을 항상 윤택하게 해왔다. \n\n\n\n고전적인 기하가 대수학이나 해석학 속으로 차츰 매몰되고 있을 때 수량이나 수식으로 완전히 표현할 수 없는 더 질적이고 더 근원적인 도형의 성질을 밝히려고 등장한 것이 토폴로지다. 이미 집합론과 함께 현대수학의 중요한 기초가 되었다. 또 토폴로지는 해석학이나 대수학과 결합하여 수학의 발전에 커다란 역할을 수행하고 있다. 이 책은 즐기면서 직관적으로 토폴로지의 사고방식을 흡수하는 것을 목표로 한다."
+            },
+            {
+                "title": "위상공간으로 가는 길 (직관적 토폴러지의 세계)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481485821",
+                "image": "https://shopping-phinf.pstatic.net/main_3248148/32481485821.20221230072640.jpg",
+                "author": "혼마 다쓰오",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "19950501",
+                "isbn": "9788970445601",
+                "description": "이 책은 토플러지의 개념과 역사를 실었다. 토폴러지를 시각적으로 파악하는 것을 목표로 삼고 가급적 그림을 많이 넣어 이해하는 데에 약간의 도움이 되도록 하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "저자 : 혼마 다쓰오;역자 : 임승원;",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "229",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970445878",
+                "INPUT_DATE": "20230201",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "위상공간으로 가는 길",
+                "PUBLISH_PREDATE": "20230221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

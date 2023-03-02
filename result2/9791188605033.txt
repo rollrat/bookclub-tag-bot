@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 잡지",
+    "oauthor": "황효진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 잡지 (좀 더 제대로 살고 싶습니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486524103",
+                "image": "https://shopping-phinf.pstatic.net/main_3248652/32486524103.20221019142741.jpg",
+                "author": "황효진",
+                "discount": "8910",
+                "publisher": "코난북스",
+                "pubdate": "20171212",
+                "isbn": "9791188605033",
+                "description": "‘생각만 해도 좋은, 설레는, 피난처가 되는, 당신에게는 그런 한 가지가 있나요?’ \n아무튼 문고의 여섯 번째 책이다. \n이 책은 만화 잡지부터 아이돌 잡지까지 90년대 수많은 잡지를 보며 유소년 시절을 보낸 여성의 성장기이자, 온라인매거진에서 기자로 일하며 갖춰가게 된 삶의 태도에 관한, 또 하나의 성장 스토리를 담은 에세이다. 지금 여기를 살아가는 삶의 진솔한 이야기와 함께 잡지가 보여주는 화려함 혹은 느긋함, 더 나은 삶의 가능성을 보여주면서 잡지를 애호한다는 것의 재미를 전달한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "코난북스",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20171228",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 황효진",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6454551_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6454551_3.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "148 p.",
+                "CONTROL_NO": "CIP2017032239",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188605033",
+                "INPUT_DATE": "20171113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 잡지",
+                "PUBLISH_PREDATE": "20171212",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "하루 3분 골프 레슨",
+    "oauthor": "이종달 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:41 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "하루 3분 골프 레슨 (셀프 스윙 골프 꿀팁 50)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506176793",
+                "image": "https://shopping-phinf.pstatic.net/main_3250617/32506176793.20220527023204.jpg",
+                "author": "이종달",
+                "discount": "8100",
+                "publisher": "아이디어스토리지",
+                "pubdate": "20161118",
+                "isbn": "9791195929702",
+                "description": "‘굿 샷’을 부르는 스윙의 기술\n\n『하루 3분 골프 레슨』은 골프가 더욱 즐거워 질 수 있도록 필수적인 스윙의 기술 50선이 친근한 일러스트와 함께 구성된 책이다. 이 책에 소개된 50개의 팁은 아마추어골퍼, 주말골퍼 등 매일 연습장이나 필드에 나가기 어렵지만, 스윙 감각을 유지하고 싶은 골프 애호가들에게 실질적인 도움이 된다. 특히 군더더기 없이 핵심만 전달하는 칼럼 형식의 내용은 읽기도 편하고 이해도 쉬운 게 특징이다."
+            },
+            {
+                "title": "한 뼘 골프 (하루 3분 골프 레슨·스윙 꿀팁 50)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436360708",
+                "image": "https://shopping-phinf.pstatic.net/main_3243636/32436360708.20221019125131.jpg",
+                "author": "이종달",
+                "discount": "10350",
+                "publisher": "아이디어스토리지",
+                "pubdate": "20211015",
+                "isbn": "9791197430916",
+                "description": "언제 어디서든 ‘골프’가 생각날 때 읽어보고 따라하면 ‘한 뼘’ 골프 실력이 늘어나는데 도움이 될 수 있는 책으로 필수적인 골프 스윙 팁 50선이 친근한 일러스트와 함께 구성돼 있다. \n이 책에 소개된 50개의 팁은 아마추어골퍼, 주말골퍼 등 매일 연습장이나 필드에 나가기 어렵지만, 스윙 감각을 유지하고 싶은 골프 애호가들에게 유용하다. 특히 군더더기 없이 핵심만 전달하는 칼럼 형식의 내용은 읽기도 편하고 이해도 쉬운 게 특징이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아이디어 스토리지",
+                "DDC": "796.352",
+                "UPDATE_DATE": "20161118",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이종달",
+                "SERIES_TITLE": "",
+                "KDC": "695.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5855755_3.jpg",
+                "PRE_PRICE": "9000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5855755_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "176",
+                "CONTROL_NO": "CIP2016025861",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791195929702",
+                "INPUT_DATE": "20161026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "하루 3분 골프 레슨",
+                "PUBLISH_PREDATE": "20161118",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

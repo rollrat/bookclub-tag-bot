@@ -1,0 +1,67 @@
+{
+    "otitle": "2주에 한 사이즈 줄이기",
+    "oauthor": "이현아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "2주에 한 사이즈 줄이기 (신체 나이 20대, 50대 몸짱 이현아의 핫 바디 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494106222",
+                "image": "https://shopping-phinf.pstatic.net/main_3249410/32494106222.20221228075129.jpg",
+                "author": "이현아",
+                "discount": "13320",
+                "publisher": "비타북스",
+                "pubdate": "20150330",
+                "isbn": "9791185020754",
+                "description": "중요한 건 체중보다 ‘사이즈’다. 우리가 궁극적으로 해야 할 일은 단순히 체중 몇 kg 감량이 아니다. 체중보다는 체지방을 빼야 하고, 근육을 키워 살이 잘 찌지 않는 몸을 만드는 것이다. 마르기만 한 46kg의 몸이 아니라 건강하고 탄력 넘치는 ‘55사이즈’ 몸매를 갖는 것이다. 이것에는 ‘근육 운동’이 답이다. \n하지만 혼자서 하기 힘든 것이 근육 운동이다. 개인 트레이너와 함께하지 않으면 여성들이 피트니스센터에서 쉽게 도전하기가 어렵다. 그래서 그녀는 집에서도 혼자 할 수 있는 운동 프로그램을 만들었다. 이 책에 소개된 모든 식단과 운동은 그녀가 오랜 시간 직접 실행하며 효과를 얻은 것들로, 그대로 따라오기만 한다면 누구나 ‘2주에 한 사이즈 줄이기’가 가능해진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "613.71",
+                "UPDATE_DATE": "20150515",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "이현아",
+                "SERIES_TITLE": "",
+                "KDC": "593.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4460067_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4460067_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015008642",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185020754",
+                "INPUT_DATE": "20150317",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "2주에 한 사이즈 줄이기",
+                "PUBLISH_PREDATE": "20150330",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

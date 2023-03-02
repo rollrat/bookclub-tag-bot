@@ -1,0 +1,67 @@
+{
+    "otitle": "마스터리 태도",
+    "oauthor": "브래드 스털버그,스티브 매그네스 저/신솔잎 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마스터리 태도 (내 안의 숨겨진 가능성을 찾아 위대한 변화를 만드는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490810883",
+                "image": "https://shopping-phinf.pstatic.net/main_3249081/32490810883.20221229071051.jpg",
+                "author": "브래드 스털버그^스티브 매그네스",
+                "discount": "14400",
+                "publisher": "플로우",
+                "pubdate": "20210420",
+                "isbn": "9791191228496",
+                "description": "최고의 경영 컨설턴트와 스포츠 멘탈리스트가 발견한\n끝까지 해내는 사람들의 비밀\n\n최근 사이드잡을 고민하는 직장인들 사이에서 가장 선호하는 사이드잡 1순위가 유튜버라고 해도 과언이 아니다. 자신의 하루를 보여주는 브이로그부터 드로잉, 경제, 연애 등 전문 콘텐츠까지 다양하다. 누구나 할 수 있기에 쉽게 인기 유튜버가 될 수 있을 거라 생각하지만, 이익을 창출할 때까지 지속하는 사람들은 많지 않다. 초반에는 열정을 다해 콘텐츠를 만들지만, 구독자와 조회수가 늘지 않는 어느 순간부터 해이해진다. 성공한 유튜버들에게 성공 비결을 물으면, 그들은 모두 꾸준하게 영상 올리기라고 답한다.\n처음 시작할 때의 열정이 끝까지 유지되는 일은 드물다. 많은 이들이 무언가를 해내고 싶어 하는 욕심과 열정, 꼼꼼한 계획도 갖추었지만 꾸준한 실행력이 부족하다. 이 책은 작심삼일의 삶을 끊어내고, 무언가를 꾸준히 해내고자 하는 이들에게 실질적이고 구체적인 답을 준다. 스스로를 소진시키는 열정이 아닌, 재밌고 안정된 열정을 찾아내는 방법과 지치지 않고 오랜 시간 그 힘을 유지하고 통제하는 법을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "플로우 :빌리버튼",
+                "DDC": "",
+                "UPDATE_DATE": "20210510",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "브래드 스털버그,스티브 매그네스 지음 ;신솔잎 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/11/9791191228496.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791191228496",
+                "INPUT_DATE": "20210311",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "마스터리 태도",
+                "PUBLISH_PREDATE": "20210420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

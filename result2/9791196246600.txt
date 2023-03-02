@@ -1,0 +1,67 @@
+{
+    "otitle": "마음스파",
+    "oauthor": "김수영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마음스파 (있는 그대로 나를 사랑하게 되는 그 곳)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487161504",
+                "image": "https://shopping-phinf.pstatic.net/main_3248716/32487161504.20221019132332.jpg",
+                "author": "김수영",
+                "discount": "12420",
+                "publisher": "꿈꾸는지구",
+                "pubdate": "20171230",
+                "isbn": "9791196246600",
+                "description": "미처 모르고 살아왔을 뿐, 행복해지기 위해 필요한 모든 것은 내 안에 있다!\n\n《멈추지마 다시 꿈부터 써봐》를 통해 버킷리스트 열풍을 일으켰던 김수영이 찾아낸 행복의 비밀 『마음스파』. 가난, 가정불화, 암, 실패 등 숱한 시련을 겪으며 오랜 시간 ‘왜 나만 이렇게 힘들까’라는 생각에 사로잡혀 있던 저자는 번아웃증후군과 경미한 공황장애까지 겪으며 도망치듯 여행을 떠났고, 우연한 계기로 페루에서 영혼의 씻김굿을 받으며 자신의 상처를 들여다보기 시작했다.\n\n정신분석 상담을 받고 운명학과 뇌과학, 양자역학까지 공부하고 금강경 독송 등 다각도로 마음공부를 한 저자는 자신의 수많은 괴로움이 사실은 머릿속에서 만들어낸 허상임을 깨닫게 됐다. 책에서 저자는 ‘마음감옥’을 허물어뜨리고 마침내 자신을 존재 자체로 따스하게 품어주는 ‘마음스파’를 찾기까지 겪었던 마음여행의 수많은 에피소드들을 솔직하게 풀어내고, 그 과정에서 얻은 깨달음과 지금 당장 행복해질 수 있는 실질적인 방법을 제안한다.\n\n어떻게 살아야할지 막막한 이들을 위한 ‘내 인생의 주인 되기’ 방, 마음의 상처와 트라우마로 인해 자신 또는 타인과의 관계 맺기가 쉽지 않은 이들을 위한 ‘내 마음의 주인 되기’ 방, 인생이 내 뜻대로 풀리지 않는 이들을 위한 ‘내 운명의 주인 되기’ 방, 나아가 ‘지금 이 순간의 주인 되기’ 방에서는 나를 귀하게 여기고 인생에 나를 내맡기면 대자유인이 될 수 있다고 말한다. 이렇게 4개의 방을 거치는 동안 해묵은 감정과 생각들을 벗어내고 맑아진 마음을 되찾고 자신의 삶을 수용하며 존재 자체로 충만한 나로 거듭날 수 있도록 이끌어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈꾸는지구",
+                "DDC": "158",
+                "UPDATE_DATE": "20180110",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.dreampanorama.com",
+                "AUTHOR": "김수영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6479212_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6479212_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6479212_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6479212_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "CIP2017034343",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196246600",
+                "INPUT_DATE": "20171215",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "마음스파",
+                "PUBLISH_PREDATE": "20171230",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

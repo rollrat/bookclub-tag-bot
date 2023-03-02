@@ -1,0 +1,67 @@
+{
+    "otitle": "나에게 맞는 미니멀라이프",
+    "oauthor": "아키 저/허영은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나에게 맞는 미니멀 라이프 (비움에 서툰 당신을 위한 생활의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436333750",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436333750.20220530153350.jpg",
+                "author": "아키",
+                "discount": "12420",
+                "publisher": "웅진리빙하우스",
+                "pubdate": "20180105",
+                "isbn": "9788901220765",
+                "description": "『나에게 맞는 미니멀 라이프』는 융통성 있는 미니멀 라이프를 지향하는 사람들을 위한 안내서다. ‘제대로 해야지’라는 생각에 오히려 시작도 하지 못하는 사람들을 위한 합리적인 미니멀 라이프 노하우가 집약되어 있다. 이 책에서 미니멀 라이프를 처음 시도하는 사람이든 여러 번의 ‘요요’를 겪으며 실패해본 사람이든, 누구나 각자에게 맞는 미니멀 라이프 스타일을 발견할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진리빙하우스 :웅진씽크빅",
+                "DDC": "645",
+                "UPDATE_DATE": "20180213",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "아키 지음 ;허영은 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "595.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6455752_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6455752_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6455752_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "CIP2017032370",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788901220765",
+                "INPUT_DATE": "20171120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "나에게 맞는 미니멀 라이프",
+                "PUBLISH_PREDATE": "20180105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

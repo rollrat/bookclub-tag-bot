@@ -1,0 +1,78 @@
+{
+    "otitle": "여자 심리 남자 생각",
+    "oauthor": "장야오징 저/최인애 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:25 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "여자 심리 남자 생각 (여자를 밝히고 남자를 밝히는 본격 연애 심리서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497523932",
+                "image": "https://shopping-phinf.pstatic.net/main_3249752/32497523932.20220527022145.jpg",
+                "author": "장야오징",
+                "discount": "13500",
+                "publisher": "다연",
+                "pubdate": "20160617",
+                "isbn": "9788992441810",
+                "description": "초고수 연애코치 장야오징이 알려주는 필승의 연애전략 『여자 심리 남자 생각: 여자를 밝히고 남자를 밝히는 본격 연애 심리서』. 이 책은 상대 이성이 나를 좋아하게 하는 법을 시작으로 사람들이 나를 좋아하게 만드는 법을 제시한 지침서다. 이 책에서 밝히는 남녀관계는 물론 나아가 인간관계의 지혜를 깨닫고 실생활에 실전 방법을 적용해보자."
+            },
+            {
+                "title": "여자를 잘 다루는 여자가 성공한다 (남자도 알아야 할 두 여자의 갈등 심리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492131657",
+                "image": "https://shopping-phinf.pstatic.net/main_3249213/32492131657.20220527060511.jpg",
+                "author": "안미헌",
+                "discount": "0",
+                "publisher": "생각빌딩",
+                "pubdate": "20161021",
+                "isbn": "9791195293148",
+                "description": "『여자를 잘 다루는 여자가 성공한다』는 한 여성의 삶을 결정하는 것은 의외로 남자가 아니라 또 다른 여자라는 점에 주목한다. 여성조직에 잘 적응해야만 그녀의 행복과 성공이 순조로움을 강조한다. 여자들 사이에 일어나는 달콤하고 살벌한 심리를 잘 이해하고 효과적으로 처신하는 방법을 안내한다. 더불어 갈등하는 두 여자를 바라보는 남자의 시선이 여자와 어떻게 다른지를 설명하고 소통에 능한 여자가 어떻게 남자를 자기 편으로 만드는지 그 과정을 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다연",
+                "DDC": "",
+                "UPDATE_DATE": "20160628",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "장야오징 지음 ;최인애 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788992441810",
+                "INPUT_DATE": "20160628",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "여자 심리 남자 생각 ",
+                "PUBLISH_PREDATE": "20160617",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

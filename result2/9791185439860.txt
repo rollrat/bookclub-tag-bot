@@ -1,0 +1,67 @@
+{
+    "otitle": "딱 이만큼의 경제학",
+    "oauthor": "강준형 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "딱 이만큼의 경제학 (단번에 이해하고 남들에게 설명할 수 있는 경제학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441029928",
+                "image": "https://shopping-phinf.pstatic.net/main_3244102/32441029928.20230103162831.jpg",
+                "author": "강준형",
+                "discount": "13500",
+                "publisher": "다온북스",
+                "pubdate": "20180405",
+                "isbn": "9791185439860",
+                "description": "여전히 경제를 모르는 당신에게 필요한\n‘최소한’의 경제학\n\n지금, 당장 알아야 할 경제학 기초!\n더도 덜도 말고, 딱 이만큼만 알아도 충분하다.\n\n여기 당신을 위한 경제학이 있다. 경제학이라는 단어만 봐도 어지럽다는 당신에게 아주 쉽게, 요점만 알려주는 책이다. \n\n경제의 변화 속도는 빠르다. 그 속도에 맞춰 경제를 읽고 싶지만, 마음처럼 쉽지만은 않다. 경제를 전공하지 않은 이상 학문으로서의 경제를 ‘제대로’ 이해한 적이 없기 때문이다. 당신은 경제학을 모르지만 시장이 어떻게 굴러가고 수요와 공급이 무엇인지는 알고 있다. 하지만 정말 정확하게 알고 있는 걸까? 어디까지나 살면서 체득한 경험일 뿐, 경제를 ‘경제학’으로 다가서는 법은 모른다.\n\n그렇다면 지금, 왜 경제학을 알아야 할까? 바로 경제의 흐름을 즉각적으로 이해하기 위해서다. ‘경제는 우리의 일상 그 자체’라는 저자의 말처럼 경제학은 우리 생활에서 떼려야 뗄 수 없는 학문이다. 경제의 기본원리를 이해하고 실제 경제를 해석함으로써 지금, 내 일상을 위한 ‘선택’을 살펴야 한다. \n\n이 책은 서가에 꽂혀있는 ‘있어 보이기만 한’ 어려운 경제학이 아니다. 당신의 주머니를 채우는 재테크는 더더욱 아니다. 경제학은 어디까지나 풍요로운 삶을 지향한다. 이 책을 읽고 나면, 경제학의 기초를 알 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다온북스",
+                "DDC": "330.02",
+                "UPDATE_DATE": "20180420",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "없음",
+                "AUTHOR": "강준형 지음",
+                "SERIES_TITLE": "",
+                "KDC": "320.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6600530_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6600530_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6600530_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6600530_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "341 p.",
+                "CONTROL_NO": "CIP2018009060",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185439860",
+                "INPUT_DATE": "20180320",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(먹고사는 데 필요한) 딱 이만큼의 경제학",
+                "PUBLISH_PREDATE": "20180405",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

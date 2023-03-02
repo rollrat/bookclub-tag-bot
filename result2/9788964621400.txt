@@ -1,0 +1,67 @@
+{
+    "otitle": "세계시민주의 전통",
+    "oauthor": "마사 C. 누스바움 저/강동혁 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계시민주의 전통 (고귀하지만 결함 있는 이상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474709809",
+                "image": "https://shopping-phinf.pstatic.net/main_3247470/32474709809.20230222101917.jpg",
+                "author": "마사 C. 누스바움",
+                "discount": "16200",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20200630",
+                "isbn": "9788964621400",
+                "description": "그리스와 로마의 스토아주의 철학자들로부터 시작하여 17세기의 휴고 그로티우스, 18세기의 애덤 스미스, 현대의 국제 인권운동에 이르기까지 세계시민주의의 철학적 전통을 좇는다. 더 나아가 누스바움은 그 안에 담긴 ‘고귀하지만 결함 있는’ 긴장관계를 정면으로 다룬다. 이 전통은 고귀한 것으로서, 도덕적 성격은 외부의 도움을 받지 않아도 온전하고 전적으로 아름다운 것이며 우리에게 이기주의와 파벌주의로부터 떨어져 나와 한층 높은 차원의 세계에 참여하라고 요청한다. \n\n\n\n반면 ‘결함 있는’ 세계시민주의 전통은 ‘정의의 의무’에만 초점을 맞추고 물질적 원조의 의무를 간과한다. 물질적 불평등에는 충분한 중요성을 부여하지 않는 것이다. 또한 이민이나 시민권의 조건에 대해서도 충분히 이야기하지 않는다. 종교적 다원주의를 충분히 존중하지 않으며, 인지적 장애가 있는 사람들을 존중하고 포용하지 못한다. 기존 세계시민주의의 가장 심각한 잘못은 다른 종과 자연 환경에 대해 우리가 지고 있는 도덕적·정치적 의무를 숙고하지 못한다는 점에 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "",
+                "UPDATE_DATE": "20200721",
+                "EA_ADD_CODE": "93100",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "저자 : 마사 C. 누스바움;역자 : 강동혁;",
+                "SERIES_TITLE": "",
+                "KDC": "340.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/26/9788964621400.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "348",
+                "CONTROL_NO": "CIP2020024857",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964621400",
+                "INPUT_DATE": "20200615",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "세계시민주의 전통",
+                "PUBLISH_PREDATE": "20200630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

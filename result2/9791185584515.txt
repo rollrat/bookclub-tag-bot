@@ -1,0 +1,67 @@
+{
+    "otitle": "머리맡에 쇼펜하우어",
+    "oauthor": "쇼펜하우어 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "머리맡에 쇼펜하우어 (삶을 깨우는 쇼펜하우어의 말)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478416624",
+                "image": "https://shopping-phinf.pstatic.net/main_3247841/32478416624.20230219103330.jpg",
+                "author": "쇼펜하우어",
+                "discount": "12600",
+                "publisher": "다른상상",
+                "pubdate": "20180326",
+                "isbn": "9791185584515",
+                "description": "삶을 깨우는 인문학 시리즈, 세 번째 이야기!\n19세기 독일 최고의 문장가이자 실존철학의 선구자 쇼펜하우어, \n그의 철학 속에 담긴 삶과 사랑과 행복!\n\n행복한 삶이란 무엇인가?\n어떻게 행복한 삶을 발견하고 살아낼 수 있을까?\n\n삶의 괴로움, 생존과 허무, 사랑과 죽음, 교육, 처세, 명예…… \n쇼펜하우어의 실존철학을 쉽고 흥미로운 에세이로 만난다. \n\n행복은 자기 안에 깃들어 있다……\n쇼펜하우어의 사랑과 행복, 삶에 대한 이야기!\n\n우리는 이 작품 하나만으로도 그가 인간에게 이야기하고 싶어 하는 모든 것을 이해할 수 있다. 즉, 쇼펜하우어의 인생을 집대성한 경험의 축적이자, 인생의 지침서라고 할 수 있다. 이 책에서 행복이란 얻을 수 없는 것이며, 차라리 삶 자체를 받아들이지 않는 것이 옳다는 확신을 지니고 있었던 이 늙은 사상가는 그래도 이미 받아들인 삶을 혼신의 힘을 다해 행복과 연결시키려는 규범을 짜내어 제시하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른상상",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "04190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "쇼펜하우어 ;함현규",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185584409",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p. ",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185584515",
+                "INPUT_DATE": "20180313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "머리맡에 쇼펜하우어 ",
+                "PUBLISH_PREDATE": "20180326",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04190 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

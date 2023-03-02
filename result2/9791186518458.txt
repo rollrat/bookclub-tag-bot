@@ -1,0 +1,67 @@
+{
+    "otitle": "한 뼘 고전",
+    "oauthor": "배기홍 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한 뼘 고전 (상식 한 뼘! 교양 한 뼘! 한자숙어·고사성어 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490334981",
+                "image": "https://shopping-phinf.pstatic.net/main_3249033/32490334981.20221019124404.jpg",
+                "author": "배기홍",
+                "discount": "13500",
+                "publisher": "갈라북스",
+                "pubdate": "20201201",
+                "isbn": "9791186518458",
+                "description": "일상의 대화나 글에서 익숙하게 쓰고 듣던 한자숙어·고사성어 이야기를 쉽고 흥미롭게 풀이하고 있는 책이다. 특히 친근한 생활한자가 포함된 한자숙어를 중심으로, 출처가 된 고전의 내용도 함께 익힐 수 있도록 구성했다. 따라서 어린이, 청소년 등 젊은 층은 물론 기성세대들도 동양 고전과 한자에 대한 상식을 넓히기 유용하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "",
+                "UPDATE_DATE": "20201124",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "배기홍 지음",
+                "SERIES_TITLE": "",
+                "KDC": "714.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/29/9791186518458.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "423 p.",
+                "CONTROL_NO": "CIP2020046274",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518458",
+                "INPUT_DATE": "20201029",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "한 뼘 고전",
+                "PUBLISH_PREDATE": "20201201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

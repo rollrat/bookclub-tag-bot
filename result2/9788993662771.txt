@@ -1,0 +1,67 @@
+{
+    "otitle": "정아름이 알려주는 왕초보를 위한 골프교과서",
+    "oauthor": "정아름 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정아름이 알려주는 왕초보를 위한 친절한 골프 교과서 (스포테이너 정아름의 힐링골프)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438182686",
+                "image": "https://shopping-phinf.pstatic.net/main_3243818/32438182686.20221229073304.jpg",
+                "author": "정아름",
+                "discount": "14400",
+                "publisher": "북오션",
+                "pubdate": "20120715",
+                "isbn": "9788993662771",
+                "description": "미스코리아, 골프 엔터테이너 정아름의 골프 입문서. 골프 방송진행 및 칼럼리스트, 모델 등 골프로 이어지는 다양한 활동을 펼치는 바비 골퍼 (Barbie Golf) 정아름은 이 책에서 골프 비기너를 대상으로, 스코어와 매너 두 마리 토끼를 잡을 수 있는 단계별 노하우를 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북오션",
+                "DDC": "",
+                "UPDATE_DATE": "20120727",
+                "EA_ADD_CODE": "03690",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정아름 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993662771",
+                "INPUT_DATE": "20120703",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "(정아름이 알려주는) 왕초보를 위한 친절한 골프 교과서 ",
+                "PUBLISH_PREDATE": "20120715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

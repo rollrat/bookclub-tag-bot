@@ -1,0 +1,67 @@
+{
+    "otitle": "화학반응은 왜 일어나는가",
+    "oauthor": "우에노 게이헤이 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "화학반응은 왜 일어나는가? (학교수업으로는 알 수 없었던 화학의 기초)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455947712",
+                "image": "https://shopping-phinf.pstatic.net/main_3245594/32455947712.20221229074630.jpg",
+                "author": "우에노 게이헤이",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "19940701",
+                "isbn": "9788970441610",
+                "description": "Blue Backs 블루백스 시리즈 161권. 화학의 '기초의 기초'인 화학반응이란 어떠한 것인가, 물질이 결합하거나 분리하거나 하는 것은 어떠한 것인가를 알기 쉽게 해설한 것으로서 화학을 싫어하는 사람도 화학의 재미를 찾아볼 수 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19940707",
+                "EA_ADD_CODE": "03430",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "우에노 게이헤이 저 ; 임승원 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "19940720",
+                "TITLE_URL": "",
+                "PRE_PRICE": "5000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "10000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970441610",
+                "INPUT_DATE": "19940707",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "화학반응은 왜 일어나는가",
+                "PUBLISH_PREDATE": "19940720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

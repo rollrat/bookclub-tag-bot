@@ -1,0 +1,67 @@
+{
+    "otitle": "폴 발레리 ★ 시집",
+    "oauthor": "폴 발레리 저/윤동주100년포럼 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "폴 발레리 시집",
+                "link": "https://search.shopping.naver.com/book/catalog/32441571630",
+                "image": "https://shopping-phinf.pstatic.net/main_3244157/32441571630.20220527040316.jpg",
+                "author": "폴 발레리",
+                "discount": "0",
+                "publisher": "스타북스",
+                "pubdate": "20170303",
+                "isbn": "9791157952786",
+                "description": "음영에 불과한 것에 빛을 주지 않고 명석한 정신을 지킨 프랑스 사상의 거장 폴 발레리의 시집이다. 발레리의 작품은 스스로를 극한까지 내모는 심적 노력을 스스로에게 요구하여 자신의 모든 기능과 능력을 쓰고 난 결과물이기에, 그의 시는 쉽지 않다. 하지만 고전적 형식을 엄수하는 발레리의 시편들에는 감성이 풍부한 시인과 자신의 언어를 자유자재로 구사하는 예술가의 모습이 함께 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스타북스",
+                "DDC": "841",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 폴 발레리 ;옮긴이: 윤동주100년포럼",
+                "SERIES_TITLE": "",
+                "KDC": "861",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6139034_6.txt",
+                "SET_ISBN": "9791157952748",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6139034_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*207",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "CIP2017004469",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157952786",
+                "INPUT_DATE": "20170217",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "폴 발레리 시집",
+                "PUBLISH_PREDATE": "20170303",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

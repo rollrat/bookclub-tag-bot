@@ -1,0 +1,67 @@
+{
+    "otitle": "이상한 나라의 앨리스 추리파일",
+    "oauthor": "루이스 캐럴 저/존 테니얼 그림/조은희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이상한 나라의 앨리스 추리파일 (천재 동화 작가의 기묘한 숫자 미스터리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485113416",
+                "image": "https://shopping-phinf.pstatic.net/main_3248511/32485113416.20220527040530.jpg",
+                "author": "루이스 캐럴",
+                "discount": "11520",
+                "publisher": "보누스",
+                "pubdate": "20150915",
+                "isbn": "9788964942253",
+                "description": "천재 동화 작가, 루이스 캐럴이 남긴 수학퍼즐과 논리게임!\n\n『이상한 나라의 앨리스 추리파일 』은 《이상한 나라의 앨리스》로 유명한 루이스 캐럴의 유희수학 문제와 퍼즐을 모았다. 앨리스 시리즈를 비롯해 《실비와 부르노》 《스나크 사냥》 등의  문학 작품에 숨은 논리와 문제를 정리했으며, 《뒤엉킨 옛날이야기》 《베갯머리 문제》 《논리 게임》 같은 수학 문제 모음집과 잡지 연재물 등에 실린 문제를 발췌했다. 이 문제들이 샘 로이드와 헨리 어니스트 듀드니, 마틴 가드너로 이어지는 현대 수학 퍼즐 계보의 뿌리를 형성했다고 해도 과언이 아님을 직접 확인할 수 있다. 대수학, 확률, 통계, 수열, 기하학, 논리학 등 책에 실린 온갖 유형의 문제를 통해 극한의 논리를 추구한 루이스 캐럴의 탐미주의자적인 면모 또한 발견할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)보누스",
+                "DDC": "510.2",
+                "UPDATE_DATE": "20150916",
+                "EA_ADD_CODE": "13410",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "루이스 캐럴",
+                "SERIES_TITLE": "",
+                "KDC": "410.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4853126_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4853126_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "236",
+                "CONTROL_NO": "CIP2015023877",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964942253",
+                "INPUT_DATE": "20150828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "이상한 나라의 앨리스 추리파일",
+                "PUBLISH_PREDATE": "20150915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "크로스플랫폼 핵심 모듈 설계의 기술",
+    "oauthor": "전상현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "크로스 플랫폼 핵심 모듈 설계의 기술 (모바일, 리눅스, 맥, 윈도우를 아우르는 C++ 라이브러리 구축 바이블)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441093631",
+                "image": "https://shopping-phinf.pstatic.net/main_3244109/32441093631.20221227205616.jpg",
+                "author": "전상현",
+                "discount": "34200",
+                "publisher": "로드북",
+                "pubdate": "20180827",
+                "isbn": "9788997924400",
+                "description": "이 책은 지금 당장 유행하는 기술에 관한 책이 아니다. 기술 트렌드에 관계 없이 개발자라면 언젠가 누구나 겪을 법한 내용을 핵심 모듈과 크로스 플랫폼 설계의 관점에서 정리하였다. 변수, 문자열, 예외 처리, 암호화, 디버깅, 테스팅 등 수많은 분야에서 여러분이 알고 있는 지식들을 더욱 더 견고하게 해줄 것이다. 지금 당장은 아니더라도 앞으로 닥칠 위기에 크게 도움을 줄 수도 있다. 차근차근 처음부터 읽어볼 수도 있고 관심 분야를 선택해서 읽어볼 수 있게 구성하였다.\n\n대상 독자\n1. 개발 기본기가 부족해 실무에서 삽질이 많은 개발자\n2. 개발 경력이 많지만 특급 개발자로 내세우기엔 2%가 부족한 개발자\n3. JAVA 등의 다른 언어의 한계에 도달해 C++을 배우고 싶은 개발자\n4. 윈도우 개발자가 리눅스로, 리눅스 개발자가 윈도우로 영역을 넓히고 싶은 개발자\n5. 대칭키와 공개키 암호화에 대해 제대로 알고 싶은 개발자 \n6. 시스템 API와 친하지 않은 개발자\n7. 리눅스 서버와 통신하는 윈도우 클라이언트 개발자 혹은 그 반대\n8. 정적 라이브러리와 동적 라이브러리를 자유자재로 다루고 싶은 개발자\n9. 프로세스 생성과 공유 메모리, 파일 시스템 등을 잘 이해하고 싶은 개발자\n10. 타임존과 그 프로그래밍 방법에 대해 배우고 싶은 개발자\n11. 스레드와 동기화 객체에 대해 뿌리 깊이 이해하고 싶은 개발자\n12. 나만의 공통 모듈을 개발하고 싶은 개발자\n13. 유니코드로 인해 고통받는 개발자\n14. 이 모든 것을 다 떠나서 친구 같은 개발 바이블을 갖고 싶은 개발자"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20180917",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "전상현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "38000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "172*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "796 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924400",
+                "INPUT_DATE": "20180813",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "크로스 플랫폼 핵심 모듈 설계의 기술",
+                "PUBLISH_PREDATE": "20180827",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "헤세를 읽는 아침",
+    "oauthor": "헤르만 헤세 저/시라토리 하루히코 편역/박선형 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "헤세를 읽는 아침 (지혜로운 삶을 위한 깨달음)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492244683",
+                "image": "https://shopping-phinf.pstatic.net/main_3249224/32492244683.20230105071630.jpg",
+                "author": "헤르만 헤세",
+                "discount": "10620",
+                "publisher": "프롬북스",
+                "pubdate": "20160316",
+                "isbn": "9788993734799",
+                "description": "생의 권태에서 우리를 일으켜 세우는\n헤르만 헤세의 빛나는 문장들!\n\n타성에 젖은 일상 속, 우리에겐 불현듯 생의 권태가 찾아오곤 한다. 어떻게 하면 충만한 삶을 살 수 있을까? 헤르만 헤세는 자기 내면의 목소리에 귀를 기울여 자신에게 주어진 운명의 길을 찾아야만 진정한 행복을 맛볼 수 있다고 말한다. \n\n이 책 『헤세를 읽는 아침』에는 삶과 인간, 사랑에 관한 헤세 철학의 정수가 담긴 글 226편을 엄선해 실었다. 헤세의 글을 읽다 보면, 나를 깨우는 날카로운 문장, 구도자의 단단한 철학, 삶을 버티는 강한 의지와 마주하게 된다. 오늘부터 헤세와 함께 아침을 시작해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)프롬북스",
+                "DDC": "830.9",
+                "UPDATE_DATE": "20160323",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "헤르만 헤세",
+                "SERIES_TITLE": "",
+                "KDC": "850.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5247731_3.jpg",
+                "PRE_PRICE": "11800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5247731_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "256",
+                "CONTROL_NO": "CIP2016004820",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993734799",
+                "INPUT_DATE": "20160219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "헤세를 읽는 아침",
+                "PUBLISH_PREDATE": "20160316",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

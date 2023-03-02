@@ -1,0 +1,78 @@
+{
+    "otitle": "안테나의 과학",
+    "oauthor": "고토 나오히사 저/손영수,주창복 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:02 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "안테나의 과학 (전파의 드나듬을 추적한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493374736",
+                "image": "https://shopping-phinf.pstatic.net/main_3249337/32493374736.20230112071641.jpg",
+                "author": "고토 나오히사",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190722",
+                "isbn": "9788970448954",
+                "description": "안테나의 원리로부터 \n전파와 통신까지를 꿰뚫어보는\n\n이 책은 안테나의 원리와 안테나가 어떻게 동작하고 있는가를 알기 쉽게 설명하는 동시에 제일선의 위성통신이나 자동차전화 등에 사용되고 있는 안테나의 특징 등을 해설하고 있다. \n\n맥스웰의 이론에 따르면 전파를 발생시키는 근원은 전류이므로, 안테나를 이해하기 위해서는 전류를 잘 알아야 할 필요가 있다. 송전선이나 안테나에 흐르는 전류에 대해 자세히 설명할 뿐만 아니라, 그 원리를 통해 전파와 통신까지를 꿰뚫어보는 유익한 시간이 될 것이다."
+            },
+            {
+                "title": "안테나의 과학 (전파의 드나듬을 추적한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489021103",
+                "image": "https://shopping-phinf.pstatic.net/main_3248902/32489021103.20220527040622.jpg",
+                "author": "고토 나오히사",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19870901",
+                "isbn": "9788970440637",
+                "description": "이 책은 안테나의 원리와 안테나가 어떻게 동작하고 있는가를 알기 쉽게 설명하는 동시에 제일선의 위성통신이나 자동차전화 등에 사용되고 있는 안테나의 특징 등을 해설한 것이다. 맥스웰의 이론에 따르면 전파를 발생시키는 근원은 전류이므로, 안테나를 이해하기 위해서는 전류를 잘 알아야 할 필요가 있다. 그 때문에 이 책에서는 송전선이나 안테나에 흐르는 전류에 대해 자세히 설명하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190806",
+                "EA_ADD_CODE": "03560",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "고토 나오히사 지음 ;손영수,주창복 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "226 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448954",
+                "INPUT_DATE": "20190717",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "안테나의 과학",
+                "PUBLISH_PREDATE": "20190722",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

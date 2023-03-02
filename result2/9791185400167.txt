@@ -1,0 +1,67 @@
+{
+    "otitle": "세계만화학원",
+    "oauthor": "오쓰카 에이지 저/선정우 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계만화학원 (오쓰카 에이지가 알려주는 일본 만화의 연출 노하우)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441428094",
+                "image": "https://shopping-phinf.pstatic.net/main_3244142/32441428094.20221019115052.jpg",
+                "author": "오쓰카 에이지",
+                "discount": "16200",
+                "publisher": "북바이북",
+                "pubdate": "20150727",
+                "isbn": "9791185400167",
+                "description": "《스토리 메이커》, 《캐릭터 소설 쓰는 법》 의 저자인 오쓰카 에이지알려주는 일본 만화의 연출 노하우. 독자의 눈을 사로잡는 칸 사용법, 캐릭터에 감정을 이입하게 하는 방법, 만화 시나리오 구성법, 장면의 중요도에 따른 배치 등 만화를 그리는 이들이라면 반드시 알아야 할 노하우로 가득한 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "741.51",
+                "UPDATE_DATE": "20150804",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오쓰카 에이지",
+                "SERIES_TITLE": "",
+                "KDC": "657.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4736289_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4736289_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015019488",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400167",
+                "INPUT_DATE": "20150715",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "세계만화학원",
+                "PUBLISH_PREDATE": "20150727",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

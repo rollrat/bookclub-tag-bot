@@ -1,0 +1,67 @@
+{
+    "otitle": "호스 댄서",
+    "oauthor": "조조 모예스 저/이정민 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "호스 댄서(The Horse Dancer) (조조 모예스 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457697630",
+                "image": "https://shopping-phinf.pstatic.net/main_3245769/32457697630.20221019150749.jpg",
+                "author": "조조 모예스",
+                "discount": "14400",
+                "publisher": "살림",
+                "pubdate": "20200214",
+                "isbn": "9788952241795",
+                "description": "“상처받았다고 해서 모두를 밀어내버려선 안 돼.”\n우리가 조조 모예스에게 기대하는 것이 이 책에 다 담겨 있다.\n『미 비포 유』를 능가하면서, 또 한 번 우리 마음을 뒤흔든다!\n\n애들은 왜 어른 말을 안 들을까? 이 유구한 질문에 육아책은 다양한 대답을 내놓을 것이다. 과학책도 할 말이 많을 것이다. 청소년이 방황하는 데도 이른바 과학적인 이유가 있을 테니까. 하지만 이 모든 분석에는 한 가지 이상한 전제가 깔려 있는데, 바로 아이와 어른을 둘로 나눈다는 것이다. 조조 모예스의 장편소설 『호스 댄서』는 이 점에서 특별하다. 전 세계를 사로잡은 전작 『미 비포 유』가 ‘안락사’라는 예민한 화두를 로맨스로 풀어냈듯, 『호스 댄서』는 ‘방황하는 청소년’이라는 보편적인 주제를 지극히 소설적인 방법으로 다룬다. ‘말 안 듣는 아이와 가르침을 주는 어른’이라는 이분법적 구도를 벗어나 각각의 개인에 초점을 맞추어, 여전히 소설이라는 장르가 중요한 메시지를 전할 수 있음을 역설하는 것이다.\n\n런던에서 변호사 커리어를 일구어가는 너태샤 매컬리. 냉철한 겉모습과 달리, 그녀의 개인사는 비참한 일의 연속이다. 이제 전남편이나 다름없는 남자 맥과 살면서 지긋지긋한 이별을 준비하는 중이다. 그러던 중 두 사람은 십 대 소녀 사라를 임시로 돌보게 된다. 이 아이를 위해서라도 행복한 가정을 연기해야 하는 것이다. 너태샤는 이것이 새로운 출발점이 될 수 있다고 느끼지만, 사라는 좀처럼 마음을 열지 않는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림",
+                "DDC": "",
+                "UPDATE_DATE": "20200304",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "지은이: 조조 모예스 ;옮긴이: 이정민",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "687 p.",
+                "CONTROL_NO": "CIP2020004298",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952241795",
+                "INPUT_DATE": "20200130",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "호스 댄서",
+                "PUBLISH_PREDATE": "20200214",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

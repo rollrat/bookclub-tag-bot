@@ -1,0 +1,78 @@
+{
+    "otitle": "식탐 만세!",
+    "oauthor": "다카기 나오코 글,그림/채다인 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:35 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "식탐 만세! (집밥, 외식, 가끔은 여행식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436264390",
+                "image": "https://shopping-phinf.pstatic.net/main_3243626/32436264390.20221019135206.jpg",
+                "author": "타카기 나오코",
+                "discount": "9900",
+                "publisher": "살림",
+                "pubdate": "20160705",
+                "isbn": "9788952234209",
+                "description": "『식탐 만세!』는 타고난 먹보, 다카기 나오코의 인생에 굵게 한 획을 그은 음식들만 엄선하여 소개한다. 다코야키의 본고장, 오카사에서 찾아낸 보석 같은 다코야키와 아카시야키 맛집들 메밀국수 맛집, 현지인만 알 수 있는 아오모리 퓨전 일식집과 참치를 좋아하는 사람이라면 평생에 한 번 꼭 가보리라 마음먹는 참치의 성지 ‘오마’ 맛집과 연락처까지 담겨 있어 일본 맛집 가이드로서 그 역할도 충분하다."
+            },
+            {
+                "title": "식탐 만세! 한 그릇 더 (부부 한 끼 & 아이와 한 끼)",
+                "link": "https://search.shopping.naver.com/book/catalog/32477634472",
+                "image": "https://shopping-phinf.pstatic.net/main_3247763/32477634472.20221019125114.jpg",
+                "author": "타카기 나오코",
+                "discount": "12150",
+                "publisher": "살림",
+                "pubdate": "20220310",
+                "isbn": "9788952243805",
+                "description": "혼자 여행하고 혼자 밥을 먹던 나오코가\n이젠 가족과 함께합니다!\n\n함께 먹으면 그 맛도 두 배!\n\n함께 먹으면 그 맛도 두 배!\n혼자 여행하고 혼자 밥을 먹던 나오코가 이젠 가족과 함께합니다\n\n음식을 사랑하는 타고난 먹보의 ‘일상음식 탐닉기’를 담은 전작 『식탐 만세!』에 이어서, 다카기 나오코의 새로운 먹부림이 6년 만에 돌아왔다. 오랜 기간 싱글 라이프를 즐기며 살아 온 다카기 나오코에겐 자유로운 식생활이 무엇보다 큰 즐거움이며 여행지에서 먹게 되는 지역 명물 음식도 즐거움 중 하나였다. \n그러던 중 그녀처럼 음식을 사랑하는 남편을 만나 결혼에 골인하고, 경사스럽게도 딸까지 태어나며 3인 생활기가 시작된다. 식탐 많은 부부의 식생활부터 남자의 요리에 눈뜬 남편과 잊을 수 없는 엄마의 손맛, 그리고 너무너무 바쁜 아기와의 식사까지. 이제는 혼자가 아닌 가족들과 함께하는 식사를 시작한 나오코. 지금까지의 자유로운 식생활에도 자연스레 위기가 찾아오고, 그녀에게 벌어진 식생활 격변기가 이제 시작된다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20160817",
+                "EA_ADD_CODE": "17830",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "다카기 나오코",
+                "SERIES_TITLE": "",
+                "KDC": "830",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5500005_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5500005_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "144",
+                "CONTROL_NO": "CIP2016013958",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952234209",
+                "INPUT_DATE": "20160603",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "식탐 만세! 집밥, 외식, 가끔은 여행식",
+                "PUBLISH_PREDATE": "20160705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

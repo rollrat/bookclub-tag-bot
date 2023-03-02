@@ -1,0 +1,67 @@
+{
+    "otitle": "128호실의 원고",
+    "oauthor": "카티 보니당 저/안은주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "128호실의 원고",
+                "link": "https://search.shopping.naver.com/book/catalog/32474559475",
+                "image": "https://shopping-phinf.pstatic.net/main_3247455/32474559475.20221229071440.jpg",
+                "author": "카티 보니당",
+                "discount": "13500",
+                "publisher": "한스미디어",
+                "pubdate": "20200309",
+                "isbn": "9791160074666",
+                "description": "등장인물들이 편지를 교환하며 33년간 실종되었다 나타난 소설 원고에 얽힌 미스터리를 풀어내는 독특한 설정의 서간체 소설이다. 오고가는 편지의 지면을 통해 원고의 비밀은 물론이고 다양한 등장인물들의 사연 또한 조금씩 드러나는데, 원고를 잠시라도 소유했던 사람들의 삶이 원고 덕분에 완전히 바뀐 것은 물론이고 추적 활동에 참여한 사람들이 새로운 인연을 맺고 가까워지며 변화하는 모습까지 그려내는 인간미 가득한 따뜻한 이야기이다. \n\n\n\n원고의 여정을 되짚으며 주인공들이 교환하는 편지를 따라가다 보면 독자는 우정, 사랑, 상처, 용서 등 이 책이 품고 있는 다양한 주제와 맞닿게 된다. 진행이 빨라 쉽게 읽히면서도 프랑스 소설 특유의 위트가 넘치는 문장과 세련된 문체, 삶에서 길어 올린 지혜로운 통찰은 읽는 내내 미소를 띠게 한다.『건지 감자껍질파이 북클럽』이나 『채링크로스 84번지』처럼 편지가 묶어준 인연과 이야기를 좋아하는 독자라면 이 책을 사랑할 수밖에 없을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어 :한즈미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20200317",
+                "EA_ADD_CODE": "03860",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "카티 보니당 지음 ;안은주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160074666",
+                "INPUT_DATE": "20200108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "128호실의 원고",
+                "PUBLISH_PREDATE": "20200309",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

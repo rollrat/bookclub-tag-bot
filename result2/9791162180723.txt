@@ -1,0 +1,78 @@
+{
+    "otitle": "이런 사람 만나지 마세요",
+    "oauthor": "유영만 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:29 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "이런 사람 만나지 마세요 (지식생태학자 유영만 교수의 관계 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438314830",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438314830.20230131164748.jpg",
+                "author": "유영만",
+                "discount": "11520",
+                "publisher": "나무생각",
+                "pubdate": "20190812",
+                "isbn": "9791162180723",
+                "description": "인간관계의 얼룩과 무늬를 반추하며 기록하다!\n\n지식생태학자 유영만 교수의 관계 에세이 『이런 사람 만나지 마세요』. 강의실에서 만나는 학생들뿐만 아니라 강연을 통해 국내외의 다양한 사람들을 만나고 교류하면서 우리 개개인은 자신의 행복을 위한 주체이자 타인의 행복을 만들어가는 조건임을 깨닫고, 인간관계에 대해 오랜 시간 생각해왔던 내용을 이 책에 차분히 풀어냈다. \n\n인간관계는 우리의 실존을 결정짓는 매우 중요한 문제이다. 우리는 이런 사람, 저런 사람을 만나면서 기쁨과 감동을 누리기도 하지만 상처를 받기도 한다. 또 인간관계가 성숙되지 않고 이기적이고 무책임한 행태들이 나타남으로 인해 타인으로 인한 피로도는 깊어지고, 무수한 얼룩과 상처들이 만들어지기도 한다.\n\n저자는 누군가에게 나는 그냥 스쳐 지나가는 사람일지 모르지만 누군가에게는 내가 한 세상이 될 수도 있다고 이야기하며, 성숙한 연대야말로 우리의 평생 숙제이자 축제임을 강조한다. 오늘의 내가 다른 사람을 만나 배우는 것도 수많은 사람과의 만남 속에서 배운 교훈을 토대로 이루어진다고 이야기하면서 영향을 주고받는 너와 내가 될 수 있는 방법을 찾을 수 있기를, 서로에게 또 다른 가능성의 세계를 열어주는 장치가 되어주기를 바라고 있다."
+            },
+            {
+                "title": "이런 사람 만나지 마세요(큰글자도서) (지식생태학자 유영만 교수의 관계 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497843036",
+                "image": "https://shopping-phinf.pstatic.net/main_3249784/32497843036.20221019133030.jpg",
+                "author": "유영만",
+                "discount": "36000",
+                "publisher": "나무생각",
+                "pubdate": "20220328",
+                "isbn": "9791162181928",
+                "description": "ㆍ 브런치 62만뷰 화제작 ㆍ\n지식생태학자 유영만 교수의 관계 에세이\n\n나는 곧 내가 만나는 사람이다.\n내가 만나는 사람이 나를 결정하기 때문이다.\n나를 바꾸려면 내가 만나는 사람을 바꿔야 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20190806",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 유영만",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "CIP2019028941",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162180723",
+                "INPUT_DATE": "20190723",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "이런 사람 만나지 마세요",
+                "PUBLISH_PREDATE": "20190812",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

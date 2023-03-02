@@ -1,0 +1,78 @@
+{
+    "otitle": "이야기 러시아사",
+    "oauthor": "김경묵 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:40 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "이야기 러시아사 (러시아 역사의 태동부터 고르바초프 시대까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436154239",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436154239.20221019142032.jpg",
+                "author": "김경묵",
+                "discount": "16200",
+                "publisher": "청아출판사",
+                "pubdate": "20060725",
+                "isbn": "9788936803506",
+                "description": "고대부터 고르바초프 시대까지 러시아 역사를 이야기로 정리한 교양 역사서. 러시아의 국가 체제 골격이 갖춰지는 키예프 시대, 혁명으로 비참한 최후를 맞는 로마노프 왕조, 레닌·스탈린·흐루시초프·브레즈네프 그리고 고르바초프로 이어지는 권력 암투 등을 이야기 형식으로 꾸며 쉽게 읽을 수 있도록 하였다.\n\n\n\n레닌과 스탈린, 사회주의 같은 단편적인 지식에 국한되지 않고, 러시아 역사의 전반적인 흐름을 이야기식으로 따라가면서 유럽과 아시아에 걸친 광활한 영토를 가진 러시아 특유의 정서와 사상, 전통과 문화를 파악할 수 있도록 했다. 사진 자료들도 다수 실려 있어 이해에 도움을 준다."
+            },
+            {
+                "title": "이야기 러시아사(보급판) (러시아 역사의 태동부터 고르바초프 시대까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474558855",
+                "image": "https://shopping-phinf.pstatic.net/main_3247455/32474558855.20221019125139.jpg",
+                "author": "김경묵",
+                "discount": "9000",
+                "publisher": "청아출판사",
+                "pubdate": "20200901",
+                "isbn": "9788936811679",
+                "description": "오랜 역사를 가지고 재기를 꿈꾸는 나라\n\n러시아는 동양과 서양에 걸친 광활한 영토를 지배하고 있으며, 유럽과 아시아의 전통 문화를 동시에 흡수하여 특유의 정서와 사상, 전통과 문화를 발전시킨 나라이다. 이 책은 레닌과 스탈린, 사회주의 같은 단편적인 지식에 국한되지 않고, 러시아 역사의 전반적인 흐름을 이야기식으로 따라가고 있다. 고대로부터 러시아의 골격이 갖추어지는 키예프 시대, 혁명으로 인해 비참한 최후를 맞는 로마노프 왕조까지 사건을 중심으로 서술하였으며, 혁명의 역동적인 현장, 현재까지 계속되는 권력의 암투에 대해 인물을 통해 접근하였다. 《이야기 러시아사》는 러시아에 대한 이해와 사고의 폭을 넓힐 수 있는 좋은 지침서가 될 것이다.\n\n위 도서는 이야기 역사시리즈 [보급판]으로 본문 내용은 동일하나 내지 인쇄가 컬러에서 흑백으로 변경되었습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20060913",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김경묵 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "8936803417",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8936803506",
+                "INPUT_DATE": "20060913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "이야기 러시아사",
+                "PUBLISH_PREDATE": "20060725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

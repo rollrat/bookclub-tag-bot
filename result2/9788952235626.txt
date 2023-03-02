@@ -1,0 +1,67 @@
+{
+    "otitle": "혼자 밥 먹고 싶은 날엔",
+    "oauthor": "정예솔 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "혼자 밥 먹고 싶은 날엔 (간단하게 만들고 근사하게 즐기는 혼밥 레시피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436331970",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436331970.20221019140224.jpg",
+                "author": "정예솔",
+                "discount": "13500",
+                "publisher": "살림",
+                "pubdate": "20161214",
+                "isbn": "9788952235626",
+                "description": "『혼자 밥 먹고 싶은 날엔』은 ‘오롯이 내가 나에게 만들어주는 미식의 세계’를 권한다. 혼자 대충 먹는 밥에서 나아가 ‘간단하고 건강하게’ 차려 먹는 맛있는 한 그릇을 소개한다. 저자는 이 책에서 독자에게 대단한 요리를 권하지 않는다. 추억이 깃든 맛, 위로를 준 맛, 기운을 북돋아준 맛에 관한 이야기를 들려주고, 그 맛을 재현할 수 있는 아주 간단한 레시피를 알려준다. 그녀는 이 레시피들을 통해 그저 스스로를 ‘대접’하면 된다고만 이야기한다. 음식을 통해 마음을 쉬게 해주고 용기를 주는 것이 혼밥의 진정한 의미이기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20170418",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "정예솔",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5924798_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5924798_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "252",
+                "CONTROL_NO": "CIP2016028515",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952235626",
+                "INPUT_DATE": "20161122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "혼자 밥 먹고 싶은 날엔",
+                "PUBLISH_PREDATE": "20161214",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

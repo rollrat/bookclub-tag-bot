@@ -1,0 +1,67 @@
+{
+    "otitle": "그럼에도 삶에 ‘예’라고 답할 때",
+    "oauthor": "빅터 프랭클 저/마정현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그럼에도 삶에 ‘예’라고 답할 때 (모든 운명에 고통받는 이들을 위로하는 대답)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441430182",
+                "image": "https://shopping-phinf.pstatic.net/main_3244143/32441430182.20221019134945.jpg",
+                "author": "빅토르 E. 프랑클",
+                "discount": "10370",
+                "publisher": "청아출판사",
+                "pubdate": "20200810",
+                "isbn": "9788936811556",
+                "description": "《빅터 프랭클의 죽음의 수용소에서》의 저자 빅터 프랭클이 나치 강제 수용소에서 풀려난 이듬해인 1946년 오스트리아의 한 시민 대학에서 했던 강연을 책으로 옮겼다. 왜 살아야 할까, 왜 사는 게 고통스러울까, 어떻게 살아야 할까, 사는 데 어떤 의미를 찾을 수 있을까 등등 현대인이라면 누구나 한 번씩 해 봤을 질문들에 대한 답을 빅터 프랭클은 이 강연에서 누구보다도 인류학적인 관점으로 찾아낸다. 이 명강의를 통해 물질적으로 풍요롭지만 정신적으로 힘든 이 시대에 살고 있는 현대인이 어떤 도움과 위로를 받고, 희망을 발견할 수 있을지 그 힌트를 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20200826",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "빅터 프랭클 지음 ;마정현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*206",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "135 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936811556",
+                "INPUT_DATE": "20200715",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "그럼에도 삶에 '예'라고 답할 때",
+                "PUBLISH_PREDATE": "20200810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

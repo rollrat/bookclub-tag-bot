@@ -1,0 +1,67 @@
+{
+    "otitle": "인생, 그래도 좋다 좋아",
+    "oauthor": "정혜은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인생, 그래도 좋다 좋아 (내 인생을 바꿔놓은 MBN 〈동치미〉 멘토들의 주옥같은 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494125760",
+                "image": "https://shopping-phinf.pstatic.net/main_3249412/32494125760.20230218110647.jpg",
+                "author": "정혜은",
+                "discount": "14220",
+                "publisher": "매일경제신문사",
+                "pubdate": "20210928",
+                "isbn": "9791164843237",
+                "description": "모든 세대가 함께 어우러지는 위안과 공감의 시너지 \n인생이 힘들 때 누구에게나 응원이 필요하다! \n\n예전의 나를 보듯 훗날이 내 모습임 직한 우리 모두의 고민과 공감\n엄앵란·유인경·최은경·함익병 추천\n\n산전수전 공중전까지 인생의 모든 걸 겪어봤다는 수많은 셀럽들이 다녀간 MBN [동치미] 10년. [동치미]를 만들고 10년을 함께한 정혜은PD가 다양한 인물들의 속 깊은 인생 이야기를 모았다. 솔직하게 자신의 속을 다 보여주는 상대방을 보고 있자니 나도 모르게 이런 얘기까지 하고 있었다는 멘토들. 솔직담백을 넘어 찐 인생이 고스란히 묻어나는 웃음과 눈물이 공존하는 센 토크들. 그 귀한 이야기를 피디의 눈을 통해 재구성한 책으로 읽어보자, 이 자체가 인생 수업, 인생 학교다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20211018",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "지은이: 정혜은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/06/9791164843237.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "360 p,",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164843237",
+                "INPUT_DATE": "20210902",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "인생, 그래도 좋다 좋아",
+                "PUBLISH_PREDATE": "20210928",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

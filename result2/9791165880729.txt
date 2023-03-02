@@ -1,0 +1,67 @@
+{
+    "otitle": "지구는 네가 필요해!",
+    "oauthor": "필립 번팅 글,그림/황유진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지구는 네가 필요해! (쓰레기를 줄이고 지구를 지키기 위한 자신만만 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478036663",
+                "image": "https://shopping-phinf.pstatic.net/main_3247803/32478036663.20221019132552.jpg",
+                "author": "필립 번팅",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20210219",
+                "isbn": "9791165880729",
+                "description": "베스트셀러 작가 \n케이트 그리너웨이상 후보 작가, \n호주어린이도서협회(CBCA) 아너상 수상 작가\n필립 번팅의 신간!\n\n스페인, 포르투갈, 대만, 독일, 한국, 네덜란드 출간\n\n쉽다! 재미있다! 유익하다!\n삼박자를 고루 갖춘 논픽션 그림책\n\n쓰레기를 줄이고 지구를 지키기 위한 자신만만 안내서\n쓰레기는 모든 사람들의 생활 속에 녹아들어 있습니다. 쓰레기는 어디서 올까요? 그리고 어디로 갈까요? 지구를 지키기 위해 우리는 무엇을 해야 할까요? \n『지구는 네가 필요해!』는 쓰레기의 복잡한 개념을 쉽고 재미있게 소개하면서, 쓰레기를 줄이고, 재사용하고, 재활용하고, 재탄생시키고, 환경 운동에 열심히 참여하는 방법을 알려줍니다. 또한 쓰레기를 줄이기 위한 실천 가능한 행동에는 어떤 것이 있는지를 유쾌한 서술과 그림으로 재미있게 보여주는 책입니다. 지구를 지키기 위한 당신의 실천, 지금 시작하세요!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20210616",
+                "EA_ADD_CODE": "77400",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "필립 번팅 글·그림 ;황유진 옮김",
+                "SERIES_TITLE": "북극곰 궁금해 시리즈",
+                "KDC": "539",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791189164607",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/16/9791165880729.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "225*275",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[31] p.",
+                "CONTROL_NO": "CIP2020053498",
+                "SERIES_NO": "10",
+                "EA_ISBN": "9791165880729",
+                "INPUT_DATE": "20201216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "지구는 네가 필요해!",
+                "PUBLISH_PREDATE": "20210219",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "77400 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

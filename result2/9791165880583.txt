@@ -1,0 +1,78 @@
+{
+    "otitle": "도깨비가 슬금슬금",
+    "oauthor": "이가을 글",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:16 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "도깨비가 슬금슬금",
+                "link": "https://search.shopping.naver.com/book/catalog/32666010620",
+                "image": "https://shopping-phinf.pstatic.net/main_3266601/32666010620.20221019134948.jpg",
+                "author": "이가을",
+                "discount": "10800",
+                "publisher": "북극곰",
+                "pubdate": "20220605",
+                "isbn": "9791165880583",
+                "description": "이제껏 듣도 보도 못한 전혀 새로운 도깨비들의 향연.\n도깨비와 친구로 살아온 할머니 작가님이 특별히 꺼내 놓은 웃음과 해학의 이야기 보따리\n\n2017년 출간되어 많은 사랑을 받아 온 이가을 작가의 『도깨비가 슬금슬금』이 재치와 해학이 가득한 허구 작가의 그림과 함께 새롭게 태어났습니다. 뻔한 도깨비가 아니라, 타고난 이야기꾼 이가을 작가의 손끝에서 탄생한 재미난 도깨비 친구들을 만나 보세요. 하나밖에 모르는 도깨비 하나, 씨름꾼 도깨비 어영차, 옹기전 도깨비 와장창, 대장간 도깨비 뚝딱, 수다쟁이 도깨비 와글와글, 물 도깨비 출렁출렁 등 하나같이 매력이 철철 넘치는 도깨비들이랍니다. \n도깨비의 세계관, 도깨비가 사람 곁을 어슬렁거리는 이유, 나아가 도깨비와 친구가 되는 방법까지 알게 되는 깨알같이 알차고 재미난 책, 『도깨비가 슬금슬금』입니다."
+            },
+            {
+                "title": "도깨비가 슬금슬금",
+                "link": "https://search.shopping.naver.com/book/catalog/32490949888",
+                "image": "https://shopping-phinf.pstatic.net/main_3249094/32490949888.20220527035559.jpg",
+                "author": "이가을",
+                "discount": "8910",
+                "publisher": "북극곰",
+                "pubdate": "20170110",
+                "isbn": "9791186797501",
+                "description": "타고난 이야기꾼 이가을 작가의 재미있고 감동적인 도깨비 이야기\n\n타고난 이야기꾼 이가을 작가가 재미와 감동을 동시에 주는 도깨비 이야기 보따리를 들고 독자들을 찾아왔습니다. 절대 사람에게 모습을 들켜서는 안 되고 무얼 가질 수도 없는 도깨비들은 사람과 친구가 되고 싶어 늘 마을을 기웃거리며 사람들을 골려 주기도 하고 도와주기도 합니다. 그래서 사람들은 늘 이렇게 말하죠. “이게 뭔 도깨비 조화 속이랴?” 이게 바로 도깨비가 사람들에게 가장 듣고 싶은 말이라네요!\n\n『도깨비가 슬금슬금』은 인간보다 더 따뜻한 저자만의 도깨비들을 만나볼 수 있습니다. 외로운 사람을 달래주고, 가난한 이웃에게 온정을 베풀기도 한 도깨비들의 모습은 아이들에게 교훈을 선사합니다. 할머니가 들려주는 이야기처럼 빠져들다보면 어느새 도깨비와 신나게 놀고 있는 자신을 발견하게 될 것입니다. 재미는 물론 마음 깊숙한 곳까지 따듯해지는 행복을 느낄 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20220801",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "이가을 글 ;허구 그림",
+                "SERIES_TITLE": "이야기샘 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791165880989",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/05/9791165880583.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "168*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "134 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "6",
+                "EA_ISBN": "9791165880583",
+                "INPUT_DATE": "20220512",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "도깨비가 슬금슬금",
+                "PUBLISH_PREDATE": "20220605",
+                "RELATED_ISBN": "9791165881870",
+                "SET_ADD_CODE": "74800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

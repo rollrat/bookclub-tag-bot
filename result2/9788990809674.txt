@@ -1,0 +1,67 @@
+{
+    "otitle": "그들은 자신들이 자유롭다고 생각했다",
+    "oauthor": "밀턴 마이어 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그들은 자신들이 자유롭다고 생각했다 (나치 시대 독일인의 삶, 선한 사람들의 침묵이 만든 오욕의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496971714",
+                "image": "https://shopping-phinf.pstatic.net/main_3249697/32496971714.20221230074636.jpg",
+                "author": "밀턴 마이어",
+                "discount": "16650",
+                "publisher": "갈라파고스",
+                "pubdate": "20141127",
+                "isbn": "9788990809674",
+                "description": "열 명의 나치를 통해 침묵과 방조의 역사를 파헤친다.\n\n나치 시대를 이해하는 필독서『그들은 자신들이 자유롭다고 생각했다』. 나치와 히틀러의 잔혹상이 남아 있던 1955년 처음 출간 된 이 책은 당시 커다란 논쟁을 불러일으키며 지금도 세계적으로 나치 시대를 이해하는 필독서로 읽히고 있다. 미국의 저명한 언론인인 저자 밀턴 마이어는 패전국 독일을 찾아 열 명의 나치 가담자와 심층적 인터뷰를 통해 이 책을 완성했다. 예리한 통찰과 분석으로 나치즘이 무기력한 수백만 명 위에 군림한 악마적인 소수의 존재가 아니라 다수 대중의 동조와 협력의 산물이었음을 밝혀낸다.\n\n유대인 학살을 비롯한 제2차 세계대전은 히틀러와 그 추종자인 소수의 전횡으로 간주되고 있으나 이 책의 저자는 대다수 독일인은 나치즘의 피해자가 아닌 공범죄라고 봐야 한다고 말한다. 대다수 독일인들이 히틀러에게 동질감을 느끼고 나치 정권의 정책을 지지하며 권력을 안겼으며 반유대주의와 반공주의 선동을 무비판적으로 받아들이며 비극의 원인을 제공한 것이다. \n\n저자는 인터뷰를 통해 이들의 황금기라고 믿었던 히틀러 시절, 유대인에 대한 잘못된 편견으로 생긴 반유대적 감정과 나치 전력자들의 책임의 외면하는 모습을 지켜보며 인간은 불의에 맞서야 함을 항변한다. 자신이 인터뷰한 평범한 독일인들은 그저 무난히 살아가려는 바람 때문에 부패하게 되었다고 지적하며 전후 독일의 나치 가담자들의 말과 생각을 통해 비극의 근원을 밝히고 이를 막기위한 시민적 행동을 촉구한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)갈라파고스",
+                "DDC": "943.086",
+                "UPDATE_DATE": "20141223",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "밀턴 마이어 / 박중서 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "925.073",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4107635_3.jpg",
+                "PRE_PRICE": "18500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4107635_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014032910",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990809674",
+                "INPUT_DATE": "20141112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "그들은 자신들이 자유롭다고 생각했다",
+                "PUBLISH_PREDATE": "20141127",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

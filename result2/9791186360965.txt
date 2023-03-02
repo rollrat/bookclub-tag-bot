@@ -1,0 +1,67 @@
+{
+    "otitle": "조금 다르게 살면 어때",
+    "oauthor": "김태진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조금 다르게 살면 어때",
+                "link": "https://search.shopping.naver.com/book/catalog/32496935700",
+                "image": "https://shopping-phinf.pstatic.net/main_3249693/32496935700.20221227203103.jpg",
+                "author": "김태진",
+                "discount": "12420",
+                "publisher": "42미디어콘텐츠",
+                "pubdate": "20180810",
+                "isbn": "9791186360965",
+                "description": "인생은 답을 찾는 긴 여행, 그 여행은 패키지 상품이 아니다. 모두에게 열린, 자신만이 기획할 수 있는 계획의 여행이다. 평범하지만 순탄치만은 않았던 김태진 대표의 이야기를 담았다. 모든 청춘이 그러하듯이 자신이 고민했던 것을 나누고 청년들을 위한 공간을 위해 애썼던 저자의 진심이 고스란히 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "42 Media Contents",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20180820",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김태진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6826916_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "228 p.",
+                "CONTROL_NO": "CIP2018023424",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186360965",
+                "INPUT_DATE": "20180725",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "조금 다르게 살면 어때",
+                "PUBLISH_PREDATE": "20180810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "테드, 미래를 보는 눈",
+    "oauthor": "박용삼 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "테드, 미래를 보는 눈 (테드가 들려주는 미래의 풍경 49)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492771245",
+                "image": "https://shopping-phinf.pstatic.net/main_3249277/32492771245.20221019150405.jpg",
+                "author": "박용삼",
+                "discount": "14400",
+                "publisher": "원앤원북스",
+                "pubdate": "20171115",
+                "isbn": "9791160020915",
+                "description": "테드(TED)를 통해 들여다보는 예측불허의 미래!\n\n앞으로 우리가 직면하게 될 미래의 풍경을 테드를 통해 통찰하는 책이 나왔다. 테드란 전 세계 39억 뷰에 달하는 화제성 높은 공개 강연회로 미래에 우리가 겪게 될 일상, 미래에 고민해야 할 숙제, 미래의 기술이 열어갈 신세계의 모습을 전 세계 각지의 인사(人士)들이 강연의 형식으로 풀어낸 정기 컨퍼런스다. ‘초(超)불확실성’의 시대인 지금, 세상을 구성하는 다양한 분야의 패러다임은 갈수록 더 빠르게 변하고 있고, 그래서 다가올 미래가 더 불안하기만 하다. 기술·예술·감성이 어우러진 테드가 우리에게 미래에 대한 힌트를 제시하지만, 외국어로 진행되는 2천 건이 넘는 강연을 일일이 해석하며 찾아보기란 쉽지 않은 일이다. 다행히 그런 고충을 해소해주기 위해 경영전문가인 저자가 테드 중에서도 좋은 강연들을 선별해 관련된 보충자료를 더하고, 개인적인 생각과 해석을 덧붙인 후 기술적이거나 전문적인 내용들은 쉽게 풀어서 설명했다. 이 책이 골치 아픈 현실을 살고 있는 현대인들을 위한 친절한 매뉴얼이 되어줄 것이다.\n\n ‘일상’ ‘사회’ ‘세상’ ‘불안’ ‘미래’ 5가지 분야로 정리된 주옥같은 49가지 테드 강연이 담긴 이 책을 통해 우리는 미래를 예측하고 대비할 수 있다. ‘어떻게 하면 더 행복해질 수 있을까?’ ‘왜 더이상 소수의 엘리트로는 세상을 이끌 수 없다는 걸까?’ ‘인공지능 시대, 우리의 일자리는 어떻게 될까?’ 등 세상을 바꾸었고, 또 바꾸고 있는 창의적인 아이디어들이 이 책에 담겨 있다. 미래에 대한 불안은 남녀노소, 직업의 여하를 떠나 누구나 가지고 있는 공통된 고민으로 혼자서 쉽게 해소할 수 있는 문제는 아니다. 그렇기에 더더욱 빌 게이츠, 셰릴 샌드버그, 앨 고어 등 오피니언리더들이 들려주는 이야기 속에서 다양한 영감을 얻어야 한다. 이 책은 불안한 현대인들이 미래를 대비할 수 있게 해주는 가이드북이 되어 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스 :원앤원콘텐츠그룹",
+                "DDC": "179",
+                "UPDATE_DATE": "20171122",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "박용삼 지음",
+                "SERIES_TITLE": "",
+                "KDC": "199.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6390936_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6390936_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6390936_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "CIP2017026671",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160020915",
+                "INPUT_DATE": "20171016",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "테드, 미래를 보는 눈",
+                "PUBLISH_PREDATE": "20171115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

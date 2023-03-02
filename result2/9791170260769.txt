@@ -1,0 +1,78 @@
+{
+    "otitle": "미래를 살리는 착한 소비 이야기",
+    "oauthor": "한화주 글/박선하 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:40 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "미래를 살리는 착한 소비 이야기 (동화로 보는 착한 소비의 모든 것!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492084526",
+                "image": "https://shopping-phinf.pstatic.net/main_3249208/32492084526.20220527053143.jpg",
+                "author": "한화주",
+                "discount": "9900",
+                "publisher": "팜파스",
+                "pubdate": "20160315",
+                "isbn": "9791170260769",
+                "description": "윤리적인 착한 소비를 실천하자!\n\n『미래를 살리는 착한 소비 이야기』는 어린이 친구들에게 소비를 통해 사회 활동과 경제 활동에 대한 이해를 높이며, 현명한 소비 생활에 대해 생각거리를 던져 주는 동화책이다. 왜 싼 제품을 사면 지구 건너, 혹은 이웃 나라의 아이들이 더 고생하게 되는지, 왜 동네 가게 주인아저씨의 걱정이 대형마트와 관련이 있는지, 어린이 친구 눈에는 잘 이해되지 않는 소비에 관한 진실과 흐름을 들려준다. 세상은 더 연결되어 있고, 나의 작은 소비가 어떤 영향력을 가지는지를 알려준다."
+            },
+            {
+                "title": "2021 사고력을 키워주는 초등4학년 교과연계 추천도서 전6권 (미래를 살리는 착한 소비 이야기, 미래를 이끄는 어린이를 위한 소셜 미디어 이야기, 문화유산을 지키는 사람들, 15소년 안전 표류기, 어린이 세계시민학교, 초등 한자력 사전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506687490",
+                "image": "https://shopping-phinf.pstatic.net/main_3250668/32506687490.20220521152500.jpg",
+                "author": "",
+                "discount": "0",
+                "publisher": "팜파스",
+                "pubdate": "20070503",
+                "isbn": "6000357016",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20160418",
+                "EA_ADD_CODE": "73300",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "한화주",
+                "SERIES_TITLE": "",
+                "KDC": "321",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5257351_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5257351_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "142쪽",
+                "CONTROL_NO": "CIP2016005183",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170260769",
+                "INPUT_DATE": "20160223",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "미래를 살리는 착한 소비 이야기",
+                "PUBLISH_PREDATE": "20160315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

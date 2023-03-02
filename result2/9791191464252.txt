@@ -1,0 +1,67 @@
+{
+    "otitle": "사지 않고 삽니다",
+    "oauthor": "정희선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사지 않고 삽니다 (나만의 라이프스타일을 완성하는 구독경제 소비생활)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439258437",
+                "image": "https://shopping-phinf.pstatic.net/main_3243925/32439258437.20230218110637.jpg",
+                "author": "정희선",
+                "discount": "15300",
+                "publisher": "미래의창",
+                "pubdate": "20210621",
+                "isbn": "9791191464252",
+                "description": "“제품에서 서비스로, 소유에서 경험으로”\n오늘의 비즈니스에서 내일의 인사이트를 배운다\n\n사람들의 안목은 점점 높아지고 취향은 더욱더 까다로워지고 있다. ‘소유’보다 차별화된 ‘경험’에 가치를 두는 최근의 고객들을 만족시키기 위해서는 새로운 비즈니스 전략이 필요하다. 구독경제 강국인 일본 현지에서 활동하는 경영 컨설턴트이자, 리테일 및 라이프스타일 전문가인 저자는 구독 비즈니스 성공사례에서 그 해답을 찾는다. 이 책에서는 소비 트렌드 및 기업환경의 변화를 분석해 구독경제가 성장하게 된 배경부터 구독 비즈니스의 본질과 특징, 운영 시 유의점까지 소비 트렌드의 중심에 선 구독경제의 모든 것을 알기 쉽게 설명하고 있다. 또한 국내외 구독 모델 성공 사례를 중심으로 구독 서비스가 제공하는 새로운 가치를 ‘큐레이션, 맞춤, 경험’이라는 세 가지 키워드로 소개한다. 특히 국내에서 쉽게 볼 수 있는 온라인 콘텐츠 등 무형의 구독 모델이 아닌, 재화 중심의 구독 서비스 사례를 선별한 것이 특징이다. 국내 구독경제 시장에서 재화 구독 서비스는 아직 초기 단계로 앞으로 성장할 여지가 더욱 크다.\n이 책을 통해 의식주를 아우르는 모든 영역에서 독자들의 라이프스타일을 한 단계 업그레이드하는 색다른 경험을 선사하며, 새로운 비즈니스 기회 속에서 분명한 브랜드 전략과 인사이트를 제공해줄 구독경제의 이야기를 만나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미래의창",
+                "DDC": "",
+                "UPDATE_DATE": "20210728",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정희선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*206",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191464252",
+                "INPUT_DATE": "20210527",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "사지 않고 삽니다",
+                "PUBLISH_PREDATE": "20210621",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

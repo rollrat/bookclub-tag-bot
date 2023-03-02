@@ -1,0 +1,67 @@
+{
+    "otitle": "외국어 학습담",
+    "oauthor": "로버트 파우저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "외국어 학습담 (외국어 학습에 관한 언어 순례자 로버트 파우저의 경험과 생각)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441624767",
+                "image": "https://shopping-phinf.pstatic.net/main_3244162/32441624767.20230103162845.jpg",
+                "author": "로버트 파우저",
+                "discount": "15990",
+                "publisher": "혜화1117",
+                "pubdate": "20210901",
+                "isbn": "9791191133035",
+                "description": "“미국인이 한국어로 책을 쓴다고요? \n한국말로 강의를 한다고요? \n어떻게 하면 외국어를 그렇게 잘할 수 있나요?\n외국어를 잘하고 싶은데 따로 방법이 있나요?”\n\n이 책의 저자이자 미국인 백인 남성인 로버트 파우저는 한국에서 이루어지는 모든 강연은 물론, 언론사의 칼럼을 비롯해 모든 저술 활동은 직접 한국어와 한글로 말하고 쓰고 있다. 이 책 역시 처음부터 끝까지 한글로 직접 집필했음은 물론이다. \n그는 1980년대 중반 이후 한국과 한국어를 만난 뒤 2008년부터 2014년까지 서울대학교 국어교육과 교수로 재직했다. 그 이전에는 일본에서 일본어를 공부하고, 교토 대학교를 비롯한 일본의 여러 대학에서 일본어로 영어와 한국어를 가르쳤다. 미국에서 태어났으나 평생 미국 밖에서 더 많이 살아온 그는 모어인 영어가 아닌 한국어와 일본어로 의사소통을 하며 산 세월이 각각 십수 년이며, 스페인어, 독일어, 중국어, 몽골어, 프랑스어, 포르투갈어를 비롯해 라틴어, 북미 선주민 언어, 중세 한국어에 이어 에스페란토어와 이탈리아어까지 두루 섭렵해온 명실상부 세계 언어순례자다. 이밖에도 그의 외국어 진입의 역사는 다종하고 다양하다. \n그런 그에게 외국어를 잘하는 비법을 묻는 질문은 일상적인 것이기도 하다. 이 책은 바로 이 질문에서 비롯되었다. 그는 영어가 아닌 다른 언어권에 사는 동안 그 나라와 지역의 언어를 배우고 사용하며 살았다. 그런 그에게 외국어는 삶의 기반이자 터전의 언어였다. 그런 그는 숱하게 받아온 질문 앞에서 이 책을 통해 어떤 답을 내놓았을까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "혜화1117",
+                "DDC": "",
+                "UPDATE_DATE": "20210929",
+                "EA_ADD_CODE": "03700",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "로버트 파우저 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/19/9791191133035.jpg",
+                "PRE_PRICE": "18500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "331 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191133035",
+                "INPUT_DATE": "20210819",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "외국어 학습담",
+                "PUBLISH_PREDATE": "20210901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

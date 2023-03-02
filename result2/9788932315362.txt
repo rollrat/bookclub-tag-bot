@@ -1,0 +1,67 @@
+{
+    "otitle": "도쿠가와가 사랑한 책",
+    "oauthor": "고운기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도쿠가와가 사랑한 책",
+                "link": "https://search.shopping.naver.com/book/catalog/32505016734",
+                "image": "https://shopping-phinf.pstatic.net/main_3250501/32505016734.20221019143232.jpg",
+                "author": "고운기",
+                "discount": "12420",
+                "publisher": "현암사",
+                "pubdate": "20091210",
+                "isbn": "9788932315362",
+                "description": "삼국유사 전문가 고운기의 ‘스토리텔링 삼국유사’\n\n『도쿠가와가 사랑한 책』은 를 두고 벌어진 한국과 일본의 숨은 이야기를 담았다. 저자는 한국과 일본을 오가며 가 같은 시대에 각각 어떤 대접을 받았는지 알아보고, 그에 따른 결과가 역사적으로 어떻게 나타나는지 생생하게 들려준다. 한 권의 책이 유통된 과정을 통해, 한 나라는 문을 닫고 한 나라를 다른 나라를 식민통치하는 결과가 필연적이었음을 밝힌다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "951.901",
+                "UPDATE_DATE": "20091214",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "고운기 지음",
+                "SERIES_TITLE": "스토리텔링 삼국유사",
+                "KDC": "911.03",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2373329_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2373329_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2009003797",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788932315362",
+                "INPUT_DATE": "20091127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "도쿠가와가 사랑한 책",
+                "PUBLISH_PREDATE": "20091210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

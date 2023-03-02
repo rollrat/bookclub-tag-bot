@@ -1,0 +1,67 @@
+{
+    "otitle": "두뇌는 최강의 실험실",
+    "oauthor": "신바 유타카 저/홍주영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "두뇌는 최강의 실험실 (학문의 상식을 뒤흔든 사고실험)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463129735",
+                "image": "https://shopping-phinf.pstatic.net/main_3246312/32463129735.20221227205710.jpg",
+                "author": "신바 유타카",
+                "discount": "13500",
+                "publisher": "끌레마",
+                "pubdate": "20161124",
+                "isbn": "9788994081663",
+                "description": "최고의 재미와 지적 쾌감을 선사한다!\n제논, 갈릴레이, 데카르트, 뉴턴, 슈뢰딩거, 아인슈타인……\n인류 최고 천재들의 짜릿한 사고실험 20가지\n\n순간이동을 한 당신은 원래의 당신과 동일인물인가? 우리가 사는 이 세계가 꿈이 아니라고 단언할 수 있을까? 현재의 행위가 지나간 과거를 바꿀 수 있을까? 컴퓨터는 지성을 지닐 수 있을까? 살아 있는 것도 죽어 있는 것도 아니라는 것은 어떤 의미인가? 돌이킬 수 없는 일을 원상태로 되돌릴 수 있을까? \n\n위 질문 중 어떤 것도 쉽게 답하기 어려울 것이다. 그럼, 인류 최고의 천재들은 어땠을까? 제논, 갈릴레이, 데카르트, 뉴턴, 슈뢰딩거, 아인슈타인 같은 누구나 아는 천재들은 사고실험을 통해 답을 찾아갔다. 각 분야의 최고 지성들이 인류의 중요한 난제들에 의문을 품고 사고실험을 통해 답을 찾아가는 과정을 담은 책 『두뇌는 최강의 실험실』이 출간되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "끌레마",
+                "DDC": "501",
+                "UPDATE_DATE": "20170418",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "신바 유타카",
+                "SERIES_TITLE": "",
+                "KDC": "401",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5842314_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5842314_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "340",
+                "CONTROL_NO": "CIP2016025329",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994081663",
+                "INPUT_DATE": "20161020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "두뇌는 최강의 실험실",
+                "PUBLISH_PREDATE": "20161124",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

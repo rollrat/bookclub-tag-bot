@@ -1,0 +1,67 @@
+{
+    "otitle": "매일매일 색다른 어묵 밥상",
+    "oauthor": "최은숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "매일매일 색다른 어묵 밥상 (매일매일 색다른, 국민 반찬 어묵의 화려한 변신)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506169666",
+                "image": "https://shopping-phinf.pstatic.net/main_3250616/32506169666.20221229073037.jpg",
+                "author": "최은숙",
+                "discount": "8820",
+                "publisher": "시그마북스",
+                "pubdate": "20170206",
+                "isbn": "9788984458413",
+                "description": "어묵은 우리에게 매우 친숙한 먹거리다. 그런 어묵을 좀 더 특별한 요리로 만들어보면 어떨까? \n\n우리가 부르는 오뎅과 어묵의 차이, 우리나라 역사 속 어묵이야기와 어묵의 종류 등을 살펴보고, 어묵요리를 위해 기본적으로 알아두어야 요리의 기초에 이어 어묵요리를 위한 기본 육수와 소스, 그리고 국물요리와 볶음요리를 중심으로 한 기본 조리법, 술안주, 손쉬운 뚝딱 요리에서부터 품격 있는 일품요리, 홈메이드 어묵과 이를 활용한 레시피 등 어묵을 더욱더 근사하고 특별하게 요리하는 법과 어묵의 특징과 장점을 살린 50여 가지 레시피를 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20170614",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "최은숙",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6062973_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6062973_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "136",
+                "CONTROL_NO": "CIP2017000937",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984458413",
+                "INPUT_DATE": "20170110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "매일매일 색다른 어묵 밥상",
+                "PUBLISH_PREDATE": "20170206",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

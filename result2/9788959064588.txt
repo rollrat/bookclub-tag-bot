@@ -1,0 +1,67 @@
+{
+    "otitle": "헌법 쉽게 읽기",
+    "oauthor": "김광민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "헌법 쉽게 읽기 (상식적이지만 비범한 우리의 법 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436123835",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436123835.20221227202903.jpg",
+                "author": "김광민",
+                "discount": "14400",
+                "publisher": "인물과사상사",
+                "pubdate": "20171010",
+                "isbn": "9788959064588",
+                "description": "쉽고 친절한 헌법 안내서. 2016년 헌법에 의해, 헌법재판소에서 대통령이 탄핵당했다. 시민들은 광장에서 “대한민국은 민주공화국이다”라며 헌법 제1조 제1항을 외쳤다. 광장의 시민들이 원했던 ‘상식이 통하는 나라’를 만들기 위해서는 헌법으로 돌아가야 하고, 시대에 뒤떨어진 조항은 수정되어야 한다. 헌법을 이해하는 것은 시민의 권리와 한국 사회의 구조, 정치권력을 이해한다는 뜻이다. 이 책은 시민이 권력을 감시하고 빼앗겼던 권리를 찾으며 나아가 개헌 논의에 참여할 수 있도록 헌법 제1장과 제2장의 각 조항을 일상의 이슈를 들어 쉬운 언어로 설명한다.\n\n\n\n대한민국의 ‘기준’인 헌법 중에서도 기본권을 다룬 제1장과 제2장을 설명한다. 기본권은 대한민국의 정체성과 국민의 권리와 의무를 다룬 부분으로, 헌법에서도 가장 중요한 부분이다. 이 책은 개인적인 감상을 내세우기보다 각종 사건·사고와 사회적 이슈를 들어 헌법의 각 조항의 의미와 왜 그런 조항이 생겼는지, 그리고 해당 사건이 왜 합헌(또는 위헌)인지 쉽게 설명한다. 일상에서 접할 수 있는 일들, 누구나 한 번쯤 뉴스에서 들어봤을 사건들을 예시로 들어 이해하기 쉬우며, 유사한 일들에 대입해 왜 그것이 옳은지(또는 그른지) 판단할 수 있게끔 지침이 되어준다. 또한 헌법에 잘못된 부분이 있으면 왜 그 조항이 잘못되었는지 설명하므로, 독자들이 1987년 헌법에 매몰되지 않고 개헌에 참여할 수 있도록 기반 지식을 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과사상사",
+                "DDC": "342.002",
+                "UPDATE_DATE": "20171020",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "김광민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "362.004",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6368996_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6368996_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "384 p.",
+                "CONTROL_NO": "CIP2017024822",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959064588",
+                "INPUT_DATE": "20170920",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "헌법 쉽게 읽기",
+                "PUBLISH_PREDATE": "20171010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

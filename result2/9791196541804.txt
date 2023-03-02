@@ -1,0 +1,67 @@
+{
+    "otitle": "좋아하는 걸 좋아하는 게 취미",
+    "oauthor": "김신지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋아하는 걸 좋아하는 게 취미 (행복의 ㅎ을 모으는 사람)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463530618",
+                "image": "https://shopping-phinf.pstatic.net/main_3246353/32463530618.20221227203651.jpg",
+                "author": "김신지",
+                "discount": "12420",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20181212",
+                "isbn": "9791196541804",
+                "description": "《Collect moments not things》, 삶을 ‘잘’ 살아내기 위해 좋아하는 것을 좋아하기로 했다\n매거진 『PAPER』,『AROUND』,『대학내일』 등 여러 매체를 통해 빛나는 감성을 보여준 김신지 작가의 순간 수집 에세이 『좋아하는 걸 좋아하는 게 취미』가 위즈덤하우스에서 출간되었다. 자신이 좋아하는 순간을 기록한 이 책은 우리가 놓치고, 잃어버리고, 미처 깨닫지 못했던 작은 행복(작가는 그것을 ‘ㅎ’이라 부른다)들을 소중히 담아 보여준다. 특히 무엇이든 자신을 평소의 자신보다 조금 더 좋아지게 만드는 것을 아주 많이 좋아해보는 일은 ‘좋은 나’를 조금씩 연습하는 방법이다. “마지막 장을 덮고 나니 아, 세상이 이리도 촘촘하게 아름답다”던 김하나 작가의 추천사처럼, 이 책을 읽고 나면 자신이 좋아하는 작은 ㅎ들을 찾아 나서게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스 :위즈덤하우스 미디어그룹",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181231",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김신지 글·사진",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7027864_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7027864_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "315 p.",
+                "CONTROL_NO": "CIP2018038699",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196541804",
+                "INPUT_DATE": "20181121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "좋아하는 걸 좋아하는 게 취미",
+                "PUBLISH_PREDATE": "20181212",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "otitle": "학교에서 영화찍자",
+    "oauthor": "안슬기 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "학교에서 영화찍자 (청소년 감독이 씹어 먹어야 할 레알 130가지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480513773",
+                "image": "https://shopping-phinf.pstatic.net/main_3248051/32480513773.20221019120235.jpg",
+                "author": "안슬기",
+                "discount": "13500",
+                "publisher": "다른",
+                "pubdate": "20130330",
+                "isbn": "9788992711678",
+                "description": "『학교에서 영화찍자』는 영화감독이면서 15년 경력의 공립 고등학교 수학교사 안슬기가 청소년 감독이 알아야 할 영화 만들기의 130가지를 안내한다. 시나리오 쓰기부터 촬영 준비, 촬영 현장, 편집, 상영까지 영화에 대한 모든 것을 자세히 알려준다."
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "청년을 위한 세계사 강의 1",
+    "oauthor": "모지현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:51 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "청년을 위한 세계사 강의 1: 고대 서아시아에서 근대 유럽까지 (세상을 해석한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490655637",
+                "image": "https://shopping-phinf.pstatic.net/main_3249065/32490655637.20221019150206.jpg",
+                "author": "모지현",
+                "discount": "13500",
+                "publisher": "들녘",
+                "pubdate": "20160629",
+                "isbn": "9791159251696",
+                "description": "세계사를 알면 세상을 해석하는 힘이 생긴다!\n\n역사를 이해하려면 무엇보다 현재의 모습을 직시해야 한다. ‘지금, 여기’를 살아가는 사람들의 아픔과 기쁨에 대한 관심, 그들이 직면한 문제를 함께 고민하고 싶어 하는 사랑이 없다면 역사는 그저 흥미로운 판타지 소설이나 여러 지식을 나열한 잡학의 집합체가 될 뿐이다. 인류가 청동기와 문자를 기반으로 문명을 꽃피운 이래 역사가 어떻게 흘러갔는지 지역별로 살피는 이 책은 시대 구분에 따라 진행되었던 기존의 서양 중심 서술을 지양하고 서아시아 지방에서 시작된 인류 문명이 유럽을 넘어 아메리카와 오세아니아를 돌며 동아시아 대륙을 거친 후 어떻게 아프리카와 현대의 서아시아에서 다시 만나는지 탐색한다."
+            },
+            {
+                "title": "청년을 위한 세계사 강의 2: 중남아메리카에서 현대 서아시아까지 (세상을 해석한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505224647",
+                "image": "https://shopping-phinf.pstatic.net/main_3250522/32505224647.20220527030147.jpg",
+                "author": "모지현",
+                "discount": "14400",
+                "publisher": "들녘",
+                "pubdate": "20160629",
+                "isbn": "9791159251702",
+                "description": "인류 문명의 시원 서아시아에서 시작하여 분쟁 지역 현대 서아시아로 돌아오는 세계사 『청년을 위한 세계사 강의. 2: 세상을 해석한다』. 이 책은 인류가 청동기와 문자를 기반으로 역사가 어떻게 흘러갔는지 지역별로 살핀다. 제 2권에서는 문명이 아메리카와 오세아니아를 돌며 동아시아 대륙을 거친 후 아프리카와 현대의 서아시아에서 다시 만나는 과정을 탐색하는 방식을 취한다. 또한 우리와 같은 모습으로 살아간 '누군가의 있었던 삶'을 추적하여 역사에 대해 친절한 설명과 독자의 자발적인 사고와 판단을 촉발시키는 안내서 역할을 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20161123",
+                "EA_ADD_CODE": "44900",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "모지현",
+                "SERIES_TITLE": "",
+                "KDC": "909",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791159251689",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5540491_3.jpg",
+                "PRE_PRICE": "31000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5540491_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 250페이지 내외",
+                "CONTROL_NO": "CIP2016015249",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159251696",
+                "INPUT_DATE": "20160620",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "청년을 위한 세계사 강의1: 고대 서아시아에서 근대 유럽까지",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

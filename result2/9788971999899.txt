@@ -1,0 +1,67 @@
+{
+    "otitle": "수화 배우는 만화",
+    "oauthor": "핑크복어 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수화 배우는 만화",
+                "link": "https://search.shopping.naver.com/book/catalog/32468395009",
+                "image": "https://shopping-phinf.pstatic.net/main_3246839/32468395009.20221228074231.jpg",
+                "author": "핑크복어",
+                "discount": "11700",
+                "publisher": "돌베개",
+                "pubdate": "20200103",
+                "isbn": "9788971999899",
+                "description": "백 마디 거창한 이유보다 배우고 싶은 마음 하나\n평범한 청인 핑크복어의 명랑 수어 도전기\n\n지성과 감동, 가슴 뛰는 별별 이야기의 세계\n돌베개 그래픽노블 & 논픽션 시리즈 ‘만화경’\n\n‘‘가족이나 친구 중에 장애인 있어?” \n‘‘대단하다! 봉사활동하려고?” \n‘‘통역사 자격증 따려는 거야?” \n아니요. ‘그냥 배우고 싶어서’ 오늘부터 수어를 배웁니다. \n\n미술학원에서 학생들을 가르치는 청인 핑크복어. 학창 시절에 청각장애를 가진 친구와 제대로 대화하지 못한 아쉬움을 십 년 넘게 품고 있다가 드디어 수어를 배우기로 한다. 봉사활동이니 목적의식이니 좋은 일, 대단한 일 따위의 말, 수어를 배운다고 할 때마다 으레 따라붙는 주변의 반응에 “그냥”이라고 답하며, 질문으로 가득한 세계에 발을 들인다.      \n『수화 배우는 만화』는 ‘한 권으로 수어 정복’ 같은 학습서도, 대단한 인문학적 성찰을 담은 교양서도 아니다. 그저 평범한 개인이 처음으로 수어를 배우며 겪는 재미와 어려움, 좌절감과 성취감에 대해 솔직하고 유쾌하게 그린 자전적 그림일기다. 작가는 수어를 배우는 과정에서 다양한 생각과 입장을 가진 농인, 청인 들과 교류하며 자연스럽게 ‘장애’에 대한 주변의 인식과 태도에 주목하고 자기 안의 편견들을 깨달아 간다. 그렇게 배울수록 커지는 고민들과 답을 찾기 어려운 질문들도 조심스럽게 털어놓는다.\n코다(Children Of Deaf Adult) 영화감독 이길보라의 추천사를 실었으며, 서울수어전문교육원에서 본문 감수를 진행했다. 『수화 배우는 만화』는 연재 당시의 제목을 그대로 사용한 것으로, 본문에서는 의도한 장면 외에 모두 공식 명칭인 ‘수어’로 표기했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "돌베개",
+                "DDC": "",
+                "UPDATE_DATE": "20200129",
+                "EA_ADD_CODE": "07810",
+                "PUBLISHER_URL": "www.dolbegae.com",
+                "AUTHOR": "핑크복어 지음",
+                "SERIES_TITLE": "",
+                "KDC": "379.138",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/03/9788971999899.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "256 p.",
+                "CONTROL_NO": "CIP2019049360",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788971999899",
+                "INPUT_DATE": "20191203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "수화 배우는 만화",
+                "PUBLISH_PREDATE": "20200103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

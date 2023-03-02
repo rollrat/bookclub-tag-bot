@@ -1,0 +1,67 @@
+{
+    "otitle": "미친 국어사전",
+    "oauthor": "박일환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미친 국어사전 (국립국어원의 「표준국어대사전」 비판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436337681",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436337681.20221230073814.jpg",
+                "author": "박일환",
+                "discount": "10800",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20151005",
+                "isbn": "9788964620618",
+                "description": "국립국어원이 편찬한 &lt;표준국어대사전&gt;에 대한 비판은 하루 이틀된 이야기가 아니다.분기별로 수정 작업을 하고 있지만 이런 식의 임시방편으로는 한계가 있으며, 앞으로 10년, 20년을 내다보면서 완전히 새롭게 편찬한다는 각오를 다지지 않으면 해결이 불가능하다고 저자는 주장한다. 총 13장으로 구성된 이 책에서 짚은 문제들은 빙산의 일각일 뿐이다.\n\n\n\n저자는 올바른 개정.보완을 위해 해야 할 일을 다음과 같이 정리해서 제시하고 있다. 첫째, 전문어 중심주의를 버려야 한다. 둘째, 보통 사람들의 숨결이 담긴 일반어와 생활어들을 많이 찾아서 실어야 한다. 셋째, 일반어 중에서도 더 이상 언어로서 효용성이 없거나 잠시 유행어 수준으로 지나가버린 것들은 빼고, 새로 생겨난 말들을 찾아내어 등재하는 쪽으로 관심을 넓혀야 한다. 넷째, 이미 나온 다른 사전들을 찾아서 서로 비교해보는 것도 하나의 방법이다. 그러나 무엇보다도 중요한 것은 국어사전다운 국어사전을 만들겠다는 마음가짐이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "495.73",
+                "UPDATE_DATE": "20151105",
+                "EA_ADD_CODE": "03710",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "박일환",
+                "SERIES_TITLE": "",
+                "KDC": "713",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4897626_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4897626_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "264페이지",
+                "CONTROL_NO": "CIP2015025674",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964620618",
+                "INPUT_DATE": "20150916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "미친 국어사전",
+                "PUBLISH_PREDATE": "20151005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

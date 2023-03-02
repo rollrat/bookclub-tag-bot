@@ -1,0 +1,67 @@
+{
+    "otitle": "짠테크의 품격",
+    "oauthor": "'짠돌이 부자 되기'네이버 카페 저/성형찬 엮음",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "짠테크의 품격 (아끼면서 남부럽지 않게 사는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436270361",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436270361.20220518131309.jpg",
+                "author": "&#39;짠돌이 부자 되기&#39; 네이버 카페",
+                "discount": "12600",
+                "publisher": "페이스메이커",
+                "pubdate": "20171226",
+                "isbn": "9791196164423",
+                "description": "2017년 네이버 대표카페 ‘짠돌이 부자 되기’의 11만 회원이 열광한 짠테크 성공기\n\n짠테크는 가난에 쪼들리는 사람들의 발악이다? 이제 짠테크는 새나가는 돈을 틀어막고 합리적이고 알뜰한 소비를 하는 재테크 트렌드다. 소비는 최소화하되 좋아하는 것을 즐기고, 저축에 올인하지만 여행은 포기하지 않는 짠테크의 고수들! 아껴서 초라한 사람이 될 것인지, 아껴도 당당한 사람이 될 것인지는 마음먹기에 달렸다. 현재의 행복도, 미래의 안정도 포기하지 못 하겠다면 이들의 조언에 귀 기울여보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Pace Maker(페이스메이커)",
+                "DDC": "332.024",
+                "UPDATE_DATE": "20180110",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "'짠돌이 부자 되기' 네이버 카페 지음 ;성형찬 엮음",
+                "SERIES_TITLE": "",
+                "KDC": "327.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6462379_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "CIP2017033039",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196164423",
+                "INPUT_DATE": "20171206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "아끼면서 남부럽지 않게 사는 짠테크의 품격",
+                "PUBLISH_PREDATE": "20171226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

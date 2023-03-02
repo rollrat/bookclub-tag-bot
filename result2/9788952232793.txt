@@ -1,0 +1,78 @@
+{
+    "otitle": "똑똑한 우리 몸 설명서",
+    "oauthor": "황근기 글/신동민 그림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:15 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "똑똑한 우리 몸 설명서 (뚝딱 읽는 인체 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466940997",
+                "image": "https://shopping-phinf.pstatic.net/main_3246694/32466940997.20221230074239.jpg",
+                "author": "황근기",
+                "discount": "9900",
+                "publisher": "살림어린이",
+                "pubdate": "20151113",
+                "isbn": "9788952232793",
+                "description": "알아 두면 피가 되고 살이 되는 우리 몸 설명서\n“소중한 우리 몸, 똑똑하게 알고 건강하게 지켜요!”\n재치 만점 일러스트와 함께 펼쳐지는 \n초등학생을 위한 튼튼 건강 상식!\n지겨운 인체 과학책은 이제 그만!\n몸에 대한 궁금증이 술술 풀리는 똑똑한 설명서의 탄생!\n\n몸은 집과 비슷해요. 집을 제대로 활용하려면 곳곳을 늘 관심 있게 보고, 고장 난 데는 빨리 고쳐 줘야 해요. 우리 몸도 마찬가지죠. 우리 몸이 어떻게 생겼는지, 몸속 장기들이 어떤 일을 하는지, 어떻게 해야 내 몸을 잘 보호하고 관리할 수 있는지 알아 두면 건강하게 오래 살 수 있어요. \n그런데 안타깝게도 많은 어린이가 자신의 몸에 대해 잘 모르는 게 사실이에요. 어떻게 생활하는 게 내 몸을 위한 건지도 잘 몰라요. 아토피 피부염으로 상처투성이인 어린이가 피자와 콜라를 먹고, 한창 커야 하는 성장기임에도 불구하고 뼈에서 칼슘이 빠져나가게 하는 인스턴트 음식을 골라 먹어요."
+            },
+            {
+                "title": "산하/초등 지식의 숲 시리즈 A 패키지 세트(전10권)/왜병에걸릴까요.지구인사용설명서.장애너는누구니.진화여행.짜장면의역사.똑똑한우리몸.그건무슨책이야.노벨평화상 외",
+                "link": "https://search.shopping.naver.com/book/catalog/32492051415",
+                "image": "https://shopping-phinf.pstatic.net/main_3249205/32492051415.20220520210528.jpg",
+                "author": "",
+                "discount": "0",
+                "publisher": "알라딘(디폴트)",
+                "pubdate": "20120710",
+                "isbn": "6000850780",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20160114",
+                "EA_ADD_CODE": "73400",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "황근기",
+                "SERIES_TITLE": "",
+                "KDC": "511",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4988239_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4988239_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "192",
+                "CONTROL_NO": "CIP2015029767",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952232793",
+                "INPUT_DATE": "20151030",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "똑똑한 우리 몸 설명서",
+                "PUBLISH_PREDATE": "20151113",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

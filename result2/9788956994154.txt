@@ -1,0 +1,67 @@
+{
+    "otitle": "홈트의 정석",
+    "oauthor": "수피 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "홈트의 정석 (이제 집에서도 수피가 함께한다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442317254",
+                "image": "https://shopping-phinf.pstatic.net/main_3244231/32442317254.20221019101353.jpg",
+                "author": "수피",
+                "discount": "17280",
+                "publisher": "한문화",
+                "pubdate": "20210630",
+                "isbn": "9788956994154",
+                "description": "홈 트레이닝 = 맨몸운동?\n홈트도 수피가 하면 다르다!\n\n2016년부터 2년 간격으로 운동 전반의 이론을 다룬《헬스의 정석-이론편》, 근력운동의 이론과 방법 및 운동 프로그램 구성법을 다룬《헬스의 정석-근력운동편》, 체중감량부터 벌크업까지 몸만들기를 위한 식사관리 플랜의 전반을 다룬《다이어트의 정석》시리즈를 펴내며 독자들에게 큰 호응을 받아온 수피가 이번엔《홈트의 정석》을 출간했다. 요즘 운동 트렌드는 단연코 홈 트레이닝(홈트)이다. 홈트는 시간과 비용 절약 외에도 장점이 많지만 그만큼 한계도 분명한 탓에 시작은 했으나 작심삼일로 끝나기 쉬웠다. 이 책은 저자의 내공에 값하는, 홈트의 한계를 넘은 ‘헬스장 못지않은 홈트’를 보여준다. 또한 단계별 홈짐 만들기, 홈트를 하기 전에 알아야 할 것들, 홈트 최적의 근력운동, 상황별 홈트 프로그램 등을 다루면서 다양한 변형 운동과 생활용품을 활용한 중량운동까지 폭을 넓혀 헬스장 운동과 비교해도 아쉽지 않은 ‘홈트의 신세계’를 경험하게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한문화 멀티미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211109",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "수피 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788956994154",
+                "INPUT_DATE": "20210507",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "홈트의 정석",
+                "PUBLISH_PREDATE": "20210630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

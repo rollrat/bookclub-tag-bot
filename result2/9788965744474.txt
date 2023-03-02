@@ -1,0 +1,67 @@
+{
+    "otitle": "당신이 없으면 내가 없습니다",
+    "oauthor": "정호승 저/박항률 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신이 없으면 내가 없습니다 (정호승의 새벽편지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492216225",
+                "image": "https://shopping-phinf.pstatic.net/main_3249221/32492216225.20221019110814.jpg",
+                "author": "정호승",
+                "discount": "13320",
+                "publisher": "해냄출판사",
+                "pubdate": "20140625",
+                "isbn": "9788965744474",
+                "description": "삶의 가치란, 가장 가까운 곳에서부터 시작됩니다.\n\n우리 시대의 대표적 서정시인 정호승의 산문집『당신이 없으면 내가 없습니다』. 《동아일보》에 연재한 칼럼 《정호승의 새벽편지》를 정리하고 새로 쓴 41편을 더해 총 71편의 산문을 엮은 책으로, ‘어둠의 가치를 소중하게 생각하며, 인생의 새벽을 기다리는 사람들에게 바치는 글’로 채워져 있다. 그러기에 ‘사람으로서 어떻게 살아가야 하는가’, ‘우리는 어떻게 사랑하고 있는가’, ‘나에게 가장 소중한 것은 무엇일까’ 등 살아갈 때 꼭 붙잡고 있어야 할 ‘마음’에 대하여 이야기하며, 삶의 상처마저도 희망으로 바꾸는 메시지를 전한다.\n\n시인이 전하는 메시지는 거창하지 않다. 가까이 있어서 오히려 소홀해지기 쉬운 가족에게서, 이웃에게서 배려와 감사를 발견한다. 혼자 여행하는 길에 들른 찐빵가게 주인이 건넨 소박한 밥상에서는 배려를, 군복무 중인 아들에게는 진실한 응원과 충고를 전하는가 하면, 사람에 대한 관심뿐만이 아니라 자연과 사물에도 친근하고 깊은 시선을 보낸다. 자연의 변화에서 아픔, 기쁨, 미움과 용서를 담아내고, 사랑과 이별, 나이듦과 거듭남을 일깨운다. 저자의 글과 함께 ‘명상화가’, ‘시 같은 그림’으로 유명한 박항률 화백의 그림이 수록되어 글의 맛과 깊이를 더했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄",
+                "DDC": "",
+                "UPDATE_DATE": "20140716",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "지은이: 정호승",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20140625",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "17800",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965744474",
+                "INPUT_DATE": "20140716",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "당신이 없으면 내가 없습니다 ",
+                "PUBLISH_PREDATE": "20140625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

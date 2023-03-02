@@ -1,0 +1,67 @@
+{
+    "otitle": "미소를 담은 미술관",
+    "oauthor": "차홍규,진성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미소를 담은 미술관 (서양 미술사에 빛나는 풍속화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467029665",
+                "image": "https://shopping-phinf.pstatic.net/main_3246702/32467029665.20221019152428.jpg",
+                "author": "차홍규^진성",
+                "discount": "20700",
+                "publisher": "대가",
+                "pubdate": "20220321",
+                "isbn": "9791187265917",
+                "description": "풍속화, 그림에 담긴 군상들의 향연!\n\n“거창하지 않지만 따뜻하고, \n고상하지 않아도 진실한 서민들의 \n삶을 그림으로 표현하다.”\n\n풍속화란 인간의 삶을 그린 그림을 말한다. 풍속화는 인간의 희로애락(喜怒哀樂)을 담고 있다. 또한, 그 속에는 당대의 역 사·문화·생활·미의식 등 다양한 측면을 반영하고 해학과 풍자·익살이 넘 쳐난다. 그런데 풍속화에서의 해학은 사실 일정한 도덕적 관념을 바탕으로 하고 있다. 그래서 그림에 등장하는 상징적인 소품에 유의하면 그 안에 담긴 도덕적 인 교훈을 발견할 수 있다. \n서양 미술의 역사에서 종교나 신화, 역사 같은 것만을 가치 있다고 여겼다. 세 속적인 일상생활이란 아무런 위대성과 숭고미를 머금고 있지 않았기 때문에 그 것은 그릴 만한 가치가 없는 것으로 여겼다. 하지만 풍속화를 그렸던 예술가들 은 가치 있는 것이 일상 너머가 아니라 일상 속에 깃들어 있다는 사실을 알아차렸다. 삶의 의미를 삶 그 자체에서 찾고자 했던 거다. \n이 책 《미소를 담은 미술관》은 서양 미술에서 풍속화가 어떻게 변천되었고 그 속에 나타난 사람들의 삶이 어떠했는지를 그림으로 보여주려고 한다. 또한, 이 책을 탐독하다 보면 풍속화가 처음에는 그 존재가 미미하였는지 모르나 책장을 넘길수록 위대하다는 걸 느끼게 될 거다. 왜냐하면 인간의 살아가는 모습이 그 림 한 점에 모든 걸 담고 있기 때문이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "린",
+                "DDC": "",
+                "UPDATE_DATE": "20220511",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.bookdaega.com",
+                "AUTHOR": "공저: 차홍규,진성",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/03/15/9791187265917.jpg",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "381 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187265917",
+                "INPUT_DATE": "20220315",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "미소를 담은 미술관",
+                "PUBLISH_PREDATE": "20220412",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

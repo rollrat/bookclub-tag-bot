@@ -1,0 +1,67 @@
+{
+    "otitle": "저는 NFT 미술 투자가 처음인데요",
+    "oauthor": "눕미(김중혁) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "저는 NFT 미술 투자가 처음인데요 (초보자도 NFT를 만들고 사고파는, 가장 쉬운 NFT 안내서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32602946622",
+                "image": "https://shopping-phinf.pstatic.net/main_3260294/32602946622.20221019145811.jpg",
+                "author": "눕미(김중혁)",
+                "discount": "14400",
+                "publisher": "슬로디미디어",
+                "pubdate": "20220610",
+                "isbn": "9791167850096",
+                "description": "경매장에 가지 않고도 미술품을 사고, 팔고, 소유한다!\nNFT 아트, 투자를 시작하려는 작가와 컬렉터 필독서\n\nNFT는 2021년, 디지털 자산의 영향력이 커지면서 중요한 키워드로 자리 잡았다. 트위터, 넷플릭스, 디즈니 등 해외 글로벌 기업부터 삼성전자, 네이버, 카카오 등 국내 빅테크 기업까지 뛰어들었으며, 개인의 NFT 제작과 투자 또한 활발한 실정이다. 그야말로 NFT로 돈을 버는 시대가 도래한 것이다.\n 이 책은 NFT 전문 유튜버가 일반인의 시선에서 쉽게 NFT에 도전할 수 있도록 설명한 책이다. 여전히 생소한 NFT의 개념부터 NFT 시장 구조, 투자를 위해 꼭 알아야 할 기본 지식을 담았으며, NFT를 제작하고 구매하는 과정 또한 차근차근 따라 하면 되도록 설명했다. 핸드폰 화면으로 NFT 미술품을 감상하고, 구매하고, 소유할 수 있게 된 지금, 이 책과 함께 NFT 작품 제작과 투자의 세계에 첫걸음을 내디뎌보자"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어(슬로디미디어그룹)",
+                "DDC": "",
+                "UPDATE_DATE": "20220630",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "눕미 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/05/f20220518DxxW.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "187 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791167850096",
+                "INPUT_DATE": "20220518",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "저는 NFT 미술 투자가 처음인데요",
+                "PUBLISH_PREDATE": "20220610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

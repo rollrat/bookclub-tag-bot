@@ -1,0 +1,67 @@
+{
+    "otitle": "저항하는 지성, 고야",
+    "oauthor": "박홍규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "저항하는 지성, 고야",
+                "link": "https://search.shopping.naver.com/book/catalog/32466954441",
+                "image": "https://shopping-phinf.pstatic.net/main_3246695/32466954441.20221019152422.jpg",
+                "author": "박홍규",
+                "discount": "13500",
+                "publisher": "들녘",
+                "pubdate": "20200904",
+                "isbn": "9791159255717",
+                "description": "지금, 우리가 고야를 주목해야 하는 이유\n‘궁정화가’라는 이름을 내려놓고, \n인간의 위선과 욕망의 추악함을 낱낱이 고발했던 고야의 고뇌는 어디에서부터 온 것일까\n\n많은 사람들은 고야에 대해 잘 모른다. 설령 안다고 해도 〈아들을 잡아먹는 사투르누스〉를 그린 작가, 곧 ‘아, 그 끔찍하고 기괴한 그림을 그린 화가?’로 기억한다. 그렇다. 얼핏 보면 이 그림은 잔혹하고 괴상하다. ‘기괴망측’한 그림은 이것만이 아니다. 그는 전쟁의 참상을 적나라하게 그렸을 뿐만 아니라 반체제적인 그림들을 수백 점이나 그렸다. 더욱  아이러니한 점은 그가 50년 이상을 궁정에 충성한 어용화가였다는 점이다. 허나, 고야가 처음부터 이런 기괴망측한 그림을 그린 것은 아니다. 그는 지상 30미터의 높이에 〈신이라는 이름의 숭배〉와 같은 지배계급 취향의 천장화도 그렸고, 왕과 왕비의 공식 초상화는 물론 왕족 일가를 담아낸 그림들도 그렸다. 그런데도 고야의 그림에는 분명 그만이 가지고 있는 위험함과 불안함이 느껴진다. 우리는 고야의 그림을 마음 편하게 볼 수 없다. 스페인의 수석 궁정화가로서 왕의 총애를 받던 그가 이런 그림을 그린 이유는 무엇일까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른들녘 :들녘",
+                "DDC": "",
+                "UPDATE_DATE": "20201016",
+                "EA_ADD_CODE": "04080",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "박홍규 지음",
+                "SERIES_TITLE": "세기의 인간",
+                "KDC": "653.27",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791159252815",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "388 p.",
+                "CONTROL_NO": "CIP2020031514",
+                "SERIES_NO": "7",
+                "EA_ISBN": "9791159255717",
+                "INPUT_DATE": "20200728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "저항하는 지성, 고야",
+                "PUBLISH_PREDATE": "20200828",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

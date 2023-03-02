@@ -1,0 +1,67 @@
+{
+    "otitle": "괴물신입 인공지능",
+    "oauthor": "이재박 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "괴물신입 인공지능 (쫄지 말고 길들여라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441095437",
+                "image": "https://shopping-phinf.pstatic.net/main_3244109/32441095437.20221228074901.jpg",
+                "author": "이재박",
+                "discount": "14400",
+                "publisher": "Mid(엠아이디)",
+                "pubdate": "20200204",
+                "isbn": "9791190116183",
+                "description": "인공지능의 한계는 어디까지일까, 그리고 우리는 무엇을 할 수 있을까? 『괴물신입 인공지능』은 20가지 산업 분야에서의 인공지능의 활약상을 분석한다. 책에서 등장하는 인공지능의 활약상은 그야말로 ‘괴물’과도 같다. 인공지능은 물류 혁명을 이끌고, 우주를 더 깊이 탐험하며, 새로운 예술을 선보인다. 산업 분야에 본격적으로 투입된 지 얼마 되지 않은 ‘신입’이라는 점이 놀라울 정도다. \n\n『괴물신입 인공지능』은 인공지능의 활약상을 소개하는 것을 넘어서, 이 대단한 괴물을 길들이고 협업할 수 있는 실용적인 관점을 제시한다. 이 책은 인공지능과 유연하게 어울리고 때론 게으름을 피우기 위해 각종 업무를 인공지능에게 맡겨 보도록 권한다. 『괴물신입 인공지능』은 인공지능과 겨루고 경쟁해야 한다는 통념에서 벗어나, 인공지능 시대에 갖춰야 할 필수적인 인사이트를 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "MID",
+                "DDC": "",
+                "UPDATE_DATE": "20200302",
+                "EA_ADD_CODE": "03550",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이재박 지음",
+                "SERIES_TITLE": "",
+                "KDC": "331.544",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/01/31/9791190116183.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "346 p.",
+                "CONTROL_NO": "CIP2020004458",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190116183",
+                "INPUT_DATE": "20200131",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "괴물신입 인공지능",
+                "PUBLISH_PREDATE": "20200213",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

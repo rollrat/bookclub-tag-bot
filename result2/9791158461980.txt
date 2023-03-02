@@ -1,0 +1,67 @@
+{
+    "otitle": "과학, 그거 어디에 써먹나요?",
+    "oauthor": "원호섭 저/이덕환 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학, 그거 어디에 써먹나요? (단숨에 읽고 바로 꺼내 쓰는 과학 상식 35)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441508691",
+                "image": "https://shopping-phinf.pstatic.net/main_3244150/32441508691.20221227205625.jpg",
+                "author": "원호섭",
+                "discount": "15300",
+                "publisher": "북클라우드",
+                "pubdate": "20180105",
+                "isbn": "9791158461980",
+                "description": "“당신의 생각보다 더 많은 과학이 당신의 삶 속에 존재한다.”\n일상을 지배하고 미래를 바꿀 지금 가장 뜨거운 과학 뉴스\n\n‘4차 산업혁명’의 이슈가 끊이지 않고 언론을 장식하는 현재, 세계는 어떤 준비를 하고 있을까? 안전하다고만 생각했던 한반도가 흔들렸다. 2016년 규모 5.6의 경주 지진, 2017년 규모 5.8의 포항 지진이다. 이를 두고 과학자들 사이에서는 원인에 대한 논란이 일어났다. 우리나라는 안전한 것일까? \n이 책은 과학 기자가 물리학, 생물학, 우주공학, 지구과학, 과학사 등에서 뽑은 최신 과학 이슈 35가지의 과거, 현재, 미래를 알려주는 과학 교양서다. 책에서는 인공지능, 양자역학, 장내미생물, 중력파, 지진, 지구온난화, 방사능 등의 기본적인 이론부터 가장 최근의 연구 결과를 알려준다. 이들은 현재 우리의 삶에 깊은 연관이 있거나 미래를 크게 변화시킬 과학계의 뜨거운 쟁점들이다. 논쟁거리를 다루면서도 과학 기자로서 객관적인 시선으로 과학을 둘러싼 사람들의 이해관계를 설명한다. 과학기술의 발전에 따라 빠르게 변화하는 시대에 과학적 교양은 필수 덕목이 되었다. 현재를 제대로 이해하고, 과학이 바꿀 미래를 준비하고 싶은 사람에게 이 책은 꼭 필요한 한 권이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북클라우드 :헬스조선",
+                "DDC": "502",
+                "UPDATE_DATE": "20180112",
+                "EA_ADD_CODE": "13400",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "원호섭 지음",
+                "SERIES_TITLE": "",
+                "KDC": "404",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6470740_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6470740_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "379 p.",
+                "CONTROL_NO": "CIP2017033917",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158461980",
+                "INPUT_DATE": "20171212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학, 그거 어디에 써먹나요?",
+                "PUBLISH_PREDATE": "20180105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

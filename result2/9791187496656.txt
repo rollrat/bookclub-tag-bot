@@ -1,0 +1,67 @@
+{
+    "otitle": "혼자라도 빛나는 밤에",
+    "oauthor": "밤삼킨별,김태구 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "혼자라도 빛나는 밤에 (Writing Book | 고요한 시간을 채워줄 문장들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32475049184",
+                "image": "https://shopping-phinf.pstatic.net/main_3247504/32475049184.20221019152942.jpg",
+                "author": "밤삼킨별 김효정",
+                "discount": "11700",
+                "publisher": "꿈의지도",
+                "pubdate": "20171225",
+                "isbn": "9791187496656",
+                "description": "눈에 담아두고 싶은 사진과 마음에 담아두고 싶은 문장이 만나, 감각적인 필사책이 되었다.\n이제까지 볼 수 없었던 세련된 필사책! 감성 사진작가 밤삼킨별과 딱풀이 새롭게 선보이는 사진과 함께 그들이 사랑하는 글들을 모았다. 많은 사람들 속에 있을수록 혼자가 그립고, 밖이 소란스러울수록 고요한 곳을 찾게 되는 날. 마음이 힘들수록 몸이 따뜻한 곳이 좋고, 밤이 깊을수록 빛을 밝히고 싶어지는 때. 마음이 다친 날들이 많을수록 가만히 내 안을 들여다보는 시간이 절실하다. 내가 나를 다독이고 내가 나를 안아주는 고요한 시간. 그 시간을 채워줄 문장들은 어두운 마음을 환히 밝히는 촛불이 된다. 아름다운 시와 문장들을 한 글자 한 글자 마음에 새기다보면 어느새 흔들리던 마음이 갈피를 잡고, 다친 마음이 아물 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20180504",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "밤삼킨별,딱풀 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "183 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187496656",
+                "INPUT_DATE": "20171127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "혼자라도 빛나는 밤에",
+                "PUBLISH_PREDATE": "20171225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

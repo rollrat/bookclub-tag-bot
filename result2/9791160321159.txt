@@ -1,0 +1,67 @@
+{
+    "otitle": "물건을 절대 바닥에 두지 않는다",
+    "oauthor": "스도 마사코 저/백운숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "물건을 절대 바닥에 두지 않는다 (‘하기’보다 ‘하지 않는’ 심플한 정리 규칙 46)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476748025",
+                "image": "https://shopping-phinf.pstatic.net/main_3247674/32476748025.20221229071137.jpg",
+                "author": "스도 마사코",
+                "discount": "11700",
+                "publisher": "싸이프레스",
+                "pubdate": "20210120",
+                "isbn": "9791160321159",
+                "description": "‘하는 정리’에서 ‘하지 않는 정리’로 바꾸면\n더 이상 집이 지저분해지지 않는다!\n‘하기’보다 ‘하지 않는’ 심플한 정리 규칙 46\n\n정리 잘하는 사람은 부지런한 완벽주의자이거나 평소 청소하기를 즐기기 때문에 깨끗한 환경을 유지할 수 있다는 이미지가 있다. 그러나 정리 전문가인 저자, 스도 마사코는 번거로운 일을 싫어하는 태평한 성격이다. 결코 성격과 타고난 능력의 문제가 아니라는 얘기다. 소위 정리와 청소를 잘 못 하는 사람에게는 ‘규칙’이 없다. 규칙은 행동을 만들어내기 때문에, 규칙이 없으면 생활은 흐트러지기 마련이다. 이때 필요한 것은 ‘하기’가 아니라 ‘하지 않기’ 규칙이다. ‘하기’ 규칙을 하나둘 늘리다 보면 규칙에 얽매여 생활하게 된다. 정리하느라 느긋하게 쉬지 못한다면 집이라는 공간이 무슨 의미가 있을까? ‘하지 않기’ 규칙을 만들면 해야 할 일이 늘어날 것 같지만 오히려 줄어든다. 정리와 청소가 한결 수월해지고 집안일에 들이는 시간도 줄일 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Cypress(싸이프레스)",
+                "DDC": "",
+                "UPDATE_DATE": "20210408",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "www.cypressbook.co.kr",
+                "AUTHOR": "스도 마사코 지음 ;백운숙 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "595.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "179 p.",
+                "CONTROL_NO": "CIP2020052460",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160321159",
+                "INPUT_DATE": "20201209",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "물건을 절대 바닥에 두지 않는다",
+                "PUBLISH_PREDATE": "20210120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "인스타 걸",
+    "oauthor": "김민혜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인스타 걸",
+                "link": "https://search.shopping.naver.com/book/catalog/32478457277",
+                "image": "https://shopping-phinf.pstatic.net/main_3247845/32478457277.20230110165052.jpg",
+                "author": "김민혜",
+                "discount": "13500",
+                "publisher": "안전가옥",
+                "pubdate": "20191217",
+                "isbn": "9791190174640",
+                "description": "지금, 당신은 어떠한 삶을 들여다보고 있나요?\n인스타그램에 화려하게 전시되는, 걸들의 명품 일상과 친밀한 소통\n무수한 해시태그 너머에서 펼쳐지는 진실을 투명하게 파헤친, 지극히 현재적인 소설\n\n여기, 두 여자가 있다.\n문구점 딸로 태어나 지방 실업계 고등학교 미용과를 졸업하고 무작정 홀로 상경해 겨우 네일 아티스트로 조금씩 자리를 잡아 가고 있는 조가비. 판사 출신 아버지와 갤러리 관장인 어머니 사이에서 태어나 명문 D외고를 졸업하고 Y대 법학과를 거쳐 같은 대학 로스쿨에 다니며 미인 대회 수상 경력까지 있는 유진주. \n시궁창 같은 현실에서 허덕이던 조가비의 눈앞에, 명품으로 도배된 인스타그램 속 유진주의 일상이 반짝반짝 펼쳐진다. 어느 날, 멀게만 느껴졌던 유진주의 일상이 조가비의 실제 삶에 나타나고 조가비는 그 가느다란 끈을 꼭 붙잡고 유진주의 ‘인친’이 되어 화려한 세상으로 도약하기를 꿈꾼다. 이제, 인스타그램에 박제된 사진과 실제로 목격한 현실 사이에서 그녀의 아슬아슬한 줄타기가 시작된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "안전가옥",
+                "DDC": "",
+                "UPDATE_DATE": "20191231",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김민혜",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/15/9791190174640.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "190 p.",
+                "CONTROL_NO": "CIP2019049808",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190174640",
+                "INPUT_DATE": "20191204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "인스타 걸",
+                "PUBLISH_PREDATE": "20191217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

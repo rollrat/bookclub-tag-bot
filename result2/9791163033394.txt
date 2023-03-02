@@ -1,0 +1,67 @@
+{
+    "otitle": "된다! 최반장의 실무 엑셀 with 피벗 테이블",
+    "oauthor": "최재완(최반장) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "된다! 최반장의 실무 엑셀 with 피벗 테이블 (데이터 분석의 90%는 피벗으로 끝난다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481446559",
+                "image": "https://shopping-phinf.pstatic.net/main_3248144/32481446559.20221019124151.jpg",
+                "author": "최재완(최반장)",
+                "discount": "15300",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20220225",
+                "isbn": "9791163033394",
+                "description": "데이터 분석의 90%는 피벗으로 끝난다!\n엉망으로 저장된 데이터 정돈부터 설득력 있는 보고서 작성까지!\n88개 무료 동영상 강의와 함께 배워 보세요~\n\n데이터를 다루는 사람이라면 혹은 회사에서 엑셀을 다루는 사람이라면 한 번쯤 이런 생각이 들 것이다. “이 무의미하고 귀찮고 반복되는 일을 쉽게 처리할 방법이 없을까?” 바로 그 해결 방법이 ‘피벗 테이블’이다. 피벗 테이블만 잘해도 회사 문제의 90%는 해결할 수 있다. 《된다! 최반장의 실무 엑셀 with 피벗 테이블》은 이러한 문제 인식에서 시작한다. 인프런의 ‘최반장의 피벗 테이블 마스터 클래스’와 ‘EXCEL 입문’ 강의에서 추천 1위, 누적 수강생 2만 명을 달성한 ‘최반장’이 이런 고민을 해결해 준다. \n엉망으로 저장된 데이터를 정리하는 데이터 전처리 방법부터 피벗 테이블을 만들고 관리하는 요령, 데이터를 차트와 그래프로 만들고 보고서와 대시보드까지 활용하는 일련의 과정을 친절하게 설명한다. 12년간 팀장으로 일하며 팀원에게 엑셀을 알려 주는 마음으로 이 책을 집필했다. 엑셀 실무의 최전선에서 쌓아 온 저자만의 노하우가 담겨 있는 것도 이 책의 특징이다. \n그리고 책의 실습 부분에 QR코드를 넣어 무료 강의와 함께 볼 수 있게 만들었다. 무려 88개나 된다. 무료 동영상 강의와 함께 책을 읽는다면, 당신이 마주한 엑셀 실무 문제의 90%는 이미 해결된 것이다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20220404",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "최재완 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163033394",
+                "INPUT_DATE": "20220208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "된다! 최반장의 실무 엑셀 with 피벗 테이블",
+                "PUBLISH_PREDATE": "20220225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "희소의 취재 수첩",
+    "oauthor": "문미영 글/원유미 그림/허은영 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "희소의 취재 수첩 (기자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32475999647",
+                "image": "https://shopping-phinf.pstatic.net/main_3247599/32475999647.20221019110806.jpg",
+                "author": "문미영",
+                "discount": "10800",
+                "publisher": "북멘토",
+                "pubdate": "20210820",
+                "isbn": "9788963194264",
+                "description": "직업인이 겪는 일상을 생생하게 소개함으로써 직업 세부 정보를 재미있게 알려 주는 북멘토 직업가치동화 여섯 번째, ‘기자’ 편이다. 직업가치동화는 단순히 직업 정보를 나열하는 것이 아니라 꿈을 가진 어린이 주인공이 직업인을 만나 그 직업의 세계를 직접 체험하며 직업에 대해 깊이 이해하게 되는 과정을 흥미진진한 동화로 그려 냈다. 기자를 꿈꾸며 개인 뉴스 블로그를 운영하는 초등학생 희소가 〈가치일보〉 박상식 기자를 만나 취재 현장 등을 경험하고 어린이 시민 기자로서 한층 성장하는 모습을 따라가다 보면 기자라는 직업에 대해 잘 알 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20211013",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "http://www.bookmentorbooks.co.kr",
+                "AUTHOR": "문미영 글 ;원유미 그림",
+                "SERIES_TITLE": "북멘토 직업가치동화",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788963192475",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "168*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "159 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "6",
+                "EA_ISBN": "9788963194264",
+                "INPUT_DATE": "20210802",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "희소의 취재 수첩",
+                "PUBLISH_PREDATE": "20210820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "종전의 설계자들",
+    "oauthor": "하세가와 쓰요시 저/한승동 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "종전의 설계자들 (1945년 스탈린과 트루먼, 그리고 일본의 항복)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465664630",
+                "image": "https://shopping-phinf.pstatic.net/main_3246566/32465664630.20221227205457.jpg",
+                "author": "하세가와 쓰요시",
+                "discount": "29700",
+                "publisher": "메디치미디어",
+                "pubdate": "20190228",
+                "isbn": "9791157061464",
+                "description": "“제2차 세계대전 종결을 둘러싼 논쟁이 이 책으로 마침내 종지부를 찍었다”_리처드 로즈\n\n1945년 8월 15일, 일본의 항복 선언 이후에도 전쟁은 계속됐다. 트루먼이 ‘완벽한 승리’라고 불렀던 원폭투하와 스탈린이 ‘영토의 회복’이라 정당화했던 대일전 참전은 태평양전쟁 막바지 극동 지배권을 둘러싼 미국과 소련의 치열한 수 싸움의 결과였다. 그 와중에도 일본은 패전을 유리하게 끌고 가겠다는 비현실적인 희망에 매달렸다. 이 책은 미국과 소련, 일본의 방대한 문서저장고에서 태평양전쟁 종결의 배후를 캐내, 일본의 항복 과정을 새로운 역사의 심판대에 세운다. 원폭투하와 소련의 참전, 무엇이 일본을 항복하게 만든 결정적인 요소였을까? 20세기 전후 질서를 만든 각축과 암투가 눈앞에 생생하게 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20190311",
+                "EA_ADD_CODE": "93900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하세가와 쓰요시 지음 ;한승동 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "913.072",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/20/9791157061464.jpg",
+                "PRE_PRICE": "33000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "719 p.",
+                "CONTROL_NO": "CIP2019005580",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157061464",
+                "INPUT_DATE": "20190214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "종전의 설계자들",
+                "PUBLISH_PREDATE": "20190228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

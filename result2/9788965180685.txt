@@ -1,0 +1,67 @@
+{
+    "otitle": "당신이 몰랐던 식품의 비밀 33가지",
+    "oauthor": "최낙언 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신이 몰랐던 식품의 비밀 33가지 (식품의 대한 오해와 진실을 낱낱히 파헤치다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492214980",
+                "image": "https://shopping-phinf.pstatic.net/main_3249221/32492214980.20220527051932.jpg",
+                "author": "최낙언",
+                "discount": "0",
+                "publisher": "경향미디어",
+                "pubdate": "20121009",
+                "isbn": "9788965180685",
+                "description": "어설픈 과학 지식이 당신의 건강을 위협한다!\n\n『당신이 몰랐던 식품의 비밀 33가지』는 서울대학교와 대학원에서 식품공학을 전공하고 식품회사에서 식품 및 향료연구가로 일해온 저자 최낙언이 식품에 얽힌 오해와 진실을 낱낱이 파헤친 책이다. 저자는 식품의 효능과 위험이 얼마나 과장되었는지에 대해 이야기하며, 과장된 효능에 현혹되지 말 것을 경고한다. 특히 천연감미료와 합성감미료, 천연조미료와 합성조미료, 천연색소와 합성색소 등에 대한 비교와 인류 최초의 식품첨가물인 염화나트륨에 대한 분석을 통해 합성첨가물의 진실에 대해 꼼꼼하게 짚어준다. 아울러 중요한 것은 ‘어떻게 받아들이느냐’이기에 맛있는 음식으로 즐겁게 식사할 것을 이야기하였다. 식품에 대해 과장되어 알려진 정보를 바로 알고, 불필요한 비용 낭비와 걱정을 줄이는 데 유용한 자료가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "경향미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20121011",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최낙언 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965180685",
+                "INPUT_DATE": "20121011",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "당신이 몰랐던 식품의 비밀 33가지 ",
+                "PUBLISH_PREDATE": "20121009",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

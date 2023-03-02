@@ -1,0 +1,67 @@
+{
+    "otitle": "먹는 즐거움은 포기할 수 없어!",
+    "oauthor": "구스미 마사유키 저/최윤영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "먹는 즐거움은 포기할 수 없어 (『고독한 미식가』원작자 구스미 마사유키의 식욕 자극 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496909631",
+                "image": "https://shopping-phinf.pstatic.net/main_3249690/32496909631.20230117163520.jpg",
+                "author": "구스미 마사유키",
+                "discount": "11520",
+                "publisher": "글담출판",
+                "pubdate": "20180803",
+                "isbn": "9791159350337",
+                "description": "국내 독자들에게  『고독한 미식가』의 원작자로 알려진 구스미 마사유키. 일을 마친 후 즉흥적으로 들어간 식당에서 하루의 허기를 채우며 자유와 행복을 누리는 평범한 중년 아저씨의 이야기는 ‘힐링 먹방의 대명사’로 불리며 큰 사랑을 받고 있다.\n\n『먹는 즐거움은 포기할 수 없어!』는 스스로를 ‘즐거운 탐식가’라고 부르는 그의 재능을 십분 발휘한 식욕 자극 에세이다. 타고난 식탐의 소유자이자 자신만의 방법으로 음식을 제대로 즐길 줄 아는 미식가인 저자의 일상 음식 탐닉기가 펼쳐진다. 책 속에 등장하는 메뉴는 고기구이, 라면, 돈가스, 카레라이스, 단팥빵, 젓갈, 메밀국수, 샌드위치 같은 평범한 음식이 대부분이다. \n\n그는 이 음식들을 ‘그냥’ 먹지 않는다. 면발이 살아 있는 라면을 먹기 위해 조리대에서 가까운 카운터 자리를 사수하고, 식사를 다 끝낼 때까지 돈가스와 양배추의 양을 세심하게 조율하며, 고기구이를 다 먹고 난 뒤에는 입안에 남아있는 육즙의 여운을 놓치지 않는다. 자리 선정부터, 메뉴를 고르는 순간의 설렘, 음식을 기다리는 동안의 즐거움, 첫입을 맛보았을 때의 짜릿함까지. 책장을 넘기는 것만으로도 침이 고이게 하는 위험한 책이다. \n\n‘음식은 입으로 먹고 배로 판단해라. 머리로 먹는 게 아니라네.’라는 그의 말처럼 책 속에는 원하는 음식을 먹고 싶을 때 고민 없이 맛있게 먹을 수 있는 것만으로도 만사 오케이라는 저자의 유쾌한 소신이 고스란히 담겨 있다. 솔직하다 못해 거침없는 식탐에 대한 고백에 웃음이 터지고, 평범한 음식에도 자신만의 룰을 만들어 철저하게 지키며 맛을 음미하는 진지함에 미식이라는 것이 멀리 있지 않음을 깨닫게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Indigo(인디고)",
+                "DDC": "895.646",
+                "UPDATE_DATE": "20180801",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "http://www.geuldam.com",
+                "AUTHOR": "구스미 마사유키 지음 ;최윤영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "834",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6720748_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6720748_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6720748_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "113*183",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "220 p.",
+                "CONTROL_NO": "CIP2018020048",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159350337",
+                "INPUT_DATE": "20180626",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "먹는 즐거움은 포기할 수 없어!",
+                "PUBLISH_PREDATE": "20180803",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

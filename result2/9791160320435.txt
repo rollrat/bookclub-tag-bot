@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘부터 꽃그림",
+    "oauthor": "이현정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘부터 꽃그림 (기초부터 고급까지 한 달간의 꽃그림 수채화 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466563877",
+                "image": "https://shopping-phinf.pstatic.net/main_3246656/32466563877.20221229071539.jpg",
+                "author": "이현정",
+                "discount": "14850",
+                "publisher": "싸이프레스",
+                "pubdate": "20180523",
+                "isbn": "9791160320435",
+                "description": "곰손이 금손 되는\n4주 완성 수채 꽃그림 클래스!\n\n기초부터 고급까지, 4주 과정으로 배우는 꽃그림 수채화 수업\n45가지 꽃그림을 과정 컷과 동영상으로 배운다\n\n최근 식물의 아름다움을 그림으로 표현하는 ‘보태니컬 아트’가 많은 사랑을 받고 있다. 단순히 일러스트나 그림을 보는 것만이 아닌 직접 좋아하는 꽃이나 풀을 그리고자 하는 사람들이 늘어나면서 온오프라인에 다양한 클래스들이 생겨나고 있는 추세이다. 이처럼 꽃을 좋아하고, 그림을 사랑하는 사람이라면 『오늘부터 꽃그림』에 주목하자. 이 책은 아무리 그림에 소질이 없는 사람이라도 기본기부터 탄탄하게 잡아 마침내 전문가 못지않은 멋진 작품을 완성할 수 있도록 도와준다. 튤립, 장미, 수국, 유칼립투스, 코스모스 등 총 45가지의 꽃을 그리는 방법이 수록되어 있으며 1주차에는 작은 꽃을, 2주차에는 풍성한 꽃을, 3주차에는 더욱 섬세한 묘사를, 4주차에는 작품을 완성할 수 있도록 총 4주 과정으로 구성되어 있다. 처음에는 작은 꽃부터 시작하기 때문에 수채화를 그려본 적 없는 사람도, 평소 그림 실력이 부족한 사람도 편안하게 도전할 수 있다. \n각 주차 사이에 있는 ‘쉬어 가는 그림’ 코너에서는 꽃그림 외에 풍경이나 음식 등도 그려볼 수 있다. 또한 난이도가 다소 높은 3∼4주차 과정에는 그리기 과정의 이해를 돕기 위해 QR 코드를 수록해 저자가 직접 꽃그림을 그리는 과정을 동영상으로도 볼 수 있도록 했다. 이제 여러분도 오늘부터 꽃그림!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Cypress(싸이프레스)",
+                "DDC": "758.42",
+                "UPDATE_DATE": "20180601",
+                "EA_ADD_CODE": "13650",
+                "PUBLISHER_URL": "www.cypressbook.co.kr",
+                "AUTHOR": "이현정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "654.482",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6639402_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*250",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "CIP2018012596",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160320435",
+                "INPUT_DATE": "20180420",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "오늘부터 꽃그림",
+                "PUBLISH_PREDATE": "20180523",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

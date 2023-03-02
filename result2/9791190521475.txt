@@ -1,0 +1,67 @@
+{
+    "otitle": "뛰뛰빵빵 안전하게 타요",
+    "oauthor": "이윤희 글/신보미 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뛰뛰 빵빵 안전하게 타요 (교통 안전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472382422",
+                "image": "https://shopping-phinf.pstatic.net/main_3247238/32472382422.20221019140143.jpg",
+                "author": "이윤희",
+                "discount": "10800",
+                "publisher": "하마",
+                "pubdate": "20211125",
+                "isbn": "9791190521475",
+                "description": "안전하게 차를 이용하고 길을 걷는 방법에 대해 알아보아요!\n\n유치원에 가기 위해 유치원 버스를 타자마자 어린이들이 가장 먼저 해야 할 일은 무엇일까요? 바로 안전띠를 매는 것입니다. 탈 때는 어린이가 먼저, 내릴 때는 선생님이 먼저! 차에서 내릴 때는 양옆을 잘 살피고, 대중교통을 이용할 때는 넘어지지 않게 항상 손잡이 꼭 잡기, 잊지 말아요. 지하철을 탈 때는 순서를 지키고, 승강장 틈에 발이 빠지지 않게 조심조심! 길을 건너기 전에는 우선 멈추고, 신호등에 초록불이 켜지면 왼쪽, 오른쪽 차들이 멈춘 걸 확인해요. 하나, 둘, 셋을 센 뒤 손을 높이 들고 ‘나 여기 있어요!’ 하고 눈으로 레이저를 쏘면서 횡단보도를 건너요. 여러 가지 교통안전 표지판을 익히는 것도 안전하게 길을 다니는 데 도움이 돼요. 자전거, 킥보드, 인라인스케이트를 안전하게 타기 위해 지켜야 할 약속도 알아보아요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20220124",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 이윤희 ;그림: 신보미",
+                "SERIES_TITLE": "슬기로운 안전 유치원(전10권)",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791190521574",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "230*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[28] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190521475",
+                "INPUT_DATE": "20211012",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "뛰뛰빵빵 안전하게 타요",
+                "PUBLISH_PREDATE": "20211120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "77810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

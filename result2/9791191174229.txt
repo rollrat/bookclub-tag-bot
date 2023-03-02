@@ -1,0 +1,67 @@
+{
+    "otitle": "상사는 싫지만 내 일은 잘합니다",
+    "oauthor": "후루카와 히로노리 저/이해란 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "상사는 싫지만 내 일은 잘합니다 (별난 리더를 만나도 행복하게 일하는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466549462",
+                "image": "https://shopping-phinf.pstatic.net/main_3246654/32466549462.20221019145422.jpg",
+                "author": "후루카와 히로노리",
+                "discount": "12600",
+                "publisher": "현대지성",
+                "pubdate": "20201023",
+                "isbn": "9791191174229",
+                "description": "오늘도 상사 때문에 퇴사를 고민하는 당신에게\n\n상사가 무능하고 게으른 데다 성격까지 별로라면x \n그런 상사와 함께 일하는 게 얼마나 괴로울지 직장인이라면 모를 리 없다. 하지만 회사를 그만두거나 옮긴다고 해서 문제가 해결되진 않는다. 나쁜 상사는 언제나, 어느 회사에나 있기 때문이다. \n이 책은 나쁜 상사에게 대처하는 요령과 함께, 궁극적으로 자기 실력을 키워 어떤 상사 밑에서도 내 몫을 챙기는 방법을 말한다. 오늘부터 당장 써먹을 수 있는 유용한 스킬을 하나씩 익히면서 더 당당하고 행복하게 당신의 커리어와 가치를 한층 높여 보자. \n\nx 아침, 점심으로 기분이 달라져 종잡을 수 없는 상사 \nx 사소한 일로 사사건건 트집을 잡는 상사\nx 윗사람에게는 굽신거리면서 부하 직원들은 무시하는 상사\nx 실력도, 평판도 안 좋아서 팀의 평판까지 떨어뜨리는 상사 \nx 제대로 가르쳐 주지도 않고 일 못한다고 구박하는 상사\n함께 일하는 상사가 이런 사람이라면x \n당신에겐 이 책이 꼭 필요하다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20201110",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "후루카와 히로노리 지음 ;이해란 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "243 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191174229",
+                "INPUT_DATE": "20201012",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "상사는 싫지만 내 일은 잘합니다",
+                "PUBLISH_PREDATE": "20201023",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

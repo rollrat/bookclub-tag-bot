@@ -1,0 +1,67 @@
+{
+    "otitle": "천재의 생각법",
+    "oauthor": "류종렬 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "천재의 생각법 (세계 최고를 만드는 유대인의 지혜)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490347709",
+                "image": "https://shopping-phinf.pstatic.net/main_3249034/32490347709.20221019142728.jpg",
+                "author": "류종렬",
+                "discount": "13500",
+                "publisher": "미다스북스",
+                "pubdate": "20161101",
+                "isbn": "9788966374793",
+                "description": "세계를 지배하는 천재들의 창의성을 밝힌다!\n\n『천재의 생각법』는 역사의 중심이나 시대의 선두에서 세계를 지배한 25명의 유대인 천재들을 통해 그들이 어떻게 생각했는지, 어떤 방식으로 창의성을 발휘했는지 한눈에 보여 준다. 저자는 천재들이 창의성을 발휘했던 분야를 정보, 상상, 돈, 언어, 자기 관리 총 다섯 가지로 분류하여 일목요연하게 정리함으로써 그들이 ‘천재’로 불리는 이유, 그 생각법을 명료하게 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "류종렬",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5804189_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5804189_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "약 320페이지 내외",
+                "CONTROL_NO": "CIP2016025324",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966374793",
+                "INPUT_DATE": "20161007",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "천재의 생각법",
+                "PUBLISH_PREDATE": "20161101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

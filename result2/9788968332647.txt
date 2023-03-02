@@ -1,0 +1,67 @@
+{
+    "otitle": "적당히 가까운 사이",
+    "oauthor": "댄싱스네일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "적당히 가까운 사이 (외롭지도 피곤하지도 않은 너와 나의 거리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436150888",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436150888.20221019124621.jpg",
+                "author": "댄싱스네일",
+                "discount": "13050",
+                "publisher": "허밍버드",
+                "pubdate": "20200625",
+                "isbn": "9788968332647",
+                "description": "안전하고 편안하게 내 마음을 지키는 나만의 면역 공간을 위한 적당한 관계 거리두기\n\n마음의 방이 꽉 차 버겁거나 ‘진짜’ 관계에 허기져 있다면, 가깝지도 멀지도 않은 적당한 거리를 원한다면 이 책을 펼칠 때다. 댄싱스네일이 전하는 적당함의 기술을 통해 현재 맺고 있는 관계를 돌아보고 덜어 낼 관계는 덜어 내며 관계 거리두기를 실천해 보자. 내 마음이 편안한, 마음의 면역력을 키우기 위한 관계 디톡스는 결코 어렵지 않다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "허밍버드 :백도씨",
+                "DDC": "",
+                "UPDATE_DATE": "20200626",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "https://blog.naver.com/100doci",
+                "AUTHOR": "글·그림: 댄싱스네일",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2020023639",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788968332647",
+                "INPUT_DATE": "20200608",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "적당히 가까운 사이",
+                "PUBLISH_PREDATE": "20200622",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

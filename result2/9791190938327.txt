@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘도 변화무쌍",
+    "oauthor": "최다빈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘도 변화무쌍 (계획대로 되지 않아도 괜찮아)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492883913",
+                "image": "https://shopping-phinf.pstatic.net/main_3249288/32492883913.20221228072807.jpg",
+                "author": "최다빈",
+                "discount": "12600",
+                "publisher": "상상출판",
+                "pubdate": "20210120",
+                "isbn": "9791190938327",
+                "description": "“용기는 별거 아니다. 그냥 한번 해보는 거다.”\n18만이 공감한 유튜버 ‘무쌍이다빈’의 콤플렉스 극복기! \n\n『오늘도 변화무쌍』은 자신만의 콤플렉스 극복기로 무쌍인들의 사랑을 받은 저자가 더 많은 이들과 함께 공감하기 위해 지금껏 도전해 온 경험을 솔직하게 풀어낸 책이다. 유튜버 ‘무쌍이다빈’으로 활동하고 있는 저자 최다빈이 겪은 여러 에피소드와 직접 찍은 사진들로 구성되어 있다. 이 책에는 누구에게나 있는 고민과 콤플렉스를 극복하고, 용기를 내기까지의 과정을 저자만의 솔직한 문체와 진심을 다한 문장들로 담아냈다. 겁 많고 소심했던 그녀가 주변 시선에 굴하지 않고 자신 있게 도전할 수 있었던 건 대단한 배경이 아닌 단순한 ‘용기’였다. 저자의 도전은 특별한 계기도 비법도 없다. 그저 주어진 상황에서 한번 도전해보는 저자의 ‘변화무쌍함’은 용기가 필요한 이들에게 따뜻한 힘이 되어 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210302",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최다빈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "245 p.",
+                "CONTROL_NO": "CIP2020053525",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190938327",
+                "INPUT_DATE": "20201216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘도 변화무쌍",
+                "PUBLISH_PREDATE": "20210120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

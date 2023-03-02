@@ -1,0 +1,67 @@
+{
+    "otitle": "개와 함께한 하루",
+    "oauthor": "산더 콜라트 저/문지희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "개와 함께한 하루",
+                "link": "https://search.shopping.naver.com/book/catalog/32466260446",
+                "image": "https://shopping-phinf.pstatic.net/main_3246626/32466260446.20221019123201.jpg",
+                "author": "산더 콜라트",
+                "discount": "13050",
+                "publisher": "흐름출판",
+                "pubdate": "20211117",
+                "isbn": "9788965964780",
+                "description": "네덜란드 최고 문학상인 리브리스상(Libris Award) 수상작!\n인생에 대한 깊은 통찰을 녹여낸 특별한 이야기.\n당신의 하루에 건네는 담담하면서도 따뜻한 위로.\n\n출간되었을 당시에는 언론, 전문 서평가 등 그 누구의 관심도 끌지 못했지만, 점점 독자들의 입소문을 타면서 베스트셀러(종합 Top 7위)에 오르고, 그해 네덜란드 최고 권위의 문학상인 리브리스상까지 수상한 산더 콜라트의 소설 《개와 함께한 하루》가 한국 독자들을 찾아왔다.\n아내와의 이혼 후 반려견과 함께 살아가는 56세의 헹크 판 도른은 어느 토요일, 자신의 개가 심부전을 앓고 있으며, 오늘내일은 아니지만 머지않아 죽게 될 것이라는 사실을 의사로부터 전해 듣는다. 이로 인해 일상의 평온함에는 금이 간다. 그런 상황에서 헹크는 열일곱 살을 맞이한 조카의 생일파티에 참석해야만 한다. 아픈 빌런을 집에 홀로 남겨두고 무거운 발걸음을 끌고 나선 길, 그러나 그 길에서 헹크는 자신의 삶을 송두리째 변화시킬 사건을 겪게 된다.\n이 소설은 그저 그런, 자칫 별 볼일 없어 보일 수 있는 인물의 사소한 일상과 내면을 보여줌으로써 인생의 의미와 삶의 환희를 되새기게 하는 놀라운 힘을 지니고 있다. 산더 콜라트는 이 책을 통해 코로나로 인해 힘겨운 시간을 통과해가는 현대인에게 생을 향한 묵직한, 하지만 결코 희망을 놓지 않는 따스한 메시지를 전하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판",
+                "DDC": "",
+                "UPDATE_DATE": "20211129",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "산더 콜라트 지음 ;문지희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965964780",
+                "INPUT_DATE": "20211027",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "개와 함께한 하루",
+                "PUBLISH_PREDATE": "20211117",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

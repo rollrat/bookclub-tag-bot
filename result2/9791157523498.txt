@@ -1,0 +1,67 @@
+{
+    "otitle": "배우를 찾습니다",
+    "oauthor": "양성민,김민수 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스스로 빛나는 배우를 찾습니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32473732778",
+                "image": "https://shopping-phinf.pstatic.net/main_3247373/32473732778.20230222102059.jpg",
+                "author": "양성민",
+                "discount": "11250",
+                "publisher": "큐리어스(Qrious)",
+                "pubdate": "20150505",
+                "isbn": "9791157523498",
+                "description": "캐스팅 전문가들이 쉽지 않은 과정을 겪고 있는 배우지망생들에게 건네는 멘토링 책이다. 배우가 되기 위해 준비해야 할 마음가짐부터 소속사를 선택하는 법, 성형수술, SNS, 노출 등 현실적인 조언까지 학교나 학원, 매니지먼트사도 알려주지 않았던 진짜 이야기를 담았다. 경력과 특색이 다른 두 명의 전문가가 다각도에서 현장의 이야기를 들려준다.\n\n\n\n배우의 길을 먼저 걷고 있는 선배 배우들과 캐스팅을 하고 제작하는 영화감독, PD 그리고 투자제작자가 배우지망생에게 건네는 조언과 응원의 메시지를 인터뷰하여 실었다. 10여 년 넘게 무명 생활을 하면서도 꿈을 버리지 않았던 배우 조성하, 박성웅, 조진웅, 김성균이 선배로서 이야기해주었다.\n\n\n\n또 블라인드 캐스팅으로 화제가 되었던  [국제시장]의 윤제균 감독, 배우지망생과 워크숍을 진행해온  [타워]의 김지훈 감독의 조언을 담았다. tvN  [응답하라] 시리즈를 연출한 신원호PD와  [미생]의 기획PD 이재문은 오디션 현장스케치와 노하우를,  [꽃보다 할배] 나영석PD는 어떻게 하면 예능을 잘할 수 있을지 방법을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Qrious(큐리어스)",
+                "DDC": "",
+                "UPDATE_DATE": "20150612",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "양성민,김민수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20150505",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "16,500",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157523498",
+                "INPUT_DATE": "20150612",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "(스스로 빛나는) 배우를 찾습니다",
+                "PUBLISH_PREDATE": "20150505",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

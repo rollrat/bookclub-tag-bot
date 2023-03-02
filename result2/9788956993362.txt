@@ -1,0 +1,67 @@
+{
+    "otitle": "다이어트의 정석",
+    "oauthor": "수피 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다이어트의 정석 (수피의 1:1 트레이닝 이번엔 다이어트다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466561661",
+                "image": "https://shopping-phinf.pstatic.net/main_3246656/32466561661.20230214162649.jpg",
+                "author": "수피",
+                "discount": "18000",
+                "publisher": "한문화",
+                "pubdate": "20180806",
+                "isbn": "9788956993362",
+                "description": "실패를 거듭해온 다이어트 흑역사에 종지부를 찍는다!\n\n《헬스의 정석》을 통해 헬스의 세계에서 길을 잃은 독자들에게 건강한 몸만들기의 정석을 제대로 보여줬던 수피가 다이어트로 정석의 끝을 보여주는 『다이어트의 정석』. 다이어트와 요요를 무한 반복하며 새로운 다이어트 법을 찾고 있는 사람들에게 단순한 살빼기가 아닌, 평생 지속 가능한 체중 관리를 위한 실전 전략과 노하우를 알려주는 책이다.\n\n다이어트를 어렵게 만드는 인간의 심리와 내 몸에 대한 이해, 화제가 되었던 다양한 다이어트 법, 다이어트의 장단점과 주의할 점, 고도비만, 과체중, 표준체중, 저체중의 체중별 맞춤 식사와 운동 프로그램까지 누구나 한 번쯤은 들어봤지만 제대로 알지 못하는 그야말로 다이어트에 대한 모든 것을 담았다. 운동 프로그램과 식단의 구성 원리를 보여주며 각자 자신의 상황에 맞게 다양하게 활용할 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한문화 :한문화멀티미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20180821",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "수피 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "454 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788956993362",
+                "INPUT_DATE": "20180723",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "다이어트의 정석",
+                "PUBLISH_PREDATE": "20180806",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

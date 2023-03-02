@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 신문기자입니다",
+    "oauthor": "임지선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 신문기자입니다 (사실을 캐고 진실을 쓰는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506170194",
+                "image": "https://shopping-phinf.pstatic.net/main_3250617/32506170194.20221230074401.jpg",
+                "author": "임지선",
+                "discount": "10800",
+                "publisher": "푸른들녘",
+                "pubdate": "20170120",
+                "isbn": "9791159252273",
+                "description": "기자가 되는 이유는 달라도 기자의 사명은 같다! \n세상을 바꾸는 단 한 줄의 힘을 믿는 사람 ‘기자’! 그들의 세계를 A부터 Z까지 파헤치다!!\n\n그 어느 때보다 기자직에 대한 선망이 뜨겁다. 전 국민이 드라마보다 뉴스를 더 자주 찾고, 소설보다 신문을 더 가까이 한다. 연일 보도되는 놀라운 사건들 때문이다. 그리고 기자는 그 보도 현장의 한가운데 서 있다. 그 뿐인가? 기자는 드라마, 영화, 소설 등 미디어에 특히 많이 등장하는 직업이다. 직업 자체의 인기가 높다 보니 매년 언론사의 입사시험 경쟁률도 어마어마하다. 신문사 시험에 합격하는 사람에게 “전생에 나라를 구했나 보다”라는 덕담을 건넬 정도다. 이처럼 기자직을 선망하는 이유가 무엇일까? ‘기자라는 타이틀이 보여주는 화려한 겉모습’ 때문일까, 미디어에 비춰진 ‘정의로움’에 마음을 빼앗겨서 그런 것일까, 아니면 ‘권력을 가진 자’로 보이기 때문일까? 물론 이 모두가 다 이유가 될 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "070.4",
+                "UPDATE_DATE": "20170706",
+                "EA_ADD_CODE": "14370",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "임지선",
+                "SERIES_TITLE": "",
+                "KDC": "070.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6043414_6.txt",
+                "SET_ISBN": "9788975276484",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6043414_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 208쪽 내외",
+                "CONTROL_NO": "CIP2017000347",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159252273",
+                "INPUT_DATE": "20170103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 신문기자입니다",
+                "PUBLISH_PREDATE": "20170120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14370 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

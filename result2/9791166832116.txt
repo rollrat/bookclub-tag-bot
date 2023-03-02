@@ -1,0 +1,67 @@
+{
+    "otitle": "주식 단타로 매일매일 벌어봤어?",
+    "oauthor": "양선호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "주식 단타로 매일매일 벌어봤어? (주린이를 위한 실전 단타 입문서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441506631",
+                "image": "https://shopping-phinf.pstatic.net/main_3244150/32441506631.20230214163723.jpg",
+                "author": "양선호",
+                "discount": "18000",
+                "publisher": "넥서스",
+                "pubdate": "20220304",
+                "isbn": "9791166832116",
+                "description": "주린이를 위한 주식 단타 비법 A to Z\n-매일 수익 내고 싶은 당신을 위한 단 권의 책!\n\n아무 주식이나 사도 오르던 강세장은 끝났다!\n약세장에서 수익 내려면 단타로 승부하라!\n\n단타로 주식 리딩하며,\n매일, 매주, 매월 수익 내는\n실전 트레이더의 특급 노하우!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20220427",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "양선호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166832116",
+                "INPUT_DATE": "20220103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "주식 단타로 매일매일 벌어봤어?",
+                "PUBLISH_PREDATE": "20220304",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

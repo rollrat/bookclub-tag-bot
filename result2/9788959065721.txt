@@ -1,0 +1,67 @@
+{
+    "otitle": "디지털의 배신",
+    "oauthor": "이광석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "디지털의 배신 (플랫폼자본주의와테크놀로지의유혹 | 디지털은인간을어떻게조종하는가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466667517",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466667517.20221230072128.jpg",
+                "author": "이광석",
+                "discount": "13500",
+                "publisher": "인물과사상사",
+                "pubdate": "20200630",
+                "isbn": "9788959065721",
+                "description": "『디지털의 배신』은 첨단의 신생 테크놀로지가 우리에게 선사한 성장의 달콤한 열매만큼이나 기술 숭배가 가져온 부메랑 효과들을 살피고 경고한다. 우리에게 테크놀로지의 유혹과 덫이라는 양자적 계기는 어쩌면 예고된 것인지도 모른다. 인류가 도구적 이성에 기대어 테크놀로지를 욕망할수록 지구환경과 인간 삶의 생태 순환계에 점점 균열이 가해질 수밖에 없다. 이제 생태 균열은 일상, 사회, 노동, 미디어, 생명에 걸쳐 거의 모든 영역에서 일어나고 있다.\n\n『디지털의 배신』은 기술 잉여가 만들어내는 굴절들, 즉 기술 자체가 사회 혁신과 진보로 슬그머니 등치되거나, 취약 노동이 기술로 매개되어 편리와 효율의 시장 논리로 둔갑하거나, 반(反)생태적 기술을 흡사 청정(淸淨)의 것으로 위장하거나, 기술이 우리의 취향을 주조하는데도 이를 풍요의 자유 문화처럼 보는 등 그 허구들을 뒤집어보고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과사상사",
+                "DDC": "",
+                "UPDATE_DATE": "20200708",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "이광석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "331.5412",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/15/9788959065721.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "CIP2020024728",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959065721",
+                "INPUT_DATE": "20200615",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "디지털의 배신",
+                "PUBLISH_PREDATE": "20200630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

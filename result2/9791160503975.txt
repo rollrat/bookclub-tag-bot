@@ -1,0 +1,67 @@
+{
+    "otitle": "인공지능 시대의 비즈니스 전략",
+    "oauthor": "정도희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인공지능 시대의 비즈니스 전략 (누가 AI 환경을 지배할 것인가!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441782717",
+                "image": "https://shopping-phinf.pstatic.net/main_3244178/32441782717.20230110165751.jpg",
+                "author": "정도희",
+                "discount": "14850",
+                "publisher": "더퀘스트",
+                "pubdate": "20180123",
+                "isbn": "9791160503975",
+                "description": "더 이상 미래의 트렌드가 아니다, 기업의 현실 과제다! \n인공지능의 비즈니스 활용법!\n\n4차 산업혁명에 관한 한 지금 가장 현실적이고도 핫한 키워드, 인공지능(AI). 국내 대기업들도 최근 조직개편에서 앞다퉈 인공지능 사업팀을 신설하거나 강화하고 있다. 그러나 실상은 인공지능, 머신러닝, 빅데이터 등의 개념조차 제대로 정립되지 않은 채 혼용되거나 피상적으로만 이해하고 있는 수준이다. 이제 인공지능이 시범 단계를 넘어 본격 사업 단계로 접어든 것만은 분명한데, 현장에서는 기술의 활용 방법을 제대로 알지 못해 혼란을 더하고 있는 실정이다.\n\n인공지능에 대한 관심이 막 시작됐을 무렵, 몇몇 해외서적들이 트렌드를 전망하는 방식으로 이 분야의 관심을 끌었다면, 이제는 한 걸음 더 들어간 ‘하우투(How to)’가 필요한 시점이다. 이에, 실제 인공지능 관련 기술들을 현업에 적용하는 것을 일상 업무로 하고 있는 국내 최고의 전문가가, 기술의 컨셉을 쉽게 전달하고, 오해를 바로잡으며, 기업 임직원들에게는 기술을 어떻게 활용하면 비즈니스와 업무에 실질적인 도움이 될지를 구체적으로 이야기하는 책을 출간하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더퀘스트 :길벗",
+                "DDC": "658.401",
+                "UPDATE_DATE": "20180201",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.gilbut.co.kr",
+                "AUTHOR": "정도희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6498654_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6498654_3.jpg",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6498654_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "CIP2018000174",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160503975",
+                "INPUT_DATE": "20180102",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "인공지능 시대의 비즈니스 전략",
+                "PUBLISH_PREDATE": "20180123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

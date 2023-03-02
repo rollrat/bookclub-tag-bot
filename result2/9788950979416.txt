@@ -1,0 +1,67 @@
+{
+    "otitle": "크로스 사이언스",
+    "oauthor": "홍성욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "크로스 사이언스 (프랑켄슈타인에서 AI까지, 과학과 대중문화의 매혹적 만남)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441430047",
+                "image": "https://shopping-phinf.pstatic.net/main_3244143/32441430047.20221019152244.jpg",
+                "author": "홍성욱",
+                "discount": "15300",
+                "publisher": "21세기북스",
+                "pubdate": "20190123",
+                "isbn": "9788950979416",
+                "description": "과학을 일상에서 배우는 방법!\n\n역사, 철학, 과학, 의학, 예술 등 각 분야 최고의 서울대 교수진들이 2017년 여름부터 매월 펼쳐온 다양한 주제의 강의들을 책으로 옮긴 「서가명강 시리즈」. 살아가는 데 필요한 지식과 교양을 선사하는 시리즈의 제2권 『크로스 사이언스』. 서울대 생명과학부 교수이자 소통하는 과학기술학자, 홍성욱 교수의 교양과학 강의를 바탕으로 한 책이다. \n\n과학을 쉽고 친근하게 이해할 수 있도록 《닥터 스트레인지러브》, 《공각기동대》 등의 영화와 《프랑켄슈타인》, 《멋진 신세계》 등 현대의 고전 속에 숨겨진 과학의 쟁점과 색다른 시선을 발견한다. 과학을 복잡한 이론과 공식으로 배우는 것이 아닌 우리 삶과 문화 속에서 발견하고, 융합적 사고력을 높여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20190214",
+                "EA_ADD_CODE": "04300",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "홍성욱 지음",
+                "SERIES_TITLE": "서가명강 세트",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788950979423",
+                "REAL_PUBLISH_DATE": "20190123",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "19,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "353 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950979416",
+                "INPUT_DATE": "20190123",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "크로스 사이언스",
+                "PUBLISH_PREDATE": "20190123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

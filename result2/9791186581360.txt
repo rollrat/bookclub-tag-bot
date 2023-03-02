@@ -1,0 +1,67 @@
+{
+    "otitle": "유럽을 그리다",
+    "oauthor": "배종훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "유럽을 그리다 (사랑을 부르는 배종훈의 여행 그림 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473970991",
+                "image": "https://shopping-phinf.pstatic.net/main_3247397/32473970991.20221019150020.jpg",
+                "author": "배종훈",
+                "discount": "13500",
+                "publisher": "꿈의지도",
+                "pubdate": "20151225",
+                "isbn": "9791186581360",
+                "description": "우연히 함께 여행하게 된 두 남녀의 가슴 뛰는 여행이야기 『유럽을 그리다』. 오랜 시간 동안 유럽을 여행했고, 유럽을 배경으로 한 그림들을 꾸준히 그려온 배종훈 작가. 그의 그림 속에는 여행의 기억과 여행에 대한 그리움이 잘 배어 있다. 이 책에서 여행을 주제로 한 그의 그림들을 한 눈에 볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20160118",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "배종훈",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186581360",
+                "INPUT_DATE": "20150521",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "유럽을 그리다",
+                "PUBLISH_PREDATE": "20151225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

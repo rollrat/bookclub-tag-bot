@@ -1,0 +1,67 @@
+{
+    "otitle": "온난한 날들",
+    "oauthor": "윤이안 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "온난한 날들 (윤이안 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/33341330626",
+                "image": "https://shopping-phinf.pstatic.net/main_3334133/33341330626.20230110165416.jpg",
+                "author": "윤이안",
+                "discount": "11700",
+                "publisher": "안전가옥",
+                "pubdate": "20220713",
+                "isbn": "9791191193572",
+                "description": "“주변에 보이는 길이라고는 그 산으로 난 길 하나밖에 없어서 선택의 여지가 없었다. 가 보는 수밖에.”\n\n아버지도 생전 내내 걱정했던 오지랖의 소유자 박화음. 하지만 아버지는 오래전에 돌아가셨고 그 오지랖 빼면 본인은 시체나 다름없다고 중얼거리며 그는 제 주변에서 일어나는 모든 사건에 귀 기울인다. 귀 기울이는 천성에서 왔는지, 그는 식물에 남은 사념의 소리마저 듣는 청력을 갖추었다. 물론 이 능력은 유년까지는 자신을 괴롭혀 온 이상 징후에 다름 아니었지만, 그는 새로운 친구를 만나고 몇 가지 사건을 거치며 자신이 가진 별수 없는 특성을 공동의 위기를 헤치는 무기로 벼려 나간다. 기후 소설이자 탐정 소설, 성장 소설이기도 한 《온난한 날들》은 무엇보다 개인의 모서리를 속속들이 더듬어 가는 모험과 그것을 마모시키지 않는 우정에 관한 이야기다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "안전가옥",
+                "DDC": "",
+                "UPDATE_DATE": "20220809",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 윤이안",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "350 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791191193572",
+                "INPUT_DATE": "20220627",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "온난한 날들",
+                "PUBLISH_PREDATE": "20220713",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

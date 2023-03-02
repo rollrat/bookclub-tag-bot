@@ -1,0 +1,78 @@
+{
+    "otitle": "벌코프 조직신학",
+    "oauthor": "루이스 벌코프 저/이상원,권수경 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:39 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "벌코프 조직신학",
+                "link": "https://search.shopping.naver.com/book/catalog/32481704822",
+                "image": "https://shopping-phinf.pstatic.net/main_3248170/32481704822.20230218110552.jpg",
+                "author": "루이스 벌코프",
+                "discount": "31350",
+                "publisher": "CH북스(크리스천다이제스트)",
+                "pubdate": "20170901",
+                "isbn": "9788944785030",
+                "description": "“위대한 조직신학자 벌코프가 집필한 개혁 신학의 대표적인 걸작”\n\n루이스 벌코프는 20세기 개혁주의 신학의 확립과 전수에 일생을 바친 위대한 조직신학자였다. 1957년, 83세의 나이로 소천할 때까지 칼빈신학교에서 후진들을 양성하는 일에 그의 재능을 바쳤다. 그의 개혁 신앙에 대한 충성심과 그의 간결하고 압축적인 문체와 새로운 시도가 이 작품을 20세기 개혁 신학의 걸작으로 만들었다.\n\n이 책은 조직신학 전반에 대한 포괄적이며 학적인 작품으로, 옛 진리를 현대의 신학사상과 관련하여 적절하게 증거하고 있다. 이 책은 개혁주의 신앙과 신학의 최고의 해설서로서 모든 목회자들과 신학생들에게 필수적인 책이다. 이 번역본은 완전히 새롭게, 정확하게 이해하기 쉽게 되어 있을 뿐만 아니라, 타 도서에서 번역하지 않은 독일어와 네덜란드어 인용문까지 완벽하게 완역했다."
+            },
+            {
+                "title": "벌코프 조직신학 개론",
+                "link": "https://search.shopping.naver.com/book/catalog/35299911989",
+                "image": "https://shopping-phinf.pstatic.net/main_3529991/35299911989.20221019151744.jpg",
+                "author": "루이스 벌코프",
+                "discount": "10800",
+                "publisher": "CH북스(크리스천다이제스트)",
+                "pubdate": "20010110",
+                "isbn": "9788944703751",
+                "description": "벌코프의 「조직신학」을 요약하여 저술한 것으로, 오늘날 교리에 대한 현대인들의 무관심과 그것으로 인한 그리스도인이라고 자인하는 피상적이고 진리와 현실의 것을 혼동하는 것이 우려되어, 개혁파의 입장에서 주께로부터 위탁받은 종교개혁의 진리개념을 소개하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "CH북스",
+                "DDC": "",
+                "UPDATE_DATE": "20171102",
+                "EA_ADD_CODE": "93230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "루이스 벌코프 지음 ;이상원,권수경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "1032 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788944785030",
+                "INPUT_DATE": "20170804",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "벌코프 조직신학",
+                "PUBLISH_PREDATE": "20170901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

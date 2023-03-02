@@ -1,0 +1,67 @@
+{
+    "otitle": "덧없는 꽃의 삶",
+    "oauthor": "피오나 스태퍼드 저/강경이 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "덧없는 꽃의 삶 (문학, 신화, 예술로 읽는 꽃 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456274674",
+                "image": "https://shopping-phinf.pstatic.net/main_3245627/32456274674.20221228072542.jpg",
+                "author": "피오나 스태퍼드",
+                "discount": "12960",
+                "publisher": "클",
+                "pubdate": "20200915",
+                "isbn": "9791190555258",
+                "description": "소리 없이 사라졌다 어느덧 피어 있는\n꽃들에게서 발견하는 삶의 경이로움\n《길고 긴 나무의 삶》 저자의 신작\n\n이토록 세련되고 세심하며 매력적인 식물 에세이는 보기 드물다.\n-《스펙테이터》\n\n꽃은 삶의 덧없음을 상징하는 것으로 여겨질 때가 많지만 자연의 부활과 싱그러운 성장을 떠올리게 하는 이미지이기도 하다. 이 책은 일상 곳곳에서 생생하게 피어나 우아한 자태로 감탄을 자아내는 열다섯 가지 꽃에 관한 이야기이다. 야생에서 혹은 정원에서 피는 이 꽃들은 문학, 신화, 예술 속에 다양한 모습으로 등장하는데, 이야기 하나하나가 우리의 삶과 얽혀 있어 흥미를 자극한다.\n  옥스퍼드대학교에서 영문학을 가르치는 저자 피오나 스태퍼드는 꽃을 둘러싼 이야기들을 특유의 유려한 문장으로 직조하여, 우리가 미처 발견하지 못했던 꽃의 아름다움과 의미를 다시금 보여준다. 단순히 꽃을 소개하는 글을 넘어서 그 자체로 하나의 완성도 있는 문학 작품이라 할 만하며 깊이 있는 인문학적 통찰이 담겨 있다. 우리는 그러한 통찰을 통해 삶을 반추해볼 수 있다.\n 특별히 한국어판에는 매 장마다 각각의 꽃이 가진 아름다움을 한껏 느낄 수 있도록 일러스트를 실었다. 들판이나 정원에 핀 꽃들을 직접 주변에서 찾아보면 이 책의 재미는 배가된다. 저자의 전작 《길고 긴 나무의 삶》에서 느낄 수 있었던 나무의 숨결과는 또 다른 꽃의 무궁무진한 매력을 이 책에서 새롭게 발견해보길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "",
+                "UPDATE_DATE": "20201015",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "피오나 스태퍼드 지음 ;강경이 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "481.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/11/9791190555258.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "283 p.",
+                "CONTROL_NO": "CIP2020033663",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190555258",
+                "INPUT_DATE": "20200811",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "덧없는 꽃의 삶",
+                "PUBLISH_PREDATE": "20200915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

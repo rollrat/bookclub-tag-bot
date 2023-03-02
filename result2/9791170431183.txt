@@ -1,0 +1,67 @@
+{
+    "otitle": "나의 첫 대체투자 공부",
+    "oauthor": "김대중 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나의 첫 대체투자 공부 (현명한 투자자를 위한 대체투자 입문서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440904668",
+                "image": "https://shopping-phinf.pstatic.net/main_3244090/32440904668.20221019114037.jpg",
+                "author": "김대중",
+                "discount": "16200",
+                "publisher": "원앤원북스",
+                "pubdate": "20200825",
+                "isbn": "9791170431183",
+                "description": "주식보다 안전하고, 채권보다 수익이 높은\n대체투자에 주목하라!\n\n지금까지 투자의 세계에서 절대적으로 큰 부분을 차지하는 상품은 주식과 채권이었다. 하지만 주식은 손실의 위험이 크고, 채권은 안정적이지만 수익이 너무 적다는 단점이 있다. 저금리 기조가 고착화되면서 새로운 투자상품에 대한 투자자들의 욕구는 높아졌고, 사람들은 채권보다 수익이 좋고 주식보다 리스크가 적은 투자상품을 찾았다. 이런 배경에서 탄생한 것이 바로 대체투자다. 대체투자란 ‘기존의 투자를 대신하는 새로운 투자’라는 뜻으로, 대체투자상품은 수익률 제고뿐만 아니라 인플레이션 방어, 포트폴리오 분산 등에도 주효하다. 전통투자보다 상대적으로 안전하고 추구하는 수익률도 높기 때문에 금융선진국의 연기금들은 매년 빠르게 대체투자의 비중을 늘리고 있다. 우리나라 또한 공제회 등을 중심으로 그러한 움직임에 동참하는 추세다. 자본 시장의 새로운 패러다임으로 떠오른 대체투자를 이해하고, 실질적인 투자 노하우를 익히고 싶은 사람이라면 이 책에 주목하자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200917",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김대중 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "375 p.",
+                "CONTROL_NO": "CIP2020031527",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170431183",
+                "INPUT_DATE": "20200728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(나의 첫) 대체투자 공부",
+                "PUBLISH_PREDATE": "20200825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

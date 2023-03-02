@@ -1,0 +1,67 @@
+{
+    "otitle": "내가? 정치를? 왜?",
+    "oauthor": "이형관,문현경 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내가? 정치를? 왜? (요즘 것들을 위한 최소한의 정치 상식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478405417",
+                "image": "https://shopping-phinf.pstatic.net/main_3247840/32478405417.20221230074304.jpg",
+                "author": "이형관^문현경",
+                "discount": "13500",
+                "publisher": "한빛비즈",
+                "pubdate": "20171030",
+                "isbn": "9791157842100",
+                "description": "정알못을 위한 최소한의 정치 상식\n\n‘정치는 어려운 것이다’라고 말하는 사람들 앞에서 당당해져야 한다. 사실 정치는 어려운 게 아니다. 기본만 이해해도 나만의 언어로 정치를 이야기할 수 있다. 어렵기만 한 정치 책, 지들끼리 떠들기 바쁜 정치 예능은 잠시 제쳐두자. 이 책은 어느 한쪽을 옹호하려고 쓰인 정치 책이 아니다. 모든 평범한 시민이 정치에 쉽게 다가가도록 최대한 객관적인 정보와 민주 시민이 가져야 할 올바른 자세 등을 담아냈다. ‘정잘알’, 즉 이미 정치 꽤나 아는 사람에게는 필요하지 않을 수 있다. 어떤 정치적 자세를 가져야 할지 고민하기 시작한 이들을 위해 쓰였기 때문이다.\n\n왜 국회의원들은 일은 제대로 안하고 싸우기만 하는지, 진보와 보수가 뭐라고 편 가르지 못해 안달인지, 대통령은 왜 존재하는지, 영남과 호남은 왜 서로 못 물어뜯어 안달인지 정치 이야기가 나올 때마다 그저 의문 부호만 안고 있었던 이들을 위한 최소한의 정치 상식을 준비했다. 이제 정치 관련 대화를 하는 자리에서 모른 척 술잔만 기울이거나 정치 기사만 보면 눈이 감겨와 외면해야 했던 현실에서 벗어나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20171108",
+                "EA_ADD_CODE": "03340",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "이형관,문현경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157842100",
+                "INPUT_DATE": "20171017",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "내가? 정치를? 왜?",
+                "PUBLISH_PREDATE": "20171030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

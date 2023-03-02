@@ -1,0 +1,67 @@
+{
+    "otitle": "한국어 문법여행",
+    "oauthor": "신지영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한국어 문법 여행 (조카 현진이와 떠나는 신지영 교수의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436317059",
+                "image": "https://shopping-phinf.pstatic.net/main_3243631/32436317059.20221228074818.jpg",
+                "author": "신지영",
+                "discount": "12600",
+                "publisher": "미다스북스",
+                "pubdate": "20151020",
+                "isbn": "9788966374113",
+                "description": "한국어 문법 초보자의 기초부터 친절한 선생님을 위한 설명까지 교과서에 없는 친절한 문법 책『한국어 문법 여행』. 문법이 궁금한 현진이의 질문과 친절한 고모의 답변이 문답 형식으로 구성되어, 국어 문법을 배우는 학생과 한국어 문법 초보자가 흔히 이해하기 어려운 한국어 문법을 쉽게 해설한다. 현진이와 고모의 문답 뒤에는 ‘한걸음 더’, ‘헷갈리지 말자’, ‘용어를 쉽게 이해하는 법’, ‘좀 더 쉬운 예로’ 등을 통해 더 깊은 문법 개념에 대해 알아본다. 그리고 요약 정리를 통해 핵심을 다시 한 번 되새기는 구성으로 이루어져 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20151224",
+                "EA_ADD_CODE": "03710",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "신지영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "272쪽 내외",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966374113",
+                "INPUT_DATE": "20151007",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "한국어 문법 여행",
+                "PUBLISH_PREDATE": "20151020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

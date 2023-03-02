@@ -1,0 +1,67 @@
+{
+    "otitle": "운동하는 아이가 행복하다",
+    "oauthor": "KBS 운동장 프로젝트 제작팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "운동하는 아이가 행복하다 (자존감 ·관계 ·학습력을 회복하는 학교체육의 기적)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466956015",
+                "image": "https://shopping-phinf.pstatic.net/main_3246695/32466956015.20220527023517.jpg",
+                "author": "KBS <운동장 프로젝트> 제작팀",
+                "discount": "0",
+                "publisher": "해냄출판사",
+                "pubdate": "20181029",
+                "isbn": "9788965746676",
+                "description": "아이들에게 빼앗긴 운동장을 돌려주자 \n\n입시의 나라 대한민국에서 교사, 부모가 놓쳐서는 안 될 한가지!\nKBS 학교체육 다큐멘터리팀이 10년간의 취재로 검증한 운동의 효과! \n\n『운동하는 아이가 행복하다』는 운동의 중요성은 알지만, 입시라는 현실적인 이유로 운동을 외면했던 학부모, 일반 교사들에게 지금 우리 아이들에게 필요한 교육이 무엇인지를 돌아볼 기회를 선사한다. 또한 학교폭력·왕따·자살 등 심화되는 청소년들의 아픔과 문제 해결을 위해 노력하는 교육 관계자들에게는 새로운 가능성과 대안을 전해준다. 즉 그 근본적인 해결 방안이 공부에 치우친 교육의 불균형을 극복하고, 아이들에게 운동장을 돌려주는 것임을 알려줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄",
+                "DDC": "375.796",
+                "UPDATE_DATE": "20181108",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "KBS <운동장 프로젝트> 제작팀 지음",
+                "SERIES_TITLE": "",
+                "KDC": "374.692",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6898377_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "CIP2018028949",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965746676",
+                "INPUT_DATE": "20180905",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "운동하는 아이가 행복하다",
+                "PUBLISH_PREDATE": "20181029",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

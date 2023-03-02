@@ -1,0 +1,67 @@
+{
+    "otitle": "독점의조건",
+    "oauthor": "김재영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "독점의 조건 (경쟁의 덫에서 벗어나는 카테고리 창조의 법칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456198697",
+                "image": "https://shopping-phinf.pstatic.net/main_3245619/32456198697.20221231084228.jpg",
+                "author": "김재영",
+                "discount": "14400",
+                "publisher": "한스미디어",
+                "pubdate": "20160429",
+                "isbn": "9788959759057",
+                "description": "마케팅 디렉터 김재영의 책. 몰스킨은 ‘수첩’이 아니라 ‘아직 글자가 쓰여지지 않은 책’으로, 테슬라는 ‘자동차’가 아니라 ‘바퀴 달린 스마트폰’으로 재정의하여 사람들의 머릿속에 새로운 카테고리를 만들었다. 치열한 경쟁 속에서 업계의 선두주자가 되기 위해 소모적인 투자로 선두를 뒤쫓을 것이 아니라, 완전히 새로운 카테고리를 만들어 그 분야의 유일한 존재로 자리 잡아야 한다. 즉 경쟁자가 없는 ‘카테고리 원 브랜드category one brand’가 되는 것이다. 그 결과 자신의 분야에서 그 무엇으로도 대체될 수 없는, 비교를 허용치 않는 ‘원조 브랜드’로서의 위상을 갖게 된다.\n\n\n\n허니버터칩, 설빙, 다시다, 딤채, 설화수, 비타500…. 시장의 절대강자로 군림하는 이들 제품의 공통점 역시 이전에 없던 새로운 카테고리를 만들어 시장을 독점했다는 것이다. 예를 들어 허니버터칩이 대박 성공을 거둔 결정적인 성공 이유는 감자칩 시장에서 ‘달콤한 감자칩’이라는 새로운 카테고리를 만들어냈기 때문이다. 시장을 지배하던 ‘짭짤한 감자칩’에서 탈출하여 ‘달콤한 감자칩’이라는 새로운 카테고리를 창조한 것이다. \n\n\n\n이 책은 저자가 수많은 상품을 분석하여 얻어낸 ‘독점의 조건 - 카테고리 창조의 법칙’이다. 저자는 우리가 익히 알고 있는 히트 상품의 탄생과 전략 속에서 시장의 독점적 지배자가 되는 법을 소개하고 있다. 저자는 새로운 카테고리 제품을 창조하는 데 고려해야 하는 5가지의 핵심 질문에 대한 11가지 해답을 찾아가는 과정들을 다양한 사례와 함께 전개해나간다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20160516",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "김재영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "330",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959759057",
+                "INPUT_DATE": "20160304",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "독점의 조건",
+                "PUBLISH_PREDATE": "20160510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

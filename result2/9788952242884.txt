@@ -1,0 +1,67 @@
+{
+    "otitle": "디리 dele 1",
+    "oauthor": "혼다 다카요시 저/박정임 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "디리(dele) 1 (당신이 죽은 후 지우려 했던 기록에 담긴 진실과 거짓)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504342137",
+                "image": "https://shopping-phinf.pstatic.net/main_3250434/32504342137.20221019132620.jpg",
+                "author": "혼다 다카요시",
+                "discount": "12150",
+                "publisher": "살림",
+                "pubdate": "20210401",
+                "isbn": "9788952242884",
+                "description": "죽은 자가 남긴 데이터의 장례를 치르기 위해\n죽은 자의 데이터에 접속하는 자들의 이야기\n\n죽은 뒤에 아무에게도 보이고 싶지 않은 데이터를 의뢰인을 대신해 디지털 기기에서 삭제! 그것이 ‘dele. LIFE’의 업무다. 의뢰받은 일을 담담하게 수행하는 소장 케이시와는 달리, 신입사원 유타로는 약간의 의문을 느끼고 있다. 두 사람은 뜻하지 않은 진실과 사건에 직면하고 마는데…….\n혼다 다카요시가 원안과 각본을 맡은 TV 아사히 인기 드라마 〈디리〉 원작 소설."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림(살림출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210518",
+                "EA_ADD_CODE": "04830",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "혼다 다카요시 지음 ;박정임 옮김",
+                "SERIES_TITLE": "디리 1~2권 세트",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788952242907",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "305 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788952242884",
+                "INPUT_DATE": "20210317",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "디리",
+                "PUBLISH_PREDATE": "20210401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04830 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

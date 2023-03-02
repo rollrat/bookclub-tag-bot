@@ -1,0 +1,67 @@
+{
+    "otitle": "내게 위로가 되는 것들",
+    "oauthor": "배승민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내게 위로가 되는 것들 (소아정신과 의사가 마음의 경계에서 발견한 풍경)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493367276",
+                "image": "https://shopping-phinf.pstatic.net/main_3249336/32493367276.20221019104613.jpg",
+                "author": "배승민",
+                "discount": "11970",
+                "publisher": "채륜서",
+                "pubdate": "20210412",
+                "isbn": "9791185401577",
+                "description": "정신건강의학과 의사들 중에서도 가장 최전방에서 수년간 다퉈온 삶\n\n어떤 상황이 닥쳐도 “그래서 아이들은?”이라고 되묻는 소아정신과 의사의 에세이. 의사로, 엄마로, 그저 하루하루를 살아가는 사람으로 빼곡히 남긴 기록이다. 수많은 환자들을 만나면서 다져진 예민한 시선으로 우리가 미처 헤아리지 못했던 상황과 감정을 섬세하게 포착했다. \n20년이 넘는 시간 동안 만났던 아이들은 모두 각자 다른 모습이었다. 첫만남에 “저 그래서 언제 죽어요?”라고 묻는 아이부터 긴 시간 함께했다고 믿었건만 꽃가루처럼 사라져버린 아이도 있었다. 그 곁에는 항상 가정의 역사가 실타래처럼 얽혀 있었다. 무조건 엄하게 다스려야 한다고 주장하는 아빠가 있고 주변의 따가운 시선에 속절없이 무너지는 엄마가 있고 이제는 훌쩍 커버린 아이를 더 이상 제어할 힘이 없어진 가족도 있었다. 그들과 함께 오늘을 살아내면서 깨달은 단상들을 책에 고스란히 담았다. \n저자는 마음을 잘 다스릴 수 있도록 끊임없이 가르치는 직업을 가진 자신 또한 평정심을 유지하기 어렵노라 솔직하게 고백한다. 복잡한 감정을 스스로 인정하기까지의 과정과 마음을 지키기 위한 자신만의 방법을 들려준다. 치료자들마저 다리가 휘청거릴 사건에서도 오롯이 서서 마음의 경계를 지킨 힘이 느껴진다. 차례는 봄에서 시작해서 “다시, 봄”으로 끝난다. 언제나 봄은 잊지 않고 찾아온다는 사실만으로도 우리는 내일을 마주할 힘을 얻으니까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "채륜서",
+                "DDC": "",
+                "UPDATE_DATE": "20210722",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.chaeryun.com",
+                "AUTHOR": "지은이: 배승민",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*185",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "246 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185401577",
+                "INPUT_DATE": "20210312",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "내게 위로가 되는 것들",
+                "PUBLISH_PREDATE": "20210412",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

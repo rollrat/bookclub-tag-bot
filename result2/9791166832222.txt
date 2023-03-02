@@ -1,0 +1,67 @@
+{
+    "otitle": "반짝이지 않아도 사랑이 된다",
+    "oauthor": "나민애 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "반짝이지 않아도 사랑이 된다 (나민애 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466868393",
+                "image": "https://shopping-phinf.pstatic.net/main_3246686/32466868393.20221019145117.jpg",
+                "author": "나민애",
+                "discount": "13500",
+                "publisher": "&(앤드)",
+                "pubdate": "20220225",
+                "isbn": "9791166832222",
+                "description": "작은 것에서 소중함을 찾는\n풀꽃 시인 ‘나태주’에게 배운 대로 사는 삶\n“아무것도 아닌 날들이 나를 만든다”\n\n*추천의 글*\n괜히 읽었다. 꼭 내 마음을 들킨 듯싶다. 어쩌지? 이 사람이 내 딸이고 이 글들이 내 딸의 것인데. 몹시 추운 겨울밤, 나는 딸의 글을 읽으며 떨기도 하고 울먹이기도 했다. 딸아이의 떨림이 나의 떨림이기도 해서 그랬다. \n_나태주(시인, 나민애 교수의 아버지)"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "& :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20220427",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "지은이: 나민애",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166832222",
+                "INPUT_DATE": "20220121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "반짝이지 않아도 사랑이 된다",
+                "PUBLISH_PREDATE": "20220225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

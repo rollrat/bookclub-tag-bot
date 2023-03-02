@@ -1,0 +1,78 @@
+{
+    "otitle": "가해자는 울지 않는다",
+    "oauthor": "성실 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:19 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "가해자는 울지 않는다",
+                "link": "https://search.shopping.naver.com/book/catalog/32451970057",
+                "image": "https://shopping-phinf.pstatic.net/main_3245197/32451970057.20221019120255.jpg",
+                "author": "성실",
+                "discount": "11700",
+                "publisher": "다른",
+                "pubdate": "20191216",
+                "isbn": "9791156332749",
+                "description": "학교 폭력 실태를 눈앞에서 보듯 생생하게 그려낸 성실 작가의 청소년소설 『가해자는 울지 않는다』. 학교 폭력을 다룰 때 가장 주목하는 인물인 ‘가해자’와 ‘피해자’가 아닌, 수많은 ‘방관자’ 중 한 명을 중심으로 이야기를 풀어 나간다. 언뜻 보면 가장 흔하고 평범해 보이는 인물, 폭력의 목격자이자 방관자로 살아가던 아이가 겪는 마음의 변화와 고통은 깊은 공감을 자아낸다."
+            },
+            {
+                "title": "[큰글자도서] 가해자는 울지 않는다",
+                "link": "https://search.shopping.naver.com/book/catalog/32466835816",
+                "image": "https://shopping-phinf.pstatic.net/main_3246683/32466835816.20221230074943.jpg",
+                "author": "성실",
+                "discount": "25000",
+                "publisher": "다른",
+                "pubdate": "20210111",
+                "isbn": "9791156333210",
+                "description": "“그랬다, 수아를 그곳으로 불러낸 건 우리였다.”\n학교 폭력에 삼켜진 아이들의 이야기\n\n학교 폭력 실태를 눈앞에서 보듯 생생하게 그려낸 성실 작가의 청소년소설 『가해자는 울지 않는다』가 출간되었다. 작가는 학교 폭력을 다룰 때 가장 주목하는 인물인 ‘가해자’와 ‘피해자’가 아닌, 수많은 ‘방관자’ 중 한 명을 중심으로 이야기를 풀어 나간다. 언뜻 보면 가장 흔하고 평범해 보이는 인물, 폭력의 목격자이자 방관자로 살아가던 아이가 겪는 마음의 변화와 고통은 깊은 공감을 자아낸다.\n\n소설 속에는 아이들 위에 군림하는 아이가 있고, 괴롭힘을 당하는 아이가 있다. 그리고 이 모든 모습을 바라만 보는 아이들이 있다. 이들의 관계는 서로에게 얽혀 들며 입장이 바뀌기를 거듭한다. 가해자가 되었다가 피해자가 되고, 뜻하지 않게 방관자가 되기도 한다. 이 속에서 누군가는 평생 잊지 못할 아픔을 안게 되고, 누군가는 생사의 갈림길에 서게 된다. 소설은 묻는다. 우리는 과연 ‘누구’일까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른",
+                "DDC": "",
+                "UPDATE_DATE": "20200220",
+                "EA_ADD_CODE": "44810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "성실 지음",
+                "SERIES_TITLE": "오늘의 청소년 문학",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788992711579",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/02/9791156332749.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "CIP2019049317",
+                "SERIES_NO": "26",
+                "EA_ISBN": "9791156332749",
+                "INPUT_DATE": "20191202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "가해자는 울지 않는다",
+                "PUBLISH_PREDATE": "20200101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

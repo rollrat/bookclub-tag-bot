@@ -1,0 +1,67 @@
+{
+    "otitle": "사는 데 꼭 필요한 101가지 물건",
+    "oauthor": "후지오카 미나미 저/이소담 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사는 데 꼭 필요한 101가지 물건 (다 버려봐야 진짜 원하는 것이 무엇인지를 안다)",
+                "link": "https://search.shopping.naver.com/book/catalog/34778459624",
+                "image": "https://shopping-phinf.pstatic.net/main_3477845/34778459624.20221019152036.jpg",
+                "author": "후지오카 미나미",
+                "discount": "13320",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20221006",
+                "isbn": "9791165344726",
+                "description": "“물건들을 향한 모든 감각이 새롭게 뒤집힌다!”\n일상의 무인도에서 하나씩 늘리는 생활을 통해 깨달은 101가지\n\n아무것도 없는 집에 하루에 하나씩 물건을 들여오는 생활을 시작했다. 하루에 꺼낼 수 있는 물건은 딱 1개. 음식물 구입은 괜찮지만 조미료는 카운트한다. 초기 장비는 최소한으로 설정하되, 기본 시설은 사용이 가능하다. 기간은 조건 없이 단 100일!\n가장 먼저 들여온 물건은 침구, 다음 날은 칫솔, 100일째는 가족의 선물이었다. 예상외로 필요 없는 물건은 전기밥솥과 지갑, 9일째 갖고 싶어진 물건은 ‘○○’이었다. 시간을 줄이는 도구와 늘리는 도구가 있었고, 냉장고의 또 다른 기능이 타임머신이라는 사실을 알았다.\n책은 정리의 기술을 알려주지도, 미니멀리스트를 지향하지도 않는다. 다만 누구도 하지 않는 이 무모하고도 대단한 도전을 통해 자신의 삶에 꼭 필요한 것을 생각해볼 기회를 마련해준다. 집이라는 일상의 무인도에서 오직 하나의 물건만 독대하며 깨달은 생활의 윤곽과 물건의 가치. 알아두면 두고두고 써먹게 되는 물건들의 위대한 발견이 지금 시작된다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20221014",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "후지오카 미나미 지음 ;이소담 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "227 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791165344726",
+                "INPUT_DATE": "20220826",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "사는 데 꼭 필요한 101가지 물건",
+                "PUBLISH_PREDATE": "20221006",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

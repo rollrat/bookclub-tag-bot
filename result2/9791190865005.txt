@@ -1,0 +1,67 @@
+{
+    "otitle": "똑똑한 유튜버는 스마트폰으로 합니다",
+    "oauthor": "정진수,황현준,윤혜정,박시은,박찬준,최현정 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "똑똑한 유튜버는 스마트폰으로 합니다 (누구나 쉽게 따라하는 스마트폰 콘텐츠 제작 노하우)",
+                "link": "https://search.shopping.naver.com/book/catalog/32477622087",
+                "image": "https://shopping-phinf.pstatic.net/main_3247762/32477622087.20230103165128.jpg",
+                "author": "정진수",
+                "discount": "13500",
+                "publisher": "나비의활주로",
+                "pubdate": "20200618",
+                "isbn": "9791190865005",
+                "description": "장비빨에 주눅 든 예비 유튜버들을 위한 꿀팁\n\n스마트폰 영상 촬영·편집의 A to Z 『똑똑한 유튜버는 스마트폰으로 합니다』. 이 책은 SNS 분야 베스트셀러 작가로 정진수 강사와 유명 유튜브 채널 운영자, SNS 전문가들이 유튜브 초보자들에게 도움을 주기 위해 쓴 책이다. 저자들은 사용이 간편하고 퀄리티도 보장되고 가성비까지 삼박자를 갖춘 스마트폰 하나면 된다고 입을 모은다. 영상 콘텐츠를 어떻게 만들어야 할지 막막했던 분들에게 꼭 필요한 앱들을 엄선해 그 사용법을 자세하게 소개하고 있으며, 유튜브 입문에 필요한 세세한 가이드라인까지 꼼꼼하게 담아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나비의활주로",
+                "DDC": "",
+                "UPDATE_DATE": "20200723",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정진수,황현준,윤혜정,박시은,박찬준,최현정 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "245 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190865005",
+                "INPUT_DATE": "20200526",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "똑똑한 유튜버는 스마트폰으로 합니다",
+                "PUBLISH_PREDATE": "20200618",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

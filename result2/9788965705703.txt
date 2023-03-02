@@ -1,0 +1,67 @@
+{
+    "otitle": "최후의 몰입",
+    "oauthor": "제갈현열,김도윤 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "최후의 몰입 (올림픽 금메달리스트들의 초집중력 탐구)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473670794",
+                "image": "https://shopping-phinf.pstatic.net/main_3247367/32473670794.20230214163945.jpg",
+                "author": "제갈현열^김도윤",
+                "discount": "12960",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20180108",
+                "isbn": "9788965705703",
+                "description": "결정적인 순간, '나'만 남겨라!\n\n최후의 몰입이란, 결정적인 순간 끝까지 몰입하여 최고의 성취를 이끌어내는 힘이다. 최고의 선수들은 어떤 자질을 가지고 있으며, 어떤 훈련법으로 집중력을 강화하고, 마지막 순간까지 주도적으로 몰입할 수 있었을까? 이 책은 12종목에서 금메달을 거머쥔 33명의 금메달리스트와 그들을 키워낸 3명의 감독, 총 36명의 심층 인터뷰를 통해 최고의 선수들이 결정적 순간 어떻게 집중력을 발휘하는지 그 노하우를 파헤친 책이다. \n\n몰입하게 만드는 진짜 흥미와, 몰입하는 체계적인 방법, 그 몰입을 유지하기 위해 어떤 자질이 필요한지 최고들의 노하우를 아낌없이 공개한다. 몰입을 통해 남다른 성취를 이루고 싶다면, 2등이 아닌 1등이 되고 싶다면, 이 책을 강력 추천한다. 당신에게 몰입과 집중력에 대한 강력한 동기부여와 새로운 인사이트를 제공해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20180118",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "제갈현열,김도윤 지음",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6481435_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "CIP2017034617",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965705703",
+                "INPUT_DATE": "20171218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "최후의 몰입",
+                "PUBLISH_PREDATE": "20180108",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

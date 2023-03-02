@@ -1,0 +1,67 @@
+{
+    "otitle": "중용, 조선을 바꾼 한 권의 책",
+    "oauthor": "백승종 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "중용, 조선을 바꾼 한 권의 책",
+                "link": "https://search.shopping.naver.com/book/catalog/32473943284",
+                "image": "https://shopping-phinf.pstatic.net/main_3247394/32473943284.20221019150252.jpg",
+                "author": "백승종",
+                "discount": "16200",
+                "publisher": "사우",
+                "pubdate": "20190715",
+                "isbn": "9791187332381",
+                "description": "“최고의 수양 서적”, 『중용』 \n이 한 권의 책은 조선의 역사를 어떻게 바꾸었나\n\n역사가   백승종이 안내하는 조선의 역사를 읽는 새로운 방법\n\n중용은 조선의 왕과 선비들이 가장 사랑한 책이다. 이 책은 『중용』이라는 한 권의 책이 조선의 역사에 어떻게 기여했는지를 구체적으로 실례를 통해 밝히고 있다. 저자는 『중용』을 오랫동안 연구해온 역사가로서 조선 500년의 역사 속에서 『중용』이 어떻게 시대의 필요에 따라 이용되었는지를 장기적인 관점에서 조망한다. 각 시대마다 중용이 어떤 역할을 했는지, 같은 내용이라도 입장에 따라 어떻게 해석이 달라졌는지, 중용에 대해 선비들이 품었던 의문은 무엇인지, 중용의 한계를 뛰어넘고자 어떤 노력을 기울였는지를 역사적 사건을 따라가며 생생하게 들려준다.     \n이 책은 『중용』을 중심으로 조선시대의 정치 사상사를 정리한 보기 드문 역작이다. 500년 동안 이 책을 두고 펼쳐진 선비들의 토론을 경청하고, 그들의 치열했던 성찰과 사색을 따라가다 보면, 역사의 흐름이 파노라마처럼 우리 눈앞에 펼쳐진다. 『중용』의 역사를 읽는 것은 조선 역사를 읽는 새로운 방법이다. 이 책을 통해 우리는 『중용』을 더 깊게 이해할 수 있으며, 한국사를 이해하는 더 폭넓은 관점을 가질 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사우",
+                "DDC": "",
+                "UPDATE_DATE": "20190722",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "백승종 지음",
+                "SERIES_TITLE": "",
+                "KDC": "148.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "CIP2019021867",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187332381",
+                "INPUT_DATE": "20190602",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "중용, 조선을 바꾼 한 권의 책",
+                "PUBLISH_PREDATE": "20190715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

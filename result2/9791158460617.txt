@@ -1,0 +1,67 @@
+{
+    "otitle": "펫 닥터스",
+    "oauthor": "펫 닥터스 제작팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "펫 닥터스 (반려동물과 행복하게 오래 살기 위한 맞춤 지침서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489639659",
+                "image": "https://shopping-phinf.pstatic.net/main_3248963/32489639659.20221229072633.jpg",
+                "author": "펫 닥터스 제작팀",
+                "discount": "11700",
+                "publisher": "비타북스",
+                "pubdate": "20160205",
+                "isbn": "9791158460617",
+                "description": "대한민국 천만 반려인을 위해\n최고의 수의사 군단 ‘펫 닥터스’가 뭉쳤다!\n\n대한민국 대표 수의사 군단이 출연해 반려동물의 건강과 질병, 올바른 관리법 등 반려동물 문화 전반에 대한 알찬 정보를 소개하는 국내 최초 본격 반려동물 컨설팅 프로그램인 《펫 닥터스》를 책으로 엮었다. 이 책은 입양에서부터 식사, 목욕, 산책, 배변, 임신, 중성화수술, 노화, 응급처치까지, 나의 강아지?고양이를 더욱 건강하고 행복하게 돌보기 위한 모든 것을 담고 있다. 풍부한 임상경험을 가진 수의사들이 실제 사례와 과학적 근거에 기반해 알려주는 특급 노하우는 물론 방송에서 미처 다루지 못한 소소한 정보들까지 꼼꼼하게 담아 천만 반려인의 필수 가이드가 되어 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "636.0887",
+                "UPDATE_DATE": "20160218",
+                "EA_ADD_CODE": "13490",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "skePetpark <펫 닥터스> 제작팀 ",
+                "SERIES_TITLE": "",
+                "KDC": "527.386",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5179949_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5179949_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240",
+                "CONTROL_NO": "CIP2016001835",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158460617",
+                "INPUT_DATE": "20160119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "펫 닥터스 ",
+                "PUBLISH_PREDATE": "20160205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

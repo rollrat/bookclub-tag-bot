@@ -1,0 +1,67 @@
+{
+    "otitle": "당신이 혹하는 사이",
+    "oauthor": "SBS [당신이 혹하는 사이] 제작팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "당신이 혹하는 사이 (지금까지 진실이라고 믿고 있던 것이 부정된다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504589895",
+                "image": "https://shopping-phinf.pstatic.net/main_3250458/32504589895.20221019131220.jpg",
+                "author": "SBS 당신이 혹하는 사이 제작팀",
+                "discount": "14400",
+                "publisher": "책들의정원",
+                "pubdate": "20211130",
+                "isbn": "9791164160983",
+                "description": "진실이라고 믿었던 것이 부정되는 순간,\n우리는 음모론에 빠진다\n\n*** 〈당혹사〉 방송에서 못다 한 이야기 최초 공개 ***\n\n99%의 거짓으로 만들어진 음모론 속에서 1%의 진실을 찾는 SBS 프로그램 〈당신이 혹하는 사이〉가 책으로 나왔다. 윤종신, 변영주, 봉태규, 송은이 등의 출연자와 함께 나누었던 이야기를 중심으로 방송에서 담지 못한 이야기를 최초로 공개했다. 연쇄살인마 유영철과의 대담, 북한 김정남을 암살하며 국제적으로 알려진 인물 도안 티 흐엉 인터뷰, 후쿠시마 정화조 시체 사건의 현지 취재 스토리 등 처음으로 밝혀지는 이야기가 흥미진진하다.\n\n〈당신이 혹하는 사이〉는 음모론을 단순한 가십으로 다루지 않는다. 음모론이 탄생하게 된 시대적 배경과 사회적 맥락을 짚어보고, 최초로 유포한 사람이 누구인지, 이를 확산하는 이들은 누구인지 그 정체와 의도를 추적했다. 한발 더 나아가 사람들이 진실을 두고 음모론을 믿고 싶어 하는 이유를 따져보며 투명하고 건강한 사회를 위한 대안을 고민했다. 사실이라고 믿었던 것이 부정되는 순간을 경험하며 우리는 새로운 진실에 다가가게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책들의 정원",
+                "DDC": "",
+                "UPDATE_DATE": "20220106",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: SBS 당신이 혹하는 사이 제작팀",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "364 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164160983",
+                "INPUT_DATE": "20211103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "당신이 혹하는 사이",
+                "PUBLISH_PREDATE": "20211130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

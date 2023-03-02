@@ -1,0 +1,78 @@
+{
+    "otitle": "물리학의 ABC",
+    "oauthor": "후쿠시마 하지메 저/손영수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:30 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "물리학의 ABC (광학에서부터 특수상대론까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32451958632",
+                "image": "https://shopping-phinf.pstatic.net/main_3245195/32451958632.20221229074424.jpg",
+                "author": "후쿠시마 하지메",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20171215",
+                "isbn": "9788970447919",
+                "description": "『물리학의 ABC』는 물리학 탐험을 위해 가이드 북이다. 이 책은 물리학 입문서로 전문가가 아닌 사람도 무엇인가 얻는 것이 있도록 다음과 같은 구성했다.  읽어보면 어쩐지 다 안 것 같은 기분이 들지만, 잘 생각해 보면 역시 모르겠구나 하는 따위의 책으로는 만들고 싶지 않다. 물리의 사고방식을 정말로 파악할 수 있게 하고 싶다. 가설을 세우고, 토론을 하고 실험으로 확인하는 물리학의 방법이 자연스럽게 이해될 수 있도록 연구한다. 물리학의 각 분야에서 가장 중심이 되는 것(예컨대 전자기에서는「장」의 사고방식)에 초점을 맞추어 자세하게 설명한다. 전문용어는 등장하는 그 자리에서 반드시 설명한다. 또 자질구레한 지식이나 어려운 말은 되도록 적게 한다. 인간이 자연을 이해하기 위해 고전해 온 과학의 역사 가운데는 물리학을 이해하기 위한 열쇠가 많이 숨겨져 있다. 그것을 되도록 살리도록 한다.(그러기 위해 과학사를 재구성한다)"
+            },
+            {
+                "title": "물리학의 ABC (광학에서부터 특수상대론까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505027626",
+                "image": "https://shopping-phinf.pstatic.net/main_3250502/32505027626.20220527025656.jpg",
+                "author": "후쿠시마 하지메",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19880401",
+                "isbn": "9788970440675",
+                "description": "광학, 우주와 운동, 열, 전자기장, 양자역학, 특수상대론에 대해서 역사상의 논쟁과 실험을 통하여 해설한 물리학의 기초를 다져주고 전체를 살펴보는 '읽는' 입문서."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20181114",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "후쿠시마 하지메 지음 ;손영수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "245 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970447919",
+                "INPUT_DATE": "20171212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "물리학의 ABC",
+                "PUBLISH_PREDATE": "20171215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

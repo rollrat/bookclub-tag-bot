@@ -1,0 +1,67 @@
+{
+    "otitle": "카카오톡 이모티콘 만들기",
+    "oauthor": "김소희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "카카오톡 이모티콘 만들기 (내가 만들어 누구나 사용하는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487186990",
+                "image": "https://shopping-phinf.pstatic.net/main_3248718/32487186990.20221019133049.jpg",
+                "author": "김소희",
+                "discount": "13540",
+                "publisher": "길벗",
+                "pubdate": "20200907",
+                "isbn": "9791165212698",
+                "description": "매일 사용하는 작은 즐거움, 이모티콘을\n‘소콘소콘’과 함께 만들어봐요!\n\n〈눈치보는 봉구〉를 시작으로 〈쵸키~ 작고소중해〉, 〈푸키~진촤 귀여워〉 등 다양한 이모티콘을 출시한 이모티콘 작가 ‘소콘소콘’의 이모티콘 만들기 노하우가 담긴 《카카오톡 이모티콘 만들기》는 이모티콘의 기획부터 스케치, 만들기, 제안하고 승인받는 상품화 과정을 알려준다. 그림을 정식으로 배우지 않아도 일상에서의 아이디어를 이모티콘으로 발전시켜 만들 수 있다. 온라인 커뮤니케이션의 필수 요소가 된 이모티콘을 직접 만들어 누구나 사용할 수 있도록  \n도전해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "길벗",
+                "DDC": "",
+                "UPDATE_DATE": "20201022",
+                "EA_ADD_CODE": "03000",
+                "PUBLISHER_URL": "http://www.gilbut.co.kr",
+                "AUTHOR": "김소희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "331.62",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/08/12/9791165212698.JPEG",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "336 p.",
+                "CONTROL_NO": "CIP2020033790",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165212698",
+                "INPUT_DATE": "20200812",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(내가 만들어 모두가 사용하는) 카카오톡 이모티콘 만들기",
+                "PUBLISH_PREDATE": "20200918",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

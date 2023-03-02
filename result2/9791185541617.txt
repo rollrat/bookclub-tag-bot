@@ -1,0 +1,67 @@
+{
+    "otitle": "뽑히는 글쓰기",
+    "oauthor": "최윤아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뽑히는 글쓰기 (시험에 통하는 글쓰기 훈련법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461503775",
+                "image": "https://shopping-phinf.pstatic.net/main_3246150/32461503775.20221228071907.jpg",
+                "author": "최윤아",
+                "discount": "14400",
+                "publisher": "스마트북스",
+                "pubdate": "20170725",
+                "isbn": "9791185541617",
+                "description": "세상에서 글쓰기가 제일 무서운 당신을 위한 시험용 글쓰기 처방전!\n\n시험용 글쓰기 훈련법 『뽑히는 글쓰기』. 글쓰기가 두렵고 싫지만 어쩔 수 없이 시험용 글쓰기에 정면 승부를 걸어야만 하는 사람들을 위한 책이다. 언론사 입사시험은 다양한 글쓰기 시험 가운데 최고 난이도를 자랑한다. 암기했던 지식을 글로 풀어내는 게 주를 이루는 사·공기업의 논술시험과는 달리 언론사 시험은 삶과 사회를 보는 글쓴이만의 고유한 관점까지 담아내도록 요구한다. 그런 글쓰기에 어려움을 겪는 사람들을 위해 저자가 글쓰기를 위해 읽었던 책들, 들었던 강의들, 고민했던 시간들 가운데 실용적이고 구체적인 팁만 모아 이 책에 담아냈다.\n\n책은 논술 초보자를 위한 빼기와 더하기, 논술 중상급자를 위한 비틀기를 통해 수준별 훈련법을 제공한다. 더불어 논술 및 작문은 물론 자소서, 면접용 1분 자기소개까지 각 채용 단계 마다 꼭 필요한 글쓰기 실전 팁을 담아냈다. 이와 함께 전문가의 첨삭 없이도 혼자 훈련할 수 있도록 예상문제와 셀프 첨삭 체크리스트를 수록했고 실전에서 바로 써먹을 수 있는 글감을 찾는 요령을 알려준다. 실제 언론사 시험을 통과한 글을 다수 수록해 합격글의 기준을 보여주며 수련과정에 방향을 잡아주는 역할을 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스마트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13800",
+                "PUBLISHER_URL": "http://www.smartbooks21.com",
+                "AUTHOR": "최윤아 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "327 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185541617",
+                "INPUT_DATE": "20170711",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "뽑히는 글쓰기",
+                "PUBLISH_PREDATE": "20170725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

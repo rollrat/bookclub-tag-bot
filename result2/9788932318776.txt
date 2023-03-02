@@ -1,0 +1,78 @@
+{
+    "otitle": "기억력 수업",
+    "oauthor": "케빈 호슬리 저/김지원 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:56 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "기억력 수업 (어제 일도 기억나지 않는 사람들을 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484930512",
+                "image": "https://shopping-phinf.pstatic.net/main_3248493/32484930512.20221228073917.jpg",
+                "author": "케빈 호슬리",
+                "discount": "11700",
+                "publisher": "현암사",
+                "pubdate": "20171030",
+                "isbn": "9788932318776",
+                "description": "더 빨리 배우고, 더 많이 기억하고, 더 생산적이 되기 위한 고급 학습 전략을 이해하기 쉽게 알려준다. 공부할 때나 일할 때 쉽게 집중하고 유용한 정보를 마음대로 저장했다가 불러낼 수 있다면, 생산성은 향상될 것이며 실수는 물론이고 낭비되는 시간이나 스트레스 또한 없어진다.\n\n\n\n저자는 세계에서 몇 안 되는 국제 기억력 그랜드마스터이다. 학창 시절 그는 기억력이 좋지 않았으며, 심지어 난독증으로 고등학교 졸업 때까지 혼자서는 책 한 권도 읽지 못했다. 그랬던 그가 심리학 및 뇌와 정신, 기억력에 대해 공부하여 결국 난독증을 극복해냈으며 세계 최고의 기억력 달인이 되었다. 그 기적 같은 비결이 25년 이상 기억력에 대해 연구한 결과와 함께 이해하기 쉽고 실용적인 방식으로 여기에 담겨 있다.\n\n\n\n기억력을 증진시키는 4개의 핵심 요소(4C)를 세 부분으로 나눠 설명한다. 집중력을 증진시키는 방법, 이미지를 창조하고 개념을 연결하는 능력을 증진시키는 법을 알아보고, 마지막 부분에서는 지속적인 사용 습관을 만드는 방법을 이야기한다. 이 4개의 C가 앞으로 계속 마주하게 될 기억력 문제의 해결책이다.\n\n\n\n평범한 정보를 사실적이고 조직적인 것으로 바꾸는 법을 알려준다. 그렇게 하면 정보가 의미를 갖게 되고 그냥 버려지는 대신 활용이 가능해지기 때문이다. 이 방법은 기계적인 암기보다 정보를 잘 기억하게 하여 훨씬 더 나은 결과를 이끌어낸다. 책에서 알려주는 다양하고 효과적인 기억법들을 연습하다 보면 누구든 기억력 향상에 도움이 된다."
+            },
+            {
+                "title": "나는 심플하게 살기로 했다 (100세 시대를 준비하는 40대 기억력 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32498753107",
+                "image": "https://shopping-phinf.pstatic.net/main_3249875/32498753107.20230211070823.jpg",
+                "author": "스가와라 요헤이",
+                "discount": "11700",
+                "publisher": "북로그컴퍼니",
+                "pubdate": "20170216",
+                "isbn": "9791187292449",
+                "description": "&lt;나는 심플하게 살기로 했다&gt;는 이처럼 획기적이고도 반가운 주장을 담은 책이다. 작업치료사로서 오랜 기간 뇌의 재활과 뇌 활성 연구를 해온 저자는 풍부한 현장 경험을 바탕으로, 마흔 이후 변화하는 뇌의 시스템과 기억법에 대해 구체적인 사실을 알려준다. \n\n1장과 2장에서는 기억법이 달라져야 하는 이유와 근거, 바로 활용해볼 수 있는 7가지 기억법을 설명한다. 3장에서는 즉시 기억력 좋아지는 5대 생활 법칙 15개 요령을, 4장에서는 ‘기억’과 관련된 실질적인 고민 7가지의 해결법을 제시한다. 5장에서는 마흔의 기억법이 가진 잠재력에 대한 긍정과 희망의 메시지를 전달한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "153.14",
+                "UPDATE_DATE": "20171109",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "케빈 호슬리 지음 ;김지원 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6395437_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6395437_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*198",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "CIP2017027105",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932318776",
+                "INPUT_DATE": "20171018",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "기억력 수업",
+                "PUBLISH_PREDATE": "20171030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

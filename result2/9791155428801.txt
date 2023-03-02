@@ -1,0 +1,67 @@
+{
+    "otitle": "뉴욕을 그리는 중입니다",
+    "oauthor": "조아라 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뉴욕을 그리는 중입니다 (미술하는 여자의 뉴욕생존기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444875241",
+                "image": "https://shopping-phinf.pstatic.net/main_3244487/32444875241.20221230074942.jpg",
+                "author": "조아라",
+                "discount": "12420",
+                "publisher": "생각정거장",
+                "pubdate": "20181002",
+                "isbn": "9791155428801",
+                "description": "조아라 에세이. 어쩌다 시작된 뉴욕살이. 부모님을 따라 떠난 러시아에서 학창 시절을 보내고, 시카고에서 홀로 대학을 다니고, 작품 팔아 돈까지 만져봤으니 이제 유망한 예술가로 화려하게 데뷔하는 일만 남았다고 생각했다. 그러나 호기롭게 떠난 뉴욕에서의 생활은 무엇 하나 쉽지 않다. 맨해튼은 고사하고 브루클린의 듣도 보도 못한 작은 동네에 살면서도 월세에 허덕였고, 돈이 없으니 작업도 제대로 되지 않았다. 그마저도 비자 문제로 언제 쫓겨날지 몰라 전전긍긍하며 보낸 시간들….\n\n\n\n'뉴욕'하면 떠오르는 타임스스퀘어와 자유의 여신상, 메트로폴리탄미술관과 월스트리트 같은 것들은 딴 세상 얘기였다. 그럼에도 불구하고 뉴욕에서의 네 번째 계절을 맞는다. 돈과 사람이 모이는 도시, 마음만 먹으면 동경하는 아티스트를 만나 이야기를 나눌 수 있고, 내로라하는 미술관과 갤러리가 매주 새로운 작품을 쏟아내는 예술의 도시, 미워하려야 미워할 수 없는 이곳에서 살아가는 중이다. 계속 헤매더라도 후회 없이."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정거장 : 매경출판",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181029",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "조아라 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6901935_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "242 p.",
+                "CONTROL_NO": "CIP2018029277",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155428801",
+                "INPUT_DATE": "20180907",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "뉴욕을 그리는 중입니다",
+                "PUBLISH_PREDATE": "20181002",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

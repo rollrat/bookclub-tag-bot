@@ -1,0 +1,67 @@
+{
+    "otitle": "x의 즐거움",
+    "oauthor": "스티븐 스트로가츠 저/이충호 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "X의 즐거움 (인생을 해석하고 지성을 자극하는 수학 여행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467582901",
+                "image": "https://shopping-phinf.pstatic.net/main_3246758/32467582901.20221019151248.jpg",
+                "author": "스티븐 스트로가츠",
+                "discount": "13500",
+                "publisher": "웅진지식하우스",
+                "pubdate": "20140711",
+                "isbn": "9788901165813",
+                "description": "우리 안에 숨겨진 수학 본능을 다시 깨우다!\n\n인생을 해석하고 지성을 자극하는 수학여행『X의 즐거움』. 하버드와 MIT 학생들이 영화배우보다 더 환호하는 괴짜 수학자 스티븐 스트로가츠의 수학 칼럼《X의 즐거움》을 엮은 책이다. 유치원 과정의 산수에서부터 대학원 과정의 대수학까지 차근차근 단계를 밟아가며 독자들을 즐거운 수학의 세계로 초대한다. ‘어른의 눈높이’에서 수학이 얼마나 즐거운 일인지를 알게 하고, 우리 안에 숨겨져 있던 ‘수학 본능’을 일깨워준다. \n\n저자는 우리가 익숙하게 알고 있는 기초적인 수학개념을 신선하게 해석해 우리를 수학을 처음 배우던 때로 돌아가게 한다. 어린이 프로그램《세서미 스트리트》부터 셰익스피어의《로미오와 줄리엣》, 얼룩말의 줄무늬와 크림치즈를 바른 베이글에 이르기까지, 일상생활과 대중문화, 생물학, 역사 등 세상 모든 것에 깃든 수학을 발견할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)웅진씽크빅",
+                "DDC": "510",
+                "UPDATE_DATE": "20140806",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "스티븐 스트로가츠 지음;이충호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "410",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3744815_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3744815_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3744815_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014020411",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788901165813",
+                "INPUT_DATE": "20140701",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "x의 즐거움",
+                "PUBLISH_PREDATE": "20140711",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

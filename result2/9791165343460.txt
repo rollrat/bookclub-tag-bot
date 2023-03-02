@@ -1,0 +1,78 @@
+{
+    "otitle": "네 번째 여름",
+    "oauthor": "류현재 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:31 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "네 번째 여름 (류현재 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481293383",
+                "image": "https://shopping-phinf.pstatic.net/main_3248129/32481293383.20230131162638.jpg",
+                "author": "류현재",
+                "discount": "12420",
+                "publisher": "마음서재",
+                "pubdate": "20210510",
+                "isbn": "9791165343460",
+                "description": "‘대한민국 콘텐츠 대상 수상작’ 전격 출간!\n그물처럼 질기고 너울처럼 아찔한, 그날 밤의 미스터리\n\n검증된 스토리텔러들의 성지, ‘대한민국 콘텐츠 대상’. 2020년 교감신경을 자극하는 독특한 소재와 구성으로 스토리 부문 수상의 영예를 안은 화제작이 출간되었다. 실제에서 오는 완벽한 리얼리티, 내적 욕망을 자극하는 강렬한 감정 환기, 1초도 눈을 뗄 수 없는 드라마틱한 서사까지, 평단의 찬사를 받은 이 소설이 좀체 접하기 힘든 색다른 미스터리로 독자들을 자극하는 이유다.\n이야기는 현실과 과거, 세대와 공간을 넘나들며 기민하게 움직인다. ‘황금엉덩이’라는 꼬리표가 붙은 검사 해심은 성범죄자들에게 중형을 때리기로 소문난 인물. 직장 내 성추행 사건을 수사하며 일개 공무원이라는 깊은 무력감에 빠진 어느 날, 다급한 전화를 받고 일상이 송두리째 흔들린다. 내용인즉, 치매에 걸린 아버지가 일면식 없는 할머니를 상대로 끔찍한 성폭행을 저질렀다는 것. 하지만 의뭉스러운 주변인들을 통해 이내 단순 사건이 아님을 직감하고, 좁은 욕조 안에서 벌어진 수십 년 전의 비밀과 맞닥뜨리며 충격에 휩싸인다.\n류현재 작가는 《네 번째 여름》의 출간으로 다시 한번 사실적이고 세밀한 자신의 세계관을 견고히 다졌다. 특히 이 작품은 비틀린 욕망과 서글픈 운명이 맞물려 빚어낸 오해와 질투, 복수와 치정의 드라마로 감당하기 힘든 카타르시스를 선사한다."
+            },
+            {
+                "title": "산에 들에 피는 우리 꽃 2: 여름 (최봉희의 네번 째 시조집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461361025",
+                "image": "https://shopping-phinf.pstatic.net/main_3246136/32461361025.20221019132105.jpg",
+                "author": "최봉희",
+                "discount": "13500",
+                "publisher": "글벗",
+                "pubdate": "20200411",
+                "isbn": "9788965331353",
+                "description": "최봉희의 세번 째 시조집 『산에 들에 피는 우리 꽃. 2: 여름』은 〈갈퀴나물〉, 〈고마리〉, 〈금꿩의 다리〉, 〈꿀풀〉, 〈누리장나무〉 등 주옥같은 작품을 만나볼 수 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마음서재",
+                "DDC": "",
+                "UPDATE_DATE": "20210622",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "지은이: 류현재",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "134*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "309 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165343460",
+                "INPUT_DATE": "20210416",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "네 번째 여름",
+                "PUBLISH_PREDATE": "20210510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

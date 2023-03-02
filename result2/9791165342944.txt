@@ -1,0 +1,67 @@
+{
+    "otitle": "아메리칸 더트",
+    "oauthor": "제닌 커민스 저/노진선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아메리칸 더트 (제닌 커민스 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441627621",
+                "image": "https://shopping-phinf.pstatic.net/main_3244162/32441627621.20230131164110.jpg",
+                "author": "제닌 커민스",
+                "discount": "14850",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20210203",
+                "isbn": "9791165342944",
+                "description": "고요한 주택가를 피로 물들인 카르텔의 살육에서 살아남아\n‘짐승’이라 불리는 기차에 올라야 했던 모자의 처절한 여정\n\n멕시코 남서부 태평양 연안에 자리한 아름다운 휴양 도시 아카풀코. 어느 토요일 고요한 주택가에 울려 퍼진 총성은 열다섯 살 생일을 축하하는 성인식인 킨세아네라를 순식간에 피로 물들인다. 얼음이 담긴 잔에 맺힌 이슬이 채 마르기도 전에 싸늘하게 식어간 열여섯 명의 가족들. 지옥 같은 살육 현장에서 가까스로 살아남은 두 모자, 리디아와 루카는 자신들의 목숨을 노리는 잔혹한 카르텔의 손아귀에서 벗어나기 위해 당장 떠나야만 한다. 가족들의 장례도 치르지 못한 채. 매 순간 목숨을 건 선택이 이어지는 엘 노르테를 향한 여정에서 알게 된 그날의 진실은……. \n\n계약 당시부터 출판사들의 치열한 경쟁으로 기대를 한몸에 받은 《아메리칸 더트》는 출간 직후 수많은 매체가 동시에 ‘원픽’ 소설로 꼽기도 했다. 숨 돌릴 틈 없이 빠르게 전개되는 스토리로 강렬한 흡인력을 보여주며 독자들을 매료시키는 동시에 인간의 존엄과 생명의 가치, 난민 문제에 대한 묵직한 메시지를 남긴다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20210309",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "지은이: 제닌 커민스 ;옮긴이: 노진선",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "614 p.",
+                "CONTROL_NO": "CIP2020052750",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165342944",
+                "INPUT_DATE": "20201211",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아메리칸 더트",
+                "PUBLISH_PREDATE": "20210203",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

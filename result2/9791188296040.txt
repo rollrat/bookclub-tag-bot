@@ -1,0 +1,67 @@
+{
+    "otitle": "육식의 딜레마",
+    "oauthor": "케이티 키퍼 저/강경이 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "육식의 딜레마 (우리가 먹는 소, 닭, 돼지는 어디에서 오는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476762843",
+                "image": "https://shopping-phinf.pstatic.net/main_3247676/32476762843.20221230071502.jpg",
+                "author": "케이티 키퍼",
+                "discount": "12600",
+                "publisher": "루아크",
+                "pubdate": "20170920",
+                "isbn": "9791188296040",
+                "description": "육류산업이 이면, 곧 막대한 이익을 위해 육류산업이 감추고 싶어 하는 ‘비용’에 관해 말한다. 육류산업이 왜 그 ‘비용’을 숨기려 하는지 그리고 그 ‘비용’을 사회로 떠넘기기 위해 어떤 방법을 동원해왔는지 적나라하게 보여준다. \n\n\n\n산업화된 육류산업 덕에 그 어느 때보다 많은 사람이 미식의 즐거움과 영양 혜택을 누리고 있지만, 그 이면에서 육류산업은 최단 시간에 최대 성과를 올리기 위해 동물복지, 환경, 노동자의 권리를 무참히 짓밟았다. 기술적 진보를 활용해 육류를 더 안전하게, 자연자원을 더 현명하게 사용할 시스템을 만드는 방법을 생각해 볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "루아크",
+                "DDC": "613.2",
+                "UPDATE_DATE": "20170922",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "케이티 키퍼 지음 ;강경이 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "517.549",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6343001_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6343001_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "250 p.",
+                "CONTROL_NO": "CIP2017022500",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188296040",
+                "INPUT_DATE": "20170830",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "육식의 딜레마",
+                "PUBLISH_PREDATE": "20170920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

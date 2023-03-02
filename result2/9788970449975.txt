@@ -1,0 +1,78 @@
+{
+    "otitle": "사막의 낙타는 왜 태양을 향하는가?",
+    "oauthor": "사카타 다카시 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:15 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "사막의 낙타는 왜 태양을 향하는가? (주변의 비교동물생리학, 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458944653",
+                "image": "https://shopping-phinf.pstatic.net/main_3245894/32458944653.20230218110515.jpg",
+                "author": "사카타 다카시",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20211228",
+                "isbn": "9788970449975",
+                "description": "이 책은 인간의 입장에서 볼 때 극단적인 환경에서 사는 척추동물들이 어떤 구조에 의해 그런 환경에 능숙하게 적응하고 있는지를 비교생리학적인 견해로 살펴본다. 또한 자연환경에 적절하게 적응하여 경이로운 능력을 발휘하는 여러 척추동물의 생리를 재미있게 해설한다."
+            },
+            {
+                "title": "사막의 낙타는 왜 태양을 향하는가? (주변의 비교동물생리학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496658624",
+                "image": "https://shopping-phinf.pstatic.net/main_3249665/32496658624.20221228073255.jpg",
+                "author": "사카타 아카시",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "19940601",
+                "isbn": "9788970441580",
+                "description": "자연 환경에 적절하게 적응하여 경이의 능력을 발휘하는 여러 가지 척추 동물의 생리를 재미있게 해설한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20220222",
+                "EA_ADD_CODE": "03490",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "사카타 다카시 지음 ;[전파과학사] 편집부 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "193 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970449975",
+                "INPUT_DATE": "20211217",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "사막의 낙타는 왜 태양을 향하는가?",
+                "PUBLISH_PREDATE": "20211228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

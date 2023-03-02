@@ -1,0 +1,67 @@
+{
+    "otitle": "모든 성공은 긍정의 말에서 시작된다",
+    "oauthor": "유성은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모든 성공은 긍정의 말에서 시작된다 (이 세상 모든 위대한 인물들은 절대긍정주의자였다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454328449",
+                "image": "https://shopping-phinf.pstatic.net/main_3245432/32454328449.20221019144953.jpg",
+                "author": "유성은",
+                "discount": "12600",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20180122",
+                "isbn": "9788960542013",
+                "description": "* 사소한 긍정의 습관이 당신의 운명을 바꾼다! \n* 모든 성공의 원천인 긍정의 힘을 기르고 활용하는 지침서! \n\n시간관리 전문가로 명성이 높은 저자는 긍정의 힘을 기르고 활용하는 지침서인 이 책에서 젊은이들에게는 강한 도전의식을, 열등감의 늪에 빠진 사람들에게는 용기를 불러일으키려 한다. 실패해서 좌절한 사람들에게는 희망을, 인생을 가치 있게 살려는 사람들에게는 올바른 삶의 방향을 제시한다. 책과 함께 여행하다 보면 생각과 행동에 미묘한 변화가 찾아오고 어느새 긍정적인 습관이 몸과 마음에 배어들어 행복과 성공도 저절로 따라올 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙경제평론사",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20180208",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "유성은 지음",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6498440_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6498440_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "CIP2018000268",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960542013",
+                "INPUT_DATE": "20180102",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "모든 성공은 긍정의 말에서 시작된다",
+                "PUBLISH_PREDATE": "20180122",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

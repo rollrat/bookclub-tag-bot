@@ -1,0 +1,67 @@
+{
+    "otitle": "병균아, 저리가!",
+    "oauthor": "이윤희 글/신보미 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "병균아, 저리 가! (감염병 예방)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445060092",
+                "image": "https://shopping-phinf.pstatic.net/main_3244506/32445060092.20221019142024.jpg",
+                "author": "이윤희",
+                "discount": "10800",
+                "publisher": "하마",
+                "pubdate": "20220425",
+                "isbn": "9791190521536",
+                "description": "감염병을 예방하는 방법에 대해 알아보아요!\n\n코로나19 바이러스의 대유행은 감염병의 전파력과 우리 일상에 미치는 큰 영향력에 전 세계를 깜짝 놀라게 했어요. 우리를 아프게 만드는 병균은 크기가 아주 작아서 눈으로는 볼 수 없어요. 하지만 작다고 얕보면 안 돼요. 우리가 모르는 사이 슬쩍 몸속에 들어와 병을 일으키니까요. 『병균아, 저리 가!』는 감염병의 정의와 병균이 살고 있는 곳, 병균이 어떻게 몸에 들어오는지를 이해하기 쉽게 설명해 주는 책이에요. 병균이 침입한 뒤 우리 몸속 군대인 면역 체계의 반응, 왜 예방 주사를 맞아야 하는지와 올바른 손 씻기 방법, 서로를 위한 기침 예절과 생활 속 거리 두기 등 건강한 일상을 위한 상식이 알차게 담겨 있어요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20220609",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 이윤희 ;그림: 신보미",
+                "SERIES_TITLE": "슬기로운 안전 유치원(전10권)",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791190521574",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "230*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[29] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190521536",
+                "INPUT_DATE": "20211012",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "병균아, 저리 가!",
+                "PUBLISH_PREDATE": "20220425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "77810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

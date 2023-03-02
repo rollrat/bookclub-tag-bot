@@ -1,0 +1,67 @@
+{
+    "otitle": "1일 5분 정리 수납 정돈법",
+    "oauthor": "가지가야 요코 저/김수정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "1일 5분 정리 수납 정돈법 (실천 가능하고 지속 가능한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485799630",
+                "image": "https://shopping-phinf.pstatic.net/main_3248579/32485799630.20220527042553.jpg",
+                "author": "가지가야 요코",
+                "discount": "0",
+                "publisher": "즐거운상상",
+                "pubdate": "20191020",
+                "isbn": "9791155361382",
+                "description": "정리 → 수납 → 정돈\n3단계를 제대로 알면\n실천 가능하고 지속 가능한\n집 정리를 할 수 있어요!\n\n무조건 버리고 치우기만 하면 될까요?\n정리, 수납, 정돈의 진정한 의미를 알아야\n반복 실패에서 벗어날 수 있습니다\n다른 사람, 다른 집이 아닌\n나와 우리집에 맞는 방법을 찾아보세요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "즐거운상상",
+                "DDC": "",
+                "UPDATE_DATE": "20191105",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 가지가야 요코 ;옮긴이: 김수정",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "144 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155361382",
+                "INPUT_DATE": "20190910",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "1일 5분 정리 수납 정돈법",
+                "PUBLISH_PREDATE": "20191020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

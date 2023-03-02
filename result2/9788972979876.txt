@@ -1,0 +1,67 @@
+{
+    "otitle": "집이 아니라 방에 삽니다",
+    "oauthor": "신민주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "집이 아니라 방에 삽니다 (애매하게 가난한 밀레니얼 세대의 ’돈’립생활 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441457781",
+                "image": "https://shopping-phinf.pstatic.net/main_3244145/32441457781.20221229072414.jpg",
+                "author": "신민주",
+                "discount": "11240",
+                "publisher": "디귿",
+                "pubdate": "20210416",
+                "isbn": "9788972979876",
+                "description": "“새벽 두 시까지 아르바이트 해봐요! 정말 노동이 신성한가!” ‘일하지 않는 자, 먹지도 말라’는 낡은 진리에 통쾌한 반격을 가하는 유쾌, 발랄 ‘쩐’내 나는 기본소득 에세이다. 2020년 1월, 밀레니얼 세대들이 뭉쳐 기본소득당을 만들었다. 모두에게, 조건 없이, 정기적으로 일정한 돈을 지급하겠다는 이 정당에 1020 청년들이 열광했다. 기본소득당의 창당 멤버인 저자는 책의 부제처럼 ‘애매하게 가난’한 20대 여성이다. 수십 개의 아르바이트를 섭렵하고 원룸에서 투룸으로 이사를 꿈꾸는 스스로의 삶을 돌아보다가 이 모든 문제가 ‘돈’ 때문임을 깨달았다. 좋아하는 일에 도전할 수 있는 원동력, 실패해도 괜찮은 튼튼한 안전장치가 바로 ‘기본소득’이었다. 이 책은 부동산 투기, 주식 대박과는 전혀 관련 없는 이상한 돈, 그러나 사랑하는 사람과 맛있는 밥 한 끼를 먹을 수 있고, 가족과 더 많은 시간을 보낼 수 있게 해주는 아름다운 돈 이야기다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "디귿 :동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20210526",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "지은이: 신민주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*186",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "183 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972979876",
+                "INPUT_DATE": "20210302",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "집이 아니라 방에 삽니다",
+                "PUBLISH_PREDATE": "20210416",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

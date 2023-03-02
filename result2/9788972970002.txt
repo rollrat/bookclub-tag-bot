@@ -1,0 +1,67 @@
+{
+    "otitle": "왜요, 기후가 어떤데요?",
+    "oauthor": "최원형 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왜요, 기후가 어떤데요? (탄소 발자국에 숨은 기후 위기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483733656",
+                "image": "https://shopping-phinf.pstatic.net/main_3248373/32483733656.20230207165728.jpg",
+                "author": "최원형",
+                "discount": "11700",
+                "publisher": "동녘",
+                "pubdate": "20210803",
+                "isbn": "9788972970002",
+                "description": "기후 위기의 원인은 무엇이고 누구의 책임일까?\n문제의 핵심을 짚은 청소년 기후 변화 입문서\n\n동녘 청소년 교양 시리즈 ‘왜요’가 들려주는 세 번째 이야기. 환경과 생태 문제를 청소년 눈높이로 전달하는 탁월한 능력을 입증한 최원형 작가가 기후 변화를 말한다. 청소년이 일상에서 접하는 기후 변화와 관련한 다양한 사례부터 탄소 중립 실천법까지 쉽고도 간결하게 기후 변화 문제의 핵심을 짚었다. 세계적으로 기후 변화 교육이 강조되고 있는 지금, 청소년들이 기후 위기의 현실을 정확히 알고 무엇을 해야 하는지 구체적이고 실용적 방법이 이 책에 담겨 있다. 무심코 하는 행동을 기후 문제와 연결한 상황 일러스트와 함께 각 장 뒤에 정리된 토론 주제를 통해 청소년이 스스로 생각하고 서로 토론해볼 수 있게 구성했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20210928",
+                "EA_ADD_CODE": "43450",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "최원형 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "182 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972970002",
+                "INPUT_DATE": "20210708",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "왜요, 기후가 어떤데요?",
+                "PUBLISH_PREDATE": "20210810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

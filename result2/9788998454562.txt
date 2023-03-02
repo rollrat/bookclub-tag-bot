@@ -1,0 +1,78 @@
+{
+    "otitle": "나혼자 끝내는 일본어 단어장",
+    "oauthor": "넥서스콘텐츠개발팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:45 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나혼자 끝내는 일본어 단어장 (MP3 + 단어 암기 동영상 포함) (MP3 + 단어 암기 동영상 포함)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465515628",
+                "image": "https://shopping-phinf.pstatic.net/main_3246551/32465515628.20230223070953.jpg",
+                "author": "넥서스콘텐츠개발팀",
+                "discount": "9680",
+                "publisher": "넥서스",
+                "pubdate": "20170105",
+                "isbn": "9788998454562",
+                "description": "“일본어, 혼자 공부해도 문제없어!“\n\n\n\n일본어 독학자들이 혼자서 30일 만에 단어를 암기할 수 있도록 구성했다. 기초 단어 600여 개를 포함하여 일상생활에서 활용도가 높은 필수 단어 1,700여 개를 수록하고 있다. 스마트폰으로 책 속의 QR코드를 스캔하면 MP3 파일과 단어암기 동영상을 바로 볼 수 있고, 컴퓨터 사용자는 www.nexusbook.com에서 무료 다운 가능하다."
+            },
+            {
+                "title": "나혼자 끝내는 독학 일본어 문법 (혼자서도 너무 쉽다 한달만에 기본문법마스터 | 왕초보필수단어장 무료제공)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441199316",
+                "image": "https://shopping-phinf.pstatic.net/main_3244119/32441199316.20230223071149.jpg",
+                "author": "송현미",
+                "discount": "10350",
+                "publisher": "넥서스",
+                "pubdate": "20170610",
+                "isbn": "9791161650340",
+                "description": "『나혼자 끝내는 독학 일본어 문법』은 일본어 독학자가 한 달 만에 기본 문법을 정리할 수 있도록 구성되어 있다.  교재 이후에 보기에 좋은 책으로, 꼭 알아야 할 핵심 문법만을 골라 쉽게 풀어 설명해 준다. 각 품사별 기초 문법을 예문과 쉬운 용어를 사용하여 설명하였습니다. 또한, 부연 설명과 Tip을 추가하여 이해를 도왔으며, 본문에서 익힌 문법사항을 가지고 객관식과 주관식 문제를 풀어가며 공부한 내용을 다시 한번 체크할 수 있습니다. 또한, 일본어 학습에 기본이 되는, 자주 쓰이는 어휘들을 각 품사별로 모아 정리함으로서 이 어휘들을 가지고 문법 연습을 해 볼 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20170405",
+                "EA_ADD_CODE": "13730",
+                "PUBLISHER_URL": "www.nexusbook.com",
+                "AUTHOR": "넥서스콘텐츠개발팀",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11200",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "216",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998454562",
+                "INPUT_DATE": "20161213",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "나혼자 끝내는 일본어 단어장",
+                "PUBLISH_PREDATE": "20170105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

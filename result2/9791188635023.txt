@@ -1,0 +1,67 @@
+{
+    "otitle": "수학자의 공부",
+    "oauthor": "오카 기요시 저/정회성 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수학자의 공부 (완벽한 몰입을 통해 학문과 인생의 기쁨 발견하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443328618",
+                "image": "https://shopping-phinf.pstatic.net/main_3244332/32443328618.20221230072724.jpg",
+                "author": "오카 기요시",
+                "discount": "11700",
+                "publisher": "사람과나무사이",
+                "pubdate": "20180117",
+                "isbn": "9791188635023",
+                "description": "중학교 입시에 실패한 평범한 아이는 어떻게 \n세상을 놀라게 한 위대한 수학자가 될 수 있었을까?\n\n세대에서 세대로 전해지며 대를 이어 읽히는 책!\n\n학문에 뜻을 둔 사람이라면 누구나 한 번쯤 고민했을 \n‘공부의 본질’에 대한 대가의 대답!!\n\n『수학자의 공부[원제: 춘소십화(春宵十話)]』는 세대에서 세대로 전해지며 대를 이어 읽히는 책이다. 단순한 ‘지적 에세이’를 넘어 통찰력으로 무장한 ‘인문서’로, 인문서를 넘어 ‘현대인의 필독서’이자 ‘빛나는 고전’으로 자리매김한 책이기도 하다. 일본인들이 가장 사랑하고 존경하는 천재 수학자의 학문과 인생에 관한 탁월한 통찰을 담고 있고, 학문에 뜻을 둔 사람이라면 누구나 한 번쯤 고민했을 ‘공부의 본질’에 대한 대가의 명쾌한 대답을 담은 책 『수학자의 공부』가 사람과나무사이에서 출간되었다. \n\n이 책의 저자 오카 기요시는 다변수 함수론 분야의 최대 난제인 ‘3대 문제’를 해결하여 세계적인 명성을 얻은 수학자다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사람과나무사이",
+                "DDC": "895.645",
+                "UPDATE_DATE": "20180117",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오카 기요시 지음 ;정회성 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "834",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6456401_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6456401_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6456401_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "CIP2017032441",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188635023",
+                "INPUT_DATE": "20171201",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "수학자의 공부",
+                "PUBLISH_PREDATE": "20180117",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

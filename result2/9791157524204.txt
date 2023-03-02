@@ -1,0 +1,67 @@
+{
+    "otitle": "연봉 1억! 영문 특허번역 가이드북",
+    "oauthor": "류상민,김유철 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "연봉 1억! 영문 특허 번역 가이드북 (특허번역 프리랜서를 위한 실무 매뉴얼)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441632582",
+                "image": "https://shopping-phinf.pstatic.net/main_3244163/32441632582.20221228071924.jpg",
+                "author": "류상민^김유철",
+                "discount": "15300",
+                "publisher": "넥서스",
+                "pubdate": "20150625",
+                "isbn": "9791157524204",
+                "description": "특허번역은 일반인들에게 다소 생소할 것이다. 특허업계에 종사하는 사람들만 하는 번역으로 생각하거나, 아니면 그런 번역이 있는지조차 모를 수도 있다. 하지만 특허번역은 번역의 황금 틈새시장(?)으로, 번역에 관심이 있거나 영어 실력(또는 외국어 실력)이 있는 사람이라면 한 번쯤 도전해 볼 만한 분야이다. \n\n\n\n특허번역은 특허명세서 등 특허 관련 문서 또는 지식재산(IP; Intellectual Property) 분야의 문서를 자국어로 또는 외국어로 옮기는 것이다. 특허번역은 일반 번역과 마찬가지로 특허문서 원문을 바탕으로 하여 번역가가 새로이 창작을 해 가는 과정이라고 할 수 있다.\n\n\n\n특허번역가의 가장 큰 장점은 정년이 없고 재택근무 등이 가능하다는 것이다. 특허번역가가 되기 위한 진입 장벽이 다소 높기 때문에, 일단 특허번역계의 입문에 성공하면 안정적이고 자유롭게 일을 계속할 수 있다는 것도 장점 중의 하나이다. 또한, 특허번역 경력이 쌓이면 쌓일수록 번역 속도가 빨라지기 때문에 그만큼 수익이 많아지는 점도 매력적이라고 할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)넥서스",
+                "DDC": "428",
+                "UPDATE_DATE": "20150714",
+                "EA_ADD_CODE": "93740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "류상민, 김유철",
+                "SERIES_TITLE": "",
+                "KDC": "747.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4657657_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4657657_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015016191",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157524204",
+                "INPUT_DATE": "20150612",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "연봉 1억! 영문 특허번역 가이드북",
+                "PUBLISH_PREDATE": "20150625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

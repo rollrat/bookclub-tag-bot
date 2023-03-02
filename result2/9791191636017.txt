@@ -1,0 +1,67 @@
+{
+    "otitle": "결국엔, 콘텐츠",
+    "oauthor": "고찬수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "결국엔, 콘텐츠 (어느 예능 PD의 K콘텐츠 도전기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485113321",
+                "image": "https://shopping-phinf.pstatic.net/main_3248511/32485113321.20221019114130.jpg",
+                "author": "고찬수",
+                "discount": "13770",
+                "publisher": "좋은습관연구소",
+                "pubdate": "20210607",
+                "isbn": "9791191636017",
+                "description": "콘텐츠 기획자의 습관\n\n넷플릭스와 유튜브가 모든 것을 빨아들이는 시대, 이 책은 뉴미디어 시대에도 변하지 않는 콘텐츠 제작 원칙은 무엇인지, 콘텐츠 기획자로서 미래 준비는 어떻게 해야 하는지를 알려주는 책이다. KBS 예능국 PD로 있으면서 오랫동안 콘텐츠 제작을 해온 작가의 노하우와 ‘대박 나는 K콘텐츠’를 위해 밤낮으로 도전했던 이야기를 한 권에 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "좋은습관연구소",
+                "DDC": "",
+                "UPDATE_DATE": "20210622",
+                "EA_ADD_CODE": "13300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고찬수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "213 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191636017",
+                "INPUT_DATE": "20210514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "결국엔, 콘텐츠",
+                "PUBLISH_PREDATE": "20210607",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

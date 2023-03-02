@@ -1,0 +1,67 @@
+{
+    "otitle": "혼자여도 이대로 좋다",
+    "oauthor": "차오름 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "혼자여도 이대로 좋다 (차오름 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443128435",
+                "image": "https://shopping-phinf.pstatic.net/main_3244312/32443128435.20221228073554.jpg",
+                "author": "차오름",
+                "discount": "11700",
+                "publisher": "리더북스",
+                "pubdate": "20200115",
+                "isbn": "9788991435957",
+                "description": "자유롭고 행복한 ‘나’를 위한 단단한 조언과 따뜻한 위로\n\n외롭고, 힘들고, 막막하고, 마음 아플 때 누군가 가장 힘이 되는 말을 해주며 곁에 오래 있어주기를 바라는 우리에게 단단한 조언과 따뜻한 위로를 건네는 책이다. 사람들과 함께일 때는 괜찮은 척하느라 힘들고, 혼자일 때는 외로워서 힘든 우리 마음을 토닥토닥 다독여준다. 혼자일 때는 꽃처럼 활짝 피어나는 내 모습을, 사람들과 함께일 때는 하루하루 성장하는 내 모습을 마음속으로 그리는 동시에 내가, 내 삶이 지금 이대로 충분히 괜찮고 소중함을 느낄 수 있다. \n매일 반복되는 일상에서 일, 공부, 인간관계, 사랑, 연애, 자존감, 진로 등의 문제로 고민하는 사람이라면 공감하는 문장을 만나서 따스한 위로를 받고 자유롭고 행복한 나로 살기 위한 용기를 얻을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리더북스",
+                "DDC": "",
+                "UPDATE_DATE": "20201119",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 차오름",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "115*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "237 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991435957",
+                "INPUT_DATE": "20200110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "혼자여도 이대로 좋다",
+                "PUBLISH_PREDATE": "20200115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

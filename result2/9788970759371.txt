@@ -1,0 +1,67 @@
+{
+    "otitle": "나만의 소중한 플레이리스트",
+    "oauthor": "김현경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나만의 소중한 플레이리스트 (음악을 사랑하는 당신을 위한 클래식, 재즈, 대중음악 교양서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493513668",
+                "image": "https://shopping-phinf.pstatic.net/main_3249351/32493513668.20221227204407.jpg",
+                "author": "김현경",
+                "discount": "15300",
+                "publisher": "문학세계사",
+                "pubdate": "20191220",
+                "isbn": "9788970759371",
+                "description": "‘음악의 거장’ 프란츠 리스트부터 케이팝 아이돌까지, \n시대의 흐름을 바꾼 음악과 음악가 이야기\n\n중세의 클래식 음악을 시작으로 현대의 재즈, 팝, 록, 랩음악, 팝페라, 케이팝 등 대중음악 등을 다양하게 소개하고 있는 『나만의 소중한 플레이리스트』는 음악을 사랑하는 사람들은 물론, 음악에 문외한인 이들에게도 빼놓지 않고 들어야 할 다양한 장르의 명곡들에 대한 이해를 돕고 있다. 저자인 김현경은 음악사를 아우르는 방대한 자료를 바탕으로 하여 음악적 흐름을 짚어가며 독자들을 음악의 세계로 편안하게 이끈다. 무한한 아름다움의 절정을 보여주는 클래식 음악, 본능적 자유로움의 대명사인 재즈 음악, 젊은 세대들의 에너지 분출에 환호하며 공감할 수 있는 대중음악 등 다양한 범주를 아우르는 음악적 현상에 대해 살피는 한편, 음악을 듣는 즐거움과 소중함을 독자들에게 선사하며 음악 교양의 세계로 친절하게 안내한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문학세계사",
+                "DDC": "",
+                "UPDATE_DATE": "20200102",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "http://www.msp21.co.kr",
+                "AUTHOR": "김현경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "670.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/12/10/9788970759371.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2019050642",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970759371",
+                "INPUT_DATE": "20191210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "나만의 소중한 플레이리스트",
+                "PUBLISH_PREDATE": "20200106",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

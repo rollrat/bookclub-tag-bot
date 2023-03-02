@@ -1,0 +1,67 @@
+{
+    "otitle": "영화를 빨리 감기로 보는 사람들",
+    "oauthor": "이나다 도요시 저/황미숙 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영화를 빨리 감기로 보는 사람들 (가성비의 시대가 불러온 콘텐츠 트렌드의 거대한 변화)",
+                "link": "https://search.shopping.naver.com/book/catalog/35729954621",
+                "image": "https://shopping-phinf.pstatic.net/main_3572995/35729954621.20230207165600.jpg",
+                "author": "이나다 도요시",
+                "discount": "13950",
+                "publisher": "현대지성",
+                "pubdate": "20221110",
+                "isbn": "9791139709001",
+                "description": "『트렌드 코리아 2023』 전미영 대표 강력 추천!\n대학 강의, 뉴스, 〈오징어 게임〉까지 모두 빨리 감기로…\n시간은 없지만, 봐야 할 것은 넘쳐나는 시대의 콘텐츠 트렌드\n\n- 대화에 끼기 위해 인기 있는 콘텐츠를 본다.\n- 대사 없는 일상적인 장면은 건너뛴다.\n- 1시간짜리 드라마를 10분 요약 영상으로 해치운다.\n- 영화관에 가기 전 결말을 알아둔다.\n- 인터넷에 올라온 해석을 찾아보며 콘텐츠를 본다.\n- 처음 볼 땐 빨리 감기로, 재밌으면 보통 속도로 다시 본다.\n- 원작을 최대한 각색 없이 그대로 옮겨야 본다.\n- 빌런은 사절. 착한 캐릭터만 나오길 원한다.\n\n본래 영화는 ‘영화관’이라는 특별한 공간에서 제작자가 만든 대로 시청하는 수동적인 콘텐츠였다. 하지만 텔레비전과 OTT를 통해 자유롭게 영화를 건너뛰면서 보거나, 빨리 감기로 보는 일이 일상화되고 있다. 이뿐만 아니라 영상을 직접 편집하여 10분 내외의 짧은 영화로 만든 콘텐츠를 즐기기도 하고, 인터넷 사이트의 해설을 수시로 참고하면서 영화를 보기도 한다. \n왜 이런 변화가 나타났을까? 이 책의 저자 이나다 도요시는 그 이면에 콘텐츠의 공급 과잉, 시간 가성비 지상주의, 친절해지는 대사가 있다고 지적하며 ‘빨리 감기’라는 현상 이면에 숨은 거대한 변화들을 날카롭게 파고든다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20221229",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이나다 도요시 지음 ;황미숙 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221110",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "229 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791139709001",
+                "INPUT_DATE": "20221019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "영화를 빨리 감기로 보는 사람들",
+                "PUBLISH_PREDATE": "20221110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

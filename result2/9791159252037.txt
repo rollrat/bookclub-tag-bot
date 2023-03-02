@@ -1,0 +1,67 @@
+{
+    "otitle": "공부, 삽질하지 마라!",
+    "oauthor": "이은주,황상민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공부, 삽질하지 마라! (교육학자와 심리학자가 처방한 WPI 성격 유형 공부법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489503338",
+                "image": "https://shopping-phinf.pstatic.net/main_3248950/32489503338.20221230073113.jpg",
+                "author": "이은주^황상민",
+                "discount": "11700",
+                "publisher": "푸른들녘",
+                "pubdate": "20161118",
+                "isbn": "9791159252037",
+                "description": "푸른들녘 교육폴더 시리즈 1권. ‘나를 아는 것’이 ‘나의 문제를 해결하는 비법’이라는 기본적인 생각에서 출발했다. 공부의 문제를 고민하는 사람들, 예를 들면 자신에게 맞는 공부법을 찾는 학생들, 또는 자녀에게 맞는 공부법이 무엇인지 알고 싶은 부모들, 자신이 가르치는 학생에게 맞는 공부법을 고민하는 교사들에게도 ‘공부법’은 나를 아는 것이자 나의 문제이기 때문이다. \n\n\n\n그런데도 우리는 문제의 핵심을 제대로 깨닫지 못한 채 내 아이를 옆집 사는 전교 1등 아이와 비교하고, 공부 잘하는 친척 아이와 비교하면서 무작정 그들이 택한 공부법을 따라 하도록 종용한다. 하지만 남의 공부법이 내 아이에게도 맞을 거라는 생각은 착각이다. 전교 1등 하는 옆집 아이가 보는 교재, SKY 수석 입학자의 공부법, 교과서를 몇 번 읽으면 저절로 외워진다는 비법, 기적을 불러온다는 노트 필기법 등에 효과를 기대하는 마음도 착각의 소산이다. 그렇다면 왜 A에게 맞는 공부법이 B에게 맞지 않는 걸까? 이유는 딱 하나, 아이들 개개인의 마음과 성격이 다르기 때문이다. 이것이 바로 ‘WPI 성격 유형 공부법’을 알아야 하는 이유다. \n\n\n\nWPI(Whang’s Personality Inventory)는 심리학자 황상민 박사가 한국인들이 신념과 통념 사이에서 어떻게 행동하는지 10여 년에 걸 쳐 연구한 끝에 개발한 ‘한국인의 성격 및 라이프스타일 진단 도구’로서 현재 한국 사람들이 일상에서 만나는 문제들, 즉 학업이나 진로, 인간관계 등의 다양하고 복잡한 문제들을 해결하는 데 활용되고 있다. \n\n\n\nWPI 성격 유형에 따라 자녀가 ‘리얼리스트, 로맨티스트, 휴머니스트, 아이디얼리스트, 에이전트’ 다섯 가지 유형 중 어떤 성향을 가장 많이 드러내는지 정확하게 파악하고 이를 바탕으로 공부법이 달라져야 한다는 점을 이해하면, 여러분의 자녀는 학업은 물론 실생활 면에서도 큰 변화와 성공을 경험할 수 있을 것이다. 아이의 공부 문제로 고민하는 부모님, 학업 지도 방식 때문에 갈등하는 교사들, 그리고 공부라는 과업에 당면한 많은 사람들에게 이 책을 적극 추천한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "371.26",
+                "UPDATE_DATE": "20170501",
+                "EA_ADD_CODE": "13370",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "이은주, 황상민 ",
+                "SERIES_TITLE": "",
+                "KDC": "370.183",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5868562_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5868562_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "250 페이지 내외",
+                "CONTROL_NO": "CIP2016026425",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159252037",
+                "INPUT_DATE": "20161101",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "공부, 삽질하지 마라 ",
+                "PUBLISH_PREDATE": "20161118",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

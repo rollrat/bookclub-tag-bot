@@ -1,0 +1,67 @@
+{
+    "otitle": "나만의 커피 레시피 북",
+    "oauthor": "다니엘 랭커스터 저/이윤정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나만의 커피 레시피 북 (집에서 만드는 50가지 커피와 에스프레소 음료)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505734885",
+                "image": "https://shopping-phinf.pstatic.net/main_3250573/32505734885.20221228074314.jpg",
+                "author": "다니엘 랭커스터",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20210104",
+                "isbn": "9791190257954",
+                "description": "내가 만들어 내가 마시는\n나만의 완벽한 커피 레시피\n\n커피를 만드는 과정은 분쇄한 원두를 자동 커피 메이커에 넣고 버튼을 누르는 것만큼 간단할 수도 있다. 그러나 눈에 보이지 않는 수많은 변수들은 색다르고 더 나은 커피를 탄생시킨다. 『나만의 커피 레시피 북』은 스스로가 선호하는 방법으로 탁월한 커피와 에스프레소를 만들 수 있도록 도와주는 책이다. 또한 필요한 기술에 대해서도 풍부한 조언을 담아내었다. 섬세하게 내린 블랙커피 한 잔이든 뜨거운 여름날 마시는 차가운 에스프레소 베이스 음료 한 잔이든, 근처 카페에서 파는 것 못지않은 음료를 만들 수 있도록 이 책이 도와줄 것이다. 여기에 실린 레시피에서 영감을 받아 이를 도약대로 삼아 자신만의 레시피를 만들고 다른 사람들과도 공유해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210223",
+                "EA_ADD_CODE": "02590",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "다니엘 랭커스터 지음 ;이윤정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "165*165",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "169 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257954",
+                "INPUT_DATE": "20201124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "나만의 커피 레시피 북",
+                "PUBLISH_PREDATE": "20210104",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

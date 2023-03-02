@@ -1,0 +1,67 @@
+{
+    "otitle": "백두산 으뜸 호랑이 왕대",
+    "oauthor": "김탁환 글/조위라 그림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "백두산 으뜸 호랑이 왕대 (김탁환의 역사 생태 동화. 3)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503381661",
+                "image": "https://shopping-phinf.pstatic.net/main_3250338/32503381661.20221019110507.jpg",
+                "author": "김탁환",
+                "discount": "8550",
+                "publisher": "살림어린이",
+                "pubdate": "20140730",
+                "isbn": "9788952229007",
+                "description": "정확한 고증을 바탕으로 생생하게 그려 낸 한국의 마지막 호랑이 왕대의 일생『백두산 으뜸 호랑이 왕대』. 총을 들고 야생동물들을 밀렵하는 밀렵꾼들에 딸을 잃고, 왕대의 자리를 오시탐탐 노리는 다른 맹수들과 싸우면서도 씩씩하게 백두산의 으뜸 호랑이 자리를 지키는 왕대의 모습이 그려진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20140818",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "김탁환",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3754573_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3754573_3.jpg",
+                "PRE_PRICE": "9500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014020394",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952229007",
+                "INPUT_DATE": "20140703",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "백두산 으뜸 호랑이 왕대",
+                "PUBLISH_PREDATE": "20140730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

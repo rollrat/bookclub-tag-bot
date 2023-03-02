@@ -1,0 +1,67 @@
+{
+    "otitle": "맛있는 카페 놀이",
+    "oauthor": "김영빈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "맛있는 카페 놀이 (따라하고 싶은 인기 카페 레시피 107)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496134360",
+                "image": "https://shopping-phinf.pstatic.net/main_3249613/32496134360.20220527034108.jpg",
+                "author": "김영빈",
+                "discount": "0",
+                "publisher": "비타북스",
+                "pubdate": "20140601",
+                "isbn": "9791185020297",
+                "description": "카페 감성을 집에서 즐긴다!\n\n최근 가장 핫한 인기 카페 메뉴부터 오랫동안 사랑받은 대표 메뉴까지, 최고의 카페 레시피 107가지를 소개하는 『맛있는 카페 놀이』. 카페 요리의 풍미를 더하고 스타일을 살려주는 기본 재료, 갖춰놓으면 한결 편리한 기본 도구를 자세히 알려주고, 파트별 메뉴 만들기 기본 요령, 오븐 사용법 등 카페 요리에 꼭 필요한 정보를 꼼꼼하게 설명한다. 각 메뉴마다 요리하면서 궁금한 점, 좀 더 알고 싶은 것들을 팁으로 콕콕 짚어 귀띔해주고 있어 초보자도 실패 없이 만들 수 있도록 도와준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20140710",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "김영빈",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3598474_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3598474_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014015744",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185020297",
+                "INPUT_DATE": "20140515",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "맛있는 카페 놀이 ",
+                "PUBLISH_PREDATE": "20140601",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

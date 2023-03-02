@@ -1,0 +1,67 @@
+{
+    "otitle": "신탁의 시대가 온다",
+    "oauthor": "배정식,박현정,신유라,류미주,이창호 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "신탁의 시대가 온다 (100세 시대의 메가트렌드)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467168633",
+                "image": "https://shopping-phinf.pstatic.net/main_3246716/32467168633.20221227210019.jpg",
+                "author": "배정식^박현정^신유라^류미주^이창호",
+                "discount": "17100",
+                "publisher": "타커스",
+                "pubdate": "20190612",
+                "isbn": "9788998658588",
+                "description": "우리에게는 아직 생소하지만, 고령화를 먼저 경험한 선진국에서는 신탁이 이미 중요한 제도로 자리 잡고 있다. 신탁이 일찍 발전한 미국은 리빙트러스트(유언대용신탁)가 상속 방법으로 일상화되어 있고, 세계 최장수국인 일본은 고령화로 인한 여러 사회문제를 겪으며 그에 대한 대처로 다양한 형태의 신탁제도를 발전시켜가고 있다.\n\n\n\n신탁이 주목받는 이유는 무엇일까? 신탁은 자신의 상황에 맞게 자산관리 및 상속방식을 미리 ‘설계’할 수 있는 특징이 있다. 고령화가 심화될수록 품위 있는 노후, 아름다운 마무리를 위해 재산을 안전하게 지키고, 현명하게 물려주는 방법을 고민하게 된다.\n\n\n\n《신탁의 시대가 온다》는 2010년 금융권 최초로 리빙트러스트(유언대용신탁)를 출시했고 현재 국내 최다 계약 및 상속집행 건수를 보유하고 있는 KEB하나은행 리빙트러스트센터의 신탁컨설턴트들이 중심이 되어 펴낸 책이다. 국내 최고의 경험과 노하우를 보유한 필자들이 지난 10여 년 동안 진행한 신탁 상담 및 집행 사례, 신탁의 맞춤형 활용법과 사회적 기능까지 포함된 신탁의 모든 것을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "타커스",
+                "DDC": "",
+                "UPDATE_DATE": "20190621",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "KEB하나은행 리빙트러스트센터,배정식,박현정,신유라,류미주,이창호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "337 p.",
+                "CONTROL_NO": "CIP2019018326",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998658588",
+                "INPUT_DATE": "20190509",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "신탁의 시대가 온다",
+                "PUBLISH_PREDATE": "20190612",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

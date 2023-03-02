@@ -1,0 +1,67 @@
+{
+    "otitle": "우리가 묻어버린 것들",
+    "oauthor": "앨런 에스킨스 저/강동혁 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리가 묻어버린 것들 (앨런 에스킨스 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486472691",
+                "image": "https://shopping-phinf.pstatic.net/main_3248647/32486472691.20221019145831.jpg",
+                "author": "앨런 에스킨스",
+                "discount": "12600",
+                "publisher": "들녘",
+                "pubdate": "20150925",
+                "isbn": "9788975277139",
+                "description": "시한부 선고를 받은 살인마가 남긴 마지막 증언!\n\n20년 경력 변호사인 앨런 에스킨스의 첫 미스터리 소설 『우리가 묻어버린 것들』. 로즈버드 어워드의 최우수 미스터리 데뷔작을 수상하며 주목받은 저자의 이 소설은 알코올중독에 조울증 환자인 어머니와 자폐증이 있는 동생으로부터 탈출해 대학으로 도망쳤다는 죄책감을 안고 사는 대학생 조 탤버트가 살인마 칼 아이버슨을 만나며 벌어지는 이야기를 담고 있다.\n\n죄책감과 가난을 양 어깨에 잔뜩 얹고 살아가는 조 탤버트. 한 인물을 인터뷰해 전기문을 쓰는 과제를 위해 요양원을 찾아가는 조는 운명에 이끌리듯 30년 전 이웃집 소녀를 살해하고 창고에서 시신을 불태운 잔인한 살인마, 칼 아이버슨을 만난다. 그는 암 말기로, 세 달 정도 남았을 임종을 앞두고 조에게 마지막 증언을 하고 싶다고 한다. \n\n조는 칼이 털어놓은 과거의 이야기를 듣고 놀라운 사실을 알게 되고, 이웃집의 매력적인 여대생 라일라와 함께 이들이 묻어두고 살았던 것을 파헤치러 나선다. 혹독한 눈보라가 몰아치는 미네소타의 겨울, 그곳의 눈속에는 어떤 것들이 묻혀 있을까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20151027",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "앨런 에스킨스 지음; 강동혁 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4874208_6.txt",
+                "SET_ISBN": "9788975279133",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4874208_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 500쪽 내외",
+                "CONTROL_NO": "CIP2015024615",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788975277139",
+                "INPUT_DATE": "20150907",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우리가 묻어버린 것들",
+                "PUBLISH_PREDATE": "20150925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

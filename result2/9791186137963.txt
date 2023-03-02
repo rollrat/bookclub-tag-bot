@@ -1,0 +1,67 @@
+{
+    "otitle": "1천만 원부터 진짜 재테크",
+    "oauthor": "한태봉 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "1천만 원부터 진짜 재테크 (인생을 바꿀 작지만 큰돈 1천만 원 투자하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440934453",
+                "image": "https://shopping-phinf.pstatic.net/main_3244093/32440934453.20221227204730.jpg",
+                "author": "한태봉",
+                "discount": "17100",
+                "publisher": "베가북스",
+                "pubdate": "20190530",
+                "isbn": "9791186137963",
+                "description": "20년 정통 증권맨이 조언하는 글로벌 해외주식 직구하기!\n은행에 예금하는 걸 재테크라 말하지 마라! \n‘가짜 재테크’ 말고 ‘진짜 재테크’가 온다!\n\n1천만 원이라는 돈은 어찌 보면 큰돈이지만 막상 쓰려고 하면 쓸 곳이 마땅치 않은 애매한 액수다. 하지만 분명한 사실 하나는 돈을 불리려면, 재테크에 활용하려고 하면 이 1천만 원은 필요충분조건의 종잣돈이라는 점이다. 1천만 원으로는 웬만한 자동차 한 대도, 아파트 한 채도, 더 나아가 피카소의 그림 한 점도 절대 살 수 없다. 그렇다고 넋 놓고 함부로 야금야금 까먹기에는 아까운 돈이다. 미래에셋증권의 지점장으로 근무하고 있는 저자는 이 종잣돈의 활용 방법을 몰라 안절부절하는 20대 사회초년생부터 시작해, 한푼 두푼 살뜰히 모아 들고 온 4~50대 중년의 고객들에게 진심어린 충고를 한다. 또 다른 경제 혁신의 시대를 맞이하여 1천만 원을 과감히 투자하라고. 투자하되 투기하지 말라고. 그리하여 장기적이고 안정적인 투자를 위해 세계 1등 기업의 주주가 되고, 전망 있는 하정우 그림에 투자하라고 말이다. 이 책에서는 저자가 분석한 세계 1등 기업의 조건은 무엇이고 어떤 미래 전략을 가지고 있는지, 그들 기업에 투자하기 위한 세부적인 주식 투자, 해외 직구의 팁에 대해, 더 나아가 국내 미술시장의 전망까지 자세히 분석하여 자료로 제공하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "베가북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190605",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.vegabooks.co.kr",
+                "AUTHOR": "한태봉 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/16/9791186137963.jpg",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "162*228",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "364 p.",
+                "CONTROL_NO": "CIP2019019357",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186137963",
+                "INPUT_DATE": "20190516",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "1천만 원부터 진짜 재테크",
+                "PUBLISH_PREDATE": "20190530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

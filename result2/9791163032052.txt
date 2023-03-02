@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 구글 애널리틱스 입문",
+    "oauthor": "김선영,한수창 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 구글 애널리틱스 입문 (사용자의 행동을 분석해 성과를 높이는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455606983",
+                "image": "https://shopping-phinf.pstatic.net/main_3245560/32455606983.20230219103213.jpg",
+                "author": "김선영^한수창",
+                "discount": "18000",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20210120",
+                "isbn": "9791163032052",
+                "description": "성과를 높이는 가장 확실한 방법!\n사용자 행동 속에 답이 있다!\n데이터 업계의 잔 다르크에게 배워라!\n\n이제 데이터 분석을 위해 복잡한 프로그래밍 언어를 배우지 않아도 됩니다. 구글 애널리틱스는 개발자가 아닌 마케터와 기획자를 위해 탄생한 매우 직관적인 도구이기 때문입니다. 구글 애널리틱스 덕분에 어떤 마케팅이 가장 성과가 좋았는지, 사용자가 구매하지 않고 어디서 나갔는지 몇 번 클릭만 하면 누구나 손쉽게 확인할 수 있습니다.\n\n구글 애널리틱스 업계의 선두 주자 김선영 저자와 데이터 분석 전문가 한수창 저자의 쉽고 친절한 설명과 100여 개에 이르는 실습을 하나하나 따라 하다 보면 어느새 업무 효율과 성과를 높이는 방법을 자연스럽게 익힐 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20210218",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "김선영,한수창 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "374 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163032052",
+                "INPUT_DATE": "20201209",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(사용자의 행동을 분석해 성과를 높이는) 구글 애널리틱스",
+                "PUBLISH_PREDATE": "20210120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

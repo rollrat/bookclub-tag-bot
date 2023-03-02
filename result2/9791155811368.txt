@@ -1,0 +1,67 @@
+{
+    "otitle": "기묘한 사람들",
+    "oauthor": "랜섬 릭스 저/앤드류 데이비드슨 그림/조동섭 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기묘한 사람들 (미스 페레그린이 이상한 아이들을 만나기 전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436115946",
+                "image": "https://shopping-phinf.pstatic.net/main_3243611/32436115946.20230110165436.jpg",
+                "author": "랜섬 릭스",
+                "discount": "12420",
+                "publisher": "윌북",
+                "pubdate": "20171130",
+                "isbn": "9791155811368",
+                "description": "이제 여러분이 기묘한 사람들과 만날 차례다!\n\n「미스 페레그린 시리즈」로 단숨에 스타 작가 반열에 오른 랜섬 릭스가 들려주는 기묘한 사람들에 관한 매혹적인 10가지 이야기 『기묘한 사람들』. 팀 버튼 영화감독이 ‘기이하고 시적’이라고 평가한 랜섬 릭스 작품 세계의 진수를 느낄 수 있다. 지금도 어딘가 있을 수 있는 기묘한 사람들에 관한 이야기들로,  저자 특유의 미친 상상력이 폭발한다. \n\n악몽을 고치는 능력을 지닌 소녀, 인육을 먹어야 살 수 있는 우아한 식인종, 시간을 되돌릴 수 있는 조류인간 종족 임브린 등 세상 곳곳에서 기묘한 능력을 품은 채 비밀스럽게 살아가는 기묘한 사람들에 관한 기록이다. 현실 세계의 부조리함과 평범함의 탈을 쓴 뒤틀린 욕망을 고발하는 이야기들로, 저자만의 기이하고 환상적인 세계가 눈앞에 펼쳐진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20171213",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 랜섬 릭스 ;그린이: 앤드류 데이비드슨 ;옮긴이: 조동섭",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6430146_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6430146_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*208",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "219 p.",
+                "CONTROL_NO": "CIP2017030040",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155811368",
+                "INPUT_DATE": "20171113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "기묘한 사람들",
+                "PUBLISH_PREDATE": "20171130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

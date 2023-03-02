@@ -1,0 +1,67 @@
+{
+    "otitle": "글쓰기의 요소",
+    "oauthor": "윌리엄 스트렁크 2세 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "글쓰기의 요소 (지적 문장을 위한 영어의 18원칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485021879",
+                "image": "https://shopping-phinf.pstatic.net/main_3248502/32485021879.20220527052320.jpg",
+                "author": "윌리엄 스트렁크 2세^스탠포드 프리처드 (엮음)",
+                "discount": "0",
+                "publisher": "윌북",
+                "pubdate": "20160530",
+                "isbn": "9791155810798",
+                "description": "전 세계 작가들이 사랑한 영작문 교재 바이블!\n\n한 권의 책 안에 간결하고 명확하게 영작문을 하기 위한 모든 핵심 규칙과 방법이 들어 있어 ‘더 리틀 북(The Little Book)’이라는 애칭으로 불리는『글쓰기의 요소』는, 오직 18개의 글쓰기 규칙을 통해 영어를 쓰는 사람들이 가장 많이 저지르는 오류를 바로잡고, 훌륭한 영어 문장을 정확하고 세련되게 구사하도록 만들어주는 영작문 교재의 바이블이다. \n\n코넬 대학교 영문학 교수인 윌리엄 스트렁크가 자신의 학생들을 위해 영어 어법과 문장 구성에 관한 기본 규칙을 간결하게 서술한 이 책은, 간결하고 힘 있는 문장을 제대로 쓰기를 위한 규칙 8개와 문단 단위의 글쓰기를 설득력 있고 효과적으로 하기 위한 규칙 10개를 알려준다. 영미권 사람들이 잘 쓴 영어와 잘못 쓴 영어를 판단하는 기준으로 통용되는 이 책은, 1919년 처음 발간된 뒤로 지금까지 100년 가까운 세월 동안 미국에서 가장 많이 팔린 글쓰기 책이며, 2011년 타임지가 선정한 ‘가장 영향력 있는 100대 도서’ 중 하나다. \n\n한국어판에서는 《뉴요커》의 대표 일러스트레이터 마이라 칼만이 그린 일러스트를 매 페이지 풍부하게 삽입하였고, 현대 어법과 비교하여 달라진 부분에는 세심한 주석을 달아 한국 독자들이 본문의 내용을 완벽하게 이해할 수 있도록 하였다. 또한 현대 영어 사례를 반영한 《용법 사전》과 신문과 잡지의 잘못된 사례를 모아놓은 《용례 갤러리》까지 수록하여 영어 글쓰기를 하는 학습자들에게 가장 요긴한 사전 역할은 물론 영문 메일 및 서류를 작성하는 직장인들에게 참고서 역할을 톡톡하게 할 수 있도록 하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "808.042",
+                "UPDATE_DATE": "20160608",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윌리엄 스트렁크 ",
+                "SERIES_TITLE": "",
+                "KDC": "802.044",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5405989_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5405989_3.jpg",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5405989_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 230페이지 내외",
+                "CONTROL_NO": "CIP2016011059",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155810798",
+                "INPUT_DATE": "20160428",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "The Elements of Style : 글쓰기의 요소 (간결하고 명확하게 영어를 쓰는 힘)",
+                "PUBLISH_PREDATE": "20160530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

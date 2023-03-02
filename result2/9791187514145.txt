@@ -1,0 +1,67 @@
+{
+    "otitle": "지리쌤과 함께하는 80일간의 세계 여행-아프리카, 아메리카, 오세아니아 편",
+    "oauthor": "전국지리교사모임 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지리쌤과 함께하는 80일간의 세계 여행: 아프리카 아메리카 오세아니아 (아프리카 아메리카 오세아니아 편)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473000036",
+                "image": "https://shopping-phinf.pstatic.net/main_3247300/32473000036.20221019140540.jpg",
+                "author": "전국지리교사모임",
+                "discount": "16200",
+                "publisher": "폭스코너",
+                "pubdate": "20180118",
+                "isbn": "9791187514145",
+                "description": "『지리쌤과 함께하는 80일간의 세계 여행: 아프리카 아메리카 오세아니아편』은, 소개하는 나라의 대표 도시들을 빼곡하게 담고 있다. 물론 80일이라는 상징적인 일정에 맞추기 위해 각 나라의 모든 도시들을 여행할 수는 없었지만, 《지리쌤과 함께하는 80일간의 세계 여행》을 통해 세계적인 도시들을 생생하게 둘러볼 수 있다. 카이로, 나이로비, 요하네스버그, 케이프타운, 퀘벡시티, 로스앤젤레스, 라스베이거스, 리우데자네이루, 상파울루, 쿠스코, 부에노스아이레스, 크라이스트처치, 퀸스타운, 시드니, 멜버른 등 각 나라의 대표 도시들을 통해 그 나라의 역사와 문화를 생생하게 소개한다. 그리고 역사의 부침과 환경의 급격한 변화를 겪으며 쇠락과 재생의 과정을 거쳐온 도시들도 돌아본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "폭스코너",
+                "DDC": "910.4",
+                "UPDATE_DATE": "20180118",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전국지리교사모임 지음",
+                "SERIES_TITLE": "",
+                "KDC": "980.24",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6475084_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "470 p.",
+                "CONTROL_NO": "CIP2017034237",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187514145",
+                "INPUT_DATE": "20171214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(지리쌤과 함께하는) 80일간의 세계 여행",
+                "PUBLISH_PREDATE": "20180118",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "시간여행, 과학이 묻고 철학이 답하다",
+    "oauthor": "김필영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "시간여행, 과학이 묻고 철학이 답하다 (터미네이터는 정말 1984년으로 갈 수 있을까? | 과학이 묻고 철학이 답하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496134249",
+                "image": "https://shopping-phinf.pstatic.net/main_3249613/32496134249.20221019143213.jpg",
+                "author": "김필영",
+                "discount": "17100",
+                "publisher": "들녘",
+                "pubdate": "20180830",
+                "isbn": "9791159253607",
+                "description": "시간이란 무엇인가?\n시간여행은 정말 가능한가?\n\n시간이란 무엇인가? 이 물음 앞에 쉽게 대답을 내놓을 사람은 아마도 없을 것이다. 시간은 너무도 익숙해서 잘 알고 있는 듯 착각하게 되지만, 사실 시간이라는 개념만큼 알쏭달쏭하고 이해하기 어려운 것은 없다. 이와 더불어 우리가 강한 호기심으로 묻는 질문이 있다. 정말로 시간여행은 가능한가? 우리는 〈터미네이터〉를 보며 시간여행의 짜릿한 긴박감을 느꼈다면, 〈인터스텔라〉를 통해서는 시간여행이 인간 상상력의 소산만이 아닐 수도 있겠다는  생각을 품게 된다. 최근 천체물리학의 놀라운 발견과 연구를 접하며, 시간여행이 가능할 수 있다는 결론을 의심하지 않게 된 것이다. 그러나 시간 개념은 특수상대성이론을 비롯한 물리학 이론으로만 구성되지 않는다. 인류가 생성된 이래, 형이상학, 인식론, 언어철학, 물리철학, 논리학 등 제반 학문에서 시간은 늘 첨예한 쟁점을 이루는 핵심 논제였다. 이 책은 시간을 둘러싸고 이루어져온 인류 지성사의 맥락을 정리, 소개하면서 그 대표적인 주장들의 논지와 허점을 흥미로운 이야기로 해설해간다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "115",
+                "UPDATE_DATE": "20180913",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "김필영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "115",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6853629_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "163*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "359 p.",
+                "CONTROL_NO": "CIP2018025429",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159253607",
+                "INPUT_DATE": "20180810",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "시간여행, 과학이 묻고 철학이 대답하다",
+                "PUBLISH_PREDATE": "20180830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

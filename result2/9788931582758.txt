@@ -1,0 +1,67 @@
+{
+    "otitle": "세계의 수프 도감",
+    "oauthor": "사토 마사히토 저/김세한 감수/김희성 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계의 수프 도감 (손쉽게 만들 수 있는 건강한 맛)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445849960",
+                "image": "https://shopping-phinf.pstatic.net/main_3244584/32445849960.20221230074709.jpg",
+                "author": "사토 마사히토",
+                "discount": "15560",
+                "publisher": "성안당",
+                "pubdate": "20210503",
+                "isbn": "9788931582758",
+                "description": "손쉽게 만들 수 있는 건강한 맛\n《세계의 수프 도감》\n\n우리가 모르는 수프는 이렇게나 많았다! \n140개 국가와 지역에서 먹는 317가지의 절대 미각 & 놀라운 수프를 대거 소개!\n\n수프는 손쉽게 만들 수 있고 야채나 고기 등 다양한 재료를 단품 요리로 섭취할 수 있기 때문에 ‘간편’, ‘맛’, ‘건강’까지 삼박자를 고루 갖춘 세계 각지에서 먹는 인기 요리이다. 우리나라에도 된장국이나 떡국, 단팥죽 등 일본 고유의 수프가 있으며, 현재는 세계의 다양한 수프를 즐기고 있다.\n\n우리가 알고 있는 수프는 세계에서 먹는 수프의 극히 일부에 지나지 않는다. 전 세계에는 우리가 모르는 맛있는 수프가 아직도 많이 있다!\n이 책은 그런 세계 각지에서 먹는 다양한 현지 수프를 레시피와 함께 소개하는 도감 형식의 책이다. 생각지도 못한 식재료를 사용한 수프, 그 지역의 전통을 짙게 반영한 수프, 행사에 대접하는 수프 등 보기만 해도 즐거워지는 유일한 수프 도감이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210602",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "사토 마사히토 자움 ;김세한 감역 ;김희성 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "173*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "375",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931582758",
+                "INPUT_DATE": "20210416",
+                "SET_EXPRESSION": "",
+                "VOL": "감수",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "세계의 수프 도감",
+                "PUBLISH_PREDATE": "20210503",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

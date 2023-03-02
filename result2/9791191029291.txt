@@ -1,0 +1,78 @@
+{
+    "otitle": "여름의 시간",
+    "oauthor": "한새마,김재희,류성희,홍선주,사마란,황세연,홍성호 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:22 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "여름의 시간 (사랑이라는 이름의 미스터리 일곱 편)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464076958",
+                "image": "https://shopping-phinf.pstatic.net/main_3246407/32464076958.20221019105111.jpg",
+                "author": "한새마^김재희^류성희^홍선주^사마란^황세연^홍성호",
+                "discount": "13950",
+                "publisher": "나비클럽",
+                "pubdate": "20210706",
+                "isbn": "9791191029291",
+                "description": "사랑이라는 이름의 미스터리 일곱 편\n       ‘사랑’이라는 테마와 ‘미스터리’라는 장르의 환상적인 결합!\n\n섬세한 감각으로 문학성을 인정받은 작가 7인이\n죽음보다 더 미스터리한 사랑을 그리다\n\n장르 탄생 시초부터 죽음이란 주제를 천착해 왔던 미스터리란 필터로 사랑의 여러 모양을 바라보면 어떤 모습일까? 사랑에 미쳐있는 동안 무슨 일이 일어날까? 사회가 그어놓는 모든 상식과 금기를 넘어서는 사랑을 위하여 당신은 무엇까지 할 수 있는가?\n이 책은 그동안 애써 눌러왔던 무의식과 낯선 감정에 두려움을 느끼면서 멈출 수 없는 그 감정을 좇는 일곱 편의 사랑 이야기를 엮었다. 섬세한 감각으로 문학성을 인정받은 작가 7인이 사랑이야말로 사람의 수많은 욕망 중 가장 불가해한 것임을 이야기한다."
+            },
+            {
+                "title": "여름의 시간(큰글씨책) (사랑이라는 이름의 미스터리 일곱 편)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485856296",
+                "image": "https://shopping-phinf.pstatic.net/main_3248585/32485856296.20221019132252.jpg",
+                "author": "한새마^김재희^류성희^홍선주^사마란^황세연^홍성호",
+                "discount": "31000",
+                "publisher": "나비클럽",
+                "pubdate": "20210915",
+                "isbn": "9791191029376",
+                "description": "사랑이라는 이름의 미스터리 일곱 편\n‘사랑’이라는 테마와 ‘미스터리’라는 장르의 환상적인 결합!\n\n섬세한 감각으로 문학성을 인정받은 작가 7인이\n죽음보다 더 미스터리한 사랑을 그리다\n\n장르 탄생 시초부터 죽음이란 주제를 천착해 왔던 미스터리란 필터로 사랑의 여러 모양을 바라보면 어떤 모습일까? 사랑에 미쳐있는 동안 무슨 일이 일어날까? 사회가 그어놓는 모든 상식과 금기를 넘어서는 사랑을 위하여 당신은 무엇까지 할 수 있는가?\n이 책은 그동안 애써 눌러왔던 무의식과 낯선 감정에 두려움을 느끼면서 멈출 수 없는 그 감정을 좇는 일곱 편의 사랑 이야기를 엮었다. 섬세한 감각으로 문학성을 인정받은 작가 7인이 사랑이야말로 사람의 수많은 욕망 중 가장 불가해한 것임을 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나비클럽",
+                "DDC": "",
+                "UPDATE_DATE": "20210810",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 한새마,김재희,류성희,홍선주,사마란,황세연,홍서호",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "299 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191029291",
+                "INPUT_DATE": "20210630",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여름의 시간",
+                "PUBLISH_PREDATE": "20210719",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

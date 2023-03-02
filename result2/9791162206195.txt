@@ -1,0 +1,67 @@
+{
+    "otitle": "자궁 리셋",
+    "oauthor": "김윤희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "자궁 리셋 (여성의 모든 질환은 자궁 때문이다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481698057",
+                "image": "https://shopping-phinf.pstatic.net/main_3248169/32481698057.20221019105415.jpg",
+                "author": "김윤희",
+                "discount": "15300",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20180717",
+                "isbn": "9791162206195",
+                "description": "산부인과에서 해결하지 못한 고민을 없애줄 단 한 권의 책\n좀처럼 낫지 않는 병도 고쳐주는 기적의 자궁 8체질 건강법\n\n어깨가 아픈 건 자궁 때문이라는 것을 아는가? 살이 잘 안 빠지는 것도, 화병과 편두통이 생기는 것도 자궁 때문이다. 여성 건강에서 자궁이 99%나 차지한다는 것을 아는 이들이 많지 않다. 특히 아무리 병명이 같아도 자궁의 체질에 따라 원인과 증상이 다르기 때문에 반드시 맞춤 치료가 이루어져야 한다. 《자궁 리셋》은 국내 최초로 자궁 8체질 건강법으로 여성의 몸 전반을 되살리는 방법을 제시하는 책이다. 생리통, 질염, 질건조증부터 근육통, 위장병, 비만, 피부질환까지 모든 질환을 이 책 한 권으로 나을 수 있다. 자궁체질별 다양한 사례와 맞춤 솔루션을 소개하고 자궁 8체질 자가진단 테스트와 하루 5분 자궁 홈트를 수록한 여성 건강 백과이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "618.14",
+                "UPDATE_DATE": "20180801",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김윤희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "516.33",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6729084_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6729084_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "294 p.",
+                "CONTROL_NO": "CIP2018020711",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162206195",
+                "INPUT_DATE": "20180702",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "자궁 리셋",
+                "PUBLISH_PREDATE": "20180717",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

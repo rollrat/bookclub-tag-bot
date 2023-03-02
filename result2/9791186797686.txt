@@ -1,0 +1,67 @@
+{
+    "otitle": "줄무늬 미용실",
+    "oauthor": "홍유경 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "줄무늬 미용실 (홍유경 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482530498",
+                "image": "https://shopping-phinf.pstatic.net/main_3248253/32482530498.20221019124325.jpg",
+                "author": "홀링(홍유경)",
+                "discount": "10800",
+                "publisher": "북극곰",
+                "pubdate": "20170403",
+                "isbn": "9791186797686",
+                "description": "꼬마 사자에게는 한 가지 고민이 있습니다. 아주 심각한 곱슬머리였거든요. 그래서 솜씨 좋은 줄무늬 미용실을 찾아갔지요. 얼룩말 선생님은 메뉴를 보여주며 마음에 드는 머리 모양을 골라보라고 했어요. 하지만 꼬마 사자에게는 마음에 드는 모양이 없었어요. 과연 곱슬머리 꼬마 사자는 어떤 머리를 하게 될까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20170419",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "홍유경",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6173857_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6173857_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "214*264",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6173857_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 48페이지",
+                "CONTROL_NO": "CIP2017007147",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186797686",
+                "INPUT_DATE": "20170320",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "줄무늬 미용실",
+                "PUBLISH_PREDATE": "20170403",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "지지 마, 당신",
+    "oauthor": "김현진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지지 마, 당신 (김현진 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462641582",
+                "image": "https://shopping-phinf.pstatic.net/main_3246264/32462641582.20221228073405.jpg",
+                "author": "김현진",
+                "discount": "11700",
+                "publisher": "루아크",
+                "pubdate": "20191201",
+                "isbn": "9791188296354",
+                "description": "거친 삶에서 마음에 흠집이 날 때마다 기대어 크고 작은 위로를 얻은 이야기들!\n\n에세이스트 김현진의 오랜 경험에서 나온 엉뚱하면서도 마음 깊은 이야기를 담은 『지지 마, 당신』. 어린 시절부터 ‘지는 편’에 서서 세상 바라보기를 즐긴 저자는 어지러운 세상을 버텨낼 수 있게 해준 소소한 이야기들, 때로는 잔잔하게, 때로는 강력하게 읽는 이를 사로잡는 이야기들을 통해 어떻게든 삶을 견뎌내자고, 스스로에게 지지 말자고 말한다.\n\n이 책은 모두 네 장으로 나뉘어 있다. 1장 ‘방울방울 떠오르는 추억 속으로’에서는 이제는 고전이 되어버린 동화와 소설, 영화에서 우리가 잊고 있던 소중한 추억들을 소환한다. 2장 ‘위태로움 앞에 선 여자들’에서는 여성을 포함해 소외받는 이들의 마음을 담아냈고, 3장 ‘역사의 나선을 그리려면 무엇을 집어야 할까’에서는 갈등하는 사회에서 허우적대는 이들의 모습을 그렸다. 4장 ‘삶을, 건너는 법’에서는 포기하지 않고 어떻게든 삶을 지켜내려는 이들의 의지를 비추었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "루아크",
+                "DDC": "",
+                "UPDATE_DATE": "20191128",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김현진",
+                "SERIES_TITLE": "",
+                "KDC": "814.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "202 p.",
+                "CONTROL_NO": "CIP2019045066",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188296354",
+                "INPUT_DATE": "20191106",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "지지 마, 당신",
+                "PUBLISH_PREDATE": "20191201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

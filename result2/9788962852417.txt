@@ -1,0 +1,67 @@
+{
+    "otitle": "Follow me! 기초연필데생",
+    "oauthor": "남일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Follow me 기초 연필 데생 (체계적인 과정작을 따라 그리는 연필 데생)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445341661",
+                "image": "https://shopping-phinf.pstatic.net/main_3244534/32445341661.20221230072420.jpg",
+                "author": "남일",
+                "discount": "11700",
+                "publisher": "대가",
+                "pubdate": "20200120",
+                "isbn": "9788962852417",
+                "description": "연필만 잡을 수 있으면 누구나 데생을 배울 수 있습니다!\n왜 미술의 시작을 ‘연필 데생’으로 할까?\n\nㆍ 첫째, 연필은 다른 미술 매체보다 다루기 편하기 때문입니다.\nㆍ 둘째, 수정이 가능합니다. 지우개로 지우고 다시 그릴 수 있다는 것은 연필의 큰 장점입니다.\nㆍ 셋째, 단색(모노) 색감으로 기본 조형원리(형태, 명암, 톤, 질감, 양감, 원근법 등)를 공부하기 좋습니다.\nㆍ 넷째, 연필은 다양하고 풍부한 표현이 가능합니다. 또한 강약 조절이 쉽고 덧칠이 잘 됩니다.\nㆍ 다섯째, 종이와 연필, 지우개만 있으면 스케치, 크로키, 드로잉, 정밀묘사 등 개성 있는 예술작품을 만들 수 있습니다.\n\n다루기 편하고, 기본 조형원리 공부가 수월하며, 더욱 깊이 있는 작업이 가능하기때문에 연필 데생은 미술 실기의 기초라고 일컬어집니다.\n연필 데생을 열심히 하면 탄탄한 미술 실기력을 가질 수 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "대가",
+                "DDC": "",
+                "UPDATE_DATE": "20200122",
+                "EA_ADD_CODE": "13650",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "남일 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "103 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962852417",
+                "INPUT_DATE": "20191210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "(Follow me!) 기초 연필 데생",
+                "PUBLISH_PREDATE": "20200120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

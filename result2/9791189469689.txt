@@ -1,0 +1,67 @@
+{
+    "otitle": "초보의 순간들",
+    "oauthor": "박성환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초보의 순간들",
+                "link": "https://search.shopping.naver.com/book/catalog/32438316937",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438316937.20221227205452.jpg",
+                "author": "박성환",
+                "discount": "8910",
+                "publisher": "꿈의지도",
+                "pubdate": "20191225",
+                "isbn": "9791189469689",
+                "description": "독립출판물로 제작되어 작은 책방들을 통해 입소문을 타던 &lt;초보의 순간들&gt;이 정식 출간되었다. 누구에게나 있지만, 누구나 다 기억하지는 못하는 처음의 순간! 서툴고 어색하고 설레는 &lt;초보의 순간들&gt;이 더 많은 독자들을 위해 다시 태어났다. \n\n\n\n모든 처음들이 켜켜이 쌓여 이루어진 우리의 삶. 돌아보면 얼굴이 붉어질 만큼 우리의 첫걸음은 참으로 어설펐으나, 그 순수한 결이 만들어낸 삶의 무늬는 차갑고 메마른 마음을 녹일 만큼 따뜻하고 아름답다. 우리 모두는 그 서툰 초보의 순간들을 딛고 오늘에 이른 것이므로."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20191231",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "지은이: 박성환",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "113*183",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "149 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189469689",
+                "INPUT_DATE": "20191126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "초보의 순간들",
+                "PUBLISH_PREDATE": "20191225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

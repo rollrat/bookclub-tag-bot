@@ -1,0 +1,67 @@
+{
+    "otitle": "여행을 믿는다",
+    "oauthor": "이재영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여행을 믿는다 (글 쓰는 엄마와 책 읽는 딸이 먼 곳에서 보낸 멋진 나날)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506169810",
+                "image": "https://shopping-phinf.pstatic.net/main_3250616/32506169810.20221019124242.jpg",
+                "author": "이재영",
+                "discount": "11700",
+                "publisher": "클",
+                "pubdate": "20160725",
+                "isbn": "9791185502410",
+                "description": "글쓰는 엄마인 저자 이재영이 책 읽기 좋아하는 딸 소울과 함께 소중한 순간들을 수다 떨듯 풀어낸 여행기『여행을 믿는다』. 여행을 통해 딸에게 나와 다른 사람들을 인정하고, 그들과 다른 자신을 그대로 받아들임을 배울 수 있다고 생각한 저자는 이 책에 각각 다른 이야기를 담은 네 번의 여정을 그려냈다. 무엇보다 투병 중인 아버지를 만나러 간 「캘리포니아」에서 저자가 털어놓은 아버지와의 관계, 그리고 그의 마지막을 마주한 자식이자 엄마인 자신과 이  과정을 함께 한 아이의 모습은 깊은 여운을 남긴다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)출판사 클",
+                "DDC": "895.765",
+                "UPDATE_DATE": "20161031",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이재영",
+                "SERIES_TITLE": "",
+                "KDC": "816.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5602743_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5602743_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "304",
+                "CONTROL_NO": "CIP2016016932",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185502410",
+                "INPUT_DATE": "20160711",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여행을 믿는다",
+                "PUBLISH_PREDATE": "20160725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

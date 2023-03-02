@@ -1,0 +1,67 @@
+{
+    "otitle": "메타인지, 생각의 기술",
+    "oauthor": "오봉근 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "메타인지, 생각의 기술 (AI 시대, 직원부터 CEO까지 메타인지로 승부하라)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436264706",
+                "image": "https://shopping-phinf.pstatic.net/main_3243626/32436264706.20221229071559.jpg",
+                "author": "오봉근",
+                "discount": "14690",
+                "publisher": "원앤원북스",
+                "pubdate": "20201222",
+                "isbn": "9791170431527",
+                "description": "최고의 회사만 아는 메타인지의 힘\n메타인지가 업무 능력을 높이는 열쇠다!\n\n일 잘하는 사람의 특징은 무엇일까? ‘업무 센스가 있다.’ ‘유능하다.’ ‘일머리가 있다.’ 등으로 흔히 표현되지만 일 잘하는 사람은 결국 메타인지가 뛰어난 사람이다. 메타인지란, 쉽게 말해 자신이 무엇을 알고 무엇을 모르는지 아는 것을 뜻한다. 더 나아가 업무의 목적과 절차, 상황과 맥락을 파악하는 능력을 의미한다. 메타인지가 높은 사람은 문제해결력 또한 높은데, 문제해결력은 업무에 가장 필요한 역량으로 손꼽힌다. 결국 메타인지가 업무 능력을 결정짓는 중요한 요소라는 말이다.\n상대방의 사고 및 인지 흐름을 이해하고 활용하는 것은 인간만이 할 수 있다. 이것이 바로 AI에 위협받지 않는 경쟁력이다. 저자는 글로벌 경영 컨설팅사에서 9번이나 승진한 기록을 세운 남다른 메타인지의 소유자로, 그동안 메타인지가 뛰어난 수많은 리더와 인재를 만나왔다. 그 경험을 바탕으로 업무 환경에서 활용할 수 있는 메타인지에 대한 모든 것을 집대성해 이 책을 집필했다. 메타인지의 기본 개념부터 메타인지를 향상시키는 방법, 조직에서 메타인지가 발휘되면 어떤 효과가 나타나는지 구체적인 사례를 보여준다. 메타인지가 뛰어난 사람은 업무 상황에 닥친 문제를 어떻게 해결하는지, 그 비밀을 알고 싶다면 이 책을 펼쳐보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210224",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오봉근 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "318 p.",
+                "CONTROL_NO": "CIP2020048312",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170431527",
+                "INPUT_DATE": "20201112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "메타인지, 생각의 기술",
+                "PUBLISH_PREDATE": "20201222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

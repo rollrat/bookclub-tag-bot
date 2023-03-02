@@ -1,0 +1,67 @@
+{
+    "otitle": "한 줄 속담의 여유",
+    "oauthor": "배기홍 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한 줄 속담의 여유 (지혜 상식 경험 해학이 담긴 일상의 슬기로운 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/33039481643",
+                "image": "https://shopping-phinf.pstatic.net/main_3303948/33039481643.20221019124459.jpg",
+                "author": "배기홍",
+                "discount": "13500",
+                "publisher": "갈라북스",
+                "pubdate": "20220717",
+                "isbn": "9791186518540",
+                "description": "생활 속의 자연스러운 대화나 글에서 익숙하게 쓰이고 있는 속담의 의미를 간략한 이야기 형식으로 흥미롭게 풀어낸 책이다. 이 책을 통해 속담 한 줄에 담긴 지혜와 상식, 경험과 해학의 이야기들을 읽다보면 시의적절한 한 문장의 말과 글이 기발한 착상과 새로운 기회의 실마리가 될 수도 있음을 이해할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220712",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "배기홍 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/06/9791186518540.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "142*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "356 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518540",
+                "INPUT_DATE": "20220609",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "한 줄 속담의 여유",
+                "PUBLISH_PREDATE": "20220717",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

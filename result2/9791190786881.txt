@@ -1,0 +1,67 @@
+{
+    "otitle": "어메이징 디스커버리 4 캐나다",
+    "oauthor": "김재훈 글,그림/이승열 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어메이징 디스커버리 4: 캐나다 (교양만화로 배우는 글로벌 인생 학교)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476026057",
+                "image": "https://shopping-phinf.pstatic.net/main_3247602/32476026057.20221019151703.jpg",
+                "author": "김재훈",
+                "discount": "13320",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20200703",
+                "isbn": "9791190786881",
+                "description": "“어메이징 디스커버리, 행복한 나라로 떠나는‘어디’시리즈”\n교양만화로 배우는 글로벌 인생 학교, 온 가족이 함께 보는 지식 교양만화의 탄생\n\n우리가 꿈꾸는 행복한 삶의 대안을 보여줄 나라를 여행하며 다양한 문화와 역사를 생생하게 만나는 『어메이징 디스커버리』 시리즈의 네 번째 책이 출간됐다. 작가의 꼼꼼한 현장 취재와 풍부한 인문학 지식을 만화로 녹여 각 나라의 삶과 그 바탕을 이룬 역사, 문화, 종교, 언어, 지리 등을 쉽고 건강하게 익히는 지식 교양만화! 4권은 이민 가고 싶은 나라 1, 2위를 다투며 다양한 민족과 종교, 문화가 공존하는 「캐나다」 편이다. 평등 사회와 다문화 사회를 안정적으로 정착시킨 캐나다를 밀착 취재하여 우리에게도 현실로 다가온 양극화와 다문화사회의 해법을 제안한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20200724",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "지은이: 김재훈",
+                "SERIES_TITLE": "어메이징 디스커버리",
+                "KDC": "941",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791189709976",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/17/9791190786881.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "168*232",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "317 p.",
+                "CONTROL_NO": "CIP2020023645",
+                "SERIES_NO": "4",
+                "EA_ISBN": "9791190786881",
+                "INPUT_DATE": "20200608",
+                "SET_EXPRESSION": "",
+                "VOL": "4",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "어메이징 디스커버리",
+                "PUBLISH_PREDATE": "20200703",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04900 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

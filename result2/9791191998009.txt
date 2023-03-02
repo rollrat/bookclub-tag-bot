@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 죽음을 돌보는 사람입니다",
+    "oauthor": "감봉희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 죽음을 돌보는 사람입니다 (어느 장례지도사가 말해주는 죽음과 삶에 관한 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436143957",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436143957.20230218110343.jpg",
+                "author": "강봉희",
+                "discount": "12960",
+                "publisher": "사이드웨이",
+                "pubdate": "20211007",
+                "isbn": "9791191998009",
+                "description": "2020년, 코로나 사망자들의 시신을 누구보다 먼저 수습했던 사람\n15년간 700여 고독사 · 기초수급자 고인들의\n마지막을 지켜주었던 장례지도사 강봉희\n그가 들려주는 죽은 자와 산 자들의 이야기\n\n이 책은 20년 가까운 세월 동안 죽은 이들의 곁을 지키며 그들의 마지막을 함께했던 어느 장례지도사의 기록이다. 40대 중반, 암에 걸려 저승의 문턱에서 가까스로 돌아온 저자 강봉희는 그때부터 죽음을 돌보는 일을 하기로 결심한다. 그는 2004년부터 700여 명의 고독사 사망자들과 기초수급자 고인들의 장례를 아무런 보상도 없이 도맡아왔다. 2020년, 모두가 감염의 공포에 질려 코로나 사망자 시신에 손을 대려 하지 않을 때는 제일 먼저 병원으로 달려가 시신을 수습하기도 했다. 저자는 오늘도 외롭게 죽은 이들의 시신을 염습하고, 장례식장과 화장장과 납골당을 오가면서 그들의 한 많은 넋을 기린다. 『나는 죽음을 돌보는 사람입니다』는 오래도록 죽은 이들의 마지막을 목격했던 그가 들려주는 죽음과 장례의 의미, 삶과 인간에 관한 길고 긴 성찰의 궤적이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Sideways(사이드웨이)",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강봉희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "123*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "216 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191998009",
+                "INPUT_DATE": "20210923",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 죽음을 돌보는 사람입니다",
+                "PUBLISH_PREDATE": "20211007",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

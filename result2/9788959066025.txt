@@ -1,0 +1,67 @@
+{
+    "otitle": "조선의 왕은 어떻게 죽었을까?",
+    "oauthor": "정승호,김수진 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조선의 왕은 어떻게 죽었을까 (태조에서 순종까지, 왕의 사망 일기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456896391",
+                "image": "https://shopping-phinf.pstatic.net/main_3245689/32456896391.20221019120543.jpg",
+                "author": "정승호",
+                "discount": "15300",
+                "publisher": "인물과사상사",
+                "pubdate": "20210514",
+                "isbn": "9788959066025",
+                "description": "『조선의 왕은 어떻게 죽었을까』는 조선 왕들의 일상과 그들이 즐겨 먹었던 음식들로 인해 그들이 어떤 질병으로 사망했는지, 고질적인 식습관은 질병에 어떤 영향을 미쳤는지를 살펴본다. 그리고 그러한 식습관을 불러온 가족사와 개인적인 성품 등이 질병과 어떤 관계가 있었는지도 살펴본다. 인간의 수명은 생활 습관이나 체질, 삶을 살아가면서 얻게 되는 스트레스에 따라 달라질 수밖에 없다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과 사상사",
+                "DDC": "",
+                "UPDATE_DATE": "20210601",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "정승호,김수진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/04/19/9788959066025.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "327 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959066025",
+                "INPUT_DATE": "20210419",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "조선의 왕은 어떻게 죽었을까?",
+                "PUBLISH_PREDATE": "20210507",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

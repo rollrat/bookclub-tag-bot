@@ -1,0 +1,67 @@
+{
+    "otitle": "사사건건 경복궁",
+    "oauthor": "양승렬 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사사건건 경복궁 (궁궐 길라잡이, 조선 역사의 빗장을 열다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461281866",
+                "image": "https://shopping-phinf.pstatic.net/main_3246128/32461281866.20230218110214.jpg",
+                "author": "양승렬",
+                "discount": "17110",
+                "publisher": "시대의창",
+                "pubdate": "20211015",
+                "isbn": "9788959407699",
+                "description": "경복궁을 무대로 한 ‘사람’들의 이야기를 들려준다. 그렇다고 주연이 왕만은 아니다. 조선 초 경복궁을 탄생시킨 왕과 신료의 이야기도 있지만, 환관과 궁녀를 포함해 기생 등 여러 사람의 이야기를 다룬다. 나아가 대한제국 시기의 우범선과 고영근, 김구와 안중근까지 들려준다.\n\n\n\n한마디로 이 책은 ‘경복궁과 궁궐 사람들’의 이야기다. 16년 동안 경복궁 궁궐길라잡이를 하며 사람들에게 경복궁과 그에 얽힌 이야기를 들려준 지은이가 현장의 이야기와 미처 현장에서 풀지 못했던 이야기를 이 책에 담았다. 그의 이야기를 따라가다 보면 빗장 풀린 구중궁궐에 숨겨진 역사를 맛볼 수 있다.\n\n\n\n조선 역사의 고갱이를 담은 궁궐이 바로 경복궁이다. 조선의 성장과 위기 그리고 소멸을 이끌었던 인물들의 자취가 경복궁에 고스란히 남아 있기 때문이다. 경복궁은 완전히 전소되기도 하고 대부분이 뜯겨나가는 참혹함도 겪었지만, 오늘날까지 용케 살아남아 조선 역사를 오롯이 담아내는 역할을 충실히 수행하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시대의창",
+                "DDC": "",
+                "UPDATE_DATE": "20211102",
+                "EA_ADD_CODE": "03910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "양승렬 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "416 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959407699",
+                "INPUT_DATE": "20210930",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "사사건건 경복궁",
+                "PUBLISH_PREDATE": "20211015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

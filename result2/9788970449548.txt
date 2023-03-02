@@ -1,0 +1,78 @@
+{
+    "otitle": "초광속입자 타키온",
+    "oauthor": "혼마 사부로 저/조경철 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:02 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "초광속입자 타키온 (미래를 보는 입자를 찾아서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445248292",
+                "image": "https://shopping-phinf.pstatic.net/main_3244524/32445248292.20221230072753.jpg",
+                "author": "혼마 사부로",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20210112",
+                "isbn": "9788970449548",
+                "description": "빛보다 빨리 빠른 입자가 있을까?\n상대성이론의 테두리 안에서 살펴보는 타키온\n\n“빛보다 빠른 것이 있을까?”\n누구나 한 번쯤은 가졌던 소박한 질문으로부터 시작했다. 만일에 그런 것이 정말로 있다면 그것을 타고 우주 탐험에 나설 수 있을까? 타임머신처럼 과거로 돌아갈 수 있을까? 그리고 미래도 알 수 있는 것일까? 이런 상상을 통해 우리의 꿈은 무한히 퍼져 나갔다. 그러나 중학생이 되고 고등학생이 되니 빛은 이 세상에서 가장 빠른 것이라고 배운다. 그리고 대학생이 되면 아인슈타인의 상대성이론이 광속도를 넘는 것을 부정하는 개념 위에 성립되어 있음을 알게 된다. 우리의 꿈은 이렇게 사라지고 말았다. 그러나 광속도보다도 빨리 달리는 것을 지금도 찾는 물리학자가 있다. 아무리 상대성이론이 그러한 존재를 허용하지 않더라도 말이다. 빛보다 빨리 달리는 입자를 타키온(Tachyon)이라고 부른다. 이 책은 그 타키온을 고전적인 입자로 생각하여 그것이 어떤 입자이고, 어떠한 것을 가져다주며, 그것을 발견하려면 어떻게 하면 되는가의 문제를 현재의 상대성이론의 테두리 안에서 생각해 본 것이다. 그리고 그 꿈과 같은 입자를 발견하려는 도전 내용 몇 가지를 소개했다."
+            },
+            {
+                "title": "초광속입자 타키온 (미래를 보는 입자를 찾아서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489621768",
+                "image": "https://shopping-phinf.pstatic.net/main_3248962/32489621768.20221230073112.jpg",
+                "author": "혼마 사부로",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19951125",
+                "isbn": "9788970440453",
+                "description": "이 책은 타키온(빛보다 빨리 달리는 입자)을 고전적인 입자로 생각하여 그것이 어떤 입자이며 어떠한 것을 가져다주며, 그것을 발견하는 데는 어떻게 하면 되는가의 문제를 현재의 상대성 이론의 테두리 안에서 생각해 본 것이다. 그리고 그 꿈과 같은 입자를 발견하려는 도전 내용 몇 가지를 소개하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20210223",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "혼마 사부로 지음 ;조경철 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "167 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970449548",
+                "INPUT_DATE": "20210108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "초광속입자 타키온",
+                "PUBLISH_PREDATE": "20210112",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

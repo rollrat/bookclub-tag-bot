@@ -1,0 +1,67 @@
+{
+    "otitle": "다과 수업",
+    "oauthor": "명지은(문래공방) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다과 수업 (전통 다과, 화과자, 음료 레시피북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478632249",
+                "image": "https://shopping-phinf.pstatic.net/main_3247863/32478632249.20221230073446.jpg",
+                "author": "명지은",
+                "discount": "13500",
+                "publisher": "싸이프레스",
+                "pubdate": "20200210",
+                "isbn": "9791160320770",
+                "description": "차와 과자를 먹으며 쉬고 싶은 순간, 조용한 일상에 달콤함을 더하다! \n전통 다과, 화과자, 음료 등 누구나 만들기 쉬운 다과 레시피!\n\n“오랜 시간 정성 들여 만든 다과로 누군가를 대접하는 일은 무척 기쁜 일입니다. 그 상대가 자기 자신일 때는 더더욱이요. 매일 사용하던 식탁이라도 좋아하는 차와 다구, 직접 만든 과자를 곁들인다면 아주 멋진 티테이블이 될 것입니다. 계절감을 느낄 수 있는 다화(찻자리 꽃꽂이)까지 곁들인다면 더욱 금상첨화이겠지요.” - 프롤로그 중에서\n\n문래공방의 다과 수업은 홈베이킹이 취미로 각광받는 것처럼 다과 또한 누구나 집에서 쉽게 만들 수 있다는 것을 알리고 싶어 시작하게 되었다. 『다과 수업』에서는 전통 과자라도 하더라고 오래전부터 이어져온 정석적인 방법이 아닌 집에서도 따라 할 수 있는 공정으로 개량하여 소개하는 것에 초점을 맞추었다. 거창한 도구보다는 베이킹 재료 숍에서 구하기 쉬운 도구 위주로 사용하였으며, 보관이 까다롭지 않은 익숙한 재료들로 만드는 레시피를 담기 위해 노력하였다. \n\n『다과 수업』에서는 다과의 기본이 되는 기본 고물과 앙금 만들기로 시작하여 전통 다과인 호두정과, 딸기 찹쌀떡, 마블 바람떡 등과 화과자 양갱, 네리끼리, 코하쿠토 등 과자 만들기를 다루며, 팥과 녹차, 청과 시럽을 활용한 다양한 음료 레시피를 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Cypress(싸이프레스)",
+                "DDC": "",
+                "UPDATE_DATE": "20200217",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "www.cypressbook.co.kr",
+                "AUTHOR": "명지은 지음",
+                "SERIES_TITLE": "",
+                "KDC": "594.5546",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "155 p.",
+                "CONTROL_NO": "CIP2020001501",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160320770",
+                "INPUT_DATE": "20200110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "다과 수업",
+                "PUBLISH_PREDATE": "20200210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "카운트다운 1945",
+    "oauthor": "크리스 월리스,미치 와이스 공저/이재황 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "카운트다운 1945 (인류 최초의 원자폭탄 투하 전 116일간의 비하인드 스토리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490368781",
+                "image": "https://shopping-phinf.pstatic.net/main_3249036/32490368781.20221230074148.jpg",
+                "author": "크리스 월리스^미치 와이스",
+                "discount": "19800",
+                "publisher": "책과함께",
+                "pubdate": "20201005",
+                "isbn": "9791188990849",
+                "description": "1945년 8월 6일, 눈부신 섬광과 함께 모든 것이 바뀌었다. 인류사 최초로 원자폭탄이 투하된 것이다. 지금에 와서 보면 비행기에서 폭탄을 떨어뜨리는 것과 다르지 않은 공격 행위로 여길 수 있지만, 실제 준비와 결정, 실행 과정은 결코 간단치 않았다. 전례가 없는 불확실성에 더해 폭탄 개발이 막바지에 다다랐을 무렵, 최종 결정권자인 프랭클린 미국 대통령이 사망했다. 이 극비 프로젝트에 대해 아무것도 모르던 부통령 해리 트루먼은 4월 12일, 하루아침에 미국 대통령이자 미군 총사령관이 되었다.\n\n\n\n미국 전역에서 베스트셀러 1위를 기록한 &lt;카운트다운 1945&gt;는 바로 이 4월 12일부터 시작된다. 사상 첫 원자폭탄이 히로시마 상공 580미터에서 폭발한 8월 6일로부터 116일 전이었다. 이 책은 그 116일 동안 다양한 관련자들의 심리와 고뇌, 결정과 행동을 마치 영화처럼 실감나게 그린 논픽션 스릴러다. 원폭 투하일을 디데이로 설정해 점차 ‘그날’을 향해 다가가는 숨 막히는 긴박감을 선보인다. 특히 디데이에 시, 분 초 단위로 카운트다운하며 클라이맥스로 치닫는 ‘카운트다운: 9시간 15분’은 책의 백미다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책과함께",
+                "DDC": "",
+                "UPDATE_DATE": "20201023",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "크리스 월리스,미치 와이스 지음 ;이재황 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "929.07",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "431 p.",
+                "CONTROL_NO": "CIP2020039496",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188990849",
+                "INPUT_DATE": "20200915",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "카운트다운 1945",
+                "PUBLISH_PREDATE": "20201005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

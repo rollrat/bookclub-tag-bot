@@ -1,0 +1,67 @@
+{
+    "otitle": "솔로 워커",
+    "oauthor": "베카 실 저/박세연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "솔로 워커: 미치지 않고 혼자 일하는 법 (&#34;혼자 일하면서 지치거나 미치거나 빡치지 않을 수 있을까?&#34;)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436441164",
+                "image": "https://shopping-phinf.pstatic.net/main_3243644/32436441164.20221019110545.jpg",
+                "author": "리베카 실",
+                "discount": "14850",
+                "publisher": "푸른숲",
+                "pubdate": "20211126",
+                "isbn": "9791156759263",
+                "description": "프리랜서, 1인 기업, 자영업자를 위한 단 한 권의 책\n외로움과 불안함에 깔려 죽지 않고 1인분의 몫을 해내는 법\n\n이 책은 혼자 일하는 모든 사람을 ‘솔로 워커’라 명명하고, 그들에게 필요한 실질적인 노하우를 한 권에 집약했다. 각종 관련 연구와 문헌을 갈무리하고, 십수 년간 조직 밖에서 혼자 일하며 1인 노동을 몸소 겪어온 저자만의 노하우를 더했다. 특히 세계적으로 영향력 있는 프리랜서와 솔로 워크 전문가들을 직접 인터뷰해 혼자 일하는 사람들이 겪는 어려움을 생생한 목소리로 담고, 나아가 현실적인 해결책까지 제안한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20211223",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "리베카 실 지음 ;박세연 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "290 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156759263",
+                "INPUT_DATE": "20211110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "솔로 워커",
+                "PUBLISH_PREDATE": "20211126",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

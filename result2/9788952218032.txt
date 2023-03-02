@@ -1,0 +1,67 @@
+{
+    "otitle": "수학귀신의 집",
+    "oauthor": "계영희 감수/김선희 글/이남지 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수학 귀신의 집 (시끌벅적 수와 저절로 계산)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506176732",
+                "image": "https://shopping-phinf.pstatic.net/main_3250617/32506176732.20221019114836.jpg",
+                "author": "김선희",
+                "discount": "9900",
+                "publisher": "살림어린이",
+                "pubdate": "20120530",
+                "isbn": "9788952218032",
+                "description": "우리 전통 토종 신과 함께 수학을 스토리텔링으로 정복하자!\n\n창의적이며 단순하고 명쾌한 수학의 매력에 푹 빠지게 해주는 「수학 유령 도서관」 제1권 『수학 귀신의 집』. 수학을 싫어하는 소녀 '윤아'가 잡귀들과 맞서 싸워 할머니의 옛집을 지키기 위해 우리 전통 토종 신의 도움을 받아 수학 천재가 되기까지의 모험을 그린 스토리텔링 수학 교재다. 윤아는 집을 담보로 친구에게 보증을 서 준 아빠 때문에 서울을 떠나 시골에 있는 할머니 집으로 잠시 살러 가게 되었다. 할머니 집 옆에는 500여 년이 넘은 폐가가 있다. 호기심이 발동한 윤아는 폐가에는 얼씬도 하지 말라는 할머니의 신신당부에도 아랑곳하지 않고 굳게 닫힌 대문을 열려고 하는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20120621",
+                "EA_ADD_CODE": "74410",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "김선희 글 ;이남지 그림",
+                "SERIES_TITLE": "수학 유령 도서관 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "01",
+                "EA_ISBN": "9788952218032",
+                "INPUT_DATE": "20120621",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "수학 귀신의 집 ",
+                "PUBLISH_PREDATE": "20120530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

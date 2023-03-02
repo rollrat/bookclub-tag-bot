@@ -1,0 +1,67 @@
+{
+    "otitle": "주역의 예지",
+    "oauthor": "이용주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "주역의 예지 (역경 64괘 읽기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32488962665",
+                "image": "https://shopping-phinf.pstatic.net/main_3248896/32488962665.20221019132420.jpg",
+                "author": "김정희",
+                "discount": "43200",
+                "publisher": "이학사",
+                "pubdate": "20211030",
+                "isbn": "9788961473989",
+                "description": "한 권의 인생 지혜서로서 『주역』을 처음부터 끝까지 수미일관한 흐름을 가진 독서물로서 통독할 수 있다면 얼마나 좋을까? 그리고 『주역』을 통독하고 난 다음, 아, 이 책이야말로 '나의 인생의 책이다!'라는 감상을 피력하는 독자가 있다면 얼마나 좋을까? 어느날 갑자기 나는 『주역』에 관해 평소에 알고 있던 여러 자료를 읽고 정리하면서, 일단 다른 사람은 생각하지 말고, 나 스스로가 이해할 수 있도록 『주역』에 대해 뭔가를 써보자는 생각을 했고, 그 작업을 시작했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이학사",
+                "DDC": "",
+                "UPDATE_DATE": "20211109",
+                "EA_ADD_CODE": "94140",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이용주 지음",
+                "SERIES_TITLE": "이용주의 고전 강독",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788961473972",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "48000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "831 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788961473989",
+                "INPUT_DATE": "20211007",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "주역의 예지",
+                "PUBLISH_PREDATE": "20211030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "94140 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

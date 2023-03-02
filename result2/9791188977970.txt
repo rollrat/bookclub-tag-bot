@@ -1,0 +1,67 @@
+{
+    "otitle": "이것이 마이데이터다",
+    "oauthor": "고은이,류성한,유재경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이것이 마이데이터다 (금융, IT, 유통, 의료, 생활까지 ‘내 정보’가 한눈에 열리는 시대)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496546619",
+                "image": "https://shopping-phinf.pstatic.net/main_3249654/32496546619.20221230072011.jpg",
+                "author": "고은이^류성한^유재경",
+                "discount": "13500",
+                "publisher": "슬로디미디어",
+                "pubdate": "20210710",
+                "isbn": "9791188977970",
+                "description": "“마이데이터 시대”\n금용 비서가 내 손안에 들어온다!\n\n삶을 바꾸고 미래를 혁신하는 \n마이데이터 개념부터 활용 사례까지\n한 권으로 끝내는 마이데이터의 모든 것!\n\n이제 마이데이터는 본격적으로 우리의 일상에 들어올 준비를 하고 있습니다. 이 책은 미래에 마이데이터를 활용한 사업을 진행하고자 하는 사람, 현재 기업에서 마이데이터를 활용한 유닛 서비스를 제공하고자 하는 사람, 마이데이터를 공부하고자 하는 사람 등 마이데이터가 무엇이며, 이로 인해 변화할 사회에 대해 알고자 하는 사람들을 위해 쉽게 풀어 썼습니다.\n\n우리가 이뤄낸 기술 혁신은 사회 변화를 촉발시켜 새로운 차원의 사회로 도약할 수 있게 해주었습니다. 그리고 이제 사회는 우리에게 기술 발전의 방향을 새롭게 제시하고 있습니다. 데이터 경제에 종사하며 새로운 방향을 모색하고 있는 많은 현업 전문가들과 변화된 기술로 인해 또다시 변화를 맞이할 사회에서 살아갈 준비를 하는 많은 개인에게도 이 책이 작은 도움이 될 수 있기를 바랍니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어(슬로디미디어그룹)",
+                "DDC": "",
+                "UPDATE_DATE": "20210810",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고은이,류성한,유재경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/06/11/9791188977970.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "214 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188977970",
+                "INPUT_DATE": "20210611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "이것이 마이데이터다",
+                "PUBLISH_PREDATE": "20210710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "체스 챔피언",
+    "oauthor": "김도윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "체스 챔피언:이기는 체스 게임의 법칙 (이기는 체스 게임의 법칙!)",
+                "link": "https://search.shopping.naver.com/book/catalog/33881796407",
+                "image": "https://shopping-phinf.pstatic.net/main_3388179/33881796407.20230218110456.jpg",
+                "author": "김도윤",
+                "discount": "19800",
+                "publisher": "성안당",
+                "pubdate": "20220805",
+                "isbn": "9788931558920",
+                "description": "세계체스연맹 공인 레이팅 체스 트레이너가 알려주는\n이기는 체스 게임의 법칙 공개!\n\n현직 체스 트레이너이자 체스 유튜브 ‘천명신화의 체스 이야기’ 채널의 김도윤 저자가 알려주는 ‘상대의 수를 읽는 눈’을 키워주는 체스 입문부터 실전까지 배울 수 있는 책이다. 초보자들이 가장 어려워하는 부분인 체스에서 무엇을, 어떻게 생각해야 하는지, 상대의 의도를 잘 읽어 내면서, 그에 대응하는 좋은 수를 찾아내는 방법을 알려준다. 뿐만 아니라 게임 초반의 기물 전개 오프닝 게임부터 공격과 방어의 미들 게임, 체크메이트를 성공시키는 엔드 게임까지 다양한 이기는 전술을 쉽게 설명하고 있다. 체스 입문자도 쉽게 배울 수 있도록 체스를 잘 두기 위한 사고 과정을 단계별로 소개하고 있으며, 본문 안에 QR 코드를 제공하여 동영상으로도 체스의 전략 전술을 배울 수 있다. 또 챕터가 끝날 때마다 학습한 내용을 복기할 수 있도록 연습문제와 해설도 제공하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20221013",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "지은이: 김도윤",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "190*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "347 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931558920",
+                "INPUT_DATE": "20220729",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "체스 챔피언",
+                "PUBLISH_PREDATE": "20220805",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

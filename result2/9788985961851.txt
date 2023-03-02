@@ -1,0 +1,67 @@
+{
+    "otitle": "지금 여기 깨어있기",
+    "oauthor": "법륜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 여기 깨어있기 (법륜 스님의 깨달음 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464886807",
+                "image": "https://shopping-phinf.pstatic.net/main_3246488/32464886807.20230223071212.jpg",
+                "author": "법륜",
+                "discount": "10800",
+                "publisher": "정토출판",
+                "pubdate": "20141218",
+                "isbn": "9788985961851",
+                "description": "선사들의 깨달음을 넘어 나의 깨달음으로\n\n2014년, 세계 100회 즉문즉설 강연을 통해 전 세계로 직접 찾아가 사람들의 인생 고민을 만난 법륜 스님이 이번에는 자신의 인생에 큰 전환점이 되었던 깨달음의 순간을 생생하게 들려준다. 『지금 여기, 깨어있기』는 참자유, 참행복을 찾으려면 삶 속에서 스스로를 돌아보고 깨쳐야 한다는 부처님의 근본 가르침을 선사들과 이웃들, 법륜 스님의 수행담을 통해 친근하게 전해주고 있다. 스님은 말한다. 깨달음은 멀리 있는 것이 아니라 마음이 일어나는 곳마다 거기에 있다고. 그리고 그것을 알아차리느냐 못 알아차리느냐에 따라 윤회하며 헤맬 수도, 해탈할 수도 있다고. \n\n이 책은 부처님의 가르침대로 명쾌하고 간단하게 인생사를 해결하는 방법을 2600여 년의 불교 역사 속에 살아 있는 스승님들의 경험에서부터 현재 우리들의 일상에 이르기까지 살펴보고 있다. 특히 옛 선사님의 깨달음의 순간을 우리들의 일상에서도 찾아볼 수 있는 것인지, 찾고자 한다면 어떻게 해야 하는지 그 근본을 짚어보고자 했다. 스님은 정법으로 돌아가고자 자각했던 불교의 오랜 역사처럼 부처님의 가르침이 내 삶 속에 살아 숨 쉬고 있는지 경험을 통해서 확인해 볼 것을 권하고 있다. \n\n스님은 우리가 진정 행복해지고 자유로워지는 길은 자기의 문제를 자기가 인식하는 것으로부터 시작한다고 강조한다. 그리고 죽을 때까지 수행해서 죽기 전에야 깨닫는 것은 소용없으니 지금 행복하라고, 살아있는 것만으로도 행복해야 한다고 이야기한다. 내일 무슨 일이 일어날지 모르는 이 인생사에서 무슨 일이 일어나도 아무런 문제가 없는 삶을 살아가는 것을 해탈, 열반이라고 한다. 어차피 장가 간 김에, 어차피 자식 낳은 김에, 어차피 늙은 김에 괴로워하지 말고 깨칠 수 있는 기회를 찾아보라고 제안하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "정토출판사",
+                "DDC": "294.344",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03220",
+                "PUBLISHER_URL": "www.jungto.org",
+                "AUTHOR": "법륜 스님",
+                "SERIES_TITLE": "",
+                "KDC": "224.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4192451_3.jpg",
+                "PRE_PRICE": "12,000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4192451_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014035825",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788985961851",
+                "INPUT_DATE": "20141206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "<지금 여기, 깨어있기>",
+                "PUBLISH_PREDATE": "20141219",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

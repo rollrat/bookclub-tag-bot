@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘을 버텨내는 데 때로 한 문장이면 충분하니까",
+    "oauthor": "서메리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘을 버텨내는 데 때로 한 문장이면 충분하니까 (마음 둘 곳 없던 날 내 편이 되어준 문장 73)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496645738",
+                "image": "https://shopping-phinf.pstatic.net/main_3249664/32496645738.20230207165315.jpg",
+                "author": "서유라",
+                "discount": "12100",
+                "publisher": "티라미수 더북",
+                "pubdate": "20201016",
+                "isbn": "9791160579970",
+                "description": "아무렇지도 않던 그 말이\n어느 날 내게 든든한 버팀목이 되어주었다\n\n마음 둘 곳 없던 날 내편이 되어준 문장 73\n번역가, 작가, 일러스트레이터, 유튜버 서메리의 문장 에세이\n\n출판 번역가이자 일러스트 작가, 인기 유튜버, 그리고 무엇보다 ‘책 덕후’인 서메리 작가의 ‘문장 에세이’.문장을 중심에 둔 에세이라지만 관련 도서를 소개하거나 책 속 핵심문장을 뽑아내 정리하는 형식과는 거리가 멀다. 이야기 전개나 주제 전달에 큰 역할을 하는 문장이 아닐지라도 한순간 마음에 와닿았다면, 나를 위로한다면, 머리를 쨍하게 깨뜨려준다면 그것이 내게는 소중한 문장이 되는 법. 작가는 마음을 건드린 그 한 문장에서 생각의 물꼬를 끌어와 자신의 이야기를 담담하게 풀어낸다.\n직장생활을 할 때도, 독립근무자로 여러 활동을 하면서도, 매 순간은 ‘우여곡절’이라는 단어로는 다 설명하기 어려운 사연의 연속이었다. 때로 길을 헤매기도 했고, 무신경한 타인의 말에 상처를 받기도 했으며,불투명한 미래 앞에서 불안감에 시달리기도 했다. 하지만 그때마다 거짓말처럼 마주친 책 속 문장 덕분에 자신을 잃지 않을 수 있었다고. 《오늘을 버텨내는 데 때로 한 문장이면 충분하니까》는 흔들릴 때마다 버팀목이 되어준 73개의 문장을 추리고 그에 얽힌 이야기를 가지런히 묶어낸 책이다.\n정갈한 문체에 담긴 속 깊은 이야기가 따스한 위안을 건네는 동시에 불안에 발목 잡히지 않고 내일을 향해 뚜벅뚜벅 걸어갈 수 있도록 징검다리를 놓아준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "티라미수 The Book :이퍼블릭",
+                "DDC": "",
+                "UPDATE_DATE": "20210112",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.epublic.co.kr",
+                "AUTHOR": "서메리 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/09/22/9791160579970.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "CIP2020040693",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160579970",
+                "INPUT_DATE": "20200922",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오늘을 버텨내는 데 때로 한 문장이면 충분하니까",
+                "PUBLISH_PREDATE": "20201016",
+                "RELATED_ISBN": "9791160579987",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "골목의 전쟁",
+    "oauthor": "김영준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "골목의 전쟁 (소비시장은 어떻게 움직이는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474271902",
+                "image": "https://shopping-phinf.pstatic.net/main_3247427/32474271902.20230214163803.jpg",
+                "author": "김영준",
+                "discount": "13320",
+                "publisher": "스마트북스",
+                "pubdate": "20171015",
+                "isbn": "9791185541631",
+                "description": "『골목의 전쟁』은 경제학과 투자이론, 데이터를 통해 기회와 기회로 위장한 위기의 차이를 살펴보며, 이를 통해 소비자와 상가투자자, 사업자가 각기 무엇을 놓치고 있고, 무엇 때문에 성공을 꿈꾸었음에도 쉽게 몰락하는지를 살펴본다. 소비시장 관련 기업, 자영업자, 소비자, 퇴사준비생, 상가 투자자들에게 큰 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스마트북스",
+                "DDC": "",
+                "UPDATE_DATE": "20171025",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.smartbooks21.com",
+                "AUTHOR": "김영준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185541631",
+                "INPUT_DATE": "20170919",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "골목의 전쟁",
+                "PUBLISH_PREDATE": "20171015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

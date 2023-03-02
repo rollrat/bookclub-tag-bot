@@ -1,0 +1,67 @@
+{
+    "otitle": "암호화폐 자동매매 시스템 만들기 with 파이썬",
+    "oauthor": "정성문 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "암호화폐 자동매매 시스템 만들기 with 파이썬 (대량의 시뮬레이션과 최적화 전략까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438189961",
+                "image": "https://shopping-phinf.pstatic.net/main_3243818/32438189961.20230227071007.jpg",
+                "author": "정성문",
+                "discount": "31500",
+                "publisher": "로드북",
+                "pubdate": "20220302",
+                "isbn": "9788997924967",
+                "description": "이 책은 암호화폐 자동거래 프로그램의 설계부터 개발 후 활용까지 모든 과정을 다루고 있다. 파이썬의 기본적인 문법부터 설명하고 있지만 대부분은 실제 코드를 개발하는 과정과 함께 파이썬을 학습할 수 있도록 하였다. 모든 과정에는 바로 실행해 볼 수 있는 실습코드가 제공되며, 자동거래 프로그램은 충분한 단위 테스트와 통합 테스트를 갖추고 있는 오픈소스 프로젝트로 계속 개발되고 있다. 프로그램을 바로 사용하고자 하는 개발자나 실습 위주로 파이썬을 학습해보고자 하는 사람에게 적합하다.\n\n_대상 독자\n파이썬으로 자신만의 암호화폐 자동거래 시스템을 만들어 보고 싶은 사람\n완성된 프로그램 기반으로 파이썬을 기초부터 배워보고 싶은 사람\n급변하는 시대에 파이썬의 능력을 꼭 챙기고자 하는 사람"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20220330",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "지은이: 정성문",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "35000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "576 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924967",
+                "INPUT_DATE": "20220218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "암호화폐 자동매매 시스템 만들기 with 파이썬",
+                "PUBLISH_PREDATE": "20220302",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

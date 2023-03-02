@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 미술관에서 투자를 배웠다",
+    "oauthor": "이지혜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 미술관에서 투자를 배웠다 (컬렉터언니와 함께 하는 세상 친절한 아트테크 클래스)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482677018",
+                "image": "https://shopping-phinf.pstatic.net/main_3248267/32482677018.20230214162903.jpg",
+                "author": "이지혜",
+                "discount": "14400",
+                "publisher": "미래의창",
+                "pubdate": "20210915",
+                "isbn": "9791191464511",
+                "description": "“아트페어와 옥션, 갤러리에 나타난 MZ세대, 그들은 왜 미술 시장으로 눈을 돌렸을까?”\n똑소리 나는 자본주의키즈들을 사로잡은 미술품 투자의 매력\n\n바야흐로 자본의 시대. 우리는 어떤 단어든 그 뒤에 ‘시장’이 붙으면 열광하는 세상을 살고 있다. 이 거대한 시장의 파도에 미술품이 올라탔고, 여기에 하룻강아지 범 무서운 줄 모르는 MZ세대가 합류했다. 요즘 아트페어와 옥션의 풍경은 이전과 사뭇 다르다. 톰브라운 슈트를 위아래로 맞춰 입고, 리세일가가 엄청난 것으로 유명한 나이키 한정판 스니커즈를 신은 젊은이들이 속속 등장한 것이다. 시장의 흐름을 누구보다 기민하게 파악하고 발 빠르게 움직이는 MZ들의 출현은 미술 시장이 더 이상 ‘부자들만의 세계’가 아니며 아트테크가 새로운 대체 투자 수단으로 급부상하고 있음을 반증한다.\n\n아트테크, 즉 미술품 투자에 있어 가장 중요한 것은 충분한 시간을 들여 꾸준히 미술에 관심을 쏟는 정성과 인내다. 미술품을 보는 안목은 절대 하루아침에 얻어지지 않기 때문이다. 비전공자로서 직접 몸으로 부딪혀가며 다양한 시행착오를 거쳐 마침내 아트 컬렉터로 거듭난 저자는 그간 경험하고 익힌 아트테크 지식과 노하우를 한 권에 책으로 풀어냈다. 뉴욕의 미술관과 홍콩의 아트페어, 서울의 옥션을 쉼 없이 다니며 보고 듣고 전하는 생생한 현장 이야기를 함께 나눠보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미래의창",
+                "DDC": "",
+                "UPDATE_DATE": "20210929",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이지혜 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191464511",
+                "INPUT_DATE": "20210818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "나는 미술관에서 투자를 배웠다",
+                "PUBLISH_PREDATE": "20210915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

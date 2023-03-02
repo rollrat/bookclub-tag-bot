@@ -1,0 +1,67 @@
+{
+    "otitle": "동물에 대한 인간의 예의",
+    "oauthor": "이소영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "동물에 대한 인간의 예의 (동물을 좋아하는 마음을 넘어 우리에게 필요한 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445278113",
+                "image": "https://shopping-phinf.pstatic.net/main_3244527/32445278113.20221227204150.jpg",
+                "author": "이소영",
+                "discount": "11700",
+                "publisher": "뜨인돌",
+                "pubdate": "20201210",
+                "isbn": "9788958077817",
+                "description": "동물과 인간의 공존에 대한 따뜻하고 단단한 생각들\n동물과 인간이 함께 행복하려면 좋아하는 마음만으로는 부족합니다\n\n동물과 인간을 존중하는 방식에 관한 따뜻하고 단단한 생각들을 담은 에세이. 동물과 인간 사이에서 벌어지는 갈등, 동물로 인해 인간과 인간 사이에서 벌어지는 갈등을 외면하거나 섣불리 봉합하려 하지 말고 질문을 던지고 재해석해보자고 제안하는 책이다. 저자는 많은 이들이 키우는 개나 고양이 외에 다른 동물은 존중받지 않아도 되는 것인지, 지자체에서 반려견 놀이터를 짓는 것이 세금이 아까운 일인지, 귀여운 동물 영상을 보며 열광하는 것이 어떤 의미인지 등에 대해 고민할 수 있도록 단서를 던지고, 변화를 만들어낼 수 있는 방법들을 내어놓는다. \n이 책은 동물을 좋아하는 마음에 관한 책이 아니다. 그 마음을 넘어, 동물과 인간이 동행하기 위해 인간에게 있어야 할 ‘옳은 마음과 행동’에 초점을 맞춘다. 우리의 시야가 미처 닿지 못했던 동물과 인간 세계의 사각지대를 발견하고 볼 수 있도록 우리를 이끄는 명확한 안내서가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌(뜨인돌출판)",
+                "DDC": "",
+                "UPDATE_DATE": "20210114",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "이소영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "491.508",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "224 p.",
+                "CONTROL_NO": "CIP2020041599",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958077817",
+                "INPUT_DATE": "20200928",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "동물에 대한 인간의 예의",
+                "PUBLISH_PREDATE": "20201210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "루이스의 특별한 수업",
+    "oauthor": "루이스 하우스 저/마도경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "루이스의 특별한 수업 (최고가 된 사람들의 8가지 행동 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463426585",
+                "image": "https://shopping-phinf.pstatic.net/main_3246342/32463426585.20221230075019.jpg",
+                "author": "루이스 하우스",
+                "discount": "13500",
+                "publisher": "소소의책",
+                "pubdate": "20171017",
+                "isbn": "9791196101220",
+                "description": "뉴욕 타임스, 아마존 베스트셀러. 버락 오바마, 백악관이 뽑은 ‘100명의 젊은 CEO’. 다운로드 3000만, iTunes 최고의 팟캐스트 선정. 스물네 살 백수에서 촉망받는 젊은 CEO, 최고의 팟캐스트 운영자가 되기까지 루이스를 이끈 8가지 행동 습관.\n\n\n\n저자인 루이스 하우스는 한때 엘리트 미식축구 선수로 승승장구했다. 그러던 어느 날 경기 도중 큰 부상을 당했다. 하지만 루이스 좌절하지 않고 자신을 되돌아보았다. 루이스가 뽑은 여덟 개의 만능 교훈을 집약해 정리했다. 그는 멘토와 코치, 동료, 스승의 도움을 받아 오늘의 성공을 이루기까지의 과정에서 이 교훈들을 발견했다. 그 과정은 또한 지속적인 배움과 자아실현의 과정이다.\n\n\n\n루이스는 자신이 더 크게 성공할 수 있다고 믿었다. 그는 더 많은 것을 원했다. 그래서 전 세계의 위인들과 사상가들, 그리고 행동가들의 지혜를 배우려고 노력했다. 그 배움의 결정체이자 루이스가 자신의 삶에 적용하는 과정에서 느끼고 체득한 것들과 고난을 통해 정제한 강의 노트다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20171020",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "루이스 하우스 지음 ;마도경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6362944_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6362944_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6362944_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "CIP2017024232",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196101220",
+                "INPUT_DATE": "20170914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "루이스의 특별한 수업",
+                "PUBLISH_PREDATE": "20171017",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

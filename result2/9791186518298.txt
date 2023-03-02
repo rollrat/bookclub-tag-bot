@@ -1,0 +1,67 @@
+{
+    "otitle": "창업력",
+    "oauthor": "문성철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "창업력 (한국형 창업 구루 70인의 비즈니스 지혜)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496530658",
+                "image": "https://shopping-phinf.pstatic.net/main_3249653/32496530658.20221229073026.jpg",
+                "author": "문성철",
+                "discount": "11700",
+                "publisher": "갈라북스",
+                "pubdate": "20190115",
+                "isbn": "9791186518298",
+                "description": "‘창업가’로 진정한 성공을 이루기 위해서는 자신만의 지혜를 키워야 한다는 점을 일깨워주는 책이다. 단편적인 지식에 기반한 창업은 영속성을 보장할 수 없으며 치열한 경쟁 환경에서 생존하기 위한 ‘창업가 에너지’가 필요하다는 점을 강조한다. 한국형 창업 구루 70인의 사례를 통해 진정한 창업가가 갖춰야 할 비즈니스 지혜를 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라북스",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20181228",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "https://blog.naver.com/galabooks",
+                "AUTHOR": "문성철 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7040496_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7040496_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7040496_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "221 p.",
+                "CONTROL_NO": "CIP2018039469",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186518298",
+                "INPUT_DATE": "20181203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "창업력",
+                "PUBLISH_PREDATE": "20190115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

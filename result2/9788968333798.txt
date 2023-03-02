@@ -1,0 +1,78 @@
+{
+    "otitle": "말가짐",
+    "oauthor": "채자영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:18 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "말가짐 (세상에 나로 서는 말하기의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/33039482626",
+                "image": "https://shopping-phinf.pstatic.net/main_3303948/33039482626.20230207165523.jpg",
+                "author": "채자영",
+                "discount": "12150",
+                "publisher": "블랙피쉬",
+                "pubdate": "20220621",
+                "isbn": "9788968333798",
+                "description": "“나다운 삶은 올바른 말하기에서 시작된다.”\n‘공감과 설득의 스토리젠터 채자영’의\n고유한 세계를 만드는 말하기 태도에 대한 사유와 탐구\n\n팬데믹 시대를 지나 엔데믹 단계가 다가오면서 많은 것이 변했던 우리의 일상이 제자리를 찾고 있다. 동시에 비대면ㆍ온라인 소통에 익숙해져 있던 사람들 사이에서 원활한 소통과 대면 활동에 대한 걱정으로 ‘말하기’의 필요성이 대두되는 추세다. \n말하기에 대한 크고 작은 고민을 지닌 이들을 위한 ‘말의 힘’을 이야기하는 책 《말가짐》이 블랙피쉬에서 출간됐다. 이 책은 ‘스토리젠터(Storysenter)’라는 이름으로 다양한 직업을 넘나들며 10년간 말을 다루는 현장에서 일해 온 저자가 탐구한 말의 본질에 대한 이야기다. 저자는 “몸가짐, 마음가짐이란 말이 있듯, 좋은 말하기를 위해서는 말가짐이 필요하다”고 말하며 말을 다루는 기술이 아닌 말을 대하는 태도에 주목한다. 단단한 나를 만드는 말가짐, 일터에서 배우고 깨달은 말가짐, 올바른 관계를 위한 말가짐이란 어떤 것인지 프레젠테이션 및 브랜딩, 말하기 클래스, 강연 등에서 겪은 다양한 경험과 시행착오를 바탕으로 자신만의 철학을 전한다. 말이 곧 삶임을, 그렇기에 삶의 자세를 고민하듯 말가짐을 바로 세우는 것이 말의 본질이자 기본임을 역설한다.\n삶은 결국 진정한 나를 찾는 일이고, 이것은 말하기를 통해 가능하다. 내 말하기는 어떤 모습인지, 나는 잘 말하며 살고 있는지, 어떻게 해야 내 목소리를 제대로 낼 수 있는지 궁금하다면 《말가짐》을 펼 때다. 말에 대한 저자의 깊은 사유와 탐구 속에서 자신의 말하기를 돌아보며 그 답을 찾을 수 있을 것이다."
+            },
+            {
+                "title": "말가짐의 몸매띠 (마중물 성동제 시조집)",
+                "link": "https://search.shopping.naver.com/book/catalog/33435444670",
+                "image": "https://shopping-phinf.pstatic.net/main_3343544/33435444670.20221019140526.jpg",
+                "author": "성동제",
+                "discount": "9000",
+                "publisher": "문학예술사",
+                "pubdate": "20201030",
+                "isbn": "9791190993029",
+                "description": "『말가짐의 몸매띠』는 〈코로나의 위대한 치적〉, 〈뭉언가 해야 할 나이〉, 〈맡가짐의 몸매띠〉, 〈금태사철나무 별을 세는 밤〉, 〈허가 낸 층간 소음〉 등 주옥같은 작품을 만나볼 수 있는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "블랙피쉬 :백도씨",
+                "DDC": "",
+                "UPDATE_DATE": "20220729",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "https://blog.naver.com/100doci",
+                "AUTHOR": "채자영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "137*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "214 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788968333798",
+                "INPUT_DATE": "20220531",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "말가짐",
+                "PUBLISH_PREDATE": "20220621",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

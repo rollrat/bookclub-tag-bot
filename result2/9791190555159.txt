@@ -1,0 +1,67 @@
+{
+    "otitle": "우리에겐 기억할 것이 있다",
+    "oauthor": "박래군 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리에겐 기억할 것이 있다 (인권운동가 박래군의 한국현대사 인권기행)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443142560",
+                "image": "https://shopping-phinf.pstatic.net/main_3244314/32443142560.20230131164036.jpg",
+                "author": "박래군",
+                "discount": "16200",
+                "publisher": "클",
+                "pubdate": "20200518",
+                "isbn": "9791190555159",
+                "description": "대한민국의 현대사는\n인권을 지켜내기 위한 저항의 역사다\n\n이 책은 30여 년간 활동해온 인권운동가가 한국현대사의 역사적 현장들을 직접 찾아 인권의 시각으로 정리해낸 답사기이다. 제주 4·3, 광주 5·18, 세월호 참사의 절절한 현장부터 서대문형무소, 남산과 남영동 고문실 속 고초의 시간을 지나, 소록도와 마석 모란공원에 남겨진 치열한 삶의 흔적까지, 우리가 반드시 기억해야 할 대한민국 인권의 실태를 기록했다. 인권의 현장에서 공통적으로 발견하는 것은 국가가 개인들에게 저지른 폭력과 범죄의 흔적이다. 가해자가 무소불위의 국가 권력이기에 폭력과 범죄는 대규모였고, 더 집요하고 잔인했다. 하지만 그럴 때마다 아들딸, 부모형제의 죽음을 끌어안고 울음을 삼켜야 했던 사람들이 힘겹게 목소리를 내고 몸부림을 쳐왔기 때문에 인권의 현실은 조금씩 개선되어왔다. 이 책에는 그런 과정과 결과를 인권의 렌즈로 보고 담았다.\n\n저자인 인권운동가 박래군은 1988년 광주 학살의 책임자 처벌을 요구하며 분신하여 세상을 떠난 동생 박래전과의 약속을 지키기 위한 일을 하다가 인권운동의 길에 들어섰다. 한국현대사에서 인권의 문제가 드러나는 순간에는 항상 그가 있었고, 지금도 여전히 현장을 지키고 있다. 그러한 활동의 연장으로 이 책의 인세는 인권재단 사람의 기금으로 쓰인다. 인권의 현장들을 직접 둘러보는 장기 프로젝트로 기획된 이 책은 동학혁명 유적지, 남북 분단 현장, 민간인 학살 터, 종교 순교지 등을 둘러보고 2권으로 출간할 예정이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "클",
+                "DDC": "",
+                "UPDATE_DATE": "20200521",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 박래군 ;사진: 한승일",
+                "SERIES_TITLE": "",
+                "KDC": "342.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/04/27/9791190555159.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "284 p.",
+                "CONTROL_NO": "CIP2020017064",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190555159",
+                "INPUT_DATE": "20200424",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우리에겐 기억할 것이 있다",
+                "PUBLISH_PREDATE": "20200518",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

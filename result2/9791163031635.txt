@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 클론 코딩 영화 평점 웹서비스",
+    "oauthor": "니꼴라스,김형태 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 클론 코딩 영화 평점 웹서비스 (노마드 코더 니꼴라스와 만드는 진짜 리액트 앱)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480513199",
+                "image": "https://shopping-phinf.pstatic.net/main_3248051/32480513199.20230131163105.jpg",
+                "author": "니꼴라스",
+                "discount": "14400",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20200519",
+                "isbn": "9791163031635",
+                "description": "‘클론 코딩’만큼 빠르고 효과적인 학습법은 없다!\n\n9살부터 코딩을 시작한 전형적인 ‘천재 코더’ 니꼴라스! 니꼴라스는 세상에서 가장 빠르게 프로그래밍을 배울 수 있는 방법은 클론 코딩이라고 말합니다. 클론 코딩은 페이스북, 인스타그램, 넷플릭스와 같은 실제 서비스를 복제하는 프로그래밍 학습 방법을 말합니다. 클론 코딩은 학습할 때마다 눈앞에 결과물이 바로바로 보이므로 프로그래밍을 빠르고 재미있게 배울 수 있습니다.\n\n이 책은 영화 평점순으로 영화 포스터, 제목, 장르, 시놉시스 등을 보여 주는 ‘영화 평점 웹서비스’를 클론 코딩합니다. 내비게이션, 영화 상세 정보, 리다이렉션 기능과 같이 리액트 입문 단계에서 반드시 알아야 하는 기능을 구현하고 애플리케이션 배포까지 진행합니다. 그야말로 진짜 서비스를 만드는 거죠. 그동안 리액트를 공부하고 싶었는데 이론 공부만 하고 있거나 단순히 리액트가 어렵게 느껴져서 망설이고 있다면 이 책을 통해 진짜 영화 웹서비스를 만들어 보세요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20200605",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "노마드 코더 니꼴라스,김형태 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "248 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163031635",
+                "INPUT_DATE": "20200511",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(세상의 속도르 따라잡고 싶다면 do it) 클론 코딩 영화 평점 웹서비스",
+                "PUBLISH_PREDATE": "20200519",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "굿 라이어",
+    "oauthor": "니컬러스 설 저/이윤진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "굿 라이어",
+                "link": "https://search.shopping.naver.com/book/catalog/32467065755",
+                "image": "https://shopping-phinf.pstatic.net/main_3246706/32467065755.20221229072542.jpg",
+                "author": "니컬러스 설",
+                "discount": "15120",
+                "publisher": "열린책들",
+                "pubdate": "20191130",
+                "isbn": "9788932919942",
+                "description": "노신사와 노부인이 감추고 있는 치명적인 비밀!\n\n영국 정보부 등의 부서에서 공무원으로 25년 동안 일했던 니컬러스 설이 은퇴 후 글쓰기를 시작해 펴낸 데뷔작이자 히트작 『굿 라이어』. 온라인 데이트 사이트를 통해 만난 나이 지긋한 남녀가 감춘 본모습, 그리고 숨겨진 진실을 그리고 있다. 늦깎이 데뷔작이라고는 믿을 수 없을 만큼 탄탄한 구조와 흡입력 있는 이야기로 호평을 받은 이 작품은 명배우 헬렌 미렌, 이언 매켈런 주연으로 영화화되었다.\n\n노신사 로이는 온라인 데이트 사이트에서 부유한 노부인 베티를 만나 친구가 된다. 하지만 로이는 평생 리플리처럼 사람들을 속이며 살아온 사기꾼. 사별했다는 아내도, 호주에서 사업을 한다는 아들 이야기도 모두 거짓말이다. 그는 베티의 재산을 노리고 접근한 것이다. 베티는 로이의 속임수를 전혀 눈치 채지 못한 듯 얼마 지나지 않아 그를 자신의 아름다운 시골집으로 초대하고, 로이는 그곳에 눌러앉아 버린다. \n\n게다가 베티는 자신이 돈을 낼 테니 로이에게 함께 유럽 여행을 떠나자고 제안한다. 베티의 손자 스티븐이 그들의 관계를 불편해하지만 로이는 성공을 확신한다. 온갖 거짓말 뒤에 숨겨진 로이라는 남자는 대체 누구인가? 그리고 베티는 왜 너무나도 쉽게 로이의 희생양이 되어 주는 것일까? 현재와 과거가 교차되며 서서히 진실이 밝혀진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "",
+                "UPDATE_DATE": "20191203",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 니컬러스 설 ;옮긴이: 이윤진",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "535 p.",
+                "CONTROL_NO": "CIP2019042429",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932919942",
+                "INPUT_DATE": "20191022",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "굿 라이어",
+                "PUBLISH_PREDATE": "20191130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "상식적으로 상식을 배우는 법",
+    "oauthor": "제바스티안 클루스만 저/이지윤 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "상식적으로 상식을 배우는 법 (당당한 교양인으로 살기 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486004972",
+                "image": "https://shopping-phinf.pstatic.net/main_3248600/32486004972.20221019152104.jpg",
+                "author": "제바스티안 클루스만",
+                "discount": "13320",
+                "publisher": "한빛비즈",
+                "pubdate": "20220414",
+                "isbn": "9791157845736",
+                "description": "왜, 구글의 시대에 상식을 강조하는가\n\n프라하 창문 투척 사건은 언제 일어났는가? 에베레스트산은 얼마나 높은가? 르완다의 수도는 어디인가? 잠깐, 도대체 내가 왜 이런 단순한 사실들을 알아야 할까? 결국 다 인터넷에 있는데, 언제라도 검색할 수 있는데 말이다. \n실로 우리는 엄지를 조금만 움직이면 필요한 정보를 얻는 세상에 살고 있다. 전 세계인의 지식이 총동원된 위키피디아는 사전 없는 책장을 만들어냈다. 단순한 사실을 두고 왈가왈부하지 않는다. \n그러나 정보의 바다에는 익명성을 바탕으로 마음대로 쓰여진, 옳고 그름의 판별이 이루어지지 않은 부산물도 떠다닌다. 뿐만 아니라 정보이용자는 아무런 문제 의식 없이 원하는 분야의 정보만을 선택적으로 얻기도 한다. 보고 싶은 것만 보고, 듣고 싶은 것만 반복적으로 들으며 편협되고 획일적인 사고에 스스로를 가둔다. 이른바, 인공지능 알고리즘에 의한 필터 버블 효과로 한 집단이 다른 집단과는 만날 수 없는 정보의 평행 사회가 구축되었다. \n때문에 곳곳에서 맹목적이고 한 쪽으로 쏠린 정보 습득을 지양하는, 비판적 수용능력의 중요성을 주장하는 목소리가 커지고 있다. 이 책《상식적으로 상식을 배우는 법》은 상식의 가치를 제고하고 진정한 상식의 주인이 되는 방법을 제시함으로써 목소리를 보태었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20220519",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "제바스티안 클루스만 지음 ;이지윤 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "248 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157845736",
+                "INPUT_DATE": "20220224",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(당당한 교양인으로 살기 위한) 상식적으로 상식을 배우는 법",
+                "PUBLISH_PREDATE": "20220414",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

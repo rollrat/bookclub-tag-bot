@@ -1,0 +1,67 @@
+{
+    "otitle": "만화미학 아는 척하기",
+    "oauthor": "박세현 저/손영오 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "만화미학 아는 척하기 (예술적으로 이해하는 키워드 85)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462211703",
+                "image": "https://shopping-phinf.pstatic.net/main_3246221/32462211703.20221019131630.jpg",
+                "author": "박세현",
+                "discount": "12150",
+                "publisher": "팬덤북스",
+                "pubdate": "20210630",
+                "isbn": "9791161691633",
+                "description": "이 책은 원시 시대 동굴벽화부터 그리스 로마 시대의 가면극, 중세 시대의 판화와 종교화, 근대 시대의 캐리커처와 카툰, 그리고 출판만화를 거쳐서 디지털 미디어 시대에서 웹툰까지, 만화의 역사를 살펴보면서 만화의 다양한 예술성과 미학적 특징을 글과 만화로 풀어냈다. 이런 과정을 통해 만화가 그 어떤 예술보다도 진정한 종합예술임을 설명해준다. \n 그런 점에서 이 책은 그로테스크, 캐리커처, 카툰, 스토리텔링, 캐릭터, 알레고리, 카타르시스, 기호학, 그래픽노블, 병맛, 키치, SFF, BL, 에로티시즘, 더 나아가 트랜스미디어와 웹툰까지 다양한 키워드를 통해서 만화의 예술성을 발견하게 해준다. 이 책은 조금 색다르게 보고, 조금 깊이 있게 읽고, 조금 가볍게 즐길 수 있는 만화에 대한 대중 예술 이론서다. 그동안 쉽게 보고 즐기기만 했던 스낵 컬처인 만화에도 이처럼 예술적 재미와 심오한 이야기가 있구나, 라고 생각하는 계기가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210726",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "박세현 지음 ;손영오 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "197 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161691633",
+                "INPUT_DATE": "20210602",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "만화미학 아는 척하기",
+                "PUBLISH_PREDATE": "20210630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "otitle": "커피플렉스",
+    "oauthor": "박창선,(사)한국식음료외식조리협회 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:49 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "커피플렉스 (현직 커피헌터 프로듀서가 들려주는 커피의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504335906",
+                "image": "https://shopping-phinf.pstatic.net/main_3250433/32504335906.20220527055034.jpg",
+                "author": "박창선",
+                "discount": "29400",
+                "publisher": "백산출판사",
+                "pubdate": "20180420",
+                "isbn": "9791157634750",
+                "description": "『커피플렉스』는 커피의 기초와 커피문화, 커피의 정류, 커피의 생육, 생두의 생산, 로스팅, 추출, 커피메뉴, 커핑, 커피 비즈니스와 관련된 내용을 담고 있습니다."
+            },
+            {
+                "title": "커피플렉스 (현직 커피헌터 프로듀서가 들려주는 커피의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496586264",
+                "image": "https://shopping-phinf.pstatic.net/main_3249658/32496586264.20220527041931.jpg",
+                "author": "박창선",
+                "discount": "0",
+                "publisher": "백산출판사",
+                "pubdate": "20170815",
+                "isbn": "9791157633852",
+                "description": "『커피플렉스』는 커피의 기초와 커피문화, 커피의 정류, 커피의 생육, 생두의 생산, 로스팅, 추출, 커피메뉴, 커핑, 커피 비즈니스와 관련된 내용을 담고 있습니다."
+            },
+            {
+                "title": "커피플렉스 Coffe Plex (현직 커피헌터 프로듀서가 들려주는 커피의 모든 것, 제3판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455455748",
+                "image": "https://shopping-phinf.pstatic.net/main_3245545/32455455748.20221230071504.jpg",
+                "author": "박창선^(사)한국식음료외식조리교육협회",
+                "discount": "27000",
+                "publisher": "백산출판사",
+                "pubdate": "20210225",
+                "isbn": "9791166391392",
+                "description": "이 책을 통하여 커피바리스타의 길로 들어서는 독자들과 소통할 수 있는 장이 열릴 수 있기를 기대한다. 단순히 지식을 전달하고 마는 참고서적이 아니라 언제든 필요시 가장 먼저 꺼내 보는 전문서적이고자 한다. 서가에 꽂혀 있는 책이 아니라 커피전문가의 길로 들어서는 독자들의 손에 가장 가까이 위치하여 이 책을 통해 항상 대화할 수 있기를 바란다. 커피의 완성도를 높이고자 전문성을 가지고 커피를 만들며 이를 향유하는 이들을 가장 가까이에서 응원하고 싶다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "백산출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20180503",
+                "EA_ADD_CODE": "13570",
+                "PUBLISHER_URL": "http://www.ibaeksan.kr",
+                "AUTHOR": "지은이: 박창선",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157634750",
+                "INPUT_DATE": "20180503",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "커피플렉스",
+                "PUBLISH_PREDATE": "20180420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "공간이 고객을 만든다",
+    "oauthor": "김성문,심교언 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공간이 고객을 만든다 (그 거대한 쇼핑몰은 왜 가운데 천장을 뚫어놨을까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486526888",
+                "image": "https://shopping-phinf.pstatic.net/main_3248652/32486526888.20230214162826.jpg",
+                "author": "김성문^심교언",
+                "discount": "18000",
+                "publisher": "무블출판사",
+                "pubdate": "20210120",
+                "isbn": "9791197148958",
+                "description": "타임스퀘어의 뻥 뚫린 중앙, 이케아의 불편한 동선 구조\n이 모든 것이 고객을 머무르게 하려고 계획된 것\n\n서울 영등포에 위치한 타임스퀘어는 천장이 훤히 보이는 보이드(void) 형태로 되어 있다. 파리의 에펠탑처럼 건물의 중심이 될 뿐만 아니라 고객에게 시원한 개방감도 제공한다. 이는 쾌적함을 느끼며 고객이 더 즐겁게 쇼핑할 수 있도록 한다. 반면 이케아는 쇼핑을 시작하면 시작 지점으로 되돌아오기 힘들고, 넓은 매장을 빙 둘러 가야 한다. 그런데 그런 불편한 동선이 고객이 매장에 머무는 시간을 늘려 매출을 끌어올린다.\n\n 모든 모든 공간은 기획된다. 특히 상업시설은 동선, 물건의 위치 같은 눈에 띄는 구성부터 개방감, 불편함, 재미, 향기 같은 비가시적 요소까지도 치밀하게 계획한다. 정교하게 깃든 건축학적, 심리학적 전략들을 복합적으로 만날 수 있는 곳이 바로 상업 공간이다. 대형 쇼핑몰을 비롯해 슈퍼마켓이나 작은 점포도 마찬가지다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "MBL Books(무블출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20210302",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김성문,심교언 지음",
+                "SERIES_TITLE": "",
+                "KDC": "549.61",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*216",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "479 p.",
+                "CONTROL_NO": "CIP2020054943",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197148958",
+                "INPUT_DATE": "20201224",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "공간이 고객을 만든다",
+                "PUBLISH_PREDATE": "20210120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "이 방에서 가장 지혜로운 사람",
+    "oauthor": "토머스 길로비치,리 로스 공저/이경식 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이 방에서 가장 지혜로운 사람 (현명한 판단을 위한 5가지 심리 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442377319",
+                "image": "https://shopping-phinf.pstatic.net/main_3244237/32442377319.20230117165055.jpg",
+                "author": "토머스 길로비치^리 로스",
+                "discount": "13830",
+                "publisher": "한국경제신문",
+                "pubdate": "20180129",
+                "isbn": "9788947543101",
+                "description": "지혜로운 삶을 위한 심리 수업!\n\n우리가 어떻게 지금의 난관을 잘 헤쳐 나갈 수 있을지 조언을 들려주는 『이 방에서 가장 지혜로운 사람』. 사회심리학의 세계적 거장인 두 저자는 심리학이 단지 인간의 행동을 이해하는 데 그치는 게 아니라, 현실적인 걱정거리를 처리하는 데 도움이 되도록 이 책을 펴냈다. 우리의 지혜를 구성하는 5가지 요소에 대해서 밝힌 후, 우리가 일상에서 어떻게 현명한 판단과 선택을 할 수 있는지 그 방법들을 알려준다. \n\n1부에서는 보다 지혜롭고자 하는 사람이라면 반드시 알아야 하는 인간 심리와 행동에 대한 통찰들을 들려준다. 평범한 사람과  지혜로운 사람의 차이를 통해 우리는 지혜를 구성하는 속성들에 대해 배울 수 있다. 2부는 앞에서 배운 지혜의 원리들을 현실적인 중요한 쟁점들을 풀어야 하는 순간에 어떻게 적용할지에 대한 구체적인 지침들을 들려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문",
+                "DDC": "",
+                "UPDATE_DATE": "20180206",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "토머스 길로비치,리 로스 지음 ;이경식 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947543101",
+                "INPUT_DATE": "20180206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "이 방에서 가장 지혜로운 사람",
+                "PUBLISH_PREDATE": "20180129",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

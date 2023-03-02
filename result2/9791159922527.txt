@@ -1,0 +1,67 @@
+{
+    "otitle": "저항의 멜랑콜리",
+    "oauthor": "크러스너호르커이 라슬로 저/구소영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "저항의 멜랑콜리",
+                "link": "https://search.shopping.naver.com/book/catalog/32492771163",
+                "image": "https://shopping-phinf.pstatic.net/main_3249277/32492771163.20221019131953.jpg",
+                "author": "크러스너호르커이 라슬로",
+                "discount": "16830",
+                "publisher": "알마",
+                "pubdate": "20190513",
+                "isbn": "9791159922527",
+                "description": "헝가리 현대문학의 거장이 한층 장대한 차원으로 끌어올린 묵시화!\n\nBBC가 선정한 2000년 이후 100대 영화 중 하나로 선정된 벨라 타르 감독의 영화 《베르크마이스터 하모니(Werckmeister Harmonies)》의 원작 소설 『저항의 멜랑콜리』. 데뷔작 《사탄탱고》에서 체제에 유린당한 사람들이 고통의 쳇바퀴에 포박되는 과정을 탱고의 스텝-앞으로 여섯 스텝, 뒤로 여섯 스텝-이라는 형식으로 구현했던 크러스너호르커이 라슬로의 이번 소설은 헝가리의 어느 작은 마을에 유랑 서커스단이 세상에서 가장 큰 고래를 보여준다며 들어서며 온갖 소문과 편집증이 난무하며 벌어지는 상황을 그려냈다. \n\n살을 에는 추위가 계속되고 가로등은 이유 없이 켜지지 않으며 거대한 나무가 하루아침에 뿌리째 뽑혀 드러눕더니 수십 년간 멈춰 있던 교회 시계가 움직이기 시작하고, 때마침 한 유랑 서커스단이 도시에 들어선다. 한눈에 들어오지도 않는 어마어마한 거수(巨獸)는 구약성서 욥기에 나오는 바다 괴물 ‘리바이어던’과 포개지고, 동시에 고래를 운반하는 불길한 트럭은 사실상 마을에 어떤 직접적인 해도 입히지 않고 그저 광장 한가운데 조용히 세워져 있는 것만으로 마을 전체를 광기로 몰아간다는 점에서 트로이 목마가 함의하는 방대한 예술적 상상력을 불러일으킨다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Alma(알마)",
+                "DDC": "",
+                "UPDATE_DATE": "20190520",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 크러스너호르커이 라슬로 ;옮긴이: 구소영",
+                "SERIES_TITLE": "",
+                "KDC": "839.61",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18700",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*213",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "533 p.",
+                "CONTROL_NO": "CIP2019015867",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159922527",
+                "INPUT_DATE": "20190422",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "저항의 멜랑콜리",
+                "PUBLISH_PREDATE": "20190513",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

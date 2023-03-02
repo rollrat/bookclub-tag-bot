@@ -1,0 +1,67 @@
+{
+    "otitle": "우리 아이 공부습관 엄마가 전부다",
+    "oauthor": "이영옥 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리 아이 공부습관 엄마가 전부다",
+                "link": "https://search.shopping.naver.com/book/catalog/32485411685",
+                "image": "https://shopping-phinf.pstatic.net/main_3248541/32485411685.20221228074524.jpg",
+                "author": "이영옥",
+                "discount": "13050",
+                "publisher": "42미디어콘텐츠",
+                "pubdate": "20190325",
+                "isbn": "9791189620196",
+                "description": "아이에게 엄마는 ‘세상’이다. 엄마에게 인정을 받은 아이는 세상에서도 충분히 인정 받으며 제 몫을 다 할 수 있다. 자신감과 자존감을 키워주는 것 또한 엄마의 중요한 역할이다. 부모나 아이 모두 독립해 자신의 몫을 잘 감당하며 살아가야 한다. 누구에게 의지하기보다 주도적인 삶을 살아야 하는데, 그러려면 준비된 자가 되어야 한다.\n\n\n\n아이도 부모도 준비되어지는 과정이 바로 공부습관 기르기다. 저자가 이 책에서 독자에게 제시하고 싶은 것이 바로 이것이다. 어렸을 때 공부습관을 엄마가 잡아주고 주도적으로 공부습관을 가지게 한 후, 아이 스스로 자신의 미래를 개척해 나가도록 하는 것.\n\n\n\n저자는 어렸을 때 엄마주도로 해서 아이들이 시간을 관리하는 습관을 길러주라고 강조한다. 일정량의 정적활동, 책 읽기, 공부하기 등을 하고 난 후 자유롭게 놀이하는 습관을 통해 자기주도학습의 초석을 마련해야 한다. 놀이를 통해 사회성을 기르면 자연스레 몸과 마음이 건강해진다. 놀이의 즐거움은 본능이므로 충분히 논 아이는 집중해서 공부할 수 있는 힘이 생겨난다. \n\n\n\n또한 어린 시절에 아이의 흥미를 고려해 평생 함께할 수 있는 취미를 가질 수 있도록 지속적인 인내력을 길러주어야 한다. 초등학교 고학년부터는 자신이 진짜 원하는 것만 배울 수 있도록 하고 그 전에는 엄마주도로 다양한 것을 배워볼 수 있게 하는 것이 좋다. 삶의 위로와 기쁨을 누릴 수 있는 음악, 미술, 운동 등의 취미생활을 어린 시절부터 길러 주면 좋다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "42 Media Contents(42미디어콘텐츠)",
+                "DDC": "",
+                "UPDATE_DATE": "20190402",
+                "EA_ADD_CODE": "13370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이영옥 지음",
+                "SERIES_TITLE": "",
+                "KDC": "373.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/05/9791189620196.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "CIP2019008430",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189620196",
+                "INPUT_DATE": "20190305",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우리 아이 공부습관 엄마가 전부다",
+                "PUBLISH_PREDATE": "20190325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

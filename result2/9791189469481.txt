@@ -1,0 +1,67 @@
+{
+    "otitle": "부칠 짐은 없습니다",
+    "oauthor": "주오일여행자 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "부칠 짐은 없습니다 (스무 가지 물건만 가지고 떠난 미니멀 여행기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436151351",
+                "image": "https://shopping-phinf.pstatic.net/main_3243615/32436151351.20221227204112.jpg",
+                "author": "주오일여행자",
+                "discount": "12600",
+                "publisher": "꿈의지도",
+                "pubdate": "20190708",
+                "isbn": "9791189469481",
+                "description": "저자는 진정한 여행이란 커다란 배낭을 메고 떠나는 것이라고 믿었다. 그러나 불필요한 짐을 정리하고 자유로워지기 위해 떠나온 여행이었는데, 배낭 안에는 온갖 잡동사니로 가득했다. 여행 전과 똑같은 삶을 살고 있었던 것이다. 배낭 없이 떠나는 배낭여행은 ‘이 모든 것이 여행에 필요한가?’라는 의문에서 시작되었다. 저자는 몇 개월 뒤에 혹시나 필요할지 모를 불필요한 잡동사니를 버리고 ‘오늘 하루’ 필요한 최소한의 물건, 2kg 정도의 짐만 추려 산책하듯 미니멀 여행을 떠났다.\n\n\n\n짐이 없으니 유럽 여행의 소매치기로부터 커다란 트렁크를 지켜내기 위해 전전긍긍하지 않아도 되고, 최대한 침대에서 미적거리다 일어나 1분 안에 짐을 싸서 어디든 떠날 수 있었다. 또한 공항 카운터에서 짐을 부치기 위해 긴 줄을 서지 않아도 되고, ‘짐 찾는 곳’을 가뿐히 생략할 수도 있었다. 짐을 싸고 푸는 시간이 사라지니 새로운 일상을 도모할 만큼의 틈이 생겼고, 여행이 보다 풍성해졌다. \n\n\n\n짐이 없다 보니 물건을 소유하고 소비하는 방식에도 변화가 생겼다. 때마다 물건을 사지 않았고, 필요한 물건은 빌려 사용했으므로 필요한 모든 것을 소유할 필요가 없었다. 무엇보다 매일 같은 옷을 입고 다니며 타인의 시선에서 자유로워졌다. 가질 수 없는 것을 탐하느라 소중한 지금을 낭비하지 않고, 미래의 불행보다 오늘의 여행에 집중할 수 있었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20190919",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "지은이: 주오일여행자",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "314 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189469481",
+                "INPUT_DATE": "20190620",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "부칠 짐은 없습니다",
+                "PUBLISH_PREDATE": "20190708",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

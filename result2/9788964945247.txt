@@ -1,0 +1,67 @@
+{
+    "otitle": "이런 수학이라면 포기하지 않을 텐데",
+    "oauthor": "신인선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이런 수학이라면 포기하지 않을 텐데 (문제가 쉽게 풀리는 짜릿한 수학 강의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441654397",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441654397.20221019101704.jpg",
+                "author": "신인선",
+                "discount": "14220",
+                "publisher": "보누스",
+                "pubdate": "20211105",
+                "isbn": "9788964945247",
+                "description": "이 책에는 겁먹을 만큼 어렵고 딱딱한 개념이 하나도 나오지 않는다. 쉴 틈 없이 정답과 공식을 제시해 여러분이 마음껏 생각할 기회를 뺏지도 않는다. 쉽게 풀어 설명한 수학의 개념과 원리를 재미있게 익히며 스스로 “이건 왜 이렇게 될까?”라는 질문을 던지고, 흥미진진한 퍼즐 같은 문제들을 풀며 자유롭게 해답을 찾아보자. 난생처음 수학을 ‘즐기는’ 자신을 발견할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보누스",
+                "DDC": "",
+                "UPDATE_DATE": "20211112",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "신인선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964945247",
+                "INPUT_DATE": "20211013",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "이런 수학이라면 포기하지 않을 텐데",
+                "PUBLISH_PREDATE": "20211105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

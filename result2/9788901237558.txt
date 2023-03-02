@@ -1,0 +1,67 @@
+{
+    "otitle": "지금 바로 써먹는 심리학",
+    "oauthor": "리처드 와이즈먼 저/박세연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금 바로 써먹는 심리학 (실험실을 나온 괴짜 교수의 기발한 심리학 뒤집기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485523036",
+                "image": "https://shopping-phinf.pstatic.net/main_3248552/32485523036.20221019142429.jpg",
+                "author": "리처드 와이즈먼",
+                "discount": "14400",
+                "publisher": "웅진지식하우스",
+                "pubdate": "20191212",
+                "isbn": "9788901237558",
+                "description": "심리학 지식으로 삶을 변화시키다!\n\n다양한 과학적 방법을 활용해 심리학에 대한, 그리고 일상의 행동에 대한 선입견을 뒤집는 『지금 바로 써먹는 심리학』. 《괴짜 심리학》의 저자인 심리학자 리처드 와이즈먼이 일상의 여러 문제를 해결하기 위해 자기계발서나 멘토의 도움을 받지만 번번이 실패하는 이들을 위해서 이번에는 행동에 주목했다. \n\n결심이나 동기부여보다 강력한 진짜 변화의 열쇠를 찾기 위해 몇 년에 걸쳐 일반인 200만 명과 함께 다양한 심리 실험을 진행한 저자는 거창하고 추상적인 결심보다는 아주 작을지언정 구체적인 행동 하나가 삶을 바꾸는 데 더욱 효과적이라는 결과를 얻게 되었다. 즉, 사소한 1%의 행동이 결과의 99%를 좌우한다는 것이다. \n\n저자는 이 책에서 쉽고 흥미로운 단 하나의 심리학 원칙을 적용해 좀처럼 고칠 수 없는 나쁜 습관, 늘 실패하기만 하는 연애, 치유되지 않는 마음의 병 등 삶의 다양한 문제를 해결하고 원하는 결과를 불러오는 쉽고 간단한 행동 전략을 들려준다. 밀치고, 당기고, 주먹을 쥐고, 고개를 끄덕거리는 작은 행동만으로도 인생을 바꿀 수 있음을 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웅진지식하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20200204",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "리처드 와이즈먼 지음 ;박세연 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "189",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/18/9788901237558.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "333 p.",
+                "CONTROL_NO": "CIP2019041617",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788901237558",
+                "INPUT_DATE": "20191018",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "지금 바로 써먹는 심리학",
+                "PUBLISH_PREDATE": "20191212",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

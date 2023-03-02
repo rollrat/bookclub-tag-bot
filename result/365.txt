@@ -1,0 +1,23 @@
+{
+    "otitle": "AFTER 애프터 1",
+    "oauthor": "안나 토드 저/강효준 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "After Effects CS6 & CC (애프터이펙트 튜토리얼 컬렉션 1)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492164655",
+                "image": "https://shopping-phinf.pstatic.net/main_3249216/32492164655.20220524184827.jpg",
+                "author": "이용태",
+                "discount": "0",
+                "publisher": "에프원북스",
+                "pubdate": "20131030",
+                "isbn": "9788993624137",
+                "description": "『After Effects CS6 & CC』은 기본 지식을 익힌 사람을 위해 예제로 구성되어 기본 지식을 쌓은 후 더욱 이해가 빠르게 진도를 전개 할 수 있도록 하였다. 또한 튜토리얼을 따라 학습하다 보면 이펙트에서 즐겨 사용되는 주요 기능을 사용하게 되며 기능을 자연스럽게 익힐 수 있게 될 것이다."
+            }
+        ]
+    }
+}

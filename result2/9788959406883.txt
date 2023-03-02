@@ -1,0 +1,67 @@
+{
+    "otitle": "아주 특별한 해부학 수업",
+    "oauthor": "허한전 저/리추이칭 편/김성일 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아주 특별한 해부학 수업 (몸을 기증한 사람들과 몸을 해부하는 사람들의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504262765",
+                "image": "https://shopping-phinf.pstatic.net/main_3250426/32504262765.20221228071905.jpg",
+                "author": "허한전",
+                "discount": "14400",
+                "publisher": "시대의창",
+                "pubdate": "20190220",
+                "isbn": "9788959406883",
+                "description": "해부대 위에 말없이 누운 시신 스승에게서 배운 큰 사랑과 희생의 가르침!\n\n몸을 기증한 사람들과 몸을 해부하는 사람들의 특별한 이야기 『아주 특별한 해부학 수업』. 전 세계에 의과대학 해부학 교실은 많지만, 타이완 츠지 의대의 해부학 교실은 매우 특별하다. 단순히 해부학 지식을 전달받는 게 아니라 사람에 대한 존중을 바탕으로 생명을 이해할 수 있도록 배우고 있기 때문이다. 저자 허한전 교수는 이 특별한 수업을 고스란히 책에 담아냈다. \n\n타이완 츠지 대학교 의과대학의 해부학 수업이 특별하기로 소문이 난데에는 이유가 있다. 학교는 엄격한 기준을 세워 시신 기증 절차를 관리하고 교수와 학생들은 시신 앞에서 예와 정성을 다해 수업에 임한다. 기증된 순간부터 보관, 해부를 거쳐 다시 봉합되어 화장되기까지 ‘시신 스승’은 학생들에게 지식과 사랑을 전수한다. 이 스승들을 통해 죽음이 아니라 사랑이 삶의 종착역임을 학생들은 깨닫는다. \n\n해부 순서에 따라 열 번의 수업으로 구성된 이 책은 곳곳에 흥미로운 이야기를 담고 있다. 간이식 수술을 받아야 하는 아버지에게 네 아들이 서로 간을 주겠다고 해 결국 제비뽑기를 했다는 훈훈한 이야기, 술에 취한 사이 콩팥을 적출당했다는 미국의 어느 대학생이 겪은 끔찍한 이야기, 그런가 하면 출산한 뒤 자신의 태반을 포르말린으로 보존 처리해 실험에 사용한 저자의 이야기까지 해부학 수업이 진행되는 동안 수업 내용에 따라 자연스럽게 등장하는 이야기들을 통해 우리 마음을 때론 감동적으로, 때론 재미있게, 때론 가슴 아프게 봉합한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시대의창",
+                "DDC": "611",
+                "UPDATE_DATE": "20190220",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "허한전 지음 ;김성일 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "511.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7119239_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "264 p.",
+                "CONTROL_NO": "CIP2019002022",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959406883",
+                "INPUT_DATE": "20190117",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "아주 특별한 해부학 수업",
+                "PUBLISH_PREDATE": "20190220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

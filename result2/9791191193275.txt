@@ -1,0 +1,67 @@
+{
+    "otitle": "베르티아",
+    "oauthor": "해도연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "베르티아 (해도연 연작소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457904711",
+                "image": "https://shopping-phinf.pstatic.net/main_3245790/32457904711.20221019105933.jpg",
+                "author": "해도연",
+                "discount": "11700",
+                "publisher": "안전가옥",
+                "pubdate": "20211119",
+                "isbn": "9791191193275",
+                "description": "지구에서 우주를 바라보는 우리가, 우주에서 지구를 바라볼 수 있다면? \n몸에 갇혀서 사고하는 내가, 몸을 떠나서 여전히 나일 수 있다면?\n\n《베르티아》는 본질적이므로 유구한 인간 존재에 관한 질문을 지구와 우주를 넘어선 관점으로 탐구하는 존재론적 소설이다. 이 소설집에 속한 세 가지 이야기, 즉 〈바람메뚜기는 왕이 없는 세상을 꿈꾼다〉와 〈달이 외로움을 잊게 해 줄 거야〉, 〈눈부신 빛을 손끝으로 느끼며〉는 시공을 달리하지만, 이 본질적인 문제의식만은 철저하게 공유한다. \n갑자기 접속이 끊어진 달 기지의 내막을 조사하러 나선 경물 조사관 ‘진서’. 500년간의 우주 탐사를 마치고 지구로의 귀환을 앞둔 베르티아의 항해사 ‘아지사이’. 인류가 유일한 생명체라는 사실을 납득하기 위해 육체에서 벗어나는 개척자 ‘플라스틱’. 이 세 명의 페르소나를 통해 과거와 현재, 너와 나의 경계를 초월하는 무지막지할 정도의 스케일을 펼치는 《베르티아》에서 눈을 뗄 수 없는 것은, 우주를 공부하고 우주를 업으로 삼은 연구자의 설득력 덕분임은 물론, 그 섬세한 연구 기반이 보호하고 있는 것이 바로 우리 인간의 감수성과 탐구심인 까닭이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "안전가옥",
+                "DDC": "",
+                "UPDATE_DATE": "20211228",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 해도연",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191193275",
+                "INPUT_DATE": "20211026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "베르티아",
+                "PUBLISH_PREDATE": "20211119",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

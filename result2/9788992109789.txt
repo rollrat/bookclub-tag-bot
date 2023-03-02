@@ -1,0 +1,78 @@
+{
+    "otitle": "처음 만드는 액세서리",
+    "oauthor": "윤혜영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:34 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "처음 만드는 액세서리 A to Z (my first handmade accessory A to Z)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496663760",
+                "image": "https://shopping-phinf.pstatic.net/main_3249666/32496663760.20220527032930.jpg",
+                "author": "윤혜영",
+                "discount": "0",
+                "publisher": "즐거운상상",
+                "pubdate": "20110707",
+                "isbn": "9788992109789",
+                "description": "세상에 하나뿐인 나만의 액세사리!\n\n소소한 즐거움이 있는 핸드메이드『처음 만드는 액세서리』. 액세서리를 처음 만들어 보는 초보자를 위한 쉽고 자세하며 친절한 책이다. 액세서리를 만드는 데 필요한 도구와 재료를 하나씩 설명하고, 기본 부자재와 원석 역시 사진으로 자세히 설명했다. T핀과 볼핀 사용법, 볼팁을 마무리하는 법, 9핀 사용법, 와이어말이 기법 등의 기본 테크닉은 물론 체인 자르는 법, 펀칭 펜치 사용법, 링 귀걸이로 반지 틀 만들기 등 유용한 내용들을 꼼꼼하게 담았다. 이 책을 통해 쉽게 만드는 핸드메이트 액세서리 37가지를 만나본다."
+            },
+            {
+                "title": "키즈 악세사리 74(Kids Accessory 74) (엄마가 처음 만드는 아이 액세서리 74)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493331036",
+                "image": "https://shopping-phinf.pstatic.net/main_3249333/32493331036.20221229074324.jpg",
+                "author": "김옥현",
+                "discount": "12870",
+                "publisher": "수작걸다",
+                "pubdate": "20120503",
+                "isbn": "9788996508472",
+                "description": "아직 아이가 없는 데다 심지어 결혼도 하지 않은 싱글이 제안하는 &lt;키즈 액세서리 가이드북&gt;이다. 어릴 적부터 유난히 손으로 만들고 선물하기를 즐겼다는 저자는 첫 조카를 위한 선물을 준비하다 아예 키즈 액세서리 DIY 세계에 빠져들었다. \n\n\n\n책에 소개된 74가지의 키즈 액세서리 모두 만들기에 어렵지 않아 더욱 반갑다. 아무리 손재주가 없다 해도 두려움 없이 시작할 수 있을 만큼 손쉬운 과정으로 완성되는 작품들이다. 보는 즐거움, 만드는 기쁨이 가득한 내 아이를 위한 엄마의 특별 선물로 부족함이 없을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "즐거운상상",
+                "DDC": "",
+                "UPDATE_DATE": "20110804",
+                "EA_ADD_CODE": "14630",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 윤혜영",
+                "SERIES_TITLE": "소소한 즐거움이 있는 핸드메이드 시리즈 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788992109697",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "08",
+                "EA_ISBN": "9788992109789",
+                "INPUT_DATE": "20110617",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "처음 만드는 액세서리 ",
+                "PUBLISH_PREDATE": "20110707",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14630 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

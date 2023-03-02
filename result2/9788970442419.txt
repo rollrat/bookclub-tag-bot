@@ -1,0 +1,67 @@
+{
+    "otitle": "21세기 첨단 레이저기술",
+    "oauthor": "일본레이저학회 저/강영광 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "21세기 첨단 레이저기술",
+                "link": "https://search.shopping.naver.com/book/catalog/32493618232",
+                "image": "https://shopping-phinf.pstatic.net/main_3249361/32493618232.20221230072103.jpg",
+                "author": "일본레이저학회",
+                "discount": "16200",
+                "publisher": "전파과학사",
+                "pubdate": "20041225",
+                "isbn": "9788970442419",
+                "description": "이 책은 21세기의 핵심기술인 IT(정보기술), BT(생물기술), NT(나노기술), ST(우주기술), ET(환경/에너지 기술), MT(의료/군사 기술)을 지탱하는 광기술 중에서 특히 레이저 기술의 다양한 응용들을 조망하면서 일본에서 활발한 연구활동을 하고 있는 각 계의 전문가들이 집필한 해설집입니다. 전체적으로 전문가나 일반인 모두 알기 쉽게 쓰여져 있으며 때론 깊이 있는 내용을 다루기도 합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "일본 레이저 학회 편;강영광 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "1",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970442413",
+                "INPUT_DATE": "20041222",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "21세기 첨단 레이저 기술",
+                "PUBLISH_PREDATE": "20041225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

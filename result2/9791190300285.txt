@@ -1,0 +1,67 @@
+{
+    "otitle": "도토리 팬티",
+    "oauthor": "다카하시 노조미 글그림/이루리 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도토리 팬티",
+                "link": "https://search.shopping.naver.com/book/catalog/32467530894",
+                "image": "https://shopping-phinf.pstatic.net/main_3246753/32467530894.20221019145957.jpg",
+                "author": "다카하시 노조미",
+                "discount": "10800",
+                "publisher": "북극곰",
+                "pubdate": "20190910",
+                "isbn": "9791190300285",
+                "description": "기발한 상상과 따뜻한 나눔을 그린 그림책 『도토리 팬티』. 청설모가 실을 사서 집으로 돌아옵니다. 빨강 실, 파랑 실, 노랑 실 등 색색의 실을 가지고 뭘 만들지 행복한 고민에 빠져 있습니다. 그런데 청설모가 집으로 들어가려는 순간! 어디선가 우는 소리가 들려옵니다. 아기 도토리입니다! 아기 도토리가 팬티를 잃어버려서 울고 있습니다. 청설모는 곧바로 도토리를 위해 팬티를 짜기 시작합니다. 청설모는 도토리를 위해 어떤 팬티를 만들었을까요? 그런데 청설모가 아기 도토리에게 팬티를 만들어주고 나니 더욱 엄청난 일이 벌어집니다! 도대체 청설모 앞에는 어떤 엄청난 일이 벌어질까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20190926",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "다카하시 노조미 글 ;이루리 옮김",
+                "SERIES_TITLE": "북극곰 꿈나무 그림책",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/09/9791190300285.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "174*249",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[30] p.",
+                "CONTROL_NO": "CIP2019031455",
+                "SERIES_NO": "58",
+                "EA_ISBN": "9791190300285",
+                "INPUT_DATE": "20190809",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "도토리 팬티",
+                "PUBLISH_PREDATE": "20190910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

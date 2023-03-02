@@ -1,0 +1,67 @@
+{
+    "otitle": "암은 차를 싫어해",
+    "oauthor": "마리아 유스펜스키 저/강동혁 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "암은 차를 싫어해 (오는 암 물리치고, 왔던 암 몰아내기 차와 함께하는 상쾌한 라이프스타일)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506906746",
+                "image": "https://shopping-phinf.pstatic.net/main_3250690/32506906746.20221229073221.jpg",
+                "author": "마리아 유스펜스키",
+                "discount": "16200",
+                "publisher": "들녘",
+                "pubdate": "20180315",
+                "isbn": "9791159252648",
+                "description": "암은 개인의 노력으로 예방 가능한 질병이라고 말한다. 암이 애초에 오지도 못하게 하거나, 왔던 암이 다시 오지 못하게 막고 싶은 모든 사람들을 위해 유방암 생존자인 저자가 ‘하루에 다섯 잔, 차와 함께하는 라이프스타일’을 안내한다. 저자는 암이 시작되고 자라나는 과정을 설명하고 왜 하루에 다섯 잔, 약 1.2리터의 차를 마시면 암 예방에 도움이 되는지를 근거를 들어 설명한다. \n\n\n\n차는 전 세계적으로 물 다음으로 사람들이 가장 많이 마시는 음료이지만, 우리는 사실 차에 대해 잘 모른다. 아마 많은 사람들은 백차, 녹차, 우롱차, 홍차, 보이차가 하나의 식물, 즉 카멜리아 시넨시스Camellia sinensis의 잎으로 만들어진 것이라는 것만 들어도 놀랄지 모른다. 차에 들어 있는 폴리페놀 항산화물질의 놀라운 효능에 대해서도 마찬가지다. 하지만 차가 만능 영약은 아니다. ‘건강한 식단, 운동, 명상을 통한 스트레스 관리’ 또한 암이 제일 싫어하는 생활 습관이다.\n\n\n\n유방암 진단을 받아 어린 딸들과 이별해야 할지도 모를 고비를 넘기고 난 후, 저자 마리아 유스펜스키는 다시는 그런 고통을 겪지 않도록, 목숨을 걸고 암을 물리치는 투사가 되었다. 일단 암과 관련한 연구논문을 섭렵하기 시작한 저자가 발견한 가장 쉬운 방법은 하루에 (티백이 아니라) 찻잎을 통째로 우린 차를 다섯 잔(1~1.2리터) 마시는 것이었다. 특히 녹차의 효능에 대해서는 많이 알려져 있지만, 녹차를 한번 즐겨보려 해도 평소에 차를 즐기지 않던 사람이라면 앞이 깜깜하기 마련이다. 이 책을 읽고 나면 무엇보다 맛없는 차를 약처럼 마셔야 하는 부담감을 어느 정도 떨쳐버릴 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "616.994",
+                "UPDATE_DATE": "20180405",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "마리아 우스펜스키 지음 ;강동혁 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "513.994",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6573934_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*214",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "CIP2018006776",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159252648",
+                "INPUT_DATE": "20180227",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "암은 차를 싫어해",
+                "PUBLISH_PREDATE": "20180315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

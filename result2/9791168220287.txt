@@ -1,0 +1,67 @@
+{
+    "otitle": "더 솥밥",
+    "oauthor": "이민주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "더 솥밥",
+                "link": "https://search.shopping.naver.com/book/catalog/32436279278",
+                "image": "https://shopping-phinf.pstatic.net/main_3243627/32436279278.20230218110827.jpg",
+                "author": "이민주",
+                "discount": "15990",
+                "publisher": "서사원",
+                "pubdate": "20220103",
+                "isbn": "9791168220287",
+                "description": "셀럽들이 모이는 프라이빗 푸드 클래스\n어연의 주인 ‘마셰프’가 알려 주는\n나와 가족을 위한 솥밥 한 상 차림\n\n프라이빗 푸드 클래스로 유명한 ‘어연’은 ‘임금이 머무는 자리’라는 뜻이다. 어연의 주인인 마셰프는 이곳을 찾는 모든 사람에게 수라상 같은 음식을 드리겠다는 마음으로 클래스를 운영하고 있다. 어연과 인스타그램을 통해서 보여지는 마셰프의 요리 애정은 누구보다 못지않게 크고 단단하다. 입으로 들어가는 건 깨끗하고 건강해야 한다며 꼼꼼하게 식자재를 고르고 정성 가득한 손길로 지은 밥상을 보면 한국인에게 끼니가 어떤 의미인지, 밥심이란 무엇인지 다시금 생각해 볼 기회가 된다. \n이 책에는 마셰프가 강조하는 나와 가족을 위해 차리는 밥상의 의미를 지키면서, 보기만 해도 속이 편안해질 만큼 정갈한 ‘매일 먹을 수 있는 솥밥 한 상 차림’을 담았다. 한 장 한 장 책 속에 숨어 있는 쌀을 가장 맛있게 먹을 수 있는 길을 따라서 한 그릇 요리를 만들어 보자. \n요리를 못할지라도, 그간 숱하게 솥밥에 실패했을지라도 걱정하지 말자. 『더 솥밥』은 초보자도 쉽게 솥밥을 만들어 먹을 수 있도록 난이도를 낮추고 조리 과정 수를 줄여 간단명료하게 레시피를 만들었다. \nPART 1에 담긴 쌀, 콩, 구황 작물을 활용한 기본 솥밥을 지어 보면 PART 2와 3의 나물, 육류, 해산물 등의 식재료를 활용하는 화려한 솥밥 레시피도 쉽게 다가갈 수 있다. \n또한 솥밥과 맛궁합이 좋은 국/찌개, 반찬/장아찌 레시피도 소개하니 나와 가족을 위한 소박한 한 상 차림을 만들거나 국이나 반찬만 따로 만들어서 상에 올려 보자. \n부디 이 책을 통해 솥으로 밥을 짓다 설익히거나 태웠던 기억은 지우고 마셰프와 함께 맛있고 즐거운 요리 세계로 흠뻑 빠지길 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "서사원",
+                "DDC": "",
+                "UPDATE_DATE": "20220208",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "https://blog.naver.com/seosawon",
+                "AUTHOR": "이민주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168220287",
+                "INPUT_DATE": "20211128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "더 솥밥",
+                "PUBLISH_PREDATE": "20220103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "월급쟁이들은 경매가 답이다",
+    "oauthor": "박갑현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "월급쟁이들은 경매가 답이다 (천만 원으로 시작해서 연금처럼 월급받는 투자 노하우)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455603733",
+                "image": "https://shopping-phinf.pstatic.net/main_3245560/32455603733.20221019114424.jpg",
+                "author": "박갑현",
+                "discount": "13050",
+                "publisher": "북오션",
+                "pubdate": "20171124",
+                "isbn": "9788967993405",
+                "description": "『월급쟁이들은 경매가 답이다』는 경매용어에서부터 절차, 체크포인트, 130개의 Q&A, 경매현장(주택, 업무용 부동산, 상가), 다양한 사례까지 꼼꼼히 짚어주는 2중, 3중의 경매 교과서로서 저자는 경매에 처음 도전하는 직장인의 눈높이에서 부동산 경매의 모든 것을 알기 쉽게 풀어낸다. 일상생활에서 부동산에 대한 감각을 기를 수 있는 방법에서부터 경매용어와 절차를 이해하기 쉽게 설명하며 각 과정에서 꼭 알아야 할 중요사항들을 짚어준다. 경매 종목 또한 주택, 업무용 부동산, 상가로 분류하여 각 종목별 장단점, ‘주택임대차보호법’, ‘상가건물임대차보호법’에서 경매와 관련되어 파악하고 있어야 할 사항 또한 꼼꼼하게 짚어준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북오션",
+                "DDC": "332.6324",
+                "UPDATE_DATE": "20171121",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박갑현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.87",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6397719_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6397719_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "264 p.",
+                "CONTROL_NO": "CIP2017027160",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788967993405",
+                "INPUT_DATE": "20171019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "월급쟁이들은 경매가 답이다",
+                "PUBLISH_PREDATE": "20171124",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

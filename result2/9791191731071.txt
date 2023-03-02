@@ -1,0 +1,67 @@
+{
+    "otitle": "빵으로 읽는 세계사",
+    "oauthor": "이영숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빵으로 읽는 세계사 (10가지 빵 속에 담긴 인류 역사 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440948638",
+                "image": "https://shopping-phinf.pstatic.net/main_3244094/32440948638.20230214163601.jpg",
+                "author": "이영숙",
+                "discount": "13830",
+                "publisher": "스몰빅인사이트",
+                "pubdate": "20211011",
+                "isbn": "9791191731071",
+                "description": "“인류 역사의 결정적 장면을 빵을 통해 읽는다!”\n\n인류의 역사는 빵과 함께한 역사다. 인간은 빵을 얻기 위해 끊임없이 노력하며 문명을 발전시켜 왔기 때문이다. 이는 인류 최초의 문명이 태동한 메소포타미아 지역만 살펴봐도 알 수 있다. 최초로 농경을 시작한 수메르인들은 밀을 재배하여 납작빵을 만들었고, 그 결과 인구가 늘어나고 도시가 형성되면서 법률과 제도, 문화가 발전했다.\n이 책은 우리 삶에 깊이 관여하고 있는 빵에 관한 이야기를 통해 인류 역사의 변천을 살펴보는 내용을 담고 있다. 하지만 나열된 역사적 사건을 퍼즐 맞추듯 이해해야 하는 다른 역사서들과는 완전히 다르다. 대중적이면서도 역사적으로 의미 있는 10가지 빵이 만들어지고 세상에 퍼지는 과정을 살펴보면서 그와 연결된 역사와 문화를 자연스럽게 이해할 수 있도록 구성했다. 이 책에 언급된 10가지 빵 이야기를 읽어나가다 보면 지루하고 딱딱하게만 느껴졌던 세계사에 대한 편견을 버리고 흥미진진한 세계사의 매력에 흠뻑 빠질 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "스몰빅미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211019",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "www.smallbigmedia.com",
+                "AUTHOR": "이영숙 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/09/02/9791191731071.JPG",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191731071",
+                "INPUT_DATE": "20210902",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "빵으로 읽는 세계사",
+                "PUBLISH_PREDATE": "20211011",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

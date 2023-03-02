@@ -1,0 +1,67 @@
+{
+    "otitle": "엮이면 피곤해지는 사람들",
+    "oauthor": "에노모토 히로아키 저/이지현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엮이면 피곤해지는 사람들 (살면서 꼭 한 번은 만난다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454059634",
+                "image": "https://shopping-phinf.pstatic.net/main_3245405/32454059634.20221019105749.jpg",
+                "author": "에노모토 히로아키",
+                "discount": "12600",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20210825",
+                "isbn": "9791165343934",
+                "description": "“요즘 ‘그 사람’ 때문에 진짜 미치겠어!” \n날마다 내 속 뒤집는 그 사람, 대체 왜 그러는 걸까? \n\n화를 낼 수도 없고, 계속 참고 있을 수도 없는\n노답 상황에 빠진 당신을 위한 맞춤형 심리학 솔루션\n\n만나면 앓는 소리만 주구장창 늘어놓는 사람, 남 잘되는 꼴은 곱게 못 보는 사람, 눈치 없는 말 한마디로 ‘갑분싸’ 만드는 사람, 자신에게 주목하지 않으면 삐치는 사람, 전혀 안 그런 척하더니 뒤에서 은근히 뒷담화 하고 다니는 사람, 이래도 싫고 저래도 싫고 불평을 입에 달고 사는 사람, ‘라떼’ 없이는 대화가 안 되는 사람, 자기 의견에 동조하지 않으면 며칠이고 눈치 주는 사람….\n지금도 당신 옆에서 에너지 쪽쪽 빼가는 ‘그 사람’ 이야기다. ‘그 사람’은 어디에나 있다. 언제든 등장한다. 심지어 내가 원하지 않을수록 더 엮인다! 악의가 있어 보이는 건 아니라, 어디 대놓고 나쁜 사람이라고 말하기도 애매하다. 그러니 더 답답할 노릇. \n손절 불가능한 상황, 일상 속 깊숙이 들어와 있는 ‘그 사람’과 상생하는 방법은 과연 있을까? \n내 하루 망치지 않게, 나아가 내 인생 꼬이지 않게 ‘그 사람’으로부터 나를 지켜낼 수 있는 최상의 솔루션을 알아본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20210915",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "에노모토 히로아키 지음 ;이지현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "258 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165343934",
+                "INPUT_DATE": "20210712",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "엮이면 피곤해지는 사람들",
+                "PUBLISH_PREDATE": "20210825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

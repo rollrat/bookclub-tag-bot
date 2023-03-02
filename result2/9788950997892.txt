@@ -1,0 +1,67 @@
+{
+    "otitle": "인생 굿즈의 탄생",
+    "oauthor": "최길수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인생 굿즈의 탄생 (내가 만든 캐릭터 굿즈로 판매까지 합니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457426640",
+                "image": "https://shopping-phinf.pstatic.net/main_3245742/32457426640.20221019123220.jpg",
+                "author": "최길수",
+                "discount": "22500",
+                "publisher": "21세기북스",
+                "pubdate": "20211103",
+                "isbn": "9788950997892",
+                "description": "“내가 만든 캐릭터로 폰 케이스, 메모지, 그림엽서, 머그컵, 에코백…\n누구나 좋아하는 호감 만점 캐릭터 굿즈를 만들어요!”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20220104",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "최길수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*255",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950997892",
+                "INPUT_DATE": "20211015",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "인생 굿즈의 탄생",
+                "PUBLISH_PREDATE": "20211103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

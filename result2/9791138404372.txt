@@ -1,0 +1,67 @@
+{
+    "otitle": "죄인이 기도할 때",
+    "oauthor": "고바야시 유카 저/민경욱 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "죄인이 기도할 때",
+                "link": "https://search.shopping.naver.com/book/catalog/32486076022",
+                "image": "https://shopping-phinf.pstatic.net/main_3248607/32486076022.20221019140306.jpg",
+                "author": "고바야시 유카",
+                "discount": "12420",
+                "publisher": "소미미디어",
+                "pubdate": "20211029",
+                "isbn": "9791138404372",
+                "description": "고바야시 유카는 데뷔작 《저지먼트》(2016)를 통해 범죄와 처벌의 형평성에 대해 강한 불만을 재기하며 일본 사회에 충격을 안겼다. 복수를 합법화한 시대, 뉘우치지 않는 범죄자를 피해자와 피해자 가족의 입장에서 복수한다는 내용은 큰 호응을 이끌어냈고, 이 작품으로 고바야시 유카는 제33회 소설추리신인상을 수상하며 일본 문단과 독자에게 강렬한 인상을 남긴다. 그 이후 작가는 ‘복수’를 소재로 한 작품을 연달아 발표하며 죄와 벌, 피해자의 구원에 대한 질문을 던지고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211115",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고바야시 유카 [지음] ;민경욱 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791138404372",
+                "INPUT_DATE": "20211001",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "죄인이 기도할 때",
+                "PUBLISH_PREDATE": "20211029",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

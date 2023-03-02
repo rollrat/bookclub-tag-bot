@@ -1,0 +1,67 @@
+{
+    "otitle": "하루 5분 부자노트",
+    "oauthor": "윤성애 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하루 5분 부자노트 (인생이 바뀌는 진짜 돈 공부)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440864114",
+                "image": "https://shopping-phinf.pstatic.net/main_3244086/32440864114.20221019135953.jpg",
+                "author": "윤성애",
+                "discount": "13500",
+                "publisher": "프롬북스",
+                "pubdate": "20191211",
+                "isbn": "9791188167241",
+                "description": "『하루 5분 부자노트』는 돈 때문에 삶에 겁먹지 않으려면 기본적으로 알고 있어야 할 재테크 상식을 알려준다. 수십억 자산은 됐고 그저 노후 걱정에서 벗어났으면 하는 보통의 월급쟁이들을 위한 책이다. 하루 50분이 아니라 5분 정도 틈틈이 읽으면 된다. 취업, 결혼, 출산, 주택 마련, 노후 등 삶의 다양한 이벤트마다 꼭 필요한 지식을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "프롬북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191220",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "윤성애 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/21/9791188167241.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "303 p.",
+                "CONTROL_NO": "CIP2019047592",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188167241",
+                "INPUT_DATE": "20191121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "하루 5분 부자노트",
+                "PUBLISH_PREDATE": "20191211",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

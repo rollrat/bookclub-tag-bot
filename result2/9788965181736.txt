@@ -1,0 +1,67 @@
+{
+    "otitle": "만능유아식 레시피",
+    "oauthor": "김주연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "만능 유아식 레시피 (유아식 100배로 즐기기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486029117",
+                "image": "https://shopping-phinf.pstatic.net/main_3248602/32486029117.20221230074025.jpg",
+                "author": "김주연",
+                "discount": "8550",
+                "publisher": "경향미디어",
+                "pubdate": "20160331",
+                "isbn": "9788965181736",
+                "description": "2~7세 유아에게 꼭 필요한 영양을 골고루 담았어요!\n편식하지 않는 아이로 건강하게 키우세요!\n간단하면서도 맛있는 저염 레시피 80가지\n\n아이를 키우는 세상 모든 엄마의 걱정거리는 바로 한창 자라는 아이들의 식사이지요. 만 2세 이전의 요리 간이 아이가 40대가 되었을 때 성인병 발병과 관계가 있다고도 하고, 아이가 편식을 하면 영양을 골고루 섭취하지 못해 신체적으로 균형을 잃을까 걱정부터 앞섭니다. 이 책은 유아들이 먹기에 부담이 없는 저염 식단이면서도 맛있는 한 그릇 요리와 반찬, 간식 레시피 80가지를 담았습니다. 양념을 많이 쓰지 않아도 재료에 잘 맞는 조리 방법을 이용하면 재료 본연의 맛을 살린 맛있는 요리를 만들 수 있습니다. 편식하는 아이를 이것저것 잘 먹는 아이로 튼튼하게 키운 저자가 직접 자신의 아이에게 해주었던 레시피들이라 더욱 믿음직합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "경향미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20160420",
+                "EA_ADD_CODE": "14590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김주연 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788965181309",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965181736",
+                "INPUT_DATE": "20160420",
+                "SET_EXPRESSION": "(SET)",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(요리가 간편해지는) 만능유아식 레시피 ",
+                "PUBLISH_PREDATE": "20160331",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

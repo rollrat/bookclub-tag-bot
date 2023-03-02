@@ -1,0 +1,67 @@
+{
+    "otitle": "광주 아리랑 1",
+    "oauthor": "정찬주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "광주 아리랑 1 (정찬주 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458365219",
+                "image": "https://shopping-phinf.pstatic.net/main_3245836/32458365219.20221019135123.jpg",
+                "author": "정찬주",
+                "discount": "13500",
+                "publisher": "다연",
+                "pubdate": "20200518",
+                "isbn": "9791190456111",
+                "description": "광주민중항쟁 40주년 회심작\n80년 5월, 따뜻한 가슴들이 살고 있었네\n\n《광주 아리랑》은 1980년 5월 광주민중항쟁 14일간을 옴니버스 형식으로 다룬 다큐소설이다. 그때 광주에서 벌어진 사건들과 그 안에 얽힌 수많은 인물은 40년이 지난 오늘날 리얼리티라는 타임머신을 타고 부활하여 우리의 가슴을 먹먹하게 때린다. 지금까지 제대로 조명하지 않은 광주시민 개개인을 집중적으로 다룬 이 작품을 통해 그들이 계엄당국 측에서 줄곧 몰아간 폭도가 아니었음을, 그저 안식을 찾지 못한 채 고달프게 살아간, 그러나 따뜻한 가슴을 가진 민초일 뿐이었음을 새삼 깨닫고 재발견할 것이다. 정말 광주는 특별한 도시가 아니라 가슴 따뜻한 사람들이 살고 있는 보통의 도시였음을……. 그렇다. 80년 5월, 광주에는 따뜻한 가슴들이 살고 있었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다연",
+                "DDC": "",
+                "UPDATE_DATE": "20200526",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 정찬주",
+                "SERIES_TITLE": "광주 아리랑(전2권)",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791190456135",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "361 p.",
+                "CONTROL_NO": "CIP2020014433",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791190456111",
+                "INPUT_DATE": "20200407",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "광주 아리랑",
+                "PUBLISH_PREDATE": "20200518",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

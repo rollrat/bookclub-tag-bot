@@ -1,0 +1,67 @@
+{
+    "otitle": "띵굴마님은 캠핑이 좋아",
+    "oauthor": "이혜선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "띵굴마님은 캠핑이 좋아 (마님 캠핑이 뭐가 그렇게 좋아요)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466978830",
+                "image": "https://shopping-phinf.pstatic.net/main_3246697/32466978830.20221019123454.jpg",
+                "author": "이혜선",
+                "discount": "8640",
+                "publisher": "포북(forbook)",
+                "pubdate": "20131010",
+                "isbn": "9788993418699",
+                "description": "띵굴마님과 함께 떠나는 감성캠핑!\n\n마님, 캠핑이 뭐가 그렇게 좋아요『띵굴마님은 캠핑이 좋아』. 《띵굴마님은 살림살이가 좋아》의 저자 이혜선이 감성캠핑을 바라는 이들을 위한 캠핑정보를 총망라한 책이다. 장비 구입부터 음식 준비, 재료 소분, 캠핑 장비 구입 매뉴얼까지 꼼꼼하게 담아냈다. 저자가 캠핑을 하면서 경험하고 깨달은 실속형 체험들을 사진과 함께 생생하게 보여준다. 캠핑에 가져가는 물건들과 간단한 재료들로 해먹는 음식들, 저자가 보고 좋아하게 된 장소들, 저자만의 준비사항들을 속속들이 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포북",
+                "DDC": "",
+                "UPDATE_DATE": "20131104",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이혜선",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993418699",
+                "INPUT_DATE": "20130909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "띵굴마님은 캠핑이 좋아",
+                "PUBLISH_PREDATE": "20131020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

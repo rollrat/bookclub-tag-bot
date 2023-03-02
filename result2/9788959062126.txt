@@ -1,0 +1,67 @@
+{
+    "otitle": "매매춘, 한국을 벗기다",
+    "oauthor": "강준만 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "매매춘 한국을 벗기다 (국가와 권력은 어떻게 성을 거래해왔는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436015816",
+                "image": "https://shopping-phinf.pstatic.net/main_3243601/32436015816.20230103164921.jpg",
+                "author": "강준만",
+                "discount": "10800",
+                "publisher": "인물과사상사",
+                "pubdate": "20120406",
+                "isbn": "9788959062126",
+                "description": "한국 근현대사를 가로지르는 뿌리 깊은 매매춘의 역사를 돌아보다!\n\n국가와 권력은 어떻게 성을 거래해왔는가『매매춘, 한국을 벗기다』. , , 등 다수의 저작을 집필한 저자 강준만이 겉과 속이 다른 한국 매매춘의 실체를 파헤쳤다. 오늘날 우리 사회 곳곳에 스며든 매매춘의 뿌리를 살펴보기 위해 홍등가가 들어서며 매매춘이 본격적으로 시작된 개화기부터 일제강점기 해방, 미군정, 군사정권 등 매매춘이란 큰 주제를 중심으로 한국 근현대사를 재조망한다. 국가가 ‘포주’가 되어 매매춘을 장려하는 사회와 ‘도덕적 분노’를 앞세워 매매춘 근절을 위한 근본주의적 처방을 남발하는 사회가 공존하는 현실의 이중성을 고발하고, 국가의 폭력, 인권 문제, 국가 정책문제와 관련지어 매매춘의 문제를 살펴본다. 부록에 ‘한국 간통의 역사’를 다루어 한국 근현대사 속에서 남성 우월주의를 지켜내려는 기득권층의 모순적 태도와 함께 급변하고 있는 우리 사회의 성 풍속도 돌아볼 기회를 제시하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과 사상",
+                "DDC": "",
+                "UPDATE_DATE": "20120412",
+                "EA_ADD_CODE": "04300",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "강준만 지음",
+                "SERIES_TITLE": "인사 갈마들 총서 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788959060139",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959062126",
+                "INPUT_DATE": "20120328",
+                "SET_EXPRESSION": "(세트)",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "매매춘, 한국을 벗기다",
+                "PUBLISH_PREDATE": "20120409",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04330 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "아무튼, 비건",
+    "oauthor": "김한민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:27 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "아무튼, 비건 (당신도 연결되었나요?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456274941",
+                "image": "https://shopping-phinf.pstatic.net/main_3245627/32456274941.20230103165156.jpg",
+                "author": "김한민",
+                "discount": "8910",
+                "publisher": "위고",
+                "pubdate": "20181125",
+                "isbn": "9791186602447",
+                "description": "『아무튼, 비건』, 이야기는 간단하다. 작가 김한민은 어느 날 무언가를 보았고, 알게 되었고, 이래서는 안 되겠다 싶어서 변화를 시도했다. 시도의 결과는 좋았고, 시간이 갈수록 더 좋았으며, 그러다 보니 이제 다른 사람들과 나누고 싶어졌다. 그 변화란 바로 동물을 먹지 않으며, 동물의 털과 가죽으로 만든 제품을 사용하지 않는 ‘비건’으로 살아가는 일이다."
+            },
+            {
+                "title": "아무튼, 비건(큰글자도서) (당신도 연결되었나요?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32958471624",
+                "image": "https://shopping-phinf.pstatic.net/main_3295847/32958471624.20221019115208.jpg",
+                "author": "김한민",
+                "discount": "21600",
+                "publisher": "위고",
+                "pubdate": "20220601",
+                "isbn": "9791186602775",
+                "description": "『아무튼, 비건』, 이야기는 간단하다\n\n작가 김한민은 어느 날 무언가를 보았고, 알게 되었고, 이래서는 안 되겠다 싶어서 변화를 시도했다.?시도의 결과는 좋았고, 시간이 갈수록 더 좋았으며, 그러다 보니 이제 다른 사람들과 나누고 싶어졌다. 그?변화란 바로 동물을 먹지 않으며, 동물의 털과 가죽으로 만든 제품을 사용하지 않는 ‘비건’으로 살아가는 일이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181204",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 김한민",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20181122",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6973757_3.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6973757_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "12,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "173 p.",
+                "CONTROL_NO": "CIP2018034677",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602447",
+                "INPUT_DATE": "20181026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 비건",
+                "PUBLISH_PREDATE": "20181125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "리빙포인트",
+    "oauthor": "조선일보 리빙포인트 취재팀 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:41 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "리빙포인트 (주부 9단의 깨알같은 생활 아이디어 1000)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490743105",
+                "image": "https://shopping-phinf.pstatic.net/main_3249074/32490743105.20221019140646.jpg",
+                "author": "조선일보 리빙포인트 취재팀",
+                "discount": "8820",
+                "publisher": "비타북스",
+                "pubdate": "20140305",
+                "isbn": "9791185020259",
+                "description": "살림에 관한 주부들의 고민을 해결하기 위해 1998년 4월부터 지금까지 조선일보 리빙포인트 취재팀은 다양한 생활의 지혜를 주 1회씩 전달해 왔다. 공간별·상황별 청소법, 묵은 때·얼룩 빼주는 세탁법, 맛있는 요리 노하우, 각종 생활용품 관리법, 온 가족의 건강과 아름다움을 지켜주는 건강·뷰티 노하우 등 15년간 살림에 꼭 필요한 생활 밀착형 살림 노하우를 통해 800만 주부들의 절대적인 지지를 얻었고, 그중 살림이 쉬워지는 깨알같은 1,000여 가지의 살림 노하우를 선별하여 한 권의 책으로 담았다. 이 책은 쉽고 간편한 살림법을 원하는 지혜로운 주부들에게 좋은 지침서가 될 것이다."
+            },
+            {
+                "title": "리빙 포인트 세트",
+                "link": "https://search.shopping.naver.com/book/catalog/32457319569",
+                "image": "https://shopping-phinf.pstatic.net/main_3245731/32457319569.20221019142820.jpg",
+                "author": "옥토",
+                "discount": "27000",
+                "publisher": "뿔미디어",
+                "pubdate": "20131224",
+                "isbn": "9788967759711",
+                "description": "지루하다. 지루해 죽겠다. 대체 내가 왜 이런 고행을 해야 한단 말인가! 내가 즐기지도 않는 히키코모리 생활을 시작한 것에는 사연이 있었다.그것 역시 어언 10년 전으로 거슬러 올라간다. 그러니까…… 나는…… 이 세계 사람이 아니다. 여기는 책 속 세상이고 세계관은 호모월드다. 너도 호모, 나도 호모, 친구도 호모, 형제도 호모, 상사도 호모, 부하도 호모, 호모호모호모뿐인 궁극 호모 판타지 세계란 소리다. 10년이 지났지만 아직도 믿기지가 않아서 콱 혀 깨물고 자살하고 싶다. 10년째 꼬박꼬박, 내가 살던 아파트에서 눈을 뜨는 꿈을 꾸지만, 깨어나면 지금 이 빌어먹을 탑에 빌어먹을 세계관이다. 어엉엉엉엉엉. 어어엉엉엉."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)헬스조선",
+                "DDC": "640",
+                "UPDATE_DATE": "20140414",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.healthchosun.com",
+                "AUTHOR": "조선일보 리빙포인트 취재팀",
+                "SERIES_TITLE": "",
+                "KDC": "591",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3346564_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3346564_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "216",
+                "CONTROL_NO": "CIP2014005624",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185020259",
+                "INPUT_DATE": "20140219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "리빙포인트",
+                "PUBLISH_PREDATE": "20140305",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

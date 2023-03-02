@@ -1,0 +1,67 @@
+{
+    "otitle": "빌 앤드루스의 텔로미어의 과학",
+    "oauthor": "빌 앤드루스 저/김수지 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빌 앤드루스의 텔로미어의 과학 (과학이 말하는 노화와 생명연장의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493598774",
+                "image": "https://shopping-phinf.pstatic.net/main_3249359/32493598774.20221229072403.jpg",
+                "author": "빌 앤드루스",
+                "discount": "10800",
+                "publisher": "동아시아",
+                "pubdate": "20150812",
+                "isbn": "9788962621136",
+                "description": "노화에 대한 기존의 종교적 윤리적 철학적 편견을 깨는 과학적 접근. &lt;사이언스&gt;에 인간 텔로머라아제 발견을 보고해 생명과학계에 파문을 일으킨 빌 앤드루스 박사의 첫 저서이다. 저자는 노화는 자연의 섭리가 아니라 치유할 수 있는 질병이라고 단호하게 주장한다. 현대과학의 커다란 수수께끼 중 하나였던 노화의 비밀이 하나둘 밝혀지고 있으며, 실제로 노화를 늦추거나 치유할 수 있는 방법들도 다양한 방식으로 모색되고 있다는 것이다. \n\n\n\n우리의 유전자들은 세포핵 내부에 있는 염색체라 불리는 이중 나선 구조의 DNA 분자들을 따라 배열되어 있다. 각 염색체의 끝 부분에는 텔로미어라고 하는 DNA가 우리의 유전 정보를 보호하고 세포가 분열할 수 있도록 해준다. 세포가 분열할 때마다 텔로미어는 짧아지며, 너무 짧아지게 되면 세포는 더 이상 분열을 할 수 없게 되어, 비활성화 되거나 노화되거나 죽게 된다. 노화를 이해하는 핵심 키워드인 텔로미어에 대한 생물학의 역사를 살펴보면 우리에게 노화에 대한 편견이 강력한 이유를 알 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동아시아",
+                "DDC": "612.68",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "빌 앤드루스 지음, 김수지 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "511.1689",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4777002_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4777002_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015020989",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962621136",
+                "INPUT_DATE": "20150730",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "빌 앤드루스의 텔로미어의 과학",
+                "PUBLISH_PREDATE": "20150812",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

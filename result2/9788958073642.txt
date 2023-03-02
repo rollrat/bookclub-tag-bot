@@ -1,0 +1,67 @@
+{
+    "otitle": "어쩌다 중학생 같은 걸 하고 있을까",
+    "oauthor": "쿠로노 신이치 저/장은선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어쩌다 중학생 같은 걸 하고 있을까",
+                "link": "https://search.shopping.naver.com/book/catalog/32474962632",
+                "image": "https://shopping-phinf.pstatic.net/main_3247496/32474962632.20230110163721.jpg",
+                "author": "쿠로노 신이치",
+                "discount": "8640",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20120117",
+                "isbn": "9788958073642",
+                "description": "중학교 2학년, 최악의 인생이 펼쳐지다!\n\n성장통을 앓고 있는 중학생 소녀의 좌충우돌 성장기를 그린 소설 『어쩌다 중학생 같은 걸 하고 있을까』. 청소년을 위한 문학 시리즈 「VivaVivo(비바비보)」의 열네 번째 책으로, VivaVivo는 ‘깨어 있는 삶’이라는 뜻이다. 주인공 스미레의 일상을 통해 십대들의 솔직한 고민과 심리를 묘사하며 공감을 이끌어낸다. 자칭 성실하고 착한 중학생 스미레의 중학교 2학년은 친구 하나 없이 시작된다. 스스로 왕따의 길을 걷다가, 얕잡아 보던 아이들과 억지로 친구가 되기도 하고, 반에서 제일 잘나가는 그룹에 끼려고 애쓰기도 하는데…. 중학교 교실 속에서 벌어지는 그들만의 치열한 심리전과 불꽃 튀는 권력 다툼이 흥미진진하게 그려진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌출판",
+                "DDC": "",
+                "UPDATE_DATE": "20120221",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "쿠로노 신이치 지음 ;장은선 옮김",
+                "SERIES_TITLE": "VivaVivo ",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2531527_3_1.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2531527_5_1.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012000080",
+                "SERIES_NO": "14",
+                "EA_ISBN": "9788958073642",
+                "INPUT_DATE": "20120105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "어쩌다 중학생 같은 걸 하고 있을까 ",
+                "PUBLISH_PREDATE": "20120117",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

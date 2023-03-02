@@ -1,0 +1,67 @@
+{
+    "otitle": "모로코 홀리데이",
+    "oauthor": "이수호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모로코 홀리데이 (최고의 휴가를 위한 여행 파우치 홀리데이 시리즈 36)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466554161",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466554161.20221228074633.jpg",
+                "author": "이수호",
+                "discount": "13500",
+                "publisher": "꿈의지도",
+                "pubdate": "20180101",
+                "isbn": "9791187496670",
+                "description": "보고, 즐기고, 먹고, 남기는 모로코 여행!\n\n황금빛 사막과 미로 같은 푸른 골목으로 여행의 로망을 자극하는 나라 모로코의 모든 것을 알려주는 가이드북 『모로코 홀리데이』. 과거 모로코의 영화를 엿볼 수 있는 카사블랑카, 진정한 모로코가 펼쳐지는 마라케시, 모로코 여행의 꽃 사하라 사막, 고즈넉한 항구 도시 에사우이라, 화려한 휴양 도시 아가디르, 천연 가죽 염색 작업장으로 유명한 페스, 도시 전체가 푸른색으로 가득한 셰프샤우엔, 아랍과 유럽의 조화 탕헤르 등 모로코 핵심 여행지 9곳을 담았다. 도시별로 관광지, 맛집, 즐길 거리, 숙소 등을 엄선하고, 추천 일정도 제시한다. 여행 계획과 항공권 예약, 숙소 예약하기, 여행 정보 수집하기, 환전하기, 짐 꾸리기, 출국 및 모로코 입국 등을 일정별로 안내하고, 모로코 여행에 필요한 인사말과 팁을 함께 담아 더욱 쉬운 여행이 될 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20180504",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "글·사진: 이수호",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186581339",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "329 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187496670",
+                "INPUT_DATE": "20171208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "모로코 홀리데이",
+                "PUBLISH_PREDATE": "20180101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

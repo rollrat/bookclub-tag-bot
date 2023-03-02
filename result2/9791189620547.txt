@@ -1,0 +1,67 @@
+{
+    "otitle": "내가 나라서 네가 너라서",
+    "oauthor": "강희주(희탱) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내가 나라서 네가 너라서 (SNS베스트 감성캘리그라피)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473423877",
+                "image": "https://shopping-phinf.pstatic.net/main_3247342/32473423877.20221227205721.jpg",
+                "author": "강희주(희탱)",
+                "discount": "12420",
+                "publisher": "42미디어콘텐츠",
+                "pubdate": "20191217",
+                "isbn": "9791189620547",
+                "description": "오늘도 수고 많았어요,\n손글씨에 담은 희탱의 위로와 공감의 메시지\n\nSNS에서 캘리그라퍼로 활동 중인 강희주(희탱) 작가가 자신의 이야기를 담은 캘리그라피 에세이를 펴낸다. 사진과 함께 손글씨로 꾹꾹 눌러 쓴 일상 속 평범하지만 특별한 이야기들과 내면에 감춰져 있던 솔직한 마음과 감정을 책으로 엮었다.\n\n저자에게 손글씨는 낯섦과 외로움 사이에서 소통의 수단이 되어 준 매개체다. 그렇게 스스로를 위로하기 위해 적어 내려갔던 매일의 기록들은 이제 SNS를 통해 저자의 손글씨를 아끼는 구독자들에게 선물처럼 따뜻한 메시지를 전해 주고 있다. 희탱의 감성이 듬뿍 담긴 캘리그라피 에세이 《내가 나라서 네가 너라서》는 겨울날 소복하게 쌓인 함박눈처럼 포근한 공감과 위로가 되어 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "42 Media Contents(42미디어콘텐츠)",
+                "DDC": "",
+                "UPDATE_DATE": "20200210",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글·사진: 강희주",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "201 p.",
+                "CONTROL_NO": "CIP2019049626",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189620547",
+                "INPUT_DATE": "20191204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "내가 나라서 네가 너라서",
+                "PUBLISH_PREDATE": "20191217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

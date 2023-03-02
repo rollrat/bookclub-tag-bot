@@ -1,0 +1,67 @@
+{
+    "otitle": "과학 하는 용기",
+    "oauthor": "조정훈,김성호,김태현,남홍재 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학 하는 용기 (카이스트 과학도들이 이겨낸 좌절과 슬럼프의 순간들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487789733",
+                "image": "https://shopping-phinf.pstatic.net/main_3248778/32487789733.20221229073719.jpg",
+                "author": "조정훈^김성호^김태현^남홍재^박동성",
+                "discount": "11700",
+                "publisher": "살림Friends",
+                "pubdate": "20161210",
+                "isbn": "9788952235374",
+                "description": "현재 카이스트에 재학 중인 학생 28명의 글을 한데 엮은 책이다. 이번 책의 주제는 ‘카이스트 학생들의 좌절 극복기’이다. 그들은 과학과 학업에 매진하면서 어떤 성공과 용기, 실패와 방황을 경험했을까? 그리고 어떤 고민을 하며 살아가고 있을까? 이 책에 담긴 카이스트 학생들의 진솔한 목소리는 청소년 독자들에게 커다란 울림을 선사할 것이다.\n\n\n\n이 책에서 카이스트 학생들은 학업과 학교생활뿐만 아니라 유학, 교환학생, 해외여행, 스타트업 기업, 공모전, 세미나와 학술대회 등 다양한 분야에서 도전했던 경험을 솔직담백하게 풀어냈다. 그리고 좌절과 슬럼프를 겪었을 때 이를 극복하는 자신만의 특별한 노하우를 소개한다.\n\n\n\n바쁜 와중에도 크게 기지개를 켜거나 깊은 숨을 내쉬며 자신을 돌아보는 여유를 가지고, 끈기와 체력을 동시에 키울 수 있는 운동으로 돌파구를 마련한다. 친구.선배.가족의 따뜻한 말 한마디가 평생의 좌우명이 되는가 하면, 멘토.롤모델.라이벌을 떠올리며 주눅이 든 자신을 일깨우기도 한다. 때로는 무책임한 도피.휴식.일탈을 일삼으며 불리했던 상황을 역전시키기도 한다.\n\n\n\n덕분에 학업과 진로 때문에 힘겨워하거나 슬럼프에 빠지기 쉬운 청소년들은 &lt;과학 하는 용기&gt;를 읽고 카이스트 선배들의 이야기에 깊이 공감하게 될 것이다. 그리고 그들의 경험에서 비롯된 진심 어린 충고와 조언 속에서 자신이 처한 문제를 객관적으로 살펴보고 이를 해결할 수 있는 올바른 방향과 실질적인 방법을 발견하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20161216",
+                "EA_ADD_CODE": "43400",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "조정훈, 김성호, 김태현, 남홍재, 박동성, 정희연 외 카이스트 학생들",
+                "SERIES_TITLE": "",
+                "KDC": "404",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5879341_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5879341_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5879341_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5879341_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "296",
+                "CONTROL_NO": "CIP2016026729",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952235374",
+                "INPUT_DATE": "20161104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학 하는 용기",
+                "PUBLISH_PREDATE": "20161210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "일상의 무기가 되는 논리 수업",
+    "oauthor": "마이클 위디 저/한지영 역/헨리 장 추천",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일상의 무기가 되는 논리 수업 (세상의 교묘한 말들로부터 나를 지키는 61가지 논리 도구들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436148991",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436148991.20221229070850.jpg",
+                "author": "마이클 위디",
+                "discount": "12600",
+                "publisher": "반니",
+                "pubdate": "20200615",
+                "isbn": "9791190467599",
+                "description": "지적 대화를 위한, 세상에서 가장 쉬운 실전 논리 안내서\n\n논리는 일상을 살아가는 데 필수적인 기술이다. 《일상의 무기가 되는 논리 수업》은 일상에 필요한 실용적 논리 지식을 압축한 책이다. 이 책의 저자이자 철학 박사인 마이클 위디는 아리스토텔레스 때부터 이어져온 고전 지식을 오늘날의 독자에게 필요한 실용 지식으로 선보이는 힘이 있다. 장마다 하나의 논리적 오류를 ‘구체적 사례-논리의 허점-응수하는 법-더 깊이 알기’ 단계를 거쳐 핵심만 정확히 짚어준다. 특히 우리 주변에서 일어나고 생생한 사례를 들어 독자가 현실에 적용하기 쉽게 돕는다. 그래서 이 책은 이상한 논리가 말문을 막히게 할 때 바로 펼쳐 반격을 돕는 실전 논리 가이드북이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "20200630",
+                "EA_ADD_CODE": "03170",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "마이클 위디 지음 ;한지영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "175",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "137*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "CIP2020019648",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190467599",
+                "INPUT_DATE": "20200513",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(일상의 무기가 되는) 논리 수업",
+                "PUBLISH_PREDATE": "20200615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

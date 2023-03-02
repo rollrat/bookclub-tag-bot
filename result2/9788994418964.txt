@@ -1,0 +1,67 @@
+{
+    "otitle": "재밌어서 밤새읽는 소립자 이야기",
+    "oauthor": "다케우치 가오루 저/조민정 역/정성헌 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재밌어서 밤새읽는 소립자 이야기",
+                "link": "https://search.shopping.naver.com/book/catalog/32466854977",
+                "image": "https://shopping-phinf.pstatic.net/main_3246685/32466854977.20221019135549.jpg",
+                "author": "다케우치 가오루",
+                "discount": "10800",
+                "publisher": "더숲",
+                "pubdate": "20151221",
+                "isbn": "9788994418964",
+                "description": "『재밌어서 밤새읽는 소립자 이야기』는 과학을 누구나 이해할 수 있게 풀어내 일본과 국내에서 각종 우수도서와 추천도서로 선정되어 사랑받고 있는 ‘재밌어서 밤새읽는’ 시리즈로, 일반 대중을 위해 쉽게 쓰여진 소립자 책이다. 우주를 형성하고 있는 가장 기본적인 물질이라고 알려진 소립자, 대체 왜 이 작은 물질의 발견에 이토록 열광하는 것일까? 소립자의 정체가 무엇인지, 우리에게 왜 중요한 발견인지, 그리고 상상을 초월하는 엉뚱한 가설들과 소립자 연구를 둘러싼 물리학자들 사이의 흥미진진한 신경전까지 모두 담아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)더숲",
+                "DDC": "",
+                "UPDATE_DATE": "20160222",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "다케우치 가우로",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 232페이지 내외",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994418964",
+                "INPUT_DATE": "20151014",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "재밌어서 밤새읽는 소립자 이야기",
+                "PUBLISH_PREDATE": "20151221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

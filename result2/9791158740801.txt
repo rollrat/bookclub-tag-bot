@@ -1,0 +1,67 @@
+{
+    "otitle": "컨셔스",
+    "oauthor": "문성림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "컨셔스 (내 인생을 바꾸는 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491403457",
+                "image": "https://shopping-phinf.pstatic.net/main_3249140/32491403457.20221227205227.jpg",
+                "author": "문성림",
+                "discount": "13320",
+                "publisher": "미디어숲",
+                "pubdate": "20200730",
+                "isbn": "9791158740801",
+                "description": "“평생에 걸쳐 의식을 강력하게 사용한 사람들이 성공했다”\n\n자기 자신을 잘 알고 행복해지는 길!\n6가지 방법으로 나의 의식을 강화한다\n\n조던 피터슨, 이순신 장군, 빌 게이츠와 스티브 잡스, 르네 데카르트의 공통점을 아는가? \n저자에 따르면 이들은 1차 의식에 의지하지 않고 ‘2차 의식’을 적극적으로 활용하여 자신의 삶을 살아간 이들이다. 진정한 성취를 이루면서 자신의 삶을 성공으로 이끈 사람들은 모두 평생에 걸쳐 2차 의식을 강력하게 사용했다. 무의식이 지배하는 1차 의식에 의한 삶은 ‘의식의 흐름’처럼 흘러가는 것이고, 2차 의식은 자신이 적극적으로 개입하고, 주체적으로 새롭게 삶을 만들어가는 창조적 의식이다. 그렇다고 엄청나게 어렵거나 배우기 힘든 개념이 아니라 저자의 안내를 편한 마음으로 따라가면서 깨달음을 얻다 보면 어느새 2차 의식으로 자신의 삶을 살아가는 자신을 발견할 수 있다고 강조한다. \n\n저자는 의식을 6가지 조각으로 나누어 정리했다. 자신의 삶을 변화시킬 수 있는 의식의 조각들이다. 이를 통해서 지금까지와는 전혀 다른 인생을 살 수 있다. ‘관찰, 성찰, 상상, 계획, 학습, 창조’라는 6가지 의식의 조각을 거쳐 자신의 삶이 바뀌는 경험을 할 수 있을 것이다. 사례와 최신 과학적 연구결과를 친절하게 설명해 놓아 ‘의식’의 의미가 무엇인지, 어떻게 의식에 집중할 수 있는지, 나를 의식하는 삶은 어떤 것인지를 마음으로 이해하게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미디어숲 :다빈치하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20200720",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.mfbook.co.kr",
+                "AUTHOR": "문성림 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/24/9791158740801.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "212 p.",
+                "CONTROL_NO": "CIP2020026381",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158740801",
+                "INPUT_DATE": "20200624",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "컨셔스",
+                "PUBLISH_PREDATE": "20200730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

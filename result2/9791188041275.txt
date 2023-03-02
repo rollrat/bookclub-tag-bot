@@ -1,0 +1,67 @@
+{
+    "otitle": "거리에서 비즈니스를 배우다, 한남",
+    "oauthor": "배명숙 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "거리에서 비즈니스를 배우다, 한남 (비즈니스 인사이트 발견을 위한 CEO, 기획자, 마케터 필독서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492068788",
+                "image": "https://shopping-phinf.pstatic.net/main_3249206/32492068788.20221227204744.jpg",
+                "author": "배명숙",
+                "discount": "14400",
+                "publisher": "책이있는풍경",
+                "pubdate": "20191017",
+                "isbn": "9791188041275",
+                "description": "치열한 비즈니스 전쟁의 최전선 한남동에 주목하다!\n\n주로 해외에서 기업 대표들과 비즈니스 트립을 진행해온 배명숙이 한남동이 가진 트렌디함과 다양성을 통해 비즈니스 인사이트를 포착하는 방법을 이야기하는 『거리에서 비즈니스를 배우다, 한남』. 젊은이들에게 새로운 유행의 메카로 떠오른 한남동, 그 배경은 과연 무엇일까? 우리는 한남동에서 어떤 비즈니스 인사이트를 얻을 수 있을까? \n\n한남동은 강남이나 홍대에 비해 유동인구가 적지만 소비자들의 경제수준이 높은 편이고, 다양한 국적의 외국인들이 거주한다. 그래서 많은 기업들이 브랜드 이미지를 극대화해 보여주거나, 해외진출을 위한 새로운 비즈니스를 실험하기 위해 이곳 한남동에 플래그십 스토어를 낸다. 한편으로는 기업 이미지를 한층 높여줄 화려한 문화공간을 제공하기도 한다.\n\n이처럼 한남동에서는 앞으로 뜨는 사업 아이템을 가장 빨리 파악할 수 있고, 소비자의 니즈가 어디에 있는지 확인할 수 있다. 저자는 연결, 플래그십, 재생, 팬심, 라이프 스타일 제안까지 다섯 가지 키워드로 한남동을 해석하고, 비즈니스 트립에서 중점을 두고 보아야 할 것이 무엇인지 알려주며 한남동에 들어선 다양한 공간에서 트렌드를 보는 안목을 전수해주는 동시에, 어떻게 자신의 비즈니스에 적용할 수 있는지에 대한 방법론까지 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책이있는풍경",
+                "DDC": "",
+                "UPDATE_DATE": "20191018",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://chaekpung.com",
+                "AUTHOR": "배명숙 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/06/9791188041275.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "334 p.",
+                "CONTROL_NO": "CIP2019035431",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188041275",
+                "INPUT_DATE": "20190906",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "거리에서 비즈니스를 배우다, 한남",
+                "PUBLISH_PREDATE": "20191017",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

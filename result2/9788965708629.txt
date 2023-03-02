@@ -1,0 +1,67 @@
+{
+    "otitle": "모두와 잘 지내지 맙시다",
+    "oauthor": "오마르 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모두와 잘 지내지 맙시다 (셀프헬프 유튜버 오마르의 아주 다양한 문제들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466714834",
+                "image": "https://shopping-phinf.pstatic.net/main_3246671/32466714834.20230128071159.jpg",
+                "author": "오마르",
+                "discount": "13320",
+                "publisher": "팩토리나인",
+                "pubdate": "20190930",
+                "isbn": "9788965708629",
+                "description": "수천만 뷰와 공감을 얻었던 오마르가 전하는 맞는 말 대잔치!\n\n무표정에 중단발 머리를 한 남자. 사뭇 이국적인 외모에 이름까지 ‘오마르’인 그는 항상 “안녕하세요. 오마르입니다.”라는 인사와 함께 5분 남짓 되는 시간동안 빠르고 정확한 발음으로 맞는 말 대잔치를 벌인다. 화제의 유튜브 채널 ‘오마르의 삶’ 오리지널 콘텐츠를 한 권에 담은 『모두와 잘 지내지 맙시다』은 100여 개 이상의 콘텐츠 중 수십만 구독자들이 특히 공감하고 열광했던 콘텐츠부터 선별해 담은 책으로, 영상에선 못했던 ‘보태기’ 이야기들, 그리고 가장 최근 업로드된 영상까지 만나볼 수 있다.\n\n누구나의 삶엔 지금 당장 내 인생을 망칠 만큼 대단한 건 아니지만, 계속해서 나를 괴롭히는 짜잘한 문제들이 자리하고 있다. 지금은 아니더라도 살다보면 언젠가는 겪게 될 곰팡이 같은 문제들. 우리는 이 문제들을 품고 살거나 참고 살거나 찝찝하지만 그냥 어찌어찌 살고 있다. 누군가는 가슴 한편에 화를 쌓아가면서. 그런데 오마르를 알고 나면 좀 달라진다. 그가 들려주는 이야기를 통해 우리 안의 아주 다양한 문제들이 아주 작고 별거 아닌 문제들로 하찮아지는 경험을 해나갈 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팩토리나인",
+                "DDC": "",
+                "UPDATE_DATE": "20191014",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "오마르 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/09/9788965708629.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272 p.",
+                "CONTROL_NO": "CIP2019035690",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965708629",
+                "INPUT_DATE": "20190909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "모두와 잘 지내지 맙시다",
+                "PUBLISH_PREDATE": "20190930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

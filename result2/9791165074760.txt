@@ -1,0 +1,89 @@
+{
+    "otitle": "트로이메라이",
+    "oauthor": "무라야마 사키 저/이희정 역/게미 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:38 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "트로이메라이",
+                "link": "https://search.shopping.naver.com/book/catalog/32506653681",
+                "image": "https://shopping-phinf.pstatic.net/main_3250665/32506653681.20221019141707.jpg",
+                "author": "무라야마 사키",
+                "discount": "11520",
+                "publisher": "소미미디어",
+                "pubdate": "20200402",
+                "isbn": "9791165074760",
+                "description": "『봄의 여행자』에 이은, 최고의 작가 콤비가 선사하는 일러스트 소설집 제 2탄! 『오후도 서점』으로 널리 알려진 작가 무라야마 사키의 미발표 작품을 포함한 세 가지 단편이 컬러 일러스트와 함께 돌아왔다. 단조로운 일상을 풍요롭게 만드는 주인공들은 따스한 용기를 건넨다. 일러스트레이터 게미의 그림과 함께 화려하게 수놓아진 페이지를 넘기다 보면, 환상적인 세계가 독자를 기다리고 있다. \n\n「트로이메라이」\n근미래, 로봇이 일상 속으로 들어온 세계.\n마나미는 아빠와 로봇 오빠와 살고 있었는데…….\n\n「벚나무 밑에서」\n섣달 그믐날, 오랜만에 유리가 돌아왔다. \n같은 해에 태어난 고양이와 소녀의 이야기.\n\n「가을 축제」\n깊은 산속에 버려진 낡은 오히나사마와 오다이리사마, 세 궁녀.\n그 인형들에게 어느 날 밤 영혼이 깃든다."
+            },
+            {
+                "title": "마성의 트로이메라이 (뉴 루비코믹스 1921)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496886668",
+                "image": "https://shopping-phinf.pstatic.net/main_3249688/32496886668.20221227203438.jpg",
+                "author": "사카자키 하루",
+                "discount": "4950",
+                "publisher": "현대지능개발사",
+                "pubdate": "20161027",
+                "isbn": "9788927046240",
+                "description": "Haru Sakazaki의 BL 만화 『마성의 트로이메라이』. '「마성의 남자」라 칭송받는 최고 인기남 오구라를 남자가… 덮쳤다…?! 카케이는 같은 미술부 후배인 오구라에게 부장으로서 책임감을 느끼고 감시역을 자처한다. 그러자 어느샌가 두 사람이 사귀고 있다는 소문이 도는데…? 스핀오프와 새로운 속편도 함께 수록."
+            },
+            {
+                "title": "꿈 (트로이메라이 | 연규호 소설산문집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466963374",
+                "image": "https://shopping-phinf.pstatic.net/main_3246696/32466963374.20221019150002.jpg",
+                "author": "연규호",
+                "discount": "13500",
+                "publisher": "문학나무",
+                "pubdate": "20160325",
+                "isbn": "9791156290339",
+                "description": "연규호 의사 소설산문집 『꿈 _ 트로이메라이』은 의사 46년 은퇴 기념 창작집답게 흰옷 입은 사람의 꿈과 고백을 새긴 단편소설 9편과 솔직 담백한 수필 14편이 실려 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20200506",
+                "EA_ADD_CODE": "04830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "무라야마 사키 지음 ;게미 일러스트 ;이희정 옮김",
+                "SERIES_TITLE": "무라야마 사키+게미 콜라보 소설집",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791165074746",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "91 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9791165074760",
+                "INPUT_DATE": "20200203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "트로이메라이",
+                "PUBLISH_PREDATE": "20200402",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04830 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

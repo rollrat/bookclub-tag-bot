@@ -1,0 +1,67 @@
+{
+    "otitle": "금빛 눈의 고양이",
+    "oauthor": "미야베 미유키 저/김소연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "금빛 눈의 고양이",
+                "link": "https://search.shopping.naver.com/book/catalog/32453196731",
+                "image": "https://shopping-phinf.pstatic.net/main_3245319/32453196731.20221019143018.jpg",
+                "author": "미야베 미유키",
+                "discount": "15120",
+                "publisher": "북스피어",
+                "pubdate": "20190419",
+                "isbn": "9788998791865",
+                "description": "말하고 듣는 것만으로 마음이 정화되는 이야기가 새롭게 시작된다.\n\n에도 미시마야에서 한 아가씨가 기이한 이야기를 모으고 있다. 그곳에 애틋한 사연을 가진 이들이 찾아와 누구에게도 털어놓지 못한 이야기를 들려준다. 가슴속에 맺혀 있던 이야기를 마친 사람들은 보이지 않는 짐을 내려놓은 듯 모종의 평온을 얻는 것 같다. 그 평온의 온기는 이야기를 듣는 이에게도 스며들어 마음속에 등불을 밝혀 준다. \n\n이번에는 대가만 치르면 어떤 소원이든 들어주는 신, 목소리를 잃어버린 소녀와 요괴를 부르는 목소리를 지닌 소녀의 만남, 재앙과 화를 불러오는 세상의 악惡을 봉해 둔 저택, 사람의 운명을 알려 주는 기이한 책, 금빛 눈을 가진 하얀 고양이와의 애틋한 추억에 관한 이야기가 펼쳐진다. \n\n미야베 미유키의 ‘라이프 워크(필생의 사업)’이자, 말하고 듣고 읽는 모든 이들에게 일종의 카운슬링 같은 역할을 하는 미시마야 시리즈에는 계속해서 새로운 ‘듣는 사람’이 등장할 예정이다. 미야베 미유키는 듣는 사람에 따라 분위기를 바꿔 가며 ‘이야기를 한다는 것의 의미’와 ‘진짜 이야기의 즐거움’을 전하겠다고 말했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북스피어",
+                "DDC": "",
+                "UPDATE_DATE": "20190418",
+                "EA_ADD_CODE": "04830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "미야베 미유키 지음 ;김소연 옮김",
+                "SERIES_TITLE": "미야베 월드 ; 제2막",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788991931299",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*197",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "607 p.",
+                "CONTROL_NO": "CIP2019010181",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998791865",
+                "INPUT_DATE": "20190315",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "금빛 눈의 고양이",
+                "PUBLISH_PREDATE": "20190419",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04830 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

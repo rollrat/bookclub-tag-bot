@@ -1,0 +1,67 @@
+{
+    "otitle": "왜요, 제 권리인데요?",
+    "oauthor": "오승현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왜요, 제 권리인데요? (알면 보이는 모두의 인권)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445193145",
+                "image": "https://shopping-phinf.pstatic.net/main_3244519/32445193145.20221019114810.jpg",
+                "author": "오승현",
+                "discount": "11700",
+                "publisher": "동녘",
+                "pubdate": "20210528",
+                "isbn": "9788972979944",
+                "description": "세상에 질문을 던지는 가장 중요한 말, “왜요?”\n우리가 당연히 지켜야 할 권리를 배우며 청소년의 인권 감수성을 길러줄 책!\n\n동녘의 청소년 인문·사회교양 시리즈 《왜요?》의 두 번째 책. 시리즈의 첫 번째 책인 《왜요, 그 말이 어때서요?》는 일상에서 입말로 흔히 쓰는 말들이 왜 문제가 되고 어떤 차별적 의미를 가지고 있는지에 대해 이야기했다. 《왜요, 제 권리인데요?》는 청소년이 일상적으로 접하는 인권 침해 사례를 예로 들며 우리가 그동안 알지 못했던 권리가 어떤 것이 있는지를 들려준다. 이 책은 일상에서 벌어지는 차별에 물음표를 띄우는 청소년들에게 민감한 인권 감수성을 길러줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20210831",
+                "EA_ADD_CODE": "43330",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "지은이: 오승현 ;일러스트: 코피루왁",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "168 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972979944",
+                "INPUT_DATE": "20210427",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "왜요, 제 권리인데요?",
+                "PUBLISH_PREDATE": "20210528",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "NFT 아트 실전 수업",
+    "oauthor": "돈신궁예 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "NFT 아트 실전 수업 (차근차근 따라 하면 내 작품이 돈이 되는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32486088654",
+                "image": "https://shopping-phinf.pstatic.net/main_3248608/32486088654.20221019145014.jpg",
+                "author": "돈신궁예",
+                "discount": "15120",
+                "publisher": "라이온북스",
+                "pubdate": "20220425",
+                "isbn": "9788994643939",
+                "description": "차근차근 따라하면 내 작품이 돈이 되는\nNFT 아트 실전을 위한 완벽 가이드!\n\n이 책은 이제 막 NFT 아트를 시작하고자 하는 사람들을 위한 책이다. 생소하고 어려운 관련 용어 설명부터 메타마스크 지갑 만들기와 NFT 작품 민팅까지! NFT를 처음 접한 사람도 차근차근 따라 하면 작품 판매까지 할 수 있게 상세히 설명하고 있다. 이 책과 함께 NFT 아트로 경제적 자유를 달성해 가는 길을 시작해 보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "라이온북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220615",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "돈신궁예 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/05/12/9788994643939.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9788994643939",
+                "INPUT_DATE": "20220512",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(차근차근 따라 하면 내 작품이 돈이 되는) NFT 아트",
+                "PUBLISH_PREDATE": "20220425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

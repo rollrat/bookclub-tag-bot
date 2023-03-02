@@ -1,0 +1,67 @@
+{
+    "otitle": "발레리노 이야기",
+    "oauthor": "이영철 저/김윤식 사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "발레리노 이야기",
+                "link": "https://search.shopping.naver.com/book/catalog/32439284903",
+                "image": "https://shopping-phinf.pstatic.net/main_3243928/32439284903.20230207163726.jpg",
+                "author": "이영철",
+                "discount": "11520",
+                "publisher": "플로어웍스",
+                "pubdate": "20210121",
+                "isbn": "9791196999742",
+                "description": "[더 발레 클래스]는 도서출판 플로어웍스에서 ‘발레 교양 인문서’이자 ‘발레 입문서’로 론칭한 시리즈다. 발레 분야의 총괄적인 지식과 정보 중에서 양질의 콘텐츠를 선별하여 출간한다.\n\n여자 발레 무용수는 발레리나, 남자 발레 무용수는 발레리노다. ‘발레’를 생각하면 발레리나를 떠올리기 쉽다. 그러나 발레 세계에 살짝 들어서기만 해도 발레리노의 매력에 빠지게 된다. 발레리노는 발레리나만큼 큰 축을 이루는 중요한 요소이기 때문이다.\n《발레리노 이야기》는 국립 발레단의 수석무용수이자 간판급 스타인 이영철의 다정한 ‘발레리노 설명서’다. 차근차근 단계를 밟아서 수석무용수가 된 스토리부터 발레리\n노의 일상, 직업관, 예비 발레리노들이 궁금했던 소소한 정보까지 한 권에 모두 담았다. 이 한 권을 편안하게 읽다 보면 일반인들에게는 몰랐던 세계의 시야를 넓혀주고, 발레를 전공하는 학생들에게는 필독 교양서가 될 것이다.연습실, 무대, 일상 등으로 나눠서 자세한 이야기를 들려주고, 대표적인 클래식 발레 작품 속의 발레리노 캐릭터 분석을 비롯하여 창작 작품에서 안무가의 역할, 과정까지도 자세하게 기술했다. 정보 전달과 동시에 개인의 에세이가 녹아 있어서 읽는 내내, 마치 다정한 형이자 선생님이 나에게 직접 말하는 듯한 기분을 만끽할 수 있다. 이전에도 앞으로도 발레리노의 발레책을 이렇게 따뜻한 감성으로 만나기는 쉽지 않을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Floorworx(플로어웍스)",
+                "DDC": "",
+                "UPDATE_DATE": "20210308",
+                "EA_ADD_CODE": "03680",
+                "PUBLISHER_URL": "http://floorworx.net/",
+                "AUTHOR": "지은이: 이영철 ;사진: 김윤식",
+                "SERIES_TITLE": "",
+                "KDC": "685.504",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/16/9791196999742.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "125*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "175 p.",
+                "CONTROL_NO": "CIP2020053550",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196999742",
+                "INPUT_DATE": "20201216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "발레리노 이야기",
+                "PUBLISH_PREDATE": "20210121",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

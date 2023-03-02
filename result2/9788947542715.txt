@@ -1,0 +1,78 @@
+{
+    "otitle": "블록체인노믹스",
+    "oauthor": "오세현,김종승 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:35 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "블록체인노믹스 (신뢰 사회로 이끄는 거래의 혁명)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485523174",
+                "image": "https://shopping-phinf.pstatic.net/main_3248552/32485523174.20221227203833.jpg",
+                "author": "오세현^김종승",
+                "discount": "15300",
+                "publisher": "한국경제신문",
+                "pubdate": "20171115",
+                "isbn": "9788947542715",
+                "description": "4차 산업혁명의 핵심기술인 블록체인을 정치, 경제, 사회, 문화적 관점에서 광범위하면서도 세부적으로 검토하면서 블록체인으로 인해 새롭게 펼쳐질 미래를 ‘블록체인노믹스’라 정의했다. 또한 블록체인의 산업분야별 다양한 적용 사례를 분석하며 구체적으로 현상을 파악하고 미래를 예측하고 있다. \n\n\n\nICT와 경영혁신 등 신기술, 신사업과 관련해 현업에서 많은 경험과 지식을 쌓아온 두 저자는 이 책에서 이 같은 본격적인 블록체인 시대를 앞두고 우리가 반드시 알아야 할 블록체인과 관련된 개념과 사례, 그 의미와 전망 등을 이해하기 쉽게 기술하고 있다.\n\n\n\n블록체인이 우리 사회에 미칠 영향력만큼 그 변화의 파도는 더 빨리, 더 크게 닥쳐온다. 우리는 어쩌면 블록체인을 통해 새로운 도약의 기회를 맞게 될지도 모른다. 미래를 준비하는 독자들에게 《블록체인노믹스》가 가이드가 된다."
+            },
+            {
+                "title": "토크노믹스 (블록체인이 가져올 차세대 비즈니스 경제학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481389731",
+                "image": "https://shopping-phinf.pstatic.net/main_3248138/32481389731.20230212071025.jpg",
+                "author": "숀 오^토머스 파워",
+                "discount": "23400",
+                "publisher": "한빛미디어",
+                "pubdate": "20190730",
+                "isbn": "9791162242070",
+                "description": "토크노믹스는 블록체인 기술이 가져온 새로운 세계의 경제다. 블록체인은 중앙 집중화된 세계에서 탈중앙화된 세계가 되고, 폐쇄형에서 개방형으로 바뀌며, 불투명성에서 투명성으로 옮겨가는 전환점을 맞이했다. \n\n이 책은 비트코인과 블록체인 그리고 ICO를 포함한 토큰 경제학의 개념을 훑어보고, ICO 전문가가 바라본 블록체인 기술의 과거와 현재를 살펴보며 앞으로 펼쳐질 새로운 경제 패러다임을 이야기한다. 블록체인이라는 광풍에서 시작된 ICO와 토큰 생성에 필요한 백서, 웹사이트, 그리고 개발/운영팀 등의 준비 과정을 알아보고, 암호화폐와 법적 프레임워크 이해를 위한 초석을 제공한다. 이는 세계를 토큰화하려는 새로운 움직임에 박차를 가할 것이며, 토크노믹스라는 매혹적인 영역의 지식을 배양하려는 이에게 영양분을 공급할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한국경제신문 :한경BP",
+                "DDC": "",
+                "UPDATE_DATE": "20171121",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://bp.hankyung.com",
+                "AUTHOR": "오세현,김종승 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788947542715",
+                "INPUT_DATE": "20171121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "블록체인노믹스",
+                "PUBLISH_PREDATE": "20171115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

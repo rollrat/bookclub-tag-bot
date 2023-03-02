@@ -1,0 +1,67 @@
+{
+    "otitle": "행복할 때 뇌 속에서 일어나는 모든 것",
+    "oauthor": "딘 버넷 저/임수미 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "행복할 때 뇌 속에서 일어나는 모든 것 (그저 못생긴 화학물질 덩어리일 뿐인 뇌가 어떻게 행복을 만들까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466540070",
+                "image": "https://shopping-phinf.pstatic.net/main_3246654/32466540070.20230207163939.jpg",
+                "author": "딘 버넷",
+                "discount": "16200",
+                "publisher": "생각정거장",
+                "pubdate": "20190620",
+                "isbn": "9791155429860",
+                "description": "행복할 때 과연 뇌에서는 무슨 일이 일어나고 있을까?\n행복을 좋아하는 뇌는 우리가 어떤 행동을 하도록 만들까? \n집, 직업, 사랑, 돈, 웃음, 성공이 뇌에 어떤 작용을 하고 \n어떻게 행복을 만드는지에 대한 과학적 고찰\n\n행복은 인간의 삶에서 가장 본질적인 부분이며 평생에 걸쳐 계속되는 질문이다. 행복 때문에 하루가 끝나면 집에 들어가게 되고, 직업을 갖게 되고, 사랑에 집착하기도 하고, 돈에 중독되기도 하고, 울고 웃고 성공을 꿈꾼다. 행복은 어디에서 오는 건가? 우리는 왜 그렇게도 행복하고 싶어 하나? 영원한 행복은 가능한가? 이것들과 뇌는 대체 무슨 관계인가? 이 질문에 대해 딘 버넷은 신경과학적인 입장에서 특유의 유머러스한 문체로 재치 있게 답해 주고 있다. 과학과는 도통 어울릴 것 같지 않은 추상적인 행복이라는 개념을 구체적이고 실질적으로 다루고 있는 매력적인 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정거장 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20190626",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "딘 버넷 지음 ;임수미 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "511.1813",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/31/9791155429860.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "475 p.",
+                "CONTROL_NO": "CIP2019021831",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155429860",
+                "INPUT_DATE": "20190531",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "행복할 때 뇌 속에서 일어나는 모든 것",
+                "PUBLISH_PREDATE": "20190620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

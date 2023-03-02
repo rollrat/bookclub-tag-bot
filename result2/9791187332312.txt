@@ -1,0 +1,67 @@
+{
+    "otitle": "상속의 역사",
+    "oauthor": "백승종 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "상속의 역사 (상속제도는 어떻게 세상을 움직이는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467092769",
+                "image": "https://shopping-phinf.pstatic.net/main_3246709/32467092769.20221019124603.jpg",
+                "author": "백승종",
+                "discount": "14400",
+                "publisher": "사우",
+                "pubdate": "20181210",
+                "isbn": "9791187332312",
+                "description": "세상을 변화시키는 숨겨진 힘, 상속\n비교사의 관점으로 폭 넓고 깊이 있게 풀어내다\n\n백승종 교수가 세계 최초로 선보이는 상속의 역사!\n \n동서양의 역사에 두루 정통한 독보적인 역사가 백승종 교수가 세계 최초로 상속의 역사를 선보인다. 저자가 보기에 사회경제적 불평등의 기원은 상속제도의 폐단에 있다. 저자는 악화일로를 걷고 있는 불평등과 양극화 문제를 역사적으로 조망하기 위해 이 책을 썼다. \n상속은 세상을 변화시키는 강력한 힘이다. 사회경제적인 여건이 변하면 상속제도도 달라졌다. 상속제도에 따라 누군가는 권력을 얻거나 부자가 되고, 누군가는 신분이 추락하거나 가난으로 내몰렸다. 한 가문에서 상속으로 인해 벌어진 싸움으로 인해 국제전이 벌어지기도 하고, 국경이 달라지기도 했다. 상속의 역사는 곧 인류의 역사인 셈이다. \n하지만 비교사의 어려움 때문인지, 세계 어느 나라에도 상속의 역사를 본격적으로 다룬 책은 없다. 저자는 동서양은 물론 이슬람 역사까지 아우르며 다양한 상속제도와 거기에 내포된 문화적 의미를 들려준다. 저자의 박학다식함과 학문적 열정, 그리고 복잡한 내용을 쉽게 풀어내는 필력 덕분에 독자는 상속의 역사라는 큰 흐름을 한눈에 파악할 수 있다. 또한 상속제도가 만들어낸 독특한 문화와 흥미진진한 이야기가 가득해 역사책 읽는 즐거움을 만끽할 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사우",
+                "DDC": "346.015",
+                "UPDATE_DATE": "20181213",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "백승종 지음",
+                "SERIES_TITLE": "",
+                "KDC": "365.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6997435_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "269 p.",
+                "CONTROL_NO": "CIP2018036387",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187332312",
+                "INPUT_DATE": "20181110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "상속의 역사",
+                "PUBLISH_PREDATE": "20181210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

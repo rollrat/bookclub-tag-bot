@@ -1,0 +1,67 @@
+{
+    "otitle": "내 아이의 배낭여행",
+    "oauthor": "김현주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 아이의 배낭여행 (시간을 사서라도 여행을 떠나는 여행 유전자로 똘똘 뭉친 세 식구의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438303763",
+                "image": "https://shopping-phinf.pstatic.net/main_3243830/32438303763.20221101105956.jpg",
+                "author": "김현주",
+                "discount": "12600",
+                "publisher": "꿈의지도",
+                "pubdate": "20180222",
+                "isbn": "9791187496717",
+                "description": "3년 일하고 3년 쉬며 시간을 사서라도 여행을 떠나는 은찬이네 가족의 지극히 현실적인 배낭여행기. 이 책은 시간이 없다, 돈이 없다, 아이가 아직 어리다는 이유로 여행을 미루는 ‘평범한 부모’들에게 어떻게 하면 아이와 함께 배낭여행을 갈 수 있는지 일러준다. 어린아이와 함께 하는 배낭여행, 누구라도 두려움이 앞설 것이다. 그러나 그건 어른들의 걱정일 뿐 아이는 생각보다 잘 걷고, 잘 먹고, 잘 자고, 여행을 즐긴다. 어른들은 아이의 곁에서, 아이의 눈높이에 맞춰 세상을 바라봐 주기만 하면 된다. 은 여섯 살 난 아이가 배낭여행을 통해 세상과 자신을 알아가며 성장하는 모습을 곁에서 지켜보며 꼼꼼하게 써 내려간 보통 엄마의 여행 예찬론이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20180504",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "김현주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "259 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187496717",
+                "INPUT_DATE": "20180122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "내 아이의 배낭여행 ",
+                "PUBLISH_PREDATE": "20180222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

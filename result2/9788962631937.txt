@@ -1,0 +1,67 @@
+{
+    "otitle": "물 위를 걷고 벽을 기어오르는 법",
+    "oauthor": "데이비드 L. 후 저/조미현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "물 위를 걷고 벽을 기어오르는 법 (동물 운동과 로봇의 미래)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441079104",
+                "image": "https://shopping-phinf.pstatic.net/main_3244107/32441079104.20221228072000.jpg",
+                "author": "데이비드 L. 후",
+                "discount": "16650",
+                "publisher": "에코리브르",
+                "pubdate": "20190329",
+                "isbn": "9788962631937",
+                "description": "이 책은 제목에서 암시하듯 곤충이 물 위를 어떻게 걷는가 하는 탐구로부터 시작한다. 앞에서도 언급했듯이 소금쟁이의 빠른 움직임을 포착하기 위해 고속 카메라 사용법을 먼저 배운다. 유체의 표면이 표면적을 최소화하는 경향인 표면장력을 소개하고, 방수 역할을 해주는 소금쟁이 다리털에 빼곡한 코팅을 검토하면서 표면 질감 개념을 알려준다. 물론 이 곤충을 알아가면서 로봇 소금쟁이를 제작한 재능 있는 기계공학자도 만난다. \n\n우리는 동물 운동 연구 내부와 인접 분야 양쪽에서 급속한 변화가 일어나고 있는 흥미진진한 지점에 서 있다. 지금은 몸과 뼈의 위치를 모두 담아내는 3차원 기술로 동물을 포착할 수 있다. 첨단 기술은 로봇이 실물과 똑같은 방식으로, 그리고 동물과 비슷한 크기로 움직이도록 하고 있다. 미세 가공은 곤충 크기의 날아다니는 로봇이 가능하도록 했다. 뱀 같은 로봇은 수색 구조 작전에 활용되고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "에코리브르",
+                "DDC": "",
+                "UPDATE_DATE": "20190411",
+                "EA_ADD_CODE": "03550",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "데이비드 L. 후 지음 ;조미현 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*217",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "304 p., 도판 [8] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962631937",
+                "INPUT_DATE": "20190319",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "물 위를 걷고 벽을 기어오르는 법",
+                "PUBLISH_PREDATE": "20190329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

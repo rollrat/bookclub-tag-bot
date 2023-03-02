@@ -1,0 +1,67 @@
+{
+    "otitle": "비만코드",
+    "oauthor": "제이슨 펑 저/제효영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비만코드 (체중은 인슐린이 결정한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445555919",
+                "image": "https://shopping-phinf.pstatic.net/main_3244555/32445555919.20230220081705.jpg",
+                "author": "제이슨 펑",
+                "discount": "14400",
+                "publisher": "시그마북스",
+                "pubdate": "20181020",
+                "isbn": "9791189199500",
+                "description": "비만은 인슐린 때문이다!\n\n다이어트에 성공해서 살을 뺐다 하더라도 어느 정도 시간이 지나면 체중은 다시 원래대로 돌아간다. 우리 의지가 약해서도 아니고 자제력이 부족해서도 아니다. 많이 먹고 덜 움직여서 살이 찌는 것이 절대 아니다. 인체 시스템은 우리 몸에 설정된 체중을 그대로 유지하려고 언제나 애를 쓴다. 다이어트를 해서 살을 빼면 우리 인체 시스템은 그만큼을 채우기 위해 필사적으로 노력한다. 사람은 아무리 강한 의지로도 인체의 자동 시스템과 맞서 싸워 이길 수 없다. 그렇다면 애초에 왜 그렇게 높게 체중 설정이 되어버렸을까? 체중을 얼마로 설정할지를 결정하는 것은 바로 인슐린인데 우리는 그동안 잘못된 식습관 때문에 인슐린 내성을 너무 높여왔다고 저자는 말한다. 살을 뺀 상태를 계속 유지할 수 있는 단 한 가지 방법은 인체의 체중 설정 값을 낮추는 것뿐이다. 어떻게 해서 낮출 수 있을까? \n제2형 당뇨 및 비만 치료의 세계적 권위자인 제이슨 펑은 이 책에서 ‘인슐린 악순환에서 벗어나 체중이 다시 설정되도록 하는 방법’, ‘인슐린 패턴을 조절할 수 있는 5단계 실천 방법’, 이를 통해 ‘적정 체중을 지속적으로 유지하는 방법’을 알려주고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "613.25",
+                "UPDATE_DATE": "20190102",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "제이슨 펑 지음 ;제효영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "517.52",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6912533_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "407 p.",
+                "CONTROL_NO": "CIP2018029901",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189199500",
+                "INPUT_DATE": "20180913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "비만코드",
+                "PUBLISH_PREDATE": "20181101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

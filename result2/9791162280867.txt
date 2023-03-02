@@ -1,0 +1,67 @@
+{
+    "otitle": "잠자리 요정",
+    "oauthor": "파란장미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아기 용과 별빛 요정들 (잠자리에서 읽어 주는 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490328621",
+                "image": "https://shopping-phinf.pstatic.net/main_3249032/32490328621.20220520191341.jpg",
+                "author": "",
+                "discount": "10800",
+                "publisher": "엄마마음",
+                "pubdate": "20180105",
+                "isbn": "9791162280867",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "엄마마음",
+                "DDC": "",
+                "UPDATE_DATE": "20171121",
+                "EA_ADD_CODE": "74080",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 제임스 메이휴",
+                "SERIES_TITLE": "꽃씨책방 세계수상창작",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791162280539",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "0*0",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "32",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162280867",
+                "INPUT_DATE": "20171107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "N",
+                "TITLE": "아기 용과 별빛 요정들",
+                "PUBLISH_PREDATE": "20171130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

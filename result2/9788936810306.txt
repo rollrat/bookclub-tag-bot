@@ -1,0 +1,67 @@
+{
+    "otitle": "일본사를 움직인 100인",
+    "oauthor": "양은경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "일본사를 움직인 100인 (쇼토쿠 태자부터 미야자키 하야오까지 일본을 움직인 사람들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466938627",
+                "image": "https://shopping-phinf.pstatic.net/main_3246693/32466938627.20220527032006.jpg",
+                "author": "양은경",
+                "discount": "20700",
+                "publisher": "청아출판사",
+                "pubdate": "20120701",
+                "isbn": "9788936810306",
+                "description": "신화의 시대부터 인간의 시대까지, 100인의 인물로 관통하는 일본사!\n\n일본사의 모든 것을 100인의 발자취로 정리한『일본사를 움직인 100인』. 일본사에 한 획을 그은 100명의 인물을 중심으로 오늘날 일본과 일본인의 정신을 이룬 역사, 문화, 사상에 대해 살펴본 책이다. 쇼토쿠 태자부터 미야자키 하야오까지, 정치가, 사무라이, 군인, 사상가, 예술가 등 폭넓게 다루었으며 그들의 행적과 사고방식을 상세히 서술하여 일본의 역사를 쉽고 흥미롭게 읽을 수 있도록 구성하였다. 특히 도요토미 히데요시, 이토 히로부미, 후쿠자와 유키치 등 우리에게는 악인이지만 일본인에게는 영웅으로 추앙받는 인물을 다수 수록하였으며, 이들에 대한 평가 역시 양국의 입장을 반영하여 기술하였다. 또한 근현대의 인물을 비중 있게 다루었으며, 이를 통해 세계대전으로 비롯된 갈등의 근원을 분석하고자 하였다. 각 시대와 주요 사건을 통해 일본인의 행적과 사고방식을 파악하는 데 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20120711",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "양은경 엮음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936810306",
+                "INPUT_DATE": "20120615",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "일본사를 움직인 100인 ",
+                "PUBLISH_PREDATE": "20120701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

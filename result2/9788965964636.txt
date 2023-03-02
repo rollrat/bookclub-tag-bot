@@ -1,0 +1,78 @@
+{
+    "otitle": "느끼고 아는 존재",
+    "oauthor": "안토니오 다마지오 저/고현석 역/박문호 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:07 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "느끼고 아는 존재 (인간의 마음은 어떻게 진화했을까)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466643796",
+                "image": "https://shopping-phinf.pstatic.net/main_3246664/32466643796.20230207165444.jpg",
+                "author": "안토니오 다마지오",
+                "discount": "14690",
+                "publisher": "흐름출판",
+                "pubdate": "20210830",
+                "isbn": "9788965964636",
+                "description": "세계적인 신경과학자 안토니오 다마지오, \n그의 40여 년에 걸친 ‘감정과 의식’ 연구의 결정판!\n\n안토니오 다마지오는 ‘인간의 정서와 느낌’에 관한 연구에서 전 세계적으로 인정받고 있는 신경생물학 분야의 선도적인 석학이다. 그는 인간의 ‘정서’와 ‘느낌’이 의사결정에 미치는 영향과 자아 형성에 기여한 역할을 연구했으며, 인간의 마음이 단순히 뇌의 작용만으로 환원할 수 없는 문제임을 고찰해냈다. 그는 생명의 탄생에서부터 인간 문명의 발전에 이르는 긴 진화적 과정 동안 느낌과 감정이 생명 유지에 중추적인 역할을 했다고 말한다. \n세상에서 가장 풀기 어려운 문제 중 하나인 의식의 비밀에 한층 더 가까이 다가가고자 했던 다마지오는 인간의 감정과 의식에 대한 자신의 아이디어를 세상에 설명해왔다. 다마지오는 이 책 《느끼고 아는 존재》에서 그동안 자신이 의식의 문제에 천착해온 결과를 갈무리하고 최근 연구 성과를 덧붙였다. 이 책에는 인간의 신체와 마음의 작용에 대한 다마지오의 통합적 관점이 그 어떤 책보다도 간결하고 포괄적으로 설명되어 있다."
+            },
+            {
+                "title": "Feeling & Knowing: Making Minds Conscious (『느끼고 아는 존재』 원서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487661020",
+                "image": "https://shopping-phinf.pstatic.net/main_3248766/32487661020.20220520172353.jpg",
+                "author": "안토니오 다마지오",
+                "discount": "25400",
+                "publisher": "Pantheon Books",
+                "pubdate": "20211026",
+                "isbn": "9781524747558",
+                "description": ""
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210929",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "지은이: 안토니오 다마지오 ;옮긴이: 고현석",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "115*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "236 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965964636",
+                "INPUT_DATE": "20210810",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "느끼고 아는 존재",
+                "PUBLISH_PREDATE": "20210830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

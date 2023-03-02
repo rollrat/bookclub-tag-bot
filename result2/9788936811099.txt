@@ -1,0 +1,67 @@
+{
+    "otitle": "빅뱅에서 인간까지",
+    "oauthor": "마그나 히스토리아 연구회 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빅뱅에서 인간까지 (우주, 생명, 문명)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467372518",
+                "image": "https://shopping-phinf.pstatic.net/main_3246737/32467372518.20221229071803.jpg",
+                "author": "마그나 히스토리아 연구회",
+                "discount": "18000",
+                "publisher": "청아출판사",
+                "pubdate": "20171110",
+                "isbn": "9788936811099",
+                "description": "과학을 통해 세상을 바라본다\n현재 지구상의 유일한 포식자인 인류는 혹독한 자연환경에서 살아남아 문명을 발전시키고,\n지구를 넘어 우주로 그 발걸음을 향하고 있다. 그 과정에서 그저 생존하기 위한 발전에서 벗\n어나 우리를 이루고 있는 모든 것에 대해 궁금증을 갖게 됐다. 이에 대해 과거에는 종교와\n신학의 힘을 빌려 형이상학적 답을 내놓았으나, 16세기 과학혁명 이후 과학적인 사고에 기반\n을 두고 근본적인 답을 찾아가고 있다. 이 책은 인류가 직면한 여러 질문에 대해 명확한 답\n을 주기보다, 그 답을 찾기 위해 우리에게 필요한 지식이 무엇인지 다룬다.\n28명의 과학자들이 들려주는 자연과 과학 이야기\n《빅뱅에서 인간까지_ 우주, 생명, 문명》은 경희대학교 후마니타스 칼리지 필수강좌를 강의하\n는 28명의 과학자들이 함께한 책이다. 후마니타스 칼리지는 신입생 대상의 교육 과정으로,\n과학적인 시각으로 자연을 바라보고, 과학적 사고를 하는 시민 양성을 목표로 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "500",
+                "UPDATE_DATE": "20171116",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 마그나 히스토리아 연구회,권영균,김낙우,김성수,김영덕,남순건,문용재,박용섭,원창연,이정은,정의헌,정진모,김정호,송재규,안정선,하상수,김용준,배진우,유순지,윤형문,이성재,정용석,조세형,신기순,조영욱,허영범,공우석,다나카 유키야,윤순옥",
+                "SERIES_TITLE": "",
+                "KDC": "400",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6396380_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6396380_3.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "415 p.",
+                "CONTROL_NO": "CIP2017027201",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936811099",
+                "INPUT_DATE": "20171019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "빅뱅에서 인간까지",
+                "PUBLISH_PREDATE": "20171110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

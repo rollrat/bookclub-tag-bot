@@ -1,0 +1,67 @@
+{
+    "otitle": "발레 작품의 세계",
+    "oauthor": "한지영 저/이린 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "발레 작품의 세계",
+                "link": "https://search.shopping.naver.com/book/catalog/32441623644",
+                "image": "https://shopping-phinf.pstatic.net/main_3244162/32441623644.20230226071223.jpg",
+                "author": "한지영",
+                "discount": "11520",
+                "publisher": "플로어웍스",
+                "pubdate": "20210121",
+                "isbn": "9791196999728",
+                "description": "[더 발레 클래스]는 도서출판 플로어웍스에서 ‘발레 교양 인문서’이자 ‘발레 입문서’로 론칭한 시리즈다. 발레 분야의 총괄적인 지식과 정보 중에서 양질의 콘텐츠를 선별하여 출간한다.\n\n《발레 작품의 세계》는 간결하지만 풍부한 내용으로 아름다운 발레 작품 서른 개를 소개한다. 작품 하나하나에 대한 저자의 꼼꼼한 설명은 작품 성격을 직관적으로 압축한 짧은 부제와 함께 연결 지어 다뤄진다. 단순한 구성이지만 글을 따라가다 보면 어느덧 작품의 줄거리에서 탄생 비화, 그리고 예술가들의 상상력이 장을 이루는 발레\n 작품의 넓은 세계를 만날 수 있다.이 작품은 언제 처음 만들어졌는지, 또 무엇을 보면 좋을지에 대한 기초적 정보를 친절히 안내한다. 한편, ‘〈고집쟁이 딸〉이 초연된 프랑스의 사회문화적 상황은 어땠을까?’, ‘〈라 실피드〉와 〈지젤〉처럼 초현실적인 스토리에 당시 관객들은 왜 열광했을까?’, ‘샤를 페로의 동화 〈잠자는 숲속의 미녀〉는 어떻게 러시아 발레를 대표하는 작품이 될 수 있었을\n까?’라는 질문을 던지며 해설의 깊이를 더한다.\n찰나의 예술인 발레. 이것은 종이 위에 고정되어 있거나 언어적 수단을 통해 그 의미가 정확히 전달되는 것이 아니기에, 저자는 실제 공연장의 브로슈어에서 접할 수 있는 다양한 정보에서부터 전문가들의 연구 결과를 매끄럽게 엮어낸 스토리텔링 방식을 택했다. 그 이야기를 통해 그동안 환상과 동경 속에 가려져 있던 발레 예술의 진정한 가치를 일깨우고자 한 저자 특유의 감성을 엿볼 수 있을 것이다. 아름답지만 낯선 발레의 세계. 이 책은 발레 애호가는 물론이고 발레를 마주할 예비 관객들에게 꼭 필요한 가이드북이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Floorworx(플로어웍스)",
+                "DDC": "",
+                "UPDATE_DATE": "20210308",
+                "EA_ADD_CODE": "03680",
+                "PUBLISHER_URL": "http://floorworx.net/",
+                "AUTHOR": "지은이: 한지영 ;삽화: 이린",
+                "SERIES_TITLE": "",
+                "KDC": "685.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/16/9791196999728.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "125*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "CIP2020053553",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196999728",
+                "INPUT_DATE": "20201216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "발레 작품의 세계",
+                "PUBLISH_PREDATE": "20210121",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

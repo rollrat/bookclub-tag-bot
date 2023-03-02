@@ -1,0 +1,67 @@
+{
+    "otitle": "신데렐라 포장마차 1",
+    "oauthor": "정가일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "신데렐라 포장마차 1 (정가일 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505027624",
+                "image": "https://shopping-phinf.pstatic.net/main_3250502/32505027624.20221019115650.jpg",
+                "author": "정가일",
+                "discount": "10800",
+                "publisher": "들녘",
+                "pubdate": "20170914",
+                "isbn": "9791159252808",
+                "description": "정가일 장편소설 『신데렐라 포장마차』 제1권. 정가일은 이 책을 통해서 인간 사회의 무수한 충돌을 음식으로 풀어낸다. 햄릿의 유명한 고뇌 “죽느냐, 사느냐 그것이 문제로다!” 못지않게 뭇 사람들에게는 “먹기 위해 사느냐, 살기 위해 먹느냐”가 중요한 문제이기 때문이다. 등장하는 사람들은 음식을 통해 자기 자신을 증명하려 애쓴다. 살인사건의 용의자로 몰린 이는 매일 다른 곳에 하루에 1시간만 나타나는 미스터리한 푸드트럭 ‘신데렐라 포장마차’에서 식사를 했다는 사실을 증명해야 풀려날 수 있고, 암 선고를 받은 어느 남자는 사랑하는 여자에게 두 사람의 ‘소울 푸드’와 관련된 단서로 유산의 위치를 남기려 애쓴다. 한편 탐정과 형사는 이들이 먹은 음식을 통해 숨겨진 비밀을 밝혀내려 노력한다. 거짓말은 할 수 있어도 자신이 먹은 것을 부정할 수는 없다. 먹는 음식이 바로 그 사람이기 때문이다. ‘콩소메’ ‘뵈프 부르기뇽’ ‘물 마리니에르’라는 프랑스 요리가 주인공이 되는 세 가지 에피소드가 단편 연작 형식으로 이어진다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20171012",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "지은이: 정가일",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6346312_6.txt",
+                "SET_ISBN": "9791159252792",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6346312_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "CIP2017022921",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159252808",
+                "INPUT_DATE": "20170902",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "신데렐라 포장마차",
+                "PUBLISH_PREDATE": "20170914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

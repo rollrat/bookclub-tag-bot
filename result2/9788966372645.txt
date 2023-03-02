@@ -1,0 +1,67 @@
+{
+    "otitle": "엄마의 기분이 아이의 태도가 되지 않게",
+    "oauthor": "전소민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엄마의 기분이 아이의 태도가 되지 않게 (엄마는 아이에게 가장 큰 세상이니까)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454972439",
+                "image": "https://shopping-phinf.pstatic.net/main_3245497/32454972439.20230207163835.jpg",
+                "author": "전소민",
+                "discount": "13500",
+                "publisher": "미다스북스",
+                "pubdate": "20220119",
+                "isbn": "9788966372645",
+                "description": "“엄마의 기분을 재부팅하라!”\n그것이 육아의 시작이자 지름길이다!\n\n“나는 왜 내 기분 따라 아이를 대할까?\n 지금 내가 힘든 건 정말 아이 때문일까?”\n\n엄마의 감정을 다스리는 것이 육아의 시작이다!\n아이에게 소리치기 전에 나의 마음부터 들여다봐라\n\n아이의 태도는 엄마의 기분에서 결정된다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220603",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전소민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "320 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966372645",
+                "INPUT_DATE": "20220105",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "엄마의 기분이 아이의 태도가 되지 않게",
+                "PUBLISH_PREDATE": "20220119",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

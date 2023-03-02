@@ -1,0 +1,67 @@
+{
+    "otitle": "한글에 대해 알아야 할 모든 것",
+    "oauthor": "최경봉,시정곤,박영준 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한글에 대해 알아야 할 모든 것",
+                "link": "https://search.shopping.naver.com/book/catalog/32473960059",
+                "image": "https://shopping-phinf.pstatic.net/main_3247396/32473960059.20230219103420.jpg",
+                "author": "최경봉^시정곤^박영준",
+                "discount": "10800",
+                "publisher": "책과함께",
+                "pubdate": "20081001",
+                "isbn": "9788991221390",
+                "description": "영어가 판을 치는 현재, 한글의 가치를 재발견하다! \n우리가 몰랐던 29가지 한글 이야기!\n\n『한글에 대해 알아야 할 모든 것』. 만약 한글이 만들어지지 않았다면, 지금 우리의 문자 생활은 어떠할까? 한문을 쓰고 있을까, 이두나 향찰 같은 표기법을 그대로 쓰고 있을까, 아니면 영어를 쓰고 있을까? 이 책은 우리글의 중요성을 알려준다. 책 제목 그대로 한글에 대해 알아야 할 모든 것을 담음으로써 한글의 가치를 부각시킨다.\n\n창제부터 지금까지 우리가 알지 못했던 29가지의 한글 이야기를 담겨 있다. 한글 창제에 둘러싼 논란이 계속되고 있는 이유, 한글 창제 이후 세종대왕이 한글의 보급을 위해 벌인 활동과 숨겨진 의미, 일본 강점기로 인해 바뀐 우리의 문자 생활 등 우리가 잘못 알고 있는 사실을 한글에 대한 기존 상식으로 바로잡는다.\n\n이 책은 크게 4부로 구성되어 있다. 1부에서는 한글 창제의 동기와 목적을 역사적 맥락 하에서 밝히고 2부에서는 한글이 만들어진 이후 한글이 어떻게 쓰였으며 나라에서는 한글 보급을 위해 어떤 일을 벌였는지를 알아본다. 3부에서는 한글이 어떤 문자인지 구체적으로 알아본다. 마지막 4부에서는 한글의 현재와 미래에 대해 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책과함께",
+                "DDC": "495.71",
+                "UPDATE_DATE": "20081009",
+                "EA_ADD_CODE": "03710",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최경봉,시정곤,박영준 지음",
+                "SERIES_TITLE": "",
+                "KDC": "711.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2304661_6_1.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2304661_3_1.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2008002831",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991221390",
+                "INPUT_DATE": "20080916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "한글에 대해 알아야 할 모든 것",
+                "PUBLISH_PREDATE": "20081001",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

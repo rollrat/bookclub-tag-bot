@@ -1,0 +1,67 @@
+{
+    "otitle": "농장해부도감",
+    "oauthor": "줄리아 로스먼 글그림/이경아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "농장해부도감 (인간과 자연이 빚어낸 결실의 공간, 농장의 모든 지식을 아름다운 그림으로 담다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485079144",
+                "image": "https://shopping-phinf.pstatic.net/main_3248507/32485079144.20221019135325.jpg",
+                "author": "줄리아 로스먼",
+                "discount": "16200",
+                "publisher": "더숲",
+                "pubdate": "20161103",
+                "isbn": "9791186900185",
+                "description": "인간과 자연이 함께 살아가는 ‘농장’, 그 곳에 담긴 흥미로운 지식!\n\n섬세하고 생동감 있는 그림으로 자연을 탐구하는 따뜻한 아티스트 줄리아 로스먼. 그녀가《자연해부도감》에 이어 『농장해부도감』에서 도시를 벗어나 시골 농장을 배경으로 좀 더 본격적이고 친근한 자연에 대해 다루고 있다. ‘농장’은 자연이 주는 소중한 것들을 얻으며 살아가는 과정을 집약적으로 담아놓은 공간이다. 저자는 ‘농장’에 살며 도시에서는 볼 수 없었던 자연의 경이로운 모습과 흥미로운 시골 생활의 지식과 모습을 매력적인 방식으로 소개한다. \n\n이 책은 대도시 뉴욕에서 태어나 자란, 뉴요커인 저자가 어느 성탄절 날 시골을 방문하게 되면서 처음 만나는 광활한 풍경부터 농장 곳곳의 신기한 농기구와 동물들, 논밭의 작물들과 시골 오래된 부엌까지 둘러보는 호기심 가득한 시선을 따라가고 있다. 저마다의 쓰임새를 가진 농기구와 농기계들과 토마토, 사과 등 우리가 즐겨먹는 채소 과일의 특징과 재배법, 자연에서 얻은 것들로 요리하는 건강한 먹거리까지 그녀의 생생한 그림을 통해 우리는 시골을 경험하고 있는 듯한 활기와 시골 생활의 생생한 삶의 현장까지 만나게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)더숲",
+                "DDC": "",
+                "UPDATE_DATE": "20161109",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "줄리아 로스먼 글 그림 /  이경아 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "228",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186900185",
+                "INPUT_DATE": "20161014",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "농장해부도감",
+                "PUBLISH_PREDATE": "20161103",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

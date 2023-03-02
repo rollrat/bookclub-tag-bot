@@ -1,0 +1,67 @@
+{
+    "otitle": "궁금해서 밤새 읽는 한국사",
+    "oauthor": "이근호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "궁금해서 밤새 읽는 한국사 (한권으로 압축한 한국사 완결판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473733917",
+                "image": "https://shopping-phinf.pstatic.net/main_3247373/32473733917.20221019114125.jpg",
+                "author": "이근호",
+                "discount": "12600",
+                "publisher": "청아출판사",
+                "pubdate": "20160810",
+                "isbn": "9788936810900",
+                "description": "꼭 알아야 할 핵심만 정리해 압축한 한국사. 많지 않은 분량이지만 우리 역사의 시작에서부터 제18대 대통령선거까지 한국사를 사실적으로 재구성해 거대한 흐름을 파악하는 데 도움을 줄 수 있도록 정리해 놓았다. 각 시대별 개괄과 마무리 정리를 통해 흐름으로 꼭 알아야 할 핵심만 짚어 놓았고, 텍스트가 읽기 힘들어질 때쯤 사건과 관련 있는 이미지를 배치해 지루함을 보완해 놓았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "951.9",
+                "UPDATE_DATE": "20160810",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이근호",
+                "SERIES_TITLE": "",
+                "KDC": "911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5626555_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5626555_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "388",
+                "CONTROL_NO": "CIP2016017854",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936810900",
+                "INPUT_DATE": "20160721",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "궁금해서 밤새 읽는 한국사",
+                "PUBLISH_PREDATE": "20160810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

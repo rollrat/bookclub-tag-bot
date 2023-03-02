@@ -1,0 +1,67 @@
+{
+    "otitle": "인생은 단짠단짠",
+    "oauthor": "심혜진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인생은 단짠단짠 (다디달고 짜디짠 인생의 삼시 세끼)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441638389",
+                "image": "https://shopping-phinf.pstatic.net/main_3244163/32441638389.20221019142553.jpg",
+                "author": "심혜진",
+                "discount": "13500",
+                "publisher": "현암사",
+                "pubdate": "20190701",
+                "isbn": "9788932319940",
+                "description": "『인생은 단짠단짠』은 일상에서 만나는 달큼한 순간들과 눈물을 삼키는 짜디짠 사연들, 밥은 먹었느냐 안부를 묻고 싶은 사람들에 대한 추억을 담고 있다. 이 책의 저자 심혜진은 누구보다도 먹는 것을 즐기며 한 끼 한 끼에서 인생의 희로애락을 발견한다. 《인천투데이》, 《오마이뉴스》 등에 사연이 담긴 요리 이야기를 연재하며 독자들을 웃기기도, 울리기도 해왔다. 이 책을 읽다 보면 매일의 식사에 이토록 다양한 생각과 사람, 감정이 얽혀 있다는 사실을 새삼 깨닫게 될 것이다. 잊은 줄 알았던 추억과 맛을 떠올리게 하는, 음식에 대한 가장 따뜻한 에세이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20190703",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "심혜진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "594.04",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "310 p.",
+                "CONTROL_NO": "CIP2019021235",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932319940",
+                "INPUT_DATE": "20190528",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "인생은 단짠단짠",
+                "PUBLISH_PREDATE": "20190701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

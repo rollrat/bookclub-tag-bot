@@ -1,0 +1,67 @@
+{
+    "otitle": "원하는 모습으로 살고 있나요?",
+    "oauthor": "여성환경연대 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "원하는 모습으로 살고 있나요? (단순하게 잘 사는 법, 에코페미니즘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463839889",
+                "image": "https://shopping-phinf.pstatic.net/main_3246383/32463839889.20221228074543.jpg",
+                "author": "여성환경연대",
+                "discount": "16200",
+                "publisher": "프로젝트P",
+                "pubdate": "20190930",
+                "isbn": "9788957360132",
+                "description": "“괜찮지 않은 세상을 괜찮게 사는 법을 고민하는 사람들의 이야기.”\n\n‘계속 이렇게 살아도 괜찮을까? 다음 세대도 이 땅에서 무사히 살 수 있을까?’하는 질문에서 시작된 것이 에코페미니즘 운동이다. 에코페미니즘은 인간이 자연을 파괴하고, 남성이 여성을 지배하며, 인간과 인간이 서로 경쟁과 탐욕 속에서 생활하는 현대 사회에 인간과 인간, 인간과 자연의 평등한 관계를 형성하기 위해 나타난 새로운 문화적 패러다임이다. \n\n에코페미니스트들은 지배 계층의 남성주의적인 사고, 발전지상주의를 비판하고 글로벌 대기업의 생태 파괴적인 행동에 반기를 들며, 발전 논리에서 소외되거나 희생된 여성·개발도상국·생태의 편에 서서 지금 우리가 할 수 있는 일이 무엇인지 모색한다. 이 책은 지속 가능한 발전을 위해 지금 우리가 꼭 알아야 하는 에코페미니즘 사상과, 20여 년간 우리 사회에 생태주의, 평등주의, 여성주의가 뿌리내릴 수 있도록 다양한 활동을 펼쳐온 여성환경연대를 조명한다. 특히 우리가 바로 이 자리에서 실천할 수 있는 일들을 구체적으로 제안함으로써 생태와 인간, 발전과 보전이 상생할 수 있는 사회를 함께 만들자고 설득한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20191014",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "지은이: 여성환경연대",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*255",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "215 p.",
+                "CONTROL_NO": "CIP2019034148",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957360132",
+                "INPUT_DATE": "20190829",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "원하는 모습으로 살고 있나요?",
+                "PUBLISH_PREDATE": "20190930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

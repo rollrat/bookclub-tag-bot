@@ -1,0 +1,67 @@
+{
+    "otitle": "아보카도를 만지며 산책을 합니다",
+    "oauthor": "선재서 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아보카도를 만지며 산책을 합니다 (산책으로 끝장을 보려는, 산책 중독자의 즐거운 소요逍遙)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489530877",
+                "image": "https://shopping-phinf.pstatic.net/main_3248953/32489530877.20221228074322.jpg",
+                "author": "선재서",
+                "discount": "13500",
+                "publisher": "폭스코너",
+                "pubdate": "20181022",
+                "isbn": "9791187514190",
+                "description": "“그냥 모퉁이를 돌았을 뿐인데, 위안을 얻을 때가 있다.”\n―유머와 위안이 가득한 산책 중독자의 즐거운 소요(逍遙)기와 필름 카메라가 포착한 일상의 풍경들!\n\n《아보카도를 만지며 산책을 합니다》는 여행보다 산책을 더 좋아하는 산책 중독자가 일본 여행을 가서도 명소 대신 동네를, 관광 대신 산책을 택해 목적 없이 소요한 이야기를 담은 에세이집이다. 일본의 동네를 하릴없이 돌아다니다 문득 떠오른 자유로운 상념들과 필름 카메라로 포착한 일상의 풍경들이 오롯이 담겨 있다. 작가의 남다른 시선과 특유의 언어감각이 빚어낸 유쾌한 문장들과 필름 카메라 특유의 정서적 감응을 불러일으키는 사진들을 따라가다 보면, 마치 일본의 고즈넉한 동네를 함께 거니는 듯한 기분을 느낄 수 있다. \n\n어딘가로 가던 중 갑자기 마음이 동해 내린 정거장, 그저 하던 일을 하고 있을 뿐인 사람들, 길에서 마주친 고양이와 새들, 비슷한 듯 다른 일본의 동네와 길과 건물들을 바라보며 떠올린 상상과 상념들은, 작정하지 않고 마주한 풍경들처럼 때로는 예기치 않은 위안과 평온을, 때로는 깔깔거리게 하는 유머와 위트를, 때로는 삶에 대한 통찰로 공감과 위로를 전해준다. 작가의 말대로 “그냥 모퉁이를 돌았을 뿐인데” 거기서 마주친 위안의 풍경들이 독자들에게도 생생하게 전달될 것이다. 당장 산책중독자의 유쾌한 산책기가 독자들의 산책 유발 지수를 팍팍 높여줄 것이다. \n\n일상을 바라보는 저자만의 독특한 시선과 상상이, 시적이기도 하고 산문적이기도 한 개성 넘치는 문장들과 만나 읽는 재미가 상당하다. 무심한 듯 세심하게 촬영된 필름 카메라 사진은 보는 것만으로도 평화롭고 아름답다. 독자들을 산책의 매력 속으로, 그런 산책길에 문득 찾아오는 순간의 미학 속으로 끌어들이는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "폭스코너",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181025",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "선재서 글·사진",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6926111_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6926111_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "CIP2018030903",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187514190",
+                "INPUT_DATE": "20180925",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아보카도를 만지며 산책을 합니다",
+                "PUBLISH_PREDATE": "20181022",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

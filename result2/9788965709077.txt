@@ -1,0 +1,67 @@
+{
+    "otitle": "구름을 사랑하는 기술",
+    "oauthor": "이라키 켄타로 저/김정환 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "구름을 사랑하는 기술 (물과 공기가 빚어낸, 우리가 몰랐던 하늘 위 진짜 세상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473629719",
+                "image": "https://shopping-phinf.pstatic.net/main_3247362/32473629719.20230131163138.jpg",
+                "author": "아라키 켄타로",
+                "discount": "14400",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20191224",
+                "isbn": "9788965709077",
+                "description": "구름이 우리에게 주는 즐거움을 맛보다!\n\n기상 전문가가 10년 동안 수집한 300여 장의 아름다운 구름 사진과 구름을 이해하기 위한 기상 과학을 알기 쉽게 정리한 『구름을 사랑하는 기술』. 이 책은 구름의 생성부터 소멸까지 전 과정에서 일어나는 모든 것을 이야기한다. 어려운 도식이나 공식 대신 구름을 이루는 구성 요소들을 일러스트로 등장시켜 알기 쉽게 설명해준다. 설명의 이해를 도울 뿐 아니라 한 편의 구름 작품집을 연상케 하는 구름 사진들을 보면서 단순히 구름 모양으로 날씨를 예측하고 끝내는 게 아니라 구름의 아름다움을 충분히 느끼고 감상하는 동시에 날씨 변화 또한 알아차릴 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20200102",
+                "EA_ADD_CODE": "03450",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "아라키 켄타로 지음 ;김정환 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "453.76",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "351 p.",
+                "CONTROL_NO": "CIP2019040136",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965709077",
+                "INPUT_DATE": "20191008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "구름을 사랑하는 기술",
+                "PUBLISH_PREDATE": "20191224",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

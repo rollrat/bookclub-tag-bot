@@ -1,0 +1,67 @@
+{
+    "otitle": "생각의 미술관",
+    "oauthor": "박홍순 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "생각의 미술관 (잠든 사유를 깨우는 한 폭의 울림)",
+                "link": "https://search.shopping.naver.com/book/catalog/32502936727",
+                "image": "https://shopping-phinf.pstatic.net/main_3250293/32502936727.20221019104439.jpg",
+                "author": "박홍순",
+                "discount": "13500",
+                "publisher": "웨일북(whalebooks)",
+                "pubdate": "20170430",
+                "isbn": "9791188248018",
+                "description": "미술관에서 만나는 철학\n\n한 폭의 그림에 얼마나 많은 이야기가 담겨 있는지 어떻게 알아낼 수 있을까. 『생각의 미술관』은 우리에게 잘 알려진 미술 작품에서 발견한 하나의 단서가 우리가 살아가는 세상의 다양한 모습으로 확장되는 과정을 보여준다. 미술 작품과 인문학을 여러 각도에서 꾸준히 접목해온 저자 박홍순은 이 책에서 ‘그림을 보고 가만히, 생각에 꼬리를 무는 과정’ 자체를 철학이라 정의한다. 그리고 수많은 철학자의 난해한 개념을 외우는 데서 벗어나 독자 스스로 자유롭게 사유하는 길을 안내한다.\n\n저자 박홍순은 이 책에서 ‘그림을 보고 가만히, 생각에 꼬리를 무는 과정’ 자체를 철학이라 정의한다. 그리고 수많은 철학자의 난해한 개념을 외우는 데서 벗어나 독자 스스로 자유롭게 사유하는 길을 안내한다. 그 길에서는, 전시회에 변기를 내놓고 《샘》이라고 이름 붙인 뒤샹과 소설《1984》의 작가 조지 오웰이 연결되며, 다림질하는 여인을 그린 로트렉의 작품이 커피농장의 인권으로까지 확장되기도 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)웨일북",
+                "DDC": "100",
+                "UPDATE_DATE": "20170518",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "박홍순",
+                "SERIES_TITLE": "",
+                "KDC": "100",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6200570_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6200570_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "330페이지 내외",
+                "CONTROL_NO": "CIP2017009326",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188248018",
+                "INPUT_DATE": "20170407",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "생각의 미술관",
+                "PUBLISH_PREDATE": "20170430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

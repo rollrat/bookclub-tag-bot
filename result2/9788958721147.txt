@@ -1,0 +1,67 @@
+{
+    "otitle": "길들이는 건축 길들여진 인간",
+    "oauthor": "이상현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "길들이는 건축 길들여진 인간 (양반집과 궁궐 도성과 현대 건축의 은밀한 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454218571",
+                "image": "https://shopping-phinf.pstatic.net/main_3245421/32454218571.20221019135100.jpg",
+                "author": "이상현(이지 쌤)",
+                "discount": "16200",
+                "publisher": "효형출판",
+                "pubdate": "20130102",
+                "isbn": "9788958721147",
+                "description": "'길들임'을 키워드로 건축을 읽다!\n\n명지대학교 건축대학 건축학부 교수로서 '도시 공간과 인간의 삶'에 대해 연구해온 이상현의 『길들이는 건축 길들여진 인간』. '길들임'이라는 주제를 통해 건축을 사회학적으로 고찰하고 있다. 인간과 건축 사이에 존재하는 길들이는 자와 길들여지는 자의 은밀한 투쟁을 파헤쳐나간다. 건축은 당연히 사람을 위한 것이라고, 이로운 것이라고 생각하기 쉬운 우리 습관적 사고를 무너뜨리고 있다. \n\n길들이는 건축과 길들여진 인간뿐 아니라, 길들여지지 않게 하는 건축과 길들여짐에서 깨어나는 인간에 대한 이야기를 담았다. 전반부에서는 물리적, 이념적 장치보다 인간을 효과적으로 길들이는 건축의 모습을 탐구한다. 후반부에서는 전반부와 반대로 인간이 건축의 길들이기로부터 벗어나고자 꾸준히 펼쳐온 노력에 대해 살펴보고 있다. 다양한 스펙트럼에서 구체적 사례를 들어 이해하기 쉽게 설명한다. 건축에 대한 혁신적 전환점을 마련해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "효형출판",
+                "DDC": "720.2",
+                "UPDATE_DATE": "20130107",
+                "EA_ADD_CODE": "03540",
+                "PUBLISHER_URL": "http://www.hyohyung.co.kr",
+                "AUTHOR": "이상현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "610.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2595414_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2595414_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012005832",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958721147",
+                "INPUT_DATE": "20121210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "길들이는 건축 길들여진 인간 ",
+                "PUBLISH_PREDATE": "20130102",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

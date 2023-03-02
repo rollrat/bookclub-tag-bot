@@ -1,0 +1,67 @@
+{
+    "otitle": "문성실의 마이 베스트 레시피",
+    "oauthor": "문성실 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "문성실의 마이 베스트 레시피 (문성실이 뽑은 최고의 집밥 105)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506082005",
+                "image": "https://shopping-phinf.pstatic.net/main_3250608/32506082005.20221019143553.jpg",
+                "author": "문성실",
+                "discount": "14400",
+                "publisher": "상상출판",
+                "pubdate": "20161202",
+                "isbn": "9791187795001",
+                "description": "13년 집밥의 기록, 저자가 뽑은 최고의 요리 105!\n\n집밥 전도사로 활약해온 저자 문성실이 블로그와 요리책을 통틀어 최고의 레시피만 엄선하여 한 권의 책으로 엮었다. 시금치무침, 오이무침, 콩나물무침, 고등어조림, 생선구이와 같이 매일 먹어도 물리지 않는 반찬과 김치찌개, 된장찌개, 해물순두부찌개의 따끈한 국물 요리, 닭볶음탕, 명란파스타, 참치 마요덮밥 등의 외식이 필요 없는 일품요리까지.『문성실의 마이 베스트 레시피』는 혼밥 먹는 1인 가구도, 아이 키우는 집도 한 번 장만해두면 평생 밥상을 책임질 수 있는 집밥 요리 바이블이다. \n\n『문성실의 마이 베스트 레시피』는 책 제목처럼 마트에 가면 쉽게 장바구니에 넣을 수 있는 식재료로 어려서부터 먹어온 친근한 음식, 뒤돌아서면 또 생각나는 음식, 평소 가장 많이 해 먹는 음식, 최고의 레시피라고 생각한 105가지 메뉴를 소개한다. 책에는 가능한 저자의 손맛을 따라할 수 있도록 주요 식재료의 분량을 몇 개, 몇 대 등의 기본 표시와 함께 그램(g)으로 환산하여 표기했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "문성실",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5894724_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5894724_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "b5",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272",
+                "CONTROL_NO": "CIP2016027389",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187795001",
+                "INPUT_DATE": "20161111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "문성실의 마이 베스트 레시피",
+                "PUBLISH_PREDATE": "20161202",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "얼음붕대 스타킹",
+    "oauthor": "김하은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "얼음붕대 스타킹",
+                "link": "https://search.shopping.naver.com/book/catalog/32467122966",
+                "image": "https://shopping-phinf.pstatic.net/main_3246712/32467122966.20221019135750.jpg",
+                "author": "김하은",
+                "discount": "8550",
+                "publisher": "바람의아이들",
+                "pubdate": "20200510",
+                "isbn": "9788994475479",
+                "description": "김하은의 청소년소설 『얼음붕대 스타킹』. 이 책은 주로 동화책을 써왔던 저자 김하은의 첫 번째 청소년 소설이다. 이제 막 찾아온 첫사랑, 들뜬 채 아무렇지도 않게 들어선 어두운 골목에 그렇게나 춥고 어두운 함정이 있을 줄 누가 알았을까? 여, 꽃다운 나이로군. 그날, 내 꽃은 이미 져 버린 걸까? 영어 깜지를 쓰고, 급식 반찬을 흉보고, 시험 성적에 좌절하고 내 삶은 이렇게 계속되어야 하는데…… 손끝을 꽁꽁 얼려 버리고, 한여름의 검정 스타킹으로도 피할 수 없는 이 추위는 언제쯤 물러날까. 나는 다시 꽃을 피울 수 있을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바람의 아이들",
+                "DDC": "",
+                "UPDATE_DATE": "20140728",
+                "EA_ADD_CODE": "44800",
+                "PUBLISHER_URL": "https://www.barambooks.net/",
+                "AUTHOR": "김하은",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788990878045",
+                "REAL_PUBLISH_DATE": "20140720",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3706109_3.jpg",
+                "PRE_PRICE": "9000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3706109_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "9500",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014018837",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994475479",
+                "INPUT_DATE": "20140619",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "얼음붕대 스타킹",
+                "PUBLISH_PREDATE": "20140720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

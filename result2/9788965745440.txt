@@ -1,0 +1,67 @@
+{
+    "otitle": "정신의학의 탄생",
+    "oauthor": "하지현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정신의학의 탄생 (광기를 합리로 바꾼 정신의학사의 결정적 순간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464611714",
+                "image": "https://shopping-phinf.pstatic.net/main_3246461/32464611714.20221019125021.jpg",
+                "author": "하지현",
+                "discount": "17820",
+                "publisher": "해냄출판사",
+                "pubdate": "20160115",
+                "isbn": "9788965745440",
+                "description": "정신건강의학과 전문의가 안내하는 흥미진진한 정신의학 발전사!\n\n『정신의학의 탄생』은 광기 또는 미신과 분리되어 보다 합리적이고 유용한 과학으로서 정신과학이 오늘에 이르기까지 거쳐 온 과정을 짚어내면서 ‘마음의 과학’을 본격적으로 탐구 했다. 책은 누적 조회수 440만 회, 댓글 4천 건을 돌파하는 등 뜨거운 호응을 받은 네이버캐스트 ‘정신의학의 결정적 순간’을 엮은 것이다. 저자는 연재 내용을 바탕으로 200년 정신의학의 역사적 사실과 과학적 진실을 알기 쉽게 풀어내었다. \n\n정신의학은 인간의 뇌와 마음의 고장을 치료하기 위한 노력에서 비롯되었다. 정신질환의 원인과 치료법을 찾는 과정에서 제기된 논쟁을 중심으로 6장으로 구성되어 있으며 수많은 오해와 편견에 투쟁한 의학자들의 치열한 연구들이 담겨있다. 머리에 쇠막대기가 꽂히는 사고를 겪은 피해자 게이지 덕분에 전두엽의 기능을 알 수 있었고, 15년 동안 환자들의 뇌 조직 슬라이드를 정리해 치매의 존재를 밝히게 된 알츠하이머, 정신분석에서 증명하기 어려웠던 무의식의 최신을 과학기술로 증명하려는 노력 등 역동적으로 발전해 온 정신의학의 흥미로운 이면을 그려냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)해냄출판사",
+                "DDC": "616.89",
+                "UPDATE_DATE": "20160212",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "하지현",
+                "SERIES_TITLE": "",
+                "KDC": "513.89",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5116337_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5116337_3.jpg",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 425페이지 내외",
+                "CONTROL_NO": "CIP2015035093",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965745440",
+                "INPUT_DATE": "20151218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "정신의학의 탄생",
+                "PUBLISH_PREDATE": "20160115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "퍼펙트 세일즈",
+    "oauthor": "서명식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "퍼펙트 세일즈 (가격을 낮추지 않고 고객의 기대감을 높이는 최고의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32499970015",
+                "image": "https://shopping-phinf.pstatic.net/main_3249997/32499970015.20221228072225.jpg",
+                "author": "서명식",
+                "discount": "13320",
+                "publisher": "나비의활주로",
+                "pubdate": "20170610",
+                "isbn": "9791188230051",
+                "description": "급변하는 환경 속에서 요즘 고객들은 점점 똑똑해지고 있다. 요즘 고객들은 단순히 감정에 휘둘리지 않고, 구매를 결정하는 생각의 밑바탕이 철저한 논리적 사고로 무장되어 있다. 10년 이상 세일즈 업계에 몸담고 있는 저자는 세일즈 환경이 빠르게 변화하고, 고객의 기대가 진화하는 만큼 세일즈도 똑똑해져야 한다고 강조하며 고객이 누구인지, 고객이 무엇을 필요로 하는지, 고객이 언제 필요로 하는지 제대로 알고 과학적으로 접근하는 방법을 알려준다. \n\n\n\n지금 당장 하나 더 파는 게 중요한 게 아니라 그 물건을 구매함으로써 얻을 수 있는 기대효과와 가치, 비전을 제시하며 고객이 신뢰할 수 있는 세일즈를 이어가는 게 더 중요하다. 이 책에서는 퍼펙트 세일즈를 꿈꾸며, 퍼펙트 세일즈를 경험한 실제 세일즈맨이 왜 퍼펙트 세일즈를 해야 하는지, 퍼펙트 세일즈가 안 되는 궁극적인 이유는 무엇인지, 퍼펙트 세일즈를 하기 위해 꼭 알아야 할 것들은 무엇인지, 퍼펙트 세일즈를 하기 위한 전략에는 어떤 것들이 있는지 소개한다. 긍정적 사고, 약속 준수 등 세일즈맨이 갖춰야 할 기본자세부터 주관적인 감에 의존하지 않고 체계적인 세일즈 시스템을 확립하는 방법, 고객의 니즈와 원츠를 알아내 만족감을 높이는 고객 맞춤형 세일즈 방법 등을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나비의 활주로",
+                "DDC": "",
+                "UPDATE_DATE": "20170912",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "서명식 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188230051",
+                "INPUT_DATE": "20170512",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "퍼펙트 세일즈",
+                "PUBLISH_PREDATE": "20170610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

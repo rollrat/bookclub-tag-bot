@@ -1,0 +1,67 @@
+{
+    "otitle": "사진 초보자가 가장 알고 싶은 59가지",
+    "oauthor": "윤우석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사진 초보자가 가장 알고 싶은 59가지",
+                "link": "https://search.shopping.naver.com/book/catalog/32492895676",
+                "image": "https://shopping-phinf.pstatic.net/main_3249289/32492895676.20220527061402.jpg",
+                "author": "윤우석",
+                "discount": "0",
+                "publisher": "소울메이트",
+                "pubdate": "20140320",
+                "isbn": "9788960603271",
+                "description": "카메라의 찍는 즐거움을 느끼게 해주는 초보 사진입문서!\n\n사진 초보자들을 위한 카메라를 이용할 때 알아야 할 필수 지식의 모든 것『사진 초보자가 가장 알고 싶은 59가지』. 이 책은 좋은 사진을 찍고자 하는 욕심 있는 사진 초보자들이 가장 궁금해하고, 반드시 알아야 할 필수적인 지식 59가지를 엄선해 정리했다. 이 책에는 알아두면 두고두고 유용한 사진과 카메라의 간략한 역사부터 카메라의 종류와 구조, 카메라 조작을 위해 필요한 기본 지식, 사진을 촬영하는 팁과 카메라를 관리하는 방법까지 다양한 주제의 핵심을 빠짐없이 수록하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)원앤원콘텐츠그룹",
+                "DDC": "770.28",
+                "UPDATE_DATE": "20140423",
+                "EA_ADD_CODE": "13660",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "윤우석",
+                "SERIES_TITLE": "",
+                "KDC": "662",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3404630_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3404630_3.jpg",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3404630_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014007732",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960603271",
+                "INPUT_DATE": "20140304",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "사진 초보자가 가장 알고 싶은 59가지 ",
+                "PUBLISH_PREDATE": "20140320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

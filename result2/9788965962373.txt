@@ -1,0 +1,67 @@
+{
+    "otitle": "우리는 어떻게 화학물질에 중독되는가",
+    "oauthor": "로랑 슈발리에 저/이주영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리는 어떻게 화학물질에 중독되는가 (의식주와 일상을 뒤덮은 독성물질의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455949878",
+                "image": "https://shopping-phinf.pstatic.net/main_3245594/32455949878.20221227205448.jpg",
+                "author": "로랑 슈발리에",
+                "discount": "11700",
+                "publisher": "흐름출판",
+                "pubdate": "20171027",
+                "isbn": "9788965962373",
+                "description": "화학물질은 어떻게 우리의 건강을 위협하는가!\n\n오늘날 세상은 먹거리, 화장품, 생활용품, 가구, 집에 이르기까지 화학물질로 가득하지만 정작 소비자는 일상에서 화학물질이 건강에 어떤 영향을 끼치는지에 대해서는 거의 알지 못한다. 화학물질에 의해 누군가는 병들고 누군가는 죽음을 맞이하지만 소비자는 언제나 한발 늦는다. 프랑스에서 출간되었을 당시 숱한 화제를 일으킨 영양학 권위자이자 파리 몽펠리에 대학병원센터 의사인 로랑 슈발리에 박사의 『우리는 어떻게 화학물질에 중독되는가』. 이 책에서 저자는 화학물질로 가득 채워진 울타리 안에서 살아가고 있는 우리에게 풍부한 사료와 과학적 분석을 바탕으로 건강을 치명적으로 위협하는 각종 화학물질에 대해 상세하게 알려준다. \n\n화학물질이란 정확히 무엇이고, 화학물질이 지니고 있는 독성은 어떤 것이며, 그것들이 어떻게 소비자의 건강을 위협하는지 과학적 근거를 통해 자세하게 설명한다. 각종 가공식품에 함유된 식품첨가물에서부터 포장재, 쌀과 밀, 온갖 작물에 축적되어 있는 농약물질, 물을 정수하는 데 쓰이는 화학물질, 공기, 매연, 화장품과 옷에 이르기까지, 일상용품에 숨어 있는 유독 화학물질에 대한 구체적인 사례를 제시하고 유독한 합성 화학물질이 일상에서 사용하는 각종 용품에 얼마나 많이 함유되어 있으며, 미처 깨닫지 못하는 사이에 이러한 화학물질의 유독성에 속수무책으로 중독되어갈 수밖에 없는 현실을 경고한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판 :넥스트웨이브미디어",
+                "DDC": "615.9",
+                "UPDATE_DATE": "20171102",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "로랑 슈발리에 지음 ;이주영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "518.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6377078_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6377078_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6377078_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "270 p.",
+                "CONTROL_NO": "CIP2017025633",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965962373",
+                "INPUT_DATE": "20170921",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우리는 어떻게 화학물질에 중독되는가",
+                "PUBLISH_PREDATE": "20171025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "새로운 시장의 마법사들",
+    "oauthor": "잭 슈웨거 저/오인석 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "새로운 시장의 마법사들(The New Market Wizards) (주식, 선물옵션, 상품, 외환시장의세계 최고 투자자 17인에게 배우는 투자비결)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473614701",
+                "image": "https://shopping-phinf.pstatic.net/main_3247361/32473614701.20221230073857.jpg",
+                "author": "잭 슈웨거",
+                "discount": "18900",
+                "publisher": "이레미디어",
+                "pubdate": "20150925",
+                "isbn": "9791186588314",
+                "description": "선물 및 헤지펀드 전문가 잭 슈웨거의 책. 이 책은 주식, 선물옵션, 상품, 외환시장의 세계 최고 투자자 17명과의 인터뷰가 담겨 있다. 윌리엄 에크하르트, 먼로 트라우트, 마크 리치 등 위대한 투자자의 투자비결을 이 책에서 만날 수 있을 것이다. \n\n\n\n저자는 “어떻게 투자에 성공할 것인가?”보다 “어떻게 진정한 투자자가 될 것인가?”에 대한 답을 재미있게 제시한다. 한 치 앞을 내다볼 수 없는 지금의 주식시장 상황이야말로 기본과 원칙으로 돌아가기 위한 최적의 타이밍이다. 그 기본과 원칙으로 돌아가는 해답이 바로 이 책에 있다.\n\n\n\n이 책에 등장하는 트레이더들은 이름만으로도 가슴 떨리게 하는 인물들이다. 그들을 최고의 트레이더라고 감히 말할 수 있는 이유는 바로 꾸준히 수익을 올리는 매매 전략일 것이다. 자신만의 투자 원칙을 세우고, 그 원칙을 거스르지 않고 투자한다는 기본 전략을 가지고 그들은 투자 세계에서 자신만의 철옹성을 만들 수 있었다. 그리고 지금도 그들은 계속해서 수익을 올리고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)이레미디어",
+                "DDC": "332.632",
+                "UPDATE_DATE": "20151001",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "잭 슈웨거",
+                "SERIES_TITLE": "",
+                "KDC": "327.85",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4671553_3.jpg",
+                "PRE_PRICE": "27000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4671553_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015016937",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186588314",
+                "INPUT_DATE": "20150619",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "새로운 시장의 마법사들",
+                "PUBLISH_PREDATE": "20150925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

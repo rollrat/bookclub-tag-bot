@@ -1,0 +1,67 @@
+{
+    "otitle": "행복의 모양은 삼각형",
+    "oauthor": "양주연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "행복의 모양은 삼각형 (튼튼한 종아리만큼 단단한 일상을 위해, 오늘도 산을 오릅니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441647956",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441647956.20221229072731.jpg",
+                "author": "양주연",
+                "discount": "11240",
+                "publisher": "디귿",
+                "pubdate": "20210514",
+                "isbn": "9788972979890",
+                "description": "등산극혐주의자에서 등산애호가가 된 30대 직장인의 본격 ‘산으로 가는’ 이야기다. 한때 꼰대들의 전유물로 여겨졌던 등산은 밀레니얼 세대에게 힙하고 트렌디한 운동이 되었다. 빌딩 숲에서, 짜증나게 하는 사람들 틈에서 벗어나 조용히 혼자만의 시간을 갖고 싶을 때 밀레니얼 세대는 산으로 떠난다.   \n\n\n\n저자에게 산은 애증이었다. 어린 시절부터 아빠의 손에 이끌려 억지로 올랐던 산이 남긴 건 울룩불룩 솟은 종아리 알뿐이었으니! 스물일곱, 산에 무지했던 ‘등린이’의 첫 등반은 ‘악’ 소리 날 정도로 고생스러웠다. 하지만 누군가의 도움 없이 스스로의 힘으로 정상까지 올랐다는 짜릿한 성취감은 근육통을 앓으면서도 계속 산을 찾게 했다. 여유는 체력에서 나온다고 하던가. 곧잘 기분이 태도가 되어 주변을 곤란하게 하고, 스스로를 사랑하는 법을 몰라 타인의 애정을 갈구하곤 하던 저자는 부지런히 걷고 쉼 없이 오르면서 이전보다 훨씬 튼튼한 허벅지, 그에 비례해 단단한 마음의 근육을 얻게 되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "디귿 :동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20210623",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "지은이: 양주연",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*186",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "120 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972979890",
+                "INPUT_DATE": "20210413",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "행복의 모양은 삼각형",
+                "PUBLISH_PREDATE": "20210514",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

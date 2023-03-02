@@ -1,0 +1,78 @@
+{
+    "otitle": "탈코일기 1",
+    "oauthor": "작가1 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:16 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "탈코일기 1",
+                "link": "https://search.shopping.naver.com/book/catalog/32492176375",
+                "image": "https://shopping-phinf.pstatic.net/main_3249217/32492176375.20230214162842.jpg",
+                "author": "작가1",
+                "discount": "12420",
+                "publisher": "북로그컴퍼니",
+                "pubdate": "20190226",
+                "isbn": "9791189166717",
+                "description": "SNS를 뒤집어놓은 화제의 만화,\n《탈코일기》 정식 출간!\n\n2019년 1월, 크라우드펀딩 플랫폼 ‘텀블벅’ 사이트에서 1억 9천만 원의 경이적인 모금액, 텀블벅 도서부문 최고 후원액을 기록한 《탈코일기》의 정식판이 출간되었다. 이 책은 화장, 날씬한 몸매, 제모, 긴 머리 등 사회가 여성들에게 강요하는 외모 코르셋을 거부하는 여성들의 이야기를 그린 책으로, 제목 그대로 ‘코르셋’에서 탈피한 여성들의 일기다.\n이 책은 이제 막 탈코르셋을 한 김뱀희, 아주 예전에 탈코르셋을 한 도수리, 코르셋을 놓지 못해 전전긍긍하는 백로아 세 주인공을 통해 탈코르셋을 한 여성들이 처한 현실, 그리고 코르셋을 찬 여성들의 현실을 가감 없이 보여준다. 만화로 이루어져 누구나 쉽게 읽을 수 있으며, 흡입력 있는 스토리라인은 마지막 페이지를 덮을 때까지 책을 손에서 놓지 못하게 한다. 여기에 매력적인 거친 그림체, 탈코르셋을 직관적으로 이해할 수 있도록 그려진 상징적인 이미지들이 독자들의 눈을 단숨에 잡아끈다."
+            },
+            {
+                "title": "탈코일기 2",
+                "link": "https://search.shopping.naver.com/book/catalog/32506045489",
+                "image": "https://shopping-phinf.pstatic.net/main_3250604/32506045489.20230214162749.jpg",
+                "author": "작가1",
+                "discount": "12420",
+                "publisher": "북로그컴퍼니",
+                "pubdate": "20190226",
+                "isbn": "9791189166724",
+                "description": "SNS를 뒤집어놓은 화제의 만화,\n《탈코일기》 정식 출간!\n\n2019년 1월, 크라우드펀딩 플랫폼 ‘텀블벅’ 사이트에서 1억 9천만 원의 경이적인 모금액, 텀블벅 도서부문 최고 후원액을 기록한 《탈코일기》의 정식판이 출간되었다. 이 책은 화장, 날씬한 몸매, 제모, 긴 머리 등 사회가 여성들에게 강요하는 외모 코르셋을 거부하는 여성들의 이야기를 그린 책으로, 제목 그대로 ‘코르셋’에서 탈피한 여성들의 일기다.\n이 책은 이제 막 탈코르셋을 한 김뱀희, 아주 예전에 탈코르셋을 한 도수리, 코르셋을 놓지 못해 전전긍긍하는 백로아 세 주인공을 통해 탈코르셋을 한 여성들이 처한 현실, 그리고 코르셋을 찬 여성들의 현실을 가감 없이 보여준다. 만화로 이루어져 누구나 쉽게 읽을 수 있으며, 흡입력 있는 스토리라인은 마지막 페이지를 덮을 때까지 책을 손에서 놓지 못하게 한다. 여기에 매력적인 거친 그림체, 탈코르셋을 직관적으로 이해할 수 있도록 그려진 상징적인 이미지들이 독자들의 눈을 단숨에 잡아끈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로그컴퍼니",
+                "DDC": "",
+                "UPDATE_DATE": "20190307",
+                "EA_ADD_CODE": "07810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "작가1 지음",
+                "SERIES_TITLE": "탈코일기",
+                "KDC": "810",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791189166700",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/02/11/9791189166717.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "CIP2019004840",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791189166717",
+                "INPUT_DATE": "20190212",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "탈코일기",
+                "PUBLISH_PREDATE": "20190226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "07810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

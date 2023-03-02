@@ -1,0 +1,67 @@
+{
+    "otitle": "역사를 만든 최고의 짝",
+    "oauthor": "김형민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "역사를 만든 최고의 짝 (김춘수 김유신의 서라벌에서 유호 박시춘의 럭키 서울까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491808638",
+                "image": "https://shopping-phinf.pstatic.net/main_3249180/32491808638.20221019135126.jpg",
+                "author": "김형민",
+                "discount": "12600",
+                "publisher": "다른",
+                "pubdate": "20190329",
+                "isbn": "9791156332244",
+                "description": "《역사를 만든 최고의 짝》은 짝을 이루어 우리 역사 속에 거대한 발자취를 남긴 위인들의 이야기를 다룬 청소년 역사 교양서다. 삶의 위기, 시대의 위기 앞에서 같은 목표를 위해 협력하고, 서로를 존중하며, 자신의 삶을 기꺼이 상대의 삶에 내어 준 위인들의 위대한 우정을 살펴본다. ‘산하’라는 필명으로 《시사IN》을 비롯한 각종 매체에 활발히 역사 관련 글쓰기를 이어 가고 있는 저자 김형민의 스토리텔링을 거쳐 두 위인의 이야기는 만남부터 함께 이룬 성취에 이르기까지, 한 편의 흥미진진한 드라마가 된다. 그간 우리가 돌아본 역사의 무대에서 스포트라이트는 종종 한 사람만을 향해 왔으나 《역사를 만든 최고의 짝》은 서로를 믿고 따른 그 끈끈한 관계에 집중해 ‘두 사람’의 역사, ‘두 사람’이 함께 써 낸 우리 역사를 조명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다른",
+                "DDC": "",
+                "UPDATE_DATE": "20190423",
+                "EA_ADD_CODE": "43910",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김형민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/03/15/9791156332244.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "198 p.",
+                "CONTROL_NO": "CIP2019010055",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156332244",
+                "INPUT_DATE": "20190313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(역사를 만든) 최고의 짝",
+                "PUBLISH_PREDATE": "20190329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

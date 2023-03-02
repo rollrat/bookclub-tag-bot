@@ -1,0 +1,67 @@
+{
+    "otitle": "아빠와 배트맨",
+    "oauthor": "이병승 글/장은희 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아빠와 배트맨",
+                "link": "https://search.shopping.naver.com/book/catalog/32505087229",
+                "image": "https://shopping-phinf.pstatic.net/main_3250508/32505087229.20221229074109.jpg",
+                "author": "이병승",
+                "discount": "9900",
+                "publisher": "북멘토",
+                "pubdate": "20160617",
+                "isbn": "9788963191591",
+                "description": "북멘토 가치동화 시리즈 21권. 시대를 불문하고 우리 모두가 꼭 지켜야 하는 것들의 가치를 진한 감동으로 그려온 이병승 작가의 단편동화집이다. 작가는 이제 막 사춘기에 접어들기 시작한 ‘까칠한’ 아이들이 때로는 또래의 고만고만한 고민과 때로는 버거운 현실과 부딪치며 만들어내는 불협화음에 가만히 귀를 기울이고, 그 속에서 따뜻한 가족애와 우정, 참된 용기라는 아름다운 화음을 길어 올린다.\n\n\n\n우리 집은 왜 가난할까? 쟤는 왜 나와 다르지? 남들은 나를 어떻게 생각할까?… 이 학원 저 학원으로 옮겨 다니느라 부모님만큼이나 바쁜 현실 속에서 아이들은 소통의 기회를 잃은 지 오래. 답을 찾지 못한 질문들은 숱한 오해와 편견을 만들어 낸다.\n\n\n\n속상하고 외로운 마음을 위로받고 싶지만 마음 터놓을 곳이 없어 차라리 까칠해지기로 결심한 아이들의 마음을 작가는 섬세한 관찰력으로 포착하고 여기에 반짝이는 상상력과 놀라운 통찰력을 더했다. 세상에 나 혼자인 듯했던 일상 속에 마법처럼 찾아온 따스한 관계의 온도 안에서 아이들은 공감하고 또 공감받으며 마음속 상처를 회복해 간다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)북멘토",
+                "DDC": "",
+                "UPDATE_DATE": "20160620",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.bookmentorbooks.co.kr",
+                "AUTHOR": "이병승",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5486598_3.jpg",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5486598_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 170페이지 내외",
+                "CONTROL_NO": "CIP2016013621",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963191591",
+                "INPUT_DATE": "20160531",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아빠와 배트맨",
+                "PUBLISH_PREDATE": "20160617",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

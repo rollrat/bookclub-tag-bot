@@ -1,0 +1,78 @@
+{
+    "otitle": "집을 위한 인문학",
+    "oauthor": "노은주,임형남 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:15 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "집을 위한 인문학 (집은 우리에게 무엇인가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489149426",
+                "image": "https://shopping-phinf.pstatic.net/main_3248914/32489149426.20221019142004.jpg",
+                "author": "노은주",
+                "discount": "14400",
+                "publisher": "인물과사상사",
+                "pubdate": "20191115",
+                "isbn": "9788959065486",
+                "description": "노은주, 임형남의 『집을 위한 인문학』은 저자가 그동안 만났던, 좋아하는, 함께 지었던 집에 대한 이야기이자, 우리가 살아가는 지금의 이야기를 담고 있다. 제1장은 가족을 품은 집, 제2장은 사람을 품은 집, 제3장은 자연을 품은 집, 제4장은 이야기를 품은 집으로 구성되었다."
+            },
+            {
+                "title": "인문학 아이들의 꿈집을 만들다 (관계와 소통을 위한 행복한 인문학 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505225637",
+                "image": "https://shopping-phinf.pstatic.net/main_3250522/32505225637.20221019124418.jpg",
+                "author": "김호연",
+                "discount": "9000",
+                "publisher": "단비",
+                "pubdate": "20120515",
+                "isbn": "9788996798712",
+                "description": "인문학교를 통해 우리의 꿈집을 키우다!\n\n관계와 소통을 위한 행복한 인문학 이야기 『인문학 아이들의 꿈집을 만들다』. 모든 사람이 행복하게 사는 착한 세상을 마들기 위해 힘쓰는 저자들이 어린이와 청소년을 대상으로 진행한 ‘꿈집을 만드는 인문학교’의 강의 내용을 중심으로 엮은 책이다. 사회적 존재로서의 자아 성찰로부터 또 다른 나인 ‘너’와의 관계를 고민하면서 자신의 꿈을 키워나갈 수 있도록 안내한다. 가장 가까운 가족관계에서부터 친구 관계, 왕따, 공부, 자기 정체성 등 십대들의 고민을 함께 풀어나가며, 신화와 설화, 동양 고전, 문학, 역사 등에서 뽑은 구체적 사례를 제시하여 스스로 생각하고 깨달은 것을 직접 실천할 수 있도록 도왔다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과사상사",
+                "DDC": "",
+                "UPDATE_DATE": "20191125",
+                "EA_ADD_CODE": "03610",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "노은주,임형남 지음",
+                "SERIES_TITLE": "",
+                "KDC": "549.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/01/9788959065486.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "282 p.",
+                "CONTROL_NO": "CIP2019044210",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959065486",
+                "INPUT_DATE": "20191101",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "집을 위한 인문학",
+                "PUBLISH_PREDATE": "20191115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

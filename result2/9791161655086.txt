@@ -1,0 +1,67 @@
+{
+    "otitle": "루니맘의 독박육아 일기",
+    "oauthor": "루니맘 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "루니맘의 독박육아 일기 (육아 퇴근하고 치맥 하고 싶어)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467176624",
+                "image": "https://shopping-phinf.pstatic.net/main_3246717/32467176624.20221228072454.jpg",
+                "author": "루니맘",
+                "discount": "14310",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20181025",
+                "isbn": "9791161655086",
+                "description": "육아 퇴근하고 치맥 하고 싶은 당신에게!\n폭풍재미와 공감을 선사하는 인스타 인기 육아 웹툰\n\n웃음과 공감이 필요한 육아맘과 남편, 가족을 위한 코믹 에세이 『루니맘의 독박 육아일기』. 전직 웹디자이너인 룬이 엄마 유아름 작가의 인스타그램 인기 육아 웹툰으로, 바쁜 육아맘들이 부담 없이 편하게 볼 수 있는 콘텐츠다. 배 속에서 10개월을 품었던 아이가 세상 밖으로 무사히 나오기만 하면 모든 게 끝! 새로운 가족의 완성, 행복의 시작일 거라고만 생각했다. 아이의 사랑스러움에 웃음이 마를 날이 없을 거라 기대했다. 그런데… 엄마가 된다는 것은 상상했던 것과 많이 달랐다! 나만 이런 건가? 내가 이상한 건가?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스 :넥서스books",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181105",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "루니맘 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6944265_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6944265_3.jpg",
+                "PRE_PRICE": "15900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "344 p.",
+                "CONTROL_NO": "CIP2018032641",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161655086",
+                "INPUT_DATE": "20181011",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "루니맘의 독박육아 일기",
+                "PUBLISH_PREDATE": "20181020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "Do it! 쉽게 배우는 R 텍스트 마이닝",
+    "oauthor": "김영우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Do it! 쉽게 배우는 R 텍스트 마이닝 (단어 빈도 분석, 감정 분석, 의미망 분석부터 토핑 모델링까지 현장에서 사용하는 텍스트 분석 기법을 실전 예제로 익혀 보자!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441648226",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441648226.20221019140130.jpg",
+                "author": "김영우",
+                "discount": "18000",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20210129",
+                "isbn": "9791163032298",
+                "description": "4년간 R 데이터 분야 1위 도서 저자의 후속작 ‘텍스트 마이닝’ 도서 출간!\n형태소 분석, 긍정·부정 분위기 분석, 연관 단어 분석, 시각화 모두 내 손으로!\n\n봉준호 감독의 영화 〈기생충〉이 오스카상 4관왕을 수상한 사실은 이제 모두가 알고 있다! 그런데 온라인 댓글 분위기는 천차만별이었네? 이 영화가 대체 어땠길래? 당시 분위기를 분석하고 돌아볼 수는 없을까? 영화 평가가 긍정·부정적이었는지, 영화 자체의 평이 많은지 아니면 영화 외적 요소의 평이 많은지 궁금하다. 이제 김영우 선생님과 함께 R로 텍스트 마이닝을 해보자! 이 책은 직장인, 대학생, 연구자 누구나 쉽게 텍스트 분석을 할 수 있다. 한글 텍스트 분석은 물론 30종 넘는 다양한 그래프까지! 보고서에 바로 사용할 수 있는 다양한 결과물을 내 손으로 직접 만들 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱",
+                "DDC": "",
+                "UPDATE_DATE": "20220808",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "김영우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "342 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791163032298",
+                "INPUT_DATE": "20210113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(Do it!) 쉽게 배우는 R 텍스트 마이닝",
+                "PUBLISH_PREDATE": "20210129",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

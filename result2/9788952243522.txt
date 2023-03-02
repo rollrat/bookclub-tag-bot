@@ -1,0 +1,67 @@
+{
+    "otitle": "퀴어의 세계사",
+    "oauthor": "새러 프레이거 저/심연희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "퀴어의 세계사 (세계사를 바꾼 23명의 LGBT 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473602766",
+                "image": "https://shopping-phinf.pstatic.net/main_3247360/32473602766.20221019120055.jpg",
+                "author": "새러 프레이거",
+                "discount": "13500",
+                "publisher": "살림",
+                "pubdate": "20211231",
+                "isbn": "9788952243522",
+                "description": "‘정의 내릴 수 없는 사랑’ \n세계사 속 퀴어들\n\n퀴어(queer)는 모든 대륙에서 어느 시대나 역사의 일부로 존재해왔다. 이 책은 세계사 속 23명 성소수자들의 이야기이다. 우리는 분명 이 책의 수많은 퀴어 역사 속 인물에 대해 들어본 적이 있을 것이다. \n우리는 ‘나’와 다름을 인정하기도, 할 수 없기도 하다. 나와 다르다면, 내가 모르는 세상이 존재한다면, 그 세상의 역사에 대해 먼저 알아봐야 한다. 퀴어의 세계사를 알게 되면 혐오를 줄이고 퀴어라는 정체성을 사랑과 포용력을 가지고 주류 안에 기꺼이 맞아들일 수 있다. 퀴어뿐만 아니라 스스로 남들과 다르다고 느끼거나 일반적인 역사 속에 받아들여지지 못하는 이들에게도 중요하다.\n이 책을 따라가다 보면 세상을 살펴보는 시야가 넓어질 뿐 아니라, 늘 곁에 있었던 사람들의 이야기도 새삼스레 만날 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림(살림출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20220218",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "새러 프레이거 지음 ;심연희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952243522",
+                "INPUT_DATE": "20220106",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "퀴어의 세계사",
+                "PUBLISH_PREDATE": "20211231",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

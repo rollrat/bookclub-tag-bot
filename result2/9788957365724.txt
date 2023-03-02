@@ -1,0 +1,67 @@
+{
+    "otitle": "재미있는 선거와 정치 이야기",
+    "oauthor": "조항록 글/박순구,강경수 그림/신명순,서정일 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재미있는 선거와 정치 이야기 (교과학습 시사상식 논술대비까지 해결하는 초등학교 통합교과서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438186948",
+                "image": "https://shopping-phinf.pstatic.net/main_3243818/32438186948.20230131162658.jpg",
+                "author": "조항록",
+                "discount": "10800",
+                "publisher": "가나출판사",
+                "pubdate": "20130627",
+                "isbn": "9788957365724",
+                "description": "미래의 아이들이 행복한 대한민국을 만든다!\n\n교과학습, 시사상식, 논술대비까지 해결하는 초등학교 통합교과서 「신문이 보이고 뉴스가 들리는 재미있는 이야기」 제1권 『선거와 정치 이야기』. 딱딱하고 어려운 정치를 만화와 사진으로 쉽고 재미있게 배울 수 있습니다. 선거와 정치에 관한 다양한 지식을 통해 사회 학습뿐만 아니라 아이들이 정치에 관심을 갖고 민주주의 시민으로 성장할 수 있도록 안내해줍니다. 또한 아이들이 궁금해 하는 내용과 핵심을 골라 질문 형식으로 묻고 친절하게 대답해줌으로써 친근하게 지식을 얻을 수 있습니다.\n\n민주주의, 선거, 정부, 국회, 법원, 시민 참여라는 6개의 주제로 구분하여 정치 지식을 소개합니다. 행정부, 입법부, 사법부가 무엇이며 어떤 일을 하는지 알려줍니다. 또한 국민의 의무와 권리에서부터 국민이 정치에 참여할 수 있는 다양한 방법을 차근차근 설명하고 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20180910",
+                "EA_ADD_CODE": "74340",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "조항록",
+                "SERIES_TITLE": "",
+                "KDC": "340",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2760180_6_1.jpg",
+                "SET_ISBN": "9788957365533",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2760180_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2760180_5_1.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013008424",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957365724",
+                "INPUT_DATE": "20130607",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "신문이 보이고 뉴스가 들리는 재미있는 선거와 정치 이야기",
+                "PUBLISH_PREDATE": "20130627",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

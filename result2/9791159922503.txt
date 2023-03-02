@@ -1,0 +1,67 @@
+{
+    "otitle": "아토믹 걸스",
+    "oauthor": "드니즈 키어넌 저/고정아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아토믹 걸스 (원자 도시, 사이트 X의 숨겨진 여성들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506004621",
+                "image": "https://shopping-phinf.pstatic.net/main_3250600/32506004621.20221231084249.jpg",
+                "author": "드니즈 키어넌",
+                "discount": "21150",
+                "publisher": "알마",
+                "pubdate": "20190328",
+                "isbn": "9791159922503",
+                "description": "2차대전 종전을 이뤄낸 원자 도시의 여성들\n숨겨진 삶이 내뿜는 숨길 수 없는 생명력\n\n2차대전 당시 맨해튼계획을 위해 정부와 군 당국에서 만든 비밀 신도시 테네시주 오크리지. 사이트 X, 클린턴 공병사업소(Clinton Engineer Works, CEW)라고도 불린 이곳으로 일자리를 찾아 이주한 노동자들의 생활상이 《아토믹 걸스》에서 펼쳐진다. 자신들이 하는 일이 우라늄 농축이라는 것도 모른 채 종전을 위한 일이라는 당국의 말을 믿고 참전 군인과 가족의 안녕을 위해 묵묵히 일한 여성 노동자들. 그들의 구술은 드니즈 키어넌의 손을 거쳐 전시의 억압 속에서도 생명력을 뿜어냈던 민중들이 바라보는 2차대전에 대한 기록으로 다시 태어난다.\n《아토믹 걸스》는 꼼꼼한 취재를 통해 다양한 실존 여성들을 내세워 2차대전 당시의 분위기를 생생히 재현하고, 과학자들의 시각에서 서술된 별도의 에피소드 〈튜벌로이〉를 통해 과학 영역의 전문적 지식도 담아낸다. 독자들은 청소 노동자, 비서, 파이프 누출 검수자, 기초 화학 실험 연구자, 간호사 등 실존 인물들의 실제 에피소드를 통해 검열과 통제가 사회 전반에 드리우고 배급제를 통해 식료품 공급이 이루어지는 당시 사회상을 체감할 수 있다. 더불어 《아토믹 걸스》는 여러 여성 군상들의 목소리를 이야기 형식으로 다양하게 담아내 서사적 핍진성까지 획득하는데, 책장을 넘기다 보면 그들은 어느새 우리에게 다가와 귓가에 속삭인다. 《아토믹 걸스》에는 맨해튼계획에 대한 숨겨진 이야기, 그 “모든 게 준비되어 있을” 거라고."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "알마",
+                "DDC": "",
+                "UPDATE_DATE": "20190425",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 드니즈 키어넌 ;옮긴이: 고정아",
+                "SERIES_TITLE": "",
+                "KDC": "909.54",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "527 p.",
+                "CONTROL_NO": "CIP2019010945",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159922503",
+                "INPUT_DATE": "20190320",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "아토믹 걸스",
+                "PUBLISH_PREDATE": "20190328",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

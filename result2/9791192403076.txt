@@ -1,0 +1,67 @@
+{
+    "otitle": "여기는 커스터드, 특별한 도시락을 팝니다",
+    "oauthor": "가토 겐 저/양지윤 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여기는 커스터드, 특별한 도시락을 팝니다",
+                "link": "https://search.shopping.naver.com/book/catalog/33435898661",
+                "image": "https://shopping-phinf.pstatic.net/main_3343589/33435898661.20230214162311.jpg",
+                "author": "가토 겐",
+                "discount": "13500",
+                "publisher": "필름(Feelm)",
+                "pubdate": "20220715",
+                "isbn": "9791192403076",
+                "description": "인생에서 길을 잃을 때면 이곳으로 오세요\n\n어긋난 관계로 생긴 자책감에서 벗어나지 못하고 공허한 나날을 보내던 세 사람 앞에 나타난 도시락 가게의 주인 히나타. 난데없이 포인트 카드가 꽉 찼다며 경품을 건네준다. 처음에는 하찮은 내용물에 실망하지만 점차 과거의 기억들이 되살아난다.\n절교를 선언했던 하굣길, 엄마에게 화를 냈던 겨울날, 길고양이를 두고 도망쳤던 공원. 작은 인연 하나가 전부였던 시절이다. 사소한 엇갈림에 모든 것이 끝났다고 생각했고 더 이상 되돌리기에는 이미 늦었다고 여겼다. 과연 히나타의 선물은 ‘후회’를 ‘기적’으로 만들어줄 수 있을까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "필름(필름 출판사)",
+                "DDC": "",
+                "UPDATE_DATE": "20220809",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "가토 겐 지음 ;양지윤 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/06/9791192403076.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "294 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791192403076",
+                "INPUT_DATE": "20220627",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여기는 커스터드 특별한 도시락을 팝니다",
+                "PUBLISH_PREDATE": "20220715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

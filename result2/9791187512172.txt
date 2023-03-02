@@ -1,0 +1,67 @@
+{
+    "otitle": "나도 로맨스 소설로 대박 작가가 되면 소원이 없겠네",
+    "oauthor": "제리안 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나도 로맨스 소설로 대박 작가가 되면 소원이 없겠네 (쌩초보도 5주면 쓸 수 있는 돈 버는 로맨스 글쓰기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482707224",
+                "image": "https://shopping-phinf.pstatic.net/main_3248270/32482707224.20221229073819.jpg",
+                "author": "제리안",
+                "discount": "13500",
+                "publisher": "앵글북스",
+                "pubdate": "20170928",
+                "isbn": "9791187512172",
+                "description": "로맨스 소설 시장이 커지고 있는 요즘, 웹이라는 플랫폼이 생기면서 누구나 흥미와 약간의 소질만 있다면 소설가로 데뷔하기가 쉬워졌다. 그 때문일까? 어차피 현실에서 일어날 리 없는 로맨스를 직접 써보겠다고 나선 독자들이 이전과 비교해 눈에 띄게 늘어났다. 최근엔 로맨스 소설 작가를 ‘신 직업’ 혹은 ‘유망 직종’이라 홍보하며 신인작가를 발굴하기 위한 공모전, 지원사업, 멘토링 프로그램을 비롯한 강좌도 줄줄이 생겨나고 있다. \n\n\n\n 그러나 대부분의 강좌가 웹소설의 포맷에 맞는 구성법을 가르쳐주거나 테크닉에만 집중하는 분위기. 무엇보다 데뷔 자체에만 초점을 맞추고 있는 탓에 데뷔 직후 아무도 모르게 사라지는 작가들의 수도 적지 않다. 그렇다면 어떻게 지속적으로 책을 출간하고, 독자들의 호응을 얻으며 끝까지 로맨스 작가로 살아남을 수 있을까? 이런 질문에 기성작가들은 약속이라도 한 듯 모두 똑같은 대답을 들려준다. 다른 작품을 많이 읽어보고, 많이 써보라고. 과연 그게 전부일까? \n\n\n\n잘 쓰인 글에는 공통적인 ‘조건’이 있게 마련이다. 저자는 그것을 ‘법칙’이라 부른다. 로맨스에도 당연히 법칙이 존재한다. 그 속에 있는 법칙들을 찾아내는 기술이 바로 로맨스 소설 쓰기의 첫 단계다. 또 그러한 법칙은 ‘돈 버는 로맨스 소설’을 쓰기 위한 전제조건이기도 하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Angle Books(앵글북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20171011",
+                "EA_ADD_CODE": "13800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "제리안 지음 ",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "339 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187512172",
+                "INPUT_DATE": "20170828",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나도 로맨스 소설로 대박 작가가 되면 소원이 없겠네",
+                "PUBLISH_PREDATE": "20170928",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

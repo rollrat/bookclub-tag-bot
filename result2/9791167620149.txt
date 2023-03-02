@@ -1,0 +1,67 @@
+{
+    "otitle": "마이 캠핑 레시피 (개정판)",
+    "oauthor": "캠핑퍼스트 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마이 캠핑 레시피 (큰글자책) (캠핑퍼스트 60만 캠퍼가 알려주는 최고의 캠핑요리 100, 전면개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445512631",
+                "image": "https://shopping-phinf.pstatic.net/main_3244551/32445512631.20230218110555.jpg",
+                "author": "캠핑퍼스트",
+                "discount": "27000",
+                "publisher": "꿈의지도",
+                "pubdate": "20211031",
+                "isbn": "9791167620149",
+                "description": "네이버 대표 카페 캠핑퍼스트 60만 캠퍼들이 실전에서 해먹는 캠핑 요리 노하우를 한 권에 담았다. &lt;마이 캠핑 레시피&gt;에 소개된 요리는 천차만별이다. 즉석식품을 활용해 손 안 대고 코풀 수 있는 초간단 요리가 있는가 하면, 요리사도 눈여겨볼 만큼 포스가 느끼지는 럭셔리한 바비큐도 있다. 특히, 캠퍼라면 누구나 도전해 보고 싶은 바비큐 요리를 재료 손질부터 마무리까지 세심하게 사진과 글로 표현해 누구나 쉽게 따라할 수 있게 했다. \n\n\n\n교본 스타일 요리책은 캠핑처럼 특별한 야외활동과는 조금 거리가 있다. 캠핑장은 조리도구도, 재료도 모든 게 부족하다. 따라서 집에서 하는 것과 같은 방식을 고집했다가는 엉뚱한 결과를 빚기 십상이다. &lt;마이 캠핑 레시피&gt;는 캠핑장의 부족한 조건에서도 거뜬하게 요리할 수 있는 방법을 제시한다. 캠핑 요리의 진실-주어진 조건에서 가진 재료를 최대한 활용해 만든다-을 레시피를 통해 보여준다.\n\n\n\n또한 캠핑요리에 특화된 도구와 테마별로 레시피를 편집해 자신이 원하는 요리를 쉽게 찾을 수 있게 했다. 바비큐의 양대 산맥인 직화와 훈제, 캠핑 요리도구의 핵심인 바비큐 그릴, 더치오븐, 그리들, 철판 등 도구에 따른 요리 분류로 자신이 원하는 도구와 조리법을 쉽게 찾을 수 있게 했다. 또한, 캠핑 요리에서 빠질 수 없는 밥과 국, 면 요리, 간식 등도 따로 모아서 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20211117",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "캠핑퍼스트 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*297",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167620149",
+                "INPUT_DATE": "20211018",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "마이 캠핑 레시피",
+                "PUBLISH_PREDATE": "20211031",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

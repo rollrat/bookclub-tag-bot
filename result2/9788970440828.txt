@@ -1,0 +1,67 @@
+{
+    "otitle": "초고진공이 여는 세계",
+    "oauthor": "고미야 소지 저/한명수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초고진공이 여는 세계 (하이테크를 뒷받침하는 기초지식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461019667",
+                "image": "https://shopping-phinf.pstatic.net/main_3246101/32461019667.20221230071557.jpg",
+                "author": "고미야 소지",
+                "discount": "9000",
+                "publisher": "전파과학사",
+                "pubdate": "20201106",
+                "isbn": "9788970440828",
+                "description": "흔히 진공이라는 단어를 들으면 우주 공간을 생각하게 된다. 그러나 엄연히 우주 공간에도 수많은 먼지들이 존재하고 있다고 한다. 이런 우주 먼지와 물질들이 없었다면 우주는 아무런 반응이 없는 암흑과 같은 곳이 되고 말았을 것이다. 이처럼 먼지(dust)는 우리 눈에 보이지 않지만 항상 존재하고 있다. 그러나 오늘날 최첨단 기계장비와 반도체 등은 이러한 이물질이 없는 곳에서 공정이 이루어져야 한다. 미세한 물질에도 민감하게 반응하는 이런 과정은 결국 극도의 진공(?) 상태를 요구하고 있다. 따라서 초고진공 기술이 미래의 최첨단 기술을 구연하는 데 필수적인 요소인 것이다. 『초고진공이 여는 세계』는 최고진공이 발전된 이야기뿐만 아니라 진공의 기초 지식에 필요한 주제들로 가득 차 있다. ‘초고진공’에 관한 기초 지식을 알고 싶은 독자들에게 큰 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "고미야 소지",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "215",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970440828",
+                "INPUT_DATE": "20161206",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "N",
+                "TITLE": "초고진공이 여는 세계",
+                "PUBLISH_PREDATE": "19900830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

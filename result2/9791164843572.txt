@@ -1,0 +1,67 @@
+{
+    "otitle": "세계지식포럼 인사이트 2022",
+    "oauthor": "매일경제 세계지식포럼 사무국 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세계지식포럼 인사이트 2022 (글로벌 리더들의 미래 전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476099234",
+                "image": "https://shopping-phinf.pstatic.net/main_3247609/32476099234.20221019134705.jpg",
+                "author": "매일경제 세계지식포럼 사무국",
+                "discount": "15300",
+                "publisher": "매일경제신문사",
+                "pubdate": "20211220",
+                "isbn": "9791164843572",
+                "description": "세계지식포럼에서 2022년을 관통하는\n글로벌 리더들의 인사이트를 찾다\n\n코로나19 이후 변화될 세계의 모습과 적응 해법\n‘미지의 땅’에서 승자가 되는 길"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사(매경출판)",
+                "DDC": "",
+                "UPDATE_DATE": "20211201",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "매일경제 세계지식포럼 사무국",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/11/30/9791164843572.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "297 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164843572",
+                "INPUT_DATE": "20211123",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "세계지식포럼 인사이트 2022",
+                "PUBLISH_PREDATE": "20211215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "90일 밤의 클래식",
+    "oauthor": "김태용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "90일 밤의 클래식 (하루의 끝에 차분히 듣는 아름다운 고전음악 한 곡)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466562712",
+                "image": "https://shopping-phinf.pstatic.net/main_3246656/32466562712.20230131162446.jpg",
+                "author": "김태용",
+                "discount": "15120",
+                "publisher": "동양북스",
+                "pubdate": "20200810",
+                "isbn": "9791157686483",
+                "description": "90일 동안 당신의 밤을 풍성하게 만들어줄 \n음악 이야기가 찾아갑니다!\n\n시대를 넘어 사람들의 마음을 사로잡는 스토리, \n심금을 울리는 선율 뒤에 숨겨진 반전, \n악기로 표현할 수 있는 소리의 무한한 가능성….\n\n난해한 음악 이론 대신 이야기와 감상에 집중해보세요. 하루 1곡씩 90일 동안 당신이 있는 공간으로 클래식 음악이 찾아갑니다. 음악 감상에 깊이를 더해주는 흥미로운 이야기와 함께요. 중세부터 현대까지 자연스럽게 이어지는 구성으로 음악사의 흐름을 따라 시간 여행을 하는 듯한 즐거움까지 느낄 수 있습니다. \n\n- 매일 편리하게 감상할 수 있는 ‘QR코드’\n- 곡에 대한 이해의 폭을 넓혀주는 ‘감상 팁’\n- 곡의 매력을 가득 담은 ‘추천 음반’\n\n국내 첫 클래식 예능\ntheLIFE 〈클래식은 왜 그래〉의 용작가가 소개하는\n90일간의 쉽고 재밌는 클래식 이야기!\n*\n팟캐스트 〈90일 밤의 클래식〉 절찬리 방송 중!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동양북스",
+                "DDC": "",
+                "UPDATE_DATE": "20201016",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김태용 지음",
+                "SERIES_TITLE": "",
+                "KDC": "670.15",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/28/9791157686483.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "143*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "382 p.",
+                "CONTROL_NO": "CIP2020031457",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157686483",
+                "INPUT_DATE": "20200728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "90일 밤의 클래식",
+                "PUBLISH_PREDATE": "20200810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "너와 헤어지고 나를 만났다",
+    "oauthor": "헤이후(오영미, 최영석) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "너와 헤어지고 나를 만났다 (심리상담사가 전하는 이별처방전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438169080",
+                "image": "https://shopping-phinf.pstatic.net/main_3243816/32438169080.20220527030833.jpg",
+                "author": "헤이후(오영미, 최영석)",
+                "discount": "14220",
+                "publisher": "홍익출판미디어그룹",
+                "pubdate": "20200817",
+                "isbn": "9791197108624",
+                "description": "이별은 어찌해도 힘든 일이다. 그러나 이별의 상처가 나보다 클 수는 없는 법이다. 무엇보다 소중한 것은 나 자신이기 때문이다. 이 책 『너와 헤어지고 나를 만났다』에는 이별의 아픔을 치유하고, 오롯이 나로서 홀로 설 수 있는 방법이 담겨 있다. “시간이 지나면 괜찮아질 거야.” 식의 단순한 위로가 아니라, 전문 이별심리상담사인 저자가 이별을 겪은 사람들에게 건넨 조언이 충실히 담겨 있어 신뢰성을 더한다. \n\n저자는 이별을 겪은 사람들의 아픔에 공감하고 위로하며, 이별의 과정을 현명하게 겪어낼 수 있는 방법을 알려준다. 그 밖에도 책이나 영화 속 이별에피소드들을 인문학적 지식과 감수성으로 풀어내어 읽는 즐거움을 더했다. 헤어진 후의 일상이 버거운 당신에게 이 책은 “이별, 그거 별거 아니야!” 하고 털어낼 수 있는 용기를 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "홍익출판 미디어그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20210315",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "헤이후 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*204",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "CIP2020032364",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197108624",
+                "INPUT_DATE": "20200803",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "너와 헤어지고 나를 만났다",
+                "PUBLISH_PREDATE": "20200820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

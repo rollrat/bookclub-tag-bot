@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 성인이 되어 다시 피아노를 치기 시작했다",
+    "oauthor": "스미 세이코 저/홍주영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 성인이 되어 다시 피아노를 치기 시작했다",
+                "link": "https://search.shopping.naver.com/book/catalog/32496221015",
+                "image": "https://shopping-phinf.pstatic.net/main_3249622/32496221015.20221227204831.jpg",
+                "author": "스미 세이코",
+                "discount": "11700",
+                "publisher": "끌레마",
+                "pubdate": "20171220",
+                "isbn": "9788994081861",
+                "description": "피아노가 능숙해지는 데는 이유가 있다!\n성인 피아노 학습자를 위한 맞춤형 안내서\n\n최근 피아노를 배우는 성인들이 늘어나면서 성인 피아노 교습소도 성황 중이다. 어릴 때 배우다가 포기했으나 문득 다시 치고 싶어서, 직장생활과 일상의 스트레스를 풀고 싶어서, 좋아하는 곡을 직접 연주하고 싶어서, 두뇌건강과 치매예방을 위해서 등의 다양한 이유로 피아노 앞에 앉는 사람들이 늘어나고 있다. 이러한 분위기 속에서 성인 피아노 학습자들을 위한 맞춤형 안내서 『나는 성인이 되어 피아노를 치기 시작했다』가 출간되었다.\n\n저자 스미 세이코는 독일 국립 프라이부르크 음악대학을 수석으로 졸업한 일본의 유명 피아니스트로, 1996년에 일본에서 아버지를 위한 피아노 레슨이라는 CD를 발매해 레코드대상 기획상을 수상했고, NHK에서 ‘악보가 서툰 아버지를 위한 피아노 강좌’를 진행하는 등 20여 년간 성인 피아노 학습자들을 위해 다양한 활동을 펼치고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "끌레마",
+                "DDC": "786.2",
+                "UPDATE_DATE": "20180103",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "스미 세이코 지음 ;홍주영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "676.27",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6432711_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6432711_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6432711_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "169 p.",
+                "CONTROL_NO": "CIP2017030263",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994081861",
+                "INPUT_DATE": "20171115",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "나는 성인이 되어 다시 피아노를 치기 시작했다",
+                "PUBLISH_PREDATE": "20171220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

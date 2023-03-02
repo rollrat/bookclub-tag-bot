@@ -1,0 +1,67 @@
+{
+    "otitle": "스파이의 유산",
+    "oauthor": "존 르카레 저/김승욱 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스파이의 유산 (존 르카레 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440360917",
+                "image": "https://shopping-phinf.pstatic.net/main_3244036/32440360917.20230117165319.jpg",
+                "author": "존 르카레",
+                "discount": "14220",
+                "publisher": "열린책들",
+                "pubdate": "20200430",
+                "isbn": "9788932920160",
+                "description": "영화감독 박찬욱 추천!\n스파이 문학의 거장 존 르카레 신작\n\n스파이 소설의 장르를 넘어 문학성을 인정받는 거장, 존 르카레의 스물네 번째 장편소설 『스파이의 유산』이 열린책들에서 출간되었다. 2017년 발표된 이 작품은 르카레의 대표작 『추운 나라에서 돌아온 스파이』(1963)로부터 50여 년이 지난 시점의 이야기이며, 27년 만에 - 『은밀한 순례자』(1990) 이후로 - 조지 스마일리가 다시 등장하는 작품이기도 하다. 한국어판에는 박찬욱 감독의 추천사가 수록되어 있다. 박찬욱 감독은 르카레의 팬으로, 르카레 원작의 BBC 드라마 『리틀 드러머 걸』을 감독하기도 하며 작가와 교분을 맺어 왔다.\n초인적인 활약을 펼치는 화려한 스파이가 아니라, 인간적인 고뇌를 품은 동시대 인물로 스파이를 그려 온 르카레. 흥미롭게도 이번 작품은 르카레의 분신 같은 캐릭터 스마일리가 주인공이 아니라, 스마일리의 부하 피터 길럼의 1인칭 소설이다. 길럼은 이미 스파이에서 은퇴한 상태지만 과거 사건이 문제가 되자 다시 한번 정보부의 부름을 받는다. 『추운 나라』에 이어 『유산』에서도 중요하게 다뤄지는 〈윈드폴 작전〉의 앨릭 리머스는 물론 컨트롤, 한스-디터 문트, 빌 헤이든, 짐 프리도까지 르카레의 팬이라면 반가워할 이름들이 속속 등장한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "",
+                "UPDATE_DATE": "20200512",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 존 르카레 ;옮긴이: 김승욱",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "447 p.",
+                "CONTROL_NO": "CIP2020005660",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932920160",
+                "INPUT_DATE": "20200207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "스파이의 유산",
+                "PUBLISH_PREDATE": "20200430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

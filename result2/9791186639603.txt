@@ -1,0 +1,67 @@
+{
+    "otitle": "어쩌면 조금 외로웠는지도 몰라",
+    "oauthor": "김용은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어쩌면 조금 외로웠는지도 몰라 (외로움이 키운 습관들에 대하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492653653",
+                "image": "https://shopping-phinf.pstatic.net/main_3249265/32492653653.20221019105038.jpg",
+                "author": "김용은",
+                "discount": "12600",
+                "publisher": "애플북스",
+                "pubdate": "20170915",
+                "isbn": "9791186639603",
+                "description": "디지털 미디어를 연구하며 글을 쓰고 강연하는 미디어 전문가 김용은 수녀가 스마트폰을 구입해 써보면서 경험한 여러 재미있는 이야기들과 성찰이 담긴 에세이다. 미디어 중독 전문가로서도 활발히 활동중인 저자에게 “스마트폰을 사용하지 않으면서 스마트폰과 SNS에 대해 글을 쓰고 강의를 하는 건 엉터리예요”라고 말하는 동료 수녀의 말에 자극을 받아 2G폰을 사용하던 저자는 드디어 스마트폰을 구입하게 된다. 그동안 잘못된 습관을 교정하는 방법에 대해서 언제나 ‘의지’를 강조했던 저자는 직접 스마트폰을 써보니 정말 시간가는 줄 모르게 재미있고 자꾸만 손이 가는 것을 경험하게 된다. 그리고 마침내 깨닫게 된다. 그동안 스마트폰 습관에 대해 ‘머리로 아는 것’만 강의하고 이야기하고 있었음을. 또한 그 습관은 내면 아이의 외로움이 표현된 행동이라는 것을 말이다.\n\n이 책은 “스마트폰 습관 너머에 숨겨져 있던 내 마음을 이해하고 나면 그때서야 진짜 내 마음을 만날 수 있다”고 말해준다. 더불어 외로움이 키운 습관에서 벗어나기 위해 생활 속에서 활용해볼 만한 방법들을 에피소드를 통해 다정하면서도 따뜻하게 담아내고 있다. 그동안 너무 익숙하게 사용하느라 몰랐던 스마트폰과 마음의 관계를 알아차리는 과정은 정말 새로운 경험이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "애플북스 :비전비엔피",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20170913",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김용은 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6331999_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6331999_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6331999_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "235 p.",
+                "CONTROL_NO": "CIP2017021691",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186639603",
+                "INPUT_DATE": "20170823",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "어쩌면 조금 외로웠는지도 몰라",
+                "PUBLISH_PREDATE": "20170915",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

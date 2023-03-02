@@ -1,0 +1,67 @@
+{
+    "otitle": "마미핸즈의 베이킹 레시피",
+    "oauthor": "김지연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마미핸즈의 베이킹 레시피",
+                "link": "https://search.shopping.naver.com/book/catalog/32491682639",
+                "image": "https://shopping-phinf.pstatic.net/main_3249168/32491682639.20220527024817.jpg",
+                "author": "김지연",
+                "discount": "14220",
+                "publisher": "상상출판",
+                "pubdate": "20160909",
+                "isbn": "9791186517901",
+                "description": "아토피를 앓고 편식이 심한 아이들에게 밥 대신 먹일 요량으로 우리밀 베이킹을 시작하여 20여 년 동안 우리밀빵과 과자를 굽는 엄마의 베이킹 레시피를 한 권으로 묶은 『마미핸즈의 베이킹 레시피』. 베이킹 초보자들도 혼자 베이킹을 해볼 수 있을 만큼 상세한 과정과 설명을 담았다. 과정 중간 중간에 소개한 맛있는 우리밀 빵을 만들기 위한 팁 등은 아주 중요한 비법이니 꼭 숙지하면 도움이 된다. 이 책은 건강하고 맛있는 우리밀 빵과 과자를 맛보고 싶은 분들에게 좋은 우리밀 베이킹 지침서가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "641.815",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김지연",
+                "SERIES_TITLE": "",
+                "KDC": "594.71",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5695570_3.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5695570_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "b5",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "256",
+                "CONTROL_NO": "CIP2016020164",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186517901",
+                "INPUT_DATE": "20160818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "마미핸즈의 우리밀 베이킹",
+                "PUBLISH_PREDATE": "20160909",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

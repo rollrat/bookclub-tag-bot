@@ -1,0 +1,67 @@
+{
+    "otitle": "세금이 잘못됐습니다",
+    "oauthor": "김아영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세금이 잘못됐습니다 (세무전문가가 알려주는 최강 절세법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466685162",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466685162.20221228072012.jpg",
+                "author": "김아영",
+                "discount": "13500",
+                "publisher": "옥당북스",
+                "pubdate": "20181126",
+                "isbn": "9791196412838",
+                "description": "22년 경력 ‘세무의 달인’이 전하는 현실 절세법\n \n13월의 보너스를 얻을 것인가, 세금폭탄을 맞을 것인가. 연말정산에 대한 관심은 높지만 세금을 줄일 수 있는 방법은 막연하고 어렵기만 하다. 이에 평범한 직장인, 자영업자들을 위해 ‘세무의 달인’인 저자 김아영이 책 《세금이 잘못됐습니다》를 펴냈다. \n\n저자 김아영은 국립세무대학교를 졸업하고, 세무공무원으로 14년간 관세청에서 일하다 2003년 미국공인회계사에 합격했다. 이후 미국 일리노이대학교에서 회계학 석사 과정을 거친 후 대기업에서 세무업무를 두루 다뤘다. 세무 경력만 22년. 말 그대로 ‘세법 전문가’, ‘세무의 달인’인 셈이다.\n\n책 《세금이 잘못됐습니다》에서 저자는 세무 전문가로서 현실적, 합법적으로 절세를 할 수 있는 방법을 보다 친절히 제시하고 있다. 세금의 ‘세’자도 모르는 ‘박무식 대리’와 알뜰살뜰 세금 공부를 해온 ‘김유식 대리’라는 가상의 인물을 설정해, 이들의 대화를 통해 이해를 돕는다. 1부에서는 대한민국 1,600만 직장인을 위한 세금 관련 기초 지식과 절세 노하우를, 2부에서는 퇴직 후 사업을 시작한 자영업자에게 도움이 되는 절세법을 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "옥당북스",
+                "DDC": "336.2",
+                "UPDATE_DATE": "20181127",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김아영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "329.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6984856_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6984856_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "283 p.",
+                "CONTROL_NO": "CIP2018035484",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196412838",
+                "INPUT_DATE": "20181102",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "세금이 잘못됐습니다",
+                "PUBLISH_PREDATE": "20181126",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

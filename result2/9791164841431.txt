@@ -1,0 +1,67 @@
+{
+    "otitle": "그래서 어떻게 하면 집중할 수 있습니까?",
+    "oauthor": "니시오카 잇세이 저/강다영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그래서 어떻게 하면 집중할 수 있습니까? (하기 싫은 마음을 하고 싶은 행동으로 바꾸는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441520631",
+                "image": "https://shopping-phinf.pstatic.net/main_3244152/32441520631.20221229071230.jpg",
+                "author": "니시오카 잇세이",
+                "discount": "11700",
+                "publisher": "매일경제신문사",
+                "pubdate": "20200625",
+                "isbn": "9791164841431",
+                "description": "“누구에게나 통한다! 저절로 ‘초집중 모드’가 된다!”\n공부 ‘만렙’이 알려주는, 시간 낭비 없는 고효율 집중법\n\n“나만 없어, 집중력!”이라고 외치며 미리 좌절하는 사람들에게 집중법을 알려주는 책. 단 15분도 가만히 있지 못했던 학년 꼴찌에서 명문대 합격, 학생 신분으로는 이례적인 ‘입시’ 만화 《드래곤 사쿠라 2(ドラゴン? 2)》의 책임편집자, 수험생을 가르치는 고등학교 강사, 누적 40만 부의 베스트셀러 작가 등 ‘인.생.역.전’ 타이틀을 갱신하며 ‘공부의 신’으로 떠오른 니시오카 잇세이가 최단 시간에 최고의 성과를 이끌어내는 ‘고효율 집중법’을 소개한다. 집중력이 결과의 ‘차이’를 만들기 때문이다.\n저자는 도쿄대학교 상위 10%의 학습법을 분석하며 ‘공부 잘하는 사람들’의 공통점을 발견했다. 바로 무리하지 않고 ‘즐기는 집중’이다. “집중력은 노력이나 정신력의 문제가 아니라 기술”이라고 밝히며, 이 책에서 ‘하기 싫은’ 마음을 ‘하고 싶은’ 행동으로 바꾸는 다양한 트리거를 보여준다. 눈앞의 일에 능동적으로 빠지게 되는 특별한 자세부터 집중을 지속하는 법, 아웃풋으로 집중력을 점검하는 법, 좌뇌와 우뇌 등 8가지 타입별 맞춤 집중법까지 저자의 경험처럼 이 기술을 터득한다면 집중이 필요한 모든 순간, 자신의 생각대로 삶을 주도적으로 변화시키게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20200630",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "니시오카 잇세이 지음 ;강다영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/06/11/9791164841431.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "181 p.",
+                "CONTROL_NO": "CIP2020024408",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164841431",
+                "INPUT_DATE": "20200611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "그래서 어떻게 하면 집중할 수 있습니까?",
+                "PUBLISH_PREDATE": "20200625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

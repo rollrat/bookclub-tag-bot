@@ -1,0 +1,67 @@
+{
+    "otitle": "차트의 해석",
+    "oauthor": "김정환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "차트의 해석 (《차트의 기술》 김정환 저자의 기술적 분석 심화 편)",
+                "link": "https://search.shopping.naver.com/book/catalog/32794259647",
+                "image": "https://shopping-phinf.pstatic.net/main_3279425/32794259647.20221019124626.jpg",
+                "author": "김정환",
+                "discount": "16650",
+                "publisher": "이레미디어",
+                "pubdate": "20220630",
+                "isbn": "9791191328561",
+                "description": "대한민국 최고의 기술적 분석가이자\n20여 년 초장기 베스트셀러 《차트의 기술》 김정환 저자의 신작 \n기술적 분석 관련 최고의 책!\n\n《차트의 해석》은 베스트 애널리스트이자 최고의 기술적 분석가인 저자 김정환의 스테디셀러인 《차트의 기술》의 심화 편이라고 할 수 있다. 《차트의 기술》이 기술적 분석을 위한 기초를 다지게 했다면, 《차트의 해석》은 기술적 분석에 관한 지표나 매매 전략의 의미를 명확히 하여 실제 시장과 종목의 움직임에 대응하는 방법을 알려준다. \n《차트의 해석》은 기술적 분석의 역사는 물론, 새로운 접근 방법을 설명한다. 그리고 가격의 변동 구조와 군중 현상, 주식 가격과 가격대 분석을 통해 시장의 움직임을 만드는 근본을 이해할 수 있게 한다. 또한 기술적 분석에서 가장 중요한 개념은 거래량과 이동평균선이라고 말하며, 이에 대한 자세한 투자 전략을 소개하고 있다. 독자는 이 책을 통해 거래량 지표와 추세지표, 시장지표를 이용한 분석, 캔들 차트로 보는 추세 전환/지속 신호, 비추세 국면(박스권)에서의 매매 전략 등을 활용해 자신의 분석 방법을 한층 업그레이드시킬 수 있다. 제대로 분석하고, 제대로 적용하여 흔들리지 않는 매매를 원한다면 이 책은 많은 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이레미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20220707",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김정환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "503 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791191328561",
+                "INPUT_DATE": "20220513",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "차트의 해석",
+                "PUBLISH_PREDATE": "20220630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

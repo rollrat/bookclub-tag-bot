@@ -1,0 +1,78 @@
+{
+    "otitle": "이탈리아 집밥",
+    "oauthor": "정해리 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:51 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "이탈리아 집밥 (푸근한 할머니 음식에서 미슐랭 셰프의 레시피까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442305392",
+                "image": "https://shopping-phinf.pstatic.net/main_3244230/32442305392.20221227205832.jpg",
+                "author": "정해리",
+                "discount": "15560",
+                "publisher": "브.레드",
+                "pubdate": "20200910",
+                "isbn": "9791190920025",
+                "description": "푸근한 할머니 음식에서 미슐랭 셰프의 레시피까지 전세계 가정식의 최고봉, 이탈리아 집밥의 모든 것. 감자 삶아 툭툭 빚은 할머니의 뇨끼, 친구 어머니의 보리수프 등 푸근한 손맛이 담긴 레시피와 요리학교, 미슐랭 레스토랑에서 익힌 한 끗 차 요리 포인트를 담았다. 쇠고기와 돼지고기, 햄을 섞어 만드는 황금비율 라구소스, 사르르 녹는 문어 삶기, 쿠스쿠스 삶는 법, 허브를 골라 쓰는 저자의 오랜 노하우를 따라 하면 집밥이 달라진다.\n\n\n\n이탈리아 음식 하면 떠오르는 파스타와 리조또뿐 아니라 해산물과 고기로 만든 메인 메뉴, 가지 피클, 피망구이 등 반찬, 판나꼬따, 리몬첼로, 소르벳또 등 배우고 싶었던 이탈리아 디저트까지, 책에 담긴 이탈리아 레시피는 다채롭고 알차다. 흑맥주목살찜, 불고깃감에 치즈를 넣은 요리, 시금치볶음 등이 친근하고도 새로워 활용하기 좋다."
+            },
+            {
+                "title": "소박한 파스타 (어렵게만 느껴졌던 이탈리아 요리가 아닌 따뜻한 집밥으로 다시 태어난 소박한 파스타)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465126662",
+                "image": "https://shopping-phinf.pstatic.net/main_3246512/32465126662.20221019124213.jpg",
+                "author": "월간 수레시피",
+                "discount": "14220",
+                "publisher": "레시피팩토리",
+                "pubdate": "20161116",
+                "isbn": "9791185473239",
+                "description": "어려웠던 이탈리아 요리가 아닌 따뜻한 집밥으로 다시 태어난 소박한 파스타를 만나보세요!\n\n아직도 파스타가 어려운 당신을 위한 『소박한 파스타』. 레스토랑 메뉴판에서 익숙하게 봐온 메뉴들을 모아 놓은 한 번쯤 꼭 배우고 싶었던 ‘기본 파스타’, 특별한 재료 없이 냉장고 속 재료로 뚝딱 만들 수 있는 따뜻한 한 그릇 ‘소박한 파스타’, 가족과 함께하는 저녁이나 손님 초대 상에는 마치 일품요리같이 푸짐하고 먹음직스러운 ‘더 특별한 파스타’를 담아 활용도를 높였다. \n\n책은 요리 왕초보부터 이제 막 엄마 밥상에서 독립한 자취생. 일주일에 한 번은 특별한 식탁을 꿈꾸는 신혼부부, 파스타를 좋아하는 아이들에게 건강하고 믿을 수 있는 파스타를 만들어 주고 싶었던 엄마, 아빠까지. 남녀노소 누구나 쉽고 간단하게 맛있는 파스타를 만들 수 있게 도와준다. 시판 소스나 특별한 재료가 없어도, 서툰 요리실력을 갖췄더라도 누구나 만들 수 있는 진짜 쉽고 맛있는 파스타로 안내한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "B.read(브,레드)",
+                "DDC": "",
+                "UPDATE_DATE": "20201103",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정해리 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/13/9791190920025.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "172*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190920025",
+                "INPUT_DATE": "20200819",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "이탈리아 집밥",
+                "PUBLISH_PREDATE": "20200910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

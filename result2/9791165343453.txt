@@ -1,0 +1,67 @@
+{
+    "otitle": "주식은 그렇게 하는 게 아닙니다",
+    "oauthor": "한세구 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "주식은 그렇게 하는 게 아닙니다 (백만개미를 위한 이기는 습관)",
+                "link": "https://search.shopping.naver.com/book/catalog/32489634092",
+                "image": "https://shopping-phinf.pstatic.net/main_3248963/32489634092.20221229071719.jpg",
+                "author": "한세구",
+                "discount": "14690",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20210512",
+                "isbn": "9791165343453",
+                "description": "사기만 하면 떨어지고, 팔기만 하면 오르는\n모든 개미 투자자를 위한 이기는 습관!\n\n코로나19, ‘팬데믹’이라는 전대미문의 사태는 전 세계적 경제 위기를 불러왔다. 이로 인해 국내 코스피 지수가 급락하며 증시가 무너지는 듯 보였다. 그러나 걱정도 잠시, 구름 떼 같은 개인 투자자들이 대한민국 증시를 떠받치겠다고 나섰다. 일명 ‘동학 개미 운동’ 사태다. 외국인 투자자와 기관의 엄청난 매도세가 연일 이어졌지만, 이들은 뒤지지 않는 매수세로 증시를 지켰다. 긴 기간 회복하지 못할 것이라는 전문가들의 의견에 보란 듯이, 10년간 깨지 못했던 코스피 3,000p를 뚫는 기염을 토했다. 이 모든 것이 개인 투자자들 덕분이라 해도 과언이 아닐 것이다. \n40년 경력의 증권 전문가 한세구는 작년 초, 증시가 급락했을 당시 “지금은 팔 때가 아니라 살 때.”라며 자신의 지난 경험을 바탕으로 개인 투자자를 위한 유튜브 채널 ‘백만개미’를 시작했다. 그때부터 지금까지 초보 투자자, 개인 투자자의 편에 서서 업계 내부에서만 공유되었던 시장의 세세한 숨결까지 알려주며 개인 투자자들이 뛰는 기울어진 운동장을 개선하고자 노력하고 있다. 실제로 그의 채널은 아무것도 모른 채로 시장에 뛰어들어 갈피를 못 잡고 우왕좌왕하는 동학개미들에게 큰 도움을 주며 승승장구하고 있다. 이 책은 백만개미 구독자들이 자주 묻는 것, 유튜브에서 더 자세히 소개하지 못한 실전 멘탈 관리법, 40년 업계 전문가의 투자비기를 모아서 낸 한세구 작가의 첫 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20210618",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "한세구 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "302 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165343453",
+                "INPUT_DATE": "20210416",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "주식은 그렇게 하는 게 아닙니다",
+                "PUBLISH_PREDATE": "20210512",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

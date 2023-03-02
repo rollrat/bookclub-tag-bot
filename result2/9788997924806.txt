@@ -1,0 +1,67 @@
+{
+    "otitle": "개발자를 위한 글쓰기 가이드",
+    "oauthor": "유영경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "개발자를 위한 글쓰기 가이드 (예제로 배우는 테크니컬 라이팅 핵심 비법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32470446501",
+                "image": "https://shopping-phinf.pstatic.net/main_3247044/32470446501.20221230074741.jpg",
+                "author": "유영경",
+                "discount": "14400",
+                "publisher": "로드북",
+                "pubdate": "20210226",
+                "isbn": "9788997924806",
+                "description": "Microsoft, NAVER, NHN에서 20년\n베테랑 테크니컬 라이터의 글쓰기 비법\n\n개발자가 코딩만 잘하면 된다? 고객의 요구사항 분석을 제대로 글로 옮기지 못한다면 무슨 일이 발생할까? 장애 발생 시 공지문을 작성해야 하는데, 빠짐없이 정확하게 작성할 수 있을까? 오류와 확인 메시지는 제대로 쓸 수 있을까? UI에 들어가는 텍스트는? 소프트웨어 제품 출시 후 사용자 가이드는 어떻게 만들어야 할까? 개발자는 코딩 영역 외에도 이렇게 수많은 글쓰기 문제에 직면한다. 이를 위해 저자는 테크니컬 라이터로서 20년 이상 개발자와 함께하며 얻는 핵심 노하우를 이 책 한 권에 정리하였다. 옆에 두고 항상 참고할 수 있는 개발자만을 위한 글쓰기 가이드이다.\n\n샘플원고 ☞ https://roadbook.co.kr/246\n\n-----------대상 독자: 이런 고민을 하는 독자-----------\n고객의 요구사항을 정리하는 데 어려움을 겪는 개발자\n협업 미팅을 해야 할 때 나의 보고서가 부끄러운 개발자\n장애 보고서는 어떻게 써야 할지 난감한 개발자\n회의록을 기록하며 업무를 해야 하는 개발자\n버튼 텍스트, 오류 메시지 작성 등에 고민이 많은 개발자\n남들이 나의 글을 제대로 이해하지 못한다고 생각하는 개발자\n전문 테크니컬 라이터가 없는 중소규모의 소프트웨어 기업"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20210318",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "유영경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924806",
+                "INPUT_DATE": "20210202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "개발자를 위한 글쓰기 가이드",
+                "PUBLISH_PREDATE": "20210226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "제가 해보니 나름 할 만합니다",
+    "oauthor": "김영우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "제가 해보니 나름 할 만합니다 (40대에 시작한 전원생활, 독립서점, 가사 노동, 채식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32458945720",
+                "image": "https://shopping-phinf.pstatic.net/main_3245894/32458945720.20221228071946.jpg",
+                "author": "김영우",
+                "discount": "12420",
+                "publisher": "흐름출판",
+                "pubdate": "20210330",
+                "isbn": "9788965964339",
+                "description": "도시 생활자이자 육식주의자, 아들로 태어난 김영우 씨가 선택한\n조금 특별하고 남다른 삶의 현장!\n\n가평 책방 ‘북유럽’을 운영 중인 저자의 남다른 선택과 달라진 일상의 기록. 서울에서 프리랜서 작가로 살던 저자는 안정을 추구할 법한 나이 마흔에 도시를 떠나 가평에 터를 잡고 동네 책방을 열었다. 누구나 꿈꿔볼 법한 전원생활과 서점 운영이지만 막상 해보니 로망과 현실은 다르다. 집에는 사시사철 각종 벌레가 출몰하고 마당에 잡초는 무성히 자라며, 시시때때로 뱀과 벌을 마주치고, 겨울의 추위는 혹독하다. 책방도 마찬가지. 똥줄 태우며 운영하지만 하루에 두 권만 팔아도 다행이다 싶을 만큼 밥벌이 역할은 하지 못한다. \n\n 그런 가운데 저자는 책을 통해 자신이 남성으로서 많은 것을 누리고 살아왔음을 깨달은 뒤 ‘집안일은 내가!’를 선언한 이후 지금까지 매일 가족의 삼시세끼를 챙기고 있다. 막상 살림을 도맡아 해보니 집안일이 삶의 필수 영역이지만 인정받지 못하는 노동임을 깨닫는다. 반려견 덕에 채식도 시작했지만 아직은 갈 길이 멀다. \n\n 이 책은 도시 생활자이자 육식주의자, 대한민국에서 아들로 살아온 저자가 40대에 전원생활, 독립서점, 가사 노동, 채식을 선택한 뒤의 이야기를 담은 에세이다. 저자는 때때로 불편을 감수해야 하지만 완벽하지 않아도 어제보다 조금 더 나은 내가 되기를 바란다고, 삶의 길목에서 고민하고 선택한 것에 책임지고자 노력하고 있다고 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210507",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "김영우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/17/9788965964339.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "254 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965964339",
+                "INPUT_DATE": "20210317",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "제가 해보니 나름 할만합니다",
+                "PUBLISH_PREDATE": "20210330",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

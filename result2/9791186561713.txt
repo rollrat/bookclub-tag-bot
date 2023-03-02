@@ -1,0 +1,67 @@
+{
+    "otitle": "도쿄 스페셜티 커피 라이프",
+    "oauthor": "이한오 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도쿄 스페셜티 커피 라이프(Tokyo Specialty Coffee Life)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444605755",
+                "image": "https://shopping-phinf.pstatic.net/main_3244460/32444605755.20221227205853.jpg",
+                "author": "이한오",
+                "discount": "16420",
+                "publisher": "북노마드",
+                "pubdate": "20200720",
+                "isbn": "9791186561713",
+                "description": "맛있는 커피를 찾아 기꺼이 발품을 들이는 사람이라면 ‘스페셜티 커피’라는 용어를 사용하고 있을 것이다. 스페셜티 커피는 원두를 재배하여 수확, 가공, 로스팅, 추출 등 일련의 과정에서 각 과정의 주체가 분명하고, 그로부터 일정 품질을 기대할 수 있는 커피를 말한다.  \n『도쿄 스페셜티 커피 라이프』는 한 잔의 커피를 장인이 정성껏 추출해서 제공하는 일본의 커피 문화를 바탕으로 도쿄에 새로운 흐름을 만드는 스페셜티 커피 문화를 소개한 책이다. \nIT 기업에서 변리사로 일하며 ‘맛있는 커피’를 찾아 전 세계를 다니고, 국내외 커피 관계자 및 바리스타들과 교류하고 있는 저자가 시부야, 신주쿠, 세타가야, 메구로, 도쿄 도심, 도쿄 동부를 누빈 결과가 충실하면서도 아름답다. 도쿄의 블루보틀 커피와 〈도쿄 커피 페스티벌〉 등 커피의 ‘제3의 물결’(Third Wave Coffee)을 입체적으로 살핀 시선도 흥미롭다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북노마드",
+                "DDC": "",
+                "UPDATE_DATE": "20200724",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "www.booknomad.co.kr",
+                "AUTHOR": "이한오 지음",
+                "SERIES_TITLE": "",
+                "KDC": "594.3993",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20200720",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "22,000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "338 p.",
+                "CONTROL_NO": "CIP2020026690",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186561713",
+                "INPUT_DATE": "20200625",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "도쿄 스페셜티 커피 라이프",
+                "PUBLISH_PREDATE": "20200720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

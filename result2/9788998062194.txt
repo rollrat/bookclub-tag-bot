@@ -1,0 +1,67 @@
+{
+    "otitle": "유쾌발랄 유물 여행",
+    "oauthor": "김경복 글/김숙경 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "유쾌발랄 유물 여행 (유물로 보는 역사 한 장면)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466680442",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466680442.20230131162822.jpg",
+                "author": "김경복",
+                "discount": "13050",
+                "publisher": "니케북스",
+                "pubdate": "20201210",
+                "isbn": "9788998062194",
+                "description": "《유쾌발랄 유물 여행》은 유물을 통해 우리 역사를 되짚어 볼 수 있는 역사책으로, 자칫 지루하고 딱딱하게 느낄 수 있는 우리 역사를 흥미롭게 풀어냈습니다. 특히 기존의 정치 중심의 이야기에서 참고자료 정도로 쓰였던 유물을 과감히 주인공으로 설정하여 재미있게 역사를 전달할 수 있도록 했습니다. 반구대 암각화부터 대한제국 고종 황제 어새까지 초등학교 역사 교과서에 나오는 유물 중에서 대표적이고 귀중한 유물 15점을 뽑아 유물이 전해 주는 가치와 감동을 느낄 수 있도록 했습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "니케주니어 :니케북스",
+                "DDC": "",
+                "UPDATE_DATE": "20210317",
+                "EA_ADD_CODE": "74300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김경복 글 ;김숙경 그림",
+                "SERIES_TITLE": "주제로 보는 어린이 한국사",
+                "KDC": "911",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788998062088",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/17/9788998062194.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "187*250",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "150 p.",
+                "CONTROL_NO": "CIP2020049027",
+                "SERIES_NO": "3",
+                "EA_ISBN": "9788998062194",
+                "INPUT_DATE": "20201117",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "유쾌발랄 유물 여행",
+                "PUBLISH_PREDATE": "20201210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

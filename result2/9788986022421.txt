@@ -1,0 +1,67 @@
+{
+    "otitle": "그래서 브랜딩이 필요합니다",
+    "oauthor": "전우성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그래서 브랜딩이 필요합니다 (수많은 이름 중에 단 하나의 브랜드가 되기 위한 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467537919",
+                "image": "https://shopping-phinf.pstatic.net/main_3246753/32467537919.20230218110431.jpg",
+                "author": "전우성",
+                "discount": "12600",
+                "publisher": "책읽는수요일",
+                "pubdate": "20211027",
+                "isbn": "9788986022421",
+                "description": "네이버, 29CM, 스타일쉐어 등을 거치며\n차별화된 브랜딩 전략과 실행으로\nMZ세대가 열광하는 브랜드 가치를 만들어낸\n브랜딩 전문가 전우성 디렉터의\n브랜딩에 대한 생각과 조언\n\n브랜딩의 성공적인 사례들을 소개하는 콘텐츠는 많지만, 정작 그것을 참고해 나의 경우에 맞게 적용하기란 쉽지 않다. 브랜딩이란 무엇일까? 그것은 왜 해야 하는 걸까? 어디서부터 시작하고 또 어떻게 진행해야 할까? 성공적인 브랜딩을 위해서는 어떤 것들이 필요할까? 네이버, 29CM, 스타일쉐어 등을 거치며 차별화된 브랜딩 전략을 실행해온 전우성 브랜딩 디렉터가 일하는 과정에서 품었던 브랜딩에 관한 여러 가지 질문들과 그 나름의 답을 이 책, 『그래서 브랜딩이 필요합니다』에 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책읽는수요일 :한올엠앤씨",
+                "DDC": "",
+                "UPDATE_DATE": "20211109",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전우성 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788986022421",
+                "INPUT_DATE": "20211008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "그래서 브랜딩이 필요합니다",
+                "PUBLISH_PREDATE": "20211027",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

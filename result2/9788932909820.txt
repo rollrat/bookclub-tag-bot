@@ -1,0 +1,67 @@
+{
+    "otitle": "드라큘라 (상)",
+    "oauthor": "브램 스토커 저/이세욱 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "드라큘라(상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481913759",
+                "image": "https://shopping-phinf.pstatic.net/main_3248191/32481913759.20221019152333.jpg",
+                "author": "브램 스토커",
+                "discount": "8820",
+                "publisher": "열린책들",
+                "pubdate": "20091220",
+                "isbn": "9788932909820",
+                "description": "『드라큘라』상권. 공포와 성을 결합시킨 환상 문학의 고전. 여자들이 그의 목에 키스하려 하자, 늙은 백작이 불같이 화를 내며 끼어든다. '이 남자는 내 것이야!' 1890년, 더블린의 평범한 가장이며 전직 공무원이자 극장 매니적인 브램 스토커는 불쾌한 꿈을 꾼 뒤 이와 같은 내용을 메모한다. 7년 뒤 역사상 가장 유명한 소설의 하나로 발전하게 되는 이 짤막한 메모는 『드라큘라』가 그토록 강력하게 20세기인들을 사로잡았던 비밀을 그대로 보여 주고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "823.912",
+                "UPDATE_DATE": "20150325",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "브램 스토커",
+                "SERIES_TITLE": "",
+                "KDC": "843",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2368874_6.txt",
+                "SET_ISBN": "9788932914992",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2368874_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2009003504",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932909820",
+                "INPUT_DATE": "20091104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "드라큘라",
+                "PUBLISH_PREDATE": "20091220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

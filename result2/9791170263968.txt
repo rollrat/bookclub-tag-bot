@@ -1,0 +1,78 @@
+{
+    "otitle": "구름이 나에게",
+    "oauthor": "모모이라운드 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:02 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "구름이 나에게",
+                "link": "https://search.shopping.naver.com/book/catalog/32476655580",
+                "image": "https://shopping-phinf.pstatic.net/main_3247665/32476655580.20221230072426.jpg",
+                "author": "김유나",
+                "discount": "10800",
+                "publisher": "팜파스",
+                "pubdate": "20210315",
+                "isbn": "9791170263968",
+                "description": "안녕?\n나는 너의 작은 구름이야.\n\n“알파카야, 이 큰 돌을 치워줄 수 있겠니?”\n“내가 왜 그래야 하지?”\n푸른 정원에서 자기 몸집보다 더 큰 똥을 굴리고 있던 쇠똥구리는 투덜이 알파카에게 도움을 청했어요. 하지만 식사 시간을 방해받기 싫은 알파카는 그냥 모른 척했죠. \n햇살이 뜨겁게 내리쬐는 들판에 앉아 풀을 뜯던 알파카는 땀이 나기 시작했죠. 그때 지나가던 작은 구름이 땀을 흘리고 있는 알파카에게 다가가 작은 그늘을 만들어주었어요. 그리고 비가 오면 비를 막아주었죠. 작은 구름의 배려에 투덜이 알파카의 투덜거림이 멈췄어요. 한 사람의 따뜻한 마음이 주변의 모든 사람의 마음도 따뜻하게 만들 수 있답니다."
+            },
+            {
+                "title": "쟤는 누구야? (구름이 나에게/할머니와 봄의 정원/빨간모자 요정 이야기/해달 쌤 수영장/안녕, 내 친구 루디/빨간공/우리 오빠는 바보 히어로/내 동생은 얄미운 지니어스/쟤는 누구야?/바다의 색)",
+                "link": "https://search.shopping.naver.com/book/catalog/32465588981",
+                "image": "https://shopping-phinf.pstatic.net/main_3246558/32465588981.20221019105610.jpg",
+                "author": "김연주",
+                "discount": "12600",
+                "publisher": "팜파스",
+                "pubdate": "20220510",
+                "isbn": "9791170264835",
+                "description": "숲속 마을이 들썩들썩!\n우리 마을에 난생처음 보는 동물이 이사 왔어요\n\n부르릉~ 조용한 숲속 마을이 시끌시끌해요. 머나먼 남쪽 마을에서 누군가 이사를 왔거든요. 환영 파티를 준비해야 할까? 사나운 이웃이면 어쩌지? 숲속 마을 동물들은 걱정이 많아요. 카피바라라고 하는데, 도무지 어떤 모습인지 상상하기 힘들어요. 하지만 새로 이사 온 가족들도 걱정이 많죠. 그중에서도 바바는 친한 친구들과 헤어져 낯선 곳에 뚝 떨어진 것만 같은 느낌에 하루하루가 외롭고 힘들답니다. 학교도 가기 싫고, 이전 마을로 다시 돌아가겠다고 매일매일 ‘엉엉’ 울고만 있어요. 바바는 이 숲속 마을에서 잘 지낼 수 있을까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20210705",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "글·그림: 모모이라운드",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "220*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[40] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170263968",
+                "INPUT_DATE": "20210208",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "구름이 나에게",
+                "PUBLISH_PREDATE": "20210315",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "otitle": "세라믹 센서",
+    "oauthor": "야나기다 히로아키 저/이능헌 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:42 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "세라믹 센서 (오감을 초월하는 지능소자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445683716",
+                "image": "https://shopping-phinf.pstatic.net/main_3244568/32445683716.20221228073123.jpg",
+                "author": "야나기다 히로아키",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20180921",
+                "isbn": "9788970448374",
+                "description": "불가능을 극복할 수 있는 기술의 힘\n\n세라믹스는 인간을 대신하여 ‘감지(感知)’하는 것이 가능한 각종 센서로서도 폭넓게 이용되고 있다. 또한 엄격하고 혹독한 환경에 견디지 못하는 생물의 약점을 극복할 수 있다.\n바로 우리가 동경해 왔던 이상의 하나가 이제 세라믹 센서로 실현되려는 것이다. 인간 자신을 모델로 하여 발상된 것이지만, 이제 인간의 능력을 초월하려 하고 있다.\n튼튼하고 내구력 있는 세라믹 센서의 용도는 한없이 넓다. 그리고 인간에게 구비되어 있지 않은 새로운 감각을 만들어 낼 수도 있으며, 인간의 한계를 초월하는 가혹한 환경, 예를 들어 용광로 내부와 같은 곳에서 정보를 수집하는 것도 가능할 것이다.\n이처럼 엄격한 환경에서 견뎌내려면 내구성 강한 세라믹스가 적격이라고 할 수 있다. 세라믹 센서, 이것이 미래 세계로의 안테나가 될 것임이 틀림없다."
+            },
+            {
+                "title": "세라믹 센서 (오감을 초월하는 지능소자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466960920",
+                "image": "https://shopping-phinf.pstatic.net/main_3246696/32466960920.20221231084222.jpg",
+                "author": "야나기다 히로아키",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19920825",
+                "isbn": "9788970441146",
+                "description": "생물의 오감을 초월, 미래 세계에서 주요한 역할을 하게 된 것으로 전망되는 세라믹 센서의 기초지식, 종류, 성질, 용도 등을 간략히 기술하였다."
+            },
+            {
+                "title": "센서의 진화를 견인하는 미래 신소재 첨단세라믹의 성장전략 (Issur Paper 2014-350)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492582491",
+                "image": "https://shopping-phinf.pstatic.net/main_3249258/32492582491.20221019135509.jpg",
+                "author": "이고은",
+                "discount": "4000",
+                "publisher": "KIET",
+                "pubdate": "20140423",
+                "isbn": "9788959926565",
+                "description": "▶ 이 책은 KIET의 센서의 진화를 견인하는 미래 신소재 첨단세라믹의 성장전략을 다룬 정부간행물입니다."
+            }
+        ]
+    }
+}

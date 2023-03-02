@@ -1,0 +1,67 @@
+{
+    "otitle": "애플은 왜 제품이 아니라 브랜드텔링에 집중했을까?",
+    "oauthor": "염승선(비오) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "애플은 왜 제품이 아니라 브랜드텔링에 집중했을까? (소비자를 사로잡는 글로벌 기업의 브랜드텔링 전략)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473915116",
+                "image": "https://shopping-phinf.pstatic.net/main_3247391/32473915116.20221019110507.jpg",
+                "author": "비오",
+                "discount": "11700",
+                "publisher": "책들의정원",
+                "pubdate": "20180710",
+                "isbn": "9791187604655",
+                "description": "“제품의 경쟁에서 인식의 경쟁으로, 기능이 아닌 감성을 팔아라”\n스타벅스, 현대카드, 몰스킨, 에비앙, MUJI 등 글로벌 No.1 기업의 성공 비밀을 밝힌다!\n\n변하지 않는 가치를 만드는 ‘다른 생각’\n브랜드 고유의 색깔이 고객을 부른다!\n\n스타벅스에서 아메리카노 한 잔과 애플 노트북을 펴 놓고 앉아 있으면 디지털 시대의 크리에이티브 노마드라고 느끼고, 현대카드를 사용하면 돈을 쓰는 사람이라기보다 문화를 즐기기 위한 가치를 지급하는 문화 향유자라고 생각하게 되는 것처럼 현대인들은 그 브랜드의 물건이나 서비스의 사용이 곧 자신을 표현한다고 느낀다. 이러한 현상은 브랜드가 사람들 사이에서 소통되는 또 하나의 언어가 되었기 때문이다.\n\n하루에도 수십 개의 브랜드가 출시되지만  대부분의 브랜드들은 그 가치를 알리지 못하고 소비자의 기억 속에서 사라져 간다. 특별한 차별점도 없는 제품들로 어떻게 해야 소비자와 소통하는 제3의 언어가 될 수 있을까?\n\n《애플은 왜 제품이 아니라 브랜드텔링에 집중했을까?》의 저자는 그 방법이 ‘브랜드텔링’임을 역설하고 있다. 여기서 말하는 브랜드텔링(Brand+telling)이란 브랜드와 사람이 마주보고 이야기할 수 없는 한계를 넘어 효과적이고 효율적으로 의사소통을 하게 만드는 것이다. 이 책은 글꼴, 단어, 메시지, 숫자, 공간 등을 활용해 언어적, 비언어적으로 소비자와 소통하는 브랜드텔링 방법을 설명하고, 역사적 사실, 인문학적 사례를 들어가며 브랜드에 대한 통찰을 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책들의정원",
+                "DDC": "658.827",
+                "UPDATE_DATE": "20180709",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "염승선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.571",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6710722_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6710722_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6710722_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "219 p.",
+                "CONTROL_NO": "CIP2018018973",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187604655",
+                "INPUT_DATE": "20180618",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "애플은 왜 제품이 아니라 브랜드텔링에 집중했을까?",
+                "PUBLISH_PREDATE": "20180710",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

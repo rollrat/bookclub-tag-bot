@@ -1,0 +1,67 @@
+{
+    "otitle": "최고의 수학자가 사랑한 문제들",
+    "oauthor": "이언 스튜어트 저/전대호 역/김충한 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "최고의 수학자가 사랑한 문제들",
+                "link": "https://search.shopping.naver.com/book/catalog/32475396509",
+                "image": "https://shopping-phinf.pstatic.net/main_3247539/32475396509.20221019120318.jpg",
+                "author": "Ian Stewart",
+                "discount": "15210",
+                "publisher": "반니",
+                "pubdate": "20200925",
+                "isbn": "9791190467803",
+                "description": "“최고의 수학은 기묘한 보편성에 있다”\n극강의 수학을 탐닉하는 이들을 위한 수학문제의 최전선\n\n당신은 수학이라는 과목이 얼마나 광범위한지, 학교에서 배운 수학보다 얼마나 더 풍요로운지, \n얼마나 다양하게 응용될 수 있는지, 그러면서도 수학의 여러 부분이 어떻게\n탄탄하게 연결되어 전체를 이루는지에 대해 좀 더 이해하게 될 것이다. \n더구나 그 모두는 수수께끼 풀이와 게임으로 얻게 될 것이다. \n중요한 것은 당신의 사고를 유연하게 펼치는 일이다. 결코 놀이의 위력을 얕잡아보지 마시라.\n- ‘들어가며’ 중에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "20201027",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이언 스튜어트 지음 ;전대호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "410",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "CIP2020034979",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190467803",
+                "INPUT_DATE": "20200820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "최고의 수학자가 사랑한 문제들",
+                "PUBLISH_PREDATE": "20200925",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

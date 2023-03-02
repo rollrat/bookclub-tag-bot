@@ -1,0 +1,67 @@
+{
+    "otitle": "게임 오버 GAME OVER",
+    "oauthor": "한스 페터 마르틴 저/이지윤 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "게임 오버(Game Over)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505131678",
+                "image": "https://shopping-phinf.pstatic.net/main_3250513/32505131678.20221229074515.jpg",
+                "author": "미즈타니 후우카",
+                "discount": "5400",
+                "publisher": "대원씨아이",
+                "pubdate": "20190723",
+                "isbn": "9791136200938",
+                "description": "나이차 보다도 사랑의 거리가 중요한 순수한 사랑이야기!\n중학생 소년과 미인 회사원의 만남에서부터 결혼까지를 그린 퓨어 러브스토리가 펼쳐집니다! \n\n으로 많은 팬을 확보하고 있는 미즈타니 후카의 단편집. 감성적이고 순수하면서도 애틋한 사랑을 놀라울 정도로 잘 표현해내는, 작가의 개성이 돋보이는 작품이다. 에서 깊이 다뤄지지 않았던 중학생과 미인 회사원의 이야기를 다루고 있으며, 팬이라면 반드시 보게 될 웰메이드 작품."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "대원씨아이",
+                "DDC": "",
+                "UPDATE_DATE": "20191121",
+                "EA_ADD_CODE": "07830",
+                "PUBLISHER_URL": "http://www.dwci.co.kr",
+                "AUTHOR": "저자: Fuka Mizutani ;역자: 김진수",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "6000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "147*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "180 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791136200938",
+                "INPUT_DATE": "20190522",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "Game over",
+                "PUBLISH_PREDATE": "20190815",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

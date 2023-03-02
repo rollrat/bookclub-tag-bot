@@ -1,0 +1,78 @@
+{
+    "otitle": "뉴턴의 프린키피아",
+    "oauthor": "안상현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:06 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "뉴턴의 프린키피아 (누구나 읽을 수 있는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436330678",
+                "image": "https://shopping-phinf.pstatic.net/main_3243633/32436330678.20230131164640.jpg",
+                "author": "정완상",
+                "discount": "12350",
+                "publisher": "과학정원",
+                "pubdate": "20150216",
+                "isbn": "9791125100843",
+                "description": "누구나 읽을 수 있는 『뉴턴의 프린키피아』. 미분과 적분의 원리, 뉴턴의 운동법칙, 케플러의 법칙의 증명, 만유인력의 발견 등 뉴턴하면 떠오르는 모든 업적들이 들어있다."
+            },
+            {
+                "title": "뉴턴의 프린키피아 (세상에서 가장 아름다운 기하학)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476656887",
+                "image": "https://shopping-phinf.pstatic.net/main_3247665/32476656887.20230218110604.jpg",
+                "author": "안상현",
+                "discount": "14400",
+                "publisher": "동아시아",
+                "pubdate": "20151209",
+                "isbn": "9788962621259",
+                "description": "아인슈타인 이전의 중력 이론이라고 할 수 있는 뉴턴의 만유인력의 법칙을 기하학으로 쉽게 풀어쓴 책이다. 17세기에 뉴턴은 '행성의 공전 궤도가 원뿔곡선이면 태양과 행성 사이의 중력은 역제곱의 법칙을 따른다'라는 사실을 처음으로 증명해냈다. 역제곱의 법칙은 만유인력의 법칙에서 힘이 태양과 행성 사이의 거리의 제곱에 반비례한다는 것이다. 뉴턴은 이 내용을 &lt;프린키피아&gt;에 기하학 방식으로 저술하여 고전 물리학의 새로운 장을 열었다.\n\n\n\n일반적으로 우리가 만유인력의 법칙을 미적분학과 대수학의 방식으로 이해하고 있다면, 저자 안상현은 뉴턴이 &lt;프린키피아&gt;에 저술한 것과 같은 기하학 방식으로 만유인력의 법칙을 풀어 썼다. 위대한 과학자 뉴턴이 발견한 물리학 법칙의 백미는 만유인력의 법칙이다. 우주의 모든 질량을 가진 물체가 거리의 제곱에 반비례하는 힘으로 서로 잡아당기고 있다는 이 발견을 뉴턴은 그의 역저인 프린키피아에 담아 놓았다.\n\n\n\n하지만 기하학을 언어로 사용하여 저술된 &lt;프린키피아&gt;는 일반 독자들이 이해하기란 거의 불가능하다. 저자는 중.고등학교 때 배우는 기하학 지식을 바탕으로 &lt;프린키피아&gt;를 이해할 수 있도록 저술했다. 말하자면, 근대 과학혁명을 이끈 인류 최고의 고전을 국내 필자가 제대로 쓴 기하학 교양서이자 과학고전 해설서인 셈이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "교우사",
+                "DDC": "",
+                "UPDATE_DATE": "20150420",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.kyowoo.co.kr",
+                "AUTHOR": "정완상",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791125100843",
+                "INPUT_DATE": "20150128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "누구나 읽을 수 있는 뉴턴의 프린키피아",
+                "PUBLISH_PREDATE": "20150216",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

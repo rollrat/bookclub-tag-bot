@@ -1,0 +1,89 @@
+{
+    "otitle": "술과 건강",
+    "oauthor": "다카스 도시아키 저/박윤중,안용근 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:42 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "술과 건강 (술은 약인가? 독인가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467803244",
+                "image": "https://shopping-phinf.pstatic.net/main_3246780/32467803244.20221228073630.jpg",
+                "author": "다카스 도시아키",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20190110",
+                "isbn": "9788970448541",
+                "description": "술은 인간의 몸에 어떤 영향을 끼치는가?\n\n인간이 술을 좋아하는 것은 인간의 진화와도 관계가 있다. 특히 뇌의 발달에 의한 필연적 결과로 보인다. 인간 최대의 특징은 커다란 뇌이다. 그 덕분에 우리는 이성과 지력(知力)을 갖게 되었다. 이로 인해 인간은 문명을 창조하였다. 그러나 동시에 인간은 어둠의 세계를 좋아한다. 특히 피로에 지친 정신은 어둠을 원하며 이성의 굴레에서 벗어나려 한다.\n명석함의 반작용으로 생기는 정신의 고뇌를 술은 한때나마 잊게 해 준다. 술의 유혹에 빠져들면 잘못 폭주하여 자신을 파멸시키게 되는 경우도 있다. 진화에 의해 얻은 이성, 그래서 그것으로부터 잠시라도 빠져나가고 싶어 하는 정신적 약점, 인간 세계가 계속되는 한 이 양면성이 없어지기는 힘들다. 그래서 술은 인간의 업보인지도 모른다.\n이러한 술을 알고자 하는 것이 이 책의 목적이다. 어두운 세계의 연출자, 취하기 위해 존재하는 술을 밝은 세계로 끌어내려고 하는 것이다. 저자는 의사의 입장에서, 사회 제1선에서 활약하고 있는 사람들에게 의외로 주해가 많은 데 대해 위기감을 느끼고 어느 정도 마시면 어떤 결과가 일어나는가를 알리고자 한다. 이 책은 술의 정체와 인간과의 관계에 접근하여, 인체의 각 기관에 어떤 영향을 미치며 어떻게 해로운지를 실제 환자의 예시 및 통계와 함께 다루고 있다. 음주운전, 알코올 의존증, 기형아라는 심각한 문제까지 낳을 수 있지만, 인간에게 위안과 문화적 번영을 가져다주기도 하는 술과 어떻게 공존할지를 제시해 주는 책이다."
+            },
+            {
+                "title": "술과 건강",
+                "link": "https://search.shopping.naver.com/book/catalog/32441621303",
+                "image": "https://shopping-phinf.pstatic.net/main_3244162/32441621303.20221230074522.jpg",
+                "author": "양정성",
+                "discount": "5000",
+                "publisher": "경남대학교출판부",
+                "pubdate": "20020802",
+                "isbn": "9788984210813",
+                "description": "이 책은 해당 분야 전공자들을 위한 교재 겸 전문서이다."
+            },
+            {
+                "title": "술과 건강",
+                "link": "https://search.shopping.naver.com/book/catalog/32492200136",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492200136.20220527025617.jpg",
+                "author": "다카스 도시아키",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "19920701",
+                "isbn": "9788970445380",
+                "description": "술이 인체에 미치는 영향을 의학적 견지에서 분석한 일본 의학박사의저술."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190123",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "다카스 도시아키 지음 ;박윤중,안용근 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "204 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448541",
+                "INPUT_DATE": "20190102",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "술과 건강",
+                "PUBLISH_PREDATE": "20190110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

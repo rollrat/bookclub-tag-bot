@@ -1,0 +1,67 @@
+{
+    "otitle": "스프링 부트 쇼핑몰 프로젝트 with JPA",
+    "oauthor": "변구훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "백견불여일타 스프링 부트 쇼핑몰 프로젝트 with JPA (이젠 프로젝트다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441515749",
+                "image": "https://shopping-phinf.pstatic.net/main_3244151/32441515749.20221229073618.jpg",
+                "author": "변구훈",
+                "discount": "27000",
+                "publisher": "로드북",
+                "pubdate": "20210907",
+                "isbn": "9788997924899",
+                "description": "스프링 부트와 JPA를 활용하여 실제 이커머스 업계에서 활용되는 쇼핑몰 기술들을 직접 구현해볼 수 있게 구성하였다. JPA와 Thymeleaf에 대한 간단한 예제로 기본 개념과 사용법을 익히고 그 후 쇼핑몰의 기본적인 기능들을 구현해 가며 JPA와 스프링 부트를 자연스레 익힐 수 있다. \"Just Do It\" 컨셉을 통해 하나의 완성된 서비스를 만드는 것을 목표로 하며 복잡한 코드 없이 최대한 간결한 코드 위주로 작성하였다. 이 책을 참고하여 자신만의 포트폴리오를 만들어보는 것도 가능하다. 테스트 코드를 작성하면서 개발을 진행하는 TDD 방식을 적용하였기 때문에 실무지향적 특성까지 갖추었다.\n\n대상 독자\n_다음과 같은 선수 지식이 있는 독자\nSpring Framework를 어느 정도 사용해 보았다.\n데이터베이스에 대한 기초적인 지식을 가지고 있다.\nJava 언어에 대한 기초적인 지식이 있다.\nHTM, JavaScript. CSS에 대한 기초적인 지식이 있다. \n\n_다음과 같은 목표를 갖고 있는 독자\nSpring Boot와 Spring Data JPA를 사용해서 작은 서비스를 처음부터 끝까지 구축해보고 싶다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20211029",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "지은이: 변구훈",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "369 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924899",
+                "INPUT_DATE": "20210827",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "스프링 부트 쇼핑몰 프로젝트 with JPA",
+                "PUBLISH_PREDATE": "20210907",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "유전자는 우리를 어디까지 결정할 수 있나",
+    "oauthor": "스티븐 하이네 저/이가영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "유전자는 우리를 어디까지 결정할 수 있나",
+                "link": "https://search.shopping.naver.com/book/catalog/32455927755",
+                "image": "https://shopping-phinf.pstatic.net/main_3245592/32455927755.20230131164254.jpg",
+                "author": "스티븐 하이네",
+                "discount": "16200",
+                "publisher": "시그마북스",
+                "pubdate": "20180806",
+                "isbn": "9791189199210",
+                "description": "DNA는 운명이 아니다!\n\n‘우울증 유전자’, ‘범죄 유전자’가 정말로 있다면 우리 운명은 어차피 정해져 있는 것이 아닐까? 이런 개념이 부정확하며 잘못된 생각이라는 사실이 이미 밝혀졌는데도 우리는 여전히 유전자가 우리의 삶을 지배한다고 믿는다. 유전적 메커니즘에 대한 지식이 적을수록 사람들은 마치 ‘키 유전자’, ‘지능 유전자’ 같은 것이 따로 있다고, 즉 유전자 하나가 형질 하나를 결정한다고 생각하기 쉽다. 이렇듯 유전자가 결정한다고 하는 본질주의 편향은 인종차별, 성차별, 우생학으로 이어질 수도 있고, 다른 사람에 대해 관용이나 동정심을 더 베풀게 되는 방향으로 이어질 수도 있다. \n\n세계적으로 가장 널리 쓰이는 문화심리학 교과서 문화심리학의 저자 스티븐 하이네 교수가 인간 조건에 대한 유전적 해석을 사회문화적 관점에서 파헤친 이 책은 우리가 유전학 혁명을 둘러싼 거짓과 과장에 어째서 잘 속을 수밖에 없는지, 그 때문에 어떤 점을 우려할 수밖에 없는지를 진지하면서도 알기 쉽게 설명하고 있다.\n\n전국과학교사모임 추천도서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "572.86",
+                "UPDATE_DATE": "20180906",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "스티븐 하이네 지음 ;이가영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "476.10733",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6718847_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "407 p.",
+                "CONTROL_NO": "CIP2018019788",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189199210",
+                "INPUT_DATE": "20180625",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "유전자는 우리를 어디까지 결정할 수 있나",
+                "PUBLISH_PREDATE": "20180806",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

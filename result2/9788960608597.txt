@@ -1,0 +1,67 @@
+{
+    "otitle": "나를 설레게 한 유럽 미술관 산책",
+    "oauthor": "최상운 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나를 설레게 한 유럽 미술관 산책",
+                "link": "https://search.shopping.naver.com/book/catalog/32496893189",
+                "image": "https://shopping-phinf.pstatic.net/main_3249689/32496893189.20220527073240.jpg",
+                "author": "최상운",
+                "discount": "15300",
+                "publisher": "소울메이트",
+                "pubdate": "20160216",
+                "isbn": "9788960608597",
+                "description": "『나를 설레게 한 유럽 미술관 산책』은 이탈리아, 프랑스, 스페인, 네덜란드, 영국의 미술관 등 유럽 대도시의 대표 미술관에서 꼭 살펴봐야 할 작품을 소개한 책이다. 조형예술, 미학 등 예술을 공부한 저자는 독자들이 가벼운 발걸음으로 여유롭게 미술관 여행을 하길 바라는 마음으로 담았다고 한다. 이탈리아에 소재한 우피치 미술관을 시작으로 영국의 테이트 모던 미술관까지 이어지는 여정을 따라가면서 저자와 함께 미술관을 산책해보자. 과거와 현재가 공존하는 유럽의 미술관을 살펴보는 재미가 매우 쏠쏠할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)원앤원콘텐츠그룹",
+                "DDC": "708.94",
+                "UPDATE_DATE": "20160303",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "최상운",
+                "SERIES_TITLE": "",
+                "KDC": "606.92",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5184150_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5184150_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "428",
+                "CONTROL_NO": "CIP2016001881",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960608597",
+                "INPUT_DATE": "20160121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "나를 설레게 한 유럽 미술관 산책",
+                "PUBLISH_PREDATE": "20160216",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

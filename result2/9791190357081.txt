@@ -1,0 +1,67 @@
+{
+    "otitle": "신이 쉼표를 넣은 곳에 마침표를 찍지 말라",
+    "oauthor": "류시화 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "신이 쉼표를 넣은 곳에 마침표를 찍지 말라 (인도 우화집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463711702",
+                "image": "https://shopping-phinf.pstatic.net/main_3246371/32463711702.20230214163805.jpg",
+                "author": "류시화",
+                "discount": "16200",
+                "publisher": "더숲",
+                "pubdate": "20191206",
+                "isbn": "9791190357081",
+                "description": "시대를 초월한 100편의 보석 같은 이야기!\n\n류시화 시인이 생의 절반을 인도를 여행하며 읽고 들은 우화와 설화, 신화, 그리고 실화를 담은 『신이 쉼표를 넣은 곳에 마침표를 찍지 말라』. 오랜 기간 저자가 엄선한 100편의 우화와 이야기들이 담긴 책으로, 우리 삶에 친숙한 동물들, 스승들, 왕들, 학자들이 인도 우화만의 독특한 화법으로 삶의 지혜와 진리를 전한다. \n\n대서사시 《마하바라타》 속 신과 인간의 이야기, 《라마야나》의 ‘내일로 미루지 말 것’과 ‘용서’, 신화에서부터 실화까지를 정성스럽게 들려준다. 진실한 앎, 헌신과 용서, 자부심과 허영의 끝, 끌어당김의 법칙, 진정한 자기편, 삶의 우선순위 등 다양한 주제가 매력을 더하는 이 책은 지역마다 맛과 향이 다른 인도 음식처럼 어느 곳을 펼쳐 읽든 재미 이상의 의미와 깨달음을 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더숲",
+                "DDC": "",
+                "UPDATE_DATE": "20191224",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 류시화",
+                "SERIES_TITLE": "",
+                "KDC": "892.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/20/9791190357081.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "473 p.",
+                "CONTROL_NO": "CIP2019047335",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190357081",
+                "INPUT_DATE": "20191120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "신이 쉼표를 넣은 곳에 마침표를 찍지 말라",
+                "PUBLISH_PREDATE": "20191206",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

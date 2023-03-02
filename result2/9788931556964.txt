@@ -1,0 +1,67 @@
+{
+    "otitle": "Scratch가 보이는 그림책",
+    "oauthor": "ANK Co., Ltd 저/김성훈 역/한선관 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Scratch가 보이는 그림책 (국내 최초 그림으로 배우는 스크래치 입문서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466839092",
+                "image": "https://shopping-phinf.pstatic.net/main_3246683/32466839092.20221019145514.jpg",
+                "author": "ANK Co., Ltd.",
+                "discount": "15300",
+                "publisher": "성안당",
+                "pubdate": "20210111",
+                "isbn": "9788931556964",
+                "description": "국내 최초 그림으로 배우는 스크래치 입문서!\nScratch가 보이는 그림책\n\n스크래치는 MIT(scratch.mit.edu)에서 8~16세 연령층을 위해 개발했지만 전 연령에서 사용되는 그래픽 환경으로 프로그래밍 경험을 해보도록 개발한 키즈 코딩 개발환경이다. PC나 태블릿에서 사용할 수 있으며 말하자면 프로그래밍의 개념을 우리가 어릴 때 즐겨 하던 블록과 스크립트라는 단위로 그림과 일러스트, 소리도 녹음할 수 있어 게임이나 애니메이션 환경도 쉽게 구현할 수 있는 교육용 언어이다. 스크래치를 사용하면 누구나 쉽게 이야기, 게임, 애니메이션을 만들어 공유할 수 있다. 귀여운 고양이가 무대 스크립트에서 쉽게 말하고 움직일 수 있도록 변수나 함수, 조건 분기, 복제 등을 통해 프로젝트를 만들어 객체 지향 프로그래밍 개념까지 이해할 수 있도록 해준다. \n\n2018년부터 시작된 초등학교 5~6학년, 중학교 코딩 의무화 교육에도 스크래치는 어김없이 주요 환경이 되었고 각급 대학의 프로그래밍 사고나 융합 과목에도 폭넓게 적용되고 있을 만큼 전 연령에서 사랑받는 프로그래밍에 입문하는데 필수적인 초기 환경으로 사랑받고 있다. \n\n이 책은 지난 2019년 1월에 개발된 스크래치 3.0 버전을 적용한 그림책 시리즈의 신간이자 첫 컬러 책으로 선보였다. 어렵고 딱딱하고 지루해서 꼬마 빌게이츠, 꼬마 스티브 잡스가 지레 프로그래밍에 흥미를 잃지 않도록 이 책도 쉽고 재미있게 공부할 수 있도록 구성되어 있다. \n\n학생뿐 아니라 중학생 스크래치 수업을 준비하는 선생님이나 자녀를 도와주려는 학부모가 보기에도 아하~하고 무릎을 칠만큼 쉽고 재미있는 이 책을 스크래치 입문서로 추천 드린다. 본문에 사용된 스크래치 예제 중 3가지는 성안당(www.cyber.co.kr) 홈페이지의 [자료실]-[자료실]에서 다운로드 가능하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210319",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "ANK Co., Ltd. 저 ;김성훈 역",
+                "SERIES_TITLE": "",
+                "KDC": "005.11",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/23/9788931556964.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "188*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "xviii, 157 p.",
+                "CONTROL_NO": "CIP2020054655",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931556964",
+                "INPUT_DATE": "20201223",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "Scratch가 보이는 그림책",
+                "PUBLISH_PREDATE": "20210111",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "초조하지 않게 사는 법",
+    "oauthor": "페이융 저/허유영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "초조하지 않게 사는 법 (불안, 걱정, 두려움을 다스리는 금강경의 지혜)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482365642",
+                "image": "https://shopping-phinf.pstatic.net/main_3248236/32482365642.20221019115254.jpg",
+                "author": "페이융",
+                "discount": "12530",
+                "publisher": "유노북스",
+                "pubdate": "20160226",
+                "isbn": "9791186665169",
+                "description": "항상 바쁘고 스트레스에 쌓여 있는 요즘 사람들은 초조함과 피로를 느끼기 쉽다. 이럴 때, 종교가 있든 없든, 금강경을 꺼내 들고 차분히 읽으면 초조함을 내려놓고 긍정적인 마음가짐으로 인생을 대할 수 있을 것이다. [초조하지 않게 사는 법]은 중국의 대표적인 불경 연구가이자 30년 이상 심오한 부처 사상을 대중의 눈높이에서 소개해 온 페이융 교수의 대표작으로, 금강경에 담긴 초조함을 다스리는 지혜의 정수를 들려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노북스",
+                "DDC": "294.382",
+                "UPDATE_DATE": "20160303",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "페이융",
+                "SERIES_TITLE": "",
+                "KDC": "223.53",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5226088_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5226088_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5226088_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "312",
+                "CONTROL_NO": "CIP2016004011",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186665169",
+                "INPUT_DATE": "20160212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "초조하지 않게 사는 법",
+                "PUBLISH_PREDATE": "20160226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

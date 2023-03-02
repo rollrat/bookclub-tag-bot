@@ -1,0 +1,67 @@
+{
+    "otitle": "엄마가 만들어 주는 건강한 채식요리 185가지",
+    "oauthor": "낸시 메어 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:01 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엄마가 만들어 주는 건강한 채식 요리 185가지 (엄마가 만들어 주는 건강한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506095759",
+                "image": "https://shopping-phinf.pstatic.net/main_3250609/32506095759.20230212070842.jpg",
+                "author": "낸시 메어",
+                "discount": "10800",
+                "publisher": "아라크네",
+                "pubdate": "20110506",
+                "isbn": "9788992449724",
+                "description": "한 장 한 장 책장을 넘겨 가며 레시피를 만날 때마다 이 모든 생각들이 그저 편견에 불과할 뿐이라는 사실을 깨닫게 해준다. 단 한 장의 사진도 없이 미국에서 2년 연속 ‘이달의 책’으로 선정된 베스트셀러의 특별한 이유는 무엇일까?\n\n\n\n그저 수프부터 샐러드, 사이드 디시와 메인 디시 그리고 디저트까지 다양한 요리들이 설명된 사진 없는 채식 요리책일 뿐이다. 그러나 하나하나의 레시피를 읽어 내릴 때마다 고개를 끄덕이게 되는 손쉬운 조리법, 충분한 영양을 공급하지만 다이어트와 건강에 좋을 거라 느껴지는 식자재, 궁금증과 식욕을 불러일으키는 세계 각국의 다양한 음식들, 상상만 해도 먹음직스런 전채와 메인 디시, 다양한 샐러드와 샐러드드레싱 그리고 디저트와 빵, 음료는 저도 모르게 다음 장을 넘기게 만들어 버린다.\n\n\n\n185가지나 되는 다양한 채식 요리와 그 안에서 또다시 변형할 수 있도록 돕는 소소한 팁들. 이탈리아, 프랑스, 독일뿐만이 아닌 체코, 헝가리, 러시아를 비롯한 동유럽, 중동 지역과 인도 그리고 북아프리카까지 어우르는 글로벌한 음식들은 레시피만으로도 세계 일주를 한 기분이다. 현대인의 입맛과 바쁜 생활에 걸맞는 그러나 기본에는 충실한 요리법 또한 이 책의 커다란 매력 중 하나이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아라크네,",
+                "DDC": "641.5636",
+                "UPDATE_DATE": "20110517",
+                "EA_ADD_CODE": "13950",
+                "PUBLISHER_URL": "http://www.arachne.co.kr",
+                "AUTHOR": "낸시 메어 지음 ;[아라크네] 편집부 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "594.5535",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2477075_6_1.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2477075_3_1.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2477075_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2011001809",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788992449724",
+                "INPUT_DATE": "20110517",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(엄마가 만들어 주는) 건강한 채식요리 185가지 ",
+                "PUBLISH_PREDATE": "20110506",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "호랑이 셰프랑 뚝딱 초등 글쓰기",
+    "oauthor": "서지원 글/고담 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "호랑이 셰프랑 뚝딱 초등 글쓰기",
+                "link": "https://search.shopping.naver.com/book/catalog/32476692853",
+                "image": "https://shopping-phinf.pstatic.net/main_3247669/32476692853.20221019114442.jpg",
+                "author": "서지원",
+                "discount": "11520",
+                "publisher": "나무생각",
+                "pubdate": "20201116",
+                "isbn": "9791162181232",
+                "description": "《호랑이 셰프랑 뚝딱 초등 글쓰기》는 오랫동안 어린이들을 위한 동화와 지식정보책을 써 온 서지원 작가가 어린이들 눈높이에서 글쓰기의 기본적인 방법을 동화로 풀어낸 책입니다. 지루하거나 딱딱하지 않게 이야기를 읽는 것만으로도 글쓰기와 친근해지도록 도와줍니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "어린이나무생각 :나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20210202",
+                "EA_ADD_CODE": "73800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "서지원 지음 ;고담 그림",
+                "SERIES_TITLE": "",
+                "KDC": "802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "173*240",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "175 p.",
+                "CONTROL_NO": "CIP2020044462",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162181232",
+                "INPUT_DATE": "20201019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "호랑이 셰프랑 뚝딱 초등 글쓰기",
+                "PUBLISH_PREDATE": "20201116",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

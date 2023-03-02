@@ -1,0 +1,78 @@
+{
+    "otitle": "프랑스 육아의 비밀",
+    "oauthor": "안느 바커스 저/김수진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:15 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "프랑스 육아의 비밀 (프랑스 육아의 최고 권위자 안느 바커스가 밝히는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482043332",
+                "image": "https://shopping-phinf.pstatic.net/main_3248204/32482043332.20221019132650.jpg",
+                "author": "안느 바커스",
+                "discount": "13320",
+                "publisher": "예문아카이브",
+                "pubdate": "20180110",
+                "isbn": "9791187749530",
+                "description": "프랑스 엄마들은 아이들을 이렇게 키운다!\n\n『프랑스 육아의 비밀』은 부모들이 가장 궁금한 100개 질문에 ‘프랑스식 육아 해법’을 제시한 책이다. 저자는 먼저 문제가 생기는 원인과 이유를 심리적, 발달적으로 분석하고 연령대별로 달라지는 아이의 행동 양상을 설명한다. 특히 곧바로 적용할 수 있는 방법으로 구체적인 대화법을 제시하여 실용성을 더했다. 아이의 자제력과 인내심, 자립심을 기를 수 있도록, 다소 시간이 걸리더라도 스스로 깨우치도록 부모가 인도하는 방법을 알려준다."
+            },
+            {
+                "title": "프랑스 육아의 비밀 (프랑스 육아의 최고 권위자 안느 바커스가 밝히는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492733188",
+                "image": "https://shopping-phinf.pstatic.net/main_3249273/32492733188.20220520232131.jpg",
+                "author": "안느 바커스",
+                "discount": "13320",
+                "publisher": "예문사",
+                "pubdate": "20150715",
+                "isbn": "9788927414254",
+                "description": "프랑스 엄마들은 아이들을 이렇게 키운다!\n\n『프랑스 육아의 비밀』은 부모들이 가장 궁금한 100개 질문에 ‘프랑스식 육아 해법’을 제시한 책이다. 저자는 먼저 문제가 생기는 원인과 이유를 심리적, 발달적으로 분석하고 연령대별로 달라지는 아이의 행동 양상을 설명한다. 특히 곧바로 적용할 수 있는 방법으로 구체적인 대화법을 제시하여 실용성을 더했다. 아이의 자제력과 인내심, 자립심을 기를 수 있도록, 다소 시간이 걸리더라도 스스로 깨우치도록 부모가 인도하는 방법을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)예문아카이브",
+                "DDC": "649.1",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "13370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 안느 바커스",
+                "SERIES_TITLE": "",
+                "KDC": "598.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6464278_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6464278_3.jpg",
+                "PRE_PRICE": "14,800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6464278_5.txt",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "528",
+                "CONTROL_NO": "CIP2017033158",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187749530",
+                "INPUT_DATE": "20171207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "N",
+                "TITLE": "프랑스 육아의 비밀",
+                "PUBLISH_PREDATE": "20180105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

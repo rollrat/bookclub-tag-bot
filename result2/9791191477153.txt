@@ -1,0 +1,67 @@
+{
+    "otitle": "우리 모두 각자의 달을 가지고 있다",
+    "oauthor": "유달별,김주시,설소윤,플뤼,문초희,소중한,김세연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리 모두 각자의 달을 가지고 있다",
+                "link": "https://search.shopping.naver.com/book/catalog/32489580744",
+                "image": "https://shopping-phinf.pstatic.net/main_3248958/32489580744.20221227205720.jpg",
+                "author": "유달별^김주시^설소윤^플뤼^문초희^소중한^김세연",
+                "discount": "15000",
+                "publisher": "키효북스",
+                "pubdate": "20211115",
+                "isbn": "9791191477153",
+                "description": "“도대체 인간다운 인간이란 것이 뭐냐고….” -유달별 / 지하인\n\n“어둡고도 광활한 우주 속에서 그녀는 다른 조각들을 찾아 헤맸다. 이미 우주 곳곳으로 흩어진 작고도, 큰 조각들은 어느 곳에나 있었다.” -김주시 / 영혼의 조각\n\n“사람들은 모두 각자의 달을 가지고 있대. 그래서 각자의 달을 따라 걸어가는 거야.” -설소윤, 나의 달에게 인사를 건넨다.\n\n“상처가 아물면 흉터 대신 흔적이 남을 거예요. 피어난 흔적을 보며 살아요, 우리.” - 플뤼, 남기고 피워내는 순간들\n\n“차라리 고독을 입고자 했지만 그건 결국 끊임없이 당신을 갈원하는 외로움 이었다네\n모른척하면 고독이 될 줄 믿었지만 만지면 만질수록 씁쓸한 쓸쓸함이 묻어나오는,\n볼품없이 나약한 나를 비추는 거울이었다네” - 문초희 / 자의적 유기인간이 될 뻔한 사연\n\n“괜찮아요. 그게 정상이에요.” -소중한, 30대를 앞둔 그대들에게\n\n“그렇게 2021년 여름, 나의 성장통과 함께 나에게 퇴사라는 선물 그리고 쉬어갈 수 있는 방학을 주었다.” -김세연, 아낌없이 응원하고 사랑해"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "키효북스",
+                "DDC": "",
+                "UPDATE_DATE": "20211105",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 유달별,김주시,설소윤,플뤼,문초희,소중한,김세연",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "233 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191477153",
+                "INPUT_DATE": "20211016",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우리 모두 각자의 달을 가지고 있다",
+                "PUBLISH_PREDATE": "20211115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

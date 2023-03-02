@@ -1,0 +1,67 @@
+{
+    "otitle": "마음이 하는 일",
+    "oauthor": "오지은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마음이 하는 일",
+                "link": "https://search.shopping.naver.com/book/catalog/32495410627",
+                "image": "https://shopping-phinf.pstatic.net/main_3249541/32495410627.20221019114556.jpg",
+                "author": "오지은",
+                "discount": "13500",
+                "publisher": "위고",
+                "pubdate": "20220530",
+                "isbn": "9791186602836",
+                "description": "셀 수 없이 많은 새벽을 버티게 해준 작가, \n오지은의 신작 에세이\n\n“마음이 하는 일은 뻔하다. 뻔하지만 영원히 잡을 수 없는 것이 마음일지도 모른다. \n마음을 잡으려고 이리저리 돌아다니다 생긴 몇 년간의 흔적을 남깁니다.”\n\n지금 발을 붙이고 있는 이곳에서 조금이라도 마음에 바람이 통하게 하려면. 혼자서 막막해하던 시간을 가만히 관찰한 산문집 『익숙한 새벽 세시』를 통해 비슷한 시기를 보내는 이들 곁에서 셀 수 없이 많은 새벽을 버티게 해준 작가 오지은. 이 책 『마음이 하는 일』에서는 마흔을 갓 넘긴 여성으로서, 한때 루키였지만 이제는 선배가 된 뮤지션으로서, 아직도 마감 앞에서 쩔쩔 매는 작가로서, 나이는 들어가는데 스스로 어릴 적 꿈꿔온 모습과 다른 어른이 되어버렸다는 사실에 당황하는 이들에게 말을 건넨다. \n\n그는 스물여덟 살에 쓴 노래에 “어른이 되어가는 건 지혜가 생겨나는 것”이라는 문구를 넣었지만, 이제 지혜란 자동으로 생겨나지 않으며, 갈수록 상황은 복잡해지고 문제는 쉽게 해결되지 않는다는 걸 아는 나이가 됐다. 그렇다고 화성으로 떠나버릴 수는 노릇이다. 지금 발을 붙이고 있는 이곳에서 조금이라도 마음에 바람이 통하게 하려면, 어둠에 잡아먹히지 않고 밝은 곳을 보려면, 파도에 휩쓸리지 않으려면 어떻게 해야 할까. 오지은은 시간에 떠밀려 저절로 흘러가버리는 것들을 단단히 붙잡고, 꾸준히 바라보고, 때로는 바로잡기 위해, 마음을 다해 이리저리 돌아다니다 생긴 몇 년간의 흔적을 이 책에 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위고",
+                "DDC": "",
+                "UPDATE_DATE": "20220630",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://hugobooks.co.kr",
+                "AUTHOR": "지은이: 오지은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/05/9791186602836.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "115*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "164 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186602836",
+                "INPUT_DATE": "20220517",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "마음이 하는 일",
+                "PUBLISH_PREDATE": "20220530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

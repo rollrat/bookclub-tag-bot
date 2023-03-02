@@ -1,0 +1,67 @@
+{
+    "otitle": "재즈를 읽다",
+    "oauthor": "테드 지오이아/임지연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재즈를 읽다 (재즈 제대로 이해하고 감상하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466807098",
+                "image": "https://shopping-phinf.pstatic.net/main_3246680/32466807098.20221230072457.jpg",
+                "author": "테드 지오이아",
+                "discount": "14400",
+                "publisher": "시그마북스",
+                "pubdate": "20170302",
+                "isbn": "9788984458444",
+                "description": "음악에서 가장 중요한 것은 바로 듣기다! 이 책 [재즈를 읽다]는 재즈를 듣는 방법에 대해 생생하고 이해하기 쉽게 설명한다. 재즈의 구조와 역사에서부터 즉흥연주의 구성요소에 이르기까지 재즈 전반을 다루며, 재즈를 들을 때 무엇에 귀 기울여야 하는지를 보여준다. 이 책의 저자는 재즈를 들으려는 독자들과 재즈를 감상하고 이해하는 방법을 공유하고, 재즈의 등장부터 오늘날에 이르기까지 재즈 스타일의 역사를 들려주며. 마지막으로 21세기 재즈 사조를 만들어가고 있는 엘리트 재즈 뮤지션 150명도 함께 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "781.65",
+                "UPDATE_DATE": "20170614",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "테드 지오이아",
+                "SERIES_TITLE": "",
+                "KDC": "673.53",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6120749_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6120749_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "248",
+                "CONTROL_NO": "CIP2017002996",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984458444",
+                "INPUT_DATE": "20170203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "재즈를 읽다",
+                "PUBLISH_PREDATE": "20170302",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

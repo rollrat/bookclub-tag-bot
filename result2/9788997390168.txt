@@ -1,0 +1,67 @@
+{
+    "otitle": "미러리스 & 하이브리드 카메라 입문",
+    "oauthor": "박기덕 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미러리스 하이브리드 카메라 입문 (최신개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485022267",
+                "image": "https://shopping-phinf.pstatic.net/main_3248502/32485022267.20220527032330.jpg",
+                "author": "박기덕",
+                "discount": "0",
+                "publisher": "이지스퍼블리싱",
+                "pubdate": "20130330",
+                "isbn": "9788997390168",
+                "description": "『미러리스 하이브리드 카메라 입문』은 국내 최초의 미러리스(하이브리드) 카메라에 대한 종합적인 입문서이다. 저자는 카메라 업계의 새로운 주류로 떠오르고 있는 미러리스 카메라의 대표 기종들을 직접 구매해 1년 반에 걸쳐 사용해보고 각 기종별 장점과 단점, 공통적으로 적용되는 이론 등을 다뤘다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이지스퍼블리싱(주)",
+                "DDC": "",
+                "UPDATE_DATE": "20130425",
+                "EA_ADD_CODE": "13660",
+                "PUBLISHER_URL": "http://www.easyspub.co.kr",
+                "AUTHOR": "박기덕 지음",
+                "SERIES_TITLE": "박기덕의 리얼 사진 이야기 ",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "2",
+                "EA_ISBN": "9788997390168",
+                "INPUT_DATE": "20130228",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "미러리스 & 하이브리드 카메라 입문 ",
+                "PUBLISH_PREDATE": "20130330",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

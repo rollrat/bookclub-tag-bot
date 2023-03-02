@@ -1,0 +1,67 @@
+{
+    "otitle": "낫씽맨",
+    "oauthor": "캐서린 라이언 하워드 저/안현주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:52 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "낫씽맨 (캐서린 라이언 하워드 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466537322",
+                "image": "https://shopping-phinf.pstatic.net/main_3246653/32466537322.20221019105741.jpg",
+                "author": "캐서린 라이언 하워드",
+                "discount": "12600",
+                "publisher": "네버모어",
+                "pubdate": "20210628",
+                "isbn": "9791190784085",
+                "description": "나는 낫씽맨에게서 살아남은 그 여자애였다.\n이제 나는 낫씽맨을 잡을 그 여자다.\n\n연쇄살인범 VS 생존자!\n‘책 속의 책’이라는 독특한 구성의 심리스릴러\n\n출간 즉시 〈아이리시 타임스〉와 〈선데이 타임스〉 베스트셀러에 오르고 아일랜드 올해의 범죄 소설과 영국범죄소설가협회(CWA) 스틸대거의 최종 후보에 오른 아일랜드 작가 캐서린 라이언 하워드의 ≪낫씽맨≫이 네버모어를 통해 출간된다. 연쇄살인범이 자신에게서 살아남은 생존자가 쓴 회고록을 읽으며 진행되는-‘책 속의 책’이라는 독특한 구성의 ≪낫씽맨≫은 올 여름 가장 독창적인 범죄 소설로 기억될 것이다.\n쇼핑센터의 보안요원인 짐 도일은 순찰 도중 한 손님의 손에 들린 책을 보고 충격을 받는다. 책의 제목은 ≪낫씽맨: 살아남은 자의 진실 탐구≫. 도서 코너로 향해 그곳에 진열된 책들을 보고, 저자의 이름이 이브 블랙이라는 것을 확인한 짐 도일은 오래전 계단 위에서 서있던 한 소녀를 떠올린다. 경찰이 아무런 흔적도 찾지 못해서 붙여진 이름 ‘낫씽맨’. 아무도 모르는 짐 도일의 또 다른 이름. 짐 도일은 본능적으로 책을 펼치고 읽기 시작하는데..."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Nevermore(네버모어)",
+                "DDC": "",
+                "UPDATE_DATE": "20210713",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 캐서린 라이언 하워드 ;옮긴이: 안현주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/06/11/9791190784085.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*206",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "359 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190784085",
+                "INPUT_DATE": "20210611",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "낫씽맨",
+                "PUBLISH_PREDATE": "20210628",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

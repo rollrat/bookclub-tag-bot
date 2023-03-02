@@ -1,0 +1,67 @@
+{
+    "otitle": "스컹크의 착각",
+    "oauthor": "이윤희 글/공정은 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스컹크의 착각",
+                "link": "https://search.shopping.naver.com/book/catalog/32468877904",
+                "image": "https://shopping-phinf.pstatic.net/main_3246887/32468877904.20221019140156.jpg",
+                "author": "이윤희",
+                "discount": "10800",
+                "publisher": "하마",
+                "pubdate": "20201126",
+                "isbn": "9791190521284",
+                "description": "말이 필요 없는 끔찍한 냄새,\n바로 나 스컹크지!\n\n나른한 오후, 모두가 평화로운 시간을 보내고 있을 때 수리부엉이의 눈에 스컹크가 띄었어요. 저녁 먹잇감으로 점찍은 이 녀석이 하는 행동을 가만히 들여다보니 거만하기 짝이 없어요. 뒷짐을 진 채 의미 있는 미소를 띠면서 곰도 여우도 모두 자기를 보면 도망가기 바쁘다며 도망가는 다람쥐를 보면서 중얼거렸어요. 귀가 밝은 수리부엉이는 스컹크가 중얼거리는 소리를 듣고 어이가 없었어요. 먹잇감이 될 처지인데도 자신만만한 스컹크의 태도에 수리부엉이는 은근히 화가 나기 시작했어요. 팔짱을 끼고 허리를 꼿꼿이 세우고 있던 교만한 스컹크는 수리부엉이의 먹잇감이 되었을까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20210708",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 이윤희 ;그림: 공정은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "240*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "[38] p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190521284",
+                "INPUT_DATE": "20201109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "스컹크의 착각",
+                "PUBLISH_PREDATE": "20201126",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

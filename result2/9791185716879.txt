@@ -1,0 +1,67 @@
+{
+    "otitle": "기적의 비타민 D",
+    "oauthor": "전의혁 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기적의 비타민 D (미국 내과 전문의들이 가장 많이 복용하는 건강 보조제)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441031197",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441031197.20221227204226.jpg",
+                "author": "전의혁",
+                "discount": "11700",
+                "publisher": "덴스토리(Denstory)",
+                "pubdate": "20191101",
+                "isbn": "9791185716879",
+                "description": "비타민 D가 부족하면 100가지 질병이 찾아온다!\n\n우리는 누구나 9988234(99세까지 88하게 살다가 2~3일만 시름시름 하다 죽는(4) 것)의 꿈을 꾸지만, 현실은 각종 질환과의 전쟁이라고 해도 과언이 아니다. 그렇다고 헬시 에이징(healthy aging)을 포기하기에는 아직 이르다. 우리에게는 비타민 D가 있기 때문이다. 단순히 적정한 비타민 D 혈중 농도만 유지해주어도 100여 가지 질환의 예방 및 치료 촉진이 가능한 것은 물론, 최상의 컨디션을 달성하고 유지할 수 있다.  비타민 D로 건강을 지켜내는 방법을 국내 최고 비타민 D 전문가가 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Denstory :알피스페이스",
+                "DDC": "",
+                "UPDATE_DATE": "20191108",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전의혁 지음",
+                "SERIES_TITLE": "",
+                "KDC": "517.544",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "CIP2019042035",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185716879",
+                "INPUT_DATE": "20191021",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "기적의 비타민 D",
+                "PUBLISH_PREDATE": "20191101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

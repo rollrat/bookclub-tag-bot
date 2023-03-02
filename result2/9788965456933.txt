@@ -1,0 +1,67 @@
+{
+    "otitle": "숨고 싶은 아이",
+    "oauthor": "호세리네 뻬레즈 가야르도 글,그림/공여진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "숨고 싶은 아이 (칠레 국제아동청소년도서협의회 콜리브리상 수상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436120567",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436120567.20221228071848.jpg",
+                "author": "호세리네 뻬레즈 가야르도",
+                "discount": "11700",
+                "publisher": "산지니",
+                "pubdate": "20210111",
+                "isbn": "9788965456933",
+                "description": "▶가면을 쓴 작은 괴물들이 모여 사는 집\n  숨고 싶은 아이는 작은 괴물들과 잘 지낼 수 있을까요\n\n어린이와 청소년의 즐거운 책읽기를 돕는 꿈꾸는보라매 시리즈 열네 번째 책에서는 국내에 많이 소개되지 않은 남미 칠레의 그림책을 선보입니다. 〈숨고 싶은 아이〉는 칠레 국제아동청소년도서협의회 콜리브리상을 수상하여, 이미 그 작품성을 인정받은 바 있습니다. \n한 아이가 있습니다. 책에 이름이 나오지 않는 이 아이는 ‘숨고 싶은 아이’입니다. 이 아이는 왜 숨고 싶을까요. 무엇으로부터 자신을 숨기고 싶은 걸까요. 어느 날 숨고 싶은 아이는 커다란 집에 도착합니다. 그곳에는 자신과 비슷한 아이들이 많이 있습니다. 숨고 싶은 아이는 그 아이들이 작은 괴물처럼 느껴졌어요. 그 누구의 눈에도 띄지 않길 바라는 아이는 작은 괴물들이 자신을 볼 수 없도록 계획을 세웁니다. 그리고는 모든 방마다 자신이 숨을 곳을 정해두었지요. 그러다 아주 마음에 드는 숨을 곳을 발견합니다. 그곳에서는 괴물들의 방해를 받지 않고 편하게 놀곤 했습니다. \n그러던 어느 날, 숨기 위해 변장에도 능해진 아이는 거울을 봤을 때 자신이 보이지 않는다는 사실을 깨닫습니다. 그 이후로 아이는 더 이상 숨지 않았어요. 가면을 쓰고서 그제야 아이는 자유로워졌습니다. 그 누구의 눈치도 보지 않고 놀기 시작합니다. 이제 작은 괴물들과도 함께 놀 수 있게 되었습니다. 숨기 위해 했던 변장이 아이에게 용기를 준 걸까요?\n\n[첫 문장]                                                        \n언제나 숨고 싶은 아이가 있었어요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "",
+                "UPDATE_DATE": "20210618",
+                "EA_ADD_CODE": "77870",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "호세리네 뻬레즈 가야르도 글·그림 ;공여진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "873",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/23/9788965456933.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "200*282",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[29] p.",
+                "CONTROL_NO": "CIP2020054649",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965456933",
+                "INPUT_DATE": "20201223",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "숨고 싶은 아이",
+                "PUBLISH_PREDATE": "20210111",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

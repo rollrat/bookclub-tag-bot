@@ -1,0 +1,67 @@
+{
+    "otitle": "과학하고 앉아있네 8",
+    "oauthor": "원종우,선창국 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학하고 앉아있네 8: 선창국의 지진 흔들어보기 (경주 지진에서 포항 지진까지 한국형 지진에 대해 알아보자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466523060",
+                "image": "https://shopping-phinf.pstatic.net/main_3246652/32466523060.20221019105255.jpg",
+                "author": "원종우",
+                "discount": "6750",
+                "publisher": "동아시아",
+                "pubdate": "20180302",
+                "isbn": "9788962622195",
+                "description": "“지진, 알아야 대비할 수 있다!!”\n3,500만 조회수, 최고 인기 과학 전문 팟캐스트 \n를 책으로 만난다!\n\n듣는 재미에서 읽는 즐거움으로\n더욱 논리적이고 풍부한 지적 경험"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "500",
+                "UPDATE_DATE": "20180319",
+                "EA_ADD_CODE": "04400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "원종우,선창국 지음",
+                "SERIES_TITLE": "",
+                "KDC": "400",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6565679_6.txt",
+                "SET_ISBN": "9788962620924",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "7500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "92 p.",
+                "CONTROL_NO": "CIP2018006118",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962622195",
+                "INPUT_DATE": "20180221",
+                "SET_EXPRESSION": "",
+                "VOL": "8",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학하고 앉아있네",
+                "PUBLISH_PREDATE": "20180302",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04400 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

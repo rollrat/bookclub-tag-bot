@@ -1,0 +1,67 @@
+{
+    "otitle": "STEAM 초등 과학 실험 캠프",
+    "oauthor": "건빵박사 조건호 글/민재회 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "STEAM 초등 과학 실험 캠프 (신나는 과학 탐구활동 교과서, 2022 한국과학창의재단 우수과학도서 선정)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481421642",
+                "image": "https://shopping-phinf.pstatic.net/main_3248142/32481421642.20230218110527.jpg",
+                "author": "조건호",
+                "discount": "12790",
+                "publisher": "바이킹",
+                "pubdate": "20220315",
+                "isbn": "9788964945391",
+                "description": "★ 2022 한국과학창의재단 우수과학도서 선정!\n\n그림이 물속에서 사라지는 마술 실험부터 예술 감각을 뽐내는 사인펜 크로마토그래피 실험, 홀로그램을 직접 만들어 보는 공작 실험까지! 우리 집이 과학 실험실로 바뀌는 실험 아이디어가 가득해요. 재밌고 놀라운 과학 실험을 따라 하다 보면 과학 개념이 머릿속에 쏙쏙 들어올 거예요! 어려운 과학 원리는 일러스트로 설명해 쉽게 이해할 수 있어요. 원리가 보이고 개념이 잡히는 신나는 과학 탐구활동 교과서 《STEAM 초등 과학 실험 캠프》로 초대합니다!\n\n▼ 건빵박사 유튜브에서 만나요!\nhttps://www.youtube.com/channel/UCE18oTFL7cXrGNYJGyY6Yfw/videos"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이킹 :보누스",
+                "DDC": "",
+                "UPDATE_DATE": "20220627",
+                "EA_ADD_CODE": "73400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조건호 지음 ;민재회 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "210*275",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "237 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964945391",
+                "INPUT_DATE": "20220217",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "STEAM 초등과학 실험캠프",
+                "PUBLISH_PREDATE": "20220615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "한국형 장사의 신",
+    "oauthor": "김유진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한국형 장사의 신",
+                "link": "https://search.shopping.naver.com/book/catalog/32478410641",
+                "image": "https://shopping-phinf.pstatic.net/main_3247841/32478410641.20221019114029.jpg",
+                "author": "김유진",
+                "discount": "13500",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20140320",
+                "isbn": "9788965701934",
+                "description": "한국형 ‘대박 맛집’의 비밀이 여기서 밝혀진다!\n\n『한국형 장사의 신』은 21년째 음식 프로그램을 제작하고, 13년 동안의 컨설팅을 통해 200곳 이상의 식당을 성공시킨 김유진의 엉뚱하고도 발랄한 '장사의 요령'을 알려주는 책이다. 때로는 엉뚱하게, 때로는 기발한 아이디어로 절대 망할 수 없는 치명적인 ‘장사비기'를 제시한다. 장사를 시작한 사람에게는 어렵지 않은 ‘요령’을 알려주며, 아직 장사를 시작하지 않은 사람에게는 앞으로의 원대한 꿈을 키울 수 있도록 안내하고 있다.\n\n저자는 장사만큼 쉬운 것도 없다고 강조하며, 그동안 요령이 없었을 뿐이라고 말한다. 뻔한 메뉴에 생각을 가미하고, 지갑들의 생각을 읽으며, 몇 십 원짜리 찌라시로 가게의 터를 제대로 알리 수 있는 그런 요령들이 가득하다. 파트가 끝날 때 ‘무조건 현금을 돌게 하라’, ‘원산지 표기로 신뢰감을 높여라’, ‘가게 앞에 상추와 깻잎을 심어라’ 등 김유진의 특별한 컨설팅을 제시하기도 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)쌤앤파커스",
+                "DDC": "658.11",
+                "UPDATE_DATE": "20140411",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "김유진",
+                "SERIES_TITLE": "",
+                "KDC": "325.21",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3342811_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3342811_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3342811_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014005470",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965701934",
+                "INPUT_DATE": "20140218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "한국형 장사의 신",
+                "PUBLISH_PREDATE": "20140228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

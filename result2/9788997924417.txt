@@ -1,0 +1,67 @@
+{
+    "otitle": "성공하는 프로그래밍 공부법",
+    "oauthor": "박재성,고종범,남재창,박지현 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "성공하는 프로그래밍 공부법 (프로그래머의 길을 생각한다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441644509",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441644509.20230218110330.jpg",
+                "author": "박재성^고종범^남재창^박지현",
+                "discount": "15300",
+                "publisher": "로드북",
+                "pubdate": "20180910",
+                "isbn": "9788997924417",
+                "description": "프로그래밍을 배우려는 사람, 이미 배우고 있는 사람, 교양으로 배우려는 사람, 모두를 위한 책이다. 프로그래밍은 막상 공부하는 과정에서 수많은 실패와 좌절을 경험한다. 그 과정을 이겨내지 못하고 포기하는 사람도 많다. 이 책은 왜 프로그래밍 공부가 자주 실패할 수밖에 없는지, 어떻게 하면 실패하는 순간을 잘 극복하고 프로그래밍 공부를 지속가능하고 재미있게 할 수 있는지에 관한 저자들의 경험 이야기다. 이 책으로 자신의 공부법을 찾고 끝까지 지속 가능하게 프로그래밍 공부를 하는 독자가 많아지기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20180917",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "박재성,고종범,남재창,박지현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*213",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "395 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924417",
+                "INPUT_DATE": "20180829",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "성공하는 프로그래밍 공부법",
+                "PUBLISH_PREDATE": "20180910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

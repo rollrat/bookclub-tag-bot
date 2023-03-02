@@ -1,0 +1,67 @@
+{
+    "otitle": "너라는 선물",
+    "oauthor": "전대진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "너라는 선물 (이젠 네가 행복했으면 좋겠어)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463517947",
+                "image": "https://shopping-phinf.pstatic.net/main_3246351/32463517947.20230223071001.jpg",
+                "author": "전대진",
+                "discount": "15120",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20211215",
+                "isbn": "9791166831829",
+                "description": "사는 게 쉽지 않겠지. 지칠 때도 있을 거야. 그렇지만\n“이젠 네가 행복했으면 좋겠어.”\n\n20만 팔로워 SNS 작가 전대진이 건네는\n따뜻한 선물 같은 위로와 조언들!\n\n5년간 매년 1,000명의 고민을 들어주고, 함께 고민하고 위로를 건넨 따뜻한 작가 전대진이 신작 에세이로 돌아왔다. 상처받거나 낙심한 사람에게 필요한 말은 “힘내, 다 잘될 거야”와 같은 무조건적인 긍정의 말이 아니다. “네가 얼마나 힘든지 잘 알아. 그래서 나도 마음이 아파. 내가 네 모든 아픔을 다 이해할 순 없겠지만, 내가 네 곁에 있어줄게”와 같이 힘들 때 곁을 지켜주겠다는 마음이 더 필요하다. “결국 잘될 거야”와 같은 결과 중심의 말보단, “함께 있어줄게” 같은 과정 중심의 말이 더 소중하다고 말하는 작가의 따뜻한 마음이 책 곳곳에 녹아있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스books :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20220203",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "지은이: 전대진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/12/03/9791166831829.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "123*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166831829",
+                "INPUT_DATE": "20211108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "너라는 선물",
+                "PUBLISH_PREDATE": "20211215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

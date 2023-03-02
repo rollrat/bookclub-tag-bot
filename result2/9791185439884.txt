@@ -1,0 +1,67 @@
+{
+    "otitle": "그래도 부동산보다 주식투자다",
+    "oauthor": "이동규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그래도 부동산보다 주식투자다 (부동산이 열 배 오를 때 주식은 백 배 상승했다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32462267993",
+                "image": "https://shopping-phinf.pstatic.net/main_3246226/32462267993.20221229071759.jpg",
+                "author": "이동규",
+                "discount": "14400",
+                "publisher": "다온북스",
+                "pubdate": "20180608",
+                "isbn": "9791185439884",
+                "description": "“시장에 흔들리지 않는 나만의 ‘포트폴리오 경영 시스템’을 가져라!”\n\n부동산 오른 건 다 안다. \n하지만 부동산이 더 올랐을까, 주식이 더 올랐을까?\n\n자본사회에서 주식은 더 이상 선택의 영역이 아니다. 인플레이션 시대를 대비하는 필수 재테크다. 주식은 직장인에게 기회를 주는 하나의 방법이다. 돈 많이 번다는 건 부동산이라고들 안다. 맞는 말이다. 상승률이 증명한다. 하지만 오르는 부동산을 누구나 가질 수 있을까? 종잣돈 없이는 힘든 게 부동산이다. 그리고 오르는 부동산은 정해져 있다. 그만큼 비싸다.\n\n주식은 다르다. 직장 생활로 버는 월급을 조금씩만 투자해도 된다. 게다가 수익이 날 땐 복리다. 나만의 투자 방법을 찾고 주식투자를 시작한다면, 은퇴 이후에도 월급 받는 생활을 유지할 수 있다. 주식을 대박을 위한 수단이라고 욕심내지 말자. 노후에도 경제적 여유를 누릴 수 있는 안전망이라고 생각하고 접근하자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다온북스",
+                "DDC": "332.6322",
+                "UPDATE_DATE": "20180622",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "없음",
+                "AUTHOR": "이동규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.856",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6681598_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6681598_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225 ",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "262 p.",
+                "CONTROL_NO": "CIP2018016395",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185439884",
+                "INPUT_DATE": "20180528",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "그래도 부동산보다 주식투자다",
+                "PUBLISH_PREDATE": "20180608",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

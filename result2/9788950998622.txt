@@ -1,0 +1,67 @@
+{
+    "otitle": "오리지널의 탄생",
+    "oauthor": "세상의모든지식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오리지널의 탄생 (세계사를 바꾼 28가지 브랜드)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473656618",
+                "image": "https://shopping-phinf.pstatic.net/main_3247365/32473656618.20230207162930.jpg",
+                "author": "세상의모든지식",
+                "discount": "13830",
+                "publisher": "21세기북스",
+                "pubdate": "20220112",
+                "isbn": "9788950998622",
+                "description": "“세계사를 바꾼 브랜드의 핵심 전략은 오리지널 스토리다!”\n오래된 브랜드들의 역사를 살펴보면 그들이 갖는 오리지널의 가치와 철학이 보인다.\n\n세계인의 아침 식사를 책임지는 ‘켈로그’ 시리얼부터, 찍으면 바로 인화되는 즉석카메라 ‘폴라로이드’, 상상하는 모든 것을 만들 수 있는 장난감 ‘레고’, 국민 소화제 ‘활명수’… 사용해본 적은 없을지라도 누구나 들으면 바로 아는 브랜드들이 있다. 이러한 브랜드 파워는 어디서 오는 것일까? 『오리지널의 탄생』은 그 해답을 브랜드가 가진 ‘스토리’에서 찾았다. 유튜브 대표 지식 채널인 ‘세상의모든지식’이 오랫동안 소비자들에게 많은 사랑을 받아온 28개 브랜드를 선별해, 브랜드의 탄생 배경과 창립자의 철학, 소비자와 함께 쌓아온 역사를 추려 묶었다. \n 미처 알지 못했던 브랜드 이야기와 브랜드 속에 숨겨진 흥미로운 이야기들을 읽어 내려가다 보면 최초이자 최고로서 오랜 세월 살아남은 브랜드는 무엇이 어떻게 다른지 그 비밀의 해답을 찾을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20220328",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "글·그림: 세상의모든지식",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950998622",
+                "INPUT_DATE": "20211210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "오리지널의 탄생",
+                "PUBLISH_PREDATE": "20220112",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

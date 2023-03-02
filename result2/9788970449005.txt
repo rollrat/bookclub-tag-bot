@@ -1,0 +1,67 @@
+{
+    "otitle": "과학을 시로 말하다",
+    "oauthor": "이시경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학을 시로 말하다 (빛의 양자 이야기 | 광자의 탄생, 소멸 그리고 부활)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494103643",
+                "image": "https://shopping-phinf.pstatic.net/main_3249410/32494103643.20221229073619.jpg",
+                "author": "이시경",
+                "discount": "13500",
+                "publisher": "전파과학사",
+                "pubdate": "20190916",
+                "isbn": "9788970449005",
+                "description": "과학은 빛의 학문\n과학은 빛에 대한 학문이라고 해도 과장된 얘기가 아닐 정도로, 과학 서적들은 오랫동안 빛의 이야기들로 가득했다. 그리고 위대한 과학자들은 한결같이 빛과 친했다. 20세기 이후 현재까지 과학사는 ‘광자들의 역사’라고 할 정도로 그들 얘기로 분분하다. 수많은 과학자들이 그들의 열렬한 팬이었다. 그들을 가까이에서 관찰하고 호흡하면서 많은 경험을 했고, 업적도 남겼다. 아인슈타인조차도 ‘일평생 노력했지만 광자에 대해서 여전히 모른다’고 고백했듯이, 그들은 아직까지 수수께끼 같은 존재들이다.\n\n쉽고 재미있는 광자 이야기\n이 책은 과학에 대한 사전 지식이 없는 사람들도 이해할 수 있도록, 쉽고 재미있게 엮었다. 또한 광자와 함께 여행하는 동안 곳곳에서 만나게 될 과학을 좀 더 깊게 이해하기를 원하는 독자들을 위한 주석도 마련되어 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20190930",
+                "EA_ADD_CODE": "03420",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "지은이: 이시경",
+                "SERIES_TITLE": "",
+                "KDC": "425.15",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/29/9788970449005.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "220 p.",
+                "CONTROL_NO": "CIP2019034283",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970449005",
+                "INPUT_DATE": "20190829",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학을 시(詩)로 말하다",
+                "PUBLISH_PREDATE": "20190916",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

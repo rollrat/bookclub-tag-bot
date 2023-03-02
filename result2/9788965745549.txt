@@ -1,0 +1,78 @@
+{
+    "otitle": "붉은 소파",
+    "oauthor": "조영주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:31 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "붉은 소파 (제12회 세계문학상 수상작 | 조영주 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492207611",
+                "image": "https://shopping-phinf.pstatic.net/main_3249220/32492207611.20220524184952.jpg",
+                "author": "김엘리",
+                "discount": "0",
+                "publisher": "해냄출판사",
+                "pubdate": "20160530",
+                "isbn": "9788965745549",
+                "description": "한국문학에 신선한 활기를 불러일으키며 소설의 힘과 가능성을 일깨우는 조영주의 심리 스릴러!\n\n제12회 세계문학상 수상작 『붉은 소파』. 살해된 딸의 기억을 붙잡고 살아가는 사진작가와 미궁에 빠진 사건을 들춰내는 여형사가 공소시효 소멸 직전의 연쇄살인범을 추적하며 벌어지는 이야기를 담았다. 한 인간의 내면 갈등과 외부 상황의 충돌을 추적함으로써 인간 존재의 본질은 살아온 궤적 속에서 겪을 수 밖에 없는 자기 안의 상처를 치유하고 극복하는 과정임을 보여준다.\n\n소설은 15년 전 연쇄살인 사건으로 딸을 잃고 방황하는 스타 사진작가 정석주가 어느 날 사체 촬영을 제안받는다는 독특한 설정으로 시작된다. 15년 전 딸 정은혜가 살해당한 후, 그녀의 시체가 놓여 있던 붉은 소파를 가지고 다니며 불특정 인터뷰이를 촬영하면서 범인을 찾아 헤매는 정석주. 어느 날 제자 이재혁이 정석주를 찾아내어 경찰 김나영이 의뢰한 살인 사건의 현장 사진 촬영을 강제로 맡긴다. \n\n정석주는 사진작가 특유의 예리한 관찰력과 친화력으로 강남의 한 빌라에서 벌어진 살인 사건의 진범을 찾아내고, 김나영의 신뢰를 얻으며 계속해서 사건을 해결해 간다. 피해자와 유족, 살인자를 접하면서 여전히 15년 전의 불완전한 기억에 매여 있는 자신을 깨닫게 된 정석주는 마침내 고통스러운 사건과 대면하기로 결심하고, 303 연쇄살인 사건의 진실에 점점 다가가는데……."
+            },
+            {
+                "title": "붉은 소파: 세상에 말을 건네다 (호르스트 바커바르트 사진 인터뷰집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503925684",
+                "image": "https://shopping-phinf.pstatic.net/main_3250392/32503925684.20220530160830.jpg",
+                "author": "호르스트 바커바르트",
+                "discount": "0",
+                "publisher": "중앙북스",
+                "pubdate": "20100628",
+                "isbn": "9788927800507",
+                "description": "사진가와 붉은 소파의 여행이 시작되었다. 그리고 30년...\n\n30년간 세계를 돌아다니며 사람들에게 말을 건넨 붉은 소파의 이야기『붉은 소파』. 붉은 소파와 함께 전 세계를 여행한 사진가 호르스트 바커바르트의 사진 인터뷰집이다. 1979년 뉴욕의 소호거리, 곧 버려질 낡은 소파가 마음에 든 젊은 사진가는 소파를 거리 한복판으로 옮기고 지나가는 사람들을 앉혀 사진을 찍기 시작한다. 이후 30년간 소파와 사진가는 세계를 돌아다니며 많은 사람들을 만난다. 영국의 동물학자 제인 구달부터 사진가의 막내아들까지 소파에 앉았던 다양한 사람들의 모습을 담아내며, 지구촌 모든 이들의 독특한 존재성과 완전한 평등을 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)해냄출판사",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20160602",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "조영주",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5425038_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5425038_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "432",
+                "CONTROL_NO": "CIP2016011561",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965745549",
+                "INPUT_DATE": "20160509",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "붉은 소파",
+                "PUBLISH_PREDATE": "20160530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

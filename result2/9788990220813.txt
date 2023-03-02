@@ -1,0 +1,67 @@
+{
+    "otitle": "모래밭 아이들",
+    "oauthor": "하이타니 겐지로 저/햇살과 나무꾼 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모래밭 아이들 (개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504589131",
+                "image": "https://shopping-phinf.pstatic.net/main_3250458/32504589131.20221019114844.jpg",
+                "author": "하이타니 겐지로",
+                "discount": "8550",
+                "publisher": "양철북",
+                "pubdate": "20080729",
+                "isbn": "9788990220813",
+                "description": "학교는 아이들이 맘껏 뛰놀 수 있는 모래밭이어야 한다!\n\n하이타니 겐지로의 체험적 교육 철학이 담겨 있는 소설『모래밭 아이들』개정판. 청소년과 어른이 함께 읽고 성장하는 문학 시리즈를 지향하는「카르페디엠」의 다섯 번째 책이다. 의 작가 하이타니 겐지로가 1990년에 발표한 이 소설은 학교의 권위적인 규칙, 처벌, 교사의 폭력 등 교육 현장의 문제를 다루고 있다.  \n\n구즈하라 준은 다니던 방송국을 그만두고 친구와 함께 '무한숙'이라는 유기농업 공동체를 만들어 일하던 중, 교사인 아내가 병으로 휴직한 것을 계기로 중학교의 임시 교사가 된다. 그런데 하필 그가 맡은 반은 불량한 수업 태도 때문에 '문제아' 집단으로 낙인찍힌 3학년 3반. 아이들은 첫 만남부터 선생에 대해 신랄하게 비판의 말을 내뱉는다. \n\n첫 국어 시간, 구즈하라는 교과서에 얽매이지 않고 몇 편의 시로 수업을 한다. 자신의 생각을 발표하며 열성적으로 수업에 임하는 아이들을 보고, 그는 아이들이 문제아가 아니라 획일적인 수업과 체벌을 강요하는 교사들에게 반항하고 있는 것임을 깨닫게 된다. 그리고 아이들도 조금씩 구즈하라에게 마음을 열기 시작하는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "양철북",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "하이타니 겐지로 [지음] ; 햇살과나무꾼 옮김 ;이상권 그림",
+                "SERIES_TITLE": "카르페디엠",
+                "KDC": "",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "5",
+                "EA_ISBN": "9788990220813",
+                "INPUT_DATE": "20080724",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "모래밭 아이들",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

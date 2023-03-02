@@ -1,0 +1,67 @@
+{
+    "otitle": "혼밥족을 위한 건강 밥상",
+    "oauthor": "이진호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "혼밥족을 위한 건강 밥상 (몸에 좋다 따라하기 쉽다 그리고 혼자 먹어도 맛있다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492214125",
+                "image": "https://shopping-phinf.pstatic.net/main_3249221/32492214125.20230301071626.jpg",
+                "author": "이진호",
+                "discount": "13500",
+                "publisher": "책이있는풍경",
+                "pubdate": "20161120",
+                "isbn": "9788993616989",
+                "description": "헛배만 부른 초라한 혼밥은 가라\n싱글들을 위한 진짜 요리가 온다\n\n1인가구의 비율이 전체 가구의 27%를 넘어선 지금, 저녁에 집에 돌아와 혼자 밥을 차려먹는 것은 자연스러운 라이프스타일로 자리 잡았다. ‘나 혼자 사는’ 삶을 보다 풍족하게 만들기 위해 빼놓을 수 없는 것은 바로 나만을 위한 훌륭한 식탁. 『혼밥족을 위한 건강 밥상』은 인스턴트식품과 배달음식에 지친 홀로족의 영혼까지 위로할 따뜻한 혼밥의 세계로 안내한다.\n\n‘재즈 요리사’라 불리는 저자는 세계 각국의 요리를 경험하며 자신의 스타일리쉬한 요리 세계를 완성해왔다. 이 책에서는 스스로도 혼밥족인 저자가 자신이 집에서 즐기는 레시피들을 공개한다. ‘화려하지 않지만 초라하지 않고, 넘치진 않지만 부족하지 않은’ 식탁이 바로 저자가 제안하는 셀프밥상.\n따뜻한 국물 요리와 저자의 힐링푸드라 말하는 세계 면 요리, 그리고 다양한 샐러드 레시피들이 눈길을 끈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책이있는풍경",
+                "DDC": "641.5",
+                "UPDATE_DATE": "20161124",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://chaekpung.com",
+                "AUTHOR": "이진호",
+                "SERIES_TITLE": "",
+                "KDC": "594.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5863676_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5863676_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "256쪽",
+                "CONTROL_NO": "CIP2016026156",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993616989",
+                "INPUT_DATE": "20161028",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "혼밥족을 위한 건강 밥상",
+                "PUBLISH_PREDATE": "20161120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

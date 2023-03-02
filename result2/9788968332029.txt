@@ -1,0 +1,67 @@
+{
+    "otitle": "게으른 게 아니라 충전 중입니다",
+    "oauthor": "댄싱스네일 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "게으른 게 아니라 충전 중입니다 (어제도 오늘도 무기력한 당신을 위한 내 마음 충전법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440946619",
+                "image": "https://shopping-phinf.pstatic.net/main_3244094/32440946619.20221019113913.jpg",
+                "author": "댄싱스네일",
+                "discount": "13050",
+                "publisher": "허밍버드",
+                "pubdate": "20190220",
+                "isbn": "9788968332029",
+                "description": "텅 빈 마음을 빵빵하게 채워 줄 나만의 마음 충전법!\n\n《죽고 싶지만 떡볶이는 먹고 싶어》, 《그냥 흘러넘쳐도 좋아요》, 《혼자 있고 싶은데 외로운 건 싫어》 등 마치 보고만 있어도 위로가 되는 그림으로 수많은 독자들의 찬사를 받았던 일러스트레이터 댄싱스네일의 첫 번째 에세이 『게으른 게 아니라 충전 중입니다』. 오랜 시간 무기력증과 우울증을 겪으며 상담을 받아 온 저자가 인생 슬럼프시기를 겪고 있는 이들에게 전하는 로그아웃 허가서이다. \n\n무기력과 우울은 병이 아니라고, 특별한 게 아니라고, 감기에 걸렸을 때 몸을 돌보는 것처럼, 무기력증이 찾아왔을 때 역시 마음을 보살피면 된다고 이야기하면서 아무것도 하기 싫으면 아무것도 하지 말라고, 불쑥불쑥 찾아오는 감기처럼 오늘 또 찾아온 무기력감에 일일이 호들갑스럽게 반응할 거 없다고, 그저 마음을 충전하는 시간을 충분히 가지라고 조언한다. \n\n3년 넘게 직접 상담과 치료를 받은 저자는 누구나 할 수 있는 작은 행동이 생각보다 큰 도움이 된다는 사실을 깨달았고, 주말 하루쯤은 가만히 누워 확실히 게으르게 시간 낭비하기, 자기 전 옥장판 위에 누워 귤 까먹으며 드라마 보기, 될 수 있는 한 움직이지 않기처럼 아주 소소하고 별것 아닌 일들이 텅 빈 마음을 충전해 준다는 반가운 사실을 알게 되었다. 작고 시시하고 보잘것없어 보이지만, 때로는 쓸데없는 생각과 일상 속 소소한 행동들이 생각지도 못한 위로와 즐거움이 된다고 이야기하면서 자신의 경험을 토대로 자신만의 노하우를 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "허밍버드 :백도씨",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20190225",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "https://blog.naver.com/100doci",
+                "AUTHOR": "글·그림: 댄싱스네일",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7139231_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "CIP2019003496",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788968332029",
+                "INPUT_DATE": "20190129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "게으른 게 아니라 충전 중입니다",
+                "PUBLISH_PREDATE": "20190220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "동네 의사와 기본소득",
+    "oauthor": "정상훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "동네 의사와 기본소득 (모두의 것을 모두에게! | 기본소득, 정말 실현 가능한 정책일까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494111780",
+                "image": "https://shopping-phinf.pstatic.net/main_3249411/32494111780.20221229072910.jpg",
+                "author": "정상훈",
+                "discount": "12150",
+                "publisher": "루아크",
+                "pubdate": "20201101",
+                "isbn": "9791188296446",
+                "description": "기본소득이 주어지는 사회, 어떤 모습일까?\n\n기본소득제도가 도입된 사회는 어떤 모습일까? 모든 국민에게 기본소득이 지급된다면 우리 사회에서 가장 큰 혜택을 받는 집단은 어디일까? 이 책 『동네 의사와 기본소득』 지은이 정상훈은 차별받거나 소외되었던 집단을 필두로 사회 전체가 상상도 못할 긍정적 경험을 하게 될 것이라고 말한다. 국내와 해외에서 수많은 사람을 진료하면서, 그리고 진료실 밖 삶의 현장에서 여러 노동자를 만나면서 지은이는 그들의 삶과 기본소득이 어떻게 연결될 수 있는지 들려준다. 아울러 지은이는 책 곳곳에서 재원 문제를 비롯해 기본소득의 여러 반대 논리에 구체적 사례를 들어가며 하나하나 답한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "루아크",
+                "DDC": "",
+                "UPDATE_DATE": "20201105",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 정상훈",
+                "SERIES_TITLE": "",
+                "KDC": "338.181",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/15/9791188296446.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "221 p.",
+                "CONTROL_NO": "CIP2020043759",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188296446",
+                "INPUT_DATE": "20201015",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "동네 의사와 기본소득",
+                "PUBLISH_PREDATE": "20201101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

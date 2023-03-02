@@ -1,0 +1,67 @@
+{
+    "otitle": "뉴로제너레이션",
+    "oauthor": "탠 리 저/김시내 역/김선미 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뉴로제너레이션 (생각하는 대로 움직이는 놀라운 세상)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464064087",
+                "image": "https://shopping-phinf.pstatic.net/main_3246406/32464064087.20221230074747.jpg",
+                "author": "탠 리",
+                "discount": "16920",
+                "publisher": "한빛비즈",
+                "pubdate": "20210123",
+                "isbn": "9791157844548",
+                "description": "세계경제포럼(WEF)의 창설자이자 최고의장인 클라우스 슈밥(Klaus Schwab)은 물리, 디지털, 생물 영역이 점점 통합되는 새로운 시대를 정의하려고 ‘4차 산업혁명’이라는 신조어를 만들어냈다. 비록 이 통합이 세상에 미칠 영향 모두를 그려볼 수 없다고 해도, 우리는 이미 의료, 교육, 교통, 금융, 보안, 엔터테인먼트, 매체에서 일어나는 극적인 변화를 목격하고 있다. 의료계에서는 악성종양을 찾아내려고 인공지능(AI)과 머신러닝을 받아들이고 있고, 미국에서는 자율주행자동차가 고속도로를 달리고 있다.\n\n\n\n4차 산업혁명처럼 뇌과학 기술 분야도 인류의 역사를 뒤집을 새로운 시대인 뉴로제너레이션에 접어들었다는 것을 저자는 수많은 사례와 연구를 들어 보여준다. 우리의 지성을 강화시키고 우리의 일터를 근본적으로 변화시키며, 의학기술, 컴퓨터공학, 로봇공학, 심리학 등을 획기적으로 발전시킬 신경 임플란트, 바이오닉 브레인, 인공지능 등 완전히 새로운 기술들을 소개한다.\n\n\n\n헤드셋을 쓰는 것만으로도 연주 능력이 향상되고, 생각만으로 차를 운전할 수 있으며, 시각장애인이 소리로 색깔을 보는 놀라운 세상이 도래했음을 알려준다. 메스 없이 세포 단위에서 뇌를 수술하고 치매로 잃어버린 기억을 되살리는 등의 SF 소설에서나 볼 법한 첨단 의료기술들과 인공지능의 미래를 들여다보는 한편, 뉴로제너레이션에서 다함께 고민해야 할 사회적 문제와 청사진을 제시하면서 우리가 맞이할 시대에 필요한 지식과 통찰을 얻게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20210226",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "탠 리 지음 ;김시내 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "392 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157844548",
+                "INPUT_DATE": "20201007",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "뉴로제너레이션",
+                "PUBLISH_PREDATE": "20210123",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

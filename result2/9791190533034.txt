@@ -1,0 +1,67 @@
+{
+    "otitle": "작은 파티 드레스",
+    "oauthor": "크리스티앙 보뱅 저/이창실 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "작은 파티 드레스",
+                "link": "https://search.shopping.naver.com/book/catalog/32467112785",
+                "image": "https://shopping-phinf.pstatic.net/main_3246711/32467112785.20230218110719.jpg",
+                "author": "크리스티앙 보뱅",
+                "discount": "11250",
+                "publisher": "1984Books",
+                "pubdate": "20210325",
+                "isbn": "9791190533034",
+                "description": "프랑스가 사랑하는 시인이자 에세이스트 크리스티앙 보뱅의 산문집 &lt;작은 파티 드레스&gt;를 출간한다. 자신이 태어난 도시 크뢰조에 머물며 오로지 글쓰기에만 헌신하고 있는 이 작가는 침묵 속에서 건져 올린 깊이 있는 사유와 어린아이와 같은 그의 순수한 미소를 닮은 맑고 투명한 문체로 프랑스 문단과 언론, 독자들 모두에게 찬사를 받고 있다. 보뱅의 책들은 하나같이 평범한 일상과 자연을 주시하고 예술에 감응하며 주변의 인물들에 귀 기울이는데, 이 모두는 보뱅의 시선과 문장들로 빛을 발한다. \n\n\n\n보뱅의 산문집 &lt;작은 파티 드레스&gt;는 독서와 글쓰기로부터 출발해 고독과 침묵, 우수와 환희가 함께 어우러지는 자리를 지나 마침내 ‘사랑의 시’에 이르는 아름다운 여정이 있다. 책을 읽지 않는 삶은 “우리를 잠시도 놓아주지 않는 삶’이며, ‘신문에 나오는 이야기들처럼 온갖 잡다한 것들의 축적으로 질식할 듯한 삶’이라 말하는 작가는 소음과 부산함으로 가득한 출구 없는 세상에 출구를 그리고, 깊은 사색으로부터 퍼지는 변함없는 차분하고 조용한 목소리로 우리를 안내한다.\n\n\n\n짧은 서문과 잇따르는 아홉 편의 텍스트를 모아 엮은 길지 않은 산문집이지만, 멈춰 서서 매 문장의 숨결과 향기, 떨림에 몸을 맡겨야 하는, 잦은 숨 고르기가 필요한 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "1984 Books",
+                "DDC": "",
+                "UPDATE_DATE": "20210308",
+                "EA_ADD_CODE": "03860",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 크리스티앙 보뱅",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/05/9791190533034.jpg",
+                "PRE_PRICE": "12,500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "120*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "136",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190533034",
+                "INPUT_DATE": "20210216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "작은 파티 드레스",
+                "PUBLISH_PREDATE": "20210325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

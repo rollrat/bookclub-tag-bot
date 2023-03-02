@@ -1,0 +1,67 @@
+{
+    "otitle": "떡볶이야 사랑해",
+    "oauthor": "이용근 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "떡볶이야 사랑해 (전설의 덕후 ‘유치찬란’이 엄선한 떡볶이 맛집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466554187",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466554187.20221019134344.jpg",
+                "author": "이용근",
+                "discount": "12960",
+                "publisher": "채륜서",
+                "pubdate": "20210610",
+                "isbn": "9791185401614",
+                "description": "“그 무엇도 경험을 이길 수는 없다”\n그동안 탐방한 떡볶이집이 전국 3,000여 곳!\n대한민국 최고 떡볶이 덕후가 엄선한 떡볶이집은 어디일까?\n\n〈생활의 달인〉 떡볶이 자문가이자 다음카페 ‘맛있는 탐구생활’ 운영자인 이용근 작가가 전하는 떡볶이 이야기. 작가는 떡볶이가 있는 곳이라면 어디든 달려가는 자타공인 떡볶이 사랑꾼이다. 탐방한 떡볶이집만 전국 3,000곳이 넘는데, 이 책에는 그동안 쌓아온 경험을 바탕으로 열세 곳을 어렵게 골라 담았다. 모두 강한 자극으로 혀를 홀리기보다 맛의 조화를 중시하며, 현실과 타협하지 않고 음식 장사의 기본을 지켜나가는 곳들이다. 하지만 단순한 ‘먹기록’은 아니다. 여러 번의 방문과 인터뷰로 알게 된 떡볶이집의 숨은 이야기, 맛있는 떡볶이를 만들어낸 사람들의 웃음과 눈물, 정성 등 좋은 재료를 한데 모아 구미가 돋도록 지글지글 볶아냈다. 전국을 다니며 얻은 떡볶이 경험 속에 전율을 느꼈던 맛의 비밀도 공개했다고 하니, 떡볶이를 소울푸드로 삼는 사람들이 반드시 소장해야 할 책이 아닐 수 없다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "채륜서",
+                "DDC": "",
+                "UPDATE_DATE": "20210722",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "www.chaeryun.com",
+                "AUTHOR": "이용근 찍고 쓰다",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14400",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185401614",
+                "INPUT_DATE": "20210512",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "떡볶이야 사랑해",
+                "PUBLISH_PREDATE": "20210610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

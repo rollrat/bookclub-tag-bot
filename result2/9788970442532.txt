@@ -1,0 +1,67 @@
+{
+    "otitle": "과학자 360",
+    "oauthor": "오진곤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학자 360 (인물로 엮은 과학의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490335013",
+                "image": "https://shopping-phinf.pstatic.net/main_3249033/32490335013.20221019132254.jpg",
+                "author": "오진곤",
+                "discount": "16200",
+                "publisher": "전파과학사",
+                "pubdate": "20061130",
+                "isbn": "9788970442532",
+                "description": "과학자들을 중심으로 보는 과학사. 이 책은 창조적인 업적을 남긴 과학자 360명을 통해 고대 시기의 과학에서부터 반도체와 인공위성이 연구된 현대과학에 이르기까지 과학의 역사를 알기 쉽게 정리한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20061207",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "오진곤",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970442537",
+                "INPUT_DATE": "20061207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학자 360 - 인물로 엮은 과학의 역사 -",
+                "PUBLISH_PREDATE": "20061210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

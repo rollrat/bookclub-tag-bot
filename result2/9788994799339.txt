@@ -1,0 +1,67 @@
+{
+    "otitle": "사람이 그리움을 부른다",
+    "oauthor": "함길수 저, 사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사람이 그리움을 부른다 (여행 인간과 대자연의 소리 없는 위로)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506910673",
+                "image": "https://shopping-phinf.pstatic.net/main_3250691/32506910673.20220527022506.jpg",
+                "author": "함길수",
+                "discount": "13320",
+                "publisher": "상상출판",
+                "pubdate": "20121112",
+                "isbn": "9788994799339",
+                "description": "죽기 전에 한 번을 가봐야 할 대자연을 만나다!\n\n여행, 인간과 대자연의 소리 없는 위로『사람이 그리움을 부른다』. 지난 20년간 자동차 탐험가로, 사진작가로 살아온 함길수의 포토 에세이로, 네이버 캐스트 ‘지구촌 산책’에 2년 동안 인기리에 연재한 세계여행을 모아 엮은 책이다. 아프리카, 아시아, 알래스카, 노르웨이 등을 누비며 대자연과 인간의 조화로운 삶을 아름다운 풍경 사진과 감성어린 글로 담아냈다.  \n\n저자는 전 세계를 돌면서 영원히 잊지 못할 여행지 12개 나라 46곳의 대자연을 소개한다. 그림 같은 풍경의 여행지는 물론 생생한 자연과 문화가 있는 곳, 스릴 넘치는 모험과 아늑한 휴식이 있는 곳, 역사 깊은 유적지까지 죽기 전에 한 번을 가봐야 할 세계의 다양한 여행지를 만나볼 수 있다. 지부 반대편의 가장 원시적인 대자연과 사람들의 모습을 생생히 전하는 이 책은 새로운 곳에서 새로운 시선으로 감동적인 세계의 위안을 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글과 사진: 함길수",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994799339",
+                "INPUT_DATE": "20121029",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "사람이 그리움을 부른다 ",
+                "PUBLISH_PREDATE": "20121112",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

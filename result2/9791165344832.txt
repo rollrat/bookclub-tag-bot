@@ -1,0 +1,67 @@
+{
+    "otitle": "CES 2022 딥리뷰",
+    "oauthor": "손재권,최형욱,강성지,정구민,이용덕,주영섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "CES 2022 딥리뷰",
+                "link": "https://search.shopping.naver.com/book/catalog/32473959252",
+                "image": "https://shopping-phinf.pstatic.net/main_3247395/32473959252.20221019123205.jpg",
+                "author": "손재권^최형욱^강성지^정구민^이용덕",
+                "discount": "19800",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20220323",
+                "isbn": "9791165344832",
+                "description": "영역 파괴와 확장을 주도해온 세계 최대 ICT 전시회\nCES에서 직접 발굴한 생존 전략과 날카로운 인사이트!\n\n매년 1월마다 라스베이거스에서 벌어지는 전 세계 기업들의 보이지 않는 전쟁, CES. 특히 2년 만에 오프라인으로 개최된 CES 2022는 수많은 서프라이즈 이벤트를 쏟아내며 업(業)의 경계가 무너지고, 주류와 틈새가 뒤집히고 있는 대격변 시대의 유일한 생존 전략이 ‘테크기업화’라는 점을 단적으로 보여주었다. \n이러한 혁신의 전쟁터에 각 분야의 국내 최고 권위자 6명이 직접 뛰어들어 날카로운 인사이트로 CES 2022를 완벽하게 분석해 이면에 감춰진 함의를 발굴하고 자비 없는 경쟁 속에서 살아남을 전략을 압축해 《CES 2022 딥리뷰》 한 권으로 선보인다.\n맹인모상(盲人摸象) 식의 단순 스케치성 정보 나열을 뛰어넘어 현재의 테크트렌드, 미래 전망, 글로벌 혁신 전쟁의 함의까지 치밀하게 분석한 《CES 2022 딥리뷰》는 대격변 속에서 생존을 위한 치열한 경쟁을 벌이는 기업, 새로운 부의 원천을 찾는 투자자에게 분명한 방향을 제시하는 나침반이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20220413",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "손재권,최형욱,강성지,정구민,이용덕,주영섭 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/02/15/9791165344832.jpg",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "160*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "345 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165344832",
+                "INPUT_DATE": "20220215",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "CES 2022 딥리뷰",
+                "PUBLISH_PREDATE": "20220323",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

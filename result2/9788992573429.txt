@@ -1,0 +1,78 @@
+{
+    "otitle": "불량헬스",
+    "oauthor": "최영민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:24 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "불량헬스 (S라인과 식스팩에 돌직구를 날리다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493379622",
+                "image": "https://shopping-phinf.pstatic.net/main_3249337/32493379622.20220527032142.jpg",
+                "author": "최영민",
+                "discount": "0",
+                "publisher": "북돋움라이프",
+                "pubdate": "20130701",
+                "isbn": "9788992573429",
+                "description": "크로스핏 전문가 최영민이 말하는 헬스클럽의 비밀!\n\nS라인과 식스팩에 돌직구를 날리다 『불량헬스』. ‘한 달 만에 10kg 빼기’, ‘두 달 만에 식스팩 만들기’ 등 TV 프로그램과 유명 트레이너들의 달콤한 광고 문구에 ‘돌직구’를 날린다. 무분별한 운동법과 다이어트 법에 사로잡혀 있던 이들에게 이 책은 건강해 보이기 위한 몸이 아니라, 속까지 건강한 몸을 만드는 운동법, 요요 현상이 두렵지 않은 다이어트 방법, 헬스클럽을 선택하고 이용하기 위한 실용적인 가이드를 소개한다.\n\n1장과 2장에서는 다이어트를 둘러싼 잘못된 신화들을 파헤치며 여성들이 알아야 할 다이어트의 진실을 조언한다. 3장에서는 헬스클럽을 어떻게 선택하면 좋은지를, 4장에서는 기본기부터 출발하는 실전 운동법 가이드를, 5장에서는 ‘강한’ 남자를 만드는 데 특효약인 운동법을 안내한다. 아울러 전문 선수만의 전유물처럼 여겨지는 육상, 체조, 역도와 같은 스포츠의 재미를 알려준다. 저자는 이런 스포츠에 재미를 붙인다면 자연스레 강하고 튼튼한 몸을 만들 수 있게 된다고 강조한다."
+            },
+            {
+                "title": "불량헬스 2: 스트렝쓰편 (스콰트와 데드리프트, 두 놈만 팬다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466953618",
+                "image": "https://shopping-phinf.pstatic.net/main_3246695/32466953618.20220524184318.jpg",
+                "author": "최준수",
+                "discount": "0",
+                "publisher": "북돋움라이프",
+                "pubdate": "20140605",
+                "isbn": "9788992573474",
+                "description": "상식적인 운동의 답은 ‘스트렝쓰 운동’!\n\n『불량헬스. 2: 스트렝쓰편』은 스트렝쓰 훈련의 기초 원리와 그 근간을 이루는 운동인 스콰트와 데드리프트의 상세한 매뉴얼을 담고 있다. 전작에서는 운동을 시작하려는 사람들을 위한 오해 타파에 집중했다면, 이번 책에서는 운동 좀 한다는 사람조차 잘못 알고 있기 십상인 왜곡된 이야기들을 날카롭게 지적하고 바로잡는다.\n\n저자는 특히 스트렝쓰 훈련을 강조하는데, 이는 ‘순간적인 최대 근력치’를 높이는 운동으로, 스트렝쓰가 강하면 근지구력과 심폐 능력 등 다른 체력을 끌어 올리기 수월해 진짜 강한 몸, 아름다움이 저절로 따라오는 몸을 만들 수 있다고 설명한다. 이 책은 각종 운동법에 지친 사람들에게 스콰트와 데드리프트만 제대로 하면 된다는 단순한 해답을 제시하면서, 그 방법을 자세히 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "오토북스",
+                "DDC": "646.75",
+                "UPDATE_DATE": "20130704",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최영민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "593.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2765553_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2765553_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2765553_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013009072",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788992573429",
+                "INPUT_DATE": "20130612",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "불량헬스 ",
+                "PUBLISH_PREDATE": "20130701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

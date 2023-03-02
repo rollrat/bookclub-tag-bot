@@ -1,0 +1,78 @@
+{
+    "otitle": "바우트원 3",
+    "oauthor": "장우룡 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:07 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "바우트원 3 (대한민국 공군 창설사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466840754",
+                "image": "https://shopping-phinf.pstatic.net/main_3246684/32466840754.20221019113809.jpg",
+                "author": "장우룡",
+                "discount": "14400",
+                "publisher": "레드리버",
+                "pubdate": "20200625",
+                "isbn": "9788950988319",
+                "description": "1950년 6월, 대한민국 공군의 위대한 비행이 시작된다\n자신의 운명을 짊어지고 하늘을 날던 그때의 ‘그들’, 그들의 세 번째 이야기\n\n만화로 그려낸 6.25전쟁의 생생한 기록\n일제강점기와 광복, 6.25전쟁을 모두 겪은 그들의 드라마\n\n〈바우트 원〉 3권은 6.25전쟁 때문에 전투기를 타고 날게 된 조종사 곽경필의 이야기를 다룬다. 6.25전쟁 당시 총칼을 맞대고 싸워야만 했던 군인들은 일제강점기에는 힘을 합쳐 일제에 맞서던 동료였을 수도 있다. 그리고 광복 이후에도 의견충돌로 대립했지만 ‘같은 나라’ 사람이었을 것이다. 책 속에는 6.25전쟁이라는 아픈 역사에 맞닥뜨린 조종사들의 고민들이 여과 없이 담겨 있다. 이 만화는 독자들에게 전투 장면과 함께 6.25전쟁을 살아냈던 역사 속 인물들을 보여주는 역할을 해 줄 것이다."
+            },
+            {
+                "title": "바우트 원 3 (한국전쟁 60주년 기념작)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492763157",
+                "image": "https://shopping-phinf.pstatic.net/main_3249276/32492763157.20220527023519.jpg",
+                "author": "장우룡",
+                "discount": "0",
+                "publisher": "길찾기",
+                "pubdate": "20140610",
+                "isbn": "9788960523531",
+                "description": "만화가 장우룡의 『바우트 원』 제3권. 한국전쟁 60주년을 기념하여 출간된 것이다. 전장에 청춘을 바친 한 젊은이의 삶을 그린 세 번째 이야기로 대단원의 막을 내린다. 철저한 자료 조사와 고증을 바탕으로, 한국 공군의 역사를 그리고 현재를 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북이십일 레드리버",
+                "DDC": "",
+                "UPDATE_DATE": "20200730",
+                "EA_ADD_CODE": "07910",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "글·그림: 장우룡",
+                "SERIES_TITLE": "바우트 원",
+                "KDC": "",
+                "EDITION_STMT": "6.25전쟁 70주년 기념 개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788950988326",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*232",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "3",
+                "EA_ISBN": "9788950988319",
+                "INPUT_DATE": "20200623",
+                "SET_EXPRESSION": "",
+                "VOL": "3",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "바우트원 ",
+                "PUBLISH_PREDATE": "20200625",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "07910 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "나는 선생님이 좋아요",
+    "oauthor": "하이타니 겐지로 저/햇살과나무꾼 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:47 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나는 선생님이 좋아요",
+                "link": "https://search.shopping.naver.com/book/catalog/32441032743",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441032743.20230131165132.jpg",
+                "author": "하이타니 겐지로",
+                "discount": "10800",
+                "publisher": "양철북",
+                "pubdate": "20190315",
+                "isbn": "9788963720180",
+                "description": "중요한 것은 가르치고 이끄는 것이 아니다!\n\n교육자이자 아동문학가 하이타니 겐지로의 첫 번째 장편소설 『나는 선생님이 좋아요』. 1974년에 작가 자신의 17년 교직 체험을 바탕으로 쓴 이 책은 '아이들에게 배운다'는 작가의 교육철학이 담긴 스테디셀러로, 한 햇병아리 선생이 진정한 교사로 성장해나가는 과정을 그리고 있다. 아이들의 가능성을 굳게 믿고, 관심과 사랑으로 키워내는 선생님의 이야기가 감동적으로 펼쳐진다. 국제 안데르센상 우수작품 선정도서이자 문화관광부, 한국간행물윤리위원회, 한우리독서운동본부 추천도서이다."
+            },
+            {
+                "title": "나는 선생님이 좋아요",
+                "link": "https://search.shopping.naver.com/book/catalog/32438169810",
+                "image": "https://shopping-phinf.pstatic.net/main_3243816/32438169810.20230216071150.jpg",
+                "author": "하이타니 겐지로",
+                "discount": "10800",
+                "publisher": "양철북",
+                "pubdate": "20080314",
+                "isbn": "9788990220776",
+                "description": "중요한 것은 가르치고 이끄는 것이 아니다!\n\n하이타니 겐지로의 첫 번째 장편 소설 『나는 선생님이 좋아요』2008년 개정판. 1974년에 작가 자신의 17년 교직 체험을 바탕으로 쓴 이 책은 길들여지지 않은 아이들의 세계를 생생하게 느낄 수 있다. 또한, 각박하고 소외된 현실에서도 천진난만함과 상냥함을 잃지 않는 희망의 메시지가 담겨 있다.\n\nH 공업지대 안에 위치한 히메마쓰 초등학교는 근처에 쓰레기처리장이 있어 환경적으로 많은 어려움을 겪는다. 대학을 갓 졸업한 신임 여교사 고다니 선생님은 처음엔 쓰레기처리장 아이들에게 동정어린 관심과 친절함으로 다가서지만 쉽게 넘어서지 못할 벽을 느낀다. 아이들 중에서도 데쓰조는 파리를 기르는 것에만 관심이 있고 다른 사람들에게 마음의 문을 닫고 사는 아이다. \n\n하지만 고다니 선생님의 헌신적인 사랑과 노력으로 차츰 마음의 문을 열어가고, 문제아였던 데쓰조가 파리박사라고 불리는 재능 있는 아이로 변모해 간다. 파리에 대한 관심을 학습 능력으로 발전시킨 데쓰조는 아이들과 주변 사람들에게 ‘파리 박사’로 인정받게 되면서 보석 같은 존재로 성장하는데…. [개정판]"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "양철북",
+                "DDC": "",
+                "UPDATE_DATE": "20100414",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이:하이타니 겐지로 ;옮긴이:햇살과나무꾼",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788963720180",
+                "INPUT_DATE": "20100414",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "나는 선생님이 좋아요 ",
+                "PUBLISH_PREDATE": "20100401",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

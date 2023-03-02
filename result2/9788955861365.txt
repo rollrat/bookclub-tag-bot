@@ -1,0 +1,67 @@
+{
+    "otitle": "왜 아직도 프로이트인가?",
+    "oauthor": "김태형 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "왜 아직도 프로이트인가 (정신분석학을 관통하는 5가지 이론)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490257657",
+                "image": "https://shopping-phinf.pstatic.net/main_3249025/32490257657.20221019124432.jpg",
+                "author": "김태형",
+                "discount": "16200",
+                "publisher": "세창미디어",
+                "pubdate": "20111015",
+                "isbn": "9788955861365",
+                "description": "교보문고 '북모닝 CEO'의 북멘토로 활발하게 활동 중인 심리학자 김태형의 『왜 아직도 프로이트인가?』. 프로이트의 정신분석학을 관통하는 '심적 결정론', '동기이론', '갈등 이론', '정신 구조론', 그리고 '사회론' 등의 5가지 이론을 소개하고 있다. 오늘의 심리학이 계승하거나 참고해야 할 진실과 참신한 내용이 담긴 프로이트의 정신분석학을 쉽게 꿰뚫을 안목을 갖게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세창미디어,",
+                "DDC": "150.1952",
+                "UPDATE_DATE": "20111123",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.scpc.co.kr",
+                "AUTHOR": "김태형 지음",
+                "SERIES_TITLE": "",
+                "KDC": "185.51",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2510645_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2510645_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2510645_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2011004222",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788955861365",
+                "INPUT_DATE": "20111005",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "왜 아직도 프로이트인가? ",
+                "PUBLISH_PREDATE": "20111015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

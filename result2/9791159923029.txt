@@ -1,0 +1,67 @@
+{
+    "otitle": "외계 신장",
+    "oauthor": "이수현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "외계 신장",
+                "link": "https://search.shopping.naver.com/book/catalog/32485093634",
+                "image": "https://shopping-phinf.pstatic.net/main_3248509/32485093634.20221019132228.jpg",
+                "author": "이수현",
+                "discount": "10800",
+                "publisher": "알마",
+                "pubdate": "20200530",
+                "isbn": "9791159923029",
+                "description": "러브크래프트를 통해 2020년 오늘의 공포와 경이를 보다\n눈이 멀듯한 불꽃의 신을 내게 강림시킬 수 있다면!\n\n한국의 대표 SF 작가들이\n오마주와 전복으로 다시 창조하는 \nH. P. 러브크래프트의 세계\n\n김보영, 김성일, 박성환, 송경아, 은림, 이서영, 이수현, 홍지운 그리고 최재훈\n9인의 작가가 호러문학의 거장 러브크래프트의 세계관을 오마주하며\n2020년 우리의 현실 속 공포와 경이를 그려냅니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "알마",
+                "DDC": "",
+                "UPDATE_DATE": "20200609",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이수현",
+                "SERIES_TITLE": "FoP",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791159922466",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "114*189",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "133 p.",
+                "CONTROL_NO": "CIP2020014747",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159923029",
+                "INPUT_DATE": "20200409",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "외계 신장",
+                "PUBLISH_PREDATE": "20200530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

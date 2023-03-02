@@ -1,0 +1,67 @@
+{
+    "otitle": "새드엔딩에 안녕을",
+    "oauthor": "조현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "새드엔딩에 안녕을 (조현 소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445253982",
+                "image": "https://shopping-phinf.pstatic.net/main_3244525/32445253982.20221019114723.jpg",
+                "author": "조현",
+                "discount": "12150",
+                "publisher": "폭스코너",
+                "pubdate": "20181231",
+                "isbn": "9791187514213",
+                "description": "무한한 삶의 우주를 열어주는 우주행 차표 같은 이야기!\n\n무한한 가능성의 세계에서 펼쳐지는 아이덴티티와 사랑에 관한 일곱 편의 이야기를 담은 조현의 소설집 『새드엔딩에 안녕을』. 《누구에게나 아무것도 아닌 햄버거의 역사》로 주목받은 저자가 7년 만에 펴낸 소설집으로, 그간 다양한 매체에 발표한 소설들을 엮었다. 은하철도 999, 홍게들의 대이동, 아라비아의 민담, 마법의 주문, 가상현실 프로그램, 쿼크 입자의 운동, 갯바위 낚시 등 범상하지 않은 소재와 미스터리, SF, 민담, 동화 등 다양한 장르적 외피를 활용해 써내려간 작품들을 만나볼 수 있다. 지적 유희와 깊은 정서적 울림, 그리고 스타일리시한 문체가 조화롭게 담겨 있어 한국 문학의 독특한 한 성취를 만날 수 있는 소설집이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "폭스코너",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20190109",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 조현",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7054301_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7054301_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "138*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "290 p.",
+                "CONTROL_NO": "CIP2018040496",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187514213",
+                "INPUT_DATE": "20181210",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "새드엔딩에 안녕을",
+                "PUBLISH_PREDATE": "20181231",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

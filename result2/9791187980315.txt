@@ -1,0 +1,67 @@
+{
+    "otitle": "마흔의 시간관리",
+    "oauthor": "오츠카 히사시 저/정윤아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마흔의 시간관리 (일과 가정 그리고 삶을 지키는 50가지 실천)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466848131",
+                "image": "https://shopping-phinf.pstatic.net/main_3246684/32466848131.20220527040148.jpg",
+                "author": "오쓰카 히사시",
+                "discount": "0",
+                "publisher": "반니라이프",
+                "pubdate": "20170830",
+                "isbn": "9791187980315",
+                "description": "아껴도, 아껴도 항상 부족한 시간. 똑같은 24시간을 살아가는 데 왜 항상 마흔을 살아가는 내 시간만 부족한 것일까? ‘혹시 누군가 내 시간을 훔치고 있는 것은 아닐까?’ 우리 사회의 40대는 상사이자 부하, 가장이자 직원, 부모이자 자녀로서 양립(兩立)의 삶을 살아간다. 그러다 보니 항상 시간에 ?기며, 만성적인 시간 부족 현상에 시달리게 된다. 이 책은 구조적으로 시간이 부족한 우리 시대 40대 직장인들에게 전하는 시간 관리 지침서다. ‘마흔’의 시간을 먼저 경험한 1만 명의 인생 선배들이 마흔을 앞둔, 혹은 40대를 살아가는 직장인들에게 들려주는 시간 관리에 대한 50가지 지혜를 담고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니라이프 :반니",
+                "DDC": "179.9",
+                "UPDATE_DATE": "20171011",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "오츠카 히사시 지음 ;정윤아 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "199.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6327725_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6327725_3.jpg",
+                "PRE_PRICE": "14500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "CIP2017021242",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187980315",
+                "INPUT_DATE": "20170821",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "마흔의 시간관리",
+                "PUBLISH_PREDATE": "20170830",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "수학은 어렵지만 미적분은 알고 싶어",
+    "oauthor": "요비노리 다쿠미 저/이지호 역/전국수학교사모임 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "수학은 어렵지만 미적분은 알고 싶어",
+                "link": "https://search.shopping.naver.com/book/catalog/32473247645",
+                "image": "https://shopping-phinf.pstatic.net/main_3247324/32473247645.20230217105434.jpg",
+                "author": "요비노리 다쿠미",
+                "discount": "12100",
+                "publisher": "한스미디어",
+                "pubdate": "20201020",
+                "isbn": "9791160075335",
+                "description": "수포자라도 1시간이면 이해할 수 있는 세상에서 가장 쉬운 미적분 강의. 학과 물리를 학원 선생님처럼 알기 쉽게 설명하며 인기를 얻은 일본의 교육 분야 유튜버 요비노리 다쿠미가 누구나 1시간 만에 미적분의 원리를 이해할 수 있도록 대화 방식으로 설명한 내용을 정리한 책이다.\n\n \n\n미적분은 고등학교 수학 중에서도 수학 자체의 매력과 재미가 응축되어 있는 단원이지만 안타깝게도 수포자를 가장 많이 만들어내는 어려운 단원이기도 하다. 저자는 사람들이 가장 어렵게 느끼는 미적분의 개념과 원리를 누구나 짧은 시간에 파악할 수 있도록 가상의 문답식 대화로 이뤄진 1시간짜리 강의를 완성했다.\n\n\n\n수학에 좌절한 사람들은 대개 수학을 공부할 때 어떻게든 ‘수식 상태 그대로’ 외워서 이해하려는 경우가 많다. 하지만 저자는 자신의 전공이었던 물리의 관점에서 현실 세계와 연결지어 설명하는 방식을 취한다. 즉 초등학생이 처음 덧셈을 배울 때 사과 두 개를 그림으로 보여주면서 설명하는 것처럼 구체적인 이미지를 떠올릴 수 있는 예를 들어서 친절하게 설명하는 식이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어 :한즈미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20201106",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "요비노리 다쿠미 지음 ;이지호 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "196 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160075335",
+                "INPUT_DATE": "20200914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(수학은 어렵지만) 미적분은 알고 싶어",
+                "PUBLISH_PREDATE": "20201020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

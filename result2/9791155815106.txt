@@ -1,0 +1,67 @@
+{
+    "otitle": "천재가 어딨어?",
+    "oauthor": "그랜트 스나이더 저/공경희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "천재가 어딨어? (아이디어를 찾아 밤을 지새우는 창작자들에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/33744840636",
+                "image": "https://shopping-phinf.pstatic.net/main_3374484/33744840636.20221019105609.jpg",
+                "author": "그랜트 스나이더",
+                "discount": "13320",
+                "publisher": "윌북",
+                "pubdate": "20220801",
+                "isbn": "9791155815106",
+                "description": "〈뉴욕 타임스〉, 〈뉴요커〉에서 전 세계 아티스트들에게 영감을 준 바로 그 만화\n《책 좀 빌려줄래?》, 《샤워를 아주아주 오래 하자》를 탄생시킨 아이디어의 보고\n\n아이디어를 찾아 밤을 지새우는 모든 창작자들을 위한 카툰 에세이. 백지 앞에서, 빈 파일 앞에서 떨어본 사람들이라면 100% 공감할 환희와 공포의 순간들이 만화경처럼 펼쳐진다.\n치과 의사로 살아가던 저자 그랜트 스나이더는 ‘피너츠’에 열광했던 어린 시절을 떠올리고 퇴근 후 매일 만화를 그리기 시작했다. 〈뉴욕 타임스〉에 만화를 연재하면서 인기를 모은 그는 ‘날마다 기발한 아이디어’가 어떤 과정을 통해 탄생하는지 탐구하기로 한다. 그 결과 탄생한 책이 바로 《천재가 어딨어?》다. \n저자에 따르면 아이디어란 하늘에서 뚝 떨어지는 것이 아닌 ‘생각하는 노동의 시간’과 ‘기술적 연습’이 차곡차곡 쌓여 만들어지는 단단한 물질과 같은 것이다. 이 책은 아이디어를 찾아 헤매는 과정에서 우리가 느끼는 기쁨, 순수한 경탄, 공포, 좌절, 우울, 막막함, 감동 등을 촌철살인의 만화에 응축해 담았다. 끊임없이 기록하고, 재료를 찾고, 열망하고, 사색하고, 탐구하고, 모방할 때 비로소 찾아오는 것. 오늘도 아이디어를 찾아 기약 없는 여정을 떠나는 창작자들의 웃기고도 슬픈 이 애환의 이야기를 읽고 있으면 어느새 머릿속에 작은 생각의 불이 ‘반짝’ 켜진다. 절망은 있어도 포기는 없다. 아이디어에 천재가 어딨겠는가? 그냥 한 걸음씩 헤쳐나갈 뿐이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 그랜트 스나이더;역자 : 공경희;",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/07/f20220701Hfuk.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "153*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "144",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155815106",
+                "INPUT_DATE": "20220701",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "천재가 어딨어",
+                "PUBLISH_PREDATE": "20220730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

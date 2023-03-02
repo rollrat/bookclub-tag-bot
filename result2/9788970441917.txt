@@ -1,0 +1,67 @@
+{
+    "otitle": "바이오마이메틱스",
+    "oauthor": "윤실 편저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바이오마이메틱스 : 생체모방공학 (자연에서 신기술을 배운다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466557359",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466557359.20221230074533.jpg",
+                "author": "윤실",
+                "discount": "0",
+                "publisher": "전파과학사",
+                "pubdate": "19971230",
+                "isbn": "9788970441917",
+                "description": "자연의 생물체로부터 인류 생존에 필요한 여러 가지 기술과 지혜를 배우는 BIOMIMETICS(생체 모방공학)을 설명한 책. 생체모방공학 연구는 이제 시작이다, 비행동물에게서 배우는 항공역학과 비행신기술, 터널파는 기술은 조개에게서 등 89편을 묶었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19971217",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "윤실 편저",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "8000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970441913",
+                "INPUT_DATE": "19971217",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "바이오마이메틱스",
+                "PUBLISH_PREDATE": "19971230",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

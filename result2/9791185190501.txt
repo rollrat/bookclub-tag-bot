@@ -1,0 +1,67 @@
+{
+    "otitle": "빛이 드는 법",
+    "oauthor": "루이즈 페니 저/안현주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "빛이 드는 법",
+                "link": "https://search.shopping.naver.com/book/catalog/32454867666",
+                "image": "https://shopping-phinf.pstatic.net/main_3245486/32454867666.20221019145319.jpg",
+                "author": "루이즈 페니",
+                "discount": "14220",
+                "publisher": "피니스 아프리카에",
+                "pubdate": "20211110",
+                "isbn": "9791185190501",
+                "description": "가마슈 경감의 일대 위기\n\n길을 잃은 사람들만이 발견하는 퀘벡의 어느 작은 마을 스리 파인스. 그리고 이제 그 사람 중 하나가 사라졌다.\n가마슈 경감은 자신이 이끄는 살인 수사과가 최대 위기에 봉착했음에도 불구하고 자신이 좋아하는 그 작은 마을로 향한다. 거기서 그는 한때 세계에서 가장 유명한 사람 중 하나였던 여인의 실종을 알게 된다. 그 여인은 마침내 피난처를 찾았다고 생각했지만 그녀의 과거가 그곳으로 그녀를 쫓아왔다. 그리고 공포가 고조되는 가운데 가마슈는 역시 자신의 뒤를 쫓는 끔찍한 무언가를 알아챈다. 적들이 포위해 오는 와중에 아르망 가마슈는 살인 사건을 해결해야 하고, 좀처럼 의지가 되지 않는 협력자들과 함께 수십 년간 진행되어 왔던 음모를 막아야 한다. 하지만 시간이 없다. 그리고 예전 안식처였던 곳이 감옥이 된다.\n\n*** 레프티 상 수상작\n*** 에드거, 대거, 애거사, 매커비티, 굿리즈 초이스, 리뷰어스 초이스 상 후보작"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "피니스 아프리카에",
+                "DDC": "",
+                "UPDATE_DATE": "20211116",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "루이즈 페니 지음 ;안현주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "139*197",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "607 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185190501",
+                "INPUT_DATE": "20211014",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "빛이 드는 법",
+                "PUBLISH_PREDATE": "20211110",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

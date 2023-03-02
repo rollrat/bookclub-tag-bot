@@ -1,0 +1,67 @@
+{
+    "otitle": "그동안 뭐하고 살았지, 바이크도 안 타고",
+    "oauthor": "유주희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그동안 뭐하고 살았지, 바이크도 안 타고 (40대 직장인 비혼 라이더의 기쁨과 앞으로 더 커질 기쁨에 관해)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496568636",
+                "image": "https://shopping-phinf.pstatic.net/main_3249656/32496568636.20221229072238.jpg",
+                "author": "유주희",
+                "discount": "12600",
+                "publisher": "팜파스",
+                "pubdate": "20200825",
+                "isbn": "9791170263524",
+                "description": "홀가분하게 \n확실한 행복으로 가는 길, 바이크 라이프\n\n무탈하지만 문득 공허한 날에는 뭘 하고 싶으신가요. 유주희 작가는 바이크를 타는 게 가장 좋아서, 바이크를 건넵니다. 〈서울경제〉에서 ‘두유바이크’라는 이름으로 게재되고 있는 칼럼의 핵심을 꼽아 바이크의 세계로 인도합니다. 그리고 바이크 이야기를 핑계로 잊었던 삶의 태도들을 건네 봅니다. 주말 아침에 느긋하게 일어나 눌린 머리는 헬멧으로 가리고, 바이크를 타고 마카롱 전문점에 가서 간식을 공수해 오는 것. 그것처럼 간단하지만 쉽게 잊기 마련인 것에 관한 이야기인데, 마카롱만큼이나 가볍고 확실한 행복에 대한 이야기이기도 합니다. 홀가분하면서도 확실한 행복으로 가는 길을 함께 달리고 싶은 당신에게 이 책을 권합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20200909",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "유주희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "556.775",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "224 p.",
+                "CONTROL_NO": "CIP2020031397",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170263524",
+                "INPUT_DATE": "20200728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "그동안 뭐하고 살았지, 바이크도 안 타고",
+                "PUBLISH_PREDATE": "20200825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "서울에 내 방 하나",
+    "oauthor": "권성민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "서울에 내 방 하나 (손 닿는 만큼 어른이 되어가는 순간들 | 권성민 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504740056",
+                "image": "https://shopping-phinf.pstatic.net/main_3250474/32504740056.20221019110103.jpg",
+                "author": "권성민",
+                "discount": "14220",
+                "publisher": "해냄출판사",
+                "pubdate": "20200525",
+                "isbn": "9788965749981",
+                "description": "혼자의 자취가 우리의 자립이 되기까지\n인생의 자취를 결심한 당신에게 들려주는 의연한 날들의 기록\n\n1인 가구가 늘어나고 홀로서기를 시도하는 사람들이 많아지는 요즘. 자립은 나를 지키며 행복한 삶을 살기 위한 필수 요소가 되었다. 삶을 꾸려나가며 생기는 크고 작은 문제를 혼자서 해결하고 책임질 수 있을 때 우리는 ‘진짜 어른’이 된다. 이에 스무 해에 이르는 동안 자신만의 단단한 자립 생활을 이어온 권성민 피디는 『서울에 내 방 하나』를 통해 홀로서기를 결심한 이들에게 담담한 응원을 건넨다. 이 책은 중학교를 졸업하면서부터 독립해 스무 살에 서울에 올라와 ‘자취하는 인간’으로 살아온 저자가 경험했던 어른이 되어가는 순간들을 기록하고 현재의 삶을 그려나가는 에세이다.\n\n이 책은 총 4장으로 구성되어 있다. 1장 ‘자립의 순간은 문득’에서는 어느 날 문득 자신이 어른이 되었음을 깨닫는 순간들을 포착했다. 2장 ‘문밖으로 나가면’은 사회 속에서의 자립이란 무엇인지 살펴봤다. 자아실현과 밥벌이 사이에서 일이 가지는 의미, 타인과의 관계 맺기에 대한 고민이 담겨 있다. 3장 ‘단단한 홀로서기를 위한 도구들’에서는 자립 과정에서 흔들리고 힘이 들 때 의지가 되었거나 도움을 주었던 것들에 대해 이야기했다. 마지막으로 4장 ‘손이 더 멀리 닿을 수 있도록’에서는 ‘좋은 어른’의 의미와 함께 결국 어떻게 살아갈 것인가에 대한 생각을 진솔하게 풀어놓았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "해냄",
+                "DDC": "",
+                "UPDATE_DATE": "20200603",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "지은이: 권성민",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/05/11/9788965749981.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "277 p.",
+                "CONTROL_NO": "CIP2020019130",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965749981",
+                "INPUT_DATE": "20200511",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "서울에 내 방 하나",
+                "PUBLISH_PREDATE": "20200525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

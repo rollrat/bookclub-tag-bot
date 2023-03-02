@@ -1,0 +1,67 @@
+{
+    "otitle": "자전거 여행 바이블 수도권편",
+    "oauthor": "이준휘 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "자전거 여행 바이블: 수도권편 (꼭 한 번 달려봐야 할 수도권 자전거길 49선)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472154855",
+                "image": "https://shopping-phinf.pstatic.net/main_3247215/32472154855.20221019132618.jpg",
+                "author": "이준휘",
+                "discount": "13830",
+                "publisher": "꿈의지도",
+                "pubdate": "20210525",
+                "isbn": "9791189469993",
+                "description": "수도권의 자전거 타기 좋은 길 49곳을 안내하는 가이드북. 자린이의 첫나들이 한강자전거길을 필두로 서울을 비롯한 인천, 경기권의 자전거 코스를 안내한다. 이 책에 소개된 코스를 모두 달리면 수도권 주요 자전거길은 대부분 섭렵한 것이다. 자전거길마다 안내도, 고도표, 주행로그, 코스 접근, 보급 및 식사, 여행 정보 등 상세한 정보를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20210726",
+                "EA_ADD_CODE": "13980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "이준휘 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "325 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189469993",
+                "INPUT_DATE": "20210408",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "자전거 여행 바이블",
+                "PUBLISH_PREDATE": "20210525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

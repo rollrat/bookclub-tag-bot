@@ -1,0 +1,78 @@
+{
+    "otitle": "사씨남정기 - 한국문학읽다",
+    "oauthor": "김만중 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:18 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "한국 고전문학 읽기 3: 사씨남정기",
+                "link": "https://search.shopping.naver.com/book/catalog/32485530215",
+                "image": "https://shopping-phinf.pstatic.net/main_3248553/32485530215.20221019151504.jpg",
+                "author": "김이정",
+                "discount": "8550",
+                "publisher": "주니어김영사",
+                "pubdate": "20120411",
+                "isbn": "9788934956761",
+                "description": "『한국 고전문학 읽기』제3권＜사씨남정기＞. 조선 숙종 때 문신 김만중이 지은 한글 소설이자, 처첩 간의 갈등을 그린 가정 소설의 효시로 평가 받는 작품이다. 간사한 첩 교씨가 정숙한 본처 사씨를 모함하여 내쫓지만, 결국 모든 진실이 밝혀져 사씨는 다시 본처가 되고 교씨는 죽음으로 죗값을 치른다. 이야기 배경은 중국 명나라로 설정하고 있으나, 당시 숙종이 장 희빈에 홀려 인현 왕후를 폐하고 장 희빈을 중전에 책봉한 것을 풍자한 작품이다."
+            },
+            {
+                "title": "사씨남정기,용문전,김인향전(한국고전문학100 27)",
+                "link": "https://search.shopping.naver.com/book/catalog/35299859729",
+                "image": "https://shopping-phinf.pstatic.net/main_3529985/35299859729.20221018133940.jpg",
+                "author": "김기동 외편",
+                "discount": "6300",
+                "publisher": "서문당",
+                "pubdate": "19840901",
+                "isbn": "9788972430773",
+                "description": "우리 조상들의 삶과 문화를 보여주는 작품으로, 당시의 시대적 상황과 관습을 극복한 주인공들의 이야기가 감동을 불러 일으킨다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "김영사",
+                "DDC": "",
+                "UPDATE_DATE": "20120726",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김이정 글 ;노성빈 그림",
+                "SERIES_TITLE": "한국 고전문학 읽기 ",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20120329",
+                "TITLE_URL": "",
+                "PRE_PRICE": "9500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "12000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "3",
+                "EA_ISBN": "9788934956761",
+                "INPUT_DATE": "20120321",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사씨남정기 ",
+                "PUBLISH_PREDATE": "20120329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

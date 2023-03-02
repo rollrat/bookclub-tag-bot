@@ -1,0 +1,67 @@
+{
+    "otitle": "과탑이 알려 주는 대학 생활 한 권으로 끝내기",
+    "oauthor": "조유림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과탑이 알려 주는 대학 생활 한 권으로 끝내기 (어서와, 대학은 처음이지?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492947926",
+                "image": "https://shopping-phinf.pstatic.net/main_3249294/32492947926.20221230072119.jpg",
+                "author": "조유림",
+                "discount": "11520",
+                "publisher": "든든한서재",
+                "pubdate": "20201026",
+                "isbn": "9791197192906",
+                "description": "과탑만 무려 5번이나 한 저자가 대학생들을 대상으로 대학 생활을 총망라하는 노하우를 알려 준다. 숨은 장학금 찾기, 학점 관리, 교수님 성향 파악하기부터 효과적인 시간 관리하는 법과 진로 찾기까지 상세하게 담았다. 뿐만 아니라 대학생이라서 누릴 수 있는 다양한 혜택과 취미 생활에 대해서도 이야기한다. 이를 따라가다 보면 쉽게 알 수 없었던 정보를 얻을 수 있고, 누구든지 성공적인 대학 생활을 할 수 있다.\n\n『과탑이 알려 주는 대학 생활 한 권으로 끝내기』는 평범한 것, 뻔하다고 생각해서 놓칠 수 있는 대학 생활을 샅샅이 파헤친다. 4년 간 대학 생활에 고군분투한 저자의 경험을 바탕으로, 대학생이라면 놓치지 말아야 할 팁들을 모두 전한다. 그동안 대학 생활을 하면서 궁금했던 바를 속시원히 해결하는 시간이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "든든한 서재",
+                "DDC": "",
+                "UPDATE_DATE": "20201120",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "https://blog.naver.com/reliablestudy",
+                "AUTHOR": "조유림 지음",
+                "SERIES_TITLE": "",
+                "KDC": "377.25",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/10/05/9791197192906.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "141 p.",
+                "CONTROL_NO": "CIP2020042074",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197192906",
+                "INPUT_DATE": "20201005",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "과탑이 알려 주는 대학 생활 한 권으로 끝내기",
+                "PUBLISH_PREDATE": "20201026",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "아이가 똑똑한 집 아빠부터 다르다",
+    "oauthor": "김영훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아이가 똑똑한 집 아빠부터 다르다 (EBS 육아멘토 김영훈 박사의 두뇌육아)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441645701",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441645701.20220527045351.jpg",
+                "author": "김영훈",
+                "discount": "15120",
+                "publisher": "베가북스",
+                "pubdate": "20170524",
+                "isbn": "9791186137482",
+                "description": "김영훈 박사가 30년 뇌과학 연구로 밝힌 '아빠의 두뇌육아' 결정판\n\n아빠의 양육이 단순히 아이의 성격뿐만 아니라, 성적, 감성, 리더십, 공감능력, 끈기 등에도 영향을 미친다는 과학논문들이 활발하게 발표되어있다. 또한 우리네 아빠들 사이에서도 그런 사실은 이미 널리 인지되어 있다. 그럼에도 불구하고 아빠들이 실제 양육과 교육의 현장에서 보여주고 있는 참여도는 안타깝게도 저조하고 엄마들이 보기에도 아직은 아쉽다. 그 원인은 어디에 있을까?\n\n수많은 공중파 방송 프로그램과 폭넓은 강연을 통해 ‘아빠효과‘를 본격 전파해온 김영훈 박사는 이 책에서 국내 최초로 뇌와 아빠두뇌육아의 연결고리를 찾아내 과학적으로 알기 쉽게 설명해주며, 아빠두뇌육아를 ‘업그레이드’시킬 수 있는 구체적인 방안, 실생활에 적용할 수 있는 다양한 방법들을 제시한다. 또한 아이를 위한 피부마사지 방법, 걸음마를 발달시키는 방법, 월령별 책 고르는 방법, 장난감 고르는 방법, 미술놀이 100배 즐기기 등, 마치 아빠들을 위한 족집게 과외처럼 필요한 내용만 쏙쏙 골라 읽을 수 있도록 구성했다.\n\n아이를 안는 것조차 서먹서먹한 초보 아빠라도 얼마든지 ‘아빠두뇌육아’를 익힐 수 있다. 아빠의 육아는 그냥 주어지는 게 아니다. 배우고 익히고 연습하면서 키우는 것이다. 아빠육아의 A부터 Z까지를 이 책에서 상세하게 배우고 실천하자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "베가북스",
+                "DDC": "649.1",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "www.vegabooks.co.kr",
+                "AUTHOR": "김영훈",
+                "SERIES_TITLE": "",
+                "KDC": "598.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6219127_3.jpg",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6219127_5.txt",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "400",
+                "CONTROL_NO": "CIP2017011159",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186137482",
+                "INPUT_DATE": "20170510",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "N",
+                "TITLE": "아이가 똑똑한 집, 아빠부터 다르다",
+                "PUBLISH_PREDATE": "20170524",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "쇼펜하우어, 돌이 별이 되는 철학",
+    "oauthor": "이동용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쇼펜하우어, 돌이 별이 되는 철학 (나를 마주하는 당당한 철학,읽기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496533013",
+                "image": "https://shopping-phinf.pstatic.net/main_3249653/32496533013.20220527043313.jpg",
+                "author": "이동용",
+                "discount": "0",
+                "publisher": "동녘",
+                "pubdate": "20141107",
+                "isbn": "9788972977247",
+                "description": "우리가 잘못 알고 있는 쇼펜하우어 바로 읽기!\n\n『쇼펜하우어, 돌이 별이 되는 철학』은 쇼펜하우어를 둘러싼 수많은 오해를 바로 잡고, 쇼펜하우어의 사상이 가진 진가를 전달한 책으로, 쇼펜하우어의 《의지와 표상으로서의 세계》에 담긴 그의 사상적 맥락을 이해하는 것이 핵심이다. 쇼펜하우어 사상의 뿌리가 된 칸트의 철학을 비롯해, 플라톤, 아리스토텔레스, 헤겔, 니체의 철학을 언급하고, 이들의 철학과 쇼펜하우어 철학의 차이점을 밝히며 쇼펜하우어 사상을 좀 더 명확하게 보여준다. \n\n또한 《의지와 표상으로서의 세계》의 네 가지 모토인 루소, 《파우스트》, 플라톤, 《우파니샤드》의 인용구를 언급하며 쇼펜하우어 철학의 핵심만을 명쾌하게 설명한다. 더불어 클림트와 호도비에키, 뒤러, 로세티, 라파엘로, 다비드 등의 그림과 그 외 조각 작품들, 그리고 영화화 된 움베르토 에코의 《장미의 이름》을 비롯한 다양한 장르의 예술과도 풍부하게 엮어냈다. 이 책을 읽다보면, 우리자 쇼펜하우어를 지금 다시 읽어야 하는 이유를 알 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)동녘",
+                "DDC": "193",
+                "UPDATE_DATE": "20150105",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "이동용",
+                "SERIES_TITLE": "",
+                "KDC": "165.47",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4024198_3.jpg",
+                "PRE_PRICE": "18,000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4024198_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014029032",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972977247",
+                "INPUT_DATE": "20141008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "쇼펜하우어, 돌이 별이 되는 철학",
+                "PUBLISH_PREDATE": "20141107",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

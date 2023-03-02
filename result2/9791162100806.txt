@@ -1,0 +1,67 @@
+{
+    "otitle": "엄마소리가 말했어",
+    "oauthor": "오승한 글/이은이 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엄마소리가 말했어",
+                "link": "https://search.shopping.naver.com/book/catalog/32440672052",
+                "image": "https://shopping-phinf.pstatic.net/main_3244067/32440672052.20221229071738.jpg",
+                "author": "오승한",
+                "discount": "13500",
+                "publisher": "바람의아이들",
+                "pubdate": "20200615",
+                "isbn": "9791162100806",
+                "description": "엄마와 아이의 대화를 통해 곧 엄마와 아이가 주고받는 사랑을 이야기하고 있다. 자음(子音)과 모음(母音)을 언어유희를 이용해 아이 소리와 엄마 소리로 풀어낸 다음, 자음과 모음이 어울려 언어가 되는 과정을 대화로 구성했다. 이때 아이 소리는 다시 한글 자음 하나하나의 이름으로 불리는데 기역이, 니은이, 디귿이 등등의 이름을 가진 아이들은 같은 초성으로 시작하는 부정적 언어를 나열하며 투덜거린다. 그러면 엄마소리가 이번에는 똑같은 초성으로 시작하는 긍정적 언어를 제시해준다.\n\n\n\n“가난해, 그저 그래”처럼 기역이 들어간 말 중에는 좋은 말이 없다고 불평하는 기역이에게 “기역이 있어야 길이 있고 걸을 수 있고 같이 갈 수 있다”고 일러주는 식이다. 엄마소리는 맨날 받침으로만 쓰여서 속상한 리을(ㄹ)에게는 앞에 있어야만 훌륭한 것이 아니라는 조언도 해주고(리을이 있어야 부를 수 있고 갈 수 있고 머물 수 있으니까), 너무 세 보일까 봐 의기소침한 키읔(ㅋ)에게 타고난 것은 다 다르다며 토닥토닥 위로의 말을 건넨다.\n\n\n\n불평불만과 위로, 자기 비하와 인정 사이를 시계추처럼 왔다 갔다 하는 대화를 부드럽게 감싸주는 것은 이은 작가가 만든 헝겊 인형들이다. &lt;엄마소리가 말했어&gt;에서는 ㄱㄴㄷ 자음들의 울상도, 엄마소리의 따뜻한 메시지도 헝겊 인형으로 만들어 그림을 대신했다. 잔털이 살아 있는 헝겊의 질감과 폭신한 인형의 양감이 엄마와 아이 사이에 오가는 감정을 부드럽고 따뜻하게 표현해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바람의아이들",
+                "DDC": "",
+                "UPDATE_DATE": "20200728",
+                "EA_ADD_CODE": "74800",
+                "PUBLISHER_URL": "https://www.barambooks.net/",
+                "AUTHOR": "오승한 글 ;이은이 그림",
+                "SERIES_TITLE": "알맹이 그림책 시리즈",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788990878090",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "200*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[56] p.",
+                "CONTROL_NO": "CIP2020018751",
+                "SERIES_NO": "49",
+                "EA_ISBN": "9791162100806",
+                "INPUT_DATE": "20200507",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "엄마소리가 말했어",
+                "PUBLISH_PREDATE": "20200615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "otitle": "재미있는 세계사 이야기 1",
+    "oauthor": "남동현 글/서용남 그림/서울대학교 뿌리깊은 역사나무 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재미있는 교양 역사이야기 1",
+                "link": "https://search.shopping.naver.com/book/catalog/32466689948",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466689948.20220527045245.jpg",
+                "author": "김민철",
+                "discount": "9000",
+                "publisher": "철학과현실사",
+                "pubdate": "20180420",
+                "isbn": "9788977758087",
+                "description": "역사적인 옛날 이야기에 대한 책입니다,"
+            }
+        ]
+    }
+}

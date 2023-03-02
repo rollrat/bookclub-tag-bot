@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 뉴질랜드에서 일한다",
+    "oauthor": "정진희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 뉴질랜드에서 일한다 (소확행을 위한 해외 취업, 실전 뉴질랜드 생존기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492174107",
+                "image": "https://shopping-phinf.pstatic.net/main_3249217/32492174107.20221229071206.jpg",
+                "author": "정진희",
+                "discount": "13500",
+                "publisher": "이담북스",
+                "pubdate": "20190131",
+                "isbn": "9788926886946",
+                "description": "뉴질랜드는 ‘소확행’을 누릴 수 있는 나라일까?\n한국을 떠나 뉴질랜드로 향한 이들에게 전하는\n지극히 현실적인 뉴질랜드 취업 & 생활기!\n\n뉴질랜드로 무작정 떠나기 전에, 그곳의 삶이 내가 꿈꾸던 삶의 모습인지 점검해야 합니다. 그렇기에 뉴질랜드 취업을 도전하기 전에 스스로 질문을 던져보는 것은 중요한 일입니다. ‘나는 해외 취업으로 무엇을 얻고자 하는가?’, ‘나는 왜 해외에 살고 싶은가?’, ‘내 삶에 중요한 건 무엇인가?’, ‘나는 무엇을 좋아하는 사람인가?’, ‘나는 어떤 사람인가?’…. 이와 같은 질문으로 뉴질랜드 취업과 이민에 대해 근본적으로 점검해보는 것입니다. 이 책을 통해 이러한 질문에 대한 답을 찾아가는 과정에 도움을 받을 수 있길 바랍니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20190218",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "정진희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "297 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926886946",
+                "INPUT_DATE": "20190207",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "나는 뉴질랜드에서 일한다",
+                "PUBLISH_PREDATE": "20190131",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

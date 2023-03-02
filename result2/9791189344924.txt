@@ -1,0 +1,67 @@
+{
+    "otitle": "가끔 엄마도 퇴근하고 싶다",
+    "oauthor": "이미선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가끔은 엄마도 퇴근하고 싶다 (버럭엄마의 독박육아 일기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466828890",
+                "image": "https://shopping-phinf.pstatic.net/main_3246682/32466828890.20221228072142.jpg",
+                "author": "이미선",
+                "discount": "13500",
+                "publisher": "믹스커피",
+                "pubdate": "20190702",
+                "isbn": "9791189344924",
+                "description": "퇴근 없는 육아에 시달리는\n대한민국 모든 엄마들의 이야기\n\n이 책은 독박육아를 하는 엄마가 두 남매를 키우며 겪은 에피소드와 감정을 유쾌하고 감동적으로 그려낸 육아 에세이다. 잠재되어 있는 화가 많아 스스로를 ‘버럭엄마’, ‘쓰레기 엄마’라고 부르는 저자는 육아를 혼자 도맡아 하는 ‘독박육아맘’ 중 한 사람이다. 출산·육아 전문 온라인 미디어 [리드맘]에서 메인 에디터로 일하며 반쪽 워킹맘으로 살고 있다. 이 책은 170만 뷰의 조회수를 기록한 [리드맘]의 인기 콘텐츠 ‘독박육아맘의 애 키우는 이야기’를 엮고 재밌는 에피소드를 추가했다. 육아에 대한 환상을 깨고 100% 리얼한 현실을 보여주며, 육아로 힘들어하는 당신과 옆집 엄마, 또 그 옆집 엄마들의 모습을 이 책에 그대로 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "믹스커피",
+                "DDC": "",
+                "UPDATE_DATE": "20190703",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이미선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "598.104",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "283 p.",
+                "CONTROL_NO": "CIP2019021500",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189344924",
+                "INPUT_DATE": "20190530",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "가끔은 엄마도 퇴근하고 싶다",
+                "PUBLISH_PREDATE": "20190702",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

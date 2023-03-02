@@ -1,0 +1,67 @@
+{
+    "otitle": "여성을 비추는 열 개의 거울",
+    "oauthor": "광화문 소셜클럽 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "여성을 비추는 열 개의 거울 (‘광화문 소설클럽’ 리뷰집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484554296",
+                "image": "https://shopping-phinf.pstatic.net/main_3248455/32484554296.20221230072115.jpg",
+                "author": "광화문 소설클럽",
+                "discount": "9000",
+                "publisher": "책봇에디스코",
+                "pubdate": "20200917",
+                "isbn": "9791197127007",
+                "description": "오랫동안 책읽기와 글쓰기를 삶의 한 축으로 삼고 있는 여성들의 독서클럽 ‘광화문 소설클럽’이 쓴 서평을 모았다. 이 책은 ‘가부장제 속 여성들’이란 주제로 두 시즌 동안 읽었던, 여성이 주인공인 명작을 여성의 눈으로 다시 읽어본 결과물이다. \n\n\n\n고전은 여성이 여성으로 사는 것이 얼마나 척박하고 굴욕적이었는지 적나라하게 보여준다. 또 아직도 실현하기 어려운 여성 캐릭터를 통해 여성의 미래를 제시하기도 한다. 이 책이 과거와 미래의 여성을 동시에 비추는 거울로 작동하기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책봇edisco(책봇에디스코)",
+                "DDC": "",
+                "UPDATE_DATE": "20200928",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 광화문 소설클럽",
+                "SERIES_TITLE": "",
+                "KDC": "843.09",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "118*180",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "107 p.",
+                "CONTROL_NO": "CIP2020032000",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791197127007",
+                "INPUT_DATE": "20200724",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "여성을 비추는 열 개의 거울",
+                "PUBLISH_PREDATE": "20200917",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

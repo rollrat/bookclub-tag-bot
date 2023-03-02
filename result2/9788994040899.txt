@@ -1,0 +1,67 @@
+{
+    "otitle": "아가씨 각본",
+    "oauthor": "정서경,박찬욱 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아가씨 각본",
+                "link": "https://search.shopping.naver.com/book/catalog/32486531420",
+                "image": "https://shopping-phinf.pstatic.net/main_3248653/32486531420.20221019120651.jpg",
+                "author": "정서경^박찬욱",
+                "discount": "10800",
+                "publisher": "그책",
+                "pubdate": "20160815",
+                "isbn": "9788994040899",
+                "description": "각본가와 관객, 그리고 독자와의 만남!\n\n『아가씨 각본』은 박찬욱 감독의 영화 〈아가씨〉의 각본을 엮은 책이다. 〈친절한 금자씨〉, 〈싸이보그지만 괜찮아〉, 〈박쥐〉에 이어 정서경 작가와 박찬욱 감독의 공동 집필로 쓰인 이 각본은, 섬세하고 울림이 있는 대사로 다시 한 번 독자들의 마음을 사로잡는다. 영화의 디테일한 결을 만들어낸 지시문과 해설을 읽는 재미 또한 남다르다. 이로써 독자는 『아가씨 각본』을 통해 ‘각본 읽기’의 즐거움을 새롭게 발견하게 될 것이다.\n\n각본집은 지시문과 해설, 대사로 이루어진 구성, 신(Scene)과 신 그리고 문장과 문장 사이에까지 호흡이 부과되는 과정, 문자와 여백을 읽으며 이미지를 상상하는 과정을 통해 저마다의 속도로 새롭게 영화를 이해할 수 있도록 도와준다. 영상매체인 영화보다 디테일하게 텍스트를 이해할 수 있는 각본집을 통해 많은 사랑을 받은 영화 속 각 캐릭터의 성격을 드러내면서 얽히고설킨 대사들을 다시 음미해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)그책",
+                "DDC": "895.725",
+                "UPDATE_DATE": "20160824",
+                "EA_ADD_CODE": "03680",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정서경, 박찬욱",
+                "SERIES_TITLE": "",
+                "KDC": "812.66",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5650767_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5650767_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5650767_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "180쪽 내외",
+                "CONTROL_NO": "CIP2016018650",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994040899",
+                "INPUT_DATE": "20160729",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "아가씨 각본",
+                "PUBLISH_PREDATE": "20160815",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

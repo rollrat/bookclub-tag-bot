@@ -1,0 +1,67 @@
+{
+    "otitle": "누구나 탐내는 실전 기획서",
+    "oauthor": "최성호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "누구나 탐내는 실전 기획서 (기획초보지만 기획서 한 번 만들어 보라는 지시가 두렵지 않아졌다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456244627",
+                "image": "https://shopping-phinf.pstatic.net/main_3245624/32456244627.20221230074810.jpg",
+                "author": "최성호",
+                "discount": "14400",
+                "publisher": "아틀라스북스",
+                "pubdate": "20210610",
+                "isbn": "9791188194292",
+                "description": "좋은 기획서를 만드는 지름길은 잘된 기획서 전체를 한 번 눈으로 직접 보는 데 있다. 기획의 달인이 아닌 이상 잘된 기획서를 벤치마킹하는 방법이 최선이라는 의미다. 그래서 이 책은 기획서 작성과정 전체를 한눈에 볼 수 있게 구성했다. 즉, 신규사업 기획업무를 지시받은 시점부터 기획서를 완성하는 단계까지의 모든 절차와 작성방법, 작성사례(파워포인트)를 통으로 한 권에 담았다.\n\n\n\n먼저 1장에서는 기획서의 설득력을 높여주는 기본 상식을 설명한다. 상사든 발주처든 상대를 설득할 수 없는 기획서는 아무 의미가 없으니 반드시 알고 있어야 할 정보들이다. 2~5장에서는 상사의 업무지시를 받고 첫 기획회의를 준비하는 단계부터, 자료를 구체화하는 단계, 목차를 구성하는 단계, 기획서를 최종적으로 완성할 때까지의 단계를 하나하나 좇아가며 실제 기획서가 만들어지는 과정을 생생하게 보여준다. \n\n\n\n일단 각 기획 단계별 문서작성의 핵심 노하우와 함께 어떤 자료를 어떻게 분석하고 배치하는 것이 가장 효과적인지를 쉽고 상세하게 설명한다. 당연히 설명만으로는 이해가 어렵다. 그래서 각 단계별 실제 PPT 작성사례를 통해 구조화 및 시각화 효과를 직접 눈으로 확인할 수 있게 했고, 여기에 각 사례별 작성 포인트까지 달아놓았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아틀라스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220125",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최성호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/05/28/9791188194292.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "312 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188194292",
+                "INPUT_DATE": "20210528",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(누구나 탐내는) 실전 기획서",
+                "PUBLISH_PREDATE": "20210610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

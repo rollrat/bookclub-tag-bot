@@ -1,0 +1,67 @@
+{
+    "otitle": "환장할 우리 가족",
+    "oauthor": "홍주현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "환장할 우리 가족 (정상 가족 판타지를 벗어나 ’나’와 ’너’의 가족을 위하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440843011",
+                "image": "https://shopping-phinf.pstatic.net/main_3244084/32440843011.20221230074220.jpg",
+                "author": "홍주현",
+                "discount": "13320",
+                "publisher": "문예출판사",
+                "pubdate": "20190430",
+                "isbn": "9788931011432",
+                "description": "『환장할 우리 가족』은 한국 사회의 ‘가족’이 갖는 배타적이고 억압적인 모습에 답답함을 느껴온 사람들을 위한 책이다. 국회에서 입법 및 정책 보좌관으로 일했던 저자 홍주현은 남편의 암 선고라는 자신의 경험을 통해 가족의 의미를 새롭게 돌아보고, ‘우리’가 아닌 ‘나’와 ‘너’가 존중받는 가족의 새로운 모습을 이 책에서 모색하고자 한다. ‘정상’ 가족과 ‘비정상’ 가족을 나누고 차별의 시선을 보내는 우리 사회의 편견에 맞서, 누구나 존중받는, 정신적으로 자립한 포용적이고 개방적인 공동체로서의 가족의 모습을 그려내고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문예출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20190510",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.moonye.com",
+                "AUTHOR": "홍주현 지음",
+                "SERIES_TITLE": "",
+                "KDC": "332.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "CIP2019013771",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931011432",
+                "INPUT_DATE": "20190328",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "환장할 우리 가족",
+                "PUBLISH_PREDATE": "20190425",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

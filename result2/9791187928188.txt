@@ -1,0 +1,67 @@
+{
+    "otitle": "아가씨 아카입",
+    "oauthor": "김영진,김수빈,김혜리,박찬욱,신형철,유지원,장윤성,정지혜,조재휘 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아가씨 아카입 (The Handmaiden Archive Book)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441035763",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441035763.20220527023000.jpg",
+                "author": "김영진^김수빈^김혜리^조아라^신형철",
+                "discount": "0",
+                "publisher": "그책",
+                "pubdate": "20170810",
+                "isbn": "9791187928188",
+                "description": "한 권으로 만나는 영화 《아가씨》의 모든 것!\n\n박찬욱 감독이 직접 참여하여 만든 영화 《아가씨》의 공식 메이킹북 『아가씨 아카입』. 기획부터 제작, 개봉, 그리고 그 이후를 아우른 영화 《아가씨》의 전 제작 과정을 꼼꼼하게 기록한 책으로, 수년간 오로지 《아가씨》만을 생각하며 달려온 이들의 모든 시간과 마음을 기록하고 기억하고자 한다.\n\n원작소설 《핑거스미스》를 읽고 박찬욱 감독에게 영화화를 제안한 임승용 대표와의 인터뷰, 제작 전반을 총괄한 네 명의 프로듀서 윤석찬, 김종대, 정원조, 이유정의 이야기, 류성희 미술감독, 조상경 의상감독, 정정훈 촬영감독 등 9명의 디렉터들의 이야기를 통해 제작진의 생생한 술회와 정확한 자료를 만나볼 수 있도록 했다. \n\n더불어 《씨네21》 편집위원 김혜리의 김태리, 하정우, 조진웅 배우 인터뷰, 《씨네21》 정지혜 기자의 김민희 배우론, 영화평론가 김영진의 박찬욱 감독론, 신형철 문학평론가의 평론 등의 풍성한 읽을거리를 제공한다. 한 편의 영화가 완성되기까지 얼마나 많은 사람들의 노력이 필요한지 고스란히 담아낸 이 책은 영화 《아가씨》를 좋아하는 독자는 물론 영화를 심도 있게 공부하려는 영화학도, 영화를 업으로 삼고 살아가는 영화인에게도 귀중한 자료로서 도움을 준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "그책",
+                "DDC": "791.43",
+                "UPDATE_DATE": "20170907",
+                "EA_ADD_CODE": "03680",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김영진,김수빈,김혜리,박찬욱,신형철,유지원,장윤성,정지혜,조재휘",
+                "SERIES_TITLE": "",
+                "KDC": "688.13",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6289489_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6289489_3.jpg",
+                "PRE_PRICE": "43000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*230",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "437 p.",
+                "CONTROL_NO": "CIP2017017640",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187928188",
+                "INPUT_DATE": "20170719",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "아가씨 아카입",
+                "PUBLISH_PREDATE": "20170810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

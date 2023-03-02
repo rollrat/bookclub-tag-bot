@@ -1,0 +1,67 @@
+{
+    "otitle": "모조 사회 2",
+    "oauthor": "도선우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:05 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모조 사회 2: 바스키아의 검은 고양이 (도선우 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484938630",
+                "image": "https://shopping-phinf.pstatic.net/main_3248493/32484938630.20221019151559.jpg",
+                "author": "도선우",
+                "discount": "12600",
+                "publisher": "나무옆의자",
+                "pubdate": "20191018",
+                "isbn": "9791161570754",
+                "description": "대재난 이후 300년, 인류가 도달한 두 개의 미래!\n\n2016년 겨울에서 2017년 봄, 계절이 한 번 바뀌는 사이에 문학동네소설상과 세계문학상 대상을 연달아 수상하며 두 편의 묵직한 장편소설로 독자에게 깊은 인상을 남긴 작가 도선우. 그가 문학상 수상작 『스파링』과 『저스티스맨』과는 소재와 장르가 전혀 다른 대작 장편소설 『모조 사회』(전2권)로 돌아왔다. 수년간 구상을 가다듬으며 쓰고 뒤엎고 다시 쓰기를 되풀이한 끝에 완성한 원고지 2700매, 단행본 770쪽에 달하는 이 소설은 대재난 이후 300년이 지난 미래, 지구상에서 인간이 살 수 있는 단 두 개의 대지인 ‘복지 자본 공동체’와 ‘모조 사회’를 배경으로 전개된다. \n\n대재난으로 멸망한 세상에서 기적적으로 생존한 인류는 가까스로 보존한 과학기술과 인간의 노동력을 바탕으로 새로 문명을 일으키지만, 사회 운영과 분배 방식에 대한 갈등으로 둘로 갈라져 상이한 방향으로 발전해간다. 2000년대 초반 대한민국의 수도권에서 살아가는 자신의 삶을 진짜라 믿는 주인공들은 어느 날 갑자기 이 낯선 세계와 맞닥뜨린다. 고도의 과학기술이 이루어낸 경이로운 세계 앞에서 그들은 혼란과 경외감을 느끼며 혹시 자신들이 한순간에 미래로 떨어진 것이 아닌가 생각한다. 하지만 그것은 차원 이동도 평행우주도 아닌 그때까지 몰랐던 현실이었으며, 그들의 진짜 삶에 관한 믿기지 않는 이야기의 시작이었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무옆의자",
+                "DDC": "",
+                "UPDATE_DATE": "20191030",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 도선우",
+                "SERIES_TITLE": "",
+                "KDC": "331.5412",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791161570730",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "410 p.",
+                "CONTROL_NO": "CIP2019038987",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161570754",
+                "INPUT_DATE": "20191001",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "모조 사회",
+                "PUBLISH_PREDATE": "20191018",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

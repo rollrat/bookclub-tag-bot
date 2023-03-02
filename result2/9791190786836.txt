@@ -1,0 +1,67 @@
+{
+    "otitle": "구백구 상담소",
+    "oauthor": "소복이 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "구백구 상담소 (옥탑방 909호의 오묘한 위로)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505130996",
+                "image": "https://shopping-phinf.pstatic.net/main_3250513/32505130996.20230131163200.jpg",
+                "author": "소복이",
+                "discount": "13500",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20200618",
+                "isbn": "9791190786836",
+                "description": "옥탑방 909호의 구백구 상담소, 어떤 고민이든 상담해드립니다\n\n“하루 종일 누워 있고만 싶어요.” “시간을 천천히 가게 할 수 없나요?” 어쩔 수 없는 고민도, 이상한 고민도 OK! 일단 털어놓기만 해도 조금은 마음이 편해지는 구백구 상담소가 문을 열었다. 보라색 모자를 쓴 상담사가 커피를 내리며 손님을 기다리는 옥탑방 909호. 단호한 눈빛에 직선적인 말투로 손님들이 털어놓는 다양한 고민에 오묘한 해법을 찾아주는 것이 이 상담사의 매력이다. 정답 없는 문제로 고민하고 있다면 구백구 상담소의 이야기에 귀를 기울여보는 것이 어떨까."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20200728",
+                "EA_ADD_CODE": "07810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "지은이: 소복이",
+                "SERIES_TITLE": "",
+                "KDC": "810",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*186",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "355 p.",
+                "CONTROL_NO": "CIP2020023371",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9791190786836",
+                "INPUT_DATE": "20200605",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "구백구 상담소",
+                "PUBLISH_PREDATE": "20200618",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

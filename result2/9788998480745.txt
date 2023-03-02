@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 오늘부터 피아노를 치기로 했다",
+    "oauthor": "홍예나 저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 오늘부터 피아노를 치기로 했다 (88개의 건반이 삶의 일부가 되다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466675582",
+                "image": "https://shopping-phinf.pstatic.net/main_3246667/32466675582.20230214164057.jpg",
+                "author": "홍예나",
+                "discount": "11700",
+                "publisher": "가디언",
+                "pubdate": "20170217",
+                "isbn": "9788998480745",
+                "description": "피아노를 제대로 즐기는 방법에 대해 이야기하는 『나는 오늘부터 피아노를 치기로 했다』. 피아노를 즐기는 59가지의 실질적 해법을 제시한다. 그 목적은 두 가지다. 하나, 피아노 학습에 대한 오해를 풀고 엉뚱한 접근을 줄이며 피아노를 잘 치고자 하는 사람들의 시간과 노력을 최대한 줄인다. 둘, 음악적, 기교적으로 뛰어난 연주를 하기 위한 실용적인 지침(피아노 거장들의 연주 비밀도 포함)을 책 곳곳에 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시루",
+                "DDC": "786.2",
+                "UPDATE_DATE": "20170307",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "홍예나",
+                "SERIES_TITLE": "",
+                "KDC": "676.27",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6081427_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6081427_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 260페이지 내외",
+                "CONTROL_NO": "CIP2017001618",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998480745",
+                "INPUT_DATE": "20170117",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "나는 오늘부터 피아노를 치기로 했다",
+                "PUBLISH_PREDATE": "20170217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

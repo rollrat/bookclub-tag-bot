@@ -1,0 +1,67 @@
+{
+    "otitle": "베이징 셀프트래블 : 2019-2020 최신판",
+    "oauthor": "김충식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "베이징 셀프트래블(2019-2020) (믿고 보는 해외여행 가이드북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485045623",
+                "image": "https://shopping-phinf.pstatic.net/main_3248504/32485045623.20221019143258.jpg",
+                "author": "김충식",
+                "discount": "12600",
+                "publisher": "상상출판",
+                "pubdate": "20190221",
+                "isbn": "9791189856014",
+                "description": "한 권으로 즐겁고, 신나게 만끽하는 베이징 여행!\n\n관광지도 한 장 들고 베이징 구석구석을 발에 물집이 날 때까지 걷고 또 걸어 만든 여행서 『베이징 셀프트래블(2019-2020)』. 여행지의 볼거리, 먹거리, 쇼핑 숍, 숙소 등 스폿별 여행 정보를 현지 가이드처럼 친절하게 소개하는 해외여행 가이드북 시리즈로, 이번 베이징 편에서는 그동안 저자가 베이징을 함께 방문한 사람들을 안내했던 경험과 시행착오로 걸러진 핵심이 가지런히 정리되어 있다.\n\n뚜벅이 여행자들을 위해 베이징을 중심부, 서부, 동부, 그리고 근교 지역으로 나누고 지하철역을 중심으로 다시 나누어 스폿을 소개한다. 번역 어플리케이션을 이용할 필요 없이, 운전자에게 바로 보여주면 되는 중국어 팁 박스를 담아 택시를 타고 이동하는데 활용할 수 있도록 했다. 각 스폿마다 중요도를 별표로 표기해 알찬 베이징 여행을 꾸릴 수 있도록 했으며, 원명원이나 이화원, 자금성처럼 엄청난 규모를 자랑하는 관광지에서는 가장 효과적으로 핵심을 즐길 수 있는 추천 동선까지 표기해 초보 여행자들도 걱정 없이, 부담 없이 여행할 수 있도록 했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "915.104",
+                "UPDATE_DATE": "20190307",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김충식 지음",
+                "SERIES_TITLE": "셀프트래블 2015",
+                "KDC": "981.212602",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7131820_6.txt",
+                "SET_ISBN": "9791186517109",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "CIP2019002921",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189856014",
+                "INPUT_DATE": "20190124",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "(셀프트래블) 베이징",
+                "PUBLISH_PREDATE": "20190221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

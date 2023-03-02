@@ -1,0 +1,67 @@
+{
+    "otitle": "공황장애 극복 설명서",
+    "oauthor": "최영희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "공황장애 극복 설명서 (나의 삶을 바꾼 공황과 공포)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466954100",
+                "image": "https://shopping-phinf.pstatic.net/main_3246695/32466954100.20221229073539.jpg",
+                "author": "최영희",
+                "discount": "12600",
+                "publisher": "학지사",
+                "pubdate": "20190125",
+                "isbn": "9788999717376",
+                "description": "▶ 심리치료에 관한 내용을 담은 전문서적입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "학지사",
+                "DDC": "616.85223",
+                "UPDATE_DATE": "20190220",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.hakjisa.co.kr",
+                "AUTHOR": "최영희 저",
+                "SERIES_TITLE": "",
+                "KDC": "513.8522",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7101602_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7101602_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "236 p.",
+                "CONTROL_NO": "CIP2019000857",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788999717376",
+                "INPUT_DATE": "20190108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "공황장애 극복 설명서",
+                "PUBLISH_PREDATE": "20190125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

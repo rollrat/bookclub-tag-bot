@@ -1,0 +1,67 @@
+{
+    "otitle": "단독주택에 살고 있습니다",
+    "oauthor": "센레 비지 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "단독주택에 살고 있습니다 (마당과 다락방이 있는 단독주택에 살며 쓴 그림 에세이)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466934997",
+                "image": "https://shopping-phinf.pstatic.net/main_3246693/32466934997.20221227203544.jpg",
+                "author": "센레 비지",
+                "discount": "12420",
+                "publisher": "애플북스",
+                "pubdate": "20190607",
+                "isbn": "9791190147019",
+                "description": "난생처음, 단독주택에 살게 되었습니다~!\n\n센레와 비지 부부의 \n좌충우돌 단독주택 리얼 라이프\n\n카카오 브런치북 프로젝트 #3에서 은상을 수상하고, ‘네이버’ ‘다음’에서 조회수 100만을 기록하며 큰 화제를 모았던 웹툰 가 드디어 책으로 출간되었다. \n아파트에서만 살아왔던 저자는 결혼 후 누구나 한 번쯤은 꿈꾸지만, 섣불리 실행에 옮기지 못하는 단독주택 생활을 시작하면서 이에 대한 지극히 사적이면서 아주 현실적인 이야기를 귀여운 일러스트와 함께 생생하게 전달한다. 도심 속 단독주택에 살며 경험한 로망의 다락방 만들기, 사랑스러운 고양이와의 만남, 녹즙 도난(?) 사건 등 재미난 에피소드는 물론 리모델링, 주택 관리, 벌레 퇴치, 한겨울 나기 등 주택 생활을 꿈꾸는 사람이라면 궁금해할 정보까지 가득 담겨 있다. 단독주택 생활을 준비하는 사람에겐 다양한 정보와 도움을, 이미 주택에 살고 있는 사람에겐 웃음과 공감을 불러일으킬 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "애플북스 :비전비엔피",
+                "DDC": "",
+                "UPDATE_DATE": "20190613",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글·그림: 센레 비지",
+                "SERIES_TITLE": "",
+                "KDC": "810",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/20/9791190147019.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "208 p.",
+                "CONTROL_NO": "CIP2019019893",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190147019",
+                "INPUT_DATE": "20190520",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "단독주택에 살고 있습니다",
+                "PUBLISH_PREDATE": "20190607",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

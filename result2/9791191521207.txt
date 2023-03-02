@@ -1,0 +1,67 @@
+{
+    "otitle": "THE NEW 좋아 보이는 것들의 비밀",
+    "oauthor": "이랑주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "[큰글자도서] THE NEW 좋아 보이는 것들의 비밀 (보는 순간 사고 싶게 만드는 10가지 법칙)",
+                "link": "https://search.shopping.naver.com/book/catalog/37770575630",
+                "image": "https://shopping-phinf.pstatic.net/main_3777057/37770575630.20230216071319.jpg",
+                "author": "이랑주",
+                "discount": "37800",
+                "publisher": "지와인",
+                "pubdate": "20230120",
+                "isbn": "9791191521207",
+                "description": "“이 책을 읽고 나면 모든 것이 다르게 보인다”\n대기업 CEO부터 경영 전문가, 창업 컨설턴트까지 \n입을 모아 추천하는 마케팅 분야의 바이블! \n\n사람이 ‘좋다’고 느끼는 데는 반드시 과학적인 이유가 있다. 일반인의 눈에는 잘 보이지 않지만, 같은 물건도 어떻게 보여주느냐에 따라 저절로 사고 싶은 욕구가 생긴다. 인간의 오감을 어떻게 자극하느냐에 따라, 한번 보았을 뿐인데 기억에 오래 남고 다시 가고 싶은 곳이 된다. 색상, 배열, 각도, 동선 등 작은 것 하나로도 확실한 차이를 만들어내는 법칙들은 무엇일까. 이제 보는 즉시 끌리고, 사고 싶은 마음을 불러일으키게 만드는 비밀들. 인간의 본능을 자극하는 10가지 행동설계 마케팅이 공개된다.\n\n똑같은 걸 팔아도 10배의 매출을 만들어내는 비밀은 무엇일까\n\n죽어가는 곳도 살리는 ‘미다스의 손’. 국내 최초의 비주얼 머천다이징 박사 이랑주."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "지와인",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 이랑주",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "42000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "210*297",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "304",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191521207",
+                "INPUT_DATE": "20221215",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "N",
+                "TITLE": "[큰글자도서]THE NEW 좋아 보이는 것들의 비밀",
+                "PUBLISH_PREDATE": "20230130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

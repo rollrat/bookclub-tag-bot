@@ -1,0 +1,67 @@
+{
+    "otitle": "러닝 하이",
+    "oauthor": "탁경은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "러닝 하이 (탁경은 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473344323",
+                "image": "https://shopping-phinf.pstatic.net/main_3247334/32473344323.20221019152532.jpg",
+                "author": "탁경은",
+                "discount": "11700",
+                "publisher": "자음과모음",
+                "pubdate": "20210628",
+                "isbn": "9788954447225",
+                "description": "“누구나 한번쯤은 달려 나가야 한다!”\n사계절문학상 수상작가 탁경은 신작\n있는 그대로의 나를 향한 오늘의 레이스\n\n『싸이퍼』로 제14회 사계절문학상을 수상한 이후, 십대의 마음을 섬세하게 표현한 작품들로 독자에게 꾸준히 사랑받아 온 탁경은 작가가 청량한 ‘러닝 소설’로 돌아왔다. 『러닝 하이』는 자신의 자리를 찾지 못해 고민하는 두 소녀가 달리기를 통해 ‘나’를 찾아가는 이야기다.\n민희는 가족과 함께 있는 시간을 싫어한다. 요리, 청소 같은 집안일에 시달려 집에 있을 때면 스트레스를 받고 우울해진다. 하빈은 자신이 입양되었다는 사실을 알고 나서 완벽한 가족에 자신이 끼어든 것만 같다는 생각을 지울 수가 없다.\n러닝 크루에서 만난 두 소녀는 함께 공원을 달리며 마음의 짐을 조금씩 덜어 낸다. 자신을 오롯이 느끼는 순간을 만끽하며 조금씩 성장하고 앞으로 나아간다. 두 소녀의 시점이 번갈아 가며 서술되는 병렬식 구성을 통해 인물들의 심리를 세세하게 살펴볼 수 있다. 이들의 레이스를 따라가다 보면 독자들도 ‘있는 그대로의 나’를 찾아갈 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "자음과모음",
+                "DDC": "",
+                "UPDATE_DATE": "20210916",
+                "EA_ADD_CODE": "43810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 탁경은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "201 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788954447225",
+                "INPUT_DATE": "20210527",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "러닝 하이",
+                "PUBLISH_PREDATE": "20210628",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

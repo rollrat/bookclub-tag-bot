@@ -1,0 +1,67 @@
+{
+    "otitle": "타임 스파이럴",
+    "oauthor": "미즈모리 에렌 저/김성래 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "타임 스파이럴",
+                "link": "https://search.shopping.naver.com/book/catalog/32467005775",
+                "image": "https://shopping-phinf.pstatic.net/main_3246700/32467005775.20221229073721.jpg",
+                "author": "미즈모리 에렌",
+                "discount": "12420",
+                "publisher": "소미미디어",
+                "pubdate": "20171102",
+                "isbn": "9791161902302",
+                "description": "일본 웹소설에서 전격 드라마화된 \n화제의 SF 판타지 미스터리 로맨스!\n\n일본 TBS 드라마 [타임 스파이럴]의 원작 소설! GACKT, 쿠로키 메이사 등 한국인에게도 익숙한 호화로운 출연진으로 무장한 이 드라마는 웹에 연재되던 소설을 영상화한 것이다. 무엇보다 특이한 점은 정식 출판 없이, 오로지 취미로 웹에 연재되던 소설을 곧바로 드라마화 했다는 것! 소설 『타임 스파이럴』은 그만큼 독특하고 매력적인 분위기를 가진 소설로, SF와 미스터리, 로맨스라는 색다른 세 장르를 멋지게 결합시켰다. 특히나 남자 주인공 ‘타츠미 슈야’의 위험하고 신비한 매력은 읽는 내내 독자로 하여금 눈을 떼지 못하게 만든다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소미미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20171205",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "미즈모리 에렌 지음 ;김성래 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "424 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161902302",
+                "INPUT_DATE": "20171019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "타임 스파이럴",
+                "PUBLISH_PREDATE": "20171101",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

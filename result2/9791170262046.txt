@@ -1,0 +1,67 @@
+{
+    "otitle": "나이 든 반려견을 돌보는 중입니다",
+    "oauthor": "권혁필 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나이 든 반려견을 돌보는 중입니다 (노견 케어법과 남겨진 이들을 위한 위로법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490342952",
+                "image": "https://shopping-phinf.pstatic.net/main_3249034/32490342952.20230214162756.jpg",
+                "author": "권혁필",
+                "discount": "10800",
+                "publisher": "팜파스",
+                "pubdate": "20180610",
+                "isbn": "9791170262046",
+                "description": "반려견의 노령화는 자연스러운 일이지만, 보호자는 이를 그저 바라보기만 해서는 안 된다. 반려견도 사람처럼 노령화로 인해 신체적, 정신적 변화를 겪고, 그 결과 지금까지 알던 것과는 전혀 다른 강아지가 되기 때문이다. 이 책은 산책, 놀이법, 배변 훈련 등 노견에게 적합한 일상 케어법을 소개하며 노견을 이해하는 길을 제시한다. 더불어 노견 보호자라면 한 번쯤 생각하기 마련인 반려견과의 이별을 준비할 수 있도록 돕는다. 진정 노령 반려견을 사랑하는 특별한 방법들을 통해 얼마 남지 않은 시간을 소중하게 보낼 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "636.7",
+                "UPDATE_DATE": "20180703",
+                "EA_ADD_CODE": "13490",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "권혁필 지음",
+                "SERIES_TITLE": "",
+                "KDC": "527.4186",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6673687_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6673687_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "203 p.",
+                "CONTROL_NO": "CIP2018015696",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170262046",
+                "INPUT_DATE": "20180521",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "나이 든 반려견을 돌보는 중입니다",
+                "PUBLISH_PREDATE": "20180610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

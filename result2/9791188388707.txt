@@ -1,0 +1,67 @@
+{
+    "otitle": "담대한 목소리",
+    "oauthor": "캐럴 길리건 저/김문주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "담대한 목소리 (가부장제에서 민주주의로, 세상을 바꾸는 목소리의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480513504",
+                "image": "https://shopping-phinf.pstatic.net/main_3248051/32480513504.20221019142654.jpg",
+                "author": "캐럴 길리건",
+                "discount": "13500",
+                "publisher": "생각정원",
+                "pubdate": "20181207",
+                "isbn": "9791188388707",
+                "description": "“변혁의 씨앗은 우리 내면에 자리하고 있다”\n\n사랑과 민주 시민의 필요조건은 하나이며 동일하다\n가부장제의 구속복을 벗고 진짜 목소리에 귀 기울일 것!\n\n미국 최고의 심리학자이자 오늘날 한국 여성주의 연구활동가들에게 지대한 영향을 미친 캐럴 길리건의 신간이 드디어 한국에 도착했다. 《담대한 목소리》에서 길리건은 남성 위주의 심리학계를 근본부터 바꿔버린 혁명적인 저서 《다른 목소리로》 이후, 한 발 더 나아간 이야기를 한국의 독자들에게 전한다. \n《10대들의 심리세계: 평범한 남자 청소년에 대한 연구》와 같은 제목에서도 볼 수 있듯이 그간 심리학은 남성만을 인간으로 가정해왔다고 길리건은 지적한다. 이 책에는 기존의 주류 심리학이 놓쳤던 여성의 심리, 여아의 발달을 연구하면서 그가 발견한 통찰이 담겨 있다.\n가부장제는 여성과 남성 모두의 고유한 목소리를 막는다. 감정과 이성, 몸과 정신, 관계와 자아를 분리하여 각각의 성별에 맞는 것을 지향하도록 인류를 억압한다. 여성뿐 아니라 남성 역시 가부장제하에서 관계를 부정하고 독립을 강요당하면서 상처를 입는다. \n길리건은 20년 이상 여아들의 발달을 연구하며 그들이 가부장제에 적극적으로 저항하고 있음을 발견했다. 소녀들의 목소리에는 저항과 연대의 가능성이 담겨 있었다. 그 목소리는 우리 안에 묻혀 있던 다른 목소리를 일깨우고 공명하여 가부장제를 비롯한 모든 잘못된 권위에 저항하고 성별을 넘어 연대할 힘을 발휘한다. \n《담대한 목소리》는 젠더 전쟁이라 할 만큼 분열된 한국 사회에 인류애를 회복하고 더 나은 민주주의를 향해 갈 대안을 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정원",
+                "DDC": "305.42",
+                "UPDATE_DATE": "20181218",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "캐럴 길리건 지음 ;김문주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7023992_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7023992_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "CIP2018038275",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188388707",
+                "INPUT_DATE": "20181123",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "담대한 목소리",
+                "PUBLISH_PREDATE": "20181207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

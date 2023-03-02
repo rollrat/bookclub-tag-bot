@@ -1,0 +1,67 @@
+{
+    "otitle": "조지 오웰 산문선",
+    "oauthor": "조지 오웰 저/허진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조지 오웰 산문선",
+                "link": "https://search.shopping.naver.com/book/catalog/32464093328",
+                "image": "https://shopping-phinf.pstatic.net/main_3246409/32464093328.20230207165409.jpg",
+                "author": "조지 오웰",
+                "discount": "11930",
+                "publisher": "열린책들",
+                "pubdate": "20200930",
+                "isbn": "9788932912561",
+                "description": "20세기 영문학의 독보적 작가이자 저널리스트 조지 오웰\n그의 명징한 통찰을 보여 주는 빼어난 산문 엄선"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "",
+                "UPDATE_DATE": "20201023",
+                "EA_ADD_CODE": "04840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조지 오웰 지음 ;허진 옮김",
+                "SERIES_TITLE": "열린책들 세계문학",
+                "KDC": "844",
+                "EDITION_STMT": "세계문학판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788932914992",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "413 p.",
+                "CONTROL_NO": "CIP2020038530",
+                "SERIES_NO": "256",
+                "EA_ISBN": "9788932912561",
+                "INPUT_DATE": "20200909",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "조지 오웰 산문선",
+                "PUBLISH_PREDATE": "20200930",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

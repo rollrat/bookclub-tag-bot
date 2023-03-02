@@ -1,0 +1,67 @@
+{
+    "otitle": "뻘짓은 나만 하는 줄 알았어",
+    "oauthor": "피터 홀린스 저/서종민 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뻘짓은 나만 하는 줄 알았어 (좋은 싫든 멈출 수 없는 뻘짓의 심리)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493514660",
+                "image": "https://shopping-phinf.pstatic.net/main_3249351/32493514660.20221019114657.jpg",
+                "author": "피터 홀린스",
+                "discount": "13500",
+                "publisher": "명진서가",
+                "pubdate": "20190628",
+                "isbn": "9791196672201",
+                "description": "뻘짓에도 특정한 이유가 있다!\n\n《혼자 있고 싶은데 외로운 건 싫어》의 저자 피터 홀린스가 알면서도 하고 몰라서도 하는, 어쨌든 우리가 평생 반복하는 뻘짓 과 바보짓에 대해 심리학적으로 들여다 본 『뻘짓은 나만 하는 줄 알았어』. 무한 반복되는 바보 인증과 뻘짓의 배후에 대한 우리의 의문을 풀어주는 책으로, 우리의 뻘짓은 뇌의 균형를 유지시켜주는 기특한 행동이라는 것을, 심리학과 뇌과학의 중간적 시각에서 흥미롭게 보여준다. 이를 통해 우리는 자신의 바보짓에 대해 우울해할 필요가 없다는 논리적 결론을 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "명진서가 ",
+                "DDC": "",
+                "UPDATE_DATE": "20190726",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "피터 홀린스 지음 ;서종민 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196672201",
+                "INPUT_DATE": "20190402",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "뻘짓은 나만 하는 줄 알았어 ",
+                "PUBLISH_PREDATE": "20190628",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

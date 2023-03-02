@@ -1,0 +1,67 @@
+{
+    "otitle": "나를 숙고하는 삶",
+    "oauthor": "제임스 홀리스 저/노상미 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나를 숙고하는 삶 (절반쯤 왔어도 인생이 어려운 당신에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32469210720",
+                "image": "https://shopping-phinf.pstatic.net/main_3246921/32469210720.20221019135107.jpg",
+                "author": "제임스 홀리스",
+                "discount": "15560",
+                "publisher": "마인드빌딩",
+                "pubdate": "20210730",
+                "isbn": "9791190015530",
+                "description": "“지금 삶이 힘든 건 결국, 아직 나를 모르기 때문이다.”\n융 심리학의 석학 제임스 홀리스가 말하는\n인생에서 가장 중요한 것들\n\n《나를 숙고하는 삶》은 《내가 누군지도 모른 채 마흔이 되었다》, 《나는 이제 나와 이별하기로 했다》의 저자이자 저명한 융 심리학 전문가인 제임스 홀리스가 인생 후반기를 준비하는 이들에게 전하는 메시지가 담긴 책이다. 제임스 홀리스는 《나를 숙고하는 삶》을 통해 삶에서 ‘가장 중요한 것’이 무엇인지 묻는 질문에 답하는 과정을 보여주고 가장 충만하고 의미 있는 삶을 사는 지혜를 스스로 발견할 수 있도록 돕는다.\n저자는 시인과 소설가, 철학자, 심리학자들의 문장에서 얻은 깨달음과 내담자의 꿈을 분석한 사례 그리고 자신의 경험에서 발견한 통찰을 통해 우리의 삶을 새로운 눈으로 바라볼 수 있게 도움을 주는 지혜로운 조언을 전한다. 책의 마지막 페이지를 넘길 때쯤, 결국 자기 내면과 진심 어린 대화를 나누며 삶의 의미에 대해 깊이 숙고하는 것이야말로 진정한 나를 찾는 여행이자 인생에서 가장 중요한 것을 발견할 수 있는 지름길임을 깨닫게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마인드빌딩",
+                "DDC": "",
+                "UPDATE_DATE": "20210820",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "제임스 홀리스 지음 ;노상미 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/07/07/9791190015530.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "341 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190015530",
+                "INPUT_DATE": "20210707",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나를 숙고하는 삶",
+                "PUBLISH_PREDATE": "20210730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

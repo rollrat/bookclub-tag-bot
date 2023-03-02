@@ -1,0 +1,67 @@
+{
+    "otitle": "첫아이가 초등학교에 갑니다",
+    "oauthor": "전예름,권정아,최선미,김예람 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "첫아이가 초등학교에 갑니다 (한 권으로 끝내는 슬기로운 초등 생활)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436281964",
+                "image": "https://shopping-phinf.pstatic.net/main_3243628/32436281964.20221019142505.jpg",
+                "author": "전예름",
+                "discount": "13500",
+                "publisher": "로그인",
+                "pubdate": "20201209",
+                "isbn": "9791166370502",
+                "description": "첫 아이를 초등학교에 보내는 부모님들께\n베테랑 선생님 네 분이 알려주는 초등 입학의 모든 것!\n\n아이가 1학년이면 부모도 1학년이라는 말이 있다. 초등학교가 처음인 자녀와 마찬가지로 부모가 되면 초등학교라는 공간이 설레면서도 낯선 공간이 되기 때문이다. 경험해 본 적이 없기에 초등학교에 입학하기 전 아이에게 어떤 준비가 필요할지, 부모로서 무엇을 해야 할지 막막할 것이다. 입학 후에도 걱정은 마찬가지다. 학교에서 어떻게 생활하는지, 선생님이나 친구와의 관계는 원만한지……. 이렇듯 공식적인 등교는 3월이지만 그 전에 해야 할 일이 많은 게 초등 입학이다.\n이 책 《첫아이가 초등학교에 갑니다》는 입학 전에 꼭 해야 할 공부, 생활습관, 체력, 인성 교육, 엄마의 마음가짐까지 예비 학부모와 아이가 궁금해하는 초등 입학의 모든 것을 담은 초등 입학 가이드다. 8년에서 22년까지 다양한 경력을 가진 서울시 소속 초등학교 교사 네 명의 경험과 노하우를 한 권에 담았다. 우리 아이 첫 사회생활의 시작, 초등 입학. 아이의 새로운 출발을 앞두고 두려움 반, 설렘 반으로 걱정하고 있을 부모님들께 이 책이 든든한 길잡이가 되어 줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로그인 :이퍼블릭",
+                "DDC": "",
+                "UPDATE_DATE": "20210224",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.epublic.co.kr",
+                "AUTHOR": "지은이: 전예름,권정아,최선미,김예람",
+                "SERIES_TITLE": "",
+                "KDC": "598.124",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/30/9791166370502.JPG",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*214",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "CIP2020051064",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791166370502",
+                "INPUT_DATE": "20201130",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "첫아이가 초등학교에 갑니다",
+                "PUBLISH_PREDATE": "20201221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

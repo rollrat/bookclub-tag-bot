@@ -1,0 +1,67 @@
+{
+    "otitle": "기초 영작 100일의 기적",
+    "oauthor": "하명옥 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기초 영작 100일의 기적 (100일 후에는 나도 영어로 쓴다!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493509169",
+                "image": "https://shopping-phinf.pstatic.net/main_3249350/32493509169.20230223071204.jpg",
+                "author": "하명옥",
+                "discount": "11250",
+                "publisher": "넥서스",
+                "pubdate": "20160905",
+                "isbn": "9791157529094",
+                "description": "영작 하는 법을 배우지 않고 우리말 그대로 영어로 바꿔 쓰다보면 잘못된 영어 문장이 나오기 쉽다. 그러므로 『기초영작 100일의 기적』은  영작의 기초부터 실생활에서 가장 많이 쓰는 문장을 100개로 추려 하루에 한 문장씩 연습할 수 있도록 구성하고 영작에 꼭 필요한 기본 구조부터 시작해 일상생활에서 자주 쓰지만, 틀리기 쉬운 문장들을 예를 들어 설명하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)넥서스",
+                "DDC": "428",
+                "UPDATE_DATE": "20160929",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "하명옥",
+                "SERIES_TITLE": "",
+                "KDC": "746",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5736777_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5736777_3.jpg",
+                "PRE_PRICE": "12500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "248",
+                "CONTROL_NO": "CIP2016021699",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157529094",
+                "INPUT_DATE": "20160905",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "기초 영작 100일의 기적",
+                "PUBLISH_PREDATE": "20160905",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

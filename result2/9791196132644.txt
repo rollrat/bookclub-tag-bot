@@ -1,0 +1,67 @@
+{
+    "otitle": "겟 스마트",
+    "oauthor": "브라이언 트레이시 저/허선영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "겟 스마트 (생각하고 행동하는 최단거리형 노력의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32453817906",
+                "image": "https://shopping-phinf.pstatic.net/main_3245381/32453817906.20221019135718.jpg",
+                "author": "브라이언 트레이시",
+                "discount": "13500",
+                "publisher": "빈티지하우스",
+                "pubdate": "20171125",
+                "isbn": "9791196132644",
+                "description": "탁월한 생각이 우리가 얻을 결과의 질과 삶의 질을 결정한다!\n\n동기부여 전문가 브라이언 트레이시가 발견한 실패하지 않는 노력에 대한 이야기 『겟 스마트』. 타고난 사고 능력과 재능을 점점 더 많이 이용할 수 있도록 간단하고 실용적이며 과학적으로 입증된 방법들을 알려주는 책이다. 그동안 사회적, 경제적으로 성공한 수천 명의 사람들을 연구한 저자는 그들은 우리와 똑같이 노력했지만 그들의 노력을 특별하게 만든 것은 노력의 양이 아니라는 것을 깨달았다. 그들은 노력 앞에 ‘생각’을 오게 했는데, 저자는 그 ‘생각’에 주목했다. \n\n저자는 실패하지 않는 노력, 올바른 노력을 위한 10가지 생각법을 제안하면서 그들의 성공이 우연이 아니듯, 우리의 실패 또한 우연이 아니라는 것을 강조한다. 지금의 위치와 현재 모습은 우리의 사고와 행동 때문이라고 이야기하면서 틀에 박힌 노력만 하고 있다면, 무슨 짓을 해서든 스스로에게 동기를 부여해 그 틀을 벗어나야 한다고 조언한다. 이 책을 통해 노력이 결과만으로 평가당하는 현실 속에서 우리의 모든 노력이 빛을 발할 수 있는 방향이 되어주고자 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빈티지하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20180411",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "브라이언 트레이시 지음 ;허선영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196132644",
+                "INPUT_DATE": "20171113",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "겟 스마트",
+                "PUBLISH_PREDATE": "20171125",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "영양학의 기본",
+    "oauthor": "와타나베 쇼 감수/차원,양지영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "영양학의 기본",
+                "link": "https://search.shopping.naver.com/book/catalog/32475588460",
+                "image": "https://shopping-phinf.pstatic.net/main_3247558/32475588460.20221229072923.jpg",
+                "author": "와타나베 쇼",
+                "discount": "14850",
+                "publisher": "성안당",
+                "pubdate": "20211022",
+                "isbn": "9788931589719",
+                "description": "영양과 몸의 관계를 도해로 이해하다!! \n일반인의 식사 섭취기준, 식품 표준성분표 수록\n\n이 책은 오랜 시간 관심을 가져온 병리학, 면역학, 영양학, 공중위생학 등을 바탕으로 국립건강영양연구소 이사장으로 몸담았던 식육추진위원의 경험까지 활용해서 영양학에 뜻을 둔 사람들이 영양학이라는 학문을 전체적으로 조감할 수 있게 구성했다.\n현대사회에서 영양은 여러 방면에 두루 걸쳐 있는 중요한 문제이다. 음식이 만들어지고 공급되는 과정과 배경을 이해해야 하고, 지구 환경이 악화되는 상황에서 ‘의료·식·농·환경’을 하나의 문제로 바라봐야 한다. 그리고 공정무역으로 저개발국가의 농민과 어민을 착취하지 않도록 배려와 관심을 가져야 할 뿐만 아니라 건강한 생활을 영위하기 위해서는 안전이 보장되는 식재료를 확보하는 것도 중요하다.\n이 책에서는 생화학과 생리학에만 치우치지 않도록 영양소를 꼼꼼하게 따질 뿐만 아니라, 식품을 기본으로 한 영양학과 식사까지 제시하여 몸은 물론 마음도 건강하게 키우는 이상적인 영양학의 방안을 제시한다. 이 책이 영양학에 흥미를 더하는 계기가 되어 관리영양사 또는 식품지도사로 성장할 수 있기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20221201",
+                "EA_ADD_CODE": "04510",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "저자 : 와타나베 쇼;감수자 : 차원;역자 : 양지영;",
+                "SERIES_TITLE": "그림으로 이해하는 인체 이야기",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788931589771",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/10/15/9788931589719.jpg",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240",
+                "CONTROL_NO": "",
+                "SERIES_NO": "6",
+                "EA_ISBN": "9788931589719",
+                "INPUT_DATE": "20211015",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "영양학의 기본",
+                "PUBLISH_PREDATE": "20211022",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04510 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "otitle": "조금 다르게 살아도 괜찮아",
+    "oauthor": "박철우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:57 +0900",
+        "total": 3,
+        "start": 1,
+        "display": 3,
+        "items": [
+            {
+                "title": "조금 다르게 살아도 괜찮아",
+                "link": "https://search.shopping.naver.com/book/catalog/32473349382",
+                "image": "https://shopping-phinf.pstatic.net/main_3247334/32473349382.20221230072144.jpg",
+                "author": "박철우",
+                "discount": "11700",
+                "publisher": "다연",
+                "pubdate": "20181010",
+                "isbn": "9791187962564",
+                "description": "아무것도 아닌 것들로부터 시작된 것만 같은 스무 살,\n팟캐스트 ‘모티브 브릿지’ 진행자가 전하는 ‘개썅 마이웨이’의 희망 메시지\n\n  대부분의 청춘이 19년 동안 획일적으로 책상에만 앉아 있다가 아무런 준비 없이 스무 살을 맞이한다. 그래서 여러 세대 중 특히나 고민이 많은 20대다. 이 책은 모든 것이 새롭게 다가오는 스무 살, 나아가 20대의 고민을 돌아보며 무한 경쟁의 현실 속에 내몰린 청춘들의 마음을 어루더듬는다. 취업, 스펙, 연애, 인간관계 등의 문제로 말미암아 자존감이 땅에 떨어졌다면 이 책을 펼쳐보자. ‘개썅 마이웨이’, 내 멋대로의 희망찬 인생 에너지를 얻을 것이다."
+            },
+            {
+                "title": "조금 다르게 살아도 괜찮아 (양장)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445668226",
+                "image": "https://shopping-phinf.pstatic.net/main_3244566/32445668226.20221228072814.jpg",
+                "author": "박철우",
+                "discount": "14400",
+                "publisher": "다연",
+                "pubdate": "20210428",
+                "isbn": "9791197292125",
+                "description": "아무것도 아닌 것들로부터 시작된 것만 같은 스무 살,\n청춘이 청춘에게 전하는 ‘마이웨이’의 희망 메시지\n\n청춘 대부분이 19년 동안 획일적으로 책상에만 앉아 있다가 아무런 준비 없이 스무 살을 맞이한다. 그래서 여러 세대 중 특히나 고민이 많은 20대다. 이 책은 모든 것이 새롭게 다가오는 스무 살, 나아가 20대의 고민을 돌아보며 무한 경쟁의 현실 속에 내몰린 청춘들의 마음을 어루더듬는다. 취업, 스펙, 연애, 인간관계 등의 문제로 말미암아 자존감이 땅에 떨어졌다면 이 책을 펼쳐보자. 마이웨이, 내 멋대로의 희망찬 인생 에너지를 얻을 것이다."
+            },
+            {
+                "title": "꿈에게 기회를 주지 않는다면 꿈도 당신에게 기회를 주지 않는다 (조금 늦어도, 조금은 다르게 살아도 괜찮아)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441076910",
+                "image": "https://shopping-phinf.pstatic.net/main_3244107/32441076910.20220527041158.jpg",
+                "author": "박명숙",
+                "discount": "0",
+                "publisher": "시너지북",
+                "pubdate": "20141217",
+                "isbn": "9791185421209",
+                "description": "『꿈에게 기회를 주지 않는다면 꿈도 당신에게 기회를 주지 않는다』 는 마흔 살이 넘은 아줌마가 홀로 두 아이를 데리고 미국 땅에서 좌충우돌 노력한 끝에 자신의 꿈을 하나씩 이루어 가는 여정을 담은 책이다. 인생은 때때로 많은 장애물들에 가로막힌다. 때때로 어떠한 장애물들은 뛰어넘을 수 없을 것만 같다. 그럴 때 이 책을 읽어보기 바란다. 분명 이겨낼 힘을 얻게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "다연",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181019",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박철우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6930728_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2018031325",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187962564",
+                "INPUT_DATE": "20180929",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "조금 다르게 살아도 괜찮아",
+                "PUBLISH_PREDATE": "20181010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

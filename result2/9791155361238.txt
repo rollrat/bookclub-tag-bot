@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 오늘 책상을 정리하기로 했다",
+    "oauthor": "Emi 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 오늘 책상을 정리하기로 했다 (일이 편해지고 시간도 버는 88가지 정리 아이디어)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490346403",
+                "image": "https://shopping-phinf.pstatic.net/main_3249034/32490346403.20221019123428.jpg",
+                "author": "Emi",
+                "discount": "12600",
+                "publisher": "즐거운상상",
+                "pubdate": "20180910",
+                "isbn": "9791155361238",
+                "description": "일본 최고 정리 수납 전문가의 정리 노하우\n책상을 정리하고 생각을 정리하면\n시간이 마법처럼 늘어납니다!\n\n책상 정리법, 시간 사용법, 자료 정리법에서부터\n생각 정리법, 소소한 스트레스 관리법까지\n일본 최고 정리 수납 전문가에게 배우는  \n일이 더 편해지고 즐거워지는 88가지 아이디어!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "즐거운상상",
+                "DDC": "",
+                "UPDATE_DATE": "20190211",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: Emi ;옮긴이: 남궁가윤",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155361238",
+                "INPUT_DATE": "20180730",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "나는 오늘 책상을 정리하기로 했다",
+                "PUBLISH_PREDATE": "20180910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

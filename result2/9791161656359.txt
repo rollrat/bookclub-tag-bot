@@ -1,0 +1,67 @@
+{
+    "otitle": "내 인생이다 임마",
+    "oauthor": "장성규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 인생이다 임마 (오늘을 버텨내는 우리들에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492744668",
+                "image": "https://shopping-phinf.pstatic.net/main_3249274/32492744668.20221019124417.jpg",
+                "author": "장성규",
+                "discount": "12420",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20190502",
+                "isbn": "9791161656359",
+                "description": "인생에 도움도 안 되는 주제 파악을 그만 두고, 나를 믿어보기로 했다!\n\n외모 콤플렉스로 자존감 바닥이었던 왕따, 적성에 맞지 않는 씨름부 운동선수, 또래보다 출발이 느려 늘 조급했던 삼수생에서 실시간 검색어 1위에 오르는 인기 아나운서가 있다. 바로 JTBC 간판 아나운서 장성규의 이야기다. 하고 싶은 일이 뭔지도 모르면서 무작정 열심히 살았던 대학 시절, 은사님의 조언으로 뒤늦게 아나운서에 도전해 이제는 13만 팔로워들이 지켜보는 인기 아나운서가 된 저자는 『내 인생이다 임마』에서 왕따에서 전교 학생회장이 됐던 학창 시절부터 MBC 아나운서 공개 오디션 《신입사원》에 참가했던 에피소드, JTBC 아나운서 시절, 13만 팔로워들이 지켜보는 SNS 그리고 사랑하는 가족 이야기를 통해 걱정하면서 시간을 보내기보다 인생의 주인공이 되어 내일을 준비하는 삶을 살아가는 것이 더 중요하다는 깨달음을 전한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스books :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20190605",
+                "EA_ADD_CODE": "",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "장성규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161656359",
+                "INPUT_DATE": "20190605",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "내 인생이다 임마",
+                "PUBLISH_PREDATE": "20190502",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "그림에 나를 담다",
+    "oauthor": "이광표 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그림에 나를 담다 (한국의 자화상 읽기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505364368",
+                "image": "https://shopping-phinf.pstatic.net/main_3250536/32505364368.20221227205224.jpg",
+                "author": "이광표",
+                "discount": "16200",
+                "publisher": "현암사",
+                "pubdate": "20161230",
+                "isbn": "9788932318349",
+                "description": "우리 문화재의 아름다움과 가치를 소개하는 글을 써온 이광표 기자가 한국의 자화상에 대해 깊이 천착하여 집필한 책이다. 조선 시대부터 일제 강점기를 거쳐 1950년대 초까지 이 땅의 화가들이 그려놓은 자화상을 탐구하고 깊은 안목으로 그림 안팎의 이야기를 전해준다. 이 책에는 자화상의 철학적·미학적 개념은 무엇인지, 한국 자화상은 시대적으로 어떻게 변해왔고 그 특징은 무엇인지, 한국 자화상을 어떤 관점에서 이해하고 해석할 것인지, 한국 자화상의 명작에는 어떤 의미와 스토리가 담겨 있는지 등 우리 자화상을 이해하는 데 길잡이가 될 내용들로 가득하다.\n\n\n\n개별적 작품 분석이 아닌 한국 자화상의 흐름이나 시대적 의미를 종합적으로 고찰한 연구가 거의 없는 상황에서, 이 책이 한국 미술사 연구에 큰 역할을 할 것으로 기대된다. 특히 화가의 내면을 읽어내고 더 나아가 한국의 자화상을 이해하기 위한 중요한 관점으로 자화상 속 배경과 소품, 시선과 눈빛에 집중한다. 또한 윤두서, 강세황, 채용신, 고희동, 나혜석, 이쾌대, 이인성, 장욱진 등이 그린 한국 미술사에 길이 남을 자화상 명작들을 화가들의 굴곡진 삶에 비추어 감상한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "743.42",
+                "UPDATE_DATE": "20170721",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "이광표 지음",
+                "SERIES_TITLE": "",
+                "KDC": "654.51",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6003643_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6003643_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "331 p.",
+                "CONTROL_NO": "CIP2016031418",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932318349",
+                "INPUT_DATE": "20161219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "그림에 나를 담다",
+                "PUBLISH_PREDATE": "20161230",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

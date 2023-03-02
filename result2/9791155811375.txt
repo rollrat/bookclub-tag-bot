@@ -1,0 +1,67 @@
+{
+    "otitle": "타샤의 말",
+    "oauthor": "타샤 튜더 저/공경희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "타샤의 말",
+                "link": "https://search.shopping.naver.com/book/catalog/32482728734",
+                "image": "https://shopping-phinf.pstatic.net/main_3248272/32482728734.20230221082037.jpg",
+                "author": "타샤 튜더",
+                "discount": "12420",
+                "publisher": "윌북(willbook)",
+                "pubdate": "20171215",
+                "isbn": "9791155811375",
+                "description": "느린 삶의 아이콘, 타샤 튜더의 자전적 에세이다. 56세에 산골 땅을 마련하여 정원을 가꾸고, 100여 권이 넘는 그림책을 그리면서 살아간 자연주의자 타샤 튜더의 핵심이 담겨 있다. 꽃과 동물을 벗 삼아 살아가는 실제 모습이 생생한 사진들 속에 담겼고, 타샤 튜더 자신이 정원살이, 시골살이, 홀로살이에 대한 자기만의 생각을 글로 썼다. 낭만과 여유가 가득한 한편, 젊은 시절 이혼하여 홀로 네 남매를 키운 여성으로서 강인함과 특유의 위트, 인생에 대한 통찰력까지 느낄 수 있다. “우울하게 살기엔 인생이 너무 짧다”고 말하는 타샤 튜더, 그녀가 초대하는 오후의 티타임에 여러분을 초대한다. 그 시간 동안 우리는 꽃들이 주는 활기, 정원일의 즐거움, 노동의 가치로움, 화가로서의 삶, 아름다운 것을 향한 의지 등 타샤가 솔직 담백하게 들려주는 이야기 속으로 빠져들게 된다. 꽃보다 아름다운 그녀, 타샤 튜더를 제대로 만나고 싶다면 가장 먼저 읽어야 할 예쁘고 매력적인 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "828.92",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "타샤 튜더 ;리처드 브라운 ;공경희",
+                "SERIES_TITLE": "",
+                "KDC": "848",
+                "EDITION_STMT": "신판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6430462_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6430462_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6430462_5.txt",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "188 p. ",
+                "CONTROL_NO": "CIP2017030200",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155811375",
+                "INPUT_DATE": "20171114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "타샤의 말 ",
+                "PUBLISH_PREDATE": "20171215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

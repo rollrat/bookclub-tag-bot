@@ -1,0 +1,78 @@
+{
+    "otitle": "아기 행동 사용설명서",
+    "oauthor": "코니시 유쿠오 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:06 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "아기 행동 사용설명서",
+                "link": "https://search.shopping.naver.com/book/catalog/32506095061",
+                "image": "https://shopping-phinf.pstatic.net/main_3250609/32506095061.20220527052703.jpg",
+                "author": "코니시 유쿠오",
+                "discount": "0",
+                "publisher": "책비",
+                "pubdate": "20110620",
+                "isbn": "9788996506522",
+                "description": "엄마 아빠, 내 마음을 알아주세요!\n\n30여 년간 소아과 의사로 근무해온 부부 코니시 유쿠오, 코니시 가오루가 초보 엄마 아빠를 위해 저술한  『아기 행동 사용설명서』. 초보 엄마 아빠를 당황하게 하고 궁금하게 하는 아기의 행동에 관한 똑똑한 보고서다. 1개월부터 6개월까지, 7개월부터 9개월까지, 10개월부터 12개월까지 등 총3PART로 나누어 아기의 행동에 숨겨진 원인을 이해함으로써, 마음을 헤아리도록 인도하고 있다. 아기와 소통하는 비결도 배우게 된다. 왼쪽 페이지에는 아기의 행동에 대한 설명을 담았다. 아기의 행동을 발달학적 시각에서 분석하고 있다. 오른쪽 페이지에는 아기의 행동에 대한 이해를 도와주면서 공감을 자아내는 세밀한 그림과 재미있는 만화를 실었다. 부모로서의 자긍심도 안겨줄 것이다."
+            },
+            {
+                "title": "아기 몸 행동 말 사용설명서 세트",
+                "link": "https://search.shopping.naver.com/book/catalog/32485602960",
+                "image": "https://shopping-phinf.pstatic.net/main_3248560/32485602960.20220527033549.jpg",
+                "author": "코니시 유쿠오",
+                "discount": "0",
+                "publisher": "책비",
+                "pubdate": "20111110",
+                "isbn": "9788997263028",
+                "description": "『아기 몸 행동 말 사용설명서 세트』는 아기의 몸, 행동, 말에 대해 알고자하는 부모를 위한 육아서이다.  갓 태어난 아기부터 생후 12개월 이후의 아기에 관해 흥미롭고도 체계적으로 정리해 현명하고 올바른 지식을 쌓을 수 있도록 도와준다. 아기의 성장과정마다 알아야 할 내용들, 초보 엄마 아빠를 당황하게 하는 갖가지 아기의 행동, 아기의 마음을 이해하고 이에 적절히 대응하는 방법 등을 소개한다. \n\n▶ 『아기 몸 행동 말 사용설명서 세트』는 , , 를 엮은 세트입니다. (전3권)"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책비",
+                "DDC": "",
+                "UPDATE_DATE": "20110902",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "코니시 유쿠오, 코니시 가오루 지음 김혜숙 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788996506522",
+                "INPUT_DATE": "20100913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "N",
+                "TITLE": "아기 행동 사용설명서 ",
+                "PUBLISH_PREDATE": "20101120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

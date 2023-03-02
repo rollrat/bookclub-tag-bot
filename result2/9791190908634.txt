@@ -1,0 +1,67 @@
+{
+    "otitle": "좋은 사람에게만 좋은 사람이면 돼",
+    "oauthor": "김재식 저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "좋은 사람에게만 좋은 사람이면 돼 (지금은 나를 돌보는 시간, 내 마음대로 행복해지기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436443249",
+                "image": "https://shopping-phinf.pstatic.net/main_3243644/32436443249.20230217105555.jpg",
+                "author": "김재식",
+                "discount": "13320",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20200901",
+                "isbn": "9791190908634",
+                "description": "\"함께하고 싶은 봄, 마음만은 늘 가까이\"\n내 소중한 사람들에게 선물하는 단 한 권의 관계 처방전\n\n이 책은 16년간 200만 팔로워의 뜨거운 공감을 얻은 김재식 작가의 다섯 번째 책이자 사람 사이 관계를 중점적으로 다룬 첫 책이다. 출간한 지 6개월 만에 10만부를 돌파했고, 여전히 베스트셀러 상위권에 올라 있는 이 책의 저력은 사람들의 영원한 고민인 인간관계에 대하여, 때로는 내 마음 돌봄을 등한시하면서까지 되고자 했던 ‘좋은 사람’의 의미를 되새긴다는 데 있다.  \n관계의 해답은 결국 나 자신으로부터 출발한다. 모든 사람에게 완벽하게 좋은 사람일 순 없다. 남한테 좋은 사람이 되려고 애쓰기보다 먼저 나의 소중함을 알고, 내 곁의 좋은 사람들에게만 좋은 사람이면 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20201005",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김재식 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "275 p.",
+                "CONTROL_NO": "CIP2020031196",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190908634",
+                "INPUT_DATE": "20200727",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "좋은 사람에게만 좋은 사람이면 돼",
+                "PUBLISH_PREDATE": "20200901",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

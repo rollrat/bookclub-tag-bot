@@ -1,0 +1,67 @@
+{
+    "otitle": "어린이를 위한 365 매일 읽는 긍정의 한 줄 (개정판)",
+    "oauthor": "박성철 글/배선형 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어린이를 위한 365 매일 읽는 긍정의 한 줄 (양장개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476081572",
+                "image": "https://shopping-phinf.pstatic.net/main_3247608/32476081572.20230225070846.jpg",
+                "author": "박성철",
+                "discount": "11700",
+                "publisher": "책이있는풍경",
+                "pubdate": "20140808",
+                "isbn": "9788993616408",
+                "description": "영어 실력도 덩달아 올라가는 ‘어린이표 긍정의 한 줄’ \n\n베스트셀러 《365 매일 읽는 긍정의 한 줄》의 어린이편으로 어린이들에게 꿈과 용기를 북돋우고 영어 실력도 쌓아준 《어린이를 위한 365 매일 읽는 긍정의 한 줄》이 새로운 편집과 디자인으로 출간되었다. 이 개정판에서는 어린이들에게 힘이 되고 위안이 되는 위인들의 말과 글을 좀 더 쉽고 읽기 편하게 했으며, 내용을 살려주는 다양한 삽화들로 보는 재미도 한껏 더했다.\n\n위대한 사람들이 남긴 말 한마디와 글 한 줄은 우리 인생을 커다란 나무로 자라게 해주는 귀중한 거름이다. 우리는 그들이 남긴 말과 글에서 힘을 얻고, 오늘을 가꾸며, 내일을 계획하고, 삶의 가치를 깨우친다. 특히 어린이들의 경우 가슴에 담은 한 줄의 명언은 어른이 되어서도 버팀목이 되고, 시련을 이겨내는 용기와 희망을 안겨준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책이있는풍경",
+                "DDC": "",
+                "UPDATE_DATE": "20140813",
+                "EA_ADD_CODE": "73800",
+                "PUBLISHER_URL": "http://chaekpung.com",
+                "AUTHOR": "박성철",
+                "SERIES_TITLE": "",
+                "KDC": "199",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3796960_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3796960_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3796960_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3796960_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014021335",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993616408",
+                "INPUT_DATE": "20140715",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "(개정판) 어린이를 위한 365 매일 읽는 긍정의 한 줄",
+                "PUBLISH_PREDATE": "20140808",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

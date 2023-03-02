@@ -1,0 +1,67 @@
+{
+    "otitle": "도스토옙스키 깊이 읽기",
+    "oauthor": "석영중 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "도스토옙스키 깊이 읽기 (종교와 과학의 관점에서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491345681",
+                "image": "https://shopping-phinf.pstatic.net/main_3249134/32491345681.20230219103214.jpg",
+                "author": "석영중",
+                "discount": "17280",
+                "publisher": "열린책들",
+                "pubdate": "20211030",
+                "isbn": "9788932921440",
+                "description": "고려대학교 노어노문학과에서 오랜 세월 도스토옙스키 강의를 해오며 여러 권의 도스토옙스키 관련서를 펴낸 석영중 교수가 지난 20여 년간 발표해 온 연구 성과들을 추려서 묶은 책. 러시아가 낳은 세계적인 대문호 도스토옙스키의 작품 세계의 핵심을 이루는 대표 작품들을 분석하며 그의 심오한 문학 세계를 조명한다.\n\n\n\n저자는 특히 와 이라는 코드를 중심으로 도스토옙스키의 작품들을 파고든다. 도스토옙스키는 독실한 그리스도교 신앙인이었고, 시베리아 유형 시절 뿌리내린 그리스도에 대한 믿음은 그의 중심 사상에 깊은 영향을 미쳤다. 그런 만큼 그의 소설에는 예외 없이 신과 인간의 문제가 깊이 새겨져 있다. \n\n\n\n또한 도스토옙스키는 과학에도 깊은 관심을 가지고 있었다. 그는 생물학, 기하학, 물리학, 의학에 대단히 관심이 많았고, 생애 후반까지도 늘 러시아와 유럽에서 발간되는 최신 자연 과학 서적을 탐독했다. 누구보다 예언적인 작가로 불리는 도스토옙스키는 정치, 경제, 사상, 윤리, 종교 등 여러 영역의 문제들을 한 세기 앞서 심오한 통찰력으로 예고했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "",
+                "UPDATE_DATE": "20211112",
+                "EA_ADD_CODE": "93890",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "석영중 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "132*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "398 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932921440",
+                "INPUT_DATE": "20211004",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "도스토옙스키 깊이 읽기",
+                "PUBLISH_PREDATE": "20211030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

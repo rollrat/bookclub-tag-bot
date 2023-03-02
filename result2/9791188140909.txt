@@ -1,0 +1,78 @@
+{
+    "otitle": "해녀들의 섬",
+    "oauthor": "리사 시 저/이미선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:32 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "해녀들의 섬 (리사 시 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467404657",
+                "image": "https://shopping-phinf.pstatic.net/main_3246740/32467404657.20221019150543.jpg",
+                "author": "리사 시",
+                "discount": "15300",
+                "publisher": "북레시피",
+                "pubdate": "20190808",
+                "isbn": "9791188140909",
+                "description": "제주 해녀가 뉴욕타임스 베스트셀러 작가의 소설로 태어나다!\n수많은 인터뷰와 방대한 자료 조사를 바탕으로 그려낸 역사의 진실\n\n운명의 거친 파도를 넘는 제주 해녀들의 강인한 생명력과 우정\n4.3의 잔인함과 용서의 힘을 보여주는 놀랍도록 아름다운 소설\n\n“바다에 들어가는 모든 여자는 등에 관을 짊어지고 가는 겁니다.” 그녀가 모여 있는 사람들에게 경고했다. “이 세상에서, 바닷속 세상에서 우리는 힘든 삶의 짐을 끌고 다닙니다. 우리는 매일 삶과 죽음 사이를 건너고 있습니다.” (p. 35)\n\n미국의 세계적인 베스트셀러 작가 리사 시의 『해녀들의 섬』은 여성이 생계를 이끌었던 제주의 모계 사회에서 딸로서 아내로서 어머니로서 희생을 자처해야 했지만 여성의 강인함을 잃지 않았던 해녀들의 삶을 생생하게 그려낸다. 또한 고통스러운 삶 속에서도 바다와 함께하는 일상 속에서 자연스럽게 꽃피어나는 그들의 우정과 유머와 용기를 엿볼 수 있으며, 무엇보다 소설은 세월의 비밀을 간직한 채 용서의 진정한 의미를 돌아보게 한다. 1938~2008년까지 한국의 근현대사가 파노라마처럼 펼쳐지는 가운데 4.3사건과 같은 비극적인 역사가 소설 속 인물들 이야기와 맞물려 긴박하게 전개되며 씻김굿, 혼례식, 장례 절차와 같은 제주도 특유의 전통 풍속을 흥미롭게 보여준다.\n\n용서는 개인적인 차원에서 일어날 수 있다. 내게, 혹은 내 가족에게 잘못을 저지른 사람을 용서할 수 있을까? 어떻게 용서할 것인지 고민하고 과연 용서가 가능하기나 한 것인지 의구심을 가졌던 때가 많았다. 제주도를 배경으로 한 소설 속 영숙과 미자의 관계는 용서라는 것이 과연 제대로 이루어질 수 있는지, 왜 용서가 이루어져야 하는지, 용서가 이루어지지 않으면 무슨 일이 벌어지는지 살펴볼 수 있는 기회를 제공해준다. - 「한국어판 서문」 중에서"
+            },
+            {
+                "title": "Island of Sea Women (『해녀들의 섬』원서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32545635802",
+                "image": "https://shopping-phinf.pstatic.net/main_3254563/32545635802.20220523151741.jpg",
+                "author": "리사 시",
+                "discount": "11500",
+                "publisher": "Simon & Schuster",
+                "pubdate": "20200220",
+                "isbn": "9781471183836",
+                "description": "Mi-ja and Young-sook, two girls living on the Korean island of Jeju, are best friends that come from very different backgrounds. When they are old enough, they begin working in the sea with their village’s all-female diving collective, led by Young-sook’s mother. As the girls take up their positions as baby divers, they know they are beginning a life of excitement and responsibility but also danger."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북레시피",
+                "DDC": "",
+                "UPDATE_DATE": "20190902",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "www.bookrecipe.co.kr",
+                "AUTHOR": "지은이: 리사 시 ;옮긴이: 이미선",
+                "SERIES_TITLE": "",
+                "KDC": "843.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "539 p.",
+                "CONTROL_NO": "CIP2019028310",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188140909",
+                "INPUT_DATE": "20190718",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "해녀들의 섬",
+                "PUBLISH_PREDATE": "20190808",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

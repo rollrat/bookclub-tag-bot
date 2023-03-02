@@ -1,0 +1,67 @@
+{
+    "otitle": "인류 역사에 담긴 음식문화 이야기",
+    "oauthor": "린다 시비텔로 저/최정희,이영미,김소영 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:06 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인류 역사에 담긴 음식문화 이야기 (선사시대부터 21세기까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32478501094",
+                "image": "https://shopping-phinf.pstatic.net/main_3247850/32478501094.20221230073234.jpg",
+                "author": "린다 시비텔로",
+                "discount": "20700",
+                "publisher": "린",
+                "pubdate": "20170510",
+                "isbn": "9791187265122",
+                "description": "음식을 매개체로 하여 인류의 역사를 통찰하고 있다. 음식은 한 사회를 구성하는 사람들의 정서와 가치관 그리고 생활습관 등이 응축되어 있는 대표적인 문화코드이다. 그러므로 우리 자신은 물론 다른 사회의 구성원, 더 넓게는 인류를 이해하기 위해서는 당연히 음식에 대한 이해가 동반되어야 한다. 이는 음식의 역사가 곧 인류의 역사이기도 하기 때문이다. 이런 점에서 이 책은 ‘무엇을 먹느냐’ 하는 가장 기본적인 차원에서 인류의 역사를 되돌아보는 기회를 제공한다.\n\n\n\n단순히 음식의 역사를 훑어보는 것에서 그치지 않는다는 점을 염두에 두고 볼 필요가 있다. 저자는 단순히 음식의 재료나 조리법 혹은 독특하고 기발한 음식들을 소개하려는 것이 아니라 음식을 중심에 두고 그것과 연관된 역사의 여러 측면들을 포괄적으로 담아내고 있다. 다시 말해 음식을 둘러싼 인류의 역사가 이 책에서 다루는 중요한 화두이다.\n\n\n\n이 책을 통해 우리는 인류가 걸어온 역사가 우리의 식탁을 어떻게 변화시켜 왔는지 이해할 수 있다. 역사와 문화 그리고 음식이 복잡하게 뒤섞인 재미있는 이야기들은 인류가 겪어온 중요한 역사적 사건들이 왜 그리고 어떻게 다양한 음식문화와 전통들을 만들어냈는지를 말해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)린",
+                "DDC": "394.12",
+                "UPDATE_DATE": "20170530",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.bookdaega.com",
+                "AUTHOR": "린다 시비텔로 지음|최정희, 이영미, 김소영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "381.75",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6196908_3.jpg",
+                "PRE_PRICE": "23000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6196908_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "464",
+                "CONTROL_NO": "CIP2017008926",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187265122",
+                "INPUT_DATE": "20170407",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "인류 역사에 담긴 음식문화 이야기",
+                "PUBLISH_PREDATE": "20170510",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

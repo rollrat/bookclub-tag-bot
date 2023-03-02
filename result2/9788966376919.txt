@@ -1,0 +1,67 @@
+{
+    "otitle": "인문학으로 자기계발하라",
+    "oauthor": "이관수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:09 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인문학으로 자기계발하라 (우리가 인문학을 공부해야 하는 이유)",
+                "link": "https://search.shopping.naver.com/book/catalog/32445232930",
+                "image": "https://shopping-phinf.pstatic.net/main_3244523/32445232930.20221228074541.jpg",
+                "author": "이관수",
+                "discount": "13500",
+                "publisher": "미다스북스",
+                "pubdate": "20190716",
+                "isbn": "9788966376919",
+                "description": "“우리는 왜 인문학을 공부해야 하는가?”\n불변의 지혜, 방대한 지식, 주체적인 사유를 배우는 가장 단단한 생각의 모험!\n\n방대한 양의 지식자산과 경험, \n현자들과의 만남을 통해 듣는 조언과 성찰! \n행복한 성장을 만드는 친구이자 인생의 변화를 이끄는 스승!\n\n매일 반복되는 일상, \n지금 바로 인문학으로 자기계발하라!\n\n우리는 직장과 집만을 왕복하기 위해 태어나지 않았다. 돈을 벌고 쓰고 모으기 위해 태어나지 않았다. 우리의 삶에는 내면의 행복과 성장을 위한 가치 있는 요소가 필요하다. 바로 인문학이다.\n\n인문학 열풍, 인문고전 교육 열풍이 분 지 오래다. 초등교육부터 성인 자기계발까지 휩쓸었다. 그러나 막상 인문학을 공부하려고 하면 막막한 것이 현실이다. 어디서부터 어떻게 공부해야 하는 걸까? 대체 인문학에서 뭘 얻을 수 있고, 또 우리는 뭘 얻으려고 해야 하는 걸까? 인문학 공부는 어렵고 막막하게만 느껴지고 결국 시작도 전에 먼저 지쳐버린다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191031",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이관수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "304 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788966376919",
+                "INPUT_DATE": "20190627",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "인문학으로 자기계발하라",
+                "PUBLISH_PREDATE": "20190716",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "돌뗏목",
+    "oauthor": "주제 사라마구 저/정영목 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "돌뗏목",
+                "link": "https://search.shopping.naver.com/book/catalog/32496087643",
+                "image": "https://shopping-phinf.pstatic.net/main_3249608/32496087643.20221019142021.jpg",
+                "author": "주제 사라마구",
+                "discount": "13050",
+                "publisher": "해냄출판사",
+                "pubdate": "20060213",
+                "isbn": "9788973377299",
+                "description": "1998년 으로 노벨문학상을 수상한 포르투갈 작가 주제 사라마구의 장편소설이다. '이베리아 반도의 분리'라는 환상적 장치를 통해 유럽 사회를 신랄하게 풍자하고, 포르투갈이 정체성을 찾아가는 여정을 보여준다.\n\n\n\n이베리아 반도 이곳저곳에서 다섯 명의 사람들이 표면적으로는 전혀 상관없어 보이는 초자연적인 현상을 경험한다. 얼마 후 피레네 산맥이 갈라지면서 이베리아 반도가 유럽 대륙으로부터 떨어져 나가기 시작한다.\n\n\n\n다섯 주인공들은 자신들이 겪은 기이한 사건들로 인해 한데 모인다. 그러나 북대서양을 향해 거대한 돌뗏목처럼 표류하던 이베리아 반도가 아조레스 제도와 출동할 위험이 예측되고, 제도와 맞부딪히게 되는 갈리시아 주민들의 대탈출이 시작된다.\n\n\n\n주제 사라마구의 1986년 작인 은 유럽통합을 앞두고 갈등하는 유럽의 변방 포르투갈의 고민에서 비롯되었다. '이베리아 반도의 분리'라는 초유의 사건 앞에서 포르투갈 정부당국이 보여주는 무능함이나 유럽과 미국이 자신들의 이해득실 앞에서 국제적 연대와 원조에 대한 입장을 바꾸어가는 모습은 우리를 둘러싼 현실에 대한 우화다.\n\n\n\n* 주제 사라마구의 &lt;A Jangada de Pedra&gt; (Caminho, 1986)를 영어로 옮긴 &lt;The Stone Raft&gt; (Harvill, 1994)를 중역했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20060322",
+                "EA_ADD_CODE": "03870",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "주제 사라마구 지음;정영목 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "11000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8973377299",
+                "INPUT_DATE": "20060322",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "돌뗏목",
+                "PUBLISH_PREDATE": "20060213",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

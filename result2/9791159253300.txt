@@ -1,0 +1,67 @@
+{
+    "otitle": "미스터잼의 수제차 레시피",
+    "oauthor": "배필성 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미스터잼의 수제차 레시피 (과일청보다 건강하고 효소보다 간단한 홈메이드 액상차)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438173073",
+                "image": "https://shopping-phinf.pstatic.net/main_3243817/32438173073.20220527052652.jpg",
+                "author": "배필성",
+                "discount": "0",
+                "publisher": "들녘",
+                "pubdate": "20180430",
+                "isbn": "9791159253300",
+                "description": "설탕을 듬뿍 넣고 맛이 들기를 기다려야 하는\n 청이나 효소보다 간단하고,\n 가스가 차거나 쉽게 변질되지 않아 안전한 홈메이드 액상차\n\n프락토올리고당, 레몬즙, 전기보온밥솥만 있으면 OK!\n잼 마스터 미스터잼이 선보이는 수제차 레시피!\n\n고사리로도 잼을 뚝딱 만들어내는 수제잼 전문가인 미스터잼이 왜 차茶 만들기 책을 쓰게 되었을까? 그 이유는 간단하다. 잼 만들기와 액상차 만들기는 비슷하다. 이론의 95%가 동일하기 때문이다.\n미스터잼은 수강생이나 지인들로부터 ‘청 만드는 법’ ‘효소 만드는 법’ ‘코디얼 만드는 법’에 대한 질문을 많이 받았다. 청, 효소, 서양의 코디얼은 식품공전상 크게 보아 ‘액상차’다.(액상차라는 말이 익숙하지 않다면 흔히 마시는 ‘유자차’를 생각하면 된다.) 그래서 미스터잼은 연구를 거듭했다. 설탕을 듬뿍 넣지 않고도, 맛이 들기까지 몇 달 기다리지 않고도, 보관 중에 가스가 차거나 맛이 변질되어서 버려야 하는 일이 없는 액상차를 집에서 만들 수는 없을까?\n미스터잼은 수많은 연구 끝에, 프락토올리고당(NO 설탕)과 레몬즙만 넣고, 전기보온밥솥으로 가열해 추출하는 방법으로 만드는 홈메이드 액상차 레시피를 완성했다. 이 레시피를 사용하면 흔한 과일은 물론 갖가지 다양한 재료를 넣어 나만의 액상차를 만들 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "641.3372",
+                "UPDATE_DATE": "20180517",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "배필성 지음",
+                "SERIES_TITLE": "",
+                "KDC": "594.39",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6635919_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "160 p.",
+                "CONTROL_NO": "CIP2018012274",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791159253300",
+                "INPUT_DATE": "20180418",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(전기밥솥 하나로 끝내는 미스터잼의) 수제차 레시피",
+                "PUBLISH_PREDATE": "20180430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

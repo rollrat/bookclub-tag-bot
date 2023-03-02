@@ -1,0 +1,78 @@
+{
+    "otitle": "도쿄! 스토리를 찾아 떠나는 미식 산책",
+    "oauthor": "이지성저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:26 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "도쿄! 스토리를 찾아 떠나는 미식 산책(큰글자도서)",
+                "link": "https://search.shopping.naver.com/book/catalog/34915281620",
+                "image": "https://shopping-phinf.pstatic.net/main_3491528/34915281620.20230207165731.jpg",
+                "author": "이지성",
+                "discount": "35100",
+                "publisher": "이담북스",
+                "pubdate": "20221005",
+                "isbn": "9791168016972",
+                "description": "도쿄의 맛을 찾아 떠나는 특별한 여행!\n\n드라마와 만화 속 스토리를 찾아, \n도쿄의 매력적인 맛집을 산책하다!\n\n#1  음식을 음미하며 행복한 고독을 즐기는, 〈고독한 미식가〉\n#2  라면 먹방의 대폭발! 〈라면이 너무 좋아, 고이즈미 씨〉\n#3  안주와 술을 사랑하는 와카코의 먹방 초대, 〈와카코와 술〉\n#4  매력적인 음식에 반해버리는, 〈여자 구애의 밥〉\n#5  달콤하고 맛있는 농땡이! 〈세일즈맨 칸타로의 달콤한 비밀〉\n#6  평범한 일상의 행복, 〈빵과 스프, 고양이와 함께 하기 좋은 날〉\n#7  맛있는 밥만 있다면 혼자인 삶도 행복한, 〈호쿠사이와 밥만 있으면〉\n#8  첫눈에 반해버리는 것처럼 달콤한, 〈실연 쇼콜라티에〉\n#9  치유되는 따뜻한 음식 한 끼, 〈심야식당〉\n#10 일상 속 즐거운 맛 탐방! 〈사랑이 없어도 먹고 살 수 있습니다〉"
+            },
+            {
+                "title": "도쿄! 스토리를 찾아 떠나는 미식 산책",
+                "link": "https://search.shopping.naver.com/book/catalog/32466555145",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466555145.20230117165049.jpg",
+                "author": "이지성",
+                "discount": "16200",
+                "publisher": "이담북스",
+                "pubdate": "20190430",
+                "isbn": "9788926887981",
+                "description": "도쿄의 맛을 찾아 떠나는 특별한 여행!\n\n드라마와 만화 속 스토리를 찾아, \n도쿄의 매력적인 맛집을 산책하다!\n\n#1  음식을 음미하며 행복한 고독을 즐기는, \n#2  라면 먹방의 대폭발! \n#3  안주와 술을 사랑하는 와카코의 먹방 초대, \n#4  매력적인 음식에 반해버리는, \n#5  달콤하고 맛있는 농땡이! \n#6  평범한 일상의 행복, \n#7  맛있는 밥만 있다면 혼자인 삶도 행복한, \n#8  첫눈에 반해버리는 것처럼 달콤한, \n#9  치유되는 따뜻한 음식 한 끼, \n#10 일상 속 즐거운 맛 탐방!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20221130",
+                "EA_ADD_CODE": "03980",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "이지성 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20221005",
+                "TITLE_URL": "",
+                "PRE_PRICE": "39000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "200*276",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "397 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168016972",
+                "INPUT_DATE": "20220824",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "도쿄! 스토리를 찾아 떠나는 미식 산책",
+                "PUBLISH_PREDATE": "20221005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

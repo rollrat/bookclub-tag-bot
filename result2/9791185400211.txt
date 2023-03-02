@@ -1,0 +1,67 @@
+{
+    "otitle": "판타지 -웹소설 작가를 위한 장르 가이드2",
+    "oauthor": "전홍식,박애진 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "웹소설 작가를 위한 장르 가이드 2: 판타지",
+                "link": "https://search.shopping.naver.com/book/catalog/32481436633",
+                "image": "https://shopping-phinf.pstatic.net/main_3248143/32481436633.20221019131730.jpg",
+                "author": "전홍식",
+                "discount": "8820",
+                "publisher": "북바이북",
+                "pubdate": "20151220",
+                "isbn": "9791185400211",
+                "description": "『웹소설 작가를 위한 장르 가이드』는 창작자를 위한 장르 개론서다. 2권 판타지 편에서는 판타지 장르의 특징과 다양한 하위 장르, 『반지의 제왕』에서 게임 판타지까지 판타지 장르의 고전으로 꼽히는 작품들을 다룬다. 또 현역 작가들이 들려주는 작법 노하우와 부록으로 추천도서를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "808.3",
+                "UPDATE_DATE": "20160122",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전홍식, 박애진",
+                "SERIES_TITLE": "",
+                "KDC": "802.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185400198",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5076775_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5076775_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 120페이지 내외",
+                "CONTROL_NO": "CIP2015033530",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400211",
+                "INPUT_DATE": "20151204",
+                "SET_EXPRESSION": "",
+                "VOL": "2",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "웹소설 작가를 위한 장르 가이드 - 판타지",
+                "PUBLISH_PREDATE": "20151220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

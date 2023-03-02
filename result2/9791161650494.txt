@@ -1,0 +1,67 @@
+{
+    "otitle": "나혼자 끝내는 독일어 단어장",
+    "oauthor": "안희철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:44 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나혼자 끝내는 독일어 단어장 (MP3 + 단어 암기 동영상 포함) (MP3 + 단어 암기 동영상 포함)",
+                "link": "https://search.shopping.naver.com/book/catalog/32488042567",
+                "image": "https://shopping-phinf.pstatic.net/main_3248804/32488042567.20221231084304.jpg",
+                "author": "안희철",
+                "discount": "10080",
+                "publisher": "넥서스",
+                "pubdate": "20170730",
+                "isbn": "9791161650494",
+                "description": "『나혼자 끝내는 독일어 단어장』은 독일어 독학자들이 혼자서 30일 만에 단어를 암기할 수 있도록 구성되어 있습니다. 기초 단어 약 600개를 포함하여 일상생활에서 활용도가 높은 필수 단어 약 2,000개를 수록하고 있습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "438",
+                "UPDATE_DATE": "20170907",
+                "EA_ADD_CODE": "13750",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "안희철 지음",
+                "SERIES_TITLE": "",
+                "KDC": "754",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6297356_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6297356_3.jpg",
+                "PRE_PRICE": "11200",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "스프링제본",
+                "PAGE": "216 p.",
+                "CONTROL_NO": "CIP2017018473",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161650494",
+                "INPUT_DATE": "20170726",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "(나혼자 끝내는) 독일어 단어장",
+                "PUBLISH_PREDATE": "20170730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

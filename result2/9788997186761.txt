@@ -1,0 +1,67 @@
+{
+    "otitle": "과학책은 처음입니다만",
+    "oauthor": "이정모 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학책은 처음입니다만 (털보 과학관장이 들려주는 과학책 읽기의 즐거움)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504569680",
+                "image": "https://shopping-phinf.pstatic.net/main_3250456/32504569680.20230222101543.jpg",
+                "author": "이정모",
+                "discount": "15300",
+                "publisher": "사월의책",
+                "pubdate": "20190410",
+                "isbn": "9788997186761",
+                "description": "“가장 믿음직스러운 지식탐험가”\n이정모 관장의 본격 주례사 과학서평집\n\n『과학책은 처음입니다만』은 어떤 과학책이 얼마나 좋고, 얼마나 재미있고, 또 얼마나 유익한지에 대해서 ‘미리’ 알려주는 본격 과학서평집이다. 저자 이정모 관장은 한국을 대표하는 과학 커뮤니케이터로 유명하다. 출판계에는 “과학책은 이정모 관장의 추천사가 들어가는 책, 들어가지 않는 책 두 종류로 나뉜다”는 농담이 있을 정도다. 뇌과학자 정재승이 그를 가리켜 “가장 믿음직스러운 지식탐험가”라고 부르는 건 결코 과장이 아니다.\n\n이정모 관장은 세상의 모든 과학책을 섭렵하고, 그중 우리에게 매력적인 책만을 골라 친절하게 소개한다. 그리하여 마지막 책장을 덮을 때쯤, 독자들은 ‘책들의 지도’를 넘어 ‘지식의 지형도’를 선물처럼 얻게 된다. 나아가 진지한 사유뿐 아니라 생활의 유머와 독서의 즐거움까지 담뿍 담아냈다. 모든 사람들에게 권할 수 있는 쉽고, 재미있고, 유익한 ‘생활밀착형’ 과학서평집이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "사월의책",
+                "DDC": "",
+                "UPDATE_DATE": "20190409",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.aprilbooks.net",
+                "AUTHOR": "이정모 지음",
+                "SERIES_TITLE": "",
+                "KDC": "029.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "146*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "430 p.",
+                "CONTROL_NO": "CIP2019009742",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997186761",
+                "INPUT_DATE": "20190313",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "과학책은 처음입니다만",
+                "PUBLISH_PREDATE": "20190410",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

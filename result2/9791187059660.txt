@@ -1,0 +1,67 @@
+{
+    "otitle": "골프의 기쁨",
+    "oauthor": "강찬욱 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "골프의 기쁨 (골프 하며 배우고, 배우면서 골프 하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455926117",
+                "image": "https://shopping-phinf.pstatic.net/main_3245592/32455926117.20221019115354.jpg",
+                "author": "강찬욱",
+                "discount": "12960",
+                "publisher": "끌리는책",
+                "pubdate": "20210421",
+                "isbn": "9791187059660",
+                "description": "골프를 안 했다면 절대 알 수 없는 기쁨!\n\n함께 걷는 친구에게 꼭 선물하고 싶은 책!\n골프 잘 치는 법, 잘 즐기고 이기는 법!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "끌리는책",
+                "DDC": "",
+                "UPDATE_DATE": "20210618",
+                "EA_ADD_CODE": "03690",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "강찬욱 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187059660",
+                "INPUT_DATE": "20210329",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "골프의 기쁨",
+                "PUBLISH_PREDATE": "20210421",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

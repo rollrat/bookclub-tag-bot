@@ -1,0 +1,67 @@
+{
+    "otitle": "비거닝",
+    "oauthor": "이라영,김산하,김사월,조지 몽비오,신소윤,김성한,박규리,이의철,조한진희,강하라 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비거닝 (채식에 기웃거리는 당신에게)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506165081",
+                "image": "https://shopping-phinf.pstatic.net/main_3250616/32506165081.20230207163605.jpg",
+                "author": "이라영",
+                "discount": "12100",
+                "publisher": "동녘",
+                "pubdate": "20200928",
+                "isbn": "9788972979661",
+                "description": "기후 위기 때문에, 동물이 불쌍해서, 건강에 좋다니까, ‘힙’해서 …\n\n뭐라도 하고 싶지만 완벽할 자신이 없다면,\n가늘고 긴 ‘회색 채식’의 세계로 초대합니다!\n\n이런저런 이유로 비건에 기웃거리거나 지향하고 있지만, 완벽하지 않아 쑥스럽고, 그렇다고 완벽해질 엄두는 나지 않아 고민인 ‘회색 채식인’들을 위한 가늘고 긴 비거니즘 이야기.\n채식을 시도해본 사람이라면 공감할 수밖에 없는 도전과 실패의 기록부터, 불완전한 채식이 어째서 안 하는 것보다는 나은지에 대한 이야기, 그리고 오늘날 비건 열풍을 향한 성찰적 시선까지 서로 다른 분야에서 활동해온 열 명의 작가들이 다양한 각도에서 채식과 채식인을 바라본다.\n‘사라지지 않는 것’을 선뜻 말하기 어려워진 위태로운 지구에서, 채식은 변화를 위한 중요한 실마리다. 그렇기에 이 책은 빈틈이 좀 있어도 괜찮다고 말한다. 때때로 제자리여도 멈추지만 않는다면, 그래서 내일이 손톱만큼이라도 나아진다면, 그리고 우리가 그런 미래로 다 같이 걸어갈 수 있다면, 가만히 있느니 뭐라도 해보자고 말이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20201019",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "지은이: 이라양,김산하,김사월,조지 몽비오,신소윤,김성한,박규리,이의철,조한진희,강하라",
+                "SERIES_TITLE": "",
+                "KDC": "517.548",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*174",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "182 p.",
+                "CONTROL_NO": "CIP2020034837",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972979661",
+                "INPUT_DATE": "20200819",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "비거닝",
+                "PUBLISH_PREDATE": "20200928",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "인간을 이해하는 아홉 가지 단어",
+    "oauthor": "한국철학사상연구회 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인간을 이해하는 아홉 가지 단어 (소수자에서 사이보그까지 인간 존재를 묻는 철학 키워드)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492215934",
+                "image": "https://shopping-phinf.pstatic.net/main_3249221/32492215934.20221019142104.jpg",
+                "author": "한국철학사상연구회",
+                "discount": "13500",
+                "publisher": "동녘",
+                "pubdate": "20101015",
+                "isbn": "9788972976240",
+                "description": "‘세상을 밝히는 지식교양’ 시리즈 1권. &lt;인간을 이해하는 아홉 가지 단어&gt;에는 우리가 외면하는 소수자들, 인정받고 싶어 하는 나, 가족 속의 나, 기술사회의 자아, 이기적 혹은 이타적인 인간의 본성, 욕망, 역사 속의 개인, 인간으로 돌아가는 길, 인간의 사이보그화 등의 문제를 짚어보며 ‘인간’이란 존재의 비밀을 풀어간다. \n\n\n\n한국철학사상연구회의 젊은 연구자들의 공동 집필로 완성된 ‘세상을 밝히는 지식교양’ 시리즈는 지식과 교양은 단순히 배워야하는 것이 아닌, ‘나’의 삶과 관계되는 것들이라는 문제의식이 시리즈의 전편에 깔려있다. 지식이라는 것은 스스로 질문을 하는 삶의 태도와 관련되기 때문이다. 올바른 질문, 그 자체가 바로 문제 해결의 실마리가 된다. 이 시리즈는 , , 이라는 3가지 큰 주제로 시리즈를 구성하고, 그 큰 주제 하나당 다시 9개의 단어를 뽑아 총 27개의 키워드로 책을 꾸몄다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "001",
+                "UPDATE_DATE": "20101027",
+                "EA_ADD_CODE": "04100",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "한국철학사상연구회",
+                "SERIES_TITLE": "세상을 밝히는 지식교양",
+                "KDC": "001",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2430922_6.txt",
+                "SET_ISBN": "9788972976233",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2430922_3_1.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2430922_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/cipfiles/CIP_FILES_TBL/2430922_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2010003489",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9788972976240",
+                "INPUT_DATE": "20100928",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "인간을 이해하는 아홉 가지 단어",
+                "PUBLISH_PREDATE": "20101015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04100 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

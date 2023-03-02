@@ -1,0 +1,67 @@
+{
+    "otitle": "조선의약생활사",
+    "oauthor": "신동원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조선의약생활사 (환자를 중심으로 본 의료 2000년)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497465620",
+                "image": "https://shopping-phinf.pstatic.net/main_3249746/32497465620.20221019105309.jpg",
+                "author": "신동원",
+                "discount": "35100",
+                "publisher": "들녘",
+                "pubdate": "20140829",
+                "isbn": "9788975270055",
+                "description": "의사 중심의 의학사에서 환자 중심의 의학사로!\n\n『조선의약생활사』는 환자를 중심으로 의료 2000년의 역사를 살펴본 책이다. 병은 사람들의 일상생활에서 흔히 마주치는 존재이다. 병의 치유와 관련된 행위는 인간의 일상생활에서 중요한 부분이고 시대적 조건에 따라 그것이 어떠한 모습을 띠었는지 아는 것은 생활사 연구의 주요 대상이 된다. 따라서 그것을 밝힘으로써 역사의 대상이 되는 모든 사람들의 의료생활을 파악할 수 있다고 보고 있다. 의학 역사서들이 의학 지식과 기술의 발전에 초점을 맞추었지만, 이 책은 환자의 역사의 관점에서 구체적으로 환자의 병력과 이환의 모습을 살피고, 다양한 형태의 의료 추구 행위, 의료 현장, 간병의 모습을 생생히 포착하였다. \n\n책에서는 환자들이 누구였는지, 그들이 어떤 치병행위를 이용했는지, 어떻게 의료제도가 만들어지고 작동했는지를 우리 옛 조상의 대부분을 이루는 평민과 천민들의 일상 삶과 관련해 소개하고 있다. 더불어, 잘 알려진 인물인 고려의 이규보, 조선 전기의 이황, 조선후기의 정약용 등의 사례를 통해 한 개인의 병앓이 모습을 일일이 드러내어 미시사 서술을 지향하고 있다. 또한, 성주 지방에서 의원 노릇을 한 이문건이 남긴 ‘묵재일기’ 기사를 분석해 시골에서 이루어진 이문건 식구, 노비, 이웃의 사족들 등 환자 진료의 전모를 꼼꼼히 다루었다. 뿐만 아니라 무당, 점쟁이, 승려들의 의약활동도 읽어내어 환자의 병고에 깔린 인간적인 고뇌와 의약생활의 사회구조적 측면, 시대에 따른 변화와 동인을 놓치지 않고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "들녘",
+                "DDC": "615.321",
+                "UPDATE_DATE": "20141010",
+                "EA_ADD_CODE": "93900",
+                "PUBLISHER_URL": "http://www.dulnyouk.co.kr",
+                "AUTHOR": "신동원",
+                "SERIES_TITLE": "",
+                "KDC": "519.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3903076_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3903076_3.jpg",
+                "PRE_PRICE": "39000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3903076_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3903076_7.jpg",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014023966",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788975270055",
+                "INPUT_DATE": "20140813",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "조선의약생활사",
+                "PUBLISH_PREDATE": "20140825",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

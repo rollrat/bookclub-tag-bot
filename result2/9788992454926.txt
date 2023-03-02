@@ -1,0 +1,67 @@
+{
+    "otitle": "OTT 플랫폼 대전쟁",
+    "oauthor": "고명석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "OTT 플랫폼 대전쟁 (코로나 팬데믹 이후 디지털 플랫폼의 미래)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482026026",
+                "image": "https://shopping-phinf.pstatic.net/main_3248202/32482026026.20221228072443.jpg",
+                "author": "고명석",
+                "discount": "16200",
+                "publisher": "새빛",
+                "pubdate": "20200720",
+                "isbn": "9788992454926",
+                "description": "코로나 판데믹 이후 디지털 플랫폼의 미래 \nOTT 플랫폼 대전쟁!\n\n이 책의 집필 시기는 전대미문의 코로나바이러스가 글로벌하게 기승을 벌이던 피크였다. 대전염 즉, 판데믹(pandemic)에까지 이른 것이다. 인류의 역사에서 지금의 시기만큼 단일의 이슈가 전 세계를 강타한 적은 없었던 것 같다. 글로벌 차원의 밸류체인의 붕괴, 증시의 대폭락과 이에 대응하여 미 연준(Fed)과 각국 중앙은행들의 천문학적인 양적완화(QE) 조치 등이 이어졌다. 코로나바이러스 판데믹의 시대는 전후가 확연하게 다르다. 코로나바이러스는 국가, 인종, 종교, 이념, 지역 등을 구분하지 않고 가히 전면적인 위기를 초래하였다. 인류 각 단위에서의 신뢰(trust)에 대한 시험(test)을 하고 있는 것이다. 각 단위의 과학기술의 역량뿐만 아니라 구성체의 잠재적, 현재적 생존 역량까지도 시험하고 있다. \n\n코로나바이러스 판데믹과 관련해서 본서의 주제와 이어지는 점은 바로 사회적 거리두기 혹은 비대면이라는 언택트(untact)가 권장되는 사회적 환경에서 디지털 플랫폼 부문이 더욱 강조되었다는 사실이다. 이 부문의 산업과 기업들이 역설적으로 타 부문에 비해서 안정적인 대응 혹은 성장의 흐름을 이어가고 있다는 점이 눈에 띤다. 본서의 가설 즉, 디지털 플랫폼의 성장세가 이어질 것이라는 점이 판데믹 시대에서도 역설적으로 확인되었다. 이는 각종 통계 수치로도 드러난다. 넷플릭스로 대표되는 OTT, 아마존닷컴으로 대표되는 디지털 플랫폼 등은 판데믹의 위기에도 역설적으로 성장세를 이어가고 있다. 디지털 플랫폼 시대가 한층 심화되고 있는 것이다. 본서는 이 흐름에 대한 탐구다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "새빛 :아미푸드앤미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20200731",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "www.bookclass.co.kr",
+                "AUTHOR": "고명석 지음",
+                "SERIES_TITLE": "",
+                "KDC": "326.78",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/06/9788992454926.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "320 p.",
+                "CONTROL_NO": "CIP2020028056",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788992454926",
+                "INPUT_DATE": "20200706",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "OTT 플랫폼 대전쟁",
+                "PUBLISH_PREDATE": "20200725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

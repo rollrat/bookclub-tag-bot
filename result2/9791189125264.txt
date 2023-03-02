@@ -1,0 +1,67 @@
+{
+    "otitle": "하루 5분 엄마의 말습관",
+    "oauthor": "임영주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하루 5분 엄마의 말습관 (일상의 작은 언어에서 시작되는 아이의 놀라운 기적)",
+                "link": "https://search.shopping.naver.com/book/catalog/32459002010",
+                "image": "https://shopping-phinf.pstatic.net/main_3245900/32459002010.20221019132358.jpg",
+                "author": "임영주",
+                "discount": "13320",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20180806",
+                "isbn": "9791189125264",
+                "description": "엄마의 말 한마디는 아이의 인생이 된다!\n\n《아이의 뇌를 깨우는 존댓말의 힘》과 《우리 아이를 위한 자존감 수업》으로 효과적인 아이 교육에 말의 힘(The Power of Words)을 강조해온 임영주 교수가 엄마의 일상 언어 습관에 주목해 구체적으로 엄마의 어떠한 말습관이 아이의 능력 및 정서 발달에 영향을 끼치는지 실제 상담 사례를 토대로 꼼꼼하게 분석하고 솔루션을 제시하는 『하루 5분 엄마의 말습관』. \n\n아이는 자라면서 엄마의 말을 가장 많이 듣는다. 엄마의 말이 중요한 이유다. 저자는 평소에 엄마가 말할 때 가장 중요한 점은 자신의 말이 아이에게 어떤 영향을 끼칠지 미리 생각해보는 것이라고 강조하며 아이의 자존감부터 학습 능력까지 엄마가 일상적인 말로써 아이를 잘 키우는 비법을 소개한다. 하루에 5분, 엄마로서 아이에게 할 말을 의식하면서 사용하는 동안 아이의 행동은 물론 마음까지 변화시켜나갈 수 있기를 바라고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예담friend :위즈덤하우스 미디어그룹",
+                "DDC": "649",
+                "UPDATE_DATE": "20180809",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr/",
+                "AUTHOR": "임영주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "378.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6742001_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "303 p.",
+                "CONTROL_NO": "CIP2018021851",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189125264",
+                "INPUT_DATE": "20180711",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(하루 5분) 엄마의 말습관",
+                "PUBLISH_PREDATE": "20180806",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "이네의 교실",
+    "oauthor": "장인혜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이네의 교실 (세상을 바꿀 초등교실의 마음언어 68)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455931886",
+                "image": "https://shopping-phinf.pstatic.net/main_3245593/32455931886.20221227203350.jpg",
+                "author": "장인혜",
+                "discount": "10370",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20201005",
+                "isbn": "9791190927710",
+                "description": "아이들을 사로잡은 \nSNS 인플루언서 이네 쌤의 마음 수업\n\n요즘 아이들은 무슨 생각을 할까?\n요즘 아이들은 어떤 노래를 좋아하지?\n강요가 아닌, 공감으로 아이들의 마음을 사로잡는 \n소통 공감 수업이 시작된다\n\n▶ 이네 쌤 인스타 댓글들\n“마음속 보석은 어떻게 뽑나요?”\n“아이들과 어떤 놀이를 함께 해볼 수 있을까요?\n“인스타에서 선생님 수업 보고 교대 진학을 했습니다!”\n“우리 아이의 선생님도 이네 쌤 같으면 좋겠어요….”\n 이네 쌤의 수업에 대한 관심과 궁금증! 《이네의 교실》을 통해 구석구석 살펴보자!  \n\n“인스타그램에서 발견한 \n따뜻한 진심, 해맑은 동심. \n이네 쌤의 수업을 들여다보며 세상이 환해지는 순간을 \n함께 느껴보세요!“\n_ 김차명[참쌤스쿨 대표, 경기도교육청 미디어 담당 장학사]\n\n우리는 모두 마음속에 빛나는 보석을 가지고 있습니다. 하지만 자주 들여다보지 않아 먼지가 쌓여 그대로 시간이 흐르면 어느 순간 있는 줄도 모르게 되지요. 처음부터 자기 안 에는 그런 것이 없었다며 자신을 믿지 못하게 될지도 몰라요. 교사는 그럴 때 아이들을 전적으로 믿어 주는 울타리 같은 사람이 되어야 합니다. \t\t\t\t\t\t\t\t\t\t_프롤로그 중에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스books :넥서스",
+                "DDC": "",
+                "UPDATE_DATE": "20201026",
+                "EA_ADD_CODE": "03370",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "장인혜 지음",
+                "SERIES_TITLE": "",
+                "KDC": "370.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/09/16/9791190927710.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "134*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "CIP2020039948",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190927710",
+                "INPUT_DATE": "20200916",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "이네의 교실",
+                "PUBLISH_PREDATE": "20201005",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

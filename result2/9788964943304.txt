@@ -1,0 +1,78 @@
+{
+    "otitle": "멘사코리아 논리 퍼즐",
+    "oauthor": "멘사코리아?퍼즐위원회 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:49 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "멘사코리아 논리 퍼즐 (IQ 148을 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32457150654",
+                "image": "https://shopping-phinf.pstatic.net/main_3245715/32457150654.20220527034423.jpg",
+                "author": "멘사코리아 퍼즐위원회",
+                "discount": "0",
+                "publisher": "보누스",
+                "pubdate": "20180205",
+                "isbn": "9788964943304",
+                "description": "《멘사코리아 논리 퍼즐》은 멘사코리아 퍼즐위원회이자 두뇌 계발 전문가들이 만든 책이다. 퍼즐을 푸는 동안 사고력과 창의력이 자연스레 키워지도록 퍼즐을 치밀하게 설계했다. 한글 창제 원리와 마방진 등을 활용한 색다른 퍼즐을 선보이는 동시에 고난도 퍼즐을 담아 퍼즐 마니아들의 도전 욕구를 불러일으킨다. 지적 호기심을 충족시켜줄 157개의 문제를 만나보자."
+            },
+            {
+                "title": "멘사코리아 논리 트레이닝 (IQ 148을 위한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466624270",
+                "image": "https://shopping-phinf.pstatic.net/main_3246662/32466624270.20230103165236.jpg",
+                "author": "데스 맥헤일",
+                "discount": "8820",
+                "publisher": "보누스",
+                "pubdate": "20220215",
+                "isbn": "9788964945353",
+                "description": "멘사코리아 핵심 멤버가 만든 멘사의 바이블, 《멘사코리아 논리 트레이닝》을 만나보자. 디지털 · 메타버스 시대에 주목받는 문해력, 전달력, 커뮤니케이션 능력을 뒷받침하는 논리적 사고를 키워준다. 인공지능과 뇌과학을 연구하는 두뇌 계발 분야의 최전선에 있는 전문가들이 만든 멘사퍼즐을 풀다 보면 내 안에 잠들어 있던 천재성이 깨어날 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "보누스",
+                "DDC": "793.74",
+                "UPDATE_DATE": "20180302",
+                "EA_ADD_CODE": "04410",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "멘사코리아 퍼즐위원회 지음",
+                "SERIES_TITLE": "",
+                "KDC": "691",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6419764_6.txt",
+                "SET_ISBN": "9788964943069",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6419764_3.jpg",
+                "PRE_PRICE": "7900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "264 p.",
+                "CONTROL_NO": "CIP2017029140",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964943304",
+                "INPUT_DATE": "20171106",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(IQ 148을 위한) 멘사코리아 논리 퍼즐",
+                "PUBLISH_PREDATE": "20180205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04410 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "암을 이기는 면역영양케톤식",
+    "oauthor": "아소 레이미 저/이정은 역/후로카와 겐지 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "암을 이기는 면역영양 케톤식 (암 치료와 예방을 위한 식사요법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467096085",
+                "image": "https://shopping-phinf.pstatic.net/main_3246709/32467096085.20221230071716.jpg",
+                "author": "아소 레이미",
+                "discount": "11700",
+                "publisher": "문예춘추사",
+                "pubdate": "20191015",
+                "isbn": "9788976043979",
+                "description": "암세포의 주 영양분은 당질\n케톤식으로 암세포는 소멸하고 정상세포는 예방한다\n\n이 책에서 소개하는 ‘면역영양케톤식’의 원리는 간단하다. 암 환자의 식사에서 당질을 95% 이상 극단적으로 제한하는 ‘당질 제한 식이요법’을 하는 것이다. \n\n일본의 후루카와 겐지 박사는 암세포의 자양분도 역시 당(탄수화물)이라는 점에 착안하여 암세포에 당(탄수화물)을 제한하는 당질 제한 식이요법, 즉 ‘면역영양케톤식’을 개발했다. 이 임상시험에서 ‘면역영양케톤식’을 3개월 이상 실시한 말기 암 환자 83%에서 암이 사라지거나(완전완화), 30% 이상 암세포가 소멸한(부분완화) 효과를 입증했다.\n\n이 책은 ‘면역영양케톤식’ 이론과 함께 실천을 위한 60가지 메뉴와 레시피도 소개하고 있다. 환자들이 치료 중에 발생하는 식욕 부진과 식사 제한에 따른 영양 상태 악화를 개선하는 데 큰 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문예춘추사",
+                "DDC": "",
+                "UPDATE_DATE": "20191126",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "아소 레이미 지음 ;이정은 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "159 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788976043979",
+                "INPUT_DATE": "20190904",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(암을 이기는) 면역영양케톤식",
+                "PUBLISH_PREDATE": "20191015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

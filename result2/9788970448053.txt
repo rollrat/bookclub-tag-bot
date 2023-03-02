@@ -1,0 +1,67 @@
+{
+    "otitle": "99의? 발명과 발견",
+    "oauthor": "미쯔이시 이와오 저/손영수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:23 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "99의? 발명과 발견 (99의?, 누가? 왜? 어떻게 처음 발견했을까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461281757",
+                "image": "https://shopping-phinf.pstatic.net/main_3246128/32461281757.20221229070917.jpg",
+                "author": "미쯔이시 이와오",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20180223",
+                "isbn": "9788970448053",
+                "description": "발명과 발견을 마음껏 예찬하자!\n\n「반(反)과학」을 말하는 과학자가 있다. 「합리주의의 시대는 끝났다」고 선언하는 학자도 있다. 이러한 풍조 속에서 발명·발견을 재인식하려고 시도하는 나의 의도를 시대착오라고 비판하는 사람이 있을 것이다. 그것을 알면서도 새삼스럽게 발명·발견에 관하여 쓰는 것은 그만한 이유가 있다. 나에게는 과학세계 또는 과학기술 세계에서의 인류의 활동이 대단히 귀중하게 여겨지기 때문이다.\n\n항생물질의 발견은 인류의 평균수명을 20년이나 연장시켰다. 로켓의 발명은 달세계 탐험을 가능케 하였다. 정지위성의 발명은 지구 뒷면에서 일어나는 일을 앉아서 볼 수 있게 하였다. 원자로의 발명은 석유자원이 고갈될 위협에서 문명을 구할 것이다. 인터페론의 발견은 B형 감염환자 1억에게 복음이 될 것이다.\n\n그리고 지금 전 세계는 암에 대한 효과적 치료법을 과학에 요청하고 있다. 나는 여기에서, 발명·발견을 무조건 예찬하는 셈이 되었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20180425",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "미쯔이시 이와오 지음 ;손영수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "199 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970448053",
+                "INPUT_DATE": "20180213",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "(99의 ?) 발명과 발견",
+                "PUBLISH_PREDATE": "20180323",
+                "RELATED_ISBN": "9788970448022",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

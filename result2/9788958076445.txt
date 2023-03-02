@@ -1,0 +1,67 @@
+{
+    "otitle": "안녕하세요, 시간입니다",
+    "oauthor": "슈테판 클라인 저/유영미 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "안녕하세요, 시간입니다 (심리학과 뇌과학이 파헤친 시간의 비밀)",
+                "link": "https://search.shopping.naver.com/book/catalog/32496305021",
+                "image": "https://shopping-phinf.pstatic.net/main_3249630/32496305021.20221019104455.jpg",
+                "author": "슈테판 클라인",
+                "discount": "13500",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20170619",
+                "isbn": "9788958076445",
+                "description": "시간의 숨겨진 비밀을 찾아서!\n\n만인에게 평등하지만 그 누구도 똑같이 사용하지 않는 동서고금의 미스테리 시간. 이 책은 시간의 숨겨진 비밀을 다룬다. 《우연의 법칙》《행복의 공식》의 저자 슈테판 클라인이 『안녕하세요, 시간입니다』를 통해 시간은 우리와 무관하게 그저 외부에서 흘러가는 것인지, 시곗바늘이 가리키는 시간과 우리가 살면서 느끼는 시간은 동일한지, 어째서 즐거운 시간은 금방 지나가는지, 나이가 들면 시간이 빨리 가는 과학적 이유 등 뇌과학과 심리학 최신 연구결과를 넘나들며 그동안 시간에 대해 궁금했던 문제들을 쉽고 명쾌하게 설명한다.\n\n이 책은 여러 분야를 넘나들며 시간에 대한 흥미로운 이야기를 제공한다. 시간이 갑작스레 빨라졌다가 무한정 늘어지는 기이한 경험을 했던 환자, 평생을 몇 초라는 짧은 시간 속에서만 살아가는 노인, 교묘한 트릭으로 관객들의 시간감각을 일그러뜨린 히치콕 감독 등 심리학과 뇌과학, 생물학, 문학에 이르는 저자의 시간에 대한 글쓰기는 거침이 없다. 뉴턴 이후 정립된 시간 개념은 오래전에 무너졌다. 책에서 제시하는 시간 활용법 6단계를 통해 더 이상 시간에 쫓기지 않고 오히려 시간을 풍족하게 누리며 살 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뜨인돌",
+                "DDC": "153.753",
+                "UPDATE_DATE": "20170712",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "www.ddstone.com",
+                "AUTHOR": "슈테판 클라인 지음 ;유영미 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.27",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6238137_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6238137_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "263 p.",
+                "CONTROL_NO": "CIP2017013118",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958076445",
+                "INPUT_DATE": "20170531",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "안녕하세요, 시간입니다",
+                "PUBLISH_PREDATE": "20170619",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

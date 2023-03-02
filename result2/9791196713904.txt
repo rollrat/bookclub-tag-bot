@@ -1,0 +1,67 @@
+{
+    "otitle": "사서, 고생합니다",
+    "oauthor": "임수희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사서, 고생합니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32492174404",
+                "image": "https://shopping-phinf.pstatic.net/main_3249217/32492174404.20220520212414.jpg",
+                "author": "임수희",
+                "discount": "10800",
+                "publisher": "수이출판",
+                "pubdate": "20190630",
+                "isbn": "9791196713904",
+                "description": "천방지축 사서의 좌충우돌 도서관 적응기. 도서관에서 벌어지는 시트콤 같은 재밌는 일상들을 정리하고 싶다고 생각만 하다가 퇴사 결심과 동시에 글을 쓰기 시작해서 출판하게 되었다. 저자가 사서로 도서관에서 했던 일들을 글로 썼다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Sui출판(수이출판)",
+                "DDC": "",
+                "UPDATE_DATE": "20190718",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "https://smartstore.naver.com/suipublish",
+                "AUTHOR": "지은이: 임수희",
+                "SERIES_TITLE": "",
+                "KDC": "020.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/06/30/9791196713904.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*182",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "185 p.",
+                "CONTROL_NO": "CIP2019020997",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196713904",
+                "INPUT_DATE": "20190527",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "사서, 고생합니다",
+                "PUBLISH_PREDATE": "20190630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "침착하지만 단호하게 진상을 대처하는 기술",
+    "oauthor": "엔카와 사토루 저/이주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "침착하지만 단호하게 진상을 대처하는 기술 (세상 모든 감정노동자를 위한 고객 불만 응급 매뉴얼)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439154968",
+                "image": "https://shopping-phinf.pstatic.net/main_3243915/32439154968.20221019124635.jpg",
+                "author": "엔카와 사토루",
+                "discount": "12150",
+                "publisher": "팬덤북스",
+                "pubdate": "20190215",
+                "isbn": "9791161690742",
+                "description": "대한민국 감정노동자들이여, 이제는 어깨 펴고 당당히 대응하자!\n\n패스트푸드점 아르바이트생부터 콜센터 직원, 유치원 선생님, 항공기 승무원, 백화점 직원, 은행 창구 직원까지……. 700만 명을 훌쩍 넘는 대한민국 감정노동자의 노동 강도는 해가 갈수록 심해지고 있다. ‘손님이 왕이다’라는 표어 아래 다양한 진상 고객을 응대하며 고통받는 감정노동자들에게 이 책은 명확한 해결법을 제시해 줄 것이다. 전직 경찰관이자 악덕 소비자들의 불만에 대응하는 ‘진상 고객 베테랑’인 저자는 다짜고짜 문제를 제기하는 손님부터 사과문을 받아 내려는 손님, 인터넷에 글을 올리겠다고 협박하는 손님, 교묘하게 함정을 파 놓고 금품을 노리는 손님 등 현실에서 맞닥뜨릴 수 있는 온갖 진상 고객들의 사례를 모아 놓고 그에 따른 실용적인 대처법을 소개하고 있다. 이 책을 통해 감정노동자들은 상처받지 않고 당당하게 진상 고객을 대응할 수 있는 유용한 팁을 얻을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팬덤북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190212",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://blog.naver.com/fandombooks",
+                "AUTHOR": "엔카와 사토루 지음 ;이주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "231 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161690742",
+                "INPUT_DATE": "20190121",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "침착하지만 단호하게 진상을 대처하는 기술",
+                "PUBLISH_PREDATE": "20190215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

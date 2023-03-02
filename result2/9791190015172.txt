@@ -1,0 +1,67 @@
+{
+    "otitle": "100년 뒤 우리는 이 세상에 없어요",
+    "oauthor": "리처드 칼슨 저/우미정 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "100년 뒤 우리는 이 세상에 없어요 (그러니까, 사소한 일에 목숨 걸지 마세요)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493284970",
+                "image": "https://shopping-phinf.pstatic.net/main_3249328/32493284970.20221019131423.jpg",
+                "author": "리처드 칼슨",
+                "discount": "12960",
+                "publisher": "마인드빌딩",
+                "pubdate": "20200731",
+                "isbn": "9791190015172",
+                "description": "“사소한 일에 목숨 걸지 말아요.\n모든 것은 다 사소할 뿐입니다.”\n\n20세기 말에 출간되어 전 세계 3,000만 부가 판매됐고, 101주간 〈뉴욕타임스〉 베스트셀러에 올랐던 《Don’t Sweat the Small Stuff(사소한 것에 목숨 걸지 마라)》의 출간 20주년 기념판을 현대적인 감각에 맞게 《100년 뒤 우리는 이 세상에 없어요》로 다시 펴냈다. 45세의 짧은 나이로 세상을 떠났던 저자 리처드 칼슨의 메시지가 2020년, 그것도 전대미문의 판데믹 세상을 살아가는 우리에게 진정 어떤 의미로 다가올 수 있을까. 궁극적으로 내면의 평온을 이뤄 ‘자기 자신과 잘 지내는 법’을 말하는 ‘자기관계론’이라고 명명할 수 있을 것이다. 정말 중요한 것에 집중하기 위해, 미리 중요한 것으로 정해 놓은 것 외에는 사소한 것(small stuff)으로 정해 놓은 다음, 거기 너무 애쓰고, 마음 쓰고, 땀 흘리지 말라(don’t sweat)는 철학이 100가지 메시지에 빼곡히 담겨 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "마인드빌딩",
+                "DDC": "",
+                "UPDATE_DATE": "20200806",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "리처드 칼슨 지음 ;우미정 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "189.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/07/9791190015172.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "302 p.",
+                "CONTROL_NO": "CIP2020028407",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190015172",
+                "INPUT_DATE": "20200707",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "100년 뒤 우리는 이 세상에 없어요",
+                "PUBLISH_PREDATE": "20200731",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

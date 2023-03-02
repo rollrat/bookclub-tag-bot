@@ -1,0 +1,67 @@
+{
+    "otitle": "뇌, 신을 훔치다",
+    "oauthor": "KBS 파노라마 [신의 뇌] 제작진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뇌, 신을 훔치다 (과학이 밝혀낸 신의 뇌)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438311021",
+                "image": "https://shopping-phinf.pstatic.net/main_3243831/32438311021.20220527050052.jpg",
+                "author": "KBS 파노라마 신의 뇌 제작진",
+                "discount": "0",
+                "publisher": "인물과사상사",
+                "pubdate": "20150417",
+                "isbn": "9788959063291",
+                "description": "『뇌, 신을 훔치다』는 2014년 4월에 방송된 KBS 파노라마 《신의 뇌》를 바탕으로 쓰였다. 《신의 뇌》는 2부작으로 방송이 나갔지만, 사실 4부작으로 기획된 다큐멘터리였다. 방송하지 못한 나머지 2부작 분량은 책상 한쪽 구석에 밀쳐두었고, 책 출간이 결정되면서 애초 4부작을 위해 준비했던 자료까지 모두 다 이 책에 담기로 했다. 이 책에는 신과 인간에 관한 몇 가지 질문과 답, 그리고 누구나 인생에서 한 번쯤 만날 법한 실존적 고민과 그때 참고하면 좋을 만한 자료 목록이 포함되어 있으며, 방송에서 시간관계상 생략했던 인터뷰는 박스 글로 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과 사상",
+                "DDC": "215",
+                "UPDATE_DATE": "20150521",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "KBS 파노라마 <신의 뇌> 제작팀",
+                "SERIES_TITLE": "",
+                "KDC": "204.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4504752_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4504752_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015010314",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959063291",
+                "INPUT_DATE": "20150403",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "뇌, 신을 훔치다",
+                "PUBLISH_PREDATE": "20150417",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

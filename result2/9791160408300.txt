@@ -1,0 +1,67 @@
+{
+    "otitle": "말을 거는 건축",
+    "oauthor": "정태종,안대환,엄준식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "말을 거는 건축 (3명의 건축가와 떠나는 한국 현대 건축 기행)",
+                "link": "https://search.shopping.naver.com/book/catalog/33084044622",
+                "image": "https://shopping-phinf.pstatic.net/main_3308404/33084044622.20230214164112.jpg",
+                "author": "정태종^안대환^엄준식",
+                "discount": "19800",
+                "publisher": "한겨레출판사",
+                "pubdate": "20220624",
+                "isbn": "9791160408300",
+                "description": "서울 북촌마을, 부산 흰여울 전망대에서 제주 돌집까지\n일상에서 만나는 어울림과 연결의 건축 미학\n\n한국의 도시는 전통과 현대가 공존한다. 경복궁과 남대문 같은 전통 건축이 건재하고 동대문 디자인플라자나 리움 미술관처럼 세계적인 건축가들의 현대적 작품도 있다. 최근에는 새로운 지식과 감각으로 무장한 젊은 건축가의 활약이 돋보인다. \n역사와 시간을 간직한 의미 있는 건축, 과거의 유산을 새로운 상상력으로 복원한 개성 있는 건축, 삶의 조건으로서 주거 공간에 대한 고민을 풀어낸 작품, 작은 방 하나, 계단 한 층에도 빛과 바람과 자연을 담으려는 건축 등이 바로 그 주인공이다. 이들은 독특한 개성과 열정으로 우리 도시를 빛나게 한다. 여기 우리 일상 공간에서 만날 수 있는 아름답고 개성 넘치는 건축들을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한겨레출판 :한겨레엔",
+                "DDC": "",
+                "UPDATE_DATE": "20220714",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.hanibook.co.kr",
+                "AUTHOR": "지은이: 정태종,안대환,엄준식",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "398  p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160408300",
+                "INPUT_DATE": "20220609",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "말을 거는 건축",
+                "PUBLISH_PREDATE": "20220624",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

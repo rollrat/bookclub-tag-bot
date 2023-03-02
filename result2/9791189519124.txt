@@ -1,0 +1,67 @@
+{
+    "otitle": "헬터 스켈터(HELTER SKELTER)",
+    "oauthor": "오카자키 교코 저/이소담 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "헬터 스켈터(Helter Skelter)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463508872",
+                "image": "https://shopping-phinf.pstatic.net/main_3246350/32463508872.20230207165621.jpg",
+                "author": "오카자키 교코",
+                "discount": "19800",
+                "publisher": "고트",
+                "pubdate": "20200301",
+                "isbn": "9791189519124",
+                "description": "2020, 비현실적인 숫자로 이루어진 새해의 시작에 오카자키 교코의 장편만화 『헬터 스켈터(HELTER SKELTER)』를 소개합니다.『핑크(PINK)』『리버스 에지(RIVER&S EDGE)』와 함께 오카자키 교코의 3대 걸작으로 불리며, 1996년 5월 19일 작가가 맞은 불의의 사고로 연재가 완결되지 못하고 미완성 상태의 단행본화가 오랫동안 지연되면서 세상의 작품으로 알려진 장편만화입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Goat",
+                "DDC": "",
+                "UPDATE_DATE": "20201109",
+                "EA_ADD_CODE": "07830",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글그림: 오카자키 교코 ;번역: 이소담",
+                "SERIES_TITLE": "",
+                "KDC": "830",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*209",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "315 p.",
+                "CONTROL_NO": "CIP2019042110",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189519124",
+                "INPUT_DATE": "20191021",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "Helter skelter",
+                "PUBLISH_PREDATE": "20200221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

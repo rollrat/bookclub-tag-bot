@@ -1,0 +1,67 @@
+{
+    "otitle": "오늘은 누구도 행복하지 않았으면 좋겠단 생각을 했습니다",
+    "oauthor": "여태현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오늘은 누구도 행복하지 않았으면 좋겠단 생각을 했습니다 (여태현 산문집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466926179",
+                "image": "https://shopping-phinf.pstatic.net/main_3246692/32466926179.20221019142646.jpg",
+                "author": "여태현",
+                "discount": "11700",
+                "publisher": "부크럼",
+                "pubdate": "20190806",
+                "isbn": "9791162142844",
+                "description": "소설 ‘인어’와 ‘우주의 방’을 통해 많은 독자들에게 보다 현실적인 삶의 모습과 그 안에 숨어있는 메시지를 전달해주었던 여태현 작가의 첫 산문집.\n외로움에 관한 이야기. ‘오늘은 누구도 행복하지 않았으면 좋겠단 생각을 했습니다.’\n  \n‘발이 시려울 때 생각나는 글이에요.’\n‘왠지 모르게 위로가 돼요’\n‘아, 나만 이렇게 외로운 게 아니구나. 그런 생각을 하게 돼요’\n  \n위로에도 여러 가지 종류가 있다. 따듯한 말이나 다정한 말을 해주는 것. 무조건 잘 될 거라는 희망적인 말을 해주는 것. 진심으로 공감해주는 것.\n때론 아무것도 하지 않는 것.. 여태현 작가는 이 책을 통해 ‘괜찮아. 너도 나도. 외롭지 않은 사람은 없으니까.’라고 말한다. \n앞의 두 장은 우리가 외로울 수밖에 없는 이유들로 꾸며진다. 읽다 보면 나도 모르게 고개를 끄덕이며 ‘그래그래. 맞아. 나도 그랬었지.’ 공감하게 되는 이야기들.\n마지막 장은 그럼에도 불구하고 우리의 외로움을 견디게 해주는 이유들로 꾸며진다.\n예컨대 외로운 삶 속에 숨어있는 다정한 삶의 면면 같은. 때론 활활 타오르는 뜨거운 긍정의 에너지보다 적당한 따듯함이 더 큰 위로가 되는 법이니까.\n  \n무작정 외로운 밤. 그런 밤에 읽기 좋은 책.\n힘내라는 위로의 말이 더 이상 힘이 되지 않는다고 느낄 때. 조용히 건네주기 좋은 책.\n  \n‘오늘은 누구도 행복하지 않았으면 좋겠단 생각을 했습니다.’"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)부크럼",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://www.bookrum.co.kr",
+                "AUTHOR": "저자 : 여태현",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "114*184",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162142844",
+                "INPUT_DATE": "20190801",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "오늘은 누구도 행복하지 않았으면 좋겠단 생각을 했습니다",
+                "PUBLISH_PREDATE": "20190806",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "스타벅스 웨이",
+    "oauthor": "조셉 미첼리 저/강유리 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:02 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스타벅스 웨이 (세계에서 가장 잘나가는 브랜드의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464064053",
+                "image": "https://shopping-phinf.pstatic.net/main_3246406/32464064053.20230207164007.jpg",
+                "author": "조셉 미첼리",
+                "discount": "15120",
+                "publisher": "현대지성",
+                "pubdate": "20190225",
+                "isbn": "9791187142706",
+                "description": "전 세계에서 사랑받는 커피의 대명사 스타벅스의 성공 비결!\n\n스타벅스의 경영 전략을 분석하고 이를 바탕으로 한 5가지 성공의 원칙을 제시하는 『스타벅스 웨이』. 저자는 스타벅스 본사의 승인 아래 하워드 슐츠 회장과 경영진을 비롯해 스타벅스에서 근무하는 모든 직급의 리더와 파트너들을 직접 만나보았고, 2년에 걸쳐 조사한 끝에 2008년 침몰하던 스타벅스를 건져낸 성공의 원칙들을 도출해 냈다. 이 책에서 그들의 심층 인터뷰를 곁들인 생생하고 자세한 스타벅스의 성공 전략이 담겨있다.\n\n스타벅스가 경기 침체와 경영 위기를 딛고 초격차 브랜드로 탈바꿈하게 된 과정과 그 성공을 이끌어낸 스타벅스 리더들의 경영 전략은 무엇일까? ‘음미하고 고양하라’ ‘사랑받기를 사랑하라’ ‘공통 기반을 향해 나아가라’ ‘연결을 활성화하라’ ‘전통을 간직하면서 전통에 도전하라’의 5가지 원칙에서 사람 사이의 관계를 최우선으로 생각하는 스타벅스의 브랜드 마케팅 전략과 함께 스타벅스의 직원 교육 방식, 소셜 미디어 운영법, 고객의 의견을 반영한 신메뉴 개발, 편안한 공간 디자인 등 검증된 브랜딩 노하우들을 모두 만나볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현대지성",
+                "DDC": "",
+                "UPDATE_DATE": "20190307",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조셉 미첼리 지음 ;강유리 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "333 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187142706",
+                "INPUT_DATE": "20190125",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "스타벅스 웨이 ",
+                "PUBLISH_PREDATE": "20190225",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

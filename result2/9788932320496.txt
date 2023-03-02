@@ -1,0 +1,67 @@
+{
+    "otitle": "태어났음의 불편함",
+    "oauthor": "에밀 시오랑 저/김정란 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "태어났음의 불편함",
+                "link": "https://search.shopping.naver.com/book/catalog/32465970250",
+                "image": "https://shopping-phinf.pstatic.net/main_3246597/32465970250.20230103165034.jpg",
+                "author": "에밀 시오랑",
+                "discount": "15300",
+                "publisher": "현암사",
+                "pubdate": "20201223",
+                "isbn": "9788932320496",
+                "description": "생의 무참한 무의미함 앞에서\n그것을 감당하며 이겨내게 하는 절절한 각성의 아포리즘!\n\n시오랑은 진정한 역량을 지닌 오늘날의 저술가들 중에 가장 섬세한 정신의 소유자이다. - 수전 손택\n\n김정란 시인의 번역으로 새롭게 읽는 에밀 시오랑의 대표작!\n1973년 프랑스에서 출간되어 유럽 독서계에 큰 파란을 일으켰고, 국내에서도 열렬한 마니아층이 있을 정도로 끊임없이 시대를 이어가며 읽혔던 에밀 시오랑의 대표작 『태어났음의 불편함(De l’inconv?nient d’?tre n?) 』이 김정란 시인의 번역으로 새로이 출간되었다. \n  『내 생일날의 고독 』, 『지금 이 순간, 나는 아프다 』 등의 제목으로 번역되었던 이전의 판본과는 다르게 원래 제목으로 출간된 이 책에서 번역자인 김정란 시인은 에밀 시오랑의 독특한 프랑스어 구사법과 우리말과의 간극을 메우며 또는 드러내면서, 세상에 ‘던져진’ 우리 존재에 대한 그의 육성에 가까운 아포리즘적 절규를 우리에게 전해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20210209",
+                "EA_ADD_CODE": "03860",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "에밀 시오랑 지음 ;김정란 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "113*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "359 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932320496",
+                "INPUT_DATE": "20201017",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "태어났음의 불편함",
+                "PUBLISH_PREDATE": "20201223",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

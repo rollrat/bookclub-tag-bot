@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 낯을 가립니다",
+    "oauthor": "소리타 가쓰히코 저/조사연 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 낯을 가립니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32454964668",
+                "image": "https://shopping-phinf.pstatic.net/main_3245496/32454964668.20221230071435.jpg",
+                "author": "소리타 가쓰히코",
+                "discount": "11700",
+                "publisher": "시그마북스",
+                "pubdate": "20200310",
+                "isbn": "9791190257305",
+                "description": "사람들 앞에 나서는 게 두렵고, 낯선 사람과 이야기를 나누는 게 긴장되는 등 낯가림 때문에 일상생활은 물론 사회생활에 지장을 겪는 이들을 위해 정신과 의사인 저자가 인지행동요법으로 낯가림을 조금씩 극복해나가는 방법을 소개한 책이다. 생각을 바꿔 행동함으로써 스스로를 변화시키는 방법으로, 누구나 실천할 수 있는 간단한 것들이다. 낯가림을 극복하고 자기다움을 찾기 바라는 이들에게 도움이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200313",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "소리타 가쓰히코 지음 ;조사연 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "186.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "181 p.",
+                "CONTROL_NO": "CIP2020006919",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257305",
+                "INPUT_DATE": "20200217",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나는 낯을 가립니다",
+                "PUBLISH_PREDATE": "20200310",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

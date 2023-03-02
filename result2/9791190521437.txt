@@ -1,0 +1,67 @@
+{
+    "otitle": "기린이 혼자서",
+    "oauthor": "이윤희 글/정소영 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기린이 혼자서",
+                "link": "https://search.shopping.naver.com/book/catalog/32463426312",
+                "image": "https://shopping-phinf.pstatic.net/main_3246342/32463426312.20221019113927.jpg",
+                "author": "이윤희",
+                "discount": "11700",
+                "publisher": "하마",
+                "pubdate": "20211210",
+                "isbn": "9791190521437",
+                "description": "기린은 태어날 때부터 목이 길었을까요? 기린의 목뼈는 사람과 같이 7개였다고 해요. 그럼 왜 목뼈가 늘어난 걸까요? 아주 오래전 아프리카에 많은 동물이 살고 있었습니다. 다른 동물들과는 다르다며 겸손하지 않고 잘난 척이 심했던 기린은 친구들이 없어 늘 혼자였습니다. 한가로이 낮잠을 자던 어느 날, 검은 표범이 기린의 코끝을 물어 버린 일이 발생했어요. 너무 놀라 코끝을 빼내려고 안간힘을 쓰면서 기린의 목뼈 세 마디가 늘어났답니다. \n\n늘어난 목뼈로 동물들의 주위를 빙빙 도는 기린은 숲속 동물들의 어울리는 모습을  그저 바라볼 뿐이었습니다. \n동물들은 말과 행동을 조심하라는 다짐을 받고 기린을 무리에 끼워주기로 했어요. 꽤 여러 날을 잘해 내던 기린은 끝내 실수를 저지르게 되었어요. 겸손하지 않았던 기린이 겸손한 기린으로 변하기 힘든 것이었을까요?\n동물들의 싸늘한 눈빛에 떠밀려 땅에 끌릴 정도로 고개를 숙인 기린의 마지막 목뼈가 늘어나게 되었답니다. 잘난 척 심했던 기린은 세월이 많이 흐른 지금은 겸손해졌을까요?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20220124",
+                "EA_ADD_CODE": "77810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 이윤희 ;그림: 정소영",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "180*290",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "51 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190521437",
+                "INPUT_DATE": "20210614",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "기린이 혼자서",
+                "PUBLISH_PREDATE": "20211210",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

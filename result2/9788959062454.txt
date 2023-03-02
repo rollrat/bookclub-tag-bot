@@ -1,0 +1,67 @@
+{
+    "otitle": "교양 영어 사전 2",
+    "oauthor": "강준만 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "교양 영어 사전 2 (The Story Dictionary of English Etymology)",
+                "link": "https://search.shopping.naver.com/book/catalog/32491405692",
+                "image": "https://shopping-phinf.pstatic.net/main_3249140/32491405692.20221019132706.jpg",
+                "author": "강준만",
+                "discount": "34200",
+                "publisher": "인물과사상사",
+                "pubdate": "20131203",
+                "isbn": "9788959062454",
+                "description": "네이티브 스피커도 잘 모르는 ‘영어 어원’의 모든 것!\n\n영어 어원사전의 결정판 『교양 영어 사전』 제2권. 그간 200여 권이 넘는 책을 내며 정치, 사회, 문화, 역사를 망라한, 전 방위적인 글쓰기를 해온 저자 강준만이 501개로 구성된 《교양 영어 사전》 제1권에 이어 이번에 502개의 키워드로 구성된 ‘영어 어원사전’을 출간하였다. 네이티브 스피커도 잘 모르는 영어 어원을 800쪽에 달하는 방대한 분량에 담아 소개한다. \n\n각 키워드에 영어 단어, 숙어의 뿌리를 밝히는 다양한 에피소드를 풍부하게 실어 독자들이 자연스럽게 영어를 배울 수 있도록 도와준다. 더불어 단어가 생기게 된 유래, 현재의 쓰임 뿐만 아니라 숙어와 관련된 위인들의 명문장도 함께 실어, 영어 문장력을 키움은 물론 위인들의 통찰을 소개해 생각의 지평을 넓히는데 도움을 줄 수 있도록 구성하였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과 사상",
+                "DDC": "422",
+                "UPDATE_DATE": "20131213",
+                "EA_ADD_CODE": "04740",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "강준만",
+                "SERIES_TITLE": "",
+                "KDC": "742",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3107920_3.jpg",
+                "PRE_PRICE": "38000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3107920_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3107920_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013024926",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959062454",
+                "INPUT_DATE": "20131120",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "교양 영어 사전 2",
+                "PUBLISH_PREDATE": "20131203",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "매일매일 달걀요리",
+    "oauthor": "달걀과학연구회 저/김수연 역/곤도 가즈오,미네키 마치코 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:34 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "매일매일 달걀요리 (전문가가 알려주는 계란 맛있게 만드는 방법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481448447",
+                "image": "https://shopping-phinf.pstatic.net/main_3248144/32481448447.20230117163530.jpg",
+                "author": "달걀과학연구회",
+                "discount": "12150",
+                "publisher": "시그마북스",
+                "pubdate": "20220204",
+                "isbn": "9791168620056",
+                "description": "슈퍼 푸드 달걀로 다양하게 만드는 달걀요리 레시피!\n\n누구나 좋아하는 달걀 프라이, 어떻게 드시나요? 타지 않게 매끈하고 선명한 색감이 돋보이는 반숙 프라이를 좋아하시나요? 아니면 흰자가 고소하게 살짝 탄 프라이를 좋아하시나요? 이 책은 늘 우리 곁에 있어서 의식하지 못했던 달걀의 모든 것을 파헤치고, 달걀로 할 수 있는 다양한 레시피를 알려줍니다. 기름에 튀기듯이 하는 프라이, 촉촉하고 찐득한 촉감의 반숙 프라이, 시간별로 세분화된 달걀 삶는 법, 다양한 달걀말이, 오믈렛의 여러 가지 버전을 만날 수 있습니다!"
+            },
+            {
+                "title": "매일 달걀 (싼 재료로 맛있게, 매일매일 다르게!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466948546",
+                "image": "https://shopping-phinf.pstatic.net/main_3246694/32466948546.20221019151319.jpg",
+                "author": "민병조",
+                "discount": "6300",
+                "publisher": "포북(forbook)",
+                "pubdate": "20150510",
+                "isbn": "9791186455746",
+                "description": "이 책은 그동안 살림 북을 비롯해 인테리어, 요리, DIY 등 다양한 실용서를 기획해 온 에프 북의 요리 파트 시리즈 중 두 번째 책이다. 날마다 매 끼니 다른 메뉴로 집밥을 차려야 하는 주부들의 고심을 함께 들여다보고, 냉장고 속에 늘 있는 재료가 무엇인지 살펴본 후 기획된 요리 시리즈 중 하나다. 건강과 실속, 어느 하나 놓치지 않는 달걀이라는 재료를 선택하고, 매일 다르게 적용할 수 있는 실속 레시피를 모았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220302",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "달걀과학연구회 지음 ;김수연 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "182*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "132 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168620056",
+                "INPUT_DATE": "20220111",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "(매일매일) 달걀요리",
+                "PUBLISH_PREDATE": "20220204",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

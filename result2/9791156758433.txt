@@ -1,0 +1,67 @@
+{
+    "otitle": "우연 제작자들",
+    "oauthor": "요아브 블룸 저/강동혁 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우연 제작자들 (요아브 블룸 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504168732",
+                "image": "https://shopping-phinf.pstatic.net/main_3250416/32504168732.20221019152043.jpg",
+                "author": "요아브 블룸",
+                "discount": "13320",
+                "publisher": "푸른숲",
+                "pubdate": "20201022",
+                "isbn": "9791156758433",
+                "description": "이스라엘 베스트셀러 작가 요아브 블룸의 2018 레트로-게펜 상 SF&판타지 부문 수상작이자 데뷔작. SF로도, 판타지로도, 로맨스로도 분류될 수 있을 만한 이 작품은 이미 미국, 프랑스, 일본 등 13개국에서 번역되었으며, 미국의 유명 각본가 리처드 프리든버그(〈흐르는 강물처럼〉)의 손을 거쳐 영화화하기로 결정되었다. 세상의 모든 사건, 즉 운명적인 연인의 만남이나 결혼, 생명의 탄생에서부터 테러, 범죄, 전염병, 전쟁에 이르는 갖가지 상황이 우리들 모르게 인생이라는 무대 위에서 우연을 계획하는 ‘우연 제작자’들의 손에서 만들어진다는 설정을 지닌 작품이다. 인구 900만의 이스라엘에서 5만 5천 부 이상을 판매하며 베스트셀러로 등극하였고, 이어 출간된 소설 2권 또한 베스트셀러가 되었다. 신선한 설정에 빠른 줄거리 전개와 놀라운 반전으로 이루어진 사랑 이야기다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "푸른숲",
+                "DDC": "",
+                "UPDATE_DATE": "20201103",
+                "EA_ADD_CODE": "03890",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "지은이: 요아브 블룸 ;옮긴이: 강동혁",
+                "SERIES_TITLE": "",
+                "KDC": "897.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "422 p.",
+                "CONTROL_NO": "CIP2020040605",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156758433",
+                "INPUT_DATE": "20200921",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우연 제작자들",
+                "PUBLISH_PREDATE": "20201022",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

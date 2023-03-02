@@ -1,0 +1,67 @@
+{
+    "otitle": "피아니스트는 아니지만 매일 피아노를 칩니다",
+    "oauthor": "김여진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "피아니스트는 아니지만 매일 피아노를 칩니다 (느리게 하지만 선명하게 달라지는 나를 만나러 가는 길)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492692667",
+                "image": "https://shopping-phinf.pstatic.net/main_3249269/32492692667.20221213164531.jpg",
+                "author": "김여진",
+                "discount": "12420",
+                "publisher": "빌리버튼",
+                "pubdate": "20180730",
+                "isbn": "9791188545230",
+                "description": "나를 잃어가는 삶에 지친 어느 날 피아노를 만났다\n\n『이불 안에서 이 불안에서』의 작가 김여진의 두 번째 책. 무기력한 날들이 이어지면서 작가는 지쳐 있는 자신에게서 벗어나기 위해 무언가를 배우기로 결심했다. 몰입하는 무언가가 필요했고, 연습으로 결과를 확인할 수 있는 일이, 과정이 필요했다. 고민 끝에 어린 시절에 잠깐 배웠던 피아노를 다시 배우기로 했다. 피아노를 배우면서 고요함과 인내, 몰입을 배웠다. 조건 없이 무언가를 좋아하게 되니, 배우는 속도가 늦어도 실수를 해도 포기하지 않고 꾸준히 해내는 자신의 모습에 놀랐다. 작가는 피아노 건반 위에서 만큼은 자유로울 수 있었다. 이 책은 음악과 나 자신을 아끼고 사랑하는 한 사람의 이야기를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20180919",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김여진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6741077_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6741077_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6741077_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "311 p.",
+                "CONTROL_NO": "CIP2018021696",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188545230",
+                "INPUT_DATE": "20180710",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "피아니스트는 아니지만 매일 피아노를 칩니다",
+                "PUBLISH_PREDATE": "20180730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

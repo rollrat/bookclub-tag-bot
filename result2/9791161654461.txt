@@ -1,0 +1,67 @@
+{
+    "otitle": "영어패턴 500플러스(개정판)",
+    "oauthor": "이광수,이수경 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이메일 영어패턴 500 플러스 (회사에서 바로 써먹는, 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494087486",
+                "image": "https://shopping-phinf.pstatic.net/main_3249408/32494087486.20221227205501.jpg",
+                "author": "박지우",
+                "discount": "12420",
+                "publisher": "넥서스",
+                "pubdate": "20180720",
+                "isbn": "9791161654461",
+                "description": "직장인 영어의 기본이자 가장 큰 고민인\n영문 이메일 쓰기에 대한 모든 것!\n필수패턴 200개와 유사패턴 300개(+α)!\n\n〈이메일 영어패턴 500 플러스〉 특징 및 장점\n1. 직장인에게 필수인 비즈니스 이메일 영어 수록\n영어를 사용하는 직장인의 기본이자 가장 큰 고민이기도 한 영문 이메일 쓰기. \n영문 이메일에 대한 모든 것이 담겨 있습니다. \n\n2. 최다 패턴 수록 \n필수패턴 200개와 유사패턴 300여개 총 500여 개 패턴을 다루고 있어, 많은 패턴을 학습할 수 있습니다. 필수패턴과 유사패턴들의 뉘앙스 차이를 공부하며 보다 정확하게 영어를 공부해 보세요.\n\n3. 이메일 패턴 집중 학습\n2단계 학습을 통해 패턴을 확실하게 내 것으로 만듭니다.\n실제 이메일에서 쓰이는 예문을 통해 더욱 효과적으로 학습할 수 있습니다\n\n4. 5가지 특별부록 제공\n★ 저자 직강 녹음 강의\nwww.nexusbook.com에서 저자 선생님이 직접 녹음한 생생한 강의를 다운로드 받아 함께 들어 보세요. 녹음강의는 팟캐스트를 통해서도 들으실 수 있습니다. ‘이메일 영어패턴’으로 검색해 보세요.\n\n★ 패턴 훈련북\n필수패턴+유사패턴, 총 500개 이상의 패턴을 20일 동안 복습할 수 있는 ‘패턴 훈련북’을 제공합니다. 본책에는 없었던 유사패턴의 예문까지 실어 한 달 만에 모든 패턴을 복습할 수 있습니다.\n\n★ 단어 노트\n사전을 찾는 번거로움을 덜어 드리기 위해 Unit별 단어를 정리하였습니다.\n\n★ 단어 퀴즈\n주요 단어와 표현들을 제대로 이해했는지 퀴즈를 풀면서 학습한 내용을 다시 한번 확인해 봅시다.\n\n★ 이메일 샘플\n직장에서 바로 써먹을 수 있는 상황별 이메일 샘플을 40개 가량을 제공합니다. 본책의 패턴을 활용한 이메일 샘플이니, 잘 익혀 두었다가 각자의 상황에 맞게 활용해 보세요."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스",
+                "DDC": "428",
+                "UPDATE_DATE": "20180808",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "박지우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "746",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6733098_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6733098_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6733098_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "174*245",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "282 p.",
+                "CONTROL_NO": "CIP2018021179",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161654461",
+                "INPUT_DATE": "20180705",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "(회사에서 바로 써먹는) 이메일 영어패턴 500 플러스",
+                "PUBLISH_PREDATE": "20180720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

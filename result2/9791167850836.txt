@@ -1,0 +1,67 @@
+{
+    "otitle": "무작정 부동산 사무실을 차렸습니다",
+    "oauthor": "김미경 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "무작정 부동산 사무실을 차렸습니다 (20대, 자격증 달랑 한 장으로 공인중개사가 되기까지 중개업의 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/33983311622",
+                "image": "https://shopping-phinf.pstatic.net/main_3398331/33983311622.20221019140318.jpg",
+                "author": "김미경",
+                "discount": "14400",
+                "publisher": "슬로디미디어",
+                "pubdate": "20220815",
+                "isbn": "9791167850836",
+                "description": "7년 차 베테랑 공인중개사가 말하는 중개업의 세계\n예비, 초보 중개사들이 알아야 할 실무전략\n\n나는 갈수록 치열해지는 중개 시장에서 살아남는 방법에 관해 이야기하고 싶다. 누구에게나 공평하게 주어지는 초보 시절에 ‘내가 하는 게 맞을까’하는 생각이 들 때 “원래 그래. 그게 맞아. 그리고 아주 잘하고 있어”라고 대답해 주고 싶다. 이것이 바로 내가 이 책을 쓴 이유다. 지금의 내가 초보 시절의 스스로에게 해주고 싶은 이야기를 담았다. 공인중개사를 진로로 잡고 있는 사람들, 예비 창업자들에게 나의 이야기가 위로가 될 것이라고 생각한다. 또 나만 이렇게 힘든 게 아니구나, 하는 안도감 또한 줄 수 있으리라 생각한다. 살아남기 위해 이렇게 열심히 노력하는 우리는 분명히 살아남을 것이다! 꼭 살아남아서 모두 중개 현장에서 만나길 바란다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "슬로디미디어(슬로디미디어그룹)",
+                "DDC": "",
+                "UPDATE_DATE": "20220907",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김미경 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2022/08/9791167850836.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "214 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791167850836",
+                "INPUT_DATE": "20220726",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "무작정 부동산 사무실을 차렸습니다",
+                "PUBLISH_PREDATE": "20220815",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

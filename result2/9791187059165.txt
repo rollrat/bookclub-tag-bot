@@ -1,0 +1,67 @@
+{
+    "otitle": "악기보다 음악",
+    "oauthor": "김연수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:54 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "악기보다 음악 (아이의 감성과 창의성을 높이는 엄마의 선택)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493313244",
+                "image": "https://shopping-phinf.pstatic.net/main_3249331/32493313244.20220527041739.jpg",
+                "author": "김연수",
+                "discount": "0",
+                "publisher": "끌리는책",
+                "pubdate": "20170107",
+                "isbn": "9791187059165",
+                "description": "『악기보다 음악』은 실용음악과 교수이자 세 아이를 키우고 있는 엄마인 저자가 어릴 때부터 아이가 음악과 친해지고 음악을 통해 스스로 생각하고 행동하는 아이로 성장할 수 있도록 돕는 방법에 대해 이야기하는 책이다. 악기 교육과 음악 교육을 중심으로 이야기를 전개하고 있지만 아이와 소통하는 방법, 아이의 감성과 창의성을 높이는 방법, 탐구력과 생각의 힘을 길러주는 방법 등도 골고루 언급하고 있다. 또한 아이가 음악을 통해 독립적이고 주체적으로 성장해가도록 부모가 가져야 할 자세를 알려준다. 그래서 이 책은 가장 현실적인 음악 교육 안내서이지만, 음악을 바탕으로 아이와의 관계를 돈독하게 만드는 색다른 자녀 교육 지침서이기도 하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "끌리는책",
+                "DDC": "780.7",
+                "UPDATE_DATE": "20170721",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김연수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "670.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5918727_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5918727_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*215",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "248 p.",
+                "CONTROL_NO": "CIP2016028174",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187059165",
+                "INPUT_DATE": "20161118",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "악기보다 음악",
+                "PUBLISH_PREDATE": "20170107",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

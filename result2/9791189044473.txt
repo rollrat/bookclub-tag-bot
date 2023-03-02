@@ -1,0 +1,78 @@
+{
+    "otitle": "고작해야 364일",
+    "oauthor": "황선미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:19 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "고작해야 364일",
+                "link": "https://search.shopping.naver.com/book/catalog/32677892618",
+                "image": "https://shopping-phinf.pstatic.net/main_3267789/32677892618.20230222101930.jpg",
+                "author": "황선미",
+                "discount": "10800",
+                "publisher": "이마주",
+                "pubdate": "20220530",
+                "isbn": "9791189044473",
+                "description": "옷도, 책도, 신발도, 체험도, 새 것, 좋은 것만 가지고 \n할머니와 아빠의 사랑까지 독차지하는 형 윤조.\n그런 윤조가 못마땅한 동생 명조.\n고작 364일 차이인데 왜 명조는 늘 뒷전으로 밀려나야 하는 거죠?\n\n사라진 신발 한 짝과 형제에게 생겨난 것은?\n고작 364일밖에 차이 나지 않는 연년생 형 윤조에게 물건도 사랑도 경험도 늘 뒷전으로 밀리는 동생 명조. 내 것은 아무것도 없고, 내 편은 아무도 없는 듯해서 날마다 억울한 명조에게 억울한 일이 또 하나 생깁니다. 윤조를 끔찍이 아끼는 할머니가 명조가 평소 신고 싶어했던 하늘색 컨버스 운동화를 윤조에게만 사 준 것입니다. 그마저 형에게 물려받을 생각을 하니 심사가 뒤틀린 명조는 새 운동화 한 짝을 몰래 집 밖으로 버리고 말지요. 앗차 싶었지만 운동화 한 짝은 벌써 사라지고 없습니다. \n\n운동화가 사라진 그 다음날부터 형 윤조가 이상합니다."
+            },
+            {
+                "title": "고작해야 364일 (황선미 성장 동화)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467101235",
+                "image": "https://shopping-phinf.pstatic.net/main_3246710/32467101235.20220527050048.jpg",
+                "author": "황선미",
+                "discount": "0",
+                "publisher": "포북(forbook)",
+                "pubdate": "20150210",
+                "isbn": "9788993418972",
+                "description": "‘2014 런던도서전 오늘의 작가’ 황선미가 아이들에게 보내는 응원의 메시지!\n\n『고작해야 364일』은 ‘아이는 아이답게 자랐으면 한다’는 바람을 담아 써낸 황선미 작가의 성장 동화입니다. 고작해야 자신보다 364일 먼저 태어난 형이 자신보다 세뱃돈도 더 많이 받고, 장난감도 새 옷도 먼저 차지한다는 사실이 마냥 분한 명조. 이 책 속에서는 명조처럼 자신이 운이 나쁘고, 불공평한 세상에서 살고 있다고 생각해왔던 아이들에게 보내는 응원의 메시지가 담겨 있습니다.\n\n어린이들이 더는 세상을 경계하지 않고 따뜻한 시각과 마음으로 살아갈 수 있도록 이끌어주고 있습니다. 명조를 통해서 가족과 친구, 나아가 세상과 소통하는 방법을 차근차근 배우게 됩니다. 더불어 누군가 사랑을 독차지하고, 대접받고 있을 수는 있어도 정작 ‘주인공’은 자기 자신이라는 것을 보여줍니다. 저자는 “너 같은 아이가 주인공이 되는 세상을 그려 보고 싶단다.”라고 말을 건네며 이야기를 통해 자존감을 높일 수 있도록 안내합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이마주",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 황선미;삽화가(그림작가) : 이소영;",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "185*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "124",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189044473",
+                "INPUT_DATE": "20220328",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "고작해야 364일",
+                "PUBLISH_PREDATE": "20220420",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

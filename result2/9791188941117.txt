@@ -1,0 +1,67 @@
+{
+    "otitle": "내가 알던 그 사람",
+    "oauthor": "웬디 미첼,아나 와튼 공저/공경희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:16 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내가 알던 그 사람",
+                "link": "https://search.shopping.naver.com/book/catalog/32436134332",
+                "image": "https://shopping-phinf.pstatic.net/main_3243613/32436134332.20221227210236.jpg",
+                "author": "웬디 미첼^아나 와튼",
+                "discount": "14400",
+                "publisher": "소소의책",
+                "pubdate": "20181030",
+                "isbn": "9791188941117",
+                "description": "웬디 미첼은 NHS(영국의 국민건강보험공단)에서 20년간 근무한 싱글맘이다. 초기 치매 진단을 받은 그녀는 주변 사람들에게 털어놓을 수조차 없는 갑작스런 인지 퇴행을 겪으면서 혼란스러워한다. 간단한 단어조차 생각나지 않고 운전 중 우회전을 못하는 등 스스로 당황스러운 상황이 잦아진다. 낯설고 두려운, 새로운 삶이 시작되었다.\n\n\n\n이 책은 웬디 미첼이 치매와 맞서 싸우면서, 그리고 자신의 삶 안으로 포용해나가는 과정을 담고 있다. 흔히들 치매 진단을 받으면 요양원에서 누워 죽음을 기다리는 모습을 상상한다. 하지만 그녀는 직장 생활을 할 때보다 더 바쁘게 생활한다. 과거를 잃어간다는 사실을 잊으려고 현재에 더욱 몰입한다. \n\n\n\n치매 환자에 대한 사회적 편견과 선입견을 바꾸기 위해 알츠하이머 협회에서 진행하는 프로젝트에 참여하고, 대중 강연을 하고, 치매 환자들과 교류하고, 블로그를 만들어 자신의 상태를 기록하면서 다양한 정보를 공유한다. 그러는 중에도 딸들을 향한 사랑을 더욱 깊이 간직하려 애쓰고, 그 모든 과정을 누구에게 의지하지 않고 혼자서 해내려 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "소소의책",
+                "DDC": "616.8983",
+                "UPDATE_DATE": "20181107",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "웬디 미첼,아나 와튼 지음 ;공경희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "513.898",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6941611_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6941611_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "132*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "318 p.",
+                "CONTROL_NO": "CIP2018032284",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188941117",
+                "INPUT_DATE": "20181008",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "내가 알던 그 사람",
+                "PUBLISH_PREDATE": "20181030",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

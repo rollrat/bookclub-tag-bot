@@ -1,0 +1,67 @@
+{
+    "otitle": "동물과 기계에서 벗어나",
+    "oauthor": "스가쓰케 마사노부 저/현선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "동물과 기계에서 벗어나 (AI가 바꾸는 세상과 인간의 미래)",
+                "link": "https://search.shopping.naver.com/book/catalog/32495427678",
+                "image": "https://shopping-phinf.pstatic.net/main_3249542/32495427678.20221019142716.jpg",
+                "author": "스가쓰케 마사노부",
+                "discount": "14400",
+                "publisher": "항해",
+                "pubdate": "20210108",
+                "isbn": "9791196604479",
+                "description": "AI 시대, 행복의 변화\n\n변화하는 세상 속 소비의 행방을 그린 『물욕 없는 세계』, 격변기에 우리에게 진정 필요한 교양이란 무엇인지 탐구한 『앞으로의 교양』에 이어, 스가쓰케 마사노부의 시선이 향한 곳은 ‘AI 시대의 현재’다.\n저자는 이를 살펴보기 위해 미국의 실리콘밸리, 러시아의 스콜코보, 중국의 선전深? 등 AI 개발의 메카를 찾아가 그곳의 전문가들과 만나서 이야기를 들었다. 그 후 그 증언과 각종 자료를 바탕으로 AI 기술의 현재를 진단하고, 궁극적으로 한 가지 질문을 던진다.\n“AI 시대에 행복의 모습은 어떻게 변화할 것인가?”"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "항해",
+                "DDC": "",
+                "UPDATE_DATE": "20210218",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://blog.naver.com/hhbooks",
+                "AUTHOR": "지은이: 스가쓰케 마사노부 ;옮긴이: 현선",
+                "SERIES_TITLE": "",
+                "KDC": "331.5412",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/27/9791196604479.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "307 p.",
+                "CONTROL_NO": "CIP2020050820",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791196604479",
+                "INPUT_DATE": "20201127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "동물과 기계에서 벗어나",
+                "PUBLISH_PREDATE": "20210108",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

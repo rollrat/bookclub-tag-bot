@@ -1,0 +1,67 @@
+{
+    "otitle": "참 좋은 친구를 만났습니다",
+    "oauthor": "송정림 글/원정민 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:24 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "참 좋은 친구를 만났습니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32485526168",
+                "image": "https://shopping-phinf.pstatic.net/main_3248552/32485526168.20221228073330.jpg",
+                "author": "송정림",
+                "discount": "10800",
+                "publisher": "어린이나무생각",
+                "pubdate": "20160218",
+                "isbn": "9791186688342",
+                "description": "나의 특별한 친구를 소개합니다\n요즘 아이들을 보면 공부하느라 그런지 혼자 노는 친구들이 참 많습니다. 이런 친구는 멀리해라, 저런 친구와는 놀지 마라, 친구의 기준이 점점 까다로워졌습니다. 놀이 문화도 많이 바뀌었습니다. 옛날에는 놀이를 하는 건 함께 즐겁고 행복하기 위해서였어요. 그리고 놀이를 통해서 아이들은 혼자보다 함께 행복한 것이 중요하다는 것을 배워 나갔어요. 하지만 요즘은 어떤가요? 같이 놀기보다는 스마트폰만 들여다보며 혼자 놀고 있습니다. 같이 게임을 해도 빼앗고 차지해서 자신의 레벨을 올리는 게 목적입니다. 혼자서 앞서 달려 나가는 것보다 같이 걸어가는 것이 중요하다는 것을 우리 아이들이 알면 좋겠어요. ‘경쟁’보다는 ‘협동’을 하는 어른으로 성장하면 좋겠습니다.\n\n평생 함께할 소중한 친구 한 명 있다면 온 세상을 다 가진 것처럼 든든하고 뿌듯할 것입니다. 똑똑하거나 특별하지 않아도 괜찮습니다. 조금은 엉뚱해도 괜찮고, 평범하거나 수줍음이 많아도 괜찮습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20160329",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "송정림",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5177127_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5177127_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "176",
+                "CONTROL_NO": "CIP2016001610",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186688342",
+                "INPUT_DATE": "20160119",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "참 좋은 친구를 만났습니다",
+                "PUBLISH_PREDATE": "20160218",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

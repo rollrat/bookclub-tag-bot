@@ -1,0 +1,67 @@
+{
+    "otitle": "정치적인 식탁",
+    "oauthor": "이라영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정치적인 식탁 (먹는 입, 말하는 입, 사랑하는 입)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476747796",
+                "image": "https://shopping-phinf.pstatic.net/main_3247674/32476747796.20221019152055.jpg",
+                "author": "이라영",
+                "discount": "14400",
+                "publisher": "동녘",
+                "pubdate": "20190920",
+                "isbn": "9788972979456",
+                "description": "사회가 변하려면 식탁부터 변해야 한다!\n\n우리가 매일 지겹게 마주하는 공간인 식탁을 통해 일상생활 속 차별을 보여주고, 어떻게 하면 누구도 소외받지 않는 식탁을 차릴 수 있는지 고민하는 『정치적인 식탁』. 우리의 가장 익숙한 밥상에는 차별이 둘러져 있다. 식탁은 생존을 위해 먹는 공간이지만, 그곳에서 서 있는 위치는 각자 다르다. 저자는 공기처럼 편안한 관계에 스며든 은밀하고 집요한 권력이 식탁의 약자를 만든다고 말한다. \n\n저자는 이 책에서 ‘먹기’라는 평범한 일상에 스며든 차별을 가까이에서 살펴본다. 아내와 엄마라는 이름으로 가정 내 부엌노동을 책임지는 여성들, 백인들의 음식을 차리느라 자신들의 요리법을 공식적으로 대물림하기는커녕 백인들의 남부 요리로 자리 잡는 것을 지켜볼 수밖에 없었던 흑인들, 외식 한번 하기 쉽지 않은 장애인들, 노키즈존 식당에 입장을 거부당하는 아이들까지. 이는 관계에서 누가 권력을 쥐고 있느냐에 따라 정치적으로 결정된다고 이야기한다.\n\n저자는 음식이, 식탁이 소외, 차별, 배제의 매개가 아니라 돌봄과 위로, 사과의 매개로서 한 사람의 속을 어루만지는 힘이 되려면 물론 우리가 지금까지 알았던 식탁, 누군가를 익숙하게 차별했던 식탁과는 과감히 작별해야 한다고 강조한다. 그렇게 낯설어진 식탁 위에서 우리의 입은 배고픔만을 해결하는 일차원적인 입에서 타자와 말을 나누고 사랑하는 다차원의 입으로 바뀔 수 있음을 일깨워준다. 매 꼭지마다 미술 작품들이 어우러져 있어 다른 각도에서 새로운 통찰을 제공하며 글에 다채로움을 더해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20190930",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "이라영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "337.2",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "256 p.",
+                "CONTROL_NO": "CIP2019033011",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972979456",
+                "INPUT_DATE": "20190821",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "정치적인 식탁",
+                "PUBLISH_PREDATE": "20190920",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

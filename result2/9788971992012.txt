@@ -1,0 +1,67 @@
+{
+    "otitle": "언 다르고 어 다르다",
+    "oauthor": "김철호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "언 다르고 어 다르다 (슬기로운 낱말 공부)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443136286",
+                "image": "https://shopping-phinf.pstatic.net/main_3244313/32443136286.20221228072002.jpg",
+                "author": "김철호",
+                "discount": "13660",
+                "publisher": "돌베개",
+                "pubdate": "20200713",
+                "isbn": "9788971992012",
+                "description": "능수능란한 어휘 구사와 섬세한 글쓰기의 바탕 \n스스로 읽고 생각하는 힘을 키우는 창의적 말공부\n\n『언 다르고 어 다르다』는 우리말 어휘들을 체계적이고 다양하게 제시하여 어휘력과 문장력을 키우고, 나아가 언어를 통해 사실들 사이의 관계를 발견하는 상상력을 기를 수 있도록 돕는다. 일상생활에서 친숙하게 접하는 16개의 표제어(신체ㆍ안면ㆍ안목ㆍ수면ㆍ연애ㆍ비애ㆍ언어ㆍ지식ㆍ의복ㆍ가옥ㆍ도로ㆍ군중ㆍ육지ㆍ해양ㆍ수목ㆍ과실)와 그로부터 파생된 69개 의미소에 딸린 낱말과 표현 3천여 가지를 접할 수 있다. \n\n더불어 이 책은 한자 의미소로 된 낱말의 다양한 용례를 통해 낱말 구성의 원리와 그 실제를 톺아본다. 비슷한 의미를 지닌 한자 의미소 두 가지(가령 ‘언어’의 ‘언’[言]과 ‘어’[語]는 모두 ‘말’로 풀이된다)로 결합된 낱말(표제어)의 자원(字源)을 추적하고 그 의미와 뉘앙스를 정확히 구별하고 계열화한다. 그리고 표제어와 연계된 다른 낱말들을 두루 살핀다. 낱말의 의미와 뉘앙스, 표현의 적확성을 밝히 보는 것이다. 이 책은 우리말을 창의적으로 사고할 수 있는 영감을 제시한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "돌베개",
+                "DDC": "",
+                "UPDATE_DATE": "20200723",
+                "EA_ADD_CODE": "03710",
+                "PUBLISHER_URL": "www.dolbegae.com",
+                "AUTHOR": "김철호 지음",
+                "SERIES_TITLE": "",
+                "KDC": "714",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/03/9788971992012.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "366 p.",
+                "CONTROL_NO": "CIP2020027064",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788971992012",
+                "INPUT_DATE": "20200629",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "언 다르고 어 다르다",
+                "PUBLISH_PREDATE": "20200713",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

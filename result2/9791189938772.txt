@@ -1,0 +1,67 @@
+{
+    "otitle": "회복탄력성 (리커버)",
+    "oauthor": "김주환 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "회복탄력성(15만부 기념 리커버) (시련을 행운으로 바꾸는 마음 근력의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464075355",
+                "image": "https://shopping-phinf.pstatic.net/main_3246407/32464075355.20221019134732.jpg",
+                "author": "김주환",
+                "discount": "13320",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20190329",
+                "isbn": "9791189938772",
+                "description": "인생의 큰 시련 앞에 좌절하지 않고 극복해내는 사람들의 비밀!\n\n15만부 기념 리커버판 『회복탄력성』. 제자리로 돌아오는 힘을 일컫는 말로, 심리학에서는 주로 시련이나 고난을 이겨내는 긍정적인 힘을 의미하는 말로 쓰이는 회복탄력성(Resilience). 김주환 연세대학교 언론홍보영상학부 교수는 2011년, 회복탄력성이라는 개념을 제시하며 언론, 교육계, 심리학계의 주목을 받았다. 저자가 제시한 회복탄력성이라는 이 개념은 원래 있었던 단어처럼 많은 사람들이 흔히 사용하는 일상적인 용어가 되었다. \n\n이 책은 회복탄력성으로 어려움을 이겨낸 사람들의 사례를 소개하고, 수십 년 간 이어온 회복탄력성에 대한 연구결과를 제시해 설득력을 높인다. 이를 바탕으로 회복탄력성의 여섯 가지 요소를 밝혀내고, 회복탄력성을 키울 구체적인 방법을 제시하였으며 모든 독자가 자신의 회복탄력성 지수를 진단하여 회복탄력성을 키울 수 있도록 구성했다. 15만부 판매를 돌파해 새로운 표지로 만나는 이번 책은 왜 지금 우리에게 회복탄력성이 필요한지에 대해 저자가 새로 쓴 글을 더해 소장 가치를 높였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20190411",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "김주환 지음",
+                "SERIES_TITLE": "",
+                "KDC": "189",
+                "EDITION_STMT": "2판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "CIP2019010989",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189938772",
+                "INPUT_DATE": "20190320",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "회복탄력성",
+                "PUBLISH_PREDATE": "20190329",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

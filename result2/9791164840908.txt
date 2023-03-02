@@ -1,0 +1,67 @@
+{
+    "otitle": "한의사가 답하다",
+    "oauthor": "매일경제TV [건강 한의사] 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "한의사가 답하다 (누구도 해결해주지 못했던 일상 속 질환에 관한 모든 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436120114",
+                "image": "https://shopping-phinf.pstatic.net/main_3243612/32436120114.20221229074456.jpg",
+                "author": "매일경제TV 건강 한의사",
+                "discount": "14400",
+                "publisher": "매일경제신문사",
+                "pubdate": "20200302",
+                "isbn": "9791164840908",
+                "description": "국내 유일의 한의학 생방송\n매일경제TV 〈건강 한의사〉가 엄선한\n각종 질환에 대한 완벽 처방을 한 권에 담다!\n\n두통부터 소화 장애, 허리 통증, 아토피 피부염까지\n대한민국 한의학 명의가 알려주는 근본적인 해결 방법\n\n다양한 세균과 바이러스, 환경오염, 스트레스 등 너무 많은 요인이 건강을 위협하는 전쟁 같은 일상 속에서 원인조차 불분명한 각종 질환으로 고통 받는 사람들이 늘고 있다. 이제 표면적인 증상만 치료해서는 근본적인 해결이 될 수 없다. 한의학의 기본 이론인 ‘정기존내 사불가간 正氣存內 邪不可干’은 인체의 정기正氣(면역력)가 튼튼하면 사기邪氣(세균, 바이러스, 암세포 등)가 감히 넘보지 못한다는 뜻이다. 신체의 균형을 바로잡고 면역력을 증강시켜 외부의 나쁜 기운을 이겨낼 수 있는 힘을 기르는 것이 점점 더 중요해지는 오늘날, 한의학이 우리 건강을 지키는 열쇠가 되어줄 수 있다. 이 책은 온갖 사설이 난무하는 정보의 홍수 속에서 올바른 건강 정보를 전달하는 역할을 해줄 것이다. 뾰족한 해답 없이 다양한 질환으로 고민하고 있다면, 한방에서 그 답을 찾아보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20200420",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "매일경제TV <건강한의사> 지음",
+                "SERIES_TITLE": "",
+                "KDC": "519",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "343 p.",
+                "CONTROL_NO": "CIP2020007448",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164840908",
+                "INPUT_DATE": "20200219",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "한의사가 답하다",
+                "PUBLISH_PREDATE": "20200302",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

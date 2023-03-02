@@ -1,0 +1,78 @@
+{
+    "otitle": "뇌로부터 마음을 읽는다",
+    "oauthor": "오키 고스케 저/김수용,하종덕 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:53 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "뇌로부터 마음을 읽는다 (어떤 뇌 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484570671",
+                "image": "https://shopping-phinf.pstatic.net/main_3248457/32484570671.20221228074712.jpg",
+                "author": "오키 고스케",
+                "discount": "13500",
+                "publisher": "전파과학사",
+                "pubdate": "20201027",
+                "isbn": "9788970449449",
+                "description": "현대는 뇌와 마음의 시대\n\n정신 활동은 신비한 것으로 생각되어 왔고 오랫동안 자연과학의 대상이 되지 못했다. 그러나 분자생물학이 발전하고, 포지트론CT 등 새로운 장치가 진보함에 따라 뇌의 활동을 분자 레벨로 구체적으로 파악할 수 있게 되었다. 그런 의미에서 지금은 '마음을 본다'는 것이 가능해졌다고 할 수 있다. 인간의 지, 정, 의는 뇌내신경의 어떠한 활동에 토대를 두고 있을까, 스트레스, 정신병과 같은 물질적 배경에 의한 것일까 등 뇌와 마음의 관계에 대해 분자생물학을 바탕으로 과학적으로 소개한다."
+            },
+            {
+                "title": "뇌로부터 마음을 읽는다 (어떤 뇌 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506569696",
+                "image": "https://shopping-phinf.pstatic.net/main_3250656/32506569696.20220527022749.jpg",
+                "author": "오키 고스케",
+                "discount": "10800",
+                "publisher": "전파과학사",
+                "pubdate": "19960630",
+                "isbn": "9788970444932",
+                "description": "뇌와 마음의 관계, 뇌속 A계 신경, 감정신경, 신경의 진화활동과 정신력, 마음의 건강유지 등을 비롯하여 '뇌와 마음의 시대'의 최첨단을 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20201126",
+                "EA_ADD_CODE": "03510",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "오키 고스케 지음 ;김수용,하종덕 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "234 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970449449",
+                "INPUT_DATE": "20201007",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "뇌로부터 마음을 읽는다",
+                "PUBLISH_PREDATE": "20201027",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

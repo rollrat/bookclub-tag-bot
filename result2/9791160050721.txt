@@ -1,0 +1,67 @@
+{
+    "otitle": "대단한 사람들의 소소한 인생상담",
+    "oauthor": "이정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:50 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "대단한 사람들의 소소한 인생상담 (어두운 밤을 통과한 가장 용기 있는 50인의 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466553089",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466553089.20221019140517.jpg",
+                "author": "이정",
+                "discount": "13500",
+                "publisher": "북카라반",
+                "pubdate": "20191025",
+                "isbn": "9791160050721",
+                "description": "어두운 밤을 통과한 가장 용기 있는 50인의 이야기\n\n엄마를 미워했던 니체, 술 때문에 가족을 잃은 브래드 피트, \n친구가 없었던 미켈란젤로, 수시로 자살 충동을 느꼈던 링컨?\n\n\"키아누 리브스님, 슬픈 인생은 나쁜가요?\"\n\n\"슬픔은 우리 삶을 절대 떠나지 않는다고 생각해요. \n그렇지만 이제 내가 겪은 모든 슬픔이 마냥 아프거나 원망스럽지만은 않아요.\n슬픔은 삶에 미스터리와 깊이를 더해준다고 생각하기 때문이에요.\"\n\n삶을 견뎌내고 결국엔 자신의 길을 찾은 이들이 당신의 고민을 들어드립니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북카라반",
+                "DDC": "",
+                "UPDATE_DATE": "20191107",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이정 ;일러스트:이다혜",
+                "SERIES_TITLE": "",
+                "KDC": "199.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/10/22/9791160050721.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "286 p.",
+                "CONTROL_NO": "CIP2019042257",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160050721",
+                "INPUT_DATE": "20191017",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "대단한 사람들의 소소한 인생상담",
+                "PUBLISH_PREDATE": "20191025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

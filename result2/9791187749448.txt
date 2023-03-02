@@ -1,0 +1,67 @@
+{
+    "otitle": "산만한 아이 공부 처방전",
+    "oauthor": "이영애,손정아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "산만한 아이 공부 처방전 (ADHD 문제행동을 바로잡는 맞춤 솔루션)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487985752",
+                "image": "https://shopping-phinf.pstatic.net/main_3248798/32487985752.20221228073101.jpg",
+                "author": "이영애^손정아",
+                "discount": "13320",
+                "publisher": "예문아카이브",
+                "pubdate": "20171010",
+                "isbn": "9791187749448",
+                "description": "산만한 아이, 즉 ADHD 진단을 받은 아이가 공부에 집중할 수 있도록 전문상담센터에서 사용하는 방법을 가정에서도 쉽게 활용할 수 있도록 알려준다. 공부에 집중할 수 있는 환경 만들기부터 효과적으로 지시하고 칭찬하고 훈육하는 방법까지 다양한 사례를 곁들어 구체적으로 알려준다.\n\n\n\n공부법뿐 아니라 아이와 대화가 잘 통하는 방법, 효과적으로 지시하고 칭찬하는 방법, 차분히 앉아서 집중력 있게 스스로 공부하게 하는 방법 등 사소한 것 같지만 알아두면 반드시 도움이 될 대처 방안을 구체적으로 알려준다. 또한 산만한 아이에게 키워주어야 할 가장 중요한 능력인 자기조절능력, 실행기능 키우는 방법에 대해서도 알아본다.\n\n\n\n꾸준히 상담센터를 찾아 도움을 받을 수 있는 아이는 많지 않다. 여기저기서 혼나고 꾸중만 듣느라 주눅 든 아이들, 잠시도 집중하지 못하는 아이 때문에 속 터지는 엄마를 위해 저자들은 현실적으로 도움이 되는 방법을 알려준다. 주의산만한 아이를 어떻게 다루어야 하는지, 어떻게 공부하게끔 유도할 수 있는지 등 부모가 바로 실천할 수 있는 내용이 가득하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문아카이브",
+                "DDC": "649.1",
+                "UPDATE_DATE": "20171120",
+                "EA_ADD_CODE": "13370",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이영애,손정아 지음",
+                "SERIES_TITLE": "",
+                "KDC": "598.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6368719_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6368719_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "CIP2017024743",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187749448",
+                "INPUT_DATE": "20170919",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "산만한 아이 공부 처방전",
+                "PUBLISH_PREDATE": "20171010",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

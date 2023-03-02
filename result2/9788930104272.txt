@@ -1,0 +1,67 @@
+{
+    "otitle": "다른 방식으로 보기",
+    "oauthor": "존 버거 저/최민 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:14 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "다른 방식으로 보기(Ways of Seeing)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490815625",
+                "image": "https://shopping-phinf.pstatic.net/main_3249081/32490815625.20230225070822.jpg",
+                "author": "존 버거",
+                "discount": "12600",
+                "publisher": "열화당",
+                "pubdate": "20120801",
+                "isbn": "9788930104272",
+                "description": "존 버거를 미술평론가로 널리 알려지게 한 작품으로, 1972년 초판 발행 이후 미술전공자들의 필독서이자 일반인들의 교양서로서 꾸준히 사랑을 받아 온 &lt;Ways of Seeing&gt;의 번역서이다. 전 한국예술종합학교 영상원장 최민의 번역으로, 존 버거의 간결한 언어에 담긴 난해함을 텍스트와 이미지에 대한 깊은 이해로 친절히 풀어내며 독자들을 이미지의 세계로 안내한다.\n\n\n\n무엇보다 이미지도 하나의 텍스트로 읽히기를 바랐던 원작자의 의도를 살려 원작과 거의 같은 순서로 이미지와 텍스트가 흐르도록 편집했다. 또한 존 버거는 복제 기술로 인해 이미지가 어떤 식으로 변용되었는지, 누드화에서 여성의 몸에 가해지는 시선의 정체가 무엇인지 등을 이야기하며 독자에게 생각할 거리들을 던지고 있다.\n\n\n\n이 책은 차례 없이 번호가 매겨진 일곱 편의 에세이로 이루어져 있다. 그 중 네 편은 글과 이미지가 함께 흐르고 있고, 세 편은 이미지만으로 채워져 있다. 여성을 보는 방식 및 유화 전통에서의 다양한 모순적 측면들을 드러낸 이미지들로만 구성된 에세이들은 글로 쓴 에세이들만큼 여러 가지 다양한 질문들을 제기하기 위한 것이다.\n\n\n\n이 이미지들로만 구성된 에세이들에서는, 때로는 복제 도판에 대해 아무런 정보가 없는 경우도 있다. 그러한 정보를 곁들이는 것이 제기된 논점을 벗어나게 할지도 모른다고 생각했기 때문이다. 도판에 관한 정보는 이 책 마지막 부분에 수록된 도판 목록에서 찾아볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열화당",
+                "DDC": "704",
+                "UPDATE_DATE": "20120904",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.youlhwadang.co.kr",
+                "AUTHOR": "존 버거 ;최민 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "604",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2565398_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2565398_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012003097",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788930104272",
+                "INPUT_DATE": "20120705",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "다른 방식으로 보기 ",
+                "PUBLISH_PREDATE": "20120801",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

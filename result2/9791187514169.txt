@@ -1,0 +1,67 @@
+{
+    "otitle": "통합사회를 위한 첫걸음",
+    "oauthor": "박배균 외 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "통합사회를 위한 첫걸음 (공간의 눈으로 사회를 읽다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483307224",
+                "image": "https://shopping-phinf.pstatic.net/main_3248330/32483307224.20221230074552.jpg",
+                "author": "박배균",
+                "discount": "13830",
+                "publisher": "폭스코너",
+                "pubdate": "20180322",
+                "isbn": "9791187514169",
+                "description": "2015 개정 교육과정에 따라 2018년부터 고등학교 교과에 ‘통합사회’가 공통 과목으로 신설되었다. ‘통합사회’는 우리 사회를 이해하는 데 필요한 9개의 핵심 개념(행복, 자연환경, 생활공간, 인권, 시장, 정의, 문화, 세계화, 지속 가능한 삶)을 다양한 관점으로 통합하여 학습하려는 목표를 가지고 있다.\n\n\n\n4차 산업혁명 시대를 살아갈 학생들에게 융합적 사고력을 배양해야 한다는 사회적 요구가 반영된 결과이기도 하다. 하지만 교과별로 나누어 가르치던 기존의 사회과 교육과는 다른 방향을 지향하고 있다 보니, 교사나 학생 모두 학교 현장에서 다소간의 어려움을 토로하고 있다. \n\n\n\n이에 개정 교육과정이 발표된 2015년 이후 중등학교(중고등학교) 현장에서 지리를 가르치는 교사들과 대학 및 연구소에서 지리학을 연구하는 학자들이 모여 ‘공간적 관점으로 읽는 우리 사회’에 대해 3년여 간 치열하게 고민하고 토론하며 통합사회를 가르치고 배우는 바람직한 방법을 모색해왔다. 《통합사회를 위한 첫걸음-공간의 눈으로 사회를 읽다》는 그런 노력의 결실이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "폭스코너",
+                "DDC": "",
+                "UPDATE_DATE": "20180402",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박배균,김기남,김대훈,박병석,엄은희,윤신원,윤정현,임미영,조해수,최영진,황규덕,황진태 지음",
+                "SERIES_TITLE": "",
+                "KDC": "300",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6587378_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6587378_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "363 p.",
+                "CONTROL_NO": "CIP2018007995",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187514169",
+                "INPUT_DATE": "20180309",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "통합사회를 위한 첫걸음",
+                "PUBLISH_PREDATE": "20180322",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

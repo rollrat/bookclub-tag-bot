@@ -1,0 +1,67 @@
+{
+    "otitle": "패션, 영화를 디자인하다",
+    "oauthor": "진경옥 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "패션, 영화를 디자인하다 (2016 세종도서 우수교양도서, 2016 부산문화재단 우수도서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476664277",
+                "image": "https://shopping-phinf.pstatic.net/main_3247666/32476664277.20221229072142.jpg",
+                "author": "진경옥",
+                "discount": "18000",
+                "publisher": "산지니",
+                "pubdate": "20151020",
+                "isbn": "9788965453208",
+                "description": "영화로 읽는 패션 이야기\n\n영화 [티파니에서 아침을]에서 오드리 헵번이 쇼윈도를 바라보며 입었던 검은색 드레스, [7년 만에 외출]에서 환기구 위로 불어온 바람에 치솟아 오른 마릴린 먼로의 흰색 드레스, [바람과 함께 사라지다]에서 커텐으로 만든 비비안 리의 녹색 드레스…. 이들 의상의 공통점은 뭘까? 바로 영화 속 등장인물을 등장인물의 이야기와 캐릭터를 의상으로 재현하여 그 시대 대중 패션을 선도해왔다는 점이다. 영화의상은 영화 속 인물의 캐릭터를 잘 보여주면서 동시에 스토리를 이끌어가기도 하고, 그 시대의 패션유행을 이끌어나가기도 한다. 이처럼 잘 만든 영화의상은 20, 21세기 패션에서 감초 같은 역할을 주도하곤 한다. 『패션, 영화를 디자인하다』는 쉰한 가지 영화 속에 등장하는 패션을 통해 그동안 대중들에게 잘 알려지지 않았던 영화의상의 세계를 조명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "산지니",
+                "DDC": "746.92",
+                "UPDATE_DATE": "20151214",
+                "EA_ADD_CODE": "03590",
+                "PUBLISHER_URL": "http://www.sanzinibook.com",
+                "AUTHOR": "진경옥",
+                "SERIES_TITLE": "",
+                "KDC": "592.011",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4921423_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4921423_3.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "320",
+                "CONTROL_NO": "CIP2015026722",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965453208",
+                "INPUT_DATE": "20150930",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "패션, 영화를 디자인하다",
+                "PUBLISH_PREDATE": "20151020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "박물관 미술관에서 보는 유럽사",
+    "oauthor": "통합유럽연구회 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "박물관 미술관에서 보는 유럽사 (유럽의 현재와 과거, 미래가 공존하는 기억의 장소들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466925690",
+                "image": "https://shopping-phinf.pstatic.net/main_3246692/32466925690.20230225070914.jpg",
+                "author": "통합유럽연구회",
+                "discount": "19800",
+                "publisher": "책과함께",
+                "pubdate": "20180831",
+                "isbn": "9791188990061",
+                "description": "유럽의 박물관과 미술관은 '유럽 이야기의 보고'라 불릴 만큼 유럽에 대한 풍부한 이야기를 담고 있다. 여러 시대에 다양한 국가에 지어진 유럽의 박물관과 미술관은 설립 취지, 전시품, 건축물의 성격 등 여러 요소들을 통해 시공을 초월한 다채로운 유럽 이야기를 들려준다.\n\n\n\n유럽의 박물관과 미술관은 형태와 기능 면에서 끊임없이 진화하고 발전해왔으며, 사회적 담론 공간이자 끊임없이 변화하는 생각의 탄생 공간으로서 유럽의 문화정체성을 형성하는 데 기여해왔다. 변화하는 동시대의 삶과 달리 오랜 세월 그 장소를 지키는 '기억의 장소'로서 지속되는 가치를 창출하고, 역사적 지표가 되어 자신의 모습을 드러내고 있는 것이다.\n\n\n\n이 책은 유럽이 분열과 통합, 갈등과 협력 과정을 통해 새로운 역사를 만들어가는 과정을 각기 다른 색깔을 가지고 있는 유럽의 박물관과 미술관 29곳을 통해 살펴본다. 역사적, 미술사적 의미가 있는 곳을 중심으로 위치의 역사성과 상징성, 건물 구조의 특수성, 전시품 배치의 콘셉트, 구현하고자 하는 정체성을 살펴보고, 그것이 유럽사에서 가지는 의미가 무엇인지를 그려낸다. 이 책이 소개하는 '기억의 장소'들을 통해 유럽의 역사와 문화를 이해하는 데 한 발짝 더 다가가 보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책과함께",
+                "DDC": "940",
+                "UPDATE_DATE": "20180827",
+                "EA_ADD_CODE": "03920",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "통합유럽연구회,구연정,구지훈,김새미,김선형,김용덕,김유정,김지영,김진영,김혜진,박단,신동규,신종훈,심성은,안병억,오정은,윤석준,윤성원,윤용선,이정민,임동현,임상우,정영진,최병진,홍용진 지음",
+                "SERIES_TITLE": "",
+                "KDC": "920",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6844472_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*223",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "478 p.",
+                "CONTROL_NO": "CIP2018024672",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188990061",
+                "INPUT_DATE": "20180806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "박물관 미술관에서 보는 유럽사",
+                "PUBLISH_PREDATE": "20180831",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

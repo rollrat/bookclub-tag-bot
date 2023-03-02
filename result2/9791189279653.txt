@@ -1,0 +1,67 @@
+{
+    "otitle": "감정은 패턴이다",
+    "oauthor": "랜디 타란 저/강이수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "감정은 패턴이다 (부정의 감정을 긍정의 감정으로 바꾸는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466707745",
+                "image": "https://shopping-phinf.pstatic.net/main_3246670/32466707745.20230206070816.jpg",
+                "author": "랜디 타란",
+                "discount": "14400",
+                "publisher": "유노북스",
+                "pubdate": "20190805",
+                "isbn": "9791189279653",
+                "description": "성공한 커리어우먼으로 평온한 삶을 살던 저자는 어느 날, ‘행복하지 않다’는 10대 딸의 청천벽력 같은 고백을 듣는다. 그 고민이 자신의 딸만이 아니라 그 또래, 더 나아가 모든 사람에게 절실한 문제임을 깨닫고 행복이란 무엇인가에 대한 답을 찾아 나서기로 한다.\n\n\n\n그렇게 탄생한 것이 서울을 비롯해 전 세계 11개 지역 영화제에서 수상한 다큐멘터리 〈행복 프로젝트〉이고, 이것은 다시 관련 전문가와 함께 일상에서 행복감을 찾고 느끼고 구현하기 위한 구체적인 커리큘럼 개발로 확대되었다. 그중에서도 가장 핵심적인 역할을 하는 감정을 다스리는 법을 그 원리부터 실행 방법까지 일목요연하게 정리한 것을 모은 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190806",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "랜디 타란 지음 ;강이수 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/07/15/9791189279653.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*224",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "402 p.",
+                "CONTROL_NO": "CIP2019027664",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189279653",
+                "INPUT_DATE": "20190715",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "감정은 패턴이다",
+                "PUBLISH_PREDATE": "20190805",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

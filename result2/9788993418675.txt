@@ -1,0 +1,67 @@
+{
+    "otitle": "띵굴마님은 살림살이가 좋아",
+    "oauthor": "이혜선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "띵굴마님은 살림살이가 좋아 (마님 그거 어디서 샀어요?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456298869",
+                "image": "https://shopping-phinf.pstatic.net/main_3245629/32456298869.20221019140328.jpg",
+                "author": "이혜선",
+                "discount": "9000",
+                "publisher": "포북(forbook)",
+                "pubdate": "20130919",
+                "isbn": "9788993418675",
+                "description": "네이버 파워 블로거 띵굴마님의 살림살이 노하우!\n\n마님, 그거 어디서 샀어요?『띵굴마님은 살림살이가 좋아』. 온라인 커뮤니티 열풍에 합류해 만든 블로그 《그곳에 그집》을 통해 ‘띵굴마님’이라는 닉네임으로 활동하기 시작하면서 많은 주부들의 지지와 사랑을 받고 있는 살림 멘토 땅굴마님 이혜선의《살림이 좋아》에 이은 두 번째 책이다. 청소, 빨래, 수납, 요리 등 주부들이 살림의 여왕으로 살 수 있게 도와주는 사소하고 소소한 살림살이에 대한 이야기를 들려주고, 살림살이 구입처와 꼼꼼 활용법을 고스란히 담아냈다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "포북",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이혜선",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993418675",
+                "INPUT_DATE": "20130902",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "살림살이가 좋아",
+                "PUBLISH_PREDATE": "20130919",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

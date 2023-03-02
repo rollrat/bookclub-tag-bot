@@ -1,0 +1,67 @@
+{
+    "otitle": "명상의 기적",
+    "oauthor": "정준우 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "명상의 기적 (실생활에서 언제나 활용할 수 있는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503928840",
+                "image": "https://shopping-phinf.pstatic.net/main_3250392/32503928840.20221228074629.jpg",
+                "author": "정준우",
+                "discount": "13500",
+                "publisher": "바이북스",
+                "pubdate": "20190909",
+                "isbn": "9791158771171",
+                "description": "운명을 바꾸는 습관인 하루 10분 명상에 관한 에세이. 『명상의 기적』의 저자 정준우는 습관이 운명을 바꾼다고 믿는다. 그래서 하루 1분으로, 하루 10분으로 인생이 충분히 변할 수 있는 명상의 힘과 기적을 강조한다. 저자는 명상을 하며, 명상을 지도하며 경험한 것들을 바탕으로 실생활에서 언제나 활용할 수 있는 유용한 명상법을 제시한다. 몸과 마음의 준비를 통해 일상생활에서 짬짬이 수행할 수 있는 다양한 명상법으로 달라진 자신을 만날 수 있다. 명상을 통해 우리 모두 건강하고 행복하기를 바라는 저자의 바람대로 기적을 직접 체험해보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20191014",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정준우 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "249 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158771171",
+                "INPUT_DATE": "20190820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "(실생활에서 언제나 활용할 수 있는) 명상의 기적",
+                "PUBLISH_PREDATE": "20190909",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

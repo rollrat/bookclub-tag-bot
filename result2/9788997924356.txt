@@ -1,0 +1,67 @@
+{
+    "otitle": "4차 산업혁명을 이끌 IT 과학이야기",
+    "oauthor": "이재영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "4차 산업혁명을 이끌 IT 과학이야기 (인공지능, 로봇공학, 스마트카, 소프트웨어)",
+                "link": "https://search.shopping.naver.com/book/catalog/32451952955",
+                "image": "https://shopping-phinf.pstatic.net/main_3245195/32451952955.20230103165006.jpg",
+                "author": "이재영",
+                "discount": "15300",
+                "publisher": "로드북",
+                "pubdate": "20170720",
+                "isbn": "9788997924356",
+                "description": "누구나 재미있게 IT 과학이야기를 읽는다!\n\n4차 산업혁명이 화두입니다. 인공지능에 직업을 빼앗길지도 모른다는 공포가 있습니다. 운전자 없는 자동차의 신세계가 다가오고 있습니다. 로봇은 이미 생활 속 깊숙이 들어와 있습니다. 자, 우리는 무엇을 준비해야 할까요? 두려움과 공포를 이겨내는 방법은 “아는 것”입니다. 미지의 세계에 쉽게 다가가는 방법은 쉬운 이야기부터 접근하는 것입니다. 여러분에게 4차 산업혁명 시대에 이정표가 되어 길을 잃지 않도록 재미있는 IT 과학이야기가 시작됩니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "이재영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*213",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "310 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "0",
+                "EA_ISBN": "9788997924356",
+                "INPUT_DATE": "20170706",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "(4차 산업혁명을 이끌) IT 과학이야기",
+                "PUBLISH_PREDATE": "20170720",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

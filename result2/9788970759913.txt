@@ -1,0 +1,67 @@
+{
+    "otitle": "어른을 위한 이솝 우화 전집",
+    "oauthor": "이솝 원저/로버트 템플,올리비아 템플 해설/최인자,신현철 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어른을 위한 이솝 우화 전집",
+                "link": "https://search.shopping.naver.com/book/catalog/32478271828",
+                "image": "https://shopping-phinf.pstatic.net/main_3247827/32478271828.20221228071831.jpg",
+                "author": "이영옥^로버트 템플^올리비아 템플",
+                "discount": "13500",
+                "publisher": "문학세계사",
+                "pubdate": "20210320",
+                "isbn": "9788970759913",
+                "description": "어른을 위한 지혜와 처세의 보고, 이솝 우화\n358가지 우화를 원본 그대로 복원한 이솝 우화 전집의 결정판!\n\n인류 역사상 가장 지혜로운 교훈과 처세의 보고 ‘이솝 우화’는 원래 어른을 위한 우화집이었다. 이솝 우화는 다소 외설스럽기도 한 유머와 신화들, 냉혹한 현실 속에서 살아남을 수 있는 지혜와 교훈으로 가득하다.\n1927년 프랑스 파리에서 출간되었던 샹브리의 358편 『이솝 우화』 판본 이후, 영어판으로 번역되는 과정에서 어린이들이 읽기에 부적합한 150여 편의 이야기가 삭제된 채 전세계의 수많은 독자들에게 ‘아동용’으로 그동안 읽혀 왔다. 『어른을 위한 이솝 우화 전집』은 미국의 로버트, 올리비아 템플 부부가 샹브리 판본의 358가지 이솝 우화를 원본 그대로 복원하고 상세한 각주를 달아 설명한 이솝 우화의 결정판이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문학세계사",
+                "DDC": "",
+                "UPDATE_DATE": "20210415",
+                "EA_ADD_CODE": "03890",
+                "PUBLISHER_URL": "http://www.msp21.co.kr",
+                "AUTHOR": "이솝 지음 ;로버트 템플,올리비아 템플 주해 ;최인자,신현철 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/24/9788970759913.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "430 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970759913",
+                "INPUT_DATE": "20210224",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "(정본) 어른을 위한 이솝 우화 전집",
+                "PUBLISH_PREDATE": "20210320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

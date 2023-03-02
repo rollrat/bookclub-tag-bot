@@ -1,0 +1,67 @@
+{
+    "otitle": "을의 연애",
+    "oauthor": "을냥이 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "을의 연애 (늘 버티는 연애를 해온 당신에게 | 사랑해서 오늘도 지고 말았다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493534331",
+                "image": "https://shopping-phinf.pstatic.net/main_3249353/32493534331.20230219103342.jpg",
+                "author": "을냥이",
+                "discount": "11520",
+                "publisher": "생각정거장",
+                "pubdate": "20180808",
+                "isbn": "9791155428771",
+                "description": "제가 더 좋아하기 때문에, 그 사람의 사랑을 억지로 삼키고 있습니다.\n\n요즘 한창 들썩거리는 '갑과 을' 관계는 사회적 이슈에만 있는 걸까? 누구보다 공정해야 할 사이인 연인관계에서도 갑과 을이 존재한다. 서로를 대하는 온도가 같다면 이상적인 연애가 될 테지만, 사람 마음이란 조금씩 어긋나기 마련이다. 씁쓸하지만 대부분 연인관계가 그렇게 흘러간다. 이 관계를 계속하기 위해서는 분명 참는 쪽이 생긴다. 이들은 보통 '더 좋아하는' 쪽이다. 그들은 사랑을 억지로 견뎌내는 '을'이 되고 만다. 한쪽으로 기울어진 연애를 하게 되지만, 스스로가 놓으면 끝나버리는 관계인 걸 알기에 어떻게든 버틴다. 너무 사랑하는 그 사람과 헤어질 수 없기에… 그렇게 을은 잘못 된 사랑의 늪에서 나오지 못하고 허우적거린다.\n\n작가 '을냥이'(필명)도 과거 을로서 그 사람을 사랑했던 시간이 있었다. 그때의 눈물, 상처, 기억을 갖고 모든 을들을 치유해주기 위해 을의 연애담을 그렸다. 이를 보고 점차 다른 을들도 스스로의 이야기를 털어놓으며 서로에게 위로를 건네기 시작했다. 그렇게 9만 명 이상의 공감을 이끌어낸 페이스북 페이지 '을의 연애' 에피소드를 책으로 엮었다. 이별하지 못하고 그 사람과 연애에서 오늘도 버티고 있는 모든 을의 마음에 소소한 위로를 건네줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각정거장 :매경출판",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20180827",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "을냥이 글 그림",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6811895_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6811895_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6811895_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "257 p.",
+                "CONTROL_NO": "CIP2018022309",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791155428771",
+                "INPUT_DATE": "20180716",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "을의 연애",
+                "PUBLISH_PREDATE": "20180808",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

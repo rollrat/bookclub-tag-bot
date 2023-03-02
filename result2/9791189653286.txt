@@ -1,0 +1,67 @@
+{
+    "otitle": "모든 것의 수다",
+    "oauthor": "고계원,하승열,기하서,장원철,황준묵,한순구,김재경,이준엽,신석우,이광근 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "모든 것의 수다 (렉처 사이언스 KAOS-07)",
+                "link": "https://search.shopping.naver.com/book/catalog/32461365144",
+                "image": "https://shopping-phinf.pstatic.net/main_3246136/32461365144.20221227203656.jpg",
+                "author": "고계원^하승열^기하서^장원철^황준묵^한순구^김재경^이준엽^신석우^이광근",
+                "discount": "18000",
+                "publisher": "반니",
+                "pubdate": "20190703",
+                "isbn": "9791189653286",
+                "description": "세상을 ‘수(數)’로 이해하는 수학자들의 눈에는 세상이 어떻게 보일까? 영화 [매트릭스]처럼 프로그래밍 된 가상현실까지는 아니더라도, 만물이 작동하고 존재하는 이면에는 수학적 질서가 자리 잡고 있다고 생각할 것이다. 『모든 것의 수다』는 해가 뜨고 지고 새가 무리지어 나는 자연현상부터 셰익스피어가 즐겨 사용하는 단어의 개수, 가위바위보와 경매와 같은 인간행동의 예측, 생체리듬을 비롯한 생명현상까지 모두 수학적으로 이해하고 설명하기 위해 노력한 수학자들의 결과물을 담고 있다. 대한민국을 대표할 수 있는 10명의 수학자들이 어떤 수학이론 혹은 난제에 매료되었고, 어떤 연구를 해왔는지 알 수 있는 이 책은 수학이 우리 곁에 얼마나 가까이 있고, 세상을 이해하는 흥미로운 관점이 될 수 있는가를 생생하게 보여준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "고계원;하승열;기하서;장원철;황준묵;한순구;김재경;이준엽;신석우;이광근",
+                "SERIES_TITLE": "",
+                "KDC": "410",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "305 p. ",
+                "CONTROL_NO": "CIP2019023977",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189653286",
+                "INPUT_DATE": "20190618",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "모든 것의 수다 ",
+                "PUBLISH_PREDATE": "20190703",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

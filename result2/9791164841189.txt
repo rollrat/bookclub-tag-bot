@@ -1,0 +1,67 @@
+{
+    "otitle": "사게 만드는 법칙",
+    "oauthor": "혼마 다쓰헤이 저/최예은 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사게 만드는 법칙 (꼭 사야 할 것 같은 분위기를 만드는 반전의 마케팅)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436013692",
+                "image": "https://shopping-phinf.pstatic.net/main_3243601/32436013692.20221228073114.jpg",
+                "author": "혼마 다쓰헤이",
+                "discount": "13320",
+                "publisher": "매일경제신문사",
+                "pubdate": "20200520",
+                "isbn": "9791164841189",
+                "description": "실패한 전략, 똑같은 남의 전략은 소용없다\n‘구매 욕구를 높이는’ 마케팅만이 살아남는다!\n\n광고는 일단 '건너뛰기'하고 보는 사람들… 광고, 노출에 집중한 마케팅이 홀대받는 시대다. 눈에 띄면 일단 관심을 받았던 과거와는 달리 예산을 들여 광고를 내고 좋은 위치에 제품을 진열해도 고객의 선택을 받지 못하는 일이 부지기수다. \n\n이 책에는 세계 최고 광고회사 덴쓰에서 뇌과학?행동경제학?심리학을 기반으로 증명한 '구매 욕구 높이는 법'이 다양한 사례와 함께 소개되어 있다. 눈에 쉽게 보이지 않는 구매 행동 패턴, 즉 팔리는 패턴을 찾아내는 법, 그렇게 찾아낸 패턴을 ‘판매’로 연결시키는 전략을 알려준다. 왜 안 팔릴까, 어떻게 주목받게 할까 고민이라면 팔지 못하는 똑같은 전략에 매달리지 말고, 팔리는 패턴이 알려주는 34가지 전략으로 사게 만들어보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "매일경제신문사 :매경출판",
+                "DDC": "",
+                "UPDATE_DATE": "20200630",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.mk.co.kr",
+                "AUTHOR": "혼마 다쓰헤이 지음 ;최예은 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/05/07/9791164841189.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "197 p.",
+                "CONTROL_NO": "CIP2020015778",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791164841189",
+                "INPUT_DATE": "20200416",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "사게 만드는 법칙",
+                "PUBLISH_PREDATE": "20200520",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

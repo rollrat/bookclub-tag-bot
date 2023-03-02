@@ -1,0 +1,23 @@
+{
+    "otitle": "원 페이지 요리책",
+    "oauthor": "듀자미 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "원 페이지 요리책",
+                "link": "https://search.shopping.naver.com/book/catalog/32436101640",
+                "image": "https://shopping-phinf.pstatic.net/main_3243610/32436101640.20221228073958.jpg",
+                "author": "듀자미",
+                "discount": "10800",
+                "publisher": "렛츠북",
+                "pubdate": "20180810",
+                "isbn": "9791160541762",
+                "description": "요리책으로부터의 독립!\n\n국수는 몇 분을 삶아야 하죠?\n애호박은 어느 두께로 잘라야 합니까?\n이 정도면 소금 한 티스푼인가요?\n요리에는 정답이 없습니다.\n앞서 만들어본 사람들의 팁이 있을 뿐이죠.\n요리 초보를 위한 팁을 모았습니다."
+            }
+        ]
+    }
+}

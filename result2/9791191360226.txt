@@ -1,0 +1,67 @@
+{
+    "otitle": "사춘기를 위한 맞춤법 수업",
+    "oauthor": "권희린 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:26 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "사춘기를 위한 맞춤법 수업",
+                "link": "https://search.shopping.naver.com/book/catalog/32485046100",
+                "image": "https://shopping-phinf.pstatic.net/main_3248504/32485046100.20230117163101.jpg",
+                "author": "권희린",
+                "discount": "11240",
+                "publisher": "생각학교",
+                "pubdate": "20210823",
+                "isbn": "9791191360226",
+                "description": "매 학기 첫 시간마다 학생들에게 ‘받아쓰기 시험’을 치르게 하는 사서 교사 권희린. 오랫동안 쌓인 그 결과를 통해 학교에서 직접 목격한, 학생들이 자주 틀리는 맞춤법 사례들을 이 책에 담았다. 또한 왜 틀리는지, 어떻게 외울 수 있는지, 어떤 주제와 관련 지어 익히면 좋은지, 당장 적용해볼 수 있는 방법까지 설명한다.\n좋아하는 친구를 위해 멋진 근육을 만들고, 다이어트를 하지만 맞춤법을 틀리면 후광을 잃게 된다. 이 책은 SNS에서 흑역사를 생성하고 싶지 않은 청소년들의 마음을 짚으며 디지털 세대에게 중요하다는 문해력의 기본인 맞춤법을 익히게 돕는다. 이 책을 통해 청소년들은 맞춤법이야말로 친구들과의 소통을 돕는 중요한 핵심임을 알게 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생각학교",
+                "DDC": "",
+                "UPDATE_DATE": "20211102",
+                "EA_ADD_CODE": "43700",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "권희린 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/08/11/9791191360226.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191360226",
+                "INPUT_DATE": "20210811",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "사춘기를 위한 맞춤법 수업",
+                "PUBLISH_PREDATE": "20210823",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

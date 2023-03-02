@@ -1,0 +1,67 @@
+{
+    "otitle": "바나나 제국의 몰락",
+    "oauthor": "롭 던 저/노승영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "바나나 제국의 몰락 (풍요로운 식탁은 어떻게 미래 식량을 위협하는가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466692666",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466692666.20221019140410.jpg",
+                "author": "롭 던",
+                "discount": "16200",
+                "publisher": "반니",
+                "pubdate": "20180406",
+                "isbn": "9791187980575",
+                "description": "인류의 미래와 직결된 농업의 미래, 우리들 모두의 손에 달려 있다!\n\n『바나나 제국의 몰락』은 롭 던이 오랜 시간에 걸쳐 수많은 자료와 많은 이들의 도움으로 이뤄낸 역작으로, 자연과의 공존이 인류의 생존에 얼마나 중요한 것인지를 일깨워준다. 현대 과학은 영원한 풍요로움을 보장하는 듯 보였다. 어떤 과일이든 1년 내내 먹을 수 있으며, 가장 튼튼하고 맛 좋은 품종을 개량하고 복제했다. 기업적 식량생산 시스템은 햇빛과 물, 영양소를 식품으로 바꾸는 과정을 완벽에 가깝게 만들었지만 이렇게 만들어낸 작물은 자연의 분노에 너무나 취약해지고 말았다.\n\n농업이 세계화되면서 인류의 먹거리는 그 다양성이 급격히 줄고 품종은 균일화되었다. 어느 지역이나 똑같은 작물을 재배하고 똑같은 품종을 사람들은 먹는다. 전 세계의 거의 모든 작물은 한 지역에서 재배되다가 병충해를 피해 다른 지역으로 옮겨 가는 경로를 걸었다. 하지만 전 세계가 비행기와 배로 빠르게 연결된 지금은 병충해가 작물의 이동 속도를 따라잡고 있다. 일단 병충해에 따라잡히면 작물을 구할 방법은 극소수에 불과하다.\n\n저자는 자연은 균형을 유지하지도, 은혜를 베풀지도 않는다. 자연은 우리를 위협하는 동시에, 우리를 살릴 수도 있다고 이야기하면서 소규모 농부들의 전통 방법이야말로 지구에서 생존하는 무한한 생태계와 인류를 제대로 연결하는 일인지도 모른다고 강조한다. 더 간단하게는 고기 소비를 줄이고, 버리는 음식을 줄이는 것, 식량을 덜 낭비하는 것만으로도 소소하게 참여할 수 있음을 일깨워준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "반니",
+                "DDC": "641.3",
+                "UPDATE_DATE": "20180413",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "롭 던 지음 ;노승영 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "594",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6601904_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*218",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "399 p.",
+                "CONTROL_NO": "CIP2018009225",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187980575",
+                "INPUT_DATE": "20180321",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "바나나 제국의 몰락",
+                "PUBLISH_PREDATE": "20180406",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

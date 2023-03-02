@@ -1,0 +1,67 @@
+{
+    "otitle": "뉴 코스모스",
+    "oauthor": "데이비드 아이허 저/최가영 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "뉴 코스모스 (우주를 향한 새로운 질문)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492761310",
+                "image": "https://shopping-phinf.pstatic.net/main_3249276/32492761310.20221230072421.jpg",
+                "author": "데이비드 아이허",
+                "discount": "16200",
+                "publisher": "예문아카이브",
+                "pubdate": "20170525",
+                "isbn": "9791187749257",
+                "description": "코스모스 이후 35년의 공백을 채우다!\n\n과학의 대중화에 위대한 업적을 남긴 천문학자 칼 세이건(1934-1996)의 걸작 다큐멘터리 ‘코스모스(Cosmos)’가 방영되고 같은 제목의 책이 출간된 지 35년 넘는 세월이 흘렀다. 이 기간 동안 우주에 관한 인류의 지식은 새로운 기술과 최첨단 장비에 힘입어 눈부신 발전을 이뤘다. 가히 ‘뉴 코스모스(New Cosmos)’의 시대라 불릴 만한 변화다. 『뉴 코스모스』은 이런 흐름 속에서 칼 세이건과 《코스모스》를 향한 깊은 존경을 담고 있다. \n\n세계 최고 권위의 천문학 전문지 〈애스트로노미(Astronomy)〉 편집장인 저자가 어려운 학계의 방식이 아닌 일반 독자의 눈높이에 맞춰 최신 버전의 천문학 지식을 전달한다. 또한 제목에 걸맞게 35년 전 《코스모스》가 소개될 당시의 과학 기술로는 미처 밝히지 못한 새로운 지식들을 이후에 촬영한 컬러 이미지와 함께 설명한다. 이 책은 〈애스트로노미〉 독자 설문 조사를 통해 우주에 관한 대중의 가장 큰 관심사 17가지로 구성됐으며 천문학, 천체물리학, 우주학, 행성학 분야의 전문가들과 ‘딥 임팩트(Deep Impact)’ 및 ‘뉴 호라이즌스(New Horizons)’ 계획 등을 주도한 학자들의 꼼꼼한 감수를 거쳤다. 우주와 별은 어떻게 생겨났는지, 태양은 언제까지 활활 타오를 수 있는지, 지구는 어떤 종말을 맞이할지, 쌍둥이 지구는 존재하는지, 암흑 물질과 암흑 에너지란 과연 무엇인지 등을 흥미진진하게 풀어가면서, 광활한 우주에서 생명이 갖는 진정한 의미에 대해 커다란 화두를 던지고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문아카이브",
+                "DDC": "520",
+                "UPDATE_DATE": "20170817",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 데이비드 아이허 ;옮긴이: 최가영",
+                "SERIES_TITLE": "",
+                "KDC": "440",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6216097_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6216097_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "435 p.",
+                "CONTROL_NO": "CIP2017010842",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791187749257",
+                "INPUT_DATE": "20170425",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "뉴 코스모스",
+                "PUBLISH_PREDATE": "20170525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "세상을 바꾸는 위인 그리고 명언",
+    "oauthor": "박정규 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상을 바꾸는 위인 그리고 명언",
+                "link": "https://search.shopping.naver.com/book/catalog/32506687446",
+                "image": "https://shopping-phinf.pstatic.net/main_3250668/32506687446.20221019131401.jpg",
+                "author": "박정규",
+                "discount": "18000",
+                "publisher": "글모아",
+                "pubdate": "20120910",
+                "isbn": "9788994626093",
+                "description": "『세상을 바꾸는 위인 그리고 명언』은 몇 천 년 전에 명언을 남긴 성인, 철학자, 문학자, 정치인, 장군 등의 명사들의 생애와 명문ㆍ명언을 각 분야별로 살펴보는 책이다. 각 계층의 유명 인사들의 명문과 명언을 통해 그들이 살아온 삶의 역사를 오늘에 되살려 보고, 이를 우리 삶에 반영할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "글모아출판",
+                "DDC": "",
+                "UPDATE_DATE": "20121016",
+                "EA_ADD_CODE": "13800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "박정규 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994626093",
+                "INPUT_DATE": "20121016",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "세상을 바꾸는 위인 그리고 명언 ",
+                "PUBLISH_PREDATE": "20120910",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

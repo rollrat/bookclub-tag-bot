@@ -1,0 +1,67 @@
+{
+    "otitle": "나에게 다정해지기로 했습니다",
+    "oauthor": "디아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나에게 다정해지기로 했습니다 (잠들기 전, 내 마음을 돌보는 시간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32468133801",
+                "image": "https://shopping-phinf.pstatic.net/main_3246813/32468133801.20230216071314.jpg",
+                "author": "디아",
+                "discount": "14400",
+                "publisher": "카시오페아",
+                "pubdate": "20220215",
+                "isbn": "9791168270138",
+                "description": "“마음은 괜찮나요?”\n오늘도 세상 모든 마음에게 다정한 안부 인사를 건넵니다\n\n마음공부와 명상-요가를 통해 먼저 겪고 발견하고 깨달은 경험을 나눠온 디아 작가의 새 책 『나에게 다정해지기로 했습니다』가 출간되었다. 마음의 원리를 바탕으로, 일상에서 거칠게 요동치는 마음을 다정하게 마주하여 고요하고 평온하게 가라앉히는 방법, 스스로를 지키면서 일상에 두 발을 딛고 잘 지내는 방법을 이야기기한다. 마음의 방랑을 멈추려면, 내가 나를 싫어하며 괴롭히지 않으려면, 내가 나에게 다정해지려면 안으로의 여행을 통해 내 마음을 아는 것이 먼저이다. 마음 여행을 떠나려는 마음 여행자들을 위해 디아 작가가 기꺼이 마음 여행 가이드로 나섰다. 작가는 내 마음을 오염시키는 탐냄과 성냄을 버리고 자신에게 이로운 ‘바른 마음’의 힘을 키워나가는 방법을 알려준다. 나를 제대로 보는 일이 지금 여기에서 흔들림 없는 일상을 살아가도록 나를 다정하게 돌보는 일이라는 것을 깨닫게 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "카시오페아 출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20220314",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://blog.naver.com/cassiopeiabo",
+                "AUTHOR": "디아 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "294 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168270138",
+                "INPUT_DATE": "20220114",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "나에게 다정해지기로 했습니다",
+                "PUBLISH_PREDATE": "20220215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

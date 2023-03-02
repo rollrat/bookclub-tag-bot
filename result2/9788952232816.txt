@@ -1,0 +1,67 @@
+{
+    "otitle": "과학이 내게로 왔다",
+    "oauthor": "김동준,서승현,윤호진,이근민,조영민 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "과학이 내게로 왔다 (카이스트 학생들의 찬란한 과학 입성기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436246181",
+                "image": "https://shopping-phinf.pstatic.net/main_3243624/32436246181.20221230074817.jpg",
+                "author": "김동준^서승현^윤호진^이근민^조영민 외 카이스트 학생들",
+                "discount": "11700",
+                "publisher": "살림Friends",
+                "pubdate": "20151220",
+                "isbn": "9788952232816",
+                "description": "카이스트 총서 시리즈. 현재 카이스트에 재학 중인 학생 27명의 글을 한데 엮었다. 이번 책의 주제는 학생들이 처음으로 과학을 만난 날, 과학에 푹 빠지게 된 순간, 본격적으로 과학자의 꿈을 꾸게 된 계기 등 책 제목 그대로 ‘과학이 내게로 온 그때’의 특별한 설렘과 찬란한 두근거림을 담았다.\n\n\n\n대한민국 최고의 수재로 인정받는 카이스트 학생들은 언제 어떻게 과학을 만났고, 사랑에 빠졌으며, 온 열정을 쏟게 되었을까? 이 책은 카이스트 학생들의 소중한 경험을 소개하고 그 순간에 느꼈던 가슴 벅찬 기쁨과 설렘, 과학도라는 결정을 내리기까지의 깊은 불안과 고민 등 다양한 감정을 고스란히 담았다.\n\n\n\n책에 실린 27편의 글은 마치 살가운 학교 선배나 동네 형, 누나가 직접 들려주는 조언과 충고 이상의 소중한 가치로 독자들에게 다가갈 것이다. 그리고 이 책에 실린 글 한 편 한 편으로 인해 과학이 누군가를 찾아가고, 누군가가 과학을 발견하는 소중한 기회를 얻을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20160216",
+                "EA_ADD_CODE": "43800",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "김동준, 서승현, 윤호진, 이근민, 조영민 외 카이스트 학생들 ",
+                "SERIES_TITLE": "",
+                "KDC": "404",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5053166_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5053166_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5053166_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5053166_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "272",
+                "CONTROL_NO": "CIP2015032604",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952232816",
+                "INPUT_DATE": "20151126",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "과학이 내게로 왔다",
+                "PUBLISH_PREDATE": "20151220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "김소월 시집 - 한국문학읽다",
+    "oauthor": "김소월 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "김소월 시집(큰글씨책) (한국 문학 읽다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490319634",
+                "image": "https://shopping-phinf.pstatic.net/main_3249031/32490319634.20221019101531.jpg",
+                "author": "김소월",
+                "discount": "24300",
+                "publisher": "정씨책방",
+                "pubdate": "20190610",
+                "isbn": "9791189604479",
+                "description": "“진달래꽃”\n한국 현대시인의 대명사 민족시인, 김소월\n\n20세기 한국 문학을 대표하는 작가들의 시와 단편 소설 작품들을 엄선한 소설 선집 「한국 문학 읽다」 는 문학의 고전을 살아 있는 동시대의 문학으로 읽을 수 있도록 구성한 시리즈이다. 한국인이 꼭 읽어야 할 대표 작가들의 주요 작품을 고전부터 근ㆍ현대 작품에 이르기까지 우리나라 대표 작가들의 다양한 작품을 만날 수 있다.\n\n은 , , 에 이은 「한국 문학 읽다」시리즈 4번째 작품이다.\n\n\n[일러두기]\n큰글씨책은 저시력자 및 어르신들 모두 편하게 읽을 수 있도록 큰글씨책에 맞는 가독성 살린 편집과 디자인으로 본문 및 글자 크기를 크게 하여 만든 책입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "정씨책방",
+                "DDC": "",
+                "UPDATE_DATE": "20190723",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김소월",
+                "SERIES_TITLE": "",
+                "KDC": "811.61",
+                "EDITION_STMT": "개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/10/9791189604479.jpg",
+                "PRE_PRICE": "27000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "182*257",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "250 p.",
+                "CONTROL_NO": "CIP2019013954",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189604479",
+                "INPUT_DATE": "20190410",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "김소월 시집",
+                "PUBLISH_PREDATE": "20190610",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

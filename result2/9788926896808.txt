@@ -1,0 +1,78 @@
+{
+    "otitle": "퐁당, 시칠리아",
+    "oauthor": "윤정인 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:10 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "퐁당, 시칠리아 (지중해에서 보낸 완벽한 한 달)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485541436",
+                "image": "https://shopping-phinf.pstatic.net/main_3248554/32485541436.20221129164742.jpg",
+                "author": "윤정인",
+                "discount": "14400",
+                "publisher": "이담북스",
+                "pubdate": "20191104",
+                "isbn": "9788926896808",
+                "description": "지중해의 따뜻한 파랑, 햇살을 머금은 레몬향이 어우러진\n작은 천국의 땅 시칠리아에서 영화처럼 먹고, 쉬고, 걷다\n\n여행 작가에게도 낯선 여행지, 시칠리아를 한 달 동안 여행하다.\n시칠리아를 한 달 동안 여행하면서 담은 꼼꼼한 여행 정보는 물론 마치 시칠리아에서 함께 걷는 듯한 느낌이 들게 만드는 세밀한 풍경 묘사와 감성 돋는 글은 보는 내내 독자를 지중해의 푸른 섬으로 옮겨 놓는다. 여행 에세이지만 여행 정보 책으로도 손색없을 만큼 시칠리아의 작은 마을, 골목 하나 놓치지 않고 구석구석 여행한 저자의 발품 안내서가 이 섬을 찾는 여행자들에게 좋은 길잡이가 될 것이다."
+            },
+            {
+                "title": "퐁당, 시칠리아(큰글자도서) (지중해에서 보낸 완벽한 한 달)",
+                "link": "https://search.shopping.naver.com/book/catalog/35835749624",
+                "image": "https://shopping-phinf.pstatic.net/main_3583574/35835749624.20221129162649.jpg",
+                "author": "윤정인",
+                "discount": "32400",
+                "publisher": "이담북스",
+                "pubdate": "20221115",
+                "isbn": "9791168018402",
+                "description": "지중해의 따뜻한 파랑, 햇살을 머금은 레몬향이 어우러진\n작은 천국의 땅 시칠리아에서 영화처럼 먹고, 쉬고, 걷다 \n\n여행 작가에게도 낯선 여행지, 시칠리아를 한 달 동안 여행하다.\n\n(큰글자도서) 시칠리아를 한 달 동안 여행하면서 담은 꼼꼼한 여행 정보는 물론 마치 시칠리아에서 함께 걷는 듯한 느낌이 들게 만드는 세밀한 풍경 묘사와 감성 돋는 글은 보는 내내 독자를 지중해의 푸른 섬으로 옮겨 놓는다. 여행 에세이지만 여행 정보 책으로도 손색없을 만큼 시칠리아의 작은 마을, 골목 하나 놓치지 않고 구석구석 여행한 저자의 발품 안내서가 이 섬을 찾는 여행자들에게 좋은 길잡이가 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books :한국학술정보",
+                "DDC": "",
+                "UPDATE_DATE": "20191209",
+                "EA_ADD_CODE": "13810",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "윤정인 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/11/07/9788926896808.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "321 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926896808",
+                "INPUT_DATE": "20191107",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "퐁당, 시칠리아",
+                "PUBLISH_PREDATE": "20191104",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

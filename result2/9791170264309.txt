@@ -1,0 +1,67 @@
+{
+    "otitle": "취향 살림을 ‘삶’니다",
+    "oauthor": "서인경 글,사진",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "취향 살림을 ‘삶’니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32466583758",
+                "image": "https://shopping-phinf.pstatic.net/main_3246658/32466583758.20221019134654.jpg",
+                "author": "서인경",
+                "discount": "14400",
+                "publisher": "팜파스",
+                "pubdate": "20211025",
+                "isbn": "9791170264309",
+                "description": "오늘도 차곡차곡 취향을 모아 \n꽤 괜찮은 나만의 살림을 살고 있습니다!\n\n“사는(Buy) 집이 아닌 사는(Live) 집을 위해!” \n집이라는 공간은 그곳에서 ‘삶’을 살아가는 우리에게 큰 위안을 준다. 작은 집에 맞는 작은 살림을 위해 나만의 방식으로 공간을 비웠다. 그리고 물건들에게 각자의 자리를 만들어주었다. 작은 공간에 맞게 비우고 채우며 가벼운 살림을 살기 시작했다. 가벼운 삶을 살기 위해서는 공간을 어떻게 채울 것인가가 중요하다. 이에 대한 생각은 어떻게 살 것인가로 이어지고, 나의 공간을 가치 있는 것들로 채워지기를 바라게 된다.\n김치 냉장고를 없애고 냉장고를 정리하며 더 이상 과하게 식재료를 사서 채워 넣는 일이 없다. 소분용기도 사라지자 자연스럽게 제로웨이스트에 대한 관심으로 이어졌다. \n‘살림’이란 ‘삶’을 살아가는 나의 태도를 의미한다. 내가 어떤 선택을 할 것인지에 따라 나의 삶의 모습도, 살림의 모습도 달라지게 될 것이다. 최선의 선택으로 최소한의 것으로 가장 만족스러운 삶을 위해 오늘도 ‘취향 살림’을 사는 연습을 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20211124",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "서인경 글·사진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "267 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170264309",
+                "INPUT_DATE": "20210915",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "취향 살림을 '삶'니다",
+                "PUBLISH_PREDATE": "20211025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

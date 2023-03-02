@@ -1,0 +1,67 @@
+{
+    "otitle": "탐욕의 시대",
+    "oauthor": "장 지글러 저/양영란 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "탐욕의 시대 (누가 세계를 더 가난하게 만드는가?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494112185",
+                "image": "https://shopping-phinf.pstatic.net/main_3249411/32494112185.20221019135040.jpg",
+                "author": "장 지글러",
+                "discount": "13500",
+                "publisher": "갈라파고스",
+                "pubdate": "20081215",
+                "isbn": "9788990809254",
+                "description": "풍요가 넘쳐나는 시대에 당신의 호주머니가 텅 비어가는 까닭은 무엇인가?\n\n8년간 유엔 인권위원회 식량특별조사관으로 활동한 장 지글러. 에 이은 두 번째 책으로, 21세기 민주주의 시대의 '신흥 봉건제후들'이라 불리는 거대 다국적 민간 기업을 비롯해 IMF, IBRD, WTO 등 시장원리주의와 세계화를 맹신하는 신자유주의적 국제기구들을 통렬하게 고발한다. \n\n가 아버지와 아들의 대화형식을 빌려 기아의 문제를 차근차근 설명해주는 책이라면, 는 거기서 한 걸음 더 나아가 기아라는 현상의 역사적인 배경과 저변을 속속들이 파헤치면서 문제의 근원과 해결책을 제시한다. \n\n최단시간 내 최대 이익에만 매진하는 약육강식의 논리와 승자독신의 자본주의를 언급하고, 신자유주의가 정점을 향해 치달음으로써 야기된 각종 편법, 탈법, 왜곡의 대표적인 현상인 기아와 부채의 문제를 객관적인 통계자료와 냉철하고도 논리적인 분석으로 파헤치며, 전 세계 시민들의 즉각적인 연대를 촉구하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "갈라파고스",
+                "DDC": "",
+                "UPDATE_DATE": "20161124",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "장 지글러 지음 ;양영란 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788990809254",
+                "INPUT_DATE": "20091116",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "탐욕의 시대 ",
+                "PUBLISH_PREDATE": "",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

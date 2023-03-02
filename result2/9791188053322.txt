@@ -1,0 +1,67 @@
+{
+    "otitle": "살림 뭐든지 혼자 잘함",
+    "oauthor": "[가와데쇼보신사] 편집팀 저/마이다 쇼코 감수/위정훈 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:32 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "살림 뭐든지 혼자 잘함 (자립형 인간의 1인용 살림)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466958307",
+                "image": "https://shopping-phinf.pstatic.net/main_3246695/32466958307.20230226071305.jpg",
+                "author": "가와데쇼보신사 편집팀",
+                "discount": "13770",
+                "publisher": "이덴슬리벨",
+                "pubdate": "20180914",
+                "isbn": "9791188053322",
+                "description": "행복한 독립생활을 위한 1인용 살림법을 담았다. 세탁, 요리, 정리와 청소, 재봉 등 각 분야 전문가가 기본부터 노하우까지 짚어 준다. 이제 막 1인 가구 생활자로서 첫발을 내디딘 사람에게 최적화된 내용을 실었으며, 생활용품 고르는 법부터 전문용어 설명까지 담아 폭넓은 활용이 가능하다. 또한 1인 가구 생활자의 일상을 그린 만화와 일러스트 활용으로 활용성과 재미를 더했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이덴슬리벨 :비전비엔피",
+                "DDC": "640",
+                "UPDATE_DATE": "20180912",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "가와데쇼보신사 편집팀 지음 ;위정훈 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "591",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6694507_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15300",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "CIP2018017712",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188053322",
+                "INPUT_DATE": "20180607",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "살림 뭐든지 혼자 잘함",
+                "PUBLISH_PREDATE": "20180914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

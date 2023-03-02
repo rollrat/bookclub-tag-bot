@@ -1,0 +1,78 @@
+{
+    "otitle": "고양이 상사",
+    "oauthor": "심용희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:16 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "고양이 상사 (우리집 고양이 완벽하게 모시기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483348192",
+                "image": "https://shopping-phinf.pstatic.net/main_3248334/32483348192.20221230074604.jpg",
+                "author": "심용희",
+                "discount": "13500",
+                "publisher": "이담북스",
+                "pubdate": "20200807",
+                "isbn": "9788926895917",
+                "description": "사랑을 넘어 책임을 다하기로 한 당신을 위한 고양이 안내서이다. 고양이 상사의 매력에 빠져 집사를 자처하는 당신에게 고양이와 집사 모두가 더욱 행복하게 지낼 수 있는 방법을 안내한다. 올바른 집사 윤리, 영양학 등 집사라면 알아야 할 교양은 물론 고양이의 본능을 고려한 생활환경 꾸미기와 기본 훈련까지 수의사인 저자가 집사 생활 12년 동안 얻은 고양이 생활의 정석을 담았다."
+            },
+            {
+                "title": "고양이 상사(큰글자도서) (우리집 고양이 완벽하게 모시기)",
+                "link": "https://search.shopping.naver.com/book/catalog/37794923618",
+                "image": "https://shopping-phinf.pstatic.net/main_3779492/37794923618.20230214162227.jpg",
+                "author": "심용희",
+                "discount": "31500",
+                "publisher": "이담북스",
+                "pubdate": "20230131",
+                "isbn": "9791169830485",
+                "description": "사랑을 넘어 책임을 다하기로 한 당신을 위한 고양이 안내서이다. 고양이 상사의 매력에 빠져 집사를 자처하는 당신에게 고양이와 집사 모두가 더욱 행복하게 지낼 수 있는 방법을 안내한다. 올바른 집사 윤리, 영양학 등 집사라면 알아야 할 교양은 물론 고양이의 본능을 고려한 생활환경 꾸미기와 기본 훈련까지 수의사인 저자가 집사 생활 12년 동안 얻은 고양이 생활의 정석을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "이담 Books(한국학술정보)",
+                "DDC": "",
+                "UPDATE_DATE": "20200806",
+                "EA_ADD_CODE": "13490",
+                "PUBLISHER_URL": "http://ebook.kstudy.com",
+                "AUTHOR": "심용희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "224 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788926895917",
+                "INPUT_DATE": "20200702",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "고양이 상사",
+                "PUBLISH_PREDATE": "20200807",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

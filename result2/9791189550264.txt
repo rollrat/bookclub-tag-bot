@@ -1,0 +1,67 @@
+{
+    "otitle": "이제 은퇴해도 될까요?",
+    "oauthor": "데이브 휴즈 저/이길태 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이제 은퇴해도 될까요? (순조로운 은퇴 생활을 위한 지침)",
+                "link": "https://search.shopping.naver.com/book/catalog/32483221624",
+                "image": "https://shopping-phinf.pstatic.net/main_3248322/32483221624.20220527022722.jpg",
+                "author": "데이브 휴즈",
+                "discount": "12600",
+                "publisher": "탐나는책",
+                "pubdate": "20201130",
+                "isbn": "9791189550264",
+                "description": "언제 다가올지 모르는 은퇴,\n변화에 휩쓸릴 것인가 변화를 주도할 것인가\n\n은퇴를 ‘휴식’으로 여기는 사람들도 있을 것이다. 하지만 갈수록 정년이 짧아지고 있고, 정년 전에 퇴직하는 이들도 많아지고 있으며, 평균 수명은 상대적으로 길어지고 있다. 은퇴 후에도 생계를 걱정하며 새로운 일을 찾아야 하는 상황이 충분히 벌어질 수 있다는 것이다. \n\n직장 생활을 하며 하루하루를 정신없이 보내면서 은퇴 후의 삶까지 생각하기가 쉽지는 않을 것이다. 하지만 미리 준비해두지 않은 채 갑작스럽게 은퇴를 맞이하게 된다면, 삶의 급작스러운 변화에 대처하지 못해 노년을 상실감과 우울함에 빠져 보내게 될지도 모른다. 그저 매일 주어진 일만 열심히 하는 사람과 은퇴 후의 삶을 미리 설계해놓는 사람의 미래는 다를 수밖에 없다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "탐나는책",
+                "DDC": "",
+                "UPDATE_DATE": "20210222",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "데이브 휴즈 지음 ;이길태 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "591.9",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/11/10/9791189550264.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "CIP2020047840",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189550264",
+                "INPUT_DATE": "20201110",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "이제 은퇴해도 될까요?",
+                "PUBLISH_PREDATE": "20201130",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

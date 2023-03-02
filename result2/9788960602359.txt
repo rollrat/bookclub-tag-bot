@@ -1,0 +1,67 @@
+{
+    "otitle": "ETF 초보투자자가 꼭 알아야 할 75가지",
+    "oauthor": "최영선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "ETF 초보투자자가 꼭 알아야 할 75가지",
+                "link": "https://search.shopping.naver.com/book/catalog/32496920927",
+                "image": "https://shopping-phinf.pstatic.net/main_3249692/32496920927.20220527054432.jpg",
+                "author": "최영선",
+                "discount": "0",
+                "publisher": "원앤원북스",
+                "pubdate": "20120410",
+                "isbn": "9788960602359",
+                "description": "ETF투자 고수가 공개하는 성공투자 실전 노하우!\n\n『ETF 초보투자자가 꼭 알아야 할 75가지』는 새로운 투자대안으로 각광 받는 ETF의 기본 원리와 투자 노하우를 낱낱이 파헤친 책이다. 우선 ETF가 무엇인지, 주식과 펀드와는 어떻게 다르고 어떤 장점이 있는지, 그리고 ETF상품의 현황과 전망에 대해 살펴본다. 이어 ETF시장구조와 가격구조, ETF와 관련된 용어, 실제로 투자할 때 필요한 정보와 종류, 다양한 투자 방법의 길을 제시한다. 끝으로 현재 상장된 ETF상품 중 베스트 ETF 10을 소개하여 실전 투자에 활용하면 좋을 내용들을 다루었다. 이 책을 통해 주식의 비중을 줄이고 ETF상품의 투자 비중을 높여 자연스럽게 안정적인 투자방법을 배워나갈 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "332.6327",
+                "UPDATE_DATE": "20120417",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "최영선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.83",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2544718_6_1.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2544718_3_1.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2012001262",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960602359",
+                "INPUT_DATE": "20120316",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "ETF 초보투자자가 꼭 알아야 할 75가지 ",
+                "PUBLISH_PREDATE": "20120410",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

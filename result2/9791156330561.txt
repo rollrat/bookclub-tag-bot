@@ -1,0 +1,67 @@
+{
+    "otitle": "10대를 위한 깜찍한 민법",
+    "oauthor": "서윤호,오혜진,최정호 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:01:37 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "10대를 위한 깜찍한 민법",
+                "link": "https://search.shopping.naver.com/book/catalog/32456296034",
+                "image": "https://shopping-phinf.pstatic.net/main_3245629/32456296034.20221230072835.jpg",
+                "author": "서윤호^오혜진^최정호",
+                "discount": "10800",
+                "publisher": "다른",
+                "pubdate": "20151023",
+                "isbn": "9791156330561",
+                "description": "&lt;10대를 위한 깜찍한 민법&gt;은 재산 관계, 가족 관계를 맺고 살아가는 사람이라면 누구나 알아야 할 민법을 쉽고 재미있게 풀어 쓴 청소년 교양서이다. 고등학생인 민호와 다솜이가 우연히 만나 사랑에 빠지고, 연애하고, 결혼하고, 이혼하는 과정을 통해 민법을 이야기한다. 고등학생인 주인공의 일상을 소재로 하기에 민법을 처음 접하는 청소년 독자들도 부담 없이 쉽고 재미있게 볼 수 있다. \n\n\n\n고등학생도 결혼을 할 수 있는지, 미성년자는 부모의 허락 없이 계약을 할 수 없는지, 친구에게 돈을 빌린 뒤 갚지 않으면 어떻게 되는지 등 흥미진진한 이야기들이 재미있는 일러스트와 함께 펼쳐지며, 이를 통해 민법에 관한 기본 지식을 얻을 수 있을 뿐만 아니라 민법이 사회와 어떤 영향을 주고받으며 발전해 왔는지 배울 수 있다. 나아가 더 나은 세상은 무엇인지, 더 나은 세상을 만들기 위해서 앞으로 어떤 문제점을 해결해 나가야 하는지 생각할 기회도 제공한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판)다른",
+                "DDC": "",
+                "UPDATE_DATE": "20160108",
+                "EA_ADD_CODE": "44360",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "서윤호, 오혜진, 최정호",
+                "SERIES_TITLE": "다른 청소년 교양",
+                "KDC": "365",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788992711876",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4933266_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4933266_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "184쪽",
+                "CONTROL_NO": "CIP2015027259",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156330561",
+                "INPUT_DATE": "20151006",
+                "SET_EXPRESSION": "",
+                "VOL": "6",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "10대를 위한 깜찍한 민법",
+                "PUBLISH_PREDATE": "20151023",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "44080 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "정정당당! 우리 반 선거 대장 나민주가 간다!",
+    "oauthor": "안선모 글/송효정 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "정정당당! 우리반 선거 대장 나민주가 간다! (선거와 민주주의)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480522557",
+                "image": "https://shopping-phinf.pstatic.net/main_3248052/32480522557.20230207163909.jpg",
+                "author": "안선모",
+                "discount": "8820",
+                "publisher": "가나출판사",
+                "pubdate": "20151120",
+                "isbn": "9788957367551",
+                "description": "학교에도 마을에도 꼭 필요한 '민주주의'\n\n『정정당당! 우리반 선거 대장 나민주가 간다!』는 선거와 민주주의를 초등학생 나민주의 이야기로 풀어냈습니다. 반에서 가장 평범한 친구 민주는 멋진 공약 덕분에 학급 회장으로 뽑혔습니다. 하지만 그 공약 때문에 교실에서는 매일같이 싸움이 일어납니다. 한편 민주네 마을에서는 마을 공터 문제로 사람들이 아웅다웅 다툽니다. 학급과 마을의 선거를 치르며 왜 선거를 하는지, 민주주의가 무엇인지 자연스럽게 깨닫게 됩니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)가나문화콘텐츠",
+                "DDC": "",
+                "UPDATE_DATE": "20160122",
+                "EA_ADD_CODE": "74300",
+                "PUBLISHER_URL": "http://www.anigana.co.kr",
+                "AUTHOR": "글 안선모; 그림 송효정",
+                "SERIES_TITLE": "",
+                "KDC": "344",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4994935_6.jpg",
+                "SET_ISBN": "9788957367445",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4994935_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "64페이지",
+                "CONTROL_NO": "CIP2015030043",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957367551",
+                "INPUT_DATE": "20151103",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "정정당당! 우리 반 선거 대장 나민주가 간다!",
+                "PUBLISH_PREDATE": "20151120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74300 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

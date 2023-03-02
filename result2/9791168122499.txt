@@ -1,0 +1,67 @@
+{
+    "otitle": "내일은 조금 달라지겠습니다",
+    "oauthor": "한민용 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내일은 조금 달라지겠습니다 (한민용이 전하는 희망의 기록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476649761",
+                "image": "https://shopping-phinf.pstatic.net/main_3247664/32476649761.20230218110826.jpg",
+                "author": "한민용",
+                "discount": "13320",
+                "publisher": "위즈덤하우스",
+                "pubdate": "20220318",
+                "isbn": "9791168122499",
+                "description": "“이 책이 세상을 바꾸는 일에 일조하고 있다고 믿는다.” - 손석희\nJTBC 〈뉴스룸〉 첫 단독 여성 앵커 한민용이 만난 이웃들\n\n한민용 앵커가 직접 취재하고 보도한 〈한민용의 오픈마이크〉의 취재 일기를 담은 《내일은 조금 달라지겠습니다》가 출간되었다. 우리 곁에 있지만 우리가 몰랐던 이웃의 아픔, 그리고 조용히 그들을 돕고 있던 또 다른 이웃에 관한 이야기다. 하루에 7번 식당 출입을 거절당한 시각장애인과 안내견, 급식카드를 사용할 식당이 없어 편의점에서 끼니를 때우는 아이들….. 한민용 앵커는 이들에게 망설임 없이 손 내민 이웃들을 조명하는 한편, 타인의 선의에만 기대지 않을 수 있도록 정책적인 대안까지 제시하며 작지만 분명한 변화를 이끌어낸다. 내일은 조금 더 달라지리라는 믿음으로, 희망의 기록은 계속된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "위즈덤하우스",
+                "DDC": "",
+                "UPDATE_DATE": "20220422",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.wisdomhouse.co.kr",
+                "AUTHOR": "지은이: 한민용",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791168122499",
+                "INPUT_DATE": "20220422",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "",
+                "BIB_YN": "Y",
+                "TITLE": "내일은 조금 달라지겠습니다",
+                "PUBLISH_PREDATE": "20220318",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

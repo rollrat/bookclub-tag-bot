@@ -1,0 +1,67 @@
+{
+    "otitle": "아주, 조금 울었다",
+    "oauthor": "권미선 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:49 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아주, 조금 울었다(미드나잇 에디션) (비로소 혼자가 된 시간)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476096888",
+                "image": "https://shopping-phinf.pstatic.net/main_3247609/32476096888.20220527074400.jpg",
+                "author": "권미선",
+                "discount": "11700",
+                "publisher": "허밍버드",
+                "pubdate": "20170715",
+                "isbn": "9788968331428",
+                "description": "짙은 감수성의 문장들로 풀어낸 진심들!\n\n꼬박 15년, 매일 글을 써온 라디오 작가 권미선의 첫 번째 감성 에세이 『아주, 조금 울었다』. 《푸른 밤 정엽입니다》, 《오후의 발견 스윗소로우입니다》 등을 통해 수많은 청취자의 마음을 위로해 온 저자가 지난 15년 동안 써온 수많은 오프닝과 클로징 중 가장 사랑 받았던 73편을 모아 엮었다. 한 편의 시처럼 호흡은 짧지만 여운은 길고, 읽기는 쉽지만 자꾸 곱씹어 보게 되는 글들, 혼자인 시간에야 비로소 꺼낼 수 있는 진심어린 이야기들을 만나볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "허밍버드 :백도씨",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20170725",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "https://blog.naver.com/100doci",
+                "AUTHOR": "권미선 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6264201_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6264201_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "CIP2017015638",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788968331428",
+                "INPUT_DATE": "20170630",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아주, 조금 울었다",
+                "PUBLISH_PREDATE": "20170715",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "미스터리 -웹소설 작가를 위한 장르 가이드3",
+    "oauthor": "김봉석,이상민 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "웹소설 작가를 위한 장르 가이드 3 : 미스터리",
+                "link": "https://search.shopping.naver.com/book/catalog/32436388629",
+                "image": "https://shopping-phinf.pstatic.net/main_3243638/32436388629.20221229074109.jpg",
+                "author": "김봉석",
+                "discount": "8820",
+                "publisher": "북바이북",
+                "pubdate": "20151220",
+                "isbn": "9791185400228",
+                "description": "창작자를 위한 장르 개론서 ‘웹소설 작가를 위한 장르 가이드’ 시리즈 3권. 미스터리 장르는 알쏭달쏭한 사건을 던져 독자들을 이야기에 끌어들이고, 지속적으로 궁금증을 유발하면서 이야기를 끝까지 보게 하는 힘이 있다. 그래서 최근 들어 드라마나 영화를 통해 더욱 인기가 높아지고 있으며, 다른 장르에서도 미스터리적 요소를 차용하는 경우가 많다.\n\n\n\n이 책에서는 미스터리 장르의 공식과 하위 장르의 특징, 본격 추리부터 사회파 추리까지 미스터리 장르의 고전으로 꼽히는 작품들을 다룬다. 또 현역 작가들이 들려주는 작법 노하우와 부록으로 추천도서를 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북바이북",
+                "DDC": "808.3",
+                "UPDATE_DATE": "20160122",
+                "EA_ADD_CODE": "04800",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김봉석, 이상민",
+                "SERIES_TITLE": "",
+                "KDC": "802.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791185400198",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5076806_3.jpg",
+                "PRE_PRICE": "9800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5076806_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 120페이지 내외",
+                "CONTROL_NO": "CIP2015033531",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185400228",
+                "INPUT_DATE": "20151204",
+                "SET_EXPRESSION": "",
+                "VOL": "3",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "웹소설 작가를 위한 장르 가이드 - 미스터리",
+                "PUBLISH_PREDATE": "20151220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

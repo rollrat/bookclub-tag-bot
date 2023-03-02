@@ -1,0 +1,78 @@
+{
+    "otitle": "흥하는 말씨 망하는 말투 1",
+    "oauthor": "이상헌 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:28 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "흥하는 말씨 망하는 말투 1 (성공하는 사람들의 언어습관 따라하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481513254",
+                "image": "https://shopping-phinf.pstatic.net/main_3248151/32481513254.20221019124838.jpg",
+                "author": "이상헌",
+                "discount": "13320",
+                "publisher": "나무옆의자",
+                "pubdate": "20190607",
+                "isbn": "9791161570563",
+                "description": "명품언어 멘토 이상헌의 베스트셀러 개정증보판!\n\n‘말씨’와 ‘말투’, 그것이 문제다! \n세상만사 말대로 이뤄지고 말만 바꾸면 인생이 변한다!!!"
+            },
+            {
+                "title": "흥하는 말씨 망하는 말투 1~2권 세트 (전2권) (성공하는 사람들의 언어습관 따라하기 , 성공하는 사람들의 긍정언어 실천하기)",
+                "link": "https://search.shopping.naver.com/book/catalog/36520744618",
+                "image": "https://shopping-phinf.pstatic.net/main_3652074/36520744618.20221214164529.jpg",
+                "author": "이상헌",
+                "discount": "26640",
+                "publisher": "나무옆의자",
+                "pubdate": "20190710",
+                "isbn": "",
+                "description": "&lt;나무옆의자 흥하는 말씨 망하는 말투 1&gt;\n명품언어 멘토 이상헌의 베스트셀러 개정증보판!\n\n‘말씨’와 ‘말투’, 그것이 문제다!\n세상만사 말대로 이뤄지고 말만 바꾸면 인생이 변한다!!!\n\n&lt;나무옆의자 흥하는 말씨 망하는 말투 2&gt;\n긍정언어의 마술사 이상헌의 베스트셀러 개정증보판!\n\n‘말씨’와 ‘말투’, 실천이 답이다!\n자신의 변화는 한마디 말로도 충분하다!!!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무옆의자",
+                "DDC": "",
+                "UPDATE_DATE": "20190731",
+                "EA_ADD_CODE": "04320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이상헌 지음",
+                "SERIES_TITLE": "흥하는 말씨 망하는 말투",
+                "KDC": "802.5",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791161570556",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "333 p.",
+                "CONTROL_NO": "CIP2019019393",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791161570563",
+                "INPUT_DATE": "20190516",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "흥하는 말씨 망하는 말투",
+                "PUBLISH_PREDATE": "20190607",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04320 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

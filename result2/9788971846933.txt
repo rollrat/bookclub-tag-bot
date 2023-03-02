@@ -1,0 +1,78 @@
+{
+    "otitle": "다크 플레이스",
+    "oauthor": "길리언 플린 저/유수아 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:24 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "다크 플레이스 (길리언 플린 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490274624",
+                "image": "https://shopping-phinf.pstatic.net/main_3249027/32490274624.20221019133022.jpg",
+                "author": "길리언 플린",
+                "discount": "13320",
+                "publisher": "푸른숲",
+                "pubdate": "20130701",
+                "isbn": "9788971846933",
+                "description": "25년 전 끔찍한 살인 사건의 기억을 떠올린다.\n\n《나를 찾아줘》의 베스트셀러 작가 길리언 플린의 두번째 소설 『다크 플레이스』. 발표 한 작품이 모두 영화화 된 할리우드 영향력 있는 작가 중 한 명이 된 길리언 플린의 작품이다. 이번 작품도 샤를리즈 테론, 니콜라스 홀트, 클로이 모레츠가 영화 캐스팅 되며 기대를 모으고 있다. 가족이 살해당하고 간신히 살아남은 리비는 25년이 흐른 뒤 생계가 막막해진 자신에게 ‘킬 클럽’이 제안을 받아들여 돈을 벌고자 그 때의 사건을 떠올린다.\n\n1월의 눈 덮인 어느 한적한 캔자스 농장의 새벽, 살인 사건이 발생한다. 시신은 피투성이가 된 채 발견된 젊은 30대 엄마와 두 딸, 간신힌 살아남은 어린 막내 리비는 친오빠 벤을 살인범으로 지목하게 되고 그 후로 25년이 지난 어느 날 아마추어 탐정 모임 ‘킬 클럽’이 리비에게 제한을 한다. 그 때 그 사건의 증거들을 제공하면 리비에게 돈을 준다는데 마침 생계가 막막했던 리비는 이 제한을 받아들이고 25년 전 끔찍한 살인 사건의 기억을 더듬는다."
+            },
+            {
+                "title": "다크 플레이스의 비밀 (그녀가 사라진 밤)",
+                "link": "https://search.shopping.naver.com/book/catalog/33114868620",
+                "image": "https://shopping-phinf.pstatic.net/main_3311486/33114868620.20221019134743.jpg",
+                "author": "리사 주얼",
+                "discount": "15030",
+                "publisher": "한스미디어",
+                "pubdate": "20220708",
+                "isbn": "9791160078107",
+                "description": "“여기를 파보세요\"\n어두운 비밀을 가진 고택, 비밀의 동굴\n울타리에 표지판을 남긴 사람은 누구인가?\n\n사귄 지 반년밖에 안 된 연인을 따라 시골 생활에 도전하게 된 미스터리 작가 소피. 그런데 이사 온 주택 뒷마당 나무 울타리에서 ‘이곳을 파보시오’라는 말과 화살표가 그려진 표지판이 발견된다. 장난으로 여겼지만, 근처의 버려진 으스스한 고택 ‘다크 플레이스’ 주변에서 일 년 전 어린 미혼모 탈룰라가 실종되었다는데……. 소피는 설마 하고 표시된 위치를 팠다가 실종자의 물건을 발견한다. 그리고 탈룰라의 사건에 대해 파헤치다 그 전에도 실종된 사람이 있다는 것을 깨닫는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주 도서출판)푸른숲",
+                "DDC": "813.6",
+                "UPDATE_DATE": "20130708",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "http://www.prunsoop.co.kr",
+                "AUTHOR": "길리언 플린",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2772408_3.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2772408_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013009274",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788971846933",
+                "INPUT_DATE": "20130617",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "다크 플레이스 ",
+                "PUBLISH_PREDATE": "20130701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

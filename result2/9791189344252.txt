@@ -1,0 +1,67 @@
+{
+    "otitle": "밑바닥부터 시작하는 부동산 경매",
+    "oauthor": "전용은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "밑바닥부터 시작하는 부동산 경매 (항상 마음만 먹고 시작도 안 하는 초짜들을 위한 경매책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32467067959",
+                "image": "https://shopping-phinf.pstatic.net/main_3246706/32467067959.20221227210033.jpg",
+                "author": "전용은",
+                "discount": "13500",
+                "publisher": "원앤원북스",
+                "pubdate": "20181127",
+                "isbn": "9791189344252",
+                "description": "개념부터 용어까지 어려운 것투성이인 경매,\n초보자도 경매 투자에 성공할 수 있을까?\n\n부동산 경매를 해서 돈 번 사람이 많다는데, 어떻게 하면 경매 투자로 성공할 수 있을까? 부동산 투자자로서, 그리고 교육현장에서 경매 전문가로 활약 중인 저자는 누구나 조금만 노력하면 입찰해볼 만한 실력을 키울 수 있다고 말한다. 경매 지식이 생소하기는 하지만 낯설기에 어려운 것이지 내용 자체가 어렵지는 않기 때문이다.\n\n투자자에게 부동산 경매는 돈을 벌기 위한 도구일 뿐이지 학문이나 지식이 아니다. 투자자 입장에서 꼭 알아야 할 규칙만 알면 된다. 굳이 다른 내용까지 익히느라 골치 썩일 이유가 없다. 전체 민사집행법 중에 투자자가 알아야 할 부분은 대략 10% 정도밖에 안 된다. 심지어 그 10%도 완벽하게 알고 시작하지 않아도 된다. 기본적인 규칙만 알면 큰 문제없이 부동산 경매를 할 수 있고 돈 벌 기회도 가질 수 있다. 이 책이 경매 초보자를 위한 최고의 길잡이가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "원앤원북스",
+                "DDC": "332.6324",
+                "UPDATE_DATE": "20181206",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "전용은 지음",
+                "SERIES_TITLE": "",
+                "KDC": "327.87",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6973053_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6973053_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2018034665",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189344252",
+                "INPUT_DATE": "20181026",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(밑바닥부터 시작하는) 부동산 경매",
+                "PUBLISH_PREDATE": "20181127",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

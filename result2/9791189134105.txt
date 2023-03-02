@@ -1,0 +1,78 @@
+{
+    "otitle": "나이 들어도 내겐 영원히 강아지",
+    "oauthor": "우스키 아라타 저,박제이 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:41 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "나이 들어도 내겐 영원히 강아지 (개 노화 대비법: 강아지가 7세가 되면 생각해두어야 할 것)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436063629",
+                "image": "https://shopping-phinf.pstatic.net/main_3243606/32436063629.20221019141903.jpg",
+                "author": "우스키 아라타",
+                "discount": "12600",
+                "publisher": "청미",
+                "pubdate": "20190819",
+                "isbn": "9791189134105",
+                "description": "반려인은 100세 시대, 반려견은 20세 시대!\n\n반려동물의 평균수명 16세, 고령화는 사람의 일만이 아니다. 강아지가 7세가 되면 생각해두어야 할 것! 개 노화 대비를 위한 강아지를 위한 집사의 필독서 [나이 들어도 내겐 영원히 강아지]. 책의 전반부는 개의 노화에 관한 사고방식과 앞으로 만나게 될 가능성이 큰 노화 현상과 병에 관하여 알기 쉽도록 정리했다. 책의 후반에는 중년과 노년부터 병수발을 해야 하는 시기까지, 미리 알아두어야 할 포석, 겪어본  집사님들의 여러 가지 의문, 그리고 그에 대한 대처법을 소개했다."
+            },
+            {
+                "title": "나이 들어도 내겐 영원히 아깽이 (고양이 노화 대비법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436133704",
+                "image": "https://shopping-phinf.pstatic.net/main_3243613/32436133704.20221228072644.jpg",
+                "author": "이키 다즈코",
+                "discount": "12600",
+                "publisher": "청미",
+                "pubdate": "20190610",
+                "isbn": "9791189134075",
+                "description": "우리 사랑스러운 고양이가\n건강하게 오래 살아주길 바란다면 알아두어야 할\n고양이 노화 대비법\n\n고양이는 몸이 안 좋아도 꾸욱 참는 동물이다. 그런 고양이의 미묘한 변화를 알아차리는 사람은 평소 고양이와 소통하는 반려인뿐이다. 고양이가 많이 걸리는 병에 관해 정확한 지식을 익히고, 적극적으로 건강 상태를 체크하는 것이 질병 예방과 조기 발견에 큰 도움이 된다.\n\n이 책은 “구체적으로 어떻게 하면 좋을지 모르겠다.”, “나이 먹은 고양이가 병에 걸리는 것이 불안하다.”, “정보가 너무 많으니 뭐가 맞는지 모르겠다.” 라는 반려인의 속을 시원하게\n해준다.\n\n7세 이상의 고양이에 맞추어 기본 정보, 노화에 의한 변화, 손 쉬운 건강 체크, 동물병원과 교류하는 법, 시니어 고양이가 걸리기 쉬운 병, 그 증상, 진단, 치료법에 관해 구체적으로 설명한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청미",
+                "DDC": "",
+                "UPDATE_DATE": "20190909",
+                "EA_ADD_CODE": "03490",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "우스키 아라타 지음 ;박제이 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "527.4186",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/08/06/9791189134105.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "CIP2019030774",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189134105",
+                "INPUT_DATE": "20190806",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "나이 들어도 내겐 영원히 강아지",
+                "PUBLISH_PREDATE": "20190819",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

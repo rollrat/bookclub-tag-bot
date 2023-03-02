@@ -1,0 +1,67 @@
+{
+    "otitle": "발칙한 수학책",
+    "oauthor": "최정담(디멘) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "발칙한 수학책 (복잡한 계산 없이 그림과 이야기로 수학머리 만드는 법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444283667",
+                "image": "https://shopping-phinf.pstatic.net/main_3244428/32444283667.20221227210308.jpg",
+                "author": "최정담(디멘)",
+                "discount": "17110",
+                "publisher": "웨일북",
+                "pubdate": "20210630",
+                "isbn": "9791190313919",
+                "description": "이토록 재미있는 수학책은 없었다\n가장 간단한 수학의 문법으로 시작해\n공리계와 확률, 고차원으로 뛰어넘는 발칙한 스토리\n\n복잡한 숫자와 계산, 기호로 얽힌 수식을 한눈에 읽어내는 것은 더 이상 수학이 아니다! 《발칙한 수학책》의 젊은 수학 스토리텔러는 어렵고 따분하게만 느껴지는 수학을 세상에서 가장 유쾌한 이야기로 엮었다. \n비둘기집의 원리로 확률을 살피고 머그잔 안의 가루로 고정점을 이해하는 것, 빨대의 구멍이 1개인지 2개인지 어쩌면 0개일지도 모른다는 궁금증과 0.9999...와 1은 같은 수라는 사실도 ‘디멘’의 이야기로 접근하면 아주 흥미로운 주제가 된다. 지금껏 본 적 없는 이야기로 당신의 뇌를 자극하며 숨어 있던 수학머리를 깨닫게 해주는 것이다.\n이 책은 ‘볼록과 오목의 차이’, ‘고차원을 이해하기 어려운 이유’, ‘미적분이 필요한 때’와 같은 문제를 명쾌한 해설로, 한눈에 확인할 수 있는 그림으로 설명한다. 최소한의 정리와 엄밀한 기준이라는 수학의 문을 열고 당신이 알고 있던 수학이라는 재미없는 세계를 완전히 바꿔놓을 것이다.\n\n이 책은 발칙하다. 수학을 다루는 저자의 솜씨와 생각은 시중에 나와 있는 다른 수학 교양서적에서는 결코 찾아볼 수 없다. (…) 매우 창의적이며 융합적이라는 데 의심의 여지가 없다.\n- 이광연 《수학, 인문으로 수를 읽다》저자, 「감수의 글」에서"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "웨일북",
+                "DDC": "",
+                "UPDATE_DATE": "20210805",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "저자: 최정담",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "160*235",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "403 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190313919",
+                "INPUT_DATE": "20210610",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "발칙한 수학책",
+                "PUBLISH_PREDATE": "20210630",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

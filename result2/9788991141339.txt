@@ -1,0 +1,78 @@
+{
+    "otitle": "타샤의 식탁",
+    "oauthor": "타샤 튜더 저/공경희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:11 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "타샤의 식탁",
+                "link": "https://search.shopping.naver.com/book/catalog/32441640389",
+                "image": "https://shopping-phinf.pstatic.net/main_3244164/32441640389.20221019124158.jpg",
+                "author": "타샤 튜더",
+                "discount": "14220",
+                "publisher": "윌북",
+                "pubdate": "20180720",
+                "isbn": "9788991141339",
+                "description": "시간을 담은 따뜻한 요리 ‘타샤의 식탁’ 리커버판이다. 동화작가이자 자급자족하는 시골생활로 유명한 타샤 튜더의 요리책으로, 코기와 염소와 닭과 오리가 노니는 마당에서 얻은 신선한 음식 재료를 이용해 만들어내는 타샤만의 레시피가 수록되어 있다. 일찍이 요리예술에도 눈을 뜬 타샤는 자신이 추구하는 행복의 원천인 ‘제대로 된 음식 만들기’에 대한 생각을 사근사근 들려준다. \n\n은 타샤가 집안 대대로 내려온 조리법들을 재해석하여 오랜 시간 백지 노트에 틈틈이 메모해둔 것이 모여서 탄생한 작품이다. 전통은 물론이고 자연의 맛과 영양이 조화를 이루고 있는 이 요리책에는 레시피뿐 아니라 요리와 관련된 아름다운 추억들이 가득하다. 밀가루 반죽 위에서 잠을 자던 고양이, 와플 먹기를 좋아하던 젖소, 딸의 생일에 직접 만든 케이크에 초를 꽂아 시냇물에 띄워 보냈던 일 등등. 여기에 타샤가 직접 그린 아기자기한 일러스트와 간간이 등장하는 타샤의 자녀들이 개발한 레시피가 더해져 세상에 둘도 없는 요리책이 탄생했다.\n\n바쁜 일상에 지쳤을 때, 을 펼치고 타샤가 차려내는 여유로운 식탁에 앉아보자. 시간은 느리게 흐르고 마음이 배불러온다. 타샤 튜더에게 여러분은 언제나 귀한 손님이다."
+            },
+            {
+                "title": "타샤의 식탁",
+                "link": "https://search.shopping.naver.com/book/catalog/32466694653",
+                "image": "https://shopping-phinf.pstatic.net/main_3246669/32466694653.20220527060639.jpg",
+                "author": "타샤 튜더",
+                "discount": "0",
+                "publisher": "윌북",
+                "pubdate": "20140425",
+                "isbn": "9791155810187",
+                "description": "『타샤의 식탁』은 집안 대대로 내려오는 조리법들을 기반으로 타샤가 재해석하여 오랜 시간 동안 틈틈이 백지 노트에 손으로 꼼꼼하게 메모해둔 것이 한데 모여 탄생한 작품으로, 전통과 자연의 맛이 조화를 이룬 최상의 레시피 모음집이다. 타샤의 요리에는 그녀의 인생철학이 담겨 있다. 인생은 짧으니 맘껏 즐기고 노동의 가치를 소중히 여기며 자연을 존중해야 한다고 믿는 타샤는 ’먹는 즐거움‘보다 ’하는 즐거움‘에 대해 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "윌북",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "타샤 튜더 글 그림 ;공경희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20071010",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "15800",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788991141339",
+                "INPUT_DATE": "20070829",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "타샤의 식탁 ",
+                "PUBLISH_PREDATE": "20080201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

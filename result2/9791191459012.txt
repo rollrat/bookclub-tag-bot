@@ -1,0 +1,67 @@
+{
+    "otitle": "고잉홈",
+    "oauthor": "김정금 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고잉홈(Going Home) (김정금 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504428085",
+                "image": "https://shopping-phinf.pstatic.net/main_3250442/32504428085.20221019135836.jpg",
+                "author": "김정금",
+                "discount": "12600",
+                "publisher": "델피노",
+                "pubdate": "20210301",
+                "isbn": "9791191459012",
+                "description": "과거를 통해 현재를 보는 역사 판타지 『고잉홈』\n“만약 과거로 간다면, 당신은 독립운동을 하시겠습니까?”\n\n석 달 치 월급으로 고급시계를 사고 분기별로 여행을 다니며 사는 남자. 자신보다 아픈 사람을 돕기 위해 간호사가 된 여자. 그 둘은 어느 날 잠에서 깨어보니 1931년에 와 있다. 과거에서 만난 이들은 두 사람에게 말한다. “이곳에선 아무도 믿으면 안 됩니다.”, “독립운동을 하시겠습니까?” 두 남녀는 집으로 돌아갈 방법을 찾아 나서는데…. 과연 두 남녀는 집으로 돌아갈 수 있을까? \n과거 없는 현재 없고, 현재 없는 미래 없으며, 역사는 끊임없이 돌고 돈다. ≪고잉홈≫은 과거를 통해 현재를 보는 역사 판타지 소설이다. 독립운동가 이봉창 의사를 모티브로 1931년의 한국 역사가 재구성되어 흥미롭게 펼쳐진다. 타임슬립 판타지에 두 남녀의 로맨스가 가미된 에피소드들이 이 책의 재미를 더한다. 긴장감 넘치는 전개와 흡입력으로 마지막 책장을 덮을 때까지 읽는 속도를 멈출 수 없을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "델피노",
+                "DDC": "",
+                "UPDATE_DATE": "20210310",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.delpinobooks.com",
+                "AUTHOR": "김정금 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/16/9791191459012.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "345 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191459012",
+                "INPUT_DATE": "20210216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "고잉홈",
+                "PUBLISH_PREDATE": "20210301",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

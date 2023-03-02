@@ -1,0 +1,67 @@
+{
+    "otitle": "답 없이 살아가기 답 없이 사랑하기",
+    "oauthor": "김형익 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:34 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "답 없이 살아가기, 답 없이 사랑하기 (막막한 오늘을 살아가는 하나님의 지혜)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464091443",
+                "image": "https://shopping-phinf.pstatic.net/main_3246409/32464091443.20230214162332.jpg",
+                "author": "김형익",
+                "discount": "7780",
+                "publisher": "생명의말씀사",
+                "pubdate": "20210222",
+                "isbn": "9788904167456",
+                "description": "성경적이고 목회적인 통찰로 바른 진리를 선포하는 김형익 목사는 본서를 통해 막막한 오늘을 살아가는 우리 모두를 권면한다. 그리스도인으로서 답 없이 살아가는 법을 배우며 하나님께서 부어주시는 은혜를 경험하라고 말이다. \n저자가 말하는 ‘답 없는’ 삶은 고민이나 계획 없이 아무렇게나 사는 삶이 아니다. 억지로 답을 찾으며 스스로를 괴롭히는 어리석음과 이 땅에서 잘 먹고 잘 살기 위해 조금도 손해 보지 말라고 부추기는 세상의 답을 버리는 삶, 더 가지고 누리기 위해 발버둥치는 대신 섬김과 희생의 좁은 길을 선택하는 삶, 형통할 때나 고난당할 때나 우리를 가장 좋은 길로 인도하실 하나님을 신뢰하며 묵묵히 걸어가는 삶이다. 저자는 특히 룻기와 출애굽기를 중심으로 보잘것없는 현재와 불안한 미래를 온전히 하나님께 맡긴 채 그와 같은 믿음의 길을 걸었던 성경인물들과 그들의 삶에 주목한다. 그리고 막막한 현실 속에서도 적극적으로 사랑을 선택했던 그들처럼, 우리 모두가 ‘답 없이’ 사랑하며 하나님의 특별한 은혜 안에 거하는 참된 그리스도인이 되자고 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20210326",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 김형익",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/05/9788904167456.jpg",
+                "PRE_PRICE": "9000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*183",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "175 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904167456",
+                "INPUT_DATE": "20210205",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "답 없이 살아가기 답 없이 사랑하기",
+                "PUBLISH_PREDATE": "20210222",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

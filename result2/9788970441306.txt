@@ -1,0 +1,67 @@
+{
+    "otitle": "만화 수학소사전",
+    "oauthor": "오카베 쓰네하루 저/한명수 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:11 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "만화 수학소사전 (기본을 잡는다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32505384895",
+                "image": "https://shopping-phinf.pstatic.net/main_3250538/32505384895.20220524183357.jpg",
+                "author": "한명수 옮김, 오야마다 쇼코 그림, 오카베 쓰네하루 글",
+                "discount": "7200",
+                "publisher": "전파과학사",
+                "pubdate": "19930701",
+                "isbn": "9788970441306",
+                "description": "Blue Backs 블루백스 시리즈 130권. 이 책의 제목이 '사전'이라고 되어 있지만 찾아보기 위한 것이 아니고 홀가분하게 읽고, 보고, 수학에 흥미를 갖게 하기 위함이다. 수학의 재미를 맛보게 하기 위해 만화를 택하였으며, 칼럼(해설)과 본문으로 구성되어 있다. 기본적으로는 문장을 읽지 않아도 만화만으로 수학적인 뜻을 알 수 있도록 하였으며, 만화에는 기승전결과 가급적 수학적 의미를 가진 익살을 붙였다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "19930702",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "오카베 쓰네하루 저 ; 한명수 역",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "3500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8970441301",
+                "INPUT_DATE": "19930702",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "만화 수학 소사전",
+                "PUBLISH_PREDATE": "19930725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

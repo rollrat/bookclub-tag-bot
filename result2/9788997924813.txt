@@ -1,0 +1,67 @@
+{
+    "otitle": "엔지니어를 위한 문장의 기술",
+    "oauthor": "아사야 코타 저/이영희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엔지니어를 위한 문장의 기술 (오늘부터 말이 안 되는 문장은 쓰지 않는다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455620625",
+                "image": "https://shopping-phinf.pstatic.net/main_3245562/32455620625.20221227204751.jpg",
+                "author": "아시야 코타",
+                "discount": "14400",
+                "publisher": "로드북",
+                "pubdate": "20210215",
+                "isbn": "9788997924813",
+                "description": "사원과 대리 때는 팀장에게, 팀장 때는 부서장에게, 부서장이 되었을 땐 사장에게 끊임없이 보고하고 설득하며 업무를 진행한다. 이 때마다 끙끙거리며 고민하는 것들이 바로 이 책에 담겨있다. 이 책에 등장하는 예시는 엔지니어들이 맞닥뜨릴 만한 상황들로 구성되어 있지만, 다른 분야의 직장인의 상황으로 바꾸어 학습해도 전혀 이상하지 않다.\n평소 자신의 의견이나 제안이 제대로 문서로 전달되지 않는다고 생각되는 사람뿐만 아니라 사회 초년생의 입문서로도 좋다. 또한 문장 작성법을 체계적으로 배우지 못했던 리더들에게도 유익한 책이다"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "로드북",
+                "DDC": "",
+                "UPDATE_DATE": "20210318",
+                "EA_ADD_CODE": "93000",
+                "PUBLISHER_URL": "http://www.roadbook.co.kr",
+                "AUTHOR": "지은이: 아시야 코타 ;옮긴이: 이영희",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997924813",
+                "INPUT_DATE": "20210202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "엔지니어를 위한 문장의 기술",
+                "PUBLISH_PREDATE": "20210215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

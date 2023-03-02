@@ -1,0 +1,67 @@
+{
+    "otitle": "보라카이, 세부, 보홀 홀리데이 (2019-2020 개정판)",
+    "oauthor": "박애진 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "보라카이 세부 보홀 홀리데이(2019-2020)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493534161",
+                "image": "https://shopping-phinf.pstatic.net/main_3249353/32493534161.20230207165615.jpg",
+                "author": "박애진",
+                "discount": "13500",
+                "publisher": "꿈의지도",
+                "pubdate": "20190711",
+                "isbn": "9791189469467",
+                "description": "[보라카이·세부·보홀 홀리데이] 2019~2020년 최신 개정판. 보라카이 재개장 이후 새로운 여행 방법, 새로 문을 연 식당과 카페, 아름다운 해변 리조트 등의 정보를 대거 추가했다. 좌판과 호객꾼들이 사라져 평화로운 풍경을 되찾은 ‘푸카쉘 비치’, 해 질 녘 크루즈를 타고 바다로 나가는 ‘선셋 파티 크루즈’, 채식주의자들 사이에서 입소문이 난 맛집 ‘노니스’, 천연 조개껍질로 마사지를 받을 수 있는 ‘아브람스 스파’ 등 새로운 여행 트렌드에 맞게 여행 정보를 업데이트했다. 각각의 여행지마다 최적의 여행 스케줄과 이동 방법을 제시하며, 필리핀 휴양지를 제대로 즐기는 법을 상세하고 친절하게 알려준다. 또한, 독자들을 위해 액티비티, 스파, 카페 할인 등의 혜택이 주어지는 쿠폰을 13장 수록했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20190919",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "글·사진: 박애진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정 2판, 2019~2020년 최신 개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186581339",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "323 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189469467",
+                "INPUT_DATE": "20190618",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "보라카이·세부·보홀 홀리데이",
+                "PUBLISH_PREDATE": "20190711",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

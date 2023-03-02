@@ -1,0 +1,67 @@
+{
+    "otitle": "끝나지 않은 무서운 이야기",
+    "oauthor": "비명소리가득한방 편",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:27 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "끝나지 않은 무서운 이야기 (오싹한 공포의 세계에서 온 초대장)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436245626",
+                "image": "https://shopping-phinf.pstatic.net/main_3243624/32436245626.20221228075013.jpg",
+                "author": "비명소리 가득한 방",
+                "discount": "10800",
+                "publisher": "북오션",
+                "pubdate": "20170811",
+                "isbn": "9788967993320",
+                "description": "쉿! 절대 알려고 하지 마! 상상하지도 마!\n당신의 머릿속에 아찔한 여운을 남겨줄 44가지 공포특급\n\n“상상 속의 공포는 현실 속의 공포보다 더 강력하다.” 영국의 대문호 윌리엄 셰익스피어는 공포의 속성을 이렇게 정의 내렸다. 그의 말대로 상상력이 없으면 인간에게 공포란 감정은 내재할 수 없다. 이런 관점에서 보자면 진정한 공포란 무심코 들었다가 계속해서 머릿속에 남고, 생각 날 때마다 소름이 끼치게 하는 이야기 속에 담겨 있는 것이 아닐까?\n\n『끝나지 않은 무서운 이야기』는 현대적 감각과 우리 정서에 맞는 이야기를 담아 짜릿한 전율과 오싹함을 선사한다. 이 책에 담긴 이야기는 우리 주변에서 겪을 수 있는 상황에서 공포의 속성을 포착한다. MT에 간 대학생들이 겪은 뜻밖의 재앙, 잃어버린 휴대폰이 불러온 으스스한 상황, 오랜만에 만나 사촌동생의 기이한 행동 등 누구나 한 번쯤은 상상하고 들어봤을 이야기이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북오션",
+                "DDC": "895.735",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 비명소리가득한방",
+                "SERIES_TITLE": "",
+                "KDC": "813.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6276872_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6276872_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "133*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "239 p.",
+                "CONTROL_NO": "CIP2017016571",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788967993320",
+                "INPUT_DATE": "20170710",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "끝나지 않은 무서운 이야기",
+                "PUBLISH_PREDATE": "20170811",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

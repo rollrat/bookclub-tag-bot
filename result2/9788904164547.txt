@@ -1,0 +1,67 @@
+{
+    "otitle": "기도는 예배다",
+    "oauthor": "존 맥아더,존 파이퍼,조엘 비키 공저/조계광 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:51 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "기도는 예배다 (하나님이 중심이 되는 기도)",
+                "link": "https://search.shopping.naver.com/book/catalog/32503946808",
+                "image": "https://shopping-phinf.pstatic.net/main_3250394/32503946808.20230110165402.jpg",
+                "author": "존 맥아더^존 파이퍼",
+                "discount": "13500",
+                "publisher": "생명의말씀사",
+                "pubdate": "20140407",
+                "isbn": "9788904164547",
+                "description": "[기도는 예배다]는 기도를 근본적인 예배 행위로 살피고 기도를 통해 하나님의 뜻이 이루어지길 바라며 그분께 의지하고, 우리의 무가치함을 고백하는 것이라고 이야기한다. 무엇을 얻으려고 기도하지 말고 하나님 앞의 예배자로 나아가는 길을 제시하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의 말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20140424",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "존 파이퍼, 존 맥아더, R.C. 스프로울 외",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20140407",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "17,000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904164547",
+                "INPUT_DATE": "20140401",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "기도는 예배다",
+                "PUBLISH_PREDATE": "20140407",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

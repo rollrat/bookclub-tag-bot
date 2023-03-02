@@ -1,0 +1,67 @@
+{
+    "otitle": "어젯밤, 파리에서",
+    "oauthor": "레일라 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:47 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어젯밤, 파리에서",
+                "link": "https://search.shopping.naver.com/book/catalog/32465772669",
+                "image": "https://shopping-phinf.pstatic.net/main_3246577/32465772669.20221220170147.jpg",
+                "author": "레일라",
+                "discount": "12420",
+                "publisher": "리플레이",
+                "pubdate": "20210325",
+                "isbn": "9791191467017",
+                "description": "누가 그랬던가, 겨울의 파리는 회색의 도시라고. \n차가운 안개가 내려앉은 겨울 속 한 계절이 \n지나가는 냄새를 맡고 있자니 그동안 일상에 \n결여된 무언가가 하늘 위로 피어오르는 듯 했다. \n\n이 시간이 지나고 또, 봄이 오고 여름이 \n흘러 가을이 당도하면 과연 나는 어떤 \n사유를 품고 살고 있을까. \n\n‘사람을 단련시키는 것은 사람이 행하는 일들이 아니라 \n하고자 하는 그 의지이다.’ 라는 헤밍웨이의 말처럼, \n파리에서 멋진 하루를 살아내다 보면 알게 되지 않을까. \n\n오늘을 기다린 만큼 내일을 기다려주는, \n딱 그만큼의 삶을 영위하는 꿈을 꾸며 \n파리에 찾아올 따듯한 일상들이 기다리고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리플레이 :정씨책방",
+                "DDC": "",
+                "UPDATE_DATE": "20210713",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 레일라",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/02/18/9791191467017.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "120*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "134 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191467017",
+                "INPUT_DATE": "20210218",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "어젯밤, 파리에서",
+                "PUBLISH_PREDATE": "20210325",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

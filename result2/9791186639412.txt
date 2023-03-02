@@ -1,0 +1,67 @@
+{
+    "otitle": "열세 살 마리옹",
+    "oauthor": "노라 프레스 저/배영란 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:40 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "열세 살 마리옹 (오지 않는 너를 기다리며 | 내 딸은 학교 폭력의 피해자입니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32506638805",
+                "image": "https://shopping-phinf.pstatic.net/main_3250663/32506638805.20221229072657.jpg",
+                "author": "노라 프레스",
+                "discount": "14220",
+                "publisher": "애플북스",
+                "pubdate": "20161226",
+                "isbn": "9791186639412",
+                "description": "‘마리옹 학교폭력 사건’ 그 후\n\n2013년 2월 13일, 프랑스 보그리뇌즈에 거주하던 열세 살 중학생 소녀 마리옹 프레스가 학교폭력을 견디지 못하고 가족들이 외출한 틈을 타 자신의 방에서 머플러에 목을 매달아 목숨을 끊었다. 밝혀진 유서에는 그동안 마리옹이 친구들에게 당한 온갖 수모와 모욕에 대한 이야기가 있었다. \n\n딸을 잃은 슬픔에 빠져 있던 마리옹의 엄마 노라 프레스는 직접 반 아이들과 가해 학생들을 만나고 문자와 페이스북 메시지를 뒤져 마리옹이 학교 안에서 괴롭힘을 당한 사실을 밝혀냈다. 마리옹을 괴롭힌 아이들은 수업시간에 욕을 하며 손가락질을 했고, 심지어 탈의실에서 성추행까지 했다.\n\n이 책은 마리옹이 죽기 전에 남긴 편지를 비롯해 사건을 파헤치며 알게 된 그녀의 살아생전 학교생활, 학교폭력을 대수롭지 않게 여기는 관계자들의 냉정한 모습들이 생생하게 담겨 있어 읽는 내내 가슴이 먹먹해져 온다. 프랑스 독자들은 저자에게 감정 이입되어 학교폭력에 대해 깊게 생각해볼 계기가 되었다는 평을 남겼다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "애플북스 :비전비엔피",
+                "DDC": "848.92",
+                "UPDATE_DATE": "20170727",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "노라 프레스 지음 ;배영란 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "868",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5845141_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5845141_3.jpg",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "286 p.",
+                "CONTROL_NO": "CIP2016025463",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186639412",
+                "INPUT_DATE": "20161021",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "열세 살 마리옹, 오지 않는 너를 기다리며",
+                "PUBLISH_PREDATE": "20161226",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

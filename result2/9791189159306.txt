@@ -1,0 +1,67 @@
+{
+    "otitle": "오! 한강 3",
+    "oauthor": "김세영 저/허영만 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오! 한강 3: 전쟁 이후 (전쟁 이후)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440862202",
+                "image": "https://shopping-phinf.pstatic.net/main_3244086/32440862202.20221019151649.jpg",
+                "author": "김세영",
+                "discount": "11700",
+                "publisher": "가디언",
+                "pubdate": "20190425",
+                "isbn": "9791189159306",
+                "description": "25년의 시간을 뛰어넘어 부활한 허영만, 김세영의 『오! 한강』!\n\n민주화 시위가 치열했던 1980년대 말, 해방 이후부터 1987년 6월 항쟁까지 우리의 현대사를 생생하고 드라마틱하게 그려낸 만화가 허영만과 만화 작가 김세영의 『오! 한강』 제3권 《전쟁 이후》. 만화의 인기가 정점을 달렸던 1980년대 코믹한 분위기를 거두고 현실 속의 이념 대립 문제를 정면으로 다룬 우리나라의 첫 이데올로기 만화다. 오늘날의 시각으로 쓴 현대사와 달리, 1980년대 민주화 운동이 격렬했던 당시에 그려진 현대사로, 시대의 분위기를 생생하게 담고 있다.\n\n강토는 남한에서 김혜린과 재회한다. 과거 강토에게 혁명을 알려주었던 혜린은 아버지가 공산당원에게 죽임을 당한 후, 혁명은 잘못된 생각이었다고 반성하는 입장으로 돌아서 있었다. 그러나 강토는 혁명에 대해 포기하지 않는다. 사상이 아니라 사람이 잘못이었다고 생각한다. 강토는 전쟁 중 겪었던 고통을 껴안으며 다시 그림에 전념한다. 그러던 중 지리산에서 죽산 조봉암을 만나 통일에 대한 그의 생각을 듣고 정치에 뛰어든다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "가디언",
+                "DDC": "",
+                "UPDATE_DATE": "20190521",
+                "EA_ADD_CODE": "04910",
+                "PUBLISHER_URL": "www.sirubooks.com",
+                "AUTHOR": "글: 김세영 ;그림: 허영만",
+                "SERIES_TITLE": "",
+                "KDC": "911.0723",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791189159276",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/04/04/9791189159306.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "255 p.",
+                "CONTROL_NO": "CIP2019013204",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189159306",
+                "INPUT_DATE": "20190404",
+                "SET_EXPRESSION": "",
+                "VOL": "3",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "오! 한강",
+                "PUBLISH_PREDATE": "20190425",
+                "RELATED_ISBN": "9791189159238",
+                "SET_ADD_CODE": "04910 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "인사담당자 100명의 비밀녹취록",
+    "oauthor": "김도윤,제갈현열 공저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인사담당자 100명의 비밀녹취록 (떨어뜨려야 하는 자 붙어야 하는 자)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466654872",
+                "image": "https://shopping-phinf.pstatic.net/main_3246665/32466654872.20221019114730.jpg",
+                "author": "김도윤^제갈현열",
+                "discount": "12150",
+                "publisher": "한빛비즈",
+                "pubdate": "20170217",
+                "isbn": "9791157841707",
+                "description": "인터뷰 기간 3년, 대기업ㆍ외국계기업ㆍ중견기업 등 총 100개 기업 인사담당자들을 집요하게 파고든 채용에 관한 23가지 질문『인사담당자 100명의 비밀녹취록』. 이 책은 저자들이 취업준비생의 입장에 서서 절대로 공개되지 않았던 채용의 조건을 집요한 취재와 인터뷰를 통해 파고들어 취업준비생들이 가장 궁금해 하는, 그리고 반드시 알아야 하는 채용의 진실을 밝힌다.\n\n저자는 취업준비생에게 채용은 ‘어떤 사람이 먼저 걸러지지?’라는 채용담당자의 입장이어야 한다고 주장한다. 채용에 있어 사람의 열정과 노력은 보지 않는다고 단언하며, 채용 시스템에 관한 이야기부터 이력서와 자기소개서, 인적성검사를 통해 거르고 역량 면접, PT 면접, 토론 면접, 임원 면접을 통해 붙이는 채용의 전 과정을 집요하게 파헤쳤다. \n\n이 책은 채용의 각 단계별로 우리가 준비해야 할 핵심 사항들을 주인공들의 대화를 통해 알기 쉽게 보여줌으로써 독자 스스로 해답을 이끌어낼 수 있도록 돕는다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈(주)",
+                "DDC": "",
+                "UPDATE_DATE": "20170306",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "김도윤, 제갈현열",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "288",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157841707",
+                "INPUT_DATE": "20170131",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "인사담당자 100명의 비밀녹취록",
+                "PUBLISH_PREDATE": "20170217",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

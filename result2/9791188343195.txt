@@ -1,0 +1,67 @@
+{
+    "otitle": "아무튼, 양말",
+    "oauthor": "구달 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:29 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아무튼, 양말 (양말이 88켤레인 이유를 논리적으로 설명하기란 불가능하다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466988705",
+                "image": "https://shopping-phinf.pstatic.net/main_3246698/32466988705.20230218110338.jpg",
+                "author": "구달",
+                "discount": "8910",
+                "publisher": "제철소",
+                "pubdate": "20181203",
+                "isbn": "9791188343195",
+                "description": "“양말이 88켤레인 이유를 논리적으로 설명하기란 불가능하다”\n\n아무튼 시리즈의 열여덟 번째 책. 『한 달의 길이』 『일개미 자서전』의 작가 구달이 쓴 양말의, 양말에 의한, 양말을 위한 에세이다. “책 한 권을 쓸 정도로” 양말을 좋아한다는 자칭 ‘19년 차 양말 애호가’인 저자의 일상은 양말과 놀랍도록 밀착되어 있다. 그는 “매일 양말을 고르며 하루를 열고, 양말을 벗어 빨래바구니에 던져 넣으며 하루를 닫는다. 그날 누구를 만나 무얼 하느냐에 따라 착용하는 양말의 색깔도 무늬도 달라진다.”\n\n이 책은 ‘양말이란 무엇인가’라는 질문에서 시작해 ‘삶이란 무엇인가’라는 질문으로 끝을 맺는다. “양말을 반항의 무기로 휘두르고, 재정적 몰락을 양말 진열대 앞에 선 채 실감하며, 때로는 시스루 양말 한 켤레에 무너지고 마는” 저자의 양말 이야기에 울고 웃다 보면, 어느새 양말 한 켤레는 우리 삶에 ‘직유’가 아닌 ‘은유’로서 다가온다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "제철소",
+                "DDC": "895.785",
+                "UPDATE_DATE": "20181214",
+                "EA_ADD_CODE": "02810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 구달",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7020779_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7020779_3.jpg",
+                "PRE_PRICE": "9900",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "110*178",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "159 p.",
+                "CONTROL_NO": "CIP2018038113",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188343195",
+                "INPUT_DATE": "20181122",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아무튼, 양말",
+                "PUBLISH_PREDATE": "20181203",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

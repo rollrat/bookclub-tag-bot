@@ -1,0 +1,67 @@
+{
+    "otitle": "나는 튀는 도시보다 참한 도시가 좋다",
+    "oauthor": "정석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:07:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 튀는 도시보다 참한 도시가 좋다 (정석 교수의 도시설계 이야기)",
+                "link": "https://search.shopping.naver.com/book/catalog/32473660322",
+                "image": "https://shopping-phinf.pstatic.net/main_3247366/32473660322.20221228074526.jpg",
+                "author": "정석",
+                "discount": "14400",
+                "publisher": "효형출판",
+                "pubdate": "20130525",
+                "isbn": "9788958721185",
+                "description": "북촌, 인사동, 암사동 서원마을 등 서울 곳곳에서 20년간 굵직한 연구 프로젝트를 수행해온 도시설계 전문가 정석 교수가 현장에서 목격한 서울 도시 공간의 변화를 생생하게 전달한다. 최근 화두로 떠오른 마을 만들기에 얽힌 속사정과 동네 아저씨로 살아가는 일상도 솔직하게 담아냈다.\n\n\n\n도시설계는 아직까지 대중에게 낯선 분야다. 그러나 학문으로서의 도시설계는 멀리 있을지 몰라도, 도시민의 삶은 도시설계와 밀접히 맞닿아 있다. 큰 스케일을 다루는 도시계획은 디자인 마인드가 부족하고, 개별 대지에 머무르는 건축은 공공 마인드가 부족한 한계가 있다. 이러한 도시계획과 건축의 한계에서 탄생한 전문 분야가 도시설계다.\n\n\n\n부드럽고 친절하다는 뜻을 지닌 단어 ‘곰살맞다’는 도시설계의 본질을 가장 명확하게 설명한다. 도시설계를 업으로 하는 사람이기 때문일까, 저자는 도시 이야기를 참 곰살맞게도 풀어간다. 저자 특유의 살가운 글쓰기 스타일과 현장에서 그러모은 두툼한 실증 자료가 더해져 어떤 독자나 만만하게 읽을 수 있되, 내용만큼은 결코 호락호락하지 않은 교양서로 태어났다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "효형출판",
+                "DDC": "711.4",
+                "UPDATE_DATE": "20130528",
+                "EA_ADD_CODE": "03540",
+                "PUBLISHER_URL": "http://www.hyohyung.co.kr",
+                "AUTHOR": "정석",
+                "SERIES_TITLE": "",
+                "KDC": "539.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2690477_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2690477_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2690477_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2013005434",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788958721185",
+                "INPUT_DATE": "20130503",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "나는 튀는 도시보다 참한 도시가 좋다",
+                "PUBLISH_PREDATE": "20130525",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

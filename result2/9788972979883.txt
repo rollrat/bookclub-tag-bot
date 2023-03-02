@@ -1,0 +1,67 @@
+{
+    "otitle": "시각의 폭력",
+    "oauthor": "유서연 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "시각의 폭력 (고대 그리스부터 n번방까지 타락한 감각의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492901091",
+                "image": "https://shopping-phinf.pstatic.net/main_3249290/32492901091.20221019104858.jpg",
+                "author": "유서연",
+                "discount": "12960",
+                "publisher": "동녘",
+                "pubdate": "20210430",
+                "isbn": "9788972979883",
+                "description": "가장 고귀했던 감각은 어떻게 가장 타락한 감각이 되었나\n\nn번방, 웰컴투비디오, 딥페이크물, 웹하드 카르텔 …… 4차 산업혁명 시대에 ‘보는 기술’이 빛을 발할수록 ‘보는 폭력’의 그늘은 깊어간다. 불법 촬영과 디지털 성범죄는 피해자에게 말 그대로 ‘영원한 고통’을 안기지만 단속과 처벌이 따라잡지 못하면서 이 폭력은 깊이를 알 수 없는 악이 된 것처럼 보인다. 우리는 과연 이 문제를 해결할 수 있을까? 어디서부터 접근해야 할까?\n이 책이 쥔 무기는 철학이다. 디지털 기기와 통신 기술의 발달로 등장한 듯 보이는 이 ‘새로운 폭력’은, 사실 플라톤부터 데카르트와 하이데거에 이르는 시각중심주의 철학에 깊이 뿌리내린 ‘오래된 폭력’이다. 시각을 다른 감각들보다 특권화하고 ‘관조’를 중시함으로써 대상이 품은 시간성을 배제하는 서구의 철학적 전통은 근대의 시각중심주의로 이어졌고, 오늘날 온갖 시각의 폭력은 이러한 토양에서 자라났다는 것이다. 저자는 근대의 시각중심주의를 ‘근대의 광기’라고 본다. 이는 관음증적 욕망, 렌즈의 발달, 여성혐오와 결합해 점차 힘을 키웠고, 수치심을 느끼지 못하게 하는 디지털 공간에서 증폭되었다.\n출구는 없을까? 이 책은 ‘광기’에 맞서는 또 다른 ‘광기’를 제시한다. 가부장적 질서에 순응하지 않았다는 이유로 ‘히스테리 환자’의 굴레가 씌워진 근대의 여성들부터 ‘렌즈를 부수는 송곳’을 든 디지털 시대의 페미니스트들까지 ‘여성 광인’의 역사는 짧지 않다. 또한 촉각이라는 대안을 통해 시각 중심으로 치우친 우리의 감각 체계를 돌아본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동녘",
+                "DDC": "",
+                "UPDATE_DATE": "20210602",
+                "EA_ADD_CODE": "03100",
+                "PUBLISHER_URL": "http://www.dongnyok.com",
+                "AUTHOR": "지은이: 유서연",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "264 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788972979883",
+                "INPUT_DATE": "20210331",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "시각의 폭력",
+                "PUBLISH_PREDATE": "20210430",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "술래가 된 낙타",
+    "oauthor": "이윤희 글/신보미 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "술래가 된 낙타",
+                "link": "https://search.shopping.naver.com/book/catalog/32463528759",
+                "image": "https://shopping-phinf.pstatic.net/main_3246352/32463528759.20221019140208.jpg",
+                "author": "이윤희",
+                "discount": "10800",
+                "publisher": "하마",
+                "pubdate": "20200226",
+                "isbn": "9791190521000",
+                "description": "‘꼭꼭 숨어라. 머리카락 보인다’\n지치고 힘들어도 길을 찾으려고 애쓰면 반드시 보이게 된답니다.\n\n끝없이 펼쳐진 사막의 모래밭에서 살아가야 하는 낙타에게 희망이라곤 보이지 않아요. 내리쬐는 태양과 끝없이 펼쳐진 모래 위에서 혼자라는 외로움에 마음을 닫으려는 순간 어디선가 날아온 칼새가 낙타에게 이야기합니다. 우리 모두 한낮의 해를 피해 숨어있을 뿐 혼자가 아니라는 것을요. 좀처럼 내리지 않는 비에 모두 지쳐갈 때 오아시스를 찾아달라고 칼새가 낙타의 등을 떠밀고, 억지로 찾아 나서게 된 낙타는 점점 지쳐만 갑니다. \n주저앉은 낙타의 눈 앞에 펼쳐진 다른 모습의 사막은 다른 깨달음을 주게 되고…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "하마",
+                "DDC": "",
+                "UPDATE_DATE": "20200402",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이윤희 글 ;신보미 그림",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "67 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190521000",
+                "INPUT_DATE": "20191129",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "술래가 된 낙타",
+                "PUBLISH_PREDATE": "20200205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

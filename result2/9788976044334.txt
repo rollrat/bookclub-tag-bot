@@ -1,0 +1,67 @@
+{
+    "otitle": "비움 효과",
+    "oauthor": "최현아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비움 효과 (삶을 변화시키는 마법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32442181734",
+                "image": "https://shopping-phinf.pstatic.net/main_3244218/32442181734.20221231083925.jpg",
+                "author": "최현아",
+                "discount": "11240",
+                "publisher": "문예춘추사",
+                "pubdate": "20210215",
+                "isbn": "9788976044334",
+                "description": "추상적인 ‘비움’을 구체적인 삶으로 안내하는 책\n왜 비워야 행복한지를 다양한 사례로 설득하다\n\n‘비움’을 말하면 대부분 명상가나 수도자를 떠올리거나, 그도 아니면 정리정돈 수준의 생활력을 생각하기 쉽다. 우리를 성장시키는 일상 속 비움에 대한 이해가 부족한 것이다. 그래서 정작 ‘비움’이 뭔지, 그 효과에 대해 알지 못한다. \n이 책의 저자가 제시하는 비움의 원리는 간단하다. 일단 물건에 대한 비움부터 시작할 것. 이렇게 시작하면 하나씩 비울 때마다 우리의 삶이 조금씩 혹은 급속하게 나아질 거라는 것. \n지금 이 세상은 무엇이든 사서 채우라고 말한다. 물건, 경험, 심지어 인간관계까지 돈으로 사서 채우라고 한다. 그러한 세상에서 비워야 행복하다고 외치는 저자는 자신의 경험으로부터 비움의 강력한 효과를 만끽한 후, 현재 비움 전문가로 활동하고 있다. 저자는 다양한 사람들을 만나 ‘비움’을 전파하면서 얻은 소소하지만 거대한 삶의 진리를 이 책에서 아낌없이 제공하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "문예춘추사",
+                "DDC": "",
+                "UPDATE_DATE": "20210421",
+                "EA_ADD_CODE": "13190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최현아 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788976044334",
+                "INPUT_DATE": "20201209",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "비움 효과",
+                "PUBLISH_PREDATE": "20210215",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

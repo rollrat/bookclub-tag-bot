@@ -1,0 +1,67 @@
+{
+    "otitle": "삶을 짓는 목수 이야기",
+    "oauthor": "유광복 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "삶을 짓는 목수 이야기 (46년, 거친 손으로 인생을 씁니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454962035",
+                "image": "https://shopping-phinf.pstatic.net/main_3245496/32454962035.20221228071852.jpg",
+                "author": "유광복",
+                "discount": "13500",
+                "publisher": "바이북스",
+                "pubdate": "20190530",
+                "isbn": "9791158771010",
+                "description": "46년 경력 목수의 인생 역정과 지혜. 『삶을 짓는 목수 이야기』의 저자 유광복은 목수는 집을 짓는 것이 아니라 그 집주인의 삶을 담는 그릇을 만든다는 신조로 일하는 기능장이다. 현장뿐만 아니라 후학 양성에도 힘쓰는 그가 자신의 삶을 고백하는 책을 냈다. 수공구뿐만 아니라 컴퓨터 프로그램에도 능숙하며 유튜브까지 진출한 저자는 아날로그와 디지털의 융합을 보여주며 기존의 목수에 대한 편견을 깨트리고 있다. 4차 산업혁명에서도 살아남을 직업이자 자기 정년을 자기가 결정할 수 있는 직업인 목수의 매력을 이 책을 통해 만나보자."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바이북스",
+                "DDC": "",
+                "UPDATE_DATE": "20190710",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "유광복 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "251 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158771010",
+                "INPUT_DATE": "20190523",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "삶을 짓는 목수 이야기",
+                "PUBLISH_PREDATE": "20190530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "스쿨 홀릭 (SCHOOL HOLIC) 4",
+    "oauthor": "신의철 글,그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "스쿨 홀릭 (SCHOOL HOLIC) 4 (수면의 달인)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441654182",
+                "image": "https://shopping-phinf.pstatic.net/main_3244165/32441654182.20221228073819.jpg",
+                "author": "신의철",
+                "discount": "4500",
+                "publisher": "한즈미디어(한스미디어)",
+                "pubdate": "20100721",
+                "isbn": "9788959752416",
+                "description": "네이버 최고의 인기 웹툰 그 네 번째 이야기. 학창시절의 추억과 지금 이 시간에도 학교에서 일어나고 있는 여러 이야기를 통해 어둡고 절망적인 학교 현실 속에서도 밝고 희망적인 학교를 이야기한다. 또한, 학교를 다니고 있는 모든 선생님과 학생들이 행복한 학교생활을 만들어가길 진심으로 꿈꾼다.\n\n\n\n3권까지 네이버 웹툰 데뷔 이전에 혼자서 깨알같이 그려 모았던 분량을 대부분 보여줬고, 4권부터는 네이버 웹툰에서 가장 재미있게 보았던 에피소드를 모아, 그리고 인터넷에서 보실 수 없었던 11편의 비하인드 스토리를 모아 독자 여러분께 선보인다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13000",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "신의철",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "1판 1쇄",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20100716",
+                "TITLE_URL": "",
+                "PRE_PRICE": "10,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "5000",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959752416",
+                "INPUT_DATE": "20100714",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "0",
+                "BIB_YN": "Y",
+                "TITLE": "스쿨홀릭 4",
+                "PUBLISH_PREDATE": "20100722",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

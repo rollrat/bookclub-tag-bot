@@ -1,0 +1,67 @@
+{
+    "otitle": "오! 나의 달님",
+    "oauthor": "김지영 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:58 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "오! 나의 달님 (김지영 그림책)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436141122",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436141122.20221229071007.jpg",
+                "author": "김지영",
+                "discount": "13500",
+                "publisher": "북극곰",
+                "pubdate": "20180728",
+                "isbn": "9791189164119",
+                "description": "“오! 나의 달님, 사랑해요!”\n까만 밤하늘에 둥근 달이 빛나고 있어요. 어린 왕자가 아기별들을 엄마 달님에게 데려와요. 엄마 달님은 배고픈 아기별들에게 젖을 먹여요. 꼴딱꼴딱 꼴딱꼴딱! 엄마 젖을 배불리 먹은 아기별들은 쑥쑥 자라나지요. 그런데 놀이터에서 아기별들이 돌아보니 엄마 달님이 보이지 않아요! 도대체 엄마 달님에게 무슨 일이 생긴 걸까요?\n\n『오! 나의 달님』은 밤하늘에 빛나는 아기별과 엄마 달님과 아빠 해님의 이야기를 통해 사랑을 이야기하는 그림책입니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북극곰",
+                "DDC": "",
+                "UPDATE_DATE": "20180918",
+                "EA_ADD_CODE": "74810",
+                "PUBLISHER_URL": "www.bookgoodcome.com",
+                "AUTHOR": "글·그림: 김지영",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186797693",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6736174_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6736174_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "[49] p.",
+                "CONTROL_NO": "CIP2018021392",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189164119",
+                "INPUT_DATE": "20180706",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "오! 나의 달님",
+                "PUBLISH_PREDATE": "20180728",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

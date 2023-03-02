@@ -1,0 +1,67 @@
+{
+    "otitle": "재윤의 삶",
+    "oauthor": "정재윤 글그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "재윤의 삶",
+                "link": "https://search.shopping.naver.com/book/catalog/32503897947",
+                "image": "https://shopping-phinf.pstatic.net/main_3250389/32503897947.20220527022850.jpg",
+                "author": "정재윤",
+                "discount": "25920",
+                "publisher": "미메시스",
+                "pubdate": "20190701",
+                "isbn": "9788932919829",
+                "description": "파이처럼 겹겹이 쌓인 [재윤의 삶]을 그리다 \n열린책들의 예술서 전문 브랜드인 미메시스에서 20대 여성의 삶을 다룬 그래픽노블을 출간하였다. SNS에 기반을 두고 활동하는 만화가 정재윤이 글을 쓰고 그림을 그린 『재윤의 삶』은 제목 그대로 자신의 현재를 고스란히 담은 작품집이다. 작가는 페이스북에 [재윤의 삶]이라는 주제로 9컷 만화를 올리며 주목을 받았다. 일기처럼 혹은 메모처럼 자신이 보고 느끼고 깨달은 것들을 페이스북 페이지에 올릴 때마다 많은 이에게 호응을 끌어내고 있다. 그가 다루는 주제는 흥미롭고 폭이 넓다. 어릴 때부터 강요받았던 여성성과 남성성, 원초적 본능, 롤 모델에 대한 부담감, 브래지어에 대한 단상, 월급쟁이 인생, 반짝 유행 아이템들, 자신 안의 편견 등 우리가 한 번쯤 생각해 봤을 이야기들을 말한다. 하지만 신변잡기적이거나 이른바 [사이다]라고 말하는 속 시원한 결말로 빠지지 않는다. [재윤의 삶]이 동세대 독자들에게 공감을 얻는 점도 그것에 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미메시스",
+                "DDC": "",
+                "UPDATE_DATE": "20190828",
+                "EA_ADD_CODE": "07650",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글·그림: 정재윤",
+                "SERIES_TITLE": "",
+                "KDC": "810",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/06/27/9788932919829.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "140 p.",
+                "CONTROL_NO": "CIP2019025265",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932919829",
+                "INPUT_DATE": "20190627",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "재윤의 삶",
+                "PUBLISH_PREDATE": "20190701",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

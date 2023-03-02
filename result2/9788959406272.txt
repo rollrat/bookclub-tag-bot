@@ -1,0 +1,67 @@
+{
+    "otitle": "말과 글을 살리는 문법의 힘",
+    "oauthor": "정재윤 저 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:12:18 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "말과 글을 살리는 문법의 힘 (두고두고 찾아보는 한국어 사용 설명서)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492212613",
+                "image": "https://shopping-phinf.pstatic.net/main_3249221/32492212613.20230131163116.jpg",
+                "author": "정재윤",
+                "discount": "22500",
+                "publisher": "시대의창",
+                "pubdate": "20161201",
+                "isbn": "9788959406272",
+                "description": "『말과 글을 살리는 문법의 힘』은 우리 말과 글의 규칙, 곧 문법의 모든 것을 담은 ‘한국어 사용 설명서’다. 일상에서 흔히 접할 수 있는 사례를 들어 한국어의 규칙을 하나하나 알아가도록 하였다. 언어 이론에서부터 음성과 음운 ㆍ 형태와 품사 ㆍ 어휘론 ㆍ 통사론 ㆍ 의미론 ㆍ 화용론 ㆍ 한국어 규범에 이르기까지, 학교 문법에서 다루는 모든 영역을 망라하였다. 더불어, 알아두면 좋을 문법 지식을 쉽고 재미있게 기억하는 요령도 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시대의창출판사",
+                "DDC": "495.75",
+                "UPDATE_DATE": "20170418",
+                "EA_ADD_CODE": "03710",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "정재윤",
+                "SERIES_TITLE": "",
+                "KDC": "715",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5888150_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5888150_3.jpg",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "536",
+                "CONTROL_NO": "CIP2016027001",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959406272",
+                "INPUT_DATE": "20161108",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "말과 글을 살리는 문법의 힘",
+                "PUBLISH_PREDATE": "20161201",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

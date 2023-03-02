@@ -1,0 +1,67 @@
+{
+    "otitle": "잘사는 것으로 나를 증명한다",
+    "oauthor": "이정훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "잘사는 것으로 나를 증명한다 (나를 증명하고 싶은데 무엇으로 증명할지 나도 모를 때)",
+                "link": "https://search.shopping.naver.com/book/catalog/32474254709",
+                "image": "https://shopping-phinf.pstatic.net/main_3247425/32474254709.20221019124312.jpg",
+                "author": "이정훈",
+                "discount": "13500",
+                "publisher": "리더북스",
+                "pubdate": "20220411",
+                "isbn": "9791190616607",
+                "description": "나를 증명하고 싶은데 무엇으로 증명할지 나도 모를 때,\n가장 소중한 나를 위한 인생 처방전\n\n저자 이정훈은 저서와 강연을 통해 많은 사람의 고민과 인생질문을 들었다. ‘삶’에는 무수히 많은 사연이 담겨 있고, 시련은 피할 수 없지만 행복과 불행은 선택임을 깨달았다. 누구나 잘살고 싶어 하고, 그래서 하루하루 잘 살아보려고 무던히 애를 쓰고 있음을 알기에 가장 소중한 나를 위한 인생 처방전을 썼다. \n이 책의 내용은 온전히 나로 살기 위해 꼭 필요한 실제적인 것들이다. 삶의 방향성을 잃었을 때, 인간관계로 갈등할 때, 자기관리가 안 될 때, 돈과 운을 끌어당기는 게 녹록지 않을 때, 나를 위해 일하고 목표를 달성하고 싶지만 주변환경 앞에서 무력해질 때 읽으면 좋을 것이다. 너무나 현실적이고 뼈 때리는 얘기가 짧지만 울림이 있어서 지금 내가 잘살고 있는지 스스로 돌아보게 하고, 동기부여도 된다. 저자의 바람처럼 당신이 돈부자, 마음 부자, 시간 부자, 관계 부자로 살기를 바란다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "리더북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220719",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "이정훈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190616607",
+                "INPUT_DATE": "20220402",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "잘사는 것으로 나를 증명한다",
+                "PUBLISH_PREDATE": "20220411",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

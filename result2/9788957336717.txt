@@ -1,0 +1,67 @@
+{
+    "otitle": "포스트휴먼이 몰려온다",
+    "oauthor": "신상규,이상욱,이영의,김애령,구본권,김재희,하대청,송은주 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "포스트휴먼이 몰려온다 (AI 시대, 다시 인간의 길을 여는 키워드 8)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487187889",
+                "image": "https://shopping-phinf.pstatic.net/main_3248718/32487187889.20230216071142.jpg",
+                "author": "신상규^이상욱^이영의^김애령^구본권^김재희^하대청^송은주",
+                "discount": "14220",
+                "publisher": "아카넷",
+                "pubdate": "20200228",
+                "isbn": "9788957336717",
+                "description": "바야흐로 AI(인공지능) 시대다. 새해 벽두부터 문재인 정부는 'AI 1등 국가'를 선포했다. 지난해 2019년 '기본구상'을 거쳐 '국가전략'으로 발돋움한 AI는 국가의 장래를 짊어진 미래의 전략 사업으로 향후 10년간 추진될 전망이다. 국내 대기업들 역시 AI 관련 분야에 투자와 인력을 대폭 늘리면서 사활을 건 행보에 나서고 있다. 시민들은 이미 기술로 실현된 첨단 제품으로 '편의'를 누리면서도 'AI가 내 일을 뺏을까?'라는 걱정도 동시에 내놓고 있다. 이렇듯 기대와 우려가 교차하는 가운데 현실로 다가선 미래에 우리는 어떻게 대응해야 할까?\n\n\n\n&lt;포스트휴먼이 몰려온다&gt;는 2020년대에 인간(휴먼)에게 닥친 새로운 변화 또는 태동하고 있는 미래 환경을 정확히 이해하자는 취지에서 기획되었다. 기계지능(인공지능), 사이보그, 인공자궁, 소셜로봇, 가짜뉴스(허위조작정보), 기본소득, 마이크로워크, 인류세 등 포스트휴먼의 현상을 가늠할 수 있는 키워드를 8가지로 제시하고 첨단의 기술이 인간과 삶의 방식에 미칠 영향에 초점을 맞추어 집필되었다. 우리는 이 8가지 키워드를 통해 일상이나 공동체적 삶에 어떠한 변화가 일어나고 있는지, 인류가 근본적으로 대면해야 할 곤경은 어떠할지를 성찰할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "아카넷",
+                "DDC": "",
+                "UPDATE_DATE": "20200313",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.acanet.co.kr",
+                "AUTHOR": "신상규,이상욱,이영의,김애령,구본권,김재희,하대청,송은주 지음",
+                "SERIES_TITLE": "",
+                "KDC": "331.5412",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "270 p.",
+                "CONTROL_NO": "CIP2020006662",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788957336717",
+                "INPUT_DATE": "20200214",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "포스트휴먼이 몰려온다",
+                "PUBLISH_PREDATE": "20200228",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

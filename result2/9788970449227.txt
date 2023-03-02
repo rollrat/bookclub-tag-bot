@@ -1,0 +1,67 @@
+{
+    "otitle": "전파는 위험하지 않은가",
+    "oauthor": "도쿠마루 시노부 저/김기채 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "전파는 위험하지 않은가 (우려되는 인체에 대한 장해)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484562981",
+                "image": "https://shopping-phinf.pstatic.net/main_3248456/32484562981.20221230072705.jpg",
+                "author": "도쿠마루 시노부",
+                "discount": "11700",
+                "publisher": "전파과학사",
+                "pubdate": "20200211",
+                "isbn": "9788970449227",
+                "description": "전파를 쬐면 어떻게 될까라는 물음을 시작으로 전파에 대한 기본적인 지식과 함께 일상생활과 떼어놓을 수 없는 전파가 인체에 어떤 영향을 주는지 세심하게 탐구한다. 전파란 무엇인가라는 기초 이론부터 전파의 해로움과 이로움에 대해서 너무 전문적이지 않은 범위에서 조망한다.\n\n\n\n우리의 신체는 지구 자기에 노출되어 있고, 또 주위 환경에 따라서는 열악한 전자기파 환경에 드러나 있는 경우가 많다. 전파의 응용 분야가 확대되고, 우리 주변에서 전파 응용 장치의 사용이 잦아졌지만 전파로 인한 인체 장해의 증상을 뚜렷하게 느끼기는 어렵다. 그러나 누구나 전파에 노출되어 있기에 전파의 성질에 대해서 알아두는 일은 매우 유용할 수 있다. \n\n\n\n전파 자원은 잘 사용하면 인류에게 많은 도움을 주지만 그릇되게 사용하면 그 해를 감당하기 어렵다. 따라서 저자는 일반인이 이해할 수 있는 범위 내에서 무지로 인한 피해를 막기 위해 전파에 대해 설명하고 있다. 전파에 대한 올바른 이해를 토대로 사전에 위험을 예방하자는 것으로, 전파에 대한 유익한 길라잡이가 되어줄 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "전파과학사",
+                "DDC": "",
+                "UPDATE_DATE": "20200420",
+                "EA_ADD_CODE": "03560",
+                "PUBLISHER_URL": "www.s-wave.co.kr/",
+                "AUTHOR": "도쿠마루 시노부 지음 ;김기채 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "개정[판]",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "194 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970449227",
+                "INPUT_DATE": "20200203",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "전파는 위험하지 않은가",
+                "PUBLISH_PREDATE": "20200211",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

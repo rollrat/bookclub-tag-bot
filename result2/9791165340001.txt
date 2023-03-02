@@ -1,0 +1,67 @@
+{
+    "otitle": "디스럽터 시장의 교란자들",
+    "oauthor": "데이비드 로완 저/김문주 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "디스럽터 시장의 교란자들 (파괴하는 자만이 새로운 제국을 짓는다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32464266082",
+                "image": "https://shopping-phinf.pstatic.net/main_3246426/32464266082.20230210071035.jpg",
+                "author": "데이비드 로완",
+                "discount": "19800",
+                "publisher": "쌤앤파커스",
+                "pubdate": "20200205",
+                "isbn": "9791165340001",
+                "description": "틴더, 슈퍼셀처럼 대박 난 스타트업부터 콴타스 항공, 오토데스크처럼 화려하게 부활한 유서 깊은 기업까지, 기존 시장을 철저하게 파괴하고 분열시켜 성공한 ‘디스럽터’들의 14가지 ‘교란의 기술’을 압축한 《디스럽터: 시장의 교란자들》이 출간되었다. \n\n\n\nGAFA, BATH, 플랫폼 전쟁 이후, 앞으로의 시장을 장악할 비즈니스 전략은 무엇일까? 노회해져가는 실리콘밸리를 벗어나 곳곳으로 흩어지고 있는 전 세계 혁신기업들은 지금 이 순간 어느 쪽을 바라보고, 무엇을 준비하고 있을까? 세계적인 트렌드 분석가이자 비즈니스 구루인 데이비드 로완이 기술환경의 변화와 미래 트렌드에 대한 가장 앞선 분석과 예리한 통찰을 내놓았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "20200210",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "데이브드 로완 지음 ;김문주 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "325.19",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "431 p.",
+                "CONTROL_NO": "CIP2019051672",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165340001",
+                "INPUT_DATE": "20191216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "디스럽터",
+                "PUBLISH_PREDATE": "20200205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

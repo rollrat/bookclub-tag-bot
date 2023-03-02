@@ -1,0 +1,67 @@
+{
+    "otitle": "시간을 선택하는 기술 블럭식스",
+    "oauthor": "정지하(룩말) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "시간을 선택하는 기술 블럭식스 (내 일상의 황금비율을 찾는 하루 6블럭 시간 관리 시스템)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444973310",
+                "image": "https://shopping-phinf.pstatic.net/main_3244497/32444973310.20221019115221.jpg",
+                "author": "정지하(룩말)",
+                "discount": "15300",
+                "publisher": "한스미디어",
+                "pubdate": "20211119",
+                "isbn": "9791160077575",
+                "description": "늘 정신없이 바쁘지만 뚜렷한 성과도, 보람도 없었다면?\n\n하루를 6블럭으로 나누고 나니\n나의 일상이 놀랍도록 간결해졌다!\n\n텀블벅 오픈 5분 만에 100% 달성, 최종 1224%의 성공!\n국내 최고 시간 관리 컨설턴트 ‘룩말’이 알려주는\n세상에서 가장 쉬운 시간 관리법\n\n《시간을 선택하는 기술, 블럭식스》는 획기적인 시간 관리 시스템인 ‘블럭식스’를 개발하고 화제의 인플루언서가 된 정지하 작가의 첫 번째 저서다. 이 책은 저자가 개발한 블럭식스 시간 관리 시스템을 충실히 설명하며 보다 주도적인 삶으로 독자들을 안내한다. ‘블럭식스’란, 하루를 큼직하게 6블럭으로 나눠 쓸데없는 것은 과감히 비우고 더욱 소중한 것에 집중할 수 있도록 설계된 시간 관리 시스템이다. 아무리 복잡한 스케줄로 정신없는 하루를 보내는 사람이라도 블럭식스의 방법대로 하루를 6블럭으로 나눠 보면 일상이 간결해질 것이다. 이는 블럭을 통해 ‘보이지 않는’ 시간을 시각화하고 간결하게 배치해볼 수 있도록 구조화한 덕분이다. 저자는 이러한 과정을 통해 독자들이 ‘시간을 선택하는 기술’을 터득함으로써 정말 중요한 인생의 가치에 다다를 수 있도록 돕는다. 블럭식스는 할 일에 쫓겨 늘 시간이 부족하다고 느끼는 사람에게도, 여유 시간이 너무 많아 이를 어떻게 활용해야 할지 막막한 사람에게도 강력한 솔루션이 될 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한스미디어 :한즈미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20211202",
+                "EA_ADD_CODE": "04330",
+                "PUBLISHER_URL": "http://www.hansmedia.com",
+                "AUTHOR": "정지하 지음",
+                "SERIES_TITLE": "블럭식스 시간 혁명 프로젝트",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791160077568",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "310 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791160077575",
+                "INPUT_DATE": "20211102",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "블럭식스",
+                "PUBLISH_PREDATE": "20211119",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04330 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

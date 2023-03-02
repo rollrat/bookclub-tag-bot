@@ -1,0 +1,67 @@
+{
+    "otitle": "우리, 아프지는 말고 출근합시다",
+    "oauthor": "청든남(청진기 든 남자들) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리, 아프지는 말고 출근합시다 (5명의 전문의가 전하는 직장인 맞춤 처방전)",
+                "link": "https://search.shopping.naver.com/book/catalog/32480433773",
+                "image": "https://shopping-phinf.pstatic.net/main_3248043/32480433773.20230207163005.jpg",
+                "author": "청든남(청진기 든 남자들)",
+                "discount": "14400",
+                "publisher": "미래의창",
+                "pubdate": "20220314",
+                "isbn": "9791191464795",
+                "description": "직장인을 위한 생활 밀착형 건강 이야기\n“나는 왜 안 아픈 데가 없을까?”\n\n* 일요일만 되면 내일 출근할 생각에 가슴이 답답하다\n* 거북이처럼 모니터 쪽으로 목을 쭉 빼고 있다\n* 마우스를 쓸 때 손목이 아프다\n* 소화가 잘 안 되고 속이 자주 쓰리다\n* 야근과 회식으로 다이어트에 매번 실패한다\n* 퇴근하고 집에 오면 아무것도 하기 싫다\n\n이 중에 하나라도 해당된다면 당신에겐 ‘직장인 맞춤 처방’이 필요하다. 많은 직장인들이 출근해서 하루 종일 바쁘게 일을 하다 보면 두통부터 손목과 허리 통증, 속 쓰림 등 다양한 증상을 경험한다. 하지만 아플 때마다 병원을 갈 여유도 없고, 늘 피로에 시달리니 제대로 된 정보를 찾기도, 이를 실천하기도 어렵다. 이런 직장인들을 위해 내과, 재활의학과, 정형외과부터 정신건강의학과, 피부과 전문의 5인이 ‘청든남(청진기 든 남자들)’이라는 이름으로 모였다. 청든남이 이 책을 통해 당신의 주치의가 되어 건강 고민을 해결하고, 건강관리 노하우를 쉽고 친절하게 전달한다. 이들의 처방에 귀를 기울이다 보면 자연스레 내 몸에 관심을 갖게 되고, 퇴근 후 무기력하게 누워 있던 생활에서 벗어나 활기찬 하루를 맞이할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미래의창",
+                "DDC": "",
+                "UPDATE_DATE": "20220405",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "청든남 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191464795",
+                "INPUT_DATE": "20220127",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "우리, 아프지는 말고 출근합시다",
+                "PUBLISH_PREDATE": "20220314",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

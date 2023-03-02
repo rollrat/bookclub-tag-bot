@@ -1,0 +1,67 @@
+{
+    "otitle": "더 저널리스트 : 카를 마르크스",
+    "oauthor": "카를 마르크스 저/김영진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:10:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "더 저널리스트: 카를 마르크스",
+                "link": "https://search.shopping.naver.com/book/catalog/32441631660",
+                "image": "https://shopping-phinf.pstatic.net/main_3244163/32441631660.20221019135203.jpg",
+                "author": "칼 마르크스",
+                "discount": "14400",
+                "publisher": "한빛비즈",
+                "pubdate": "20200115",
+                "isbn": "9791157843800",
+                "description": "사회 보편적 가치와 팩트에 근거한 비판,\n저널리스트 마르크스가 송고한 지금 여기의 ‘정의’\n\n카를 마르크스, 그는 사상가이기 전에 저널리스트였다!\n17편의 기사 그리고 〈임금노동과 자본〉\n〈더 저널리스트〉 시리즈의 마지막 세 번째 책. 저널리스트 마르크스의 이미지가 가장 잘 드러난 17편의 기사, 그리고 ‘자본론의 입문서’라 불리는 〈임금노동과 자본〉을 새로 번역해 실었다. 마르크스의 장기적, 보편적 관점을 엿볼 수 있는 기사를 선별했으며, 노동 계층과 서민의 삶을 다루는 기사, 외교 문제와 무역 정책에 관한 기사도 포함됐다. 《자본론》을 쓰기 이전, 기자 마르크스가 물질적 이해관계에 눈을 뜨는 과정을 잘 보여준다.\n《자본론》 같은 결과물도 중요하지만, 저널리즘 같은 ‘중간 결과물’ 역시 마르크스가 왜, 어떤 과정을 통해 사상을 구체화했는지 그 맥락을 이해하는 데 중요한 역할을 한다. 신문 기사와 책, 보고서, 통계 수치를 곱씹으며 기사를 썼던 그의 모습 속에서 저널리스트의 면모를 엿볼 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20200317",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "지은이: 카를 마르크스 ;옮긴이: 김영진",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "191 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157843800",
+                "INPUT_DATE": "20191216",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "더 저널리스트",
+                "PUBLISH_PREDATE": "20200115",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "우죄",
+    "oauthor": "야쿠마루 가쿠 저/김은모 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:22 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우죄",
+                "link": "https://search.shopping.naver.com/book/catalog/32474592097",
+                "image": "https://shopping-phinf.pstatic.net/main_3247459/32474592097.20221019152554.jpg",
+                "author": "야쿠마루 가쿠",
+                "discount": "14850",
+                "publisher": "달다",
+                "pubdate": "20190615",
+                "isbn": "9788932319827",
+                "description": "어떤 얘기를 듣더라도 친구로 지내겠다고 약속해줄래?\n\n《돌이킬 수 없는 약속》의 저자 야쿠마루 가쿠가 내 친구 혹은 친하게 지낸 주위의 누군가가 알고 보니 과거 씻을 수 없는 큰 죄를 저질렀다는 사실을 알게 된다면 과연 사람들은 어떻게 할까, 하는 묵직한 화두를 던지며 소년범죄 이후의 이야기를 그린 소설 『우죄』. 계속해서 소년범죄, 약자를 둘러싼 사회문제를 다루어온 일본의 대표적인 사회파 추리 소설 작가인 야쿠마루 가쿠는 이번 작품에서 당시 살인범들이 15~18세에 불과했던 여고생 콘크리트 살인사건에 영향을 받아 소년범죄, 그리고 소년범이 출소한 이후 사회에서 맺게 되는 관계와 이들을 바라보는 다양한 시선을 다루고 있다.  \n\n과거 자살한 친구의 죽음에 관한 비밀을 간직하고 있는 마스다는 언론인을 꿈꾸지만 좌절하고, 생계를 위해 기숙사가 있는 작은 스테인리스 가공 회사에 취직한다. 같은 날 입사한 동갑내기 스즈키와 기숙사 옆방을 쓰게 된 마스다는 사람을 피하고 어딘가 묘한 분위기를 풍기며 자신의 과거에 대해서도 이야기하기를 꺼리던 스즈키와 점차 우정을 키워간다. 그러던 어느 날, 한 사건을 계기로 마스다는 스즈키가 14년 전 일본을 뒤흔든 살인사건의 범인이 아닐까 의심을 품게 되는데……."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "달다 :현암사",
+                "DDC": "",
+                "UPDATE_DATE": "20190619",
+                "EA_ADD_CODE": "03830",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "지은이: 야쿠마루 가쿠 ;옮긴이: 김은모",
+                "SERIES_TITLE": "",
+                "KDC": "833.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "527 p.",
+                "CONTROL_NO": "CIP2019011413",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932319827",
+                "INPUT_DATE": "20190322",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "우죄",
+                "PUBLISH_PREDATE": "20190615",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

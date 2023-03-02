@@ -1,0 +1,67 @@
+{
+    "otitle": "벽 속의 아이들",
+    "oauthor": "원명희 글/김윤주 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "벽 속의 아이들",
+                "link": "https://search.shopping.naver.com/book/catalog/32494121814",
+                "image": "https://shopping-phinf.pstatic.net/main_3249412/32494121814.20221229072700.jpg",
+                "author": "원명희",
+                "discount": "7650",
+                "publisher": "바람의아이들",
+                "pubdate": "20150715",
+                "isbn": "9788994475592",
+                "description": "높새바람 시리즈 34권. 마음의 상처를 입고, 세상에 마음을 닫아 자신의 마음을 꽁꽁 숨겨버린 12살 소녀 난희. 매일같이 아무도 모르게 속마음을 털어놓던 ‘벽’, 상상조차 하지 못했던 그 벽 속의 세상에서 난희의 모험기가 펼쳐진다. 자신과 타인의 마음을 구하는 열쇠는 ‘진정한 소통’에 있다는 것을 이야기하며, 소통이란 다른 이에게 마음을 여는 것과 동시에 자기 자신을 사랑하는 일임을 이야기한다.\n\n\n\n자신을 표현하는 일에는 적극적인 삶의 에너지가 동반된다는 것을 고려해 볼 때, 이 작품은 어느 순간 자신의 삶에 지친 독자들을 격려하고 응원하는 따뜻한 메시지이기도 하다. 자신의 마음을 꽁꽁 숨기는 것에 익숙한 이라면 용기와 격려를 그렇지 않은 이들에게는 환상적인 판타지 세상 모험기로서의 재미를 줄 만하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "바람의 아이들",
+                "DDC": "",
+                "UPDATE_DATE": "20150724",
+                "EA_ADD_CODE": "74800",
+                "PUBLISHER_URL": "https://www.barambooks.net/",
+                "AUTHOR": "원명희",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788990878007",
+                "REAL_PUBLISH_DATE": "20150602",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4651864_3.jpg",
+                "PRE_PRICE": "8500",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4651864_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "9500",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015015947",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994475592",
+                "INPUT_DATE": "20150610",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "벽 속의 아이들",
+                "PUBLISH_PREDATE": "20150602",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "74800 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

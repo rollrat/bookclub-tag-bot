@@ -1,0 +1,67 @@
+{
+    "otitle": "소란한 감정에 대처하는 자세",
+    "oauthor": "조우관 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:04 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "소란한 감정에 대처하는 자세 (불안과 분노, 꼬인 관계로 속이 시끄러운 사람을 위한 심리 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32454878649",
+                "image": "https://shopping-phinf.pstatic.net/main_3245487/32454878649.20221229072552.jpg",
+                "author": "조우관",
+                "discount": "12150",
+                "publisher": "빌리버튼",
+                "pubdate": "20191007",
+                "isbn": "9791188545667",
+                "description": "속이 시끄러운 사람들을 위한 감정을 잠재우는 법 \n\n관계 속에서 마음을 다치는 일은 흔하다. 나이를 먹을수록 상처 받은 마음을 숨기는 데에 익숙해진다. 그럴수록 타인에게 감정을 표현하는 게 어려워지고, 감정을 혼자서 처리해야 한다는 강박에 사로잡힌다. 그러나 과거에 상처받은 기억과 우울, 불안, 분노와 같은 감정은 사라지지 않고 마음에 머문다. 해소되지 않는 감정의 잔여물은 팽창과 분열을 반복하며 소란스럽게 마음속을 돌아다닌다. \n이 책은 우울, 분노, 무기력, 불안, 질투, 자기혐오 자기연민 등 인정하기에도 주체하기도 어려운 감정의 민낯을 살펴보며, 감정을 관찰한다. 우리가 인지하지 못했던 감정의 진짜 모습을 깨닫게 하고, 스스로를 갉아먹는 감정에서 벗어나는 법을 제안한다. 감정에 지배당하는 삶을 살지 않기를 바라는 한 권의 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "빌리버튼",
+                "DDC": "",
+                "UPDATE_DATE": "20191014",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "조우관 지음",
+                "SERIES_TITLE": "",
+                "KDC": "181.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/09/04/9791188545667.jpg",
+                "PRE_PRICE": "13500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "240 p.",
+                "CONTROL_NO": "CIP2019035111",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188545667",
+                "INPUT_DATE": "20190904",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "소란한 감정에 대처하는 자세",
+                "PUBLISH_PREDATE": "20191007",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "그깟 떡볶이",
+    "oauthor": "김관훈 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:05:19 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "그깟 떡볶이 (성공하는 사람은 좋아하는 것에서 가치를 찾아낸다)",
+                "link": "https://search.shopping.naver.com/book/catalog/33474825618",
+                "image": "https://shopping-phinf.pstatic.net/main_3347482/33474825618.20221019110554.jpg",
+                "author": "김관훈",
+                "discount": "15300",
+                "publisher": "21세기북스",
+                "pubdate": "20220713",
+                "isbn": "9788950911447",
+                "description": "“나는 지금 ‘그깟 떡볶이’ 하나로 새로운 인생을 살고 있다!”\n〈유 퀴즈 온 더 블럭〉 떡볶이 KING \n‘두끼’ 김관훈 대표의 유쾌한 덕업일치 실천법\n\nTV 프로그램 〈유 퀴즈 온 더 블럭〉에서 떡볶이 킹으로 소개된 주인공이자, 맨손으로 연 매출 2,000억을 달성한 글로벌 즉석떡볶이 프랜차이즈 ‘두끼’를 창업한 김관훈 대표가 남들이 하찮게 여기는 떡볶이를 업으로 삼아 성공한 방법을 이야기한다. \n『그깟 떡볶이』는 저자가 어떻게 좋아하는 것을 찾고 업으로 삼을 수 있었는지와, 그것으로 성공하기까지 겪은 어려움과 극복 과정을 담았다. 이 책에서는 성공하고 싶다면 먼저 ‘무엇을 해야 내가 행복하고 열정을 느낄 수 있을 것인가’를 생각하라고 말한다. 또한 목표를 정한 후 지금 당장 할 수 있는 일부터 하나씩 실행하며 작은 성취부터 이루어 가라고 이야기한다. 이런 작은 성공 경험이 결국 큰 성공으로 이어진다는 것이다. 김관훈 대표의 실제 경험을 바탕으로 한 생생한 인사이트는 좋아하는 것으로 성공하고 싶은 많은 이들에게 확실한 성공의 비밀을 알려줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20220822",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "김관훈 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "132*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "234 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950911447",
+                "INPUT_DATE": "20220627",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "그깟 떡볶이",
+                "PUBLISH_PREDATE": "20220713",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

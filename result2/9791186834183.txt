@@ -1,0 +1,67 @@
+{
+    "otitle": "하루 1분 추리게임",
+    "oauthor": "YM 기획 편/전건우 감수",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:41 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "하루 1분 추리 게임 (흥미진진한 추리문제들로 창의력은 물론 두뇌트레이닝까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494079142",
+                "image": "https://shopping-phinf.pstatic.net/main_3249407/32494079142.20230110165016.jpg",
+                "author": "YM기획",
+                "discount": "11520",
+                "publisher": "베프북스",
+                "pubdate": "20160624",
+                "isbn": "9791186834183",
+                "description": "하루 1분, 추리놀이로 두뇌에 짜릿한 자극을!\n\n우리는 하루에도 몇 번씩 의식적으로, 혹은 무의식적으로 추리를 한다. 상사의 눈치를 살피는 것도, 남편이나 아내의 심기를 헤아리는 것도 추리의 일부다. 그러니 추리라고 해서 거창하게 생각할 필요가 없다. 아이큐가 높지 않아도, 나이가 많아도, 적어도 상관없다. 『지친 뇌에 활력과 자극을 주는 하루 1분 추리게임』은 하루 1분이라는 짧은 시간을 투자해 재미있는 추리놀이로 창의력과 두뇌 트레이닝을 도와준다. 단계별로 이어진 추리게임을 즐기다보면 누구든 명탐정이 되어 있을 것이다. \n\n책에는 범인을 찾는 추리문제부터 논리력을 높여주는 추론문제, 생각의 전환을 가져오는 창의력문제 등 뇌에 짜릿한 자극을 주는 흥미진진한 문제들이 수록되어 있다. 또한 1Week부터 52Week까지 매주 3문제씩 풀 수 있도록 구성했고, 미스터리 소설가 전건우의 추리 팁부터 추리마니아를 위한 ‘추리 여행지 추천’, ‘추리 소설 추천’ 등 다양한 팁을 담았다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "베프북스",
+                "DDC": "153.43",
+                "UPDATE_DATE": "20161031",
+                "EA_ADD_CODE": "14320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "YM기획",
+                "SERIES_TITLE": "",
+                "KDC": "181.36",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5509441_6.txt",
+                "SET_ISBN": "9791186834190",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5509441_3.jpg",
+                "PRE_PRICE": "12800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "264",
+                "CONTROL_NO": "CIP2016014221",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186834183",
+                "INPUT_DATE": "20160608",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "하루 1분 추리게임",
+                "PUBLISH_PREDATE": "20160624",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14320 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

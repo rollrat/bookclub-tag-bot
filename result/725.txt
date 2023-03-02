@@ -1,0 +1,23 @@
+{
+    "otitle": "가족이 있습니다",
+    "oauthor": "김유 글/조원희 그림",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가족이 있습니다",
+                "link": "https://search.shopping.naver.com/book/catalog/32490695690",
+                "image": "https://shopping-phinf.pstatic.net/main_3249069/32490695690.20221019124046.jpg",
+                "author": "김유",
+                "discount": "14400",
+                "publisher": "뜨인돌출판사",
+                "pubdate": "20201215",
+                "isbn": "9788958077862",
+                "description": "개는 기차에 올랐습니다.\n동쪽 바다로 가는 막차였습니다.\n함께 밥을 먹고, 산책을 하고, 이야기를 나누던\n하나밖에 없는 가족, 선장 할아버지를 만나러 가기 위해서지요."
+            }
+        ]
+    }
+}

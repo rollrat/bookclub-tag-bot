@@ -1,0 +1,67 @@
+{
+    "otitle": "샘플로 쉽게 배우는 무역 실무영어 첫걸음",
+    "oauthor": "오시학 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:16:55 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "샘플로 쉽게 배우는 무역 실무영어 첫걸음 (현장에서 바로 써먹는 무역영어 매뉴얼 | 인코텀즈 2020 해설 수록)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466929588",
+                "image": "https://shopping-phinf.pstatic.net/main_3246692/32466929588.20221019131331.jpg",
+                "author": "오시학",
+                "discount": "16200",
+                "publisher": "중앙경제평론사",
+                "pubdate": "20210622",
+                "isbn": "9788960542723",
+                "description": "* 현장에서 바로 써먹는 무역영어 매뉴얼!\n* 수출입 단계별로 반드시 알아야 할 무역영어 지침서!\n* ‘인코텀즈 2020’ 해설 수록!\n\n저자 오시학 경영학 박사는 40여 년간 여러 대학과 기업체, 연구원, 기관 등에서 무역영어를 강의하고 무역 관련 시험 출제위원을 지낸 최고의 무역전문가이다. 이 책은 수출입 단계별로 반드시 필요한 무역영어 샘플을 보여주고 상세히 해설하고 있다. 그러므로 무역을 하는 사람에게는 꼭 필요한 매뉴얼이라고 할 것이다. \n특히 초보자도 가능한 무역영어, 거래 개설에 관한 무역통신문, 매매계약에 관한 무역통신문, 신용장·선적·보험에 관한 무역통신문, 대금 결제·클레임·기타 무역 관련 통신문 등 현장에서 반드시 필요한 실무정보를 빠짐없이 다루었다. 또한 ‘인코텀즈 2020’을 알기 쉽게 해설하여 수록했으며, 자주 쓰는 무역 용어도 실었다. 따라서 무역 초보자는 물론 무역 현장 실무자들의 필독서로 자리매김할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "중앙경제평론사",
+                "DDC": "",
+                "UPDATE_DATE": "20210730",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.japub.co.kr",
+                "AUTHOR": "오시학 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/05/28/9788960542723.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "395 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788960542723",
+                "INPUT_DATE": "20210528",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(샘플로 쉽게 배우는) 무역 실무영어 첫걸음",
+                "PUBLISH_PREDATE": "20210622",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

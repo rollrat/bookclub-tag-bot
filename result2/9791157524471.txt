@@ -1,0 +1,67 @@
+{
+    "otitle": "GRAMMAR 절대 매뉴얼 입문편",
+    "oauthor": "유원호 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:45 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "Grammar 절대 매뉴얼(입문편) (회화에 꼭 필요한 기초 영문법)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482815594",
+                "image": "https://shopping-phinf.pstatic.net/main_3248281/32482815594.20230207163233.jpg",
+                "author": "유원호",
+                "discount": "10370",
+                "publisher": "넥서스",
+                "pubdate": "20150725",
+                "isbn": "9791157524471",
+                "description": "『Grammar 절대 매뉴얼: 입문편』은 회화에 필요한 기초 영문법을 알려 준다. 기초부터 품사와 품사 외의 모든 영문법까지 영어 초보자들에게 유용하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주식회사)넥서스",
+                "DDC": "425",
+                "UPDATE_DATE": "20150731",
+                "EA_ADD_CODE": "13740",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "유원호",
+                "SERIES_TITLE": "",
+                "KDC": "745",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4711225_3.jpg",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4711225_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015018282",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157524471",
+                "INPUT_DATE": "20150703",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "7",
+                "BIB_YN": "Y",
+                "TITLE": "Grammar 절대 매뉴얼 입문편",
+                "PUBLISH_PREDATE": "20150725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

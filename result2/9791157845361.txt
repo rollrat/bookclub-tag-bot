@@ -1,0 +1,67 @@
+{
+    "otitle": "유튜브 마케팅 인사이트",
+    "oauthor": "서양수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:08 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "유튜브 마케팅 인사이트 (수백억 광고비를 써서 알아낸)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436246084",
+                "image": "https://shopping-phinf.pstatic.net/main_3243624/32436246084.20221019152047.jpg",
+                "author": "서양수",
+                "discount": "14850",
+                "publisher": "한빛비즈",
+                "pubdate": "20210903",
+                "isbn": "9791157845361",
+                "description": "K-유튜브 마케팅 노하우와 인사이트! \n\n유튜브 중요한 거\n모르는 사람도 있나요?\n\n요즘은 그야말로 유튜브 퍼스트 시대다. 맛집 검색, 구매 전 제품 검색, 그 외 온갖 궁금한 내용도 다 유튜브로 검색하고, 음악을 들을 때도, 예능을 볼 때도 유튜브를 이용한다. 이제는 아무리 유행에 느린 우리 회사 대표님도 유튜브가 중요한 플랫폼이라는 사실을 인지할 정도다.\n꽃이 피는 곳에 꿀벌이 모이고, 재미있는 영상에 좋아요와 구독이 모이듯이 많은 고객들이 몰리는 곳에 마케터가 관심을 가지는 것은 당연한 것! 유튜브의 중요성은 말해봤자 입만 아플 뿐이고, 마케터라면 더 이상 유튜브라는 플랫폼을 무시할 수 없다. 이제는 정말 죽이 되든 밥이 되든 유튜브로 뭔가 액션을 보여줘야 할 때가 된 것이다.\n\n모르고 뛰어들면 손해 보는 \n유튜브 마케팅 실전 기술과 인사이트!\n\n하지만 유튜브의 뜨거운 위상에 비해 참고할 만한 지식과 정보는 초라하기 그지없다. 마땅히 따라 할 국내 성공사례도 잘 공유되어 있지 않고, 그나마 참고할 책들도 국내에 적용하기는 어려운 외서나 광고 제작 방법을 기술적으로 설명한 매뉴얼 책들이 전부다. \n이런 현실에 좌절하고 있을 마케터들을 위해 유튜브 마케팅 최전방에 있는 13년 차 실무자가 나섰다. 《유튜브 마케팅 인사이트》에서는 기업 유튜브 광고를 담당하는 저자가 겪은 다양한 국내외 사례들을 소개하고, 깨지고 넘어지며 깨우친 자신만의 실전 노하우를 알려준다.  \n이 책을 읽고 나면 분명 당신도 광고 매체로서 유튜브를 활용할 수 있는 안목과 지식을 쌓고, 업무에 적용 가능한 인사이트를 얻을 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "한빛비즈",
+                "DDC": "",
+                "UPDATE_DATE": "20211026",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "http://www.hanbitbiz.com",
+                "AUTHOR": "서양수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "280 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157845361",
+                "INPUT_DATE": "20210818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(수백억 원 광고비를 써서 알아낸) 유튜브 마케팅 인사이트",
+                "PUBLISH_PREDATE": "20210903",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

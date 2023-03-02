@@ -1,0 +1,67 @@
+{
+    "otitle": "가족을 주문해 드립니다",
+    "oauthor": "한영미 글/김다정 그림 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가족을 주문해 드립니다 (2013 아르코 문학창작기금 수상작)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466688062",
+                "image": "https://shopping-phinf.pstatic.net/main_3246668/32466688062.20221019123333.jpg",
+                "author": "한영미",
+                "discount": "9900",
+                "publisher": "살림어린이",
+                "pubdate": "20190327",
+                "isbn": "9788952228239",
+                "description": "입시 경쟁에서 벗어나 가족의 진정한 의미를 발견하다!\n\n『가족을 주문해 드립니다』는 공부가 전부라고 말하는 사회 속에서 살아가야 하는 아이들의 울부짖음을 고스란히 담아낸 책입니다. 주인공 미아는 서랍 안에서 엄마와 이름이 다른 도우미 급여명세서를 발견한 후 엄마의 존재를 의심합니다. 아이의 미래에 개입하여 부모 자신의 불안을 사교육으로 잠재우려는 욕심은 끝내 아이의 자아를 위협하는 일임을 강조하여 알려줍니다.\n\n영재교육원 시험을 준비하는 미아는 스트레스가 심합니다. 엄마는 눈만 마주치면 공부하라 잔소리하고 성적이 조금만 떨어졌다 하면 과외 선생님을 바꿉니다. 아빠는 미아의 공부를 위해 돈을 더 벌어야 한다며 주말에도 출근하고, 공부에 방해된다며 집안의 텔레비전을 치워 버립니다. 어느 날, 엄마의 서랍 안에서 모르는 이름이 적힌 도우미 급여명세서를 발견한 미아는 가족들이 진짜 가족이 아닐지도 모른다고 의심하는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "73810",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "한영미 글, 김다정 그림",
+                "SERIES_TITLE": "",
+                "KDC": "813.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3230985_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20140124",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3230985_3.jpg",
+                "PRE_PRICE": "9500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "11000",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014000618",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952228239",
+                "INPUT_DATE": "20140106",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "가족을 주문해 드립니다!",
+                "PUBLISH_PREDATE": "20140124",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

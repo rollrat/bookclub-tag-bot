@@ -1,0 +1,78 @@
+{
+    "otitle": "자연스러움의 기술",
+    "oauthor": "김윤나 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:26:52 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "자연스러움의 기술 (이제 당신의 삶을 살아도 괜찮습니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32455952637",
+                "image": "https://shopping-phinf.pstatic.net/main_3245595/32455952637.20220527022911.jpg",
+                "author": "김윤나",
+                "discount": "0",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20190105",
+                "isbn": "9791189432362",
+                "description": "나 자신으로 살기 위해 필요한 최소한의 삶의 기술\n\n《말그릇》의 저자 김윤나가 타인이 아닌, 자기 자신으로 살아가는데 도움을 주는 5가지 자연스러움의 기술을 소개하는 『자연스러움의 기술』. 수많은 사람에게 진짜 나의 삶을 찾아준 코칭심리전문가인 저자는 매순간 더 괜찮은 사람이 되려고 노력하고, 때로는 완전히 다른 새로운 나를 꿈꾸기도 하지만 본질적으로 바뀌는 것이 쉬운 일은 아니라고 이야기하며 나로서 생각하고, 느끼고, 존재하는 삶을 위해 필요한 기술을 소개한다. 가치Value, 신념Belief, 욕구Needs, 감정Emotion, 강점Strength. 저자가 이야기하는 5가지 기술이 나를 이해하고, 삶의 방향을 새롭게 정할 수 있도록 도와줄 것이다."
+            },
+            {
+                "title": "진짜 나를 만나는 라이팅북 (자연스러움의 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32494109049",
+                "image": "https://shopping-phinf.pstatic.net/main_3249410/32494109049.20220527031410.jpg",
+                "author": "김윤나",
+                "discount": "0",
+                "publisher": "넥서스BOOKS",
+                "pubdate": "20190205",
+                "isbn": "9791189432379",
+                "description": "매일 조금씩 자연스러워지는 나를 기록하면,\n1년 후에는 무엇을 발견할 수 있을까요?\n\n『자연스러움의 기술』에서 가치Value, 신념Belief, 욕구Needs, 감정Emotion, 강점Strength이라는 5가지 자연스러움의 기술을 소개했습니다. 이의 연장선상에서 『자연스러움의 기술_진짜 나를 만나는 라이팅북』은 ‘나’로 살기 위한 그 최소한의 삶의 기술을 아는 데 그치지 않고, 삶에 적용하고 기록할 수 있게 합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "넥서스books :GCC ",
+                "DDC": "650.1",
+                "UPDATE_DATE": "20190312",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김윤나 지음",
+                "SERIES_TITLE": "",
+                "KDC": "325.211",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7092413_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7092413_3.jpg",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7092413_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*200",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "CIP2019000081",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189432362",
+                "INPUT_DATE": "20181231",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "자연스러움의 기술",
+                "PUBLISH_PREDATE": "20190105",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

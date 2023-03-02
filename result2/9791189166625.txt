@@ -1,0 +1,67 @@
+{
+    "otitle": "알함브라 궁전의 추억 1",
+    "oauthor": "송재정 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "알함브라 궁전의 추억 1 (송재정 대본집)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485529825",
+                "image": "https://shopping-phinf.pstatic.net/main_3248552/32485529825.20230207165509.jpg",
+                "author": "송재정",
+                "discount": "15300",
+                "publisher": "북로그컴퍼니",
+                "pubdate": "20190121",
+                "isbn": "9791189166625",
+                "description": "새로운 종류의 몰입감을 선사한 드라마 《알함브라 궁전의 추억》 무삭제 작가판 대본집!\n\n“마침내 오늘 마법이 시작됐다!”\n현실과 AR 게임을 넘나드는 마법 같은 이야기!\n\n투자회사 대표 진우는 스페인 출장 중 프로그래머 세주가 만든 AR 게임을 마주하고 흥분에 휩싸인다. 그러나 마법과도 같은 어마어마한 가치의 게임 개발권을 따내기 위해 그라나다로 향한 사람은 진우만이 아니었으니…. 20년지기였다가 이제는 원수가 되어버린 형석이 경쟁에 뛰어든 것을 알게 된 진우는 세주의 누나 희주에게 100억을 안겨주며 계약을 따내고 그날 밤, AR 게임에서도 형석을 물리친 뒤 기세등등 그라나다를 떠난다. \n그러나 다음 날, 형석이 시체로 발견되면서 진우는 기묘한 AR 게임의 마법에 휘말리게 되고, 운명처럼 재회한 희주는 진우를 향한 사랑을 키워가게 되는데…."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로그컴퍼니",
+                "DDC": "895.725",
+                "UPDATE_DATE": "20190131",
+                "EA_ADD_CODE": "04810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 송재정",
+                "SERIES_TITLE": "알함브라 궁전의 추억 대본집",
+                "KDC": "812.68",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7095191_6.txt",
+                "SET_ISBN": "9791189166618",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7095191_3.jpg",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "422 p.",
+                "CONTROL_NO": "CIP2019000226",
+                "SERIES_NO": "1",
+                "EA_ISBN": "9791189166625",
+                "INPUT_DATE": "20190102",
+                "SET_EXPRESSION": "",
+                "VOL": "1",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "알함브라 궁전의 추억",
+                "PUBLISH_PREDATE": "20190121",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "04810 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

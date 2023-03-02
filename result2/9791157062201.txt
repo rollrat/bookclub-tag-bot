@@ -1,0 +1,67 @@
+{
+    "otitle": "인간 공자, 난세를 살다",
+    "oauthor": "리숴 저/박희선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:56 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "인간 공자, 난세를 살다 (실패했지만 위대한 정치가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439290565",
+                "image": "https://shopping-phinf.pstatic.net/main_3243929/32439290565.20221227202955.jpg",
+                "author": "리숴",
+                "discount": "28800",
+                "publisher": "메디치미디어",
+                "pubdate": "20201216",
+                "isbn": "9791157062201",
+                "description": "『인간 공자, 난세를 살다』는 춘추 시대라는 난세에 열국을 주유한 공자의 부침 많은 일생과 인간적인 모습, 그를 둘러싼 미스터리들까지 촘촘하게 집대성해낸 최종판 전기이다. 또한 기존의 수많은 공자 전기들과 달리 마치 한 편의 다큐멘터리처럼 춘추 시대의 사회와 정치 제도 등을 심도 있게 복원하여 고대인의 생활상을 이해할 수 있게 해준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치 :메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20210203",
+                "EA_ADD_CODE": "03990",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "리숴 지음 ;박희선 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "152.212",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/02/9791157062201.jpg",
+                "PRE_PRICE": "32000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "156*227",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "671 p.",
+                "CONTROL_NO": "CIP2020051277",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157062201",
+                "INPUT_DATE": "20201202",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "인간 공자, 난세를 살다",
+                "PUBLISH_PREDATE": "20201216",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

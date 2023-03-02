@@ -1,0 +1,67 @@
+{
+    "otitle": "카이스트 학생들이 꼽은 최고의 SF",
+    "oauthor": "고기영,고은경,장규선,전선영,표재찬,한지혜 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:39 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "카이스트 학생들이 꼽은 최고의 SF (과학 하는 틈틈이 즐기는 상상력 파라다이스)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441601935",
+                "image": "https://shopping-phinf.pstatic.net/main_3244160/32441601935.20221228073413.jpg",
+                "author": "고기영^고은경^장규선^전선영^표재찬",
+                "discount": "11700",
+                "publisher": "살림",
+                "pubdate": "20171205",
+                "isbn": "9788952238139",
+                "description": "우리나라 최고의 과학도들이 자신있게 추천하는 '인생작'\n\nSF는 과학적 내용과 상상력이 어우러진 픽션 장르이다. 그래서 많은 작품들이 미래를 시대적 배경으로 삼고 있으며 공간적 배경 또한 우주나 심해처럼 인류의 손길이 닿지 않는 장소로 확장되어 있다. 하지만 5만 년 후든 공룡 시대든, 외계 행성이든 개미 굴속이든 어떤 배경에서 이야기가 펼쳐지더라도 결국 SF가 그려내고자 하는 것은 인간 사회의 자화상이다. 그렇기 때문에 과학의 최전선에 서 있는 카이스트 학생들에게는 SF가 ‘즐길’ 거리이자 ‘배울’ 거리이며 동시에 ‘숙제’ 거리이기도 하다. 그들은 어떻게 하면 과학의 발전과 더 나은 세상을 만드는 일이 조화를 이룰 수 있을지 항상 고민하기 때문이다. \n\n『카이스트 학생들이 꼽은 최고의 SF』를 들여다보자. 어떤 학생은 영화 〈매드 맥스〉의 먼지 풀풀 나는 처절한 추격전을 즐기면서 환경오염의 심각성을 떠올렸고, 지구에 불시착한 외계인들을 격리하면서 벌어지는 사건을 그린 영화 〈디스트릭트 9〉과 돌연변이와 인간의 대립을 그린 〈엑스맨〉을 최고의 SF로 꼽은 학생들은 각각 사회적 약자에 대한 차별과 진정한 평등에 대하여 이야기하며 독자들의 경각심을 일깨워 주었다. 영화 〈인셉션〉에서는 주인공이 상대방의 꿈에 침투하여 잘못된 생각을 주입하는데, 이를 통해 우리 사회에서 벌어지고 있는 언론 조작과 사고의 획일성을 지적하면서 지금까지 가치판단을 할 때 자주적이지 못했던 자신을 반성하기도 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림friends :살림출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20171214",
+                "EA_ADD_CODE": "43400",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "고기영,고은경,장규선,전선영,표재찬,한지혜 외 카이스트 학생들 지음",
+                "SERIES_TITLE": "",
+                "KDC": "404",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6425713_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6425713_3.jpg",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6425713_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "327 p.",
+                "CONTROL_NO": "CIP2017029699",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952238139",
+                "INPUT_DATE": "20171109",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "카이스트 학생들이 꼽은 최고의 SF",
+                "PUBLISH_PREDATE": "20171205",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

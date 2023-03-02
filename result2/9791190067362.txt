@@ -1,0 +1,67 @@
+{
+    "otitle": "책, 읽지 말고 써라 (Don't read, Do write)",
+    "oauthor": "백작가(이승용) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "책, 읽지 말고 써라 (Don’t read, Do write) (왜, 책을 읽으라고는 하면서 쓰라고는 하지 않을까)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466978077",
+                "image": "https://shopping-phinf.pstatic.net/main_3246697/32466978077.20221230074715.jpg",
+                "author": "백작가",
+                "discount": "14400",
+                "publisher": "치읓",
+                "pubdate": "20210120",
+                "isbn": "9791190067362",
+                "description": "“왜 읽으라고는 하면서 쓰라고는 하지 않을까?”\n\n2020년, 세계를 뒤흔드는 바이러스로 우리는 경제적, 문화적 새로운 국면을 맞았다. 이제는 어떤 것도 확실하다거나 안전하다고 말할 수 없다. 세상은 시시각각 급변하고 있다. 그 어느 때보다도 나 자신의 가치와 브랜드가 필요한 상황이다.\n\n이미지와 영상 콘텐츠에 열광하는 시대에 책을 쓴다는 것을 구시대적 발상으로 생각할 수도 있다. 그러나 책의 역사는 가장 오랜 시간, 끊어지지 않고 있다. 모든 역사의 기록은 책으로 남았다. 만화에도 글이 있고, 영상에서는 말을 한다. 그리고 우리는 ‘제목’이라고 부르는 글을 읽고 콘텐츠를 선택한다. 결국 말과 글, 책은 인류와 가장 밀접한, 떼려야 뗄 수 없는 핵심 문화다.\n\n‘책’과 ‘작가’에 대한 인식부터 바뀌어야 한다. 책은 단순히 인쇄하고 판매하는 제품이 아니다. 또한 특별한 사람만이 쓸 수 있는 것도 아니다. 이 책에서는 책을 낸다는 ‘사실’을 넘어, 쓰는 과정에서 얻는 것이 더 크다는 ‘진실’을 전하고 있다.\n\n책을 쓰는 과정에서 '작가'라는 이름을 가지게 되면서 얻게 되는 용기와 확신, 의식적 성장은 책의 힘을 더욱더 강력하게 만든다. 그리고 그런 책이야말로, 그 책을 쓴 작가야말로 독자에게 사랑받는 베스트셀러, 이를 넘어서 스테디셀러 작가가 될 수 있다. 기술적이고 형식적인 책 쓰기가 아닌, 진짜 자기 자신을 솔직하게 드러내고, 경험 속 숨어있던 가치를 아낌없이 나누는 것으로 당신과 세상이 함께 성장할 수 있는 책 쓰기를 경험해보자. 이 책을 만난 당신은 이미 작가다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "책인사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "저자 : 백작가",
+                "SERIES_TITLE": "",
+                "KDC": "802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/12/09/9791190067362.jpg",
+                "PRE_PRICE": "16,000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "145*216",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "292",
+                "CONTROL_NO": "CIP2020052344",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190067362",
+                "INPUT_DATE": "20201209",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "N",
+                "TITLE": "책, 읽지 말고 써라(Don&#039t read, Do write)",
+                "PUBLISH_PREDATE": "20210120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

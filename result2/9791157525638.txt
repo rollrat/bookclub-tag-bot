@@ -1,0 +1,78 @@
+{
+    "otitle": "손글씨 나혼자 조금씩",
+    "oauthor": "정혜윤 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:18:13 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "손글씨 나혼자 조금씩 (따라 쓰기 좋은 문장 캘리그라피 라이팅북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490769657",
+                "image": "https://shopping-phinf.pstatic.net/main_3249076/32490769657.20220527043357.jpg",
+                "author": "정혜윤",
+                "discount": "10800",
+                "publisher": "큐리어스(Qrious)",
+                "pubdate": "20151030",
+                "isbn": "9791157525638",
+                "description": "좋은 문장으로 배우는 손글씨!\n\n『손글씨 나혼자 조금씩』은 연필, 색연필, 플러스펜, 만년필처럼 늘 쓰던 필기구로 예쁜 손글씨 쓰는 법을 소개하는 책이다. 책은 문학 속 명문장, 영화 명대사, 예쁜 노랫말을 따라 쓰며 배울 수 있도록 구성했다. 책 속 가이드에 따라 66가지 손글씨체를 조금씩 써보자. 연필, 색연필, 플러스펜 등 손에 익숙한 필기구로 시작해 캘리그라피 강의에서 인기 도구인 지그펜, 구레타케 붓펜으로까지 쓰는 방법이 담겨있다.\n\n선 긋기와 같은 기초적인 것 말고 문학 속 명문장, 영화 명대사 등 소설과 에세이, 영화에서 뽑은 좋을 글귀로 배운다. 또한 글귀 구도 잡기, 평범한 필기구로 색다른 효과내기, 글자를 그림으로 표현하기 등 손글씨를 쓸 때 유용한 팁들도 담겨있다. 또한 책에 실린 예시 손글씨체를 그대로 써볼 수 있는 따라 쓰기 워쿠북으로 실용적인 연습이 가능하다."
+            },
+            {
+                "title": "손글씨 나혼자 조금씩 (특별판) (따라 쓰기 좋은 문장 캘리그라피 라이팅북)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490257632",
+                "image": "https://shopping-phinf.pstatic.net/main_3249025/32490257632.20221230072516.jpg",
+                "author": "정혜윤",
+                "discount": "13500",
+                "publisher": "큐리어스(Qrious)",
+                "pubdate": "20180210",
+                "isbn": "9791161652740",
+                "description": "따라 쓰고 싶은 손글씨체 66가지를 배우는 캘리그라피 책. 소설이나 에세이, 영화, 노랫말 등에서 뽑은 좋은 글귀를 쓰며 배우는 것이 특징이다. 실제 일상에서 유용하게 활용할 수 있는 다양한 글씨체를 손에 익숙한 연필, 색연필 등의 필기구로 따라 써볼 수 있다. 이 책은 &lt;손글씨 나혼자 조금씩&gt;의 특별판으로 판형을 크게 제작하여 보기 쉽고 따라 쓰기 편하다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Qrious(큐리어스)",
+                "DDC": "",
+                "UPDATE_DATE": "20160112",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.nexusbook.com",
+                "AUTHOR": "정혜윤 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "12000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791157525638",
+                "INPUT_DATE": "20160112",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "손글씨 나혼자 조금씩",
+                "PUBLISH_PREDATE": "20151025",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

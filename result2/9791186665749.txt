@@ -1,0 +1,67 @@
+{
+    "otitle": "히든 솔루션",
+    "oauthor": "다니엘 R. 카스트로 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:34:30 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "히든 솔루션 (어떻게 숨은 기회를 발견할 것인가)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492707637",
+                "image": "https://shopping-phinf.pstatic.net/main_3249270/32492707637.20220527023743.jpg",
+                "author": "다니엘 R.카스트로",
+                "discount": "14400",
+                "publisher": "유노북스",
+                "pubdate": "20171117",
+                "isbn": "9791186665749",
+                "description": "숨은 기회를 발견하기 위해 '두뇌의 눈'을 깨워라!\n\n어떤 사람들은 보지 못하는 기회를 어떤 사람들은 보고 답을 찾고, 목적을 이루고 성공한다. 그 이유는 무엇일까? 답은 바로 ‘두뇌의 눈’에 있다. 저자 다니엘 R. 카스트로는 동서고금을 막론하고 명성을 떨친 사람들의 삶과 인간의 두뇌 진화에 관해 오랫동안 연구했다. 그 결과 어떤 목적을 이루거나 성공한 사람들은 ‘두뇌의 눈’을 떴다고 말한다. 두뇌의 눈이란, 최적의 결과를 낼 선택을 할 수 있는 차별화된 관점이다. \n\n모든 문제에는 이미 수많은 답이 존재한다. 그 선택지에서 인생을 바꿀 결과가 나올 선택을 해야 한다. 다르게 생각하는 사람, 다르게 행동하는 사람, 결국 남들과는 다른 결과를 내는 사람들의 공통점은 관점과 선택이 특별하다. 그 방법을 『히든 솔루션』에서 알려 준다. 두뇌의 눈 6가지, 두뇌의 눈을 뜨는 법 17가지, 기회를 보는 능력 8가지로 이루어졌고 각 장마다 히든 솔루션을 정리했다. 수많은 과학적, 역사적 실례들을 제시해 ‘나도 해야 한다’는 부담보다 ‘나도 할 수 있다’는 용기를 얻을 수 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "유노북스",
+                "DDC": "153.35",
+                "UPDATE_DATE": "20171121",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "다니엘 R. 카스트로 지음 ;이영래 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "181.53",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6411045_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6411045_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6411045_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "399 p.",
+                "CONTROL_NO": "CIP2017028378",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186665749",
+                "INPUT_DATE": "20171030",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "히든 솔루션",
+                "PUBLISH_PREDATE": "20171117",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

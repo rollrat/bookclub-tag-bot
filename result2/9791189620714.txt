@@ -1,0 +1,67 @@
+{
+    "otitle": "어쩌다 보니 재즈를 듣게 되었습니다",
+    "oauthor": "이강휘 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "어쩌다 보니 재즈를 듣게 되었습니다 (인문쟁이의 재즈 수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32441498730",
+                "image": "https://shopping-phinf.pstatic.net/main_3244149/32441498730.20221228072209.jpg",
+                "author": "이강휘",
+                "discount": "12600",
+                "publisher": "42미디어콘텐츠",
+                "pubdate": "20200511",
+                "isbn": "9791189620714",
+                "description": "어쩌다 보니 재즈를 듣게 된 \n뼛속들이 ‘인문쟁이’의 재즈 수업\n\n‘그냥 재즈를 좋아해서’ 학생들과 재즈를 수업하는 선생님이 음악과 뮤지션 이야기를 담은 에세이 《어쩌다 보니 재즈를 듣게 되었습니다》를 펴냈다.\n\n책에서는 재즈의 역사를 만들어 간 뮤지션들과 그들의 명곡을 소개한다. 재즈의 변천사와 궤적을 같이하는 거장 마일스 데이비스부터 특유의 매력으로 감성을 자극하는 쳇 베이커까지, 내로라하는 재즈 뮤지션들을 돌아보며 대표 추천곡과 앨범을 알아본다. \n\n재즈 초심자도 더욱 쉽게 이해할 수 있도록, 각자의 개성이 묻어나는 연주 스타일과 인생 이야기도 더했다. 재즈의 탄생과 변화의 기반이 된 문화적, 역사적 배경도 함께 살펴본다. 중간중간 삽입되어 있는 큐알코드로 해당 뮤지션의 음악과 퍼포먼스를 바로바로 즐기는 것도 감상 포인트다.\n\n이제 ‘인문쟁이’의 시선과 함께 재즈를 더욱 재미있게 읽어내 보자. 이 책이 ‘재즈’ 하면 ‘느릿하고 끈적한 색소폰 연주’밖에 떠오르지 않는 ‘재즈알못’부터 새로운 장르에 목마른 감상자까지 많은 이들에게 반복되는 일상에 반갑게 찾아오는 선물이 되기를 기대한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "42 Media Contents(42미디어콘텐츠)",
+                "DDC": "",
+                "UPDATE_DATE": "20200526",
+                "EA_ADD_CODE": "03670",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 이강휘",
+                "SERIES_TITLE": "",
+                "KDC": "673.53",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "207 p.",
+                "CONTROL_NO": "CIP2020016646",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791189620714",
+                "INPUT_DATE": "20200422",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "어쩌다 보니 재즈를 듣게 되었습니다",
+                "PUBLISH_PREDATE": "20200511",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

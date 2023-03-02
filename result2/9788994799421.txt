@@ -1,0 +1,78 @@
+{
+    "otitle": "시골 엄마밥",
+    "oauthor": "배명자 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:19:20 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "시골 엄마밥 (참 쉽고, 맛있고, 건강한)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466550832",
+                "image": "https://shopping-phinf.pstatic.net/main_3246655/32466550832.20220527022942.jpg",
+                "author": "배명자",
+                "discount": "0",
+                "publisher": "상상출판",
+                "pubdate": "20130527",
+                "isbn": "9788994799421",
+                "description": "시골 엄마가 차려주는 따뜻한 밥상!\n\n먹으면 힘이 나는 시골 엄마밥 레시피 『시골 엄마밥』. 객지에서 고생하는 자식들을 생각하면서 제철 식재료와 천연 양념으로 차린 소박하고 정갈한 밥상을 소개한다. 대구 팔공산 자락에서 아들과 함께 장을 담그고 텃밭에서 키운 채소로 약이 되는 밥상을 차리는 저자가, 갖은 양념을 넣지 않아 간단하고 건강하고 맛있는 음식들을 제안한다. 소박한 재료로 만드는 먹거리부터 엄마의 엄마가 만들어 먹던 귀한 레시피까지 다양하게 수록했다.\n\n봄, 여름, 가을, 겨울로 나누어 제철 재료와 계절마다 챙겨 먹으면 좋은 206가지의 건강 음식. 봄에는 쑥, 달래, 냉이 같은 봄나물이, 여름에는 콩국수나 초계탕 같은 보양식이 밥상의 주인공 자리를 차지한다. 가을에는 햇곡식과 햇과일 요리, 김장김치가 입맛을 돋우고, 겨울에는 싱싱한 해산물과 저장식 요리가 있다. 각종 장과 매실청 담그는 법, 나물 요리 쉽게 하는 비법 등을 함께 소개하고, 계량스푼 계량법으로 엄마의 손맛을 정확하게 익힐 수 있도록 돕는다."
+            },
+            {
+                "title": "도시맘의 시골밥상 (태아부터 초등학생까지 엄마밥 먹이기 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438302923",
+                "image": "https://shopping-phinf.pstatic.net/main_3243830/32438302923.20221019133031.jpg",
+                "author": "이미경",
+                "discount": "14400",
+                "publisher": "랜덤하우스코리아",
+                "pubdate": "20080324",
+                "isbn": "9788925517803",
+                "description": "불량식품으로부터 우리 아이 밥상 지키기!\n\n온갖 불량 식품 먹거리가 유행하는 요즘 건강 가득한 음식들로 안전하게 내 아이를 지키는 방법을 설명한 『도시맘의 시골밥상』. 이 책은 식문화월간지 쿠켄의 요리연구소 소장이자 다섯살배기 딸을 둔 저자가 음식불감증에 걸린 현실에서 아이를 건강하게 키우기 위해 주변에 흔한 재료를 이용한 친환경 요리법을 제안한다. \n\n《도시맘의 시골밥상》에서는 아이들의 건강을 노리는 식품 첨가물과 패스트푸드, 유전자변형식품에 관한 정보와 함께 태아식과 모유에서부터 이유식, 유아식, 아동식을 포함해 비만퇴치 밥상과 총명밥상 등으로 나눠 완성 사진을 곁들여 따라하기 쉽게 구성했다. \n\n또한 요리 사이사이마다 건강 팁과 함께 제철 식재료 갈무리법, 단골 식재상 리스트, 책 뒤편에는 제철 성장식 캘린더를 함께 수록했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "",
+                "UPDATE_DATE": "20130604",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "배명자 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994799421",
+                "INPUT_DATE": "20130430",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "시골 엄마밥 ",
+                "PUBLISH_PREDATE": "20130527",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

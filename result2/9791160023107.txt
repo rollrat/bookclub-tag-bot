@@ -1,0 +1,67 @@
+{
+    "otitle": "50, 우주를 알아야 할 시간",
+    "oauthor": "이광식 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:02:13 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "50, 우주를 알아야 할 시간 (나는 우주에서 인생을 배웠다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32452071153",
+                "image": "https://shopping-phinf.pstatic.net/main_3245207/32452071153.20221227203021.jpg",
+                "author": "이광식",
+                "discount": "14400",
+                "publisher": "메이트북스",
+                "pubdate": "20201207",
+                "isbn": "9791160023107",
+                "description": "우주에 관한 모든 것을 담아낸 책이다. 내용적으로는 어느 우주 입문서 못지않게 많은 천문학 정보와 다양한 이야깃거리를 담았고, 우주의 아름답고 경이로운 풍경까지 올 컬러로 선명하게 담아냈다. 그런 점에서 이 책은 읽는 책이기도 하면서 ‘보는’ 책이기도 하다. 전 연령층이 봐도 좋을 우주 입문서이지만 특히 50대가 보면 더 큰 의미가 있는 책이다. 백세 인생이라면 절반의 삶을 산 오늘날의 50대의 인생을 위로하고 격려하는 책이기도 하다. \n\n\n\n마음에 꽂히는 우주 풍경 하나를 하염없이 바라보고만 있어도 현실에서의 크고 작은 고민과 걱정을 내려놓을 수 있을 것이다. 우주를 이해함으로써 드넓은 우주 속 티끌만 한 지구 위에 사는 작은 존재인 우리네 인생사 부침을 조금은 멀리서 객관적으로 볼 수 있는 여유를 가지게 될 것이다. 삶이 버겁고 지칠 때마다 이 책을 펼치고 우주를 구석구석 뜯어보다 보면 삶의 지혜까지 배울 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메이트북스 :원앤원콘텐츠그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20210125",
+                "EA_ADD_CODE": "03440",
+                "PUBLISHER_URL": "www.1n1books.com",
+                "AUTHOR": "이광식 지음",
+                "SERIES_TITLE": "",
+                "KDC": "443.1",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "153*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "279 p.",
+                "CONTROL_NO": "CIP2020044635",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791160023107",
+                "INPUT_DATE": "20201020",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "50, 우주를 알아야 할 시간",
+                "PUBLISH_PREDATE": "20201207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

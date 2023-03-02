@@ -1,0 +1,23 @@
+{
+    "otitle": "나는 네이버 카페로 월급 대신 월세 받는다",
+    "oauthor": "김소영(소영처럼) 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "나는 네이버 카페로 월급 대신 월세 받는다 (네이버 카페가 이렇게 돈이 될 줄이야)",
+                "link": "https://search.shopping.naver.com/book/catalog/32504257130",
+                "image": "https://shopping-phinf.pstatic.net/main_3250425/32504257130.20220527044257.jpg",
+                "author": "김소영",
+                "discount": "0",
+                "publisher": "라디오북",
+                "pubdate": "20220217",
+                "isbn": "9791190836548",
+                "description": "회사는 안 다니지만 네이버 카페로 돈은 잘 번다!\n네이버 카페로 평생 월세 받은 온라인 건물주 소영처럼의 카페 운영 핵심 노하우를 만나다."
+            }
+        ]
+    }
+}

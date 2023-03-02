@@ -1,0 +1,67 @@
+{
+    "otitle": "고전 추리 · 범죄소설 100선",
+    "oauthor": "마틴 에드워즈 저/성소희 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:20 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "고전 추리 범죄소설 100선",
+                "link": "https://search.shopping.naver.com/book/catalog/32467114734",
+                "image": "https://shopping-phinf.pstatic.net/main_3246711/32467114734.20221019152618.jpg",
+                "author": "마틴 에드워즈",
+                "discount": "13830",
+                "publisher": "시그마북스",
+                "pubdate": "20200814",
+                "isbn": "9791190257664",
+                "description": "20세기 전반기를 수놓은\n고전 추리·범죄소설 100편을 만나다!\n\n이 책은 20세기 전반에 출판된 추리·범죄소설의 고전을 담고 있다. 장르의 재미와 다양성을 독자에게 전해주기 위해서 고전 범죄소설에 정통한 전문가인 저자가 아서 코난 도일의 ?배스커빌의 사냥개?를 시작으로 흥미로움, 문학적 업적, 사회적으로 중요한 추리·범죄소설 100편을 추렸다. 고전 추리·범죄소설을 즐기는 독자라면 베스트셀러 작가뿐 아니라 잊혔지만 매혹적인 보석들을 발견 할 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스",
+                "DDC": "",
+                "UPDATE_DATE": "20200903",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "마틴 에드워즈 지음 ;성소희 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "843.6",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "424 p.",
+                "CONTROL_NO": "CIP2020029847",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791190257664",
+                "INPUT_DATE": "20200716",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "고전 추리·범죄소설 100선",
+                "PUBLISH_PREDATE": "20200814",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

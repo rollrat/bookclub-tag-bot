@@ -1,0 +1,67 @@
+{
+    "otitle": "조금 불편한 용서",
+    "oauthor": "스베냐 플라스푈러 저/장혜경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:27:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "조금 불편한 용서",
+                "link": "https://search.shopping.naver.com/book/catalog/32496964796",
+                "image": "https://shopping-phinf.pstatic.net/main_3249696/32496964796.20221019152003.jpg",
+                "author": "스베냐 플라스펠러",
+                "discount": "13320",
+                "publisher": "나무생각",
+                "pubdate": "20200918",
+                "isbn": "9791162181164",
+                "description": "진정한 참회의 기준은 무엇일까? 완전한 용서가 있을까? 용서의 자격과 권한은 누구에게 있을까? 영화 〈밀양〉에서 주인공 신애의 절규가 귓가에 맴돈다. 자신의 아들을 살해한 범인이 하나님을 믿고 모든 죄를 모두 용서받았다고 간증하자 그녀는 분노한다. “내가 용서해 주지도 않았는데 하나님이 당신의 죄를 사해주었다고요?”\n\n독일의 저명한 철학자인 저자의 《조금 불편한 용서》에도 수없이 많은 상처 받은 사람들이 등장한다. 엄마에게 버림받은 딸, 총기 난사 사건으로 딸을 잃은 엄마, 홀로코스트 생존자들… 그리고 사랑하는 사람을 죽이고 교도소에 수감 중인 남자. 이들을 통해 용서라는 것이 얼마나 어려운지, 얼마나 힘들고 또 용기가 필요한 행동인지 알게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "나무생각",
+                "DDC": "",
+                "UPDATE_DATE": "20201013",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "스베냐 플라스푈러 지음 ;장혜경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "300",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*205",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "247 p.",
+                "CONTROL_NO": "CIP2020034674",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791162181164",
+                "INPUT_DATE": "20200818",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "조금 불편한 용서",
+                "PUBLISH_PREDATE": "20200918",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "otitle": "위대한 패배자들",
+    "oauthor": "유필화 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:24:54 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "위대한 패배자들 (인생의 성패를 떠나 최선을 다해 경주한 삶에 대하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32443135062",
+                "image": "https://shopping-phinf.pstatic.net/main_3244313/32443135062.20230217105555.jpg",
+                "author": "유필화",
+                "discount": "15560",
+                "publisher": "흐름출판",
+                "pubdate": "20210801",
+                "isbn": "9788965964582",
+                "description": "√ 30년간 2000회 강연 10만 리더들의 경영 구루, 유필화 교수의 리더십 수업 \n√ 테미스토클레스, 악비부터 트로츠키, 리지웨이까지 … 오롯이 자신의 길을 걸었던 위대한 패배자 8인을 통해 리더의 길을 탐구한다\n\n오롯이 자신을 길을 걸었던 위대한 패배자들에게 배우는 인생과 경영의 지혜\n당신은 어떤 리더가 되길 꿈꾸는가? 30년간, 2000회 강연, 10만 리더들의 경영 구루, 유필화 교수가 해답 없는 시대를 헤쳐나가야 하는 이 땅의 리더들을 위해 인생의 성패를 떠나 오롯이 자신의 길을 걸었던 위대한 패배자 8인의 철학, 전략 그리고 그들의 삶을 동서양의 고전과 역사적 사건 등을 통해 재해석한다. \n아테네의 파괴적 혁신가 테미스토클레스, 송의 마지막 방패 악비, 소련 혁명의 수호자 트로츠키, 사막의 여우 롬멜, 세기의 혁명가 고르바초프, 한국전쟁의 숨은 영웅 리지웨이, 명나라를 세운 떠돌이 승려 주원장, 지금의 중국을 만든 한 무제까지, 격변의 시기에 등장해 시대를 바꾼 리더십을 발휘했으나 결국 패배자, 잊힌 승자로 기억된 역사적 인물 8인을 통해 리더가 갖춰야 할 강인함, 통찰력, 책임감과 신뢰, 가치를 알아본다."
+            },
+            {
+                "title": "13인의 위대한 패배자들 (한니발부터 닉슨까지, 패배자로 기록된 리더의 이면)",
+                "link": "https://search.shopping.naver.com/book/catalog/32472685746",
+                "image": "https://shopping-phinf.pstatic.net/main_3247268/32472685746.20230219103440.jpg",
+                "author": "장크리스토프 뷔송^에마뉘엘 에슈트",
+                "discount": "25200",
+                "publisher": "책과함께",
+                "pubdate": "20210823",
+                "isbn": "9791191432169",
+                "description": "역사 속 위대한 패배자들의 이야기를 다루는 책. 고대부터 20세기까지 패배자로 기록된 13인의 역사적 인물들이 등장한다. 이들은 한때 영광의 정점에 올라 존경과 두려움, 감탄과 찬양의 대상이었으나 배신과 암살, 자살, 유형과 처형 등의 비극적 결말을 맞이했다. \n\n\n\n지은이들은 흥미로운 상상력과 예리하고 비판적인 시각으로 날개가 부러진 운명을 살다간 이들의 일대기를 소설처럼 재현해냈다. 오만, 허세, 우유부단, 나약함 등 인간이라면 누구나 지니고 있을 약점들로 인해 이들이 패배하게 되는 과정은 연민을 자아내며 우리 삶을 돌아보게 하는 감동과 교훈을 선사할 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "흐름출판",
+                "DDC": "",
+                "UPDATE_DATE": "20210902",
+                "EA_ADD_CODE": "03320",
+                "PUBLISHER_URL": "http://www.hbooks.co.kr/",
+                "AUTHOR": "유필화 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788965964582",
+                "INPUT_DATE": "20210709",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "위대한 패배자들",
+                "PUBLISH_PREDATE": "20210801",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

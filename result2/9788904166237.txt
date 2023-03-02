@@ -1,0 +1,67 @@
+{
+    "otitle": "복음을 부끄러워하지 않는 그리스도인",
+    "oauthor": "존 파이퍼 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:14:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "복음을 부끄러워하지 않는 그리스도인",
+                "link": "https://search.shopping.naver.com/book/catalog/32489015981",
+                "image": "https://shopping-phinf.pstatic.net/main_3248901/32489015981.20221019140755.jpg",
+                "author": "존 파이퍼^존 맥아더",
+                "discount": "13500",
+                "publisher": "생명의말씀사",
+                "pubdate": "20180604",
+                "isbn": "9788904166237",
+                "description": "“내가 복음을 부끄러워하지 아니하노니 \n이 복음은 모든 믿는 자에게 구원을 주시는 \n하나님의 능력이 됨이라”(롬 1:16)."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "생명의말씀사",
+                "DDC": "",
+                "UPDATE_DATE": "20180629",
+                "EA_ADD_CODE": "03230",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "매트 챈들러,앨버트 몰러,존 맥아더,타비티 에니야브위레,마크 데버,케빈 드영,리건 던컨,존 파이퍼,데이비드 플랫 [지음] ;조재광 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "150*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "271 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788904166237",
+                "INPUT_DATE": "20180525",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "2",
+                "BIB_YN": "Y",
+                "TITLE": "복음을 부끄러워하지 않는 그리스도인",
+                "PUBLISH_PREDATE": "20180604",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "코딩하는 공익",
+    "oauthor": "반병현 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "코딩하는 공익 (쇠사슬을 차고서도 세상을 바꿀 수 있을까?)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482707099",
+                "image": "https://shopping-phinf.pstatic.net/main_3248270/32482707099.20221019120621.jpg",
+                "author": "반병현",
+                "discount": "13500",
+                "publisher": "세창출판사",
+                "pubdate": "20200427",
+                "isbn": "9788955866117",
+                "description": "하루 만에 3만여 명이 본 브런치 화제의 글 〈크롤러를 이용해 우체국 등기우편을 자동으로 정리해 보자〉의 주인공, ‘코딩하는 공익’ 반병현 작가의 첫 에세이. 단숨에 인기를 얻고 좋은 일만 있으리라는 예상과는 달리, 병무청과 노동청, 심지어는 청와대까지 돌며 단단히 유명세를 치른 ‘코딩하는 공익’의 파란만장한 뒷이야기를 풀어놓는다.\n\n연구실을 나와 사회로 발돋움한 순간, 국가의 부름을 받고 연봉 400만 원짜리 공익근무요원(사회복무요원)이 된 작가. 나만 당하는 일도 아닌데 시원하게 복무하자는 결심과는 달리, 막상 돌아가지 않는 국방부 시계를 보고 있자니 한없이 자존감만 떨어진다. 어차피 돈은 못 벌 수 없는 신분이고, 무슨 일이라도 해 보자는 심산으로 업무 중에 있었던 일을 글로 옮기기 시작한다. 그렇게 말단 공익의 50일간의 세상 바꾸기가 시작되었다.\n\n지루한 일상에 갇혔다는 생각이 드는가? 한계에 부딪혀서 더 이상 새로울 게 없어 보이는가? “파이썬과 함께라면 못 만들 것은 없다”는 작가의 신조처럼, 당신이 할 수 있는 일, 잘하는 일이 있다면 이루어지지 않을 일은 없다. ‘코딩하는 공익’의 흥미진진하고 예측 불가능한 이야기가 당신에게 전하는 묘한 유쾌함을 느낄 수 있을 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "세창미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20200515",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.scpc.co.kr",
+                "AUTHOR": "지은이: 반병현",
+                "SERIES_TITLE": "",
+                "KDC": "390.4",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/04/09/9788955866117.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "145*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "295 p.",
+                "CONTROL_NO": "CIP2020014803",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788955866117",
+                "INPUT_DATE": "20200409",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "코딩하는 공익",
+                "PUBLISH_PREDATE": "20200427",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

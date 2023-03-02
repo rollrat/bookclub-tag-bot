@@ -1,0 +1,67 @@
+{
+    "otitle": "골프, 생각이 스윙을 바꾼다",
+    "oauthor": "이종철 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:04:25 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "골프 생각이 스윙을 바꾼다 (골프에서 당신이 고민해야 할 것은 완벽한 스윙이 아니다)",
+                "link": "https://search.shopping.naver.com/book/catalog/32444112300",
+                "image": "https://shopping-phinf.pstatic.net/main_3244411/32444112300.20230214164038.jpg",
+                "author": "이종철",
+                "discount": "16200",
+                "publisher": "예문당",
+                "pubdate": "20140528",
+                "isbn": "9788970015712",
+                "description": "『골프 생각이 스윙을 바꾼다』는 자신의 골프에 영향을 미치는 생각의 오류를 돌아볼 수 있는 기회를 가지고, 진정한 고수로서 지녀야 할 생각의 기술을 습득하도록 도와주는 책이다. 스윙을 바꾸는 것이 어려운 게 아니라, 생각을 바꾸는 것이 어렵다고 이야기하며 스윙과 골프라는 게임에 대한 제대로 된 이해가 골프가 변화하는 시작임을 알려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "예문당",
+                "DDC": "796.352",
+                "UPDATE_DATE": "20140729",
+                "EA_ADD_CODE": "13690",
+                "PUBLISHER_URL": "www.yemundang.com",
+                "AUTHOR": "이종철",
+                "SERIES_TITLE": "",
+                "KDC": "695.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3536496_6.jpg",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3536496_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014014169",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788970015712",
+                "INPUT_DATE": "20140425",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "골프, 생각이 스윙을 바꾼다",
+                "PUBLISH_PREDATE": "20140521",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

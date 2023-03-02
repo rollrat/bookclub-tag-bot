@@ -1,0 +1,78 @@
+{
+    "otitle": "역사로 배우는 공학수학",
+    "oauthor": "이승준 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:33 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "역사로 배우는 공학수학",
+                "link": "https://search.shopping.naver.com/book/catalog/32523947630",
+                "image": "https://shopping-phinf.pstatic.net/main_3252394/32523947630.20221228074548.jpg",
+                "author": "이승준",
+                "discount": "21340",
+                "publisher": "GS인터비전",
+                "pubdate": "20100505",
+                "isbn": "9788993668551",
+                "description": "공학을 하는 사람에게 필요한 수학을 역사적으로 정리, 기술함으로써, 가능한 많은 개념의 기원, 정의, 응용에 대한 지식을 전달하고자 하는 책이다. 일반 수학자가 배우는 수학과는 다르게 공학도가 알아야하는 수학으로써 충실한 내용을 담고 있는 공학수학교재이다."
+            },
+            {
+                "title": "역사로 배우는 공학수학 2 (역사로 배우는)",
+                "link": "https://search.shopping.naver.com/book/catalog/32485538276",
+                "image": "https://shopping-phinf.pstatic.net/main_3248553/32485538276.20221230072915.jpg",
+                "author": "이승준",
+                "discount": "26190",
+                "publisher": "GS인터비전",
+                "pubdate": "20190325",
+                "isbn": "9791155762684",
+                "description": "『공학수학2』는 저자의 졸저인 『역사로 배우는 공학수학(2010)』의 자매편인 2편으로 저술되었다. 한 학기가 15주인 점을 감안하여 총 13장으로 편성하였으며, 1장부터 7장까지의 1부는 상미분 방정식, 8장부터 13장까지의 2부는 편미분 방정식에 대해 각각 다루었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "GS인터비전",
+                "DDC": "",
+                "UPDATE_DATE": "20100519",
+                "EA_ADD_CODE": "92530",
+                "PUBLISHER_URL": "http://www.gsintervision.co.kr",
+                "AUTHOR": "이승준",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788993668551",
+                "INPUT_DATE": "20100326",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "역사로 배우는 공업수학",
+                "PUBLISH_PREDATE": "20100505",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

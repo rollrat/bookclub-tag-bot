@@ -1,0 +1,67 @@
+{
+    "otitle": "당뇨와 비만 건강혁명",
+    "oauthor": "김동석 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:09:35 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "건강혁명 (KBS 건강혁명 김동석 캠프 대장의 당뇨와 비만 클리닉)",
+                "link": "https://search.shopping.naver.com/book/catalog/32482399661",
+                "image": "https://shopping-phinf.pstatic.net/main_3248239/32482399661.20221019145627.jpg",
+                "author": "김동석",
+                "discount": "13500",
+                "publisher": "상상출판",
+                "pubdate": "20161121",
+                "isbn": "9791186517994",
+                "description": "KBS 〈건강혁명〉 베이스캠프 김동석 원장의 당뇨와 비만 클리닉 『건강혁명』. 암을 극복하기 위한 방법을 연구하면서 식생활의 중요성을 깨닫고 암을 이기기 위한 시작은 올바른 식생활에 있다고 생각을 하는데 TV 프로그램이나 인터넷의 레시피는 주로 맛을 위한 것이라면 이 책은 보여주는 것들은 면역증진에 관한 체질별 레시피도 소개한다. 이외에도 일상에서 실천할 수 있는 명상, 삼림욕, 유기농 식단, 풍욕, 암 환자도 할 수 있는 운동법 등을 구체적으로 언급하여 각자에게 맞는 건강한 생활을 찾는 방법을 제시해 주고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "상상출판",
+                "DDC": "613",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "13510",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김동석",
+                "SERIES_TITLE": "",
+                "KDC": "517.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5880387_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5880387_3.jpg",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "신국판",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "272",
+                "CONTROL_NO": "CIP2016026795",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791186517994",
+                "INPUT_DATE": "20161104",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "건강혁명",
+                "PUBLISH_PREDATE": "20161121",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

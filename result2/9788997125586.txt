@@ -1,0 +1,67 @@
+{
+    "otitle": "핵심만 배우는 골프 (벙커, 퍼팅편)",
+    "oauthor": "김해천 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:36 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "핵심만 배우는 골프 Vol 4: 벙커, 퍼팅 편",
+                "link": "https://search.shopping.naver.com/book/catalog/32496274781",
+                "image": "https://shopping-phinf.pstatic.net/main_3249627/32496274781.20221019152905.jpg",
+                "author": "김해천",
+                "discount": "7920",
+                "publisher": "싸이프레스",
+                "pubdate": "20140911",
+                "isbn": "9788997125586",
+                "description": "[핵심만 배우는 골프: 벙커, 퍼팅 편]은 벙커 샷의 기본부터 딱딱한 모래나 젖은 모래 등 모래 상태에 따른 공략법, 오르막과 내리막 경사에서의 요령, 볼이 벙커 턱에 박혔을 때와 모래에 박힌 에그 프라이 상황, 짧은 거리와 긴 거리일 때의 벙커 샷 방법, 벙커 샷 실력 향상을 위한 연습법 등 벙커 공략에 관한 모든 것을 공개하는 책이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "싸이프레스",
+                "DDC": "796.352",
+                "UPDATE_DATE": "20141117",
+                "EA_ADD_CODE": "14690",
+                "PUBLISHER_URL": "www.cypressbook.co.kr",
+                "AUTHOR": "김해천",
+                "SERIES_TITLE": "핵심만 배우는 골프",
+                "KDC": "695.8",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9788997125463",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3922741_3.jpg",
+                "PRE_PRICE": "8800",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/3922741_5.jpg",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2014024719",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788997125586",
+                "INPUT_DATE": "20140819",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "Y",
+                "TITLE": "핵심만 배우는 골프-벙커, 퍼팅 편",
+                "PUBLISH_PREDATE": "20140911",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14690 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

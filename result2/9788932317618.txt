@@ -1,0 +1,67 @@
+{
+    "otitle": "쌤통의 심리학",
+    "oauthor": "리처드 H. 스미스 저/이영아 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:00 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "쌤통의 심리학 (타인의 고통을 즐기는 은밀한 본성에 관하여)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466668332",
+                "image": "https://shopping-phinf.pstatic.net/main_3246666/32466668332.20221228073406.jpg",
+                "author": "리처드 H. 스미스",
+                "discount": "12600",
+                "publisher": "현암사",
+                "pubdate": "20151221",
+                "isbn": "9788932317618",
+                "description": "심리학적, 진화론적으로 풀어낸 인간 본성의 어두운 이면. 우리에게는 타인의 불행을 즐거워하는 감정이 있다. 타인의 고통에서 느끼는 즐거움을 뜻하는 독일어 '샤덴프로이데' 즉 '쌤통 심리'는 우리 사회에 만연하다. 질투 연구의 대가인 저자 리처드 H. 스미스는 이런 은밀한 감정의 원인은 무엇이며 어떻게 전개되는지, 그리고 이 감정이 대중적으로 용인되어 널리 퍼질 때 역사적으로 어떤 사건이 일어났는지에 대해 풍부한 사례를 들며 차근차근 따진다.\n\n\n\n저자는 쌤통 심리가 진화의 산물이며 인간의 자연스러운 감정이라 말한다. 실제로 남들의 불행이 우리에게 실질적 이득을 가져다주기에 이를 기뻐하는 감정이 생겼다는 것이다. 우리는 자신의 존재 가치를 얻기 위해 끊임없이 남과 비교한다. 그런데 만약 누군가 실수를 한다면 그의 지위가 낮아진 만큼 우리의 지위는 높아지는 반사 이익이 생길 것이다. 이것이 바로 쌤통 심리의 근원이다.\n\n\n\n안타깝지만 우리 마음속에는 타인의 고통을 즐거워하는 감정이 존재한다. 그러나 실망할 필요는 없다. 마음속의 저울 한편에는 이와 대등한 공감 능력과 연민이 존재하기 때문이다. 이기심과 이타심, 쌤통 심리와 연민은 평생 우리 마음속 양팔 저울에서 출렁이며 그 존재감을 드러낼 것이다. 어느 쪽에 무게를 실을지는 전적으로 우리의 선택에 달렸다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)현암사",
+                "DDC": "152.4",
+                "UPDATE_DATE": "20160121",
+                "EA_ADD_CODE": "03180",
+                "PUBLISHER_URL": "www.hyeonamsa.com",
+                "AUTHOR": "리처드 H. 스미스",
+                "SERIES_TITLE": "",
+                "KDC": "181.7",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5076576_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/5076576_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "364",
+                "CONTROL_NO": "CIP2015033547",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932317618",
+                "INPUT_DATE": "20151204",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "쌤통의 심리학",
+                "PUBLISH_PREDATE": "20151221",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "콜레라는 어떻게 문명을 구했나",
+    "oauthor": "존 퀘이조 저/황상익,최은경,최규진 공역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:59 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "콜레라는 어떻게 문명을 구했나 (세상을 바꾼 의학의 10대 발견)",
+                "link": "https://search.shopping.naver.com/book/catalog/32492198339",
+                "image": "https://shopping-phinf.pstatic.net/main_3249219/32492198339.20221230074847.jpg",
+                "author": "존 퀘이조",
+                "discount": "14850",
+                "publisher": "메디치미디어",
+                "pubdate": "20121015",
+                "isbn": "9788994612294",
+                "description": "심각한 질병에 맞서 싸운 사회일수록 찬란한 문명을 꽃피운다!\n\n과학과 의학, 그리고 정신 건강에 관한 유익하고 흥미로운 글을 써온 과학ㆍ의학 분야 전문저술가 존 퀘이조의 『콜레라는 어떻게 문명을 구했나』. 생명을 구하고 건강을 향상시키고 고통을 경감시켜 의술을 변화시켰을 뿐 아니라, 세계에 대한 관점을 변화시킨 의학의 10가지 위대한 혁신을 소개한다. 의학을 탄생시킨 히포크라테스부터 21세기 의학의 뜨거운 이슈인 통합의학까지 다루고 있다. \n\n의학의 위대한 발견이 성취되는 순간뿐 아니라, 그에 이르는 험난한 고난의 과정을 꼼꼼하게 묘사한다. 의사, 과학자, 환자, 그리고 일반 민중 등 다양한 사람들의 이야기를 들을 수 있다. 자연이 숨긴 비밀이 느닷없이 드러났을 때의 경악과 불신부터 새로운 도구가 환자를 고통과 죽음에서 구해낸다는 것을 발견했을 때의 안도와 희열까지 다양한 반응을 생생하게 확인하게 된다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "메디치미디어",
+                "DDC": "",
+                "UPDATE_DATE": "20121025",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "존 퀘이조 지음 ;황상익,최은경,최규진 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16500",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788994612294",
+                "INPUT_DATE": "20121005",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "콜레라는 어떻게 문명을 구했나 ",
+                "PUBLISH_PREDATE": "20121015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "이름 없는 자들의 도시",
+    "oauthor": "주제 사라마구 저/송필환 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:31 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "이름없는 자들의 도시 (Todos os nomes)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490344855",
+                "image": "https://shopping-phinf.pstatic.net/main_3249034/32490344855.20221019123852.jpg",
+                "author": "주제 사라마구",
+                "discount": "13320",
+                "publisher": "해냄출판사",
+                "pubdate": "20130510",
+                "isbn": "9788973379422",
+                "description": "삶과 죽음의 진실을 밝힐 단 하나의 이름을 찾아라!\n\n한 여인에 대한 추적 속에 발견되는 존재와 부재. 섬세한 심리묘사가 돋보이는 주제 사라마구의 대표작으로, 〈눈먼 자들의 도시〉에 이어 인간의 존재 문제를 추적한 대걸작으로 손꼽힌다. \n\n나이 오십이 되도록 결혼도 못하고 직장과 집을 오가는 주제씨, 그의 유일한 취미는 유명인사의 기사나 사진을 수집하는 일이다. 어느날 주제씨가 등기소에서 몰래 가져온 유명인상의 기록 중에서 아주 평범한 여자의 기록이 끼어 있다. 주제씨가 그 여자에 대한 자료를 모으게 되면서 흥미로운 사건이 꼬리를 물고 일어나는데 ….\n\n소설은 별 볼일 없는 중앙호적등기소 말단 직원 주제씨가 겪는 황당한 사건을 유머러스하게 그려낸다. 이름 모를 도시에서 벌어지는 삶과 죽음, 그리고 만남과 이별을 다루는 직업의 주인공 '주제 씨'가 미지의 여인을 찾아 헤맴으로써 '인식한다는 것'과 '실재한다는 것'의 간극을 되묻고 있다. 〈양장본〉"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)해냄출판사",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03870",
+                "PUBLISHER_URL": "http://www.hainaim.com",
+                "AUTHOR": "주제 사라마구 [저] ; 송필환 [역]",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788973379422",
+                "INPUT_DATE": "20100919",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "이름 없는 자들의 도시",
+                "PUBLISH_PREDATE": "20080220",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

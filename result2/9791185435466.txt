@@ -1,0 +1,67 @@
+{
+    "otitle": "세상의 모든 공식",
+    "oauthor": "존 M. 헨쇼 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세상의 모든 공식 (도플러 효과에서 군중규모 추산에 이르기까지 세상을 풀어내는 52가지 공식)",
+                "link": "https://search.shopping.naver.com/book/catalog/32484502585",
+                "image": "https://shopping-phinf.pstatic.net/main_3248450/32484502585.20220527050610.jpg",
+                "author": "존 M. 헨쇼",
+                "discount": "0",
+                "publisher": "반니",
+                "pubdate": "20150725",
+                "isbn": "9791185435466",
+                "description": "일상에서 만나는 흥미만점 수학공식!\n\n도플러 효과에서 군중규모 추산에 이르기까지 세상을 풀어내는 52가지 공식 이야기 『세상의 모든 공식』. 이 책은 수학책은 아니지만 수학공식에서 영감을 받은 이야기를 모아놓았다. 모든 방정식의 배후에는 하나의 이야기가 있다. 하나의 방정식이 여러 이야기를 이어주기도 하고, 여러 방정식이 하나의 이야기로 귀결되기도 하고, 여러 이야기에 여러 방정식이 짜여 있기도 하다. \n\n이 책에는 다단계가 어떤 원리고 되어있는지 방정식으로 풀어내 보여주는가 하면, 비만을 측정하는 BMI 수치는 그저 비교치에 불과하다는 설명까지, 세상 돌아가는 이야기가 담겨 있다. 책에 실린 이야기들이 과학과 공학에 관한 것만은 아니다.  비즈니스, 예술, 레포츠 등 다양한 분야를 망라한다. 52가지나 되는 신기한 수학 이야기들이 짤막짤막하게 펼쳐진다.\n\n52가지 방정식들 가운데는 우리가 익히 알고 있는 것도 있지만, 생소한 것도 적지 않다. 책에 실린 방정식 가운데는 단순하게 이해할 수 없는 대단한 이론들도 수록되어 있다. 때문에 저자는 자신의 수준에 맞게, 읽고 싶은 순서대로, 설렁설렁 읽기를 추천한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(도서출판) 반니",
+                "DDC": "510",
+                "UPDATE_DATE": "20150730",
+                "EA_ADD_CODE": "03410",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "존 M. 헨쇼",
+                "SERIES_TITLE": "",
+                "KDC": "410",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4719678_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4719678_3.jpg",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015018696",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185435466",
+                "INPUT_DATE": "20150708",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "세상의 모든 공식",
+                "PUBLISH_PREDATE": "20150725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

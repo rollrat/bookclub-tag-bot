@@ -1,0 +1,67 @@
+{
+    "otitle": "강갑생의 바퀴와 날개",
+    "oauthor": "강갑생 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "강갑생의 바퀴와 날개",
+                "link": "https://search.shopping.naver.com/book/catalog/32476078101",
+                "image": "https://shopping-phinf.pstatic.net/main_3247607/32476078101.20221230074923.jpg",
+                "author": "강갑생",
+                "discount": "16200",
+                "publisher": "팜파스",
+                "pubdate": "20201120",
+                "isbn": "9791170263739",
+                "description": "비행기, 자동차, 기차가 다니며 만들어내는 \n우리가 알지 못했던 재미있는 교통 이야기\n\n인천공항 지하에 서울에서 대전보다 긴 130km 고속도로가 있다? 공항에서 맨 마지막으로 체크인하면 짐을 가장 먼저 받을 수 있을까? 나폴레옹 때문에 철도의 폭이 달라졌다! 고무 타이어로 달리는 기차, 터널 속 ‘졸음방지’를 위한 최첨단 기술이 사용된다! 우리는 매일매일 길 위에서 다양한 교통수단을 이용해 생활하고 있다. 의, 식, 주 다음으로 이제 교통은 우리의 생활에서 떼려야 뗄 수 없는 존재이다. 하지만 교통의 속사정은 잘 알지 못한다. 모르면 단순한 이동수단일 뿐이지만, 알면 똑똑하게 이용할 수 있는 정보가 된다. 우리의 삶이자 일상인 교통에 대해 교통전문기자인 저자는 수많은 자료와 해박한 지식으로 재미있고 쉽게 다양한 이야기들을 풀어내고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "팜파스",
+                "DDC": "",
+                "UPDATE_DATE": "20201125",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.pampasbook.com",
+                "AUTHOR": "강갑생 지음",
+                "SERIES_TITLE": "",
+                "KDC": "326.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "327 p.",
+                "CONTROL_NO": "CIP2020044406",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791170263739",
+                "INPUT_DATE": "20201019",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "(강갑생의) 바퀴와 날개",
+                "PUBLISH_PREDATE": "20201120",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

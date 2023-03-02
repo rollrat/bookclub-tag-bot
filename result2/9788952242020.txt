@@ -1,0 +1,67 @@
+{
+    "otitle": "용과 독수리의 제국",
+    "oauthor": "어우양잉즈 저/김영문 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:53 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "용과 독수리의 제국 (나라는 어떻게 흥하고 망하는가! 진秦·한漢과 로마, 두 제국의 천년사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481438666",
+                "image": "https://shopping-phinf.pstatic.net/main_3248143/32481438666.20221229073040.jpg",
+                "author": "어우양잉즈",
+                "discount": "40500",
+                "publisher": "살림",
+                "pubdate": "20200415",
+                "isbn": "9788952242020",
+                "description": "역사학·정치학·경제학·경영학의 \n경계를 관통한 획기적 저작!\nMIT 물리학 교수가 과학적 사유로 탐구한 제국의 흥망!\n\n진秦나라 발흥에서부터 서로마 패망에 이르기까지\n유라시아 양쪽 대척 지점의 1,200년 역사 비교\n유라시아 대륙의 동서 양쪽에 있는 진(秦)·한(漢)제국과 로마제국의 발전 과정을 비교한 책. 두 제국의 흥망성쇠를 실마리로 삼아, 양대 제국의 정치·경제·군사·민족·사상·관습 등 다방면의 공통점과 차이점을 총체적으로 탐구했다. 특히 두 제국의 같고도 다른 유산이 제국 멸망 후 지금까지 동·서양 세계에 미친 막대한 영향력을 강조하면서 그간의 역사적 교훈과 대국 통치의 방법을 총괄했다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "살림",
+                "DDC": "",
+                "UPDATE_DATE": "20200420",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.sallimbooks.com",
+                "AUTHOR": "어우양잉즈 지음 ;김영문 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "912.03",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "45000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*223",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "919 p.",
+                "CONTROL_NO": "CIP2020010227",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788952242020",
+                "INPUT_DATE": "20200309",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "용과 독수리의 제국",
+                "PUBLISH_PREDATE": "20200415",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

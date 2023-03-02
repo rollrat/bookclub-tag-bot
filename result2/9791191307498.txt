@@ -1,0 +1,67 @@
+{
+    "otitle": "무역 전쟁은 계급 전쟁이다",
+    "oauthor": "매튜 클라인,마이클 페티스 저/이은경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:17 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "무역 전쟁은 계급 전쟁이다",
+                "link": "https://search.shopping.naver.com/book/catalog/32441033742",
+                "image": "https://shopping-phinf.pstatic.net/main_3244103/32441033742.20221228075036.jpg",
+                "author": "매튜 클라인^마이클 페티스",
+                "discount": "19800",
+                "publisher": "시그마북스",
+                "pubdate": "20210810",
+                "isbn": "9791191307498",
+                "description": "최근 몇 년 동안 중국과 미국으로 대표되는 무역 갈등을 다룬 뉴스를 접한 적이 있을 것이다. 이런 국가 간 무역 갈등은 국외적인 문제라고 치부하기 쉽다. 하지만 이 책의 두 저자는 국내적인 문제로 인해 첨예한 무역 갈등이 생긴다고 말하며, 오늘날 무역 전쟁의 기원을 지난 30년 동안 중국, 유럽, 미국의 정치인들과 재계 지도자들이 내린 결정에서 찾으며 추적하고 있다. 특히 중국과 독일에서 증가하는 불평등이 우리 모두의 경제에 끼친 피해에 대해 흥미진진하게 이야기하고 있다.\n\n\n\n전 세계적으로 부자들은 번창해왔지만, 노동자들은 자신들이 생산한 것을 더 이상 살 여유가 없거나 일자리를 잃거나 더 많은 부채를 떠안게 되었다. 바로 이 부분이 무역 갈등의 시발점이라고 저자들은 말한다. 이러한 주류적인 견해를 자극하는 이런 도발적인 생각으로, 불평등을 증가시키는 계급 전쟁이 어떻게 세계 경제와 국제 평화에 위협이 되는지 그리고 우리가 그것에 대해 무엇을 할 수 있는지 응집력 있는 이야기를 들려준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "시그마북스(시그마프레스)",
+                "DDC": "",
+                "UPDATE_DATE": "20210907",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.sigmabooks.co.kr",
+                "AUTHOR": "매튜 클라인,마이클 페티스 지음 ;이은경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "329 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791191307498",
+                "INPUT_DATE": "20210617",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "무역 전쟁은 계급 전쟁이다",
+                "PUBLISH_PREDATE": "20210810",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

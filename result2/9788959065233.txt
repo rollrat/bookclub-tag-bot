@@ -1,0 +1,67 @@
+{
+    "otitle": "마시는 즐거움",
+    "oauthor": "마시즘 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:11:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "마시는 즐거움 (배고픈 건 참아도 목마른 건 못 참아!)",
+                "link": "https://search.shopping.naver.com/book/catalog/32497272657",
+                "image": "https://shopping-phinf.pstatic.net/main_3249727/32497272657.20221227205226.jpg",
+                "author": "마시즘",
+                "discount": "13320",
+                "publisher": "인물과사상사",
+                "pubdate": "20190531",
+                "isbn": "9788959065233",
+                "description": "네이버?카카오 브런치, 누적 1,800만 뷰 콘텐츠\n“음료 덕후의?성지, 마시즘!”\n“음료의, 음료에 의한, 음료를 위한 이야기가 펼쳐진다”\n\n마시즘은 음료에 대한 숨겨진 이야기를 전달하는 음료계의 흥신소다. 실제로 밥보다 후식으로 나오는 음료를 기다리는 사람들이 모여 있다 보니 식당에 가면 별의별 이야기가 다 나온다. 누구는 중간중간 벌컥거리며 마시는 물이 맛있다고 생각한다. 누구는 콜라를 시켜야 할까 고민 중이며, 누군가는 식사를 빨리 마치고 카페에 가고 싶어 한다. 마지막으로 남은 사람은 술집에 들러 맥주를 한잔하고 싶은 마음이 간절하다. 식탁 위의 동상이몽은 대개 이런 식이다. 우리는 일상의 순간순간 음료를 찾는데, 그 종류와 이유가 제각각이다.\n맛에 대한 취향은 좁혀지지 않아서 알고 있는 대의명분을 쥐어짠다. ‘세상사 모든 음료는 물 대신 나온 것이거늘’이라는 음료 허무론부터 시작해 ‘히틀러가 콜라덕후여서 환타를 만들었다’는 이야기도 나온다. ‘중세 유럽에서는 사형수에게 사약 대신 커피를 마시게 했다’, ‘맛있는 맥주를 마시지 못하면 시민혁명이 일어나는 나라가 있다’는 등 엄청난 이야기가 쏟아진다. 그런 내용을 어디에서 배웠냐고? 바로 대한민국의 유일한 음료 미디어 ‘마시즘’에서다!"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "인물과사상사",
+                "DDC": "",
+                "UPDATE_DATE": "20190610",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.inmul.co.kr",
+                "AUTHOR": "마시즘 지음",
+                "SERIES_TITLE": "",
+                "KDC": "381.75",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2019/05/17/9788959065233.jpg",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "333 p.",
+                "CONTROL_NO": "CIP2019019501",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788959065233",
+                "INPUT_DATE": "20190517",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "마시는 즐거움",
+                "PUBLISH_PREDATE": "20190531",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

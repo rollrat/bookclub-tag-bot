@@ -1,0 +1,67 @@
+{
+    "otitle": "지금, 당신의 고양이는 어떤가요?",
+    "oauthor": "정효민 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:28:48 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "지금, 당신의 고양이는 어떤가요? (복잡미묘 고양이 프로파일링)",
+                "link": "https://search.shopping.naver.com/book/catalog/32487161366",
+                "image": "https://shopping-phinf.pstatic.net/main_3248716/32487161366.20221229072445.jpg",
+                "author": "정효민",
+                "discount": "19010",
+                "publisher": "성안당",
+                "pubdate": "20210318",
+                "isbn": "9788931582628",
+                "description": "고양이 행동 컨설턴트가 전하는 \n복잡미묘한 고양이 프로파일링!\n\n유튜브 채널 〈오드캣스토리〉의 운영자이자 고양이 행동 컨설턴트인 저자의 고양이 행동 심리 처방서입니다. 이 책은 고양이와 함께 살면서 일어날 수 있는 거의 모든 상황과 문제에 대해 구체적으로 이야기하며, 특히 고양이의 문제 행동과 개선 방법에 관해 중점적으로 정리했습니다. 고양이에 호기심을 가진 입문자부터 이미 고양이와 함께하며 좀 더 행복한 동거를 꿈꾸는 프로 집사까지, 고양이를 사랑하는 모든 사람을 위한 생활 밀착형 고양이 반려 지침서입니다. \n\n고양이와 당신의 유쾌한 동반을 위한 안내서\n\n이 책은 고양이의 본능과 욕구를 이해할 수 있는 고양이에 관한 자세한 설명과 생활에서 자주 부딪히는 소소한 문제부터 전문적인 컨설팅이 필요한 문제까지 고양이의 각종 문제 행동의 해결 방안을 깊이 있게 다룹니다. \n1장과 2장에서는 고양이를 이해하기 위해 꼭 알아야 하는 기초 지식과 함께 말이 아닌 행동으로 이야기하는 고양이의 행동 언어를 살펴본 뒤 고양이를 상대로 협상하는 다양한 방법에 관해 이야기합니다. 3장과 4장에서는 본격적으로 고양이의 문제 행동을 다루며, 문제 행동의 올바른 수정 방법과 고양이와 집사 혹은 고양이들끼리의 원활한 소통을 돕는 구체적이고 현실적인 방법을 자세히 알려줍니다. \n세상 예쁘지만 어떤 생각을 하고, 왜 그런 행동을 하는지 좀처럼 가늠하기 어려웠던 고양이. 이런 고양이와 진심으로 소통하고 관계를 개선하는 데 집중한 이 책을 통해 고양이와 함께 하는 일상이 조금 더 유쾌하고 건강하기를 응원합니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "BM성안당",
+                "DDC": "",
+                "UPDATE_DATE": "20210504",
+                "EA_ADD_CODE": "13490",
+                "PUBLISHER_URL": "http://www.cyber.co.kr",
+                "AUTHOR": "정효민 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2021/03/18/9788931582628.jpg",
+                "PRE_PRICE": "22000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "170*220",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "373 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788931582628",
+                "INPUT_DATE": "20210318",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "지금, 당신의 고양이는 어떤가요?",
+                "PUBLISH_PREDATE": "20210318",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

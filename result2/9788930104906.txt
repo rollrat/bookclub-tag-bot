@@ -1,0 +1,78 @@
+{
+    "otitle": "한국 근대미술의 역사",
+    "oauthor": "최열 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:33:11 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "한국근대미술의 역사 (한국미술사사전 1800-1945, 개정판)",
+                "link": "https://search.shopping.naver.com/book/catalog/32456284674",
+                "image": "https://shopping-phinf.pstatic.net/main_3245628/32456284674.20221019110353.jpg",
+                "author": "최열",
+                "discount": "40500",
+                "publisher": "열화당",
+                "pubdate": "20151110",
+                "isbn": "9788930104906",
+                "description": "1990년대초부터 우리 근현대시기의 모든 미술 관련 문헌자료를 착실하게 조사해 나갔고, 이렇게 하나하나 쌓이는 자료에 대한 비평과 해석 작업을 병행했다. 15년간의 지난했던 자료 조사와 문헌 비평 및 해석, 그렇게 해서 맺어진 결실이 두 권의 역저 『한국근대미술의 역사』와 『한국현대미술의 역사』이다. \n\n 2015년 개정판으로 새롭게 선보이는『한국근대미술의 역사』에서는  그동안의 연구 성과에 따라 일부 내용을 추가, 수정하였으며, 연도 및 인명의 오류를 바로잡았고, 이에 따라 찾아보기도 수정, 보완하였다. 이 책에서 가장 흥미로운 것은, 기존의 통설 또는 상식을 상당 부분 수정하고 있다는 점이다. 이 밖에도 이른바 ‘친일미술’에 관해서 1940년부터 ‘전시체제미술’이란 항목을 만들어 이미 알려진 사실은 물론, 새로운 사실을 발굴해 대폭 확장해 놓았고, 박물관·미술관·화랑의 발자취에 대해 처음으로 세밀한 정리를 해 놓았다."
+            },
+            {
+                "title": "한국근대미술의 역사 - 미술 이론 -",
+                "link": "https://search.shopping.naver.com/book/catalog/32436023953",
+                "image": "https://shopping-phinf.pstatic.net/main_3243602/32436023953.20220518125128.jpg",
+                "author": "",
+                "discount": "0",
+                "publisher": "알라딘(디폴트)",
+                "pubdate": "19980115",
+                "isbn": "6000515773",
+                "description": "한국근대미술의 역사 \n\n최열 지음 | 열화당 | 1998년 01월 15일 출간 \n\n크기18×25㎝ 판매가42,000원 \n\n\n\n책 소 개\n\n\n\n1800년부터 1945년까지 우리나라 근대 미술의 역사를 사전식으로 편찬한 책. `봉건시대의 미술`, `19세기의미술`을 시작으로 `1944-45년의 미술`까지를 이론활동과 미술가, 화단, 미술기관, 단체 및 교육, 해외활동 등으로 나누어 사진을 곁들여 설명했다.\n\n\n\n목 차\n\n\n\n001. 봉건시대의 미술 \n\n002. 19세기의 미술 \n\n003. 19세기말, 20세기초의 미술 \n\n004. 1910년대의 미술 \n\n005. 1920년대 전반기 \n\n006. 1920년대 후반기 \n\n007. 1930년대 전반기 \n\n008. 1930년대 후반기 \n\n009. 1940년대 전반기"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열화당",
+                "DDC": "709.519",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03600",
+                "PUBLISHER_URL": "http://www.youlhwadang.co.kr",
+                "AUTHOR": "최열",
+                "SERIES_TITLE": "",
+                "KDC": "609.11",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4918998_3.jpg",
+                "PRE_PRICE": "60000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4918998_5.jpg",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "560",
+                "CONTROL_NO": "CIP2015026548",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788930104906",
+                "INPUT_DATE": "20150925",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "6",
+                "BIB_YN": "N",
+                "TITLE": "한국근대미술의 역사",
+                "PUBLISH_PREDATE": "20151020",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

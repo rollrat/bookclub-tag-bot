@@ -1,0 +1,67 @@
+{
+    "otitle": "파리 홀리데이 (2019-2020 개정판)",
+    "oauthor": "정승원 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:43 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "파리 홀리데이 (2019~2020 최신 개정판) (최고의 휴가를 위한 여행 파우치 홀리데이 시리즈 20)",
+                "link": "https://search.shopping.naver.com/book/catalog/32481451701",
+                "image": "https://shopping-phinf.pstatic.net/main_3248145/32481451701.20221229071422.jpg",
+                "author": "정승원",
+                "discount": "14400",
+                "publisher": "꿈의지도",
+                "pubdate": "20190827",
+                "isbn": "9791189469573",
+                "description": "[파리 홀리데이] 2019~2020 최신 개정판! 이번 개정판에서는 바뀐 교통 요금, 관광지 요금 등 전체 정보를 업데이트해 독자들에게 여행의 편리함을 제공한다. 또한, 파리 여행의 하이라이트 루브르 박물관과 오르세 박물관의 바뀐 전시관 및 주요 작품 정보도 수록했다. \n\n예술의 요람, 유럽 여행의 중심지 파리를 가장 핫하고 정확한 정보로 안내한다. 에펠탑, 루브르 박물관 등 누구나 아는 명소도 가장 효율적인 관람 방법과, 함께 알면 좋은 팁을 제시한다. 19세기 낭만이 살아 숨 쉬는 파사주와 예술가, 철학가들이 문학과 사상을 일궈낸 파리의 도심을 거닐다 보면 파리의 가장 깊숙한 곳을 만나게 된다. 파리에서 꼭 가봐야 할 지역뿐 아니라 근교 여행지까지 총망라한 알찬 파리 가이드북이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "꿈의지도",
+                "DDC": "",
+                "UPDATE_DATE": "20190919",
+                "EA_ADD_CODE": "14980",
+                "PUBLISHER_URL": "http://www.dreammap.co.kr",
+                "AUTHOR": "글·사진: 정승원",
+                "SERIES_TITLE": "홀리데이 시리즈",
+                "KDC": "",
+                "EDITION_STMT": "개정 2판, 2019~2020년 최신 개정판",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "9791186581339",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "128*190",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "511 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "20",
+                "EA_ISBN": "9791189469573",
+                "INPUT_DATE": "20190809",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "파리 홀리데이",
+                "PUBLISH_PREDATE": "20190827",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": "14980 "
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

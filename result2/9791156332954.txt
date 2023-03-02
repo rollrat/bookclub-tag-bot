@@ -1,0 +1,67 @@
+{
+    "otitle": "낀 팀장의 일센스",
+    "oauthor": "한상아 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:28 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "낀 팀장의 일센스 (상사와 후배 사이에서 일 잘하는 리더가 되는 기술)",
+                "link": "https://search.shopping.naver.com/book/catalog/32439272469",
+                "image": "https://shopping-phinf.pstatic.net/main_3243927/32439272469.20221019131728.jpg",
+                "author": "한상아",
+                "discount": "12600",
+                "publisher": "다른",
+                "pubdate": "20200730",
+                "isbn": "9791156332954",
+                "description": "젊은 꼰대가 될 것인가, \n위아래로 상전을 모실 것인가\n\n여기, 시키면 시키는 대로 일해온 직장인들이 있다. 타는 속을 달래며 몰래 눈물 훔치던 시절을 지나 회사형 인간이 된 이들은, 매일 아침 회사용 자아를 꺼내 장착하고 출근길에 오른다. 그런 이들의 세계에 새로운 인간형이 등장한다. 상사의 지시에 “왜요?”라고 되묻는 후배들이다. 위계질서에 굴하지 않는 이들은 회사형 인간들을 수시로 놀래킨다. \n꼰대라고 욕먹기 싫은 이들은 회사어 번역기가 되어 후배들을 어르고 달랜다. 그런데 마음이 허하다. 거침없이 의견을 내는 후배들이 사이다 같아 시원하다가도, 어떨 땐 탄산이 과해 목구멍이 터질 것 같다. 와중에 나날이 꼰대력 최고치를 갱신하는 상사들도 타는 목마름에 일조한다. 상사에게 어느 정도 적응했다고 생각했는데 웬걸, 그들의 일방통행은 끝이 없고 하루하루 새롭다. 꼰대 내리사랑을 실천할 것이냐, 위아래로 상전을 모실 것이냐. 상상만으로도 괴로운 이 상황에서 일 잘하는 중간관리자가 되려면 어떻게 해야 할까?"
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Edit :다른",
+                "DDC": "",
+                "UPDATE_DATE": "20200818",
+                "EA_ADD_CODE": "13320",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "글: 한상아",
+                "SERIES_TITLE": "",
+                "KDC": "325.24",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/2020/07/20/9791156332954.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "127*187",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "223 p.",
+                "CONTROL_NO": "CIP2020030218",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791156332954",
+                "INPUT_DATE": "20200720",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "낀 팀장의 일센스",
+                "PUBLISH_PREDATE": "20200730",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

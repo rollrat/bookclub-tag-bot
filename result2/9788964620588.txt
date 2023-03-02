@@ -1,0 +1,67 @@
+{
+    "otitle": "갈색의 세계사",
+    "oauthor": "비자이 프라샤드 저/박소현 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:21 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "갈색의 세계사 (새로 쓴 제3세계 인민의 역사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466954022",
+                "image": "https://shopping-phinf.pstatic.net/main_3246695/32466954022.20221228072155.jpg",
+                "author": "비자이 프라샤드",
+                "discount": "22500",
+                "publisher": "뿌리와이파리",
+                "pubdate": "20150914",
+                "isbn": "9788964620588",
+                "description": "제3세계의 눈으로 20세기 현대사를 바라본다!\n\n제국주의 시대가 저물어갈 즈음부터 아시아, 아프리카, 중남미 인민들은 새로운 세계를 꿈꿨다. 그 꿈을 실현하기 위해 제2차 세계대전 이후 독립한 신생국의 지도자들은 인민들의 희망을 정치적 기획으로 만들어갔다. 식민지 지배와 토착 봉건제의 모순을 동시에 극복하려 했던 그들의 열망은 ‘제3세계’라는 프로젝트로 드러나 한 시대를 뜨겁게 달궜고, 속절없이 무너져내렸다.\n\n『갈색의 세계사』는 정치적 프로젝트로서 제3세계의 흥망성쇠를 살펴보고, 오늘날의 세계를 다른 각도에서 바라보는 방법을 제시한다. 서구가 제3세계 대중운동을 체계적으로 파괴했기 때문이라는 그간의 서구 좌파 지식인들의 분석과 달리 인도 출신의 마르크스주의 역사가인 저자는 제3세계 내부의 모순을 그 뿌리부터 파헤침으로써 제3세계의 실패를 좀더 입체적으로 되돌아본다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "뿌리와이파리",
+                "DDC": "909",
+                "UPDATE_DATE": "20151001",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "http://www.puripari.co.kr",
+                "AUTHOR": "비자이 프라샤드",
+                "SERIES_TITLE": "",
+                "KDC": "909",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4834297_3.jpg",
+                "PRE_PRICE": "25000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4834297_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "약 500페이지",
+                "CONTROL_NO": "CIP2015022968",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788964620588",
+                "INPUT_DATE": "20150820",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "갈색의 세계사",
+                "PUBLISH_PREDATE": "20150914",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

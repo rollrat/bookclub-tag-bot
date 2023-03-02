@@ -1,0 +1,67 @@
+{
+    "otitle": "애도, 어떻게 견뎌야 할까",
+    "oauthor": "바버라 파흘 에버하르트 저/신유진 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:21:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "애도, 어떻게 견뎌야 할까",
+                "link": "https://search.shopping.naver.com/book/catalog/32493291170",
+                "image": "https://shopping-phinf.pstatic.net/main_3249329/32493291170.20221019114611.jpg",
+                "author": "바버라 파흘 에버하르트",
+                "discount": "12600",
+                "publisher": "율리시즈",
+                "pubdate": "20150526",
+                "isbn": "9788998229238",
+                "description": "『애도, 어떻게 견뎌야 할까』는 사랑하는 이와의 이별을 겪은 사람이라면 누구나 되묻게 되는 11가지 질문을 중심으로, 저자가 겪어온 감정의 파고와 현실에서 직면한 삶의 면면들을 차분히 짚어본다. 어쩔 수 없이 살아낼 수밖에 없던 6년간의 여정은, 같은 처지에 있는 사람에게는 귀중한 안내서가 될 것이고, 위로하고 싶어도 방법을 몰랐던 주변인들에게는 진정으로 함께하는 법을 알려주는 지침서가 되어줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "율리시즈",
+                "DDC": "155.937",
+                "UPDATE_DATE": "20211022",
+                "EA_ADD_CODE": "03850",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "바버라 파흘 에버하르트 저; 신유진 역",
+                "SERIES_TITLE": "",
+                "KDC": "182.3",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4592482_3.jpg",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4592482_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015013755",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788998229238",
+                "INPUT_DATE": "20150514",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "애도_어떻게 견뎌야 할까",
+                "PUBLISH_PREDATE": "20150526",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

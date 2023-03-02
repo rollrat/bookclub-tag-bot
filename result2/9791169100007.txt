@@ -1,0 +1,67 @@
+{
+    "otitle": "엄마의 두 번째 명함",
+    "oauthor": "김수영 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:22:07 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "엄마의 두 번째 명함 (나다운 일을 꿈꾸는 엄마의 리스타트 프로젝트)",
+                "link": "https://search.shopping.naver.com/book/catalog/32490747323",
+                "image": "https://shopping-phinf.pstatic.net/main_3249074/32490747323.20230218110447.jpg",
+                "author": "김수영",
+                "discount": "13500",
+                "publisher": "미다스북스",
+                "pubdate": "20220324",
+                "isbn": "9791169100007",
+                "description": "엄마 다음의 삶, \n나의 커리어는 이대로 괜찮은가?\n\n경력단절 전업맘? 불안불안 워킹맘?\n육춘기 엄마, 지금이 넥스트 커리어를 찾아야 할 때다!\n\n마인드세팅과 워밍업 탐색부터 \n커리어로드맵 워크샵까지 한 권에 다 담았다!\n\n출산 후 여성의 삶은 완전히 다른 차원이다. 무사히 아이를 낳은 뒤 정신없이 육아하면서 조금이라도 숨 돌릴 틈이 생기면 엄마는 불쑥불쑥 생각한다. 경력단절, 복직, 워킹맘, 전업맘, 커리어, 꿈, 자존감…. 수많은 말들이 엄마의 마음속에서 소용돌이친다. 엄마 이전의 삶과 엄마 다음의 삶이 너무도 다르기에, 당연히 겪을 수밖에 없는 제2, 제3의 사춘기이다. \n\n이런 수많은 엄마들과 똑같은 혼란과 절박함을 가지고 있었던 저자는 육아휴직기에 ‘엄마 다음의 삶’을 준비하기 시작했다. 현재는 1인기업가이자 여성 커리어 코치, 상담가 등으로 활약하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "미다스북스",
+                "DDC": "",
+                "UPDATE_DATE": "20220603",
+                "EA_ADD_CODE": "03190",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김수영 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "319 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791169100007",
+                "INPUT_DATE": "20220302",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "1",
+                "BIB_YN": "Y",
+                "TITLE": "엄마의 두 번째 명함",
+                "PUBLISH_PREDATE": "20220324",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

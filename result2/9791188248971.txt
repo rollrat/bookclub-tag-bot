@@ -1,0 +1,67 @@
+{
+    "otitle": "가끔 여행하고 매일 이사합니다",
+    "oauthor": "하지희 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:03:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "가끔 여행하고 매일 이사합니다 (움직이는 행복, 밴 라이프)",
+                "link": "https://search.shopping.naver.com/book/catalog/32466649670",
+                "image": "https://shopping-phinf.pstatic.net/main_3246664/32466649670.20221229071818.jpg",
+                "author": "하지희",
+                "discount": "13500",
+                "publisher": "웨일북",
+                "pubdate": "20190820",
+                "isbn": "9791188248971",
+                "description": "지속 가능한 삶을 위해 밴 라이프(Van life)를 선택한 이들의 이야기!\n\n삶을 고스란히 살기 위해 매일의 이사를 마다하지 않는 연인의 이야기 『가끔 여행하고 매일 이사합니다』. 매일 표정을 감추고 언제 터질지 모르는 폭탄만 안고 있던 이들에겐 마음을 꿰맬 시간이 없었다. 그렇게 일상 대부분의 것을 포기해도 결국 돌아오는 건 월급 절반의 월세였다. 결국 번아웃 증후군이라는 진단명을 받고 정신이 번쩍 들었다. 고장 난 마음을 수리하고 방향을 찾아야만 했다. \n\n남들처럼 사는 삶에서 벗어나 나답게 지내는 시간을 보내기로 결심하고 아주 작고 생각보다 더 불편한 집, 두 평 남짓한 밴으로 모든 짐을 옮기고 길 위의 삶을 선택한 이들은 매일 새로운 풍경에서 겪은 적 없는 전투를 준비하며 살아간다. 길 위에서의 2년. 매일 이사하는 번거로움 속에서 이들은 여전히 비슷한 고민과 무게 있는 걱정을 끌어안고 있지만 한 가지 정확하게 깨달은 것이 있다고 이야기한다. 삶을 대하는 방식에 정확한 정답은 없다는 것이다.\n\n이 책에서의 밴 라이프는 삶에 대한 연습이자 배움이고 새로운 시작으로의 여정이다. 이들은 멈춰 있던 집에서 움직이는 집으로의 단순한 이동에서 멈추지 않고, 삶을 능동적으로 만들겠다는 다짐, 생각의 확장이라는 의지를 내보인다. 몸을 움직여 바뀌는 상황에 스스로를 내맡기면 생각의 변화가 오기 마련이고, 이것이 성장이자 또 다른 삶의 의미를 찾는 과정임을 일깨워준다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "Whale Books(웨일북)",
+                "DDC": "",
+                "UPDATE_DATE": "20190902",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://whalebook.co.kr",
+                "AUTHOR": "하지희 지음",
+                "SERIES_TITLE": "",
+                "KDC": "818",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "15000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "130*188",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "339 p.",
+                "CONTROL_NO": "CIP2019029644",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188248971",
+                "INPUT_DATE": "20190729",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "가끔 여행하고 매일 이사합니다",
+                "PUBLISH_PREDATE": "20190820",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

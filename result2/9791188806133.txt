@@ -1,0 +1,67 @@
+{
+    "otitle": "치유하는 나무 위로하는 숲",
+    "oauthor": "마르코 멘칼리,마르코 니에리 공저/박준식 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:30:33 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "치유하는 나무 위로하는 숲 (우리를 회복시키는 녹색공간의 힘)",
+                "link": "https://search.shopping.naver.com/book/catalog/32440858285",
+                "image": "https://shopping-phinf.pstatic.net/main_3244085/32440858285.20221228073441.jpg",
+                "author": "마르코 멘칼리^마르코 니에리",
+                "discount": "15300",
+                "publisher": "목수책방",
+                "pubdate": "20200320",
+                "isbn": "9791188806133",
+                "description": "《치유하는 나무 위로하는 숲》은 이런 책입니다!\n\n치유하고 위로하는 식물의 능력을 활용하고 다시 지구의 녹색공간들과 연결되어 건강과 행복을 되찾을 수 있는 방법을 안내하는 책이다. 저자들은 여러 과학적 근거를 제시하며 산림욕, 생체에너지 경관, 실내 공기정화식물 같은 녹색 치유요법들이 심리적인 부분에만 영향을 미치는 것이 아니라 인간의 건강, 사회적인 문제 해결에도 큰 도움이 된다는 사실을 증명하고 있으며, 이런 요법들을 효과적으로 활용할 수 있는 방법도 소개한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "목수책방",
+                "DDC": "",
+                "UPDATE_DATE": "20200403",
+                "EA_ADD_CODE": "03400",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "지은이: 마르코 멘칼리,마르코 니에리 ;옮긴이: 박준식",
+                "SERIES_TITLE": "",
+                "KDC": "512.49",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "17000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*195",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "277 p.",
+                "CONTROL_NO": "CIP2020006361",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188806133",
+                "INPUT_DATE": "20200212",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "치유하는 나무 위로하는 숲",
+                "PUBLISH_PREDATE": "20200320",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "김홍표의 크리스퍼 혁명",
+    "oauthor": "김홍표 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:06:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "김홍표의 크리스퍼 혁명 (DNA 이중나선에서부터 크리스퍼 유전자가위까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32475029228",
+                "image": "https://shopping-phinf.pstatic.net/main_3247502/32475029228.20230214162254.jpg",
+                "author": "김홍표",
+                "discount": "18000",
+                "publisher": "동아시아",
+                "pubdate": "20171108",
+                "isbn": "9788962622072",
+                "description": "모두를 위해 친절한 언어로 설명하는 크리스퍼 유전자가위!\n\n크리스퍼 유전자가위는 유전질환이나 암, 난치성 질환 치료에 이용되고 있다. 그런데 일반인들이 눈 깜짝할 새도 없이 빠르게 발전하는 유전공학 기술을 이해하며 받아들이기란 어렵기 그지없다. 김홍표 교수가 2년여에 걸쳐 집필한『김홍표의 크리스퍼 혁명』은 크리스퍼가 무엇인지, 이 기술이 얼마나 혁신적인지 독자의 눈높이에 맞추어 알기 쉬운 언어로 친절히 설명하고 있다.\n\n제1장에서는 본격적으로 유전자를 다룬다. 생명이 진화하며 각각의 종이 DNA를 어떻게 진화시켰는지 흥미진진하게 설명한다. 진화적 관점에서 DNA를 바라보며 DNA에 쓰인 비밀에 한 발씩 접근해나간다. 제2장부터 본격적으로 유전자가위가 등장한다. 크리스퍼는 언제, 어떻게 발견된 것이며 그 원리는 무엇인지 상세히 설명한다. 제한효소와 DNA 회문구조가 펼치는 기가 막힌 양동작전을 따라가다 보면 크리스퍼 유전자가위가 얼마나 효율적인 도구인지 새삼 깨닫게 된다. \n\n제3장에서는 왜 사람들이 크리스퍼를 ‘발명’이라 부르지 않고 ‘발견’이라 부르는지, 크리스퍼가 등장한 과정을 시기별, 사건별로 상세히 정리한다. 지금 크리스퍼 유전자가위 연구를 선도하고 있는 제니퍼 다우드나, 장펑, 김진수 박사를 소개하면서 이 기술의 현재를 기록하고, 크리스퍼가 바꿀 가까운 미래를 예견한다. 제4장은 모기의 박멸, 바이러스에 강한 바나나 품종 개발, 뱀의 다리를 다시 되돌리려는 시도 등, 크리스퍼 유전자가위가 어떻게 응용되고 있는지 몇 가지 사례를 들어 설명한다. 제5장에서는 유전자가위로 생명체의 생식을 어떻게 조절할 수 있는지, 유전자가 대물림되는 방식을 통해 이해해보고, 제6장을 통해 크리스퍼 유전자가위의 사회적·윤리적 문제들을 짚어가며 어떻게 과학을 발전시킬 것인가 고찰한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "572.8633",
+                "UPDATE_DATE": "20171116",
+                "EA_ADD_CODE": "03470",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김홍표 지음",
+                "SERIES_TITLE": "",
+                "KDC": "476.10733",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6405626_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6405626_3.jpg",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "335 p.",
+                "CONTROL_NO": "CIP2017027889",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962622072",
+                "INPUT_DATE": "20171025",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "4",
+                "BIB_YN": "Y",
+                "TITLE": "김홍표의 크리스퍼 혁명",
+                "PUBLISH_PREDATE": "20171108",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

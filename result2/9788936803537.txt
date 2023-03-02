@@ -1,0 +1,78 @@
+{
+    "otitle": "이야기 영국사",
+    "oauthor": "김현수 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:25:41 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "이야기 영국사 (아서 왕에서 엘리자베스 2세까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32502523023",
+                "image": "https://shopping-phinf.pstatic.net/main_3250252/32502523023.20220521104841.jpg",
+                "author": "김현수",
+                "discount": "16200",
+                "publisher": "청아출판사",
+                "pubdate": "20060726",
+                "isbn": "9788936803537",
+                "description": "영국 정치의 핵심을 이루는 영국 왕들의 일대기를 통해 영국 역사에 구체적으로 접근한 책. 시대를 제패한 왕부터 몰락한 왕들이 보여주는 리더십과 정치적 다양성, 권력의 이동과 현재까지 적용되는 권력의 속성을 영국의 역사를 통해 다루었다.\n\n\n\n해리 포터, 영문학을 대표하는 작가와 왕이 영국인의 가슴 속에 살아 있는 이유, 영국 왕실의 과거부터 현재까지의 굴곡까지 영국에 대한 단편적인 사실들을 엿볼 수 있다. 또한 민주주의의 초기 법령을 제정한 에드워드 1세, 시민과 타협하는 정치체제를 수립한 윌리엄 3세를 거쳐 왕-귀족-시민의 균형을 이루어가며 오늘날의 정치제도로 숙성되기까지의 과정을 담았다."
+            },
+            {
+                "title": "이야기 영국사(보급판) (아서 왕부터 엘리자베스 2세까지)",
+                "link": "https://search.shopping.naver.com/book/catalog/32476762854",
+                "image": "https://shopping-phinf.pstatic.net/main_3247676/32476762854.20221019142310.jpg",
+                "author": "김현수",
+                "discount": "9000",
+                "publisher": "청아출판사",
+                "pubdate": "20200901",
+                "isbn": "9788936811709",
+                "description": "권력의 정점으로 살펴보는 영국의 역사\n\n영국에는 유독 전 세계를 사로잡은 콘텐츠가 다양하다. 이를테면 아서 왕과 엘리자베스 1세, 셰익스피어, 해리 포터 등이 책과 영화를 통해 끊임없이 재생산되고 있다. 또한 지구상의 거의 대부분의 국가들이 채택한 민주주의 역시 영국에서 숙성된 것이다. 《이야기 영국사》는 영국 정치의 핵심인 왕들의 일대기를 통해 영국에 접근한다. 그들이 보여주는 리더십과 정치적 다양성, 권력의 속성 등이 흥미진진하게 펼쳐진다.\n\n위 도서는 이야기 역사시리즈 [보급판]으로 본문 내용은 동일하나 내지 인쇄가 컬러에서 흑백으로 변경되었습니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20060913",
+                "EA_ADD_CODE": "04900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김현수 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "8936803417",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "16000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "8936803530",
+                "INPUT_DATE": "20060913",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "이야기 영국사",
+                "PUBLISH_PREDATE": "20060725",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

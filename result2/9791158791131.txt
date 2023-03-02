@@ -1,0 +1,67 @@
+{
+    "otitle": "폴른",
+    "oauthor": "데이비드 발다치 저/김지선 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:32:10 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "폴른: 저주받은 자들의 도시 (데이비드 발다치 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32438303762",
+                "image": "https://shopping-phinf.pstatic.net/main_3243830/32438303762.20230131165300.jpg",
+                "author": "데이비드 발다치",
+                "discount": "13320",
+                "publisher": "더난출판사",
+                "pubdate": "20190712",
+                "isbn": "9791158791131",
+                "description": "195센티미터에 달하는 큰 키와 전직 미식축구 선수다운 거대한 체구, 그리고 과거 물리적 충격으로 비정상적인 의학적 조건을 갖추게 된 에이머스 데커는 어떤 것도 잊지 못하는 완벽한 기억력과 공감각이라는 특별한 능력을 지닌 초인적인 인물에 가깝다. 형사 진급 시험 통과, 최고의 검거율을 기록했으나 일가족의 죽음은 그의 능력을 한순간에 저주로 뒤바꿔놓았고, 삶을 포기한 채 노숙인 생활을 전전했음에도 비상한 두뇌를 바탕으로 남들과는 다른 사건 해결력을 지닌 그의 매력에 전 세계 대중과 언론의 호평도 쇄도했다. “에이머스 데커라는 인물은 데이비드 발다치가 스릴러 세계에 날린 홈런이다”, “매우 인간적이고 생생한 캐릭터, 반드시 다시 만나고 싶다” 등의 찬사가 쏟아졌고, 미국의 주요 언론사 [커커스 리뷰]는 “독자들은 이 책을 펴는 순간 에이머스 데커의 이야기가 끝나지 않기만을 바랄 것이다”라 호평했으며, 국내에서도 출간 즉시 데이비드 발다치의 신작을 기다려온 독자들의 입소문을 타고 큰 호응을 얻었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북로드 :더난콘텐츠그룹",
+                "DDC": "",
+                "UPDATE_DATE": "20190710",
+                "EA_ADD_CODE": "03840",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "지은이: 데이비드 발다치 ;옮긴이: 김지선",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "140*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "573 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791158791131",
+                "INPUT_DATE": "20190617",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "폴른: 저주받은 자들의 도시",
+                "PUBLISH_PREDATE": "20190712",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

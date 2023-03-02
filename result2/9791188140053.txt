@@ -1,0 +1,67 @@
+{
+    "otitle": "아들의 땅",
+    "oauthor": "지피 글,그림/이현경 역",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:20:12 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "아들의 땅",
+                "link": "https://search.shopping.naver.com/book/catalog/32504336445",
+                "image": "https://shopping-phinf.pstatic.net/main_3250433/32504336445.20221019142127.jpg",
+                "author": "지피",
+                "discount": "16200",
+                "publisher": "북레시피",
+                "pubdate": "20170530",
+                "isbn": "9791188140053",
+                "description": "인류애의 시초를 말하는 감동의 드라마!\n\n만화가 최초로 이탈리아 최고의 문학상인 스트레가 상 최종 후보에 올랐던 이탈리아 최고의 카툰 아티스트 지피의 『아들의 땅』. 만화라는 형태 아래 소설처럼 깊이 있는 주제를 다루며 인간 본연의 삶을 되돌아보고 성찰하게 하는 작품이다. 종말 이후, 문명이 사라진 세계에서 살아가는 아버지와 두 아들. 아버지는 두 아들을 거칠고 미개한 새로운 세상에 맞서는 존재로 키우기 위해 글도 가르치지 않고 감정과 관련된 어떤 단어도 알려주지 않는다. 그리고 매일 밤 일기장에 무언가를 남긴다. \n\n두 아들은 아버지의 일기장이 궁금하다. 어쩌면 거기에는 그들이 생존하는 데 필요한 해답이 쓰여 있을지도 모른다고 생각한 두 아들은 아버지의 죽음 이후 일기장에 담겨 있는 비밀을 밝혀내기 위해 그것을 읽어줄 수 있는 사람을 찾아 나서는데……. 문명과 지식이 닿지 않은 거칠고 단순한 세상을 통해 온갖 비리와 사회악이 만연한 오늘날의 현실을 적나라하게 드러내는 이 작품은 불확실한 미래에 대한 결코 가볍지 않은 메시지를 우리에게 던진다. 종말 이후에도 여전히 존재하는 선과 악, 사랑과 증오, 그릇된 신앙. 그 혼돈 속에서 삶의 철학과 의미를 체험하게 한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "북레시피",
+                "DDC": "",
+                "UPDATE_DATE": "20170720",
+                "EA_ADD_CODE": "07880",
+                "PUBLISHER_URL": "www.bookrecipe.co.kr",
+                "AUTHOR": "지피 글,그림 ;이현경 옮김",
+                "SERIES_TITLE": "",
+                "KDC": "880",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6225021_3.jpg",
+                "PRE_PRICE": "18000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/6225021_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "287 p.",
+                "CONTROL_NO": "CIP2017011873",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791188140053",
+                "INPUT_DATE": "20170517",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "아들의 땅",
+                "PUBLISH_PREDATE": "20170530",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

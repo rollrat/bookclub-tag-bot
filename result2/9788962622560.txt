@@ -1,0 +1,67 @@
+{
+    "otitle": "우리 몸이 세계라면",
+    "oauthor": "김승섭 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:23:57 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "우리 몸이 세계라면 (분투하고 경합하며 전복되는 우리 몸을 둘러싼 지식의 사회사)",
+                "link": "https://search.shopping.naver.com/book/catalog/32436143723",
+                "image": "https://shopping-phinf.pstatic.net/main_3243614/32436143723.20230218110606.jpg",
+                "author": "김승섭",
+                "discount": "17280",
+                "publisher": "동아시아",
+                "pubdate": "20181207",
+                "isbn": "9788962622560",
+                "description": "2017년 &lt;아픔이 길이 되려면&gt;으로 큰 화제를 모았던 고려대 보건과학대학 김승섭 교수가 집필했다. 1,120편의 논문을 검토하고, 300여 편의 문헌을 구체적 근거로 삼았다. 1348년 프랑스 국왕 필리프 6세의 지시로, 파리 의과대학 교수가 쓴 흑사병 원인에 대한 보고서부터 유방암 치료에 영향을 미치는 세포 단위의 에스트로겐 수용체가 사회제도의 영향을 받는다는 내용을 밝힌 최신의 논문까지. 시대와 공간을 횡단하며 지식의 최전선에서 우리 몸을 둘러싼 지식의 경합과 지식인들의 분투를 담아냈다.\n\n\n\n“인간의 몸은 다양한 관점이 각축하는 전장”이라는 저자의 말처럼 이 책은 지식의 전쟁터가 된 우리 몸에 대하여 다루고 있다. 몸을 둘러싼 지식의 생산 과정에 대해 말하면서, 어떤 지식이 생산되고 어떤 지식은 생산되지 않는지, 누가 왜 특정 지식을 생산하는지, 우리에게 필요한 지식을 만들기 위해 ‘상식’이라 불리는 것들에 질문해야 하는 이유는 무엇인지 말하고 있다.\n\n\n\n전작 &lt;아픔이 길이 되려면&gt;이 10년간 김승섭 교수가 언론 매체를 통해 소통한 글들을 엮은 것이라면, &lt;우리 몸이 세계라면&gt;은 지난 20년 동안 의학과 보건학을 통해 공부해온 몸과 질병에 관한 주제들을 ‘지식’에 방점을 찍고 새로 집필한 책이다. 집필 기간은 1년이었지만 20년간의 고민과 공부가 담겼다. 방대한 자료를 검토했고, 그것들을 저자 특유의 정갈한 언어로 담아냈다. 과학과 역사의 사례, 현대의 여러 연구를 망라하며, 사회역학자의 글답게 데이터를 근거 삼아 이야기한다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "동아시아",
+                "DDC": "361",
+                "UPDATE_DATE": "20181218",
+                "EA_ADD_CODE": "03330",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김승섭 지음",
+                "SERIES_TITLE": "",
+                "KDC": "334",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7032816_6.txt",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "20000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/7032816_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "148*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "양장본",
+                "PAGE": "347 p.",
+                "CONTROL_NO": "CIP2018038845",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788962622560",
+                "INPUT_DATE": "20181128",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "우리 몸이 세계라면",
+                "PUBLISH_PREDATE": "20181207",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

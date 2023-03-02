@@ -1,0 +1,67 @@
+{
+    "otitle": "내 아이가 듣고 싶은 엄마의 말",
+    "oauthor": "민병직 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:08:03 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "내 아이가 듣고 싶은 엄마의 말 (30년 초등교사의 엄마 말수업)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493469646",
+                "image": "https://shopping-phinf.pstatic.net/main_3249346/32493469646.20221019135112.jpg",
+                "author": "민병직",
+                "discount": "12600",
+                "publisher": "더난출판사",
+                "pubdate": "20160627",
+                "isbn": "9788984058569",
+                "description": "『내 아이의 듣고 싶은 엄마의 말』은 저자 민병직이 오랜 기간 학교 현장에서 아이들과 함께하며 얻어낸 경험과 지혜를 통해 엄마들에게 ‘긍정의 말습관’을 전한다. 아이들의 생생한 목소리를 들을 수 있도록 다양한 사례와 일기 등을 담고 있으며, 아이의 잠재력을 깨울 수 있는 영역별 엄마의 대화법 또한 소개하고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "더난출판",
+                "DDC": "",
+                "UPDATE_DATE": "20161025",
+                "EA_ADD_CODE": "13590",
+                "PUBLISHER_URL": "www.thenanbiz.com",
+                "AUTHOR": "민병직",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "14000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "260",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788984058569",
+                "INPUT_DATE": "20160526",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "5",
+                "BIB_YN": "Y",
+                "TITLE": "내 아이가 듣고 싶은 엄마의 말",
+                "PUBLISH_PREDATE": "20160627",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "otitle": "탄탄한 문장력",
+    "oauthor": "브랜던 로열 저/구미화 역 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:31:15 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "탄탄한 문장력 (보기 좋고 읽기 쉬운 정교한 글쓰기의 법칙 20)",
+                "link": "https://search.shopping.naver.com/book/catalog/32477646279",
+                "image": "https://shopping-phinf.pstatic.net/main_3247764/32477646279.20230218110306.jpg",
+                "author": "브랜던 로열",
+                "discount": "9000",
+                "publisher": "카시오페아",
+                "pubdate": "20150620",
+                "isbn": "9791185952154",
+                "description": "보기 좋고 읽기 쉬운 글을 쓰는 가장 핵심적인 원칙들을 담았다. 블로그, 자기소개서, 업무 보고서 등 종류를 불문하고 당신이 써놓은 문장을 찬찬히 들여다보라. 습관처럼 쓰는 지루한 표현들, 읽는 이의 눈높이에 맞지 않는 문장들, 욕심 때문에 길게 늘어놓은 문장들…… 이렇게 사소한 실수들이 글을 망친다. 매력적인 글쓰기를 위해 당장 익혀야 할 것은 화려한 문장력이 아니라 문장의 실수를 바로잡아줄‘20가지 기본원칙’이다. 이 원칙을 지켜서 쓰기만하면 어느새 모든 문장이 탄탄해진다.\n\n\n\n저자인 브랜던 로열은 하버드대학교에서 글쓰기 과정을 이수하면서 생각보다 많은 사람들이 ‘글쓰기에 대한 두려움’을 가지고 있다는 것을 깨달았고, 그때부터 ‘누구나 활용할 수 있는 실용적인 글쓰기 법칙’을 고안하는 데 관심을 쏟았다. 결국「워싱턴포스트」지의 자회사이자 세계 최대의 시험 준비 기관인 캐플런 교육센터에서 근무하는 동안 글쓰기와 교육이론을 접목시키는 데 성공했고, 마침내 어떤 종류의 글에도 통용되는 글쓰기의 기본원칙을 개발하기에 이르렀다.\n\n\n\n불변의 글쓰기 원칙을 담은 그의 저서는 「타임」 지와「퍼블리셔스 위클리」, ‘About.com’ 등에서 호평을 받았으며, 2011년 캐나다 출판인협회가 선정한 ‘올해의 교육서적’, 「USA 북 뉴스」가 뽑은 최고의 책, 미국의 도서 전문 잡지 「Foreword」가 선정한 올해의 책, 프랭클린 도서전과 글로벌 e북 어워드에서 최고의 작품상을 받으며 지금까지도 독자들의 사랑을 꾸준히 받고 있다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "카시오페아",
+                "DDC": "808",
+                "UPDATE_DATE": "20150709",
+                "EA_ADD_CODE": "03800",
+                "PUBLISHER_URL": "http://blog.naver.com/cassiopeiabo",
+                "AUTHOR": "브랜던 로열 ",
+                "SERIES_TITLE": "",
+                "KDC": "802",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "http://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4629854_3.jpg",
+                "PRE_PRICE": "10000",
+                "BOOK_INTRODUCTION_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4629854_5.txt",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "https://www.nl.go.kr/seoji/fu/ecip/dbfiles/CIP_FILES_TBL/4629854_7.txt",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "CIP2015015168",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791185952154",
+                "INPUT_DATE": "20150601",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "Y",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "탄탄한 문장력 : 보기 좋고 읽기 쉬운 정교한 글쓰기의 법칙 20",
+                "PUBLISH_PREDATE": "20150620",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

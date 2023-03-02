@@ -1,0 +1,67 @@
+{
+    "otitle": "비닐봉지는 안 주셔도 돼요",
+    "oauthor": "최정화 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:15:38 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "비닐 봉지는 안 주셔도 돼요 (소설가의 제로 웨이스트 실천기)",
+                "link": "https://search.shopping.naver.com/book/catalog/33162391625",
+                "image": "https://shopping-phinf.pstatic.net/main_3316239/33162391625.20221019114304.jpg",
+                "author": "최정화",
+                "discount": "12420",
+                "publisher": "열린책들",
+                "pubdate": "20220705",
+                "isbn": "9788932922720",
+                "description": "에코 페미니스트 소설가 최정화의 제로 웨이스트 실천기. \n\n자신의 도시 생활을 돌아보며 〈버리는 과정〉에서 벌어지는 에피소드와 실천기를 담았다. 다양한 독서에서 갈무리한 문장들을 아포리즘 삼아 읽는 재미를 더하고 일상적 눈높이의 실천 방식을 제시한다.\n\n시도하고 실패하며 생생하게 체득한 〈재활용보다는 재사용〉, 〈비건이 어렵다면 채식주의 리얼리티〉, 〈제로에 앞서 영쩜일 웨이스트〉라는 지속 가능한 원칙을 통해 환경을 위한 실천을 우리 삶에 밀착시킨다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "열린책들",
+                "DDC": "",
+                "UPDATE_DATE": "20220722",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "최정화 지음",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "13800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "135*210",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "206 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788932922720",
+                "INPUT_DATE": "20220602",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "Y",
+                "TITLE": "비닐봉지는 안 주셔도 돼요",
+                "PUBLISH_PREDATE": "20220705",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

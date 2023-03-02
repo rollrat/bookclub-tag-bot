@@ -1,0 +1,78 @@
+{
+    "otitle": "책들의 부엌",
+    "oauthor": "김지혜 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:29:31 +0900",
+        "total": 2,
+        "start": 1,
+        "display": 2,
+        "items": [
+            {
+                "title": "책들의 부엌(큰글자도서)",
+                "link": "https://search.shopping.naver.com/book/catalog/35328755619",
+                "image": "https://shopping-phinf.pstatic.net/main_3532875/35328755619.20221027194624.jpg",
+                "author": "김지혜",
+                "discount": "28500",
+                "publisher": "팩토리나인",
+                "pubdate": "20221005",
+                "isbn": "9791165345679",
+                "description": "큰글자도서 소개\n리더스원의 큰글자도서는 글자가 작아 독서에 어려움을 겪는 모든 분들에게 편안한 독서 환경을 제공함으로써 책 읽기의 즐거움을 되찾아 드리고자 합니다.\n\n★★★ 《달러구트 꿈 백화점》을 이을 2022년 최대 기대작! ★★★\n갓 지은 맛있는 책 냄새가 폴폴 풍기는 \n여기는 ‘소양리 북스 키친’입니다\n\n스타트업을 창업해 몇 년간 앞만 보며 달려왔던 주인공 유진, 우연히 찾아간 소양리에서 마법에 걸리듯 북 카페를 열기로 마음먹고 서울 생활을 미련 없이 정리한다. 입맛에 맞는 음식을 추천해 주듯 꼭 맞는 책을 추천해 주고, 책과 어울리는 맛있는 음식을 먹으며 힐링하는 곳, 숨겨뒀던 마음까지 위로받고 격려받는 곳, ‘소양리 북스 키친’은 그렇게 문을 연다. \n그곳을 찾아온 9명의 손님들에게는 어떤 사연이 있는 걸까?"
+            },
+            {
+                "title": "책들의 부엌 (인사이드 에디션) (김지혜 장편소설)",
+                "link": "https://search.shopping.naver.com/book/catalog/32463360446",
+                "image": "https://shopping-phinf.pstatic.net/main_3246336/32463360446.20230214163614.jpg",
+                "author": "김지혜",
+                "discount": "12400",
+                "publisher": "팩토리나인",
+                "pubdate": "20220512",
+                "isbn": "9791165345204",
+                "description": "★★★ 《책들의 부엌》 50쇄 기념 인사이드 에디션 출간 ★★★\n일상에서 벗어나고 싶은 사람들을 위한 안식처 \n여기는 ‘소양리 북스 키친’입니다.\n\n50쇄 기념 인사이드 에디션 Inside Edition은 안에서 바라보는 소양리의 풍경도 느껴보셨으면 하는 마음을 담아 소양리 북스 키친 내부의 따뜻한 분위기를 담았습니다. \n맑은 공기, 편안한 휴식, 그리고 맛있는 책 한 권과 함께, 책들의 부엌에서 잠시 쉬어가세요. \n\n스타트업을 창업해 몇 년간 앞만 보며 달려왔던 주인공 유진, 우연히 찾아간 소양리에서 마법에 걸리듯 북 카페를 열기로 마음먹고 서울 생활을 미련 없이 정리한다. 입맛에 맞는 음식을 추천해 주듯 꼭 맞는 책을 추천해 주고, 책과 어울리는 맛있는 음식을 먹으며 힐링하는 곳, 숨겨뒀던 마음까지 위로받고 격려받는 곳, ‘소양리 북스 키친’은 그렇게 문을 연다. \n그곳을 찾아온 9명의 손님들에게는 어떤 사연이 있는 걸까?\n\n※인사이드 에디션: 매장 구매, 바로드림 구매 시에는 일반판과 랜덤으로 제공됩니다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "(주)쌤앤파커스",
+                "DDC": "",
+                "UPDATE_DATE": "",
+                "EA_ADD_CODE": "03810",
+                "PUBLISHER_URL": "http://www.smpk.co.kr/",
+                "AUTHOR": "저자 : 김지혜",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "30000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "N",
+                "BOOK_SIZE": "210*297",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "296",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9791165345679",
+                "INPUT_DATE": "20220728",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "8",
+                "BIB_YN": "N",
+                "TITLE": "[큰글자도서]책들의 부엌",
+                "PUBLISH_PREDATE": "20220916",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

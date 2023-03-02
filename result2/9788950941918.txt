@@ -1,0 +1,67 @@
+{
+    "otitle": "세븐 웨이브",
+    "oauthor": "홍석철 등저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:17:42 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "세븐 웨이브 (팬데믹 이후, 대한민국 뉴노멀 트렌드를 이끌 7가지 거대한 물결)",
+                "link": "https://search.shopping.naver.com/book/catalog/34933706623",
+                "image": "https://shopping-phinf.pstatic.net/main_3493370/34933706623.20221019114614.jpg",
+                "author": "홍석철",
+                "discount": "17820",
+                "publisher": "21세기북스",
+                "pubdate": "20220928",
+                "isbn": "9788950941918",
+                "description": "“우리가 알고 있던 모든 좌표가 뒤집혔다”\n팬데믹 이후, 대한민국 뉴노멀 트렌드를 이끌 7가지 거대한 물결\n\n인류사적 대사건으로 기록될 코로나19 팬데믹은 수많은 희생을 초래했을 뿐 아니라, 우리가 알고 있던 모든 가치와 기준을 송두리째 바꿔놓았다. 이 책은 우리 사회가 감염병에 대응하고 극복하는 동안 질병과 경제의 관계를 설명하며 ‘팬데믹 경제학자’로 주목받은 홍석철 교수를 필두로, 서울대학교 사회과학대학 석학 7인이 모여 코로나19로 우리 삶의 전 영역에 일어난 거대한 변화가 미칠 장기적 영향을 논의한 합동 프로젝트의 결과물이다. \n이 프로젝트에 참여한 국내 최고의 사회·경제 전문가들은 코로나19가 한국 사회에 불러온 가치, 제도, 문화적 변화와 그것이 만들어가는 새로운 질서를 7가지 영역에서 전방위적으로 설명한다. 보건의료를 넘어 사회적 가치와 관계, 정치문화, 기술의 활용, 개인의 권한, 이동성 등 포스트 코로나 시대의 ‘뉴노멀’에 대한 각 분야의 깊이 있는 분석과 통찰을 집대성했다. 이 책은 한국 사회의 큰 변화를 전망하고 가까운 미래에 펼쳐질 뉴노멀 시대에 어떻게 대응해야 할지 시사점을 제시해줄 것이다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "21세기북스(북이십일 21세기북스)",
+                "DDC": "",
+                "UPDATE_DATE": "20221020",
+                "EA_ADD_CODE": "03300",
+                "PUBLISHER_URL": "http://www.book21.co.kr",
+                "AUTHOR": "지은이: 홍석철,김수영,이건학,이준환,임동균,조동준,한소원",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "20220928",
+                "TITLE_URL": "",
+                "PRE_PRICE": "19800",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "152*225",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "종이책",
+                "FORM_DETAIL": "무선제본",
+                "PAGE": "268 p.",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788950941918",
+                "INPUT_DATE": "20220914",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "",
+                "SUBJECT": "3",
+                "BIB_YN": "Y",
+                "TITLE": "세븐 웨이브",
+                "PUBLISH_PREDATE": "20220928",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}

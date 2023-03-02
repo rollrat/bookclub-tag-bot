@@ -1,0 +1,67 @@
+{
+    "otitle": "미술사를 움직인 100인",
+    "oauthor": "김영은 저",
+    "search": {
+        "lastBuildDate": "Thu, 02 Mar 2023 00:13:46 +0900",
+        "total": 1,
+        "start": 1,
+        "display": 1,
+        "items": [
+            {
+                "title": "미술사를 움직인 100인 (안견부터 앤디 워홀까지 동서양 미술사를 만든 사람들)",
+                "link": "https://search.shopping.naver.com/book/catalog/32493476626",
+                "image": "https://shopping-phinf.pstatic.net/main_3249347/32493476626.20221230074934.jpg",
+                "author": "김영은",
+                "discount": "26100",
+                "publisher": "청아출판사",
+                "pubdate": "20131015",
+                "isbn": "9788936810504",
+                "description": "국내외를 막론하고 13세기부터 현대에 이르는 미술가들을 총망라하여 그들의 삶과 시대, 작품에 대해 설명한다. 그리고 인물에 중점을 두면서도 미술사의 흐름 역시 놓치지 않도록 하였다. 이로써 초기 르네상스, 바로크 등에서부터 추상미술이나 팝아트로 대표되는 현대 미술에 이르기까지, 미술 사조가 바뀌어 가는 과정을 통해 일련의 미술사적인 흐름을 확인할 수 있다.\n\n\n\n미술 작품은 그 작품을 만든 작가의 삶과 시대의 산물이다. 따라서 작가의 삶과 배경을 제대로 이해했을 때 미술 작품에 훨씬 쉽게 다가갈 수 있다. 이 책에서는 미술사를 대표하는 100인의 삶과 그 시대를 살펴봄과 동시에, 그들의 대표작에 관한 해설을 함께 곁들이고 있다.\n\n\n\n특히 각 장마다 관련 작품 등의 시각적 자료를 풍부하게 수록함으로써 독자의 적극적인 이해와 몰입을 도왔다. 한편 서양 미술사만을 중심으로 다뤄왔던 기존의 미술 관련 서적들과는 차별화하여 국내 작가만을 다루는 국내 편을 따로 마련했다.\n\n\n\n이와 더불어 중국화의 계보를 정리한 동기창, 유럽 미술에 영향을 준 가쓰시카 호쿠사이 등 중요한 중국 및 일본의 화가들을 국외 편에 포함했다. 이 밖에 서양의 화가들 중에서는 라파엘로, 렘브란트와 같이 이미 우리에게 익숙한 화가는 물론이고, 사진작가 스티글리츠, 조각가 브랑쿠시 등 다시금 주목해야 할 작가들까지 여러 분야를 두루 다루었다."
+            }
+        ]
+    },
+    "info": {
+        "TOTAL_COUNT": "1",
+        "docs": [
+            {
+                "PUBLISHER": "청아출판사",
+                "DDC": "",
+                "UPDATE_DATE": "20131031",
+                "EA_ADD_CODE": "03900",
+                "PUBLISHER_URL": "",
+                "AUTHOR": "김영은",
+                "SERIES_TITLE": "",
+                "KDC": "",
+                "EDITION_STMT": "",
+                "BOOK_TB_CNT_URL": "",
+                "SET_ISBN": "",
+                "REAL_PUBLISH_DATE": "",
+                "TITLE_URL": "",
+                "PRE_PRICE": "29000",
+                "BOOK_INTRODUCTION_URL": "",
+                "DEPOSIT_YN": "Y",
+                "BOOK_SIZE": "",
+                "BOOK_SUMMARY_URL": "",
+                "EBOOK_YN": "N",
+                "REAL_PRICE": "",
+                "FORM": "",
+                "FORM_DETAIL": "",
+                "PAGE": "",
+                "CONTROL_NO": "",
+                "SERIES_NO": "",
+                "EA_ISBN": "9788936810504",
+                "INPUT_DATE": "20131002",
+                "SET_EXPRESSION": "",
+                "VOL": "",
+                "CIP_YN": "N",
+                "SUBJECT": "9",
+                "BIB_YN": "Y",
+                "TITLE": "미술사를 움직인 100인",
+                "PUBLISH_PREDATE": "20131015",
+                "RELATED_ISBN": "",
+                "SET_ADD_CODE": ""
+            }
+        ],
+        "PAGE_NO": "1"
+    }
+}
